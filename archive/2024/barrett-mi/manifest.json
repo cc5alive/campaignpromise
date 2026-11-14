@@ -1,0 +1,60 @@
+{
+  "name": "Tom Barrett",
+  "domains_tried": [
+    "tombarrettforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://tombarrettforcongress.com/",
+      "timestamp": "20241105184841",
+      "wayback": "https://web.archive.org/web/20241105184841/https://tombarrettforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105184841id_/https://tombarrettforcongress.com/",
+      "file": "archive/2024/barrett-mi/home.html",
+      "text_file": "archive/2024/barrett-mi/home.txt",
+      "bytes": 107265,
+      "sha256_html": "64167b706e0f312741667a183812f85bf575968ecbd7dd3359b583ab0cad8590",
+      "sha256_text": "ad16981576ca989706df54164b11713b6f80a0fa844aa7a2d2e312e6db44413f"
+    },
+    {
+      "original": "https://tombarrettforcongress.com/agenda",
+      "timestamp": "20241105184904",
+      "wayback": "https://web.archive.org/web/20241105184904/https://tombarrettforcongress.com/agenda",
+      "wayback_raw": "https://web.archive.org/web/20241105184904id_/https://tombarrettforcongress.com/agenda",
+      "file": "archive/2024/barrett-mi/agenda.html",
+      "text_file": "archive/2024/barrett-mi/agenda.txt",
+      "bytes": 151174,
+      "sha256_html": "d15d2ec5281263dafc79554d0ec387a45c05399278f4c5bb3ed29c21ae85a3a6",
+      "sha256_text": "ca59d656433d6f32943d01ec46a5c4913e4d73fa140b3cbcbf870bff40e77987"
+    },
+    {
+      "original": "https://tombarrettforcongress.com/issues",
+      "timestamp": "20241105184916",
+      "wayback": "https://web.archive.org/web/20241105184916/https://tombarrettforcongress.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105184916id_/https://tombarrettforcongress.com/issues",
+      "file": "archive/2024/barrett-mi/issues.html",
+      "text_file": "archive/2024/barrett-mi/issues.txt",
+      "bytes": 132675,
+      "sha256_html": "55b53aefb3e7975ac35c7136825c2c709f23ba5544e7c02f8bbecf2f7ecc94d0",
+      "sha256_text": "03ef68d73b220430dd264d36cbbeaf3b6fab11f0dccb67a8b5dfb966dd197b0e"
+    },
+    {
+      "original": "https://tombarrettforcongress.com/about",
+      "timestamp": "20241105184900",
+      "wayback": "https://web.archive.org/web/20241105184900/https://tombarrettforcongress.com/about",
+      "wayback_raw": "https://web.archive.org/web/20241105184900id_/https://tombarrettforcongress.com/about",
+      "file": "archive/2024/barrett-mi/about.html",
+      "text_file": "archive/2024/barrett-mi/about.txt",
+      "bytes": 146763,
+      "sha256_html": "6a18cd8989424140a79a0858a800dc187c24d9b8388b3e2bb9e6e3fc2bce287f",
+      "sha256_text": "201fb03c7a1fbb4952a965fd5abf272cd10b220238c1608c9f1dd757ebae1ae2"
+    }
+  ],
+  "snapshots_found": {
+    "tombarrettforcongress.com": 15
+  },
+  "generated_utc": "2026-11-14T16:02:34Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
