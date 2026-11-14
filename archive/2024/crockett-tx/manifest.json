@@ -1,0 +1,115 @@
+{
+  "name": "Jasmine Crockett",
+  "domains_tried": [
+    "jasmineforus.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.jasmineforus.com/",
+      "timestamp": "20241105205613",
+      "wayback": "https://web.archive.org/web/20241105205613/https://www.jasmineforus.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105205613id_/https://www.jasmineforus.com/",
+      "file": "archive/2024/crockett-tx/home.html",
+      "text_file": "archive/2024/crockett-tx/home.txt",
+      "bytes": 21498,
+      "sha256_html": "36657d2072761d2038dbdbb6cef7347e81889dc976bd03c8841abf4d51a44951",
+      "sha256_text": "142c3b26db80b78982d77807481c4cc39642e4348ffc1d36648a463dcceadfca"
+    },
+    {
+      "original": "https://www.jasmineforus.com/issues/",
+      "timestamp": "20241105210206",
+      "wayback": "https://web.archive.org/web/20241105210206/https://www.jasmineforus.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105210206id_/https://www.jasmineforus.com/issues/",
+      "file": "archive/2024/crockett-tx/issues.html",
+      "text_file": "archive/2024/crockett-tx/issues.txt",
+      "bytes": 46907,
+      "sha256_html": "b38457579765046bcc6dee4451725b0d2766e94670ba2abcc90d3d2b3cc78d5c",
+      "sha256_text": "9ddf9f66a6f229652eeeca0286923c01ce8b9af2e911531d25dad8ae3921da62"
+    },
+    {
+      "original": "https://www.jasmineforus.com/issues/embed/",
+      "timestamp": "20241105214844",
+      "wayback": "https://web.archive.org/web/20241105214844/https://www.jasmineforus.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241105214844id_/https://www.jasmineforus.com/issues/embed/",
+      "file": "archive/2024/crockett-tx/issues-embed.html",
+      "text_file": "archive/2024/crockett-tx/issues-embed.txt",
+      "bytes": 18940,
+      "sha256_html": "8b44dbe1262d0afdece73454bed2a68efa70cd595876f197e6b2547668a6143d",
+      "sha256_text": "8ecf896bc78ebee769ea73d50e3f790f1f09398f59c4ba4e220d8ce0a54fd9ca"
+    },
+    {
+      "original": "https://www.jasmineforus.com/issues/attachment/home-banner/",
+      "timestamp": "20241103131847",
+      "wayback": "https://web.archive.org/web/20241103131847/https://www.jasmineforus.com/issues/attachment/home-banner/",
+      "wayback_raw": "https://web.archive.org/web/20241103131847id_/https://www.jasmineforus.com/issues/attachment/home-banner/",
+      "file": "archive/2024/crockett-tx/issues-attachment-home-banner.html",
+      "text_file": "archive/2024/crockett-tx/issues-attachment-home-banner.txt",
+      "bytes": 19039,
+      "sha256_html": "764e82d8e020658b314c014cbcb10f6f1d0abe7a2801372b8611ce3743790192",
+      "sha256_text": "f07b51074f5e4d3d9dfd2009188c920f9e06cb252df452b7e91b9c6ea59a87c4"
+    },
+    {
+      "original": "https://www.jasmineforus.com/issues/attachment/issue-banner/",
+      "timestamp": "20241103021316",
+      "wayback": "https://web.archive.org/web/20241103021316/https://www.jasmineforus.com/issues/attachment/issue-banner/",
+      "wayback_raw": "https://web.archive.org/web/20241103021316id_/https://www.jasmineforus.com/issues/attachment/issue-banner/",
+      "file": "archive/2024/crockett-tx/issues-attachment-issue-banner.html",
+      "text_file": "archive/2024/crockett-tx/issues-attachment-issue-banner.txt",
+      "bytes": 19143,
+      "sha256_html": "1a367f90760e22b3c92faea1c387f479b37a441d800c404de4af92b9a29d972f",
+      "sha256_text": "7f3f2e4a4150f7be26d5a5e049740c7378cb3652cba102f3b9a0ebe3f475bce5"
+    },
+    {
+      "original": "https://www.jasmineforus.com/issues/attachment/oath/",
+      "timestamp": "20241103061014",
+      "wayback": "https://web.archive.org/web/20241103061014/https://www.jasmineforus.com/issues/attachment/oath/",
+      "wayback_raw": "https://web.archive.org/web/20241103061014id_/https://www.jasmineforus.com/issues/attachment/oath/",
+      "file": "archive/2024/crockett-tx/issues-attachment-oath.html",
+      "text_file": "archive/2024/crockett-tx/issues-attachment-oath.txt",
+      "bytes": 18942,
+      "sha256_html": "10b1a75755855c03a5ee2a46acbff356d2e0775c22f860177bde4f8c9391f007",
+      "sha256_text": "3bc7344aa488748a7cc60727904be05d830acfdba25eac32c99f15fc4524d3a4"
+    },
+    {
+      "original": "https://www.jasmineforus.com/issues/attachment/home-banner/embed/",
+      "timestamp": "20241104013831",
+      "wayback": "https://web.archive.org/web/20241104013831/https://www.jasmineforus.com/issues/attachment/home-banner/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241104013831id_/https://www.jasmineforus.com/issues/attachment/home-banner/embed/",
+      "file": "archive/2024/crockett-tx/issues-attachment-home-banner-embed.html",
+      "text_file": "archive/2024/crockett-tx/issues-attachment-home-banner-embed.txt",
+      "bytes": 19890,
+      "sha256_html": "237deab67a9d555eb0f5deb1e796bcc4ac2386bd0340cc3472c06a4da4a4716d",
+      "sha256_text": "e2997241c14196ee012e167b82519196527b19c1e9a2b83e67ee3911052d31dc"
+    },
+    {
+      "original": "https://www.jasmineforus.com/issues/attachment/issue-banner/embed/",
+      "timestamp": "20241104013819",
+      "wayback": "https://web.archive.org/web/20241104013819/https://www.jasmineforus.com/issues/attachment/issue-banner/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241104013819id_/https://www.jasmineforus.com/issues/attachment/issue-banner/embed/",
+      "file": "archive/2024/crockett-tx/issues-attachment-issue-banner-embed.html",
+      "text_file": "archive/2024/crockett-tx/issues-attachment-issue-banner-embed.txt",
+      "bytes": 20581,
+      "sha256_html": "4abfb7e04ccdef9a6f853df51ca82e98b5c98a50472c6a42a8cbc999c2d7e89d",
+      "sha256_text": "051f3d84aea90518af4f9d6c9670c31c0fca64b7b61cfa8ed48ef2a188ae4047"
+    },
+    {
+      "original": "https://www.jasmineforus.com/issues/attachment/oath/embed/",
+      "timestamp": "20241104013822",
+      "wayback": "https://web.archive.org/web/20241104013822/https://www.jasmineforus.com/issues/attachment/oath/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241104013822id_/https://www.jasmineforus.com/issues/attachment/oath/embed/",
+      "file": "archive/2024/crockett-tx/issues-attachment-oath-embed.html",
+      "text_file": "archive/2024/crockett-tx/issues-attachment-oath-embed.txt",
+      "bytes": 20195,
+      "sha256_html": "afedaa48cc1dde2cf592d3dce3d24d787c1b1f3d4f043aa21b8a165bc7f13a96",
+      "sha256_text": "96f9c4dd237301676f942574ba8e3fcd012755c3b049604e649758e0ca6ec3ff"
+    }
+  ],
+  "snapshots_found": {
+    "jasmineforus.com": 148
+  },
+  "generated_utc": "2026-11-14T08:48:24Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
