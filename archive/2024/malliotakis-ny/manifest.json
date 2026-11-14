@@ -1,0 +1,38 @@
+{
+  "name": "Nicole Malliotakis",
+  "domains_tried": [
+    "nicolemalliotakis.com"
+  ],
+  "pages": [
+    {
+      "original": "https://nicolemalliotakis.com/",
+      "timestamp": "20241105221800",
+      "wayback": "https://web.archive.org/web/20241105221800/https://nicolemalliotakis.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105221800id_/https://nicolemalliotakis.com/",
+      "file": "archive/2024/malliotakis-ny/home.html",
+      "text_file": "archive/2024/malliotakis-ny/home.txt",
+      "bytes": 149460,
+      "sha256_html": "c3dab7a00b028a8dfa155fbc7179a42d940ae1249d98e6fba645840ba2686293",
+      "sha256_text": "989940f1643c86cb8c2032f46b83b5f5f6ad7f9401104aa5970b371797491ed1"
+    },
+    {
+      "original": "https://nicolemalliotakis.com/issues/",
+      "timestamp": "20240815223846",
+      "wayback": "https://web.archive.org/web/20240815223846/https://nicolemalliotakis.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20240815223846id_/https://nicolemalliotakis.com/issues/",
+      "file": "archive/2024/malliotakis-ny/issues.html",
+      "text_file": "archive/2024/malliotakis-ny/issues.txt",
+      "bytes": 62840,
+      "sha256_html": "d592a6aed2420a101b974f66b87d66d5a415c4243f179cf00307c65af47a3e1a",
+      "sha256_text": "742221c6942a5381e16a0d1752f78294a94a926f56982156952419d6901e78da"
+    }
+  ],
+  "snapshots_found": {
+    "nicolemalliotakis.com": 1
+  },
+  "generated_utc": "2026-11-14T22:28:19Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
