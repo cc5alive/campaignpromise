@@ -1,0 +1,38 @@
+{
+  "name": "Timothy M. Kennedy",
+  "domains_tried": [
+    "kennedyforuscongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://kennedyforuscongress.com/",
+      "timestamp": "20241105220430",
+      "wayback": "https://web.archive.org/web/20241105220430/https://kennedyforuscongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105220430id_/https://kennedyforuscongress.com/",
+      "file": "archive/2024/kennedy-ny/home.html",
+      "text_file": "archive/2024/kennedy-ny/home.txt",
+      "bytes": 108834,
+      "sha256_html": "d6e59345c30291af8db1f762af7232ffda9709f776ddc62995800e0b9907e143",
+      "sha256_text": "11f3dbe8938fb7f496a06b9d72b4881aba951a2809da1ef0a688786aa4608e52"
+    },
+    {
+      "original": "https://kennedyforuscongress.com/issues/",
+      "timestamp": "20241105210953",
+      "wayback": "https://web.archive.org/web/20241105210953/https://kennedyforuscongress.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105210953id_/https://kennedyforuscongress.com/issues/",
+      "file": "archive/2024/kennedy-ny/issues.html",
+      "text_file": "archive/2024/kennedy-ny/issues.txt",
+      "bytes": 72395,
+      "sha256_html": "8181a9b3df5b147f6788478e74bebcd7878ba804eb45ac6f79d8089df3556884",
+      "sha256_text": "7c3f380a3e26fb5514bbc573221d85dd07466d53f5446fa1f83aa3c3d0bedf36"
+    }
+  ],
+  "snapshots_found": {
+    "kennedyforuscongress.com": 1
+  },
+  "generated_utc": "2026-11-14T17:12:01Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
