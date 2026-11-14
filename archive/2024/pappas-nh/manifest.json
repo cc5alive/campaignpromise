@@ -1,0 +1,49 @@
+{
+  "name": "Chris Pappas",
+  "domains_tried": [
+    "chrispappas.org"
+  ],
+  "pages": [
+    {
+      "original": "https://www.chrispappas.org/",
+      "timestamp": "20241105170209",
+      "wayback": "https://web.archive.org/web/20241105170209/https://www.chrispappas.org/",
+      "wayback_raw": "https://web.archive.org/web/20241105170209id_/https://www.chrispappas.org/",
+      "file": "archive/2024/pappas-nh/home.html",
+      "text_file": "archive/2024/pappas-nh/home.txt",
+      "bytes": 45353,
+      "sha256_html": "d348b91afcb1cac463787e7a83f3ad6414230f584e28a37e6c0548f286bacae9",
+      "sha256_text": "0ec01d34aed5537e531664f50e64a86d05bbe60c0b6b9da22e27d947d81c4705"
+    },
+    {
+      "original": "https://www.chrispappas.org/issues",
+      "timestamp": "20241105165836",
+      "wayback": "https://web.archive.org/web/20241105165836/https://www.chrispappas.org/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105165836id_/https://www.chrispappas.org/issues",
+      "file": "archive/2024/pappas-nh/issues.html",
+      "text_file": "archive/2024/pappas-nh/issues.txt",
+      "bytes": 87459,
+      "sha256_html": "9df25540fde516517e71080c42d34a574eda415e0c98ba118c3e5d8dca4a5047",
+      "sha256_text": "66255430190b7e0031855a63ff93bcbc814d35f82c5b9b4cfa20eaa9dc3b81bb"
+    },
+    {
+      "original": "https://www.chrispappas.org/about/",
+      "timestamp": "20241105171224",
+      "wayback": "https://web.archive.org/web/20241105171224/https://www.chrispappas.org/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105171224id_/https://www.chrispappas.org/about/",
+      "file": "archive/2024/pappas-nh/about.html",
+      "text_file": "archive/2024/pappas-nh/about.txt",
+      "bytes": 42311,
+      "sha256_html": "f0fec8a56bef4ff911dd7b0de12e23ebfadfdb1944868840a964ae9cc885014e",
+      "sha256_text": "effcbe0b8aaf92e3f1e6e143bd4d1c41e29ac210d4d79d541803aef4fc02c926"
+    }
+  ],
+  "snapshots_found": {
+    "chrispappas.org": 31
+  },
+  "generated_utc": "2026-11-14T22:36:08Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
