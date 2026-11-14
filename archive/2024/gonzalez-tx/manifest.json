@@ -1,0 +1,49 @@
+{
+  "name": "Vicente Gonzalez",
+  "domains_tried": [
+    "vicentegonzalez.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.vicentegonzalez.com/",
+      "timestamp": "20241105130249",
+      "wayback": "https://web.archive.org/web/20241105130249/https://www.vicentegonzalez.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105130249id_/https://www.vicentegonzalez.com/",
+      "file": "archive/2024/gonzalez-tx/home.html",
+      "text_file": "archive/2024/gonzalez-tx/home.txt",
+      "bytes": 468470,
+      "sha256_html": "ef77d4770684e0f1ce7967a6baa4ab87e16aa73357420f71d0b0dc51766918b0",
+      "sha256_text": "2da0560ab4bb72d970b1dd6c45c5b9a3615db19aa40839d14b7fe8415b89abb7"
+    },
+    {
+      "original": "https://www.vicentegonzalez.com/copy-of-standing-up-for-women-families",
+      "timestamp": "20241031023717",
+      "wayback": "https://web.archive.org/web/20241031023717/https://www.vicentegonzalez.com/copy-of-standing-up-for-women-families",
+      "wayback_raw": "https://web.archive.org/web/20241031023717id_/https://www.vicentegonzalez.com/copy-of-standing-up-for-women-families",
+      "file": "archive/2024/gonzalez-tx/copy-of-standing-up-for-women-families.html",
+      "text_file": "archive/2024/gonzalez-tx/copy-of-standing-up-for-women-families.txt",
+      "bytes": 369097,
+      "sha256_html": "55c22a6a1913c982e2b9942c483e8631a0bb37b2d22a5578975f672c14196763",
+      "sha256_text": "8bea4de1bc1ba9281fa9e6acfd880878f2f0c00f16c42fe1512568819b52d6a5"
+    },
+    {
+      "original": "https://www.vicentegonzalez.com/issues",
+      "timestamp": "20241105130256",
+      "wayback": "https://web.archive.org/web/20241105130256/https://www.vicentegonzalez.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105130256id_/https://www.vicentegonzalez.com/issues",
+      "file": "archive/2024/gonzalez-tx/issues.html",
+      "text_file": "archive/2024/gonzalez-tx/issues.txt",
+      "bytes": 491806,
+      "sha256_html": "df1ee6753daaa32952c9cab0725a9ac75a387d5558aab3c3952f88a1873e49e9",
+      "sha256_text": "168ab5ed657615c27a184323091ef854ec20dfe47a84c751fc6effb2e3e6e096"
+    }
+  ],
+  "snapshots_found": {
+    "vicentegonzalez.com": 16
+  },
+  "generated_utc": "2026-11-14T17:18:34Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
