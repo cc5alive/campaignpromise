@@ -11,8 +11,8 @@
       "wayback_raw": "https://web.archive.org/web/20241105160059id_/https://marieforcongress.com/",
       "file": "archive/2024/mgp/home.html",
       "text_file": "archive/2024/mgp/home.txt",
-      "bytes": 221536,
-      "sha256_html": "d6ba644f316a2e58d4e99113b7846f5b06d4d90b4a6457e69921d4bb541c01b0",
+      "bytes": 222009,
+      "sha256_html": "9ad70921192d076cd0371206a9ab037452e06424276713f3b8f182f72d9ff0bf",
       "sha256_text": "fb57187dea475711869e02cf9eb53021963ae9e5450f7c58241e507970cd92e5"
     },
     {
@@ -36,12 +36,23 @@
       "bytes": 21408,
       "sha256_html": "e49ac83681388d9e8b7e83821f0596e6529fec58674054d7acddb9bcf40c8a98",
       "sha256_text": "acfe1355977edae11d260a8ad32228989ad4534b67688af68d527d6f8a36e16b"
+    },
+    {
+      "original": "https://marieforcongress.com/about/",
+      "timestamp": "20241104225325",
+      "wayback": "https://web.archive.org/web/20241104225325/https://marieforcongress.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241104225325id_/https://marieforcongress.com/about/",
+      "file": "archive/2024/mgp/about.html",
+      "text_file": "archive/2024/mgp/about.txt",
+      "bytes": 223854,
+      "sha256_html": "94123db67d77cf756041af10f81e62fbd9d35789c641c39245eb8e02e1966ac4",
+      "sha256_text": "0d466b6481ea8a4094a5cba2283a375e96564f49392b31229f1781b408984252"
     }
   ],
   "snapshots_found": {
     "marieforcongress.com": 25
   },
-  "generated_utc": "2026-11-14T07:49:17Z",
+  "generated_utc": "2026-11-14T08:04:49Z",
   "window": {
     "from": "20240801",
     "to": "20241105"
