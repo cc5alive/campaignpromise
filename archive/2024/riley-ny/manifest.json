@@ -1,0 +1,93 @@
+{
+  "name": "Josh Riley",
+  "domains_tried": [
+    "joshrileyforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.joshrileyforcongress.com/",
+      "timestamp": "20241105160143",
+      "wayback": "https://web.archive.org/web/20241105160143/https://www.joshrileyforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105160143id_/https://www.joshrileyforcongress.com/",
+      "file": "archive/2024/riley-ny/home.html",
+      "text_file": "archive/2024/riley-ny/home.txt",
+      "bytes": 91524,
+      "sha256_html": "c4b4875f413dba04e177cb694bd8a3d379c7cf68f93edc1544c48be74346bf27",
+      "sha256_text": "8586ccddc3d37302ced1ce6bba70487936e62874e56a4fa8ac1475733a2dda3e"
+    },
+    {
+      "original": "https://joshrileyforcongress.com/policy-positions/",
+      "timestamp": "20241105155025",
+      "wayback": "https://web.archive.org/web/20241105155025/https://joshrileyforcongress.com/policy-positions/",
+      "wayback_raw": "https://web.archive.org/web/20241105155025id_/https://joshrileyforcongress.com/policy-positions/",
+      "file": "archive/2024/riley-ny/policy-positions.html",
+      "text_file": "archive/2024/riley-ny/policy-positions.txt",
+      "bytes": 95368,
+      "sha256_html": "6238595e603293a461f5c53a1a7b44c0d2856ee279b42c5f8a1c241d628bd8a7",
+      "sha256_text": "014f4bc47dfe350369a6814a6b37ca531d1929834f065d03cfcc55665a4cd766"
+    },
+    {
+      "original": "https://joshrileyforcongress.com/policy-positions/embed/",
+      "timestamp": "20241101002548",
+      "wayback": "https://web.archive.org/web/20241101002548/https://joshrileyforcongress.com/policy-positions/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241101002548id_/https://joshrileyforcongress.com/policy-positions/embed/",
+      "file": "archive/2024/riley-ny/policy-positions-embed.html",
+      "text_file": "archive/2024/riley-ny/policy-positions-embed.txt",
+      "bytes": 20644,
+      "sha256_html": "a65adecf0d45105b6740d7ba9ccdb37c01f4e0695d7ab420d7575aa0686ccebf",
+      "sha256_text": "60c0b45bbbfdf9b8d700f55eae58006eafba91f2531d9bf8a18e37d227fb4fb9"
+    },
+    {
+      "original": "https://www.joshrileyforcongress.com/press/ny-19-debate-draws-clear-contrast-on-issues/",
+      "timestamp": "20241105155205",
+      "wayback": "https://web.archive.org/web/20241105155205/https://www.joshrileyforcongress.com/press/ny-19-debate-draws-clear-contrast-on-issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105155205id_/https://www.joshrileyforcongress.com/press/ny-19-debate-draws-clear-contrast-on-issues/",
+      "file": "archive/2024/riley-ny/press-ny-19-debate-draws-clear-contrast-on-issues.html",
+      "text_file": "archive/2024/riley-ny/press-ny-19-debate-draws-clear-contrast-on-issues.txt",
+      "bytes": 57001,
+      "sha256_html": "7d034f1880a5248fd9948a7364ebc9a094f12d567688f639c73fdce3b2b90557",
+      "sha256_text": "7fff061f540654d88fd7db190554348c51ce92a267e5a292e7294a2f057a691e"
+    },
+    {
+      "original": "https://www.joshrileyforcongress.com/press/riley-releases-new-tv-ad-and-website-highlighting-molinaros-anti-abortion-record/",
+      "timestamp": "20241105155117",
+      "wayback": "https://web.archive.org/web/20241105155117/https://www.joshrileyforcongress.com/press/riley-releases-new-tv-ad-and-website-highlighting-molinaros-anti-abortion-record/",
+      "wayback_raw": "https://web.archive.org/web/20241105155117id_/https://www.joshrileyforcongress.com/press/riley-releases-new-tv-ad-and-website-highlighting-molinaros-anti-abortion-record/",
+      "file": "archive/2024/riley-ny/press-riley-releases-new-tv-ad-and-website-highlighting-molinaros-anti-abortion-record.html",
+      "text_file": "archive/2024/riley-ny/press-riley-releases-new-tv-ad-and-website-highlighting-molinaros-anti-abortion-record.txt",
+      "bytes": 59922,
+      "sha256_html": "2dafb738ef74186e280c2c149535f563b21fb50460274077ba1529f50f18ab25",
+      "sha256_text": "5f2ef2fba93b4d2d89cc8b1f3e6c1fe6d1ae6157f5310880334296adea15b025"
+    },
+    {
+      "original": "https://joshrileyforcongress.com/press/ny-19-debate-draws-clear-contrast-on-issues/embed/",
+      "timestamp": "20241103111107",
+      "wayback": "https://web.archive.org/web/20241103111107/https://joshrileyforcongress.com/press/ny-19-debate-draws-clear-contrast-on-issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241103111107id_/https://joshrileyforcongress.com/press/ny-19-debate-draws-clear-contrast-on-issues/embed/",
+      "file": "archive/2024/riley-ny/press-ny-19-debate-draws-clear-contrast-on-issues-embed.html",
+      "text_file": "archive/2024/riley-ny/press-ny-19-debate-draws-clear-contrast-on-issues-embed.txt",
+      "bytes": 20670,
+      "sha256_html": "9f9746db2b159a612b22c87c1bc0c6b722d6c08a88319cb58bdf0276b0a2de75",
+      "sha256_text": "fc89b7a75e1e61deaf7955753360b233356312939b548ad08bdbe83a48aee688"
+    },
+    {
+      "original": "https://joshrileyforcongress.com/press/riley-releases-new-tv-ad-and-website-highlighting-molinaros-anti-abortion-record/embed/",
+      "timestamp": "20241103111119",
+      "wayback": "https://web.archive.org/web/20241103111119/https://joshrileyforcongress.com/press/riley-releases-new-tv-ad-and-website-highlighting-molinaros-anti-abortion-record/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241103111119id_/https://joshrileyforcongress.com/press/riley-releases-new-tv-ad-and-website-highlighting-molinaros-anti-abortion-record/embed/",
+      "file": "archive/2024/riley-ny/press-riley-releases-new-tv-ad-and-website-highlighting-molinaros-anti-abortion-record-embed.html",
+      "text_file": "archive/2024/riley-ny/press-riley-releases-new-tv-ad-and-website-highlighting-molinaros-anti-abortion-record-embed.txt",
+      "bytes": 21156,
+      "sha256_html": "1e373986806e6a76522accc65882371a27d5c7c77ab466e63a096acd43aa414d",
+      "sha256_text": "bf31c1205f514fdf945530c3d7837a834cb2954a2925e38d185a16e417996a8b"
+    }
+  ],
+  "snapshots_found": {
+    "joshrileyforcongress.com": 133
+  },
+  "generated_utc": "2026-11-14T17:04:55Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
