@@ -1,0 +1,148 @@
+{
+  "name": "Rashida Tlaib",
+  "domains_tried": [
+    "rashidaforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://rashidaforcongress.com/",
+      "timestamp": "20241105170900",
+      "wayback": "https://web.archive.org/web/20241105170900/https://rashidaforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105170900id_/https://rashidaforcongress.com/",
+      "file": "archive/2024/tlaib-mi/home.html",
+      "text_file": "archive/2024/tlaib-mi/home.txt",
+      "bytes": 50768,
+      "sha256_html": "0994dcf6b4a4b27bd062d20269c1a9c498dd34e55c87b3b8f693c93d9614de42",
+      "sha256_text": "7b905ca8ff94edd0bcb2c8f4e7ca179846280a55fb58acba32b0c73a23fb00f5"
+    },
+    {
+      "original": "https://rashidaforcongress.com/issues/",
+      "timestamp": "20241105151420",
+      "wayback": "https://web.archive.org/web/20241105151420/https://rashidaforcongress.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105151420id_/https://rashidaforcongress.com/issues/",
+      "file": "archive/2024/tlaib-mi/issues.html",
+      "text_file": "archive/2024/tlaib-mi/issues.txt",
+      "bytes": 46241,
+      "sha256_html": "fea5a42146ceaf814178408ec63b44c92b1315a793fd6d98c3ca0063ab8d9833",
+      "sha256_text": "2e9b35dd3d53f61c8bfb8504c1be8a7b2a72de39a51053c86a05c73aac699e5f"
+    },
+    {
+      "original": "https://rashidaforcongress.com/issues/economic-and-housing-justice/",
+      "timestamp": "20241105151421",
+      "wayback": "https://web.archive.org/web/20241105151421/https://rashidaforcongress.com/issues/economic-and-housing-justice/",
+      "wayback_raw": "https://web.archive.org/web/20241105151421id_/https://rashidaforcongress.com/issues/economic-and-housing-justice/",
+      "file": "archive/2024/tlaib-mi/issues-economic-and-housing-justice.html",
+      "text_file": "archive/2024/tlaib-mi/issues-economic-and-housing-justice.txt",
+      "bytes": 61018,
+      "sha256_html": "1c6ccb694712ea4d4340fb5d6a5202f263351680155f02b4acca351d6a98fb9e",
+      "sha256_text": "aa1196425d87faa156a963c052b30f6af9530c7fe903569c32c3d1a743652529"
+    },
+    {
+      "original": "https://rashidaforcongress.com/issues/environmental-justice/",
+      "timestamp": "20241105151413",
+      "wayback": "https://web.archive.org/web/20241105151413/https://rashidaforcongress.com/issues/environmental-justice/",
+      "wayback_raw": "https://web.archive.org/web/20241105151413id_/https://rashidaforcongress.com/issues/environmental-justice/",
+      "file": "archive/2024/tlaib-mi/issues-environmental-justice.html",
+      "text_file": "archive/2024/tlaib-mi/issues-environmental-justice.txt",
+      "bytes": 55002,
+      "sha256_html": "2c075a0cec2529612e6b53d97f769be299c938bcf30d7cc45c95742b17f68594",
+      "sha256_text": "2cc55596a6e00bb61b1345305ba49aa79be6b3153f99e8cd4fecc3a360519a0c"
+    },
+    {
+      "original": "https://rashidaforcongress.com/issues/healthcare-for-all/",
+      "timestamp": "20241105151445",
+      "wayback": "https://web.archive.org/web/20241105151445/https://rashidaforcongress.com/issues/healthcare-for-all/",
+      "wayback_raw": "https://web.archive.org/web/20241105151445id_/https://rashidaforcongress.com/issues/healthcare-for-all/",
+      "file": "archive/2024/tlaib-mi/issues-healthcare-for-all.html",
+      "text_file": "archive/2024/tlaib-mi/issues-healthcare-for-all.txt",
+      "bytes": 51973,
+      "sha256_html": "c31405185c1f6fe599e1d39af5cbd3e2a1b2acc4d6e8bbb2a388f5f749264b4f",
+      "sha256_text": "702055057ff96d21654c137af02f4f82a13ff1c2509d3fe4ec8b45c8da521a34"
+    },
+    {
+      "original": "https://rashidaforcongress.com/issues/human-rights-around-the-world/",
+      "timestamp": "20241105151445",
+      "wayback": "https://web.archive.org/web/20241105151445/https://rashidaforcongress.com/issues/human-rights-around-the-world/",
+      "wayback_raw": "https://web.archive.org/web/20241105151445id_/https://rashidaforcongress.com/issues/human-rights-around-the-world/",
+      "file": "archive/2024/tlaib-mi/issues-human-rights-around-the-world.html",
+      "text_file": "archive/2024/tlaib-mi/issues-human-rights-around-the-world.txt",
+      "bytes": 51653,
+      "sha256_html": "3bf9a40caee2c98546d9a20b0c9f50e7ee5c7ad7759e8ed65b1b1ad665e59487",
+      "sha256_text": "5ad578d9d28fd80d6b0bf08eea1385631ba8f9986b614a2868808416180d904f"
+    },
+    {
+      "original": "https://rashidaforcongress.com/issues/lgbtq-and-gender-justice/",
+      "timestamp": "20241105151412",
+      "wayback": "https://web.archive.org/web/20241105151412/https://rashidaforcongress.com/issues/lgbtq-and-gender-justice/",
+      "wayback_raw": "https://web.archive.org/web/20241105151412id_/https://rashidaforcongress.com/issues/lgbtq-and-gender-justice/",
+      "file": "archive/2024/tlaib-mi/issues-lgbtq-and-gender-justice.html",
+      "text_file": "archive/2024/tlaib-mi/issues-lgbtq-and-gender-justice.txt",
+      "bytes": 56242,
+      "sha256_html": "33c7be9a0ccbd82d0ff0da23166b510fa8cebdacdcb84ab3e5994d5c68c2d167",
+      "sha256_text": "97291d1d003d2e8fa7fab81c1834789ace563717e2558b71319d4017d80d1f1e"
+    },
+    {
+      "original": "https://rashidaforcongress.com/issues/racial-and-immigration-justice/",
+      "timestamp": "20241105151417",
+      "wayback": "https://web.archive.org/web/20241105151417/https://rashidaforcongress.com/issues/racial-and-immigration-justice/",
+      "wayback_raw": "https://web.archive.org/web/20241105151417id_/https://rashidaforcongress.com/issues/racial-and-immigration-justice/",
+      "file": "archive/2024/tlaib-mi/issues-racial-and-immigration-justice.html",
+      "text_file": "archive/2024/tlaib-mi/issues-racial-and-immigration-justice.txt",
+      "bytes": 54220,
+      "sha256_html": "6df7b73c31939d8d74cdec3cd1038a665e9383ff9a1c14661f04b0e81bab42d7",
+      "sha256_text": "71c7f015a9d551206fe010fe05f0c720d6cfaa95db987fb0147629df0cd67f75"
+    },
+    {
+      "original": "https://rashidaforcongress.com/issues/economic-and-housing-justice/embed/",
+      "timestamp": "20241104042235",
+      "wayback": "https://web.archive.org/web/20241104042235/https://rashidaforcongress.com/issues/economic-and-housing-justice/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241104042235id_/https://rashidaforcongress.com/issues/economic-and-housing-justice/embed/",
+      "file": "archive/2024/tlaib-mi/issues-economic-and-housing-justice-embed.html",
+      "text_file": "archive/2024/tlaib-mi/issues-economic-and-housing-justice-embed.txt",
+      "bytes": 20893,
+      "sha256_html": "f7ce531210fa8f261742cd7969e1d64243bddc7383e2f32213246a7ab5b18395",
+      "sha256_text": "a171fc2afb5b794722a09c929dd7ab36158dcc580f697fe1dea605c11caf536a"
+    },
+    {
+      "original": "https://rashidaforcongress.com/issues/environmental-justice/embed/",
+      "timestamp": "20241104042509",
+      "wayback": "https://web.archive.org/web/20241104042509/https://rashidaforcongress.com/issues/environmental-justice/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241104042509id_/https://rashidaforcongress.com/issues/environmental-justice/embed/",
+      "file": "archive/2024/tlaib-mi/issues-environmental-justice-embed.html",
+      "text_file": "archive/2024/tlaib-mi/issues-environmental-justice-embed.txt",
+      "bytes": 20777,
+      "sha256_html": "c1c3ff9317cc47e29a0ef5b052d3d4b439ef65013297d719e612dcceadd4ad77",
+      "sha256_text": "eef12f3992f40230af908b35db6ccb20a6a930fa0a40858730a04eb6c43578d4"
+    },
+    {
+      "original": "https://rashidaforcongress.com/issues/healthcare-for-all/embed/",
+      "timestamp": "20241104074038",
+      "wayback": "https://web.archive.org/web/20241104074038/https://rashidaforcongress.com/issues/healthcare-for-all/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241104074038id_/https://rashidaforcongress.com/issues/healthcare-for-all/embed/",
+      "file": "archive/2024/tlaib-mi/issues-healthcare-for-all-embed.html",
+      "text_file": "archive/2024/tlaib-mi/issues-healthcare-for-all-embed.txt",
+      "bytes": 20761,
+      "sha256_html": "120ae1ad0b63269c92d1f50de6d7aa340e37a07eab2f3c6ce6d54b580c0fe719",
+      "sha256_text": "30243a28c8266ca27305b3df6a6a43aa32c7dc6e7e99e8b17e92c6a430613434"
+    },
+    {
+      "original": "https://rashidaforcongress.com/issues/human-rights-around-the-world/embed/",
+      "timestamp": "20241104074141",
+      "wayback": "https://web.archive.org/web/20241104074141/https://rashidaforcongress.com/issues/human-rights-around-the-world/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241104074141id_/https://rashidaforcongress.com/issues/human-rights-around-the-world/embed/",
+      "file": "archive/2024/tlaib-mi/issues-human-rights-around-the-world-embed.html",
+      "text_file": "archive/2024/tlaib-mi/issues-human-rights-around-the-world-embed.txt",
+      "bytes": 20835,
+      "sha256_html": "6c5a85e8ef1b8962661c987882fd1f4e9b7bcad70fb1978c1523165b93c51b5e",
+      "sha256_text": "7bc223c6fbe85de55827a29f5494212556f5bc47ba5416d1efb2966a8ba90891"
+    }
+  ],
+  "snapshots_found": {
+    "rashidaforcongress.com": 56
+  },
+  "generated_utc": "2026-11-14T08:46:29Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
