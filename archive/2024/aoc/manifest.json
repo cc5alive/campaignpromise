@@ -47,12 +47,23 @@
       "bytes": 19133,
       "sha256_html": "f99b7d9636d6ddf13ef3757f1a924664b928f72fc02de9b9a26af50ad63ec8a4",
       "sha256_text": "95428eb10deff5994b86ec3f3156491859804bf2be61678f5f8988e1b5495442"
+    },
+    {
+      "original": "https://www.ocasiocortez.com/about",
+      "timestamp": "20241105205625",
+      "wayback": "https://web.archive.org/web/20241105205625/https://www.ocasiocortez.com/about",
+      "wayback_raw": "https://web.archive.org/web/20241105205625id_/https://www.ocasiocortez.com/about",
+      "file": "archive/2024/aoc/about.html",
+      "text_file": "archive/2024/aoc/about.txt",
+      "bytes": 42464,
+      "sha256_html": "5bf6e611a896aa6b8ed3e749744ed0d2a3dc986cbc72cec55be7efc5fa8cae36",
+      "sha256_text": "d5ceff5560e18ff059ff12aad8cbfde50a970c1685511919ab509feeeac231e8"
     }
   ],
   "snapshots_found": {
     "ocasiocortez.com": 26
   },
-  "generated_utc": "2026-11-14T07:48:05Z",
+  "generated_utc": "2026-11-14T08:02:37Z",
   "window": {
     "from": "20240801",
     "to": "20241105"
