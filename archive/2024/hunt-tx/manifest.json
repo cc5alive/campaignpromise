@@ -1,0 +1,60 @@
+{
+  "name": "Wesley Hunt",
+  "domains_tried": [
+    "wesleyfortexas.com"
+  ],
+  "pages": [
+    {
+      "original": "https://wesleyfortexas.com/",
+      "timestamp": "20241105160319",
+      "wayback": "https://web.archive.org/web/20241105160319/https://wesleyfortexas.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105160319id_/https://wesleyfortexas.com/",
+      "file": "archive/2024/hunt-tx/home.html",
+      "text_file": "archive/2024/hunt-tx/home.txt",
+      "bytes": 390426,
+      "sha256_html": "3be5d778c730aee20d16395ea15eed7f0fe9918014f6221ca390cf619f27e2eb",
+      "sha256_text": "caf4318d55fe8abd5c441411216ef0835290eb86b889d381924ccd29740754b5"
+    },
+    {
+      "original": "https://wesleyfortexas.com/for-release-wesley-hunt-statement-on-biden-issued-export-licenses-to-huawei-suppliers-worth-over-100-billion/",
+      "timestamp": "20241105150249",
+      "wayback": "https://web.archive.org/web/20241105150249/https://wesleyfortexas.com/for-release-wesley-hunt-statement-on-biden-issued-export-licenses-to-huawei-suppliers-worth-over-100-billion/",
+      "wayback_raw": "https://web.archive.org/web/20241105150249id_/https://wesleyfortexas.com/for-release-wesley-hunt-statement-on-biden-issued-export-licenses-to-huawei-suppliers-worth-over-100-billion/",
+      "file": "archive/2024/hunt-tx/for-release-wesley-hunt-statement-on-biden-issued-export-licenses-to-huawei-suppliers-worth-over-100-billion.html",
+      "text_file": "archive/2024/hunt-tx/for-release-wesley-hunt-statement-on-biden-issued-export-licenses-to-huawei-suppliers-worth-over-100-billion.txt",
+      "bytes": 416838,
+      "sha256_html": "f5f0ba33ead09a523883b49c6cd293f312eef7a93c32b1ce47002d45acb77ec6",
+      "sha256_text": "991059d165c7cf6ccf43aab8e9db041e9c6fc2095ffcfa1fef3d722daf7ef82c"
+    },
+    {
+      "original": "https://wesleyfortexas.com/wesley-hunt-op-ed-on-bidens-destructive-energy-policies/",
+      "timestamp": "20241105150222",
+      "wayback": "https://web.archive.org/web/20241105150222/https://wesleyfortexas.com/wesley-hunt-op-ed-on-bidens-destructive-energy-policies/",
+      "wayback_raw": "https://web.archive.org/web/20241105150222id_/https://wesleyfortexas.com/wesley-hunt-op-ed-on-bidens-destructive-energy-policies/",
+      "file": "archive/2024/hunt-tx/wesley-hunt-op-ed-on-bidens-destructive-energy-policies.html",
+      "text_file": "archive/2024/hunt-tx/wesley-hunt-op-ed-on-bidens-destructive-energy-policies.txt",
+      "bytes": 419016,
+      "sha256_html": "d72bcca9e1963a758c8bd09555aecc4ba088d9f5a5291f7bc38087296ab4c416",
+      "sha256_text": "4742506e84dae02623924a610675e6bdf40ae4cb1479521a1ee9c1b7c81415ab"
+    },
+    {
+      "original": "https://wesleyfortexas.com/wesley-on-the-issues/",
+      "timestamp": "20241105145348",
+      "wayback": "https://web.archive.org/web/20241105145348/https://wesleyfortexas.com/wesley-on-the-issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105145348id_/https://wesleyfortexas.com/wesley-on-the-issues/",
+      "file": "archive/2024/hunt-tx/wesley-on-the-issues.html",
+      "text_file": "archive/2024/hunt-tx/wesley-on-the-issues.txt",
+      "bytes": 350052,
+      "sha256_html": "9d375a63104370d91b6255423f3bea996dfe10d8e62e813a21b9b7eb9f5d6887",
+      "sha256_text": "e2ba2302ea565d8171d7734646018f1903d4012c0b3830db0ec33dcd1f178ee4"
+    }
+  ],
+  "snapshots_found": {
+    "wesleyfortexas.com": 52
+  },
+  "generated_utc": "2026-11-14T22:35:18Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
