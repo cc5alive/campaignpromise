@@ -1,0 +1,149 @@
+{
+  "name": "Hakeem S. Jeffries",
+  "domains_tried": [
+    "hakeemjeffries.com",
+    "hakeemjeffries.org"
+  ],
+  "pages": [
+    {
+      "original": "https://hakeemjeffries.com/",
+      "timestamp": "20241105093443",
+      "wayback": "https://web.archive.org/web/20241105093443/https://hakeemjeffries.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105093443id_/https://hakeemjeffries.com/",
+      "file": "archive/2024/jeffries-ny/home.html",
+      "text_file": "archive/2024/jeffries-ny/home.txt",
+      "bytes": 150666,
+      "sha256_html": "7b63487f44e891ccdc0c967c8e3e1247a54ac002ebf1ecab8ab71d5a379fd9c0",
+      "sha256_text": "016ac8e7734e716737e1a697f19458ea5c660733c331f8f7ca7b9e0ea7169bf8"
+    },
+    {
+      "original": "https://hakeemjeffries.com/issues/",
+      "timestamp": "20241105093439",
+      "wayback": "https://web.archive.org/web/20241105093439/https://hakeemjeffries.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105093439id_/https://hakeemjeffries.com/issues/",
+      "file": "archive/2024/jeffries-ny/issues.html",
+      "text_file": "archive/2024/jeffries-ny/issues.txt",
+      "bytes": 88712,
+      "sha256_html": "9dcbc188c50c748d9072206779398ae75184fa7c92a5f98097713450720ccc85",
+      "sha256_text": "317a32b542fe673e1102a9c1778e5f1a9fe5382f6f8e0aa21258a9c7fee59f37"
+    },
+    {
+      "original": "https://hakeemjeffries.com/issue/affordable-housing/",
+      "timestamp": "20241105094638",
+      "wayback": "https://web.archive.org/web/20241105094638/https://hakeemjeffries.com/issue/affordable-housing/",
+      "wayback_raw": "https://web.archive.org/web/20241105094638id_/https://hakeemjeffries.com/issue/affordable-housing/",
+      "file": "archive/2024/jeffries-ny/issue-affordable-housing.html",
+      "text_file": "archive/2024/jeffries-ny/issue-affordable-housing.txt",
+      "bytes": 89828,
+      "sha256_html": "c992d0e7701f42aea62425105fce21203dac6daf0ea10c6a17d7a942e860de00",
+      "sha256_text": "c74259199ceb0ec84f0f38e6c0b705e5fcebf8214d4d9e59cd314409ebeef5be"
+    },
+    {
+      "original": "https://hakeemjeffries.com/issue/better-paying-jobs/",
+      "timestamp": "20241105094637",
+      "wayback": "https://web.archive.org/web/20241105094637/https://hakeemjeffries.com/issue/better-paying-jobs/",
+      "wayback_raw": "https://web.archive.org/web/20241105094637id_/https://hakeemjeffries.com/issue/better-paying-jobs/",
+      "file": "archive/2024/jeffries-ny/issue-better-paying-jobs.html",
+      "text_file": "archive/2024/jeffries-ny/issue-better-paying-jobs.txt",
+      "bytes": 90042,
+      "sha256_html": "7fdef411f82cae36d847999d21ac41f5a5caf09b93374789d61dc6f4a0730d44",
+      "sha256_text": "80e48bf5e6b5d9d9fd1a856a8556cdc89140d511ab33926711f6f94fcce47083"
+    },
+    {
+      "original": "https://hakeemjeffries.com/issue/criminal-justice/",
+      "timestamp": "20241105094638",
+      "wayback": "https://web.archive.org/web/20241105094638/https://hakeemjeffries.com/issue/criminal-justice/",
+      "wayback_raw": "https://web.archive.org/web/20241105094638id_/https://hakeemjeffries.com/issue/criminal-justice/",
+      "file": "archive/2024/jeffries-ny/issue-criminal-justice.html",
+      "text_file": "archive/2024/jeffries-ny/issue-criminal-justice.txt",
+      "bytes": 89717,
+      "sha256_html": "8b48ca22885fbd48c3e0230cf362e60326d9b07b5892f8c1112aad4d4990051d",
+      "sha256_text": "df4d25b1f5d36aa158b765a1edc6c4179301686edd01d1cef96046c8567b57bb"
+    },
+    {
+      "original": "https://hakeemjeffries.com/issue/lower-costs/",
+      "timestamp": "20241105094639",
+      "wayback": "https://web.archive.org/web/20241105094639/https://hakeemjeffries.com/issue/lower-costs/",
+      "wayback_raw": "https://web.archive.org/web/20241105094639id_/https://hakeemjeffries.com/issue/lower-costs/",
+      "file": "archive/2024/jeffries-ny/issue-lower-costs.html",
+      "text_file": "archive/2024/jeffries-ny/issue-lower-costs.txt",
+      "bytes": 90013,
+      "sha256_html": "916a3ad735d16d7093e451aa053496536d3159c5b5ccd70c3540a4116345cef7",
+      "sha256_text": "00770b815acb4b4409045438caee2b43107667158e18d12088332ba673a4773a"
+    },
+    {
+      "original": "https://hakeemjeffries.com/issue/reproductive-freedom/",
+      "timestamp": "20241105094637",
+      "wayback": "https://web.archive.org/web/20241105094637/https://hakeemjeffries.com/issue/reproductive-freedom/",
+      "wayback_raw": "https://web.archive.org/web/20241105094637id_/https://hakeemjeffries.com/issue/reproductive-freedom/",
+      "file": "archive/2024/jeffries-ny/issue-reproductive-freedom.html",
+      "text_file": "archive/2024/jeffries-ny/issue-reproductive-freedom.txt",
+      "bytes": 89626,
+      "sha256_html": "c1c8ae2148c6786a7a27adcb6a42f48e5f82416d8329179ae473ed24469ba099",
+      "sha256_text": "0246287dc08f97d0ad4ad9d42959a63bc3611a622d8ba362491d1a12139f5618"
+    },
+    {
+      "original": "https://hakeemjeffries.com/issue/safer-communities/",
+      "timestamp": "20241105094636",
+      "wayback": "https://web.archive.org/web/20241105094636/https://hakeemjeffries.com/issue/safer-communities/",
+      "wayback_raw": "https://web.archive.org/web/20241105094636id_/https://hakeemjeffries.com/issue/safer-communities/",
+      "file": "archive/2024/jeffries-ny/issue-safer-communities.html",
+      "text_file": "archive/2024/jeffries-ny/issue-safer-communities.txt",
+      "bytes": 89964,
+      "sha256_html": "a7e5d1f2deb04be327ebcd9f5144f5825f07c8a90df334eaf99da3b7c5ad81dd",
+      "sha256_text": "148ad1eb6572b1ebc9fc3c2dff00cdacb2a2916521253fd3ff375fa6d7aee534"
+    },
+    {
+      "original": "https://hakeemjeffries.com/news/chairman-hakeem-jeffries-endorsed-by-planned-parenthood-action-fund/",
+      "timestamp": "20241105094454",
+      "wayback": "https://web.archive.org/web/20241105094454/https://hakeemjeffries.com/news/chairman-hakeem-jeffries-endorsed-by-planned-parenthood-action-fund/",
+      "wayback_raw": "https://web.archive.org/web/20241105094454id_/https://hakeemjeffries.com/news/chairman-hakeem-jeffries-endorsed-by-planned-parenthood-action-fund/",
+      "file": "archive/2024/jeffries-ny/news-chairman-hakeem-jeffries-endorsed-by-planned-parenthood-action-fund.html",
+      "text_file": "archive/2024/jeffries-ny/news-chairman-hakeem-jeffries-endorsed-by-planned-parenthood-action-fund.txt",
+      "bytes": 87889,
+      "sha256_html": "08ab9a25c059348b3b20202bd167215fac1e3733092eeeb64813a6c5c45dd27a",
+      "sha256_text": "b1b1b57314595f37990fa51ddb35c31e02fe94f5eda0f7bb6ecd6fddf0f12a5b"
+    },
+    {
+      "original": "https://hakeemjeffries.com/news/hakeem-jeffries-blasts-house-gop-debt-limit-plan-wants-real-budget/",
+      "timestamp": "20241105094623",
+      "wayback": "https://web.archive.org/web/20241105094623/https://hakeemjeffries.com/news/hakeem-jeffries-blasts-house-gop-debt-limit-plan-wants-real-budget/",
+      "wayback_raw": "https://web.archive.org/web/20241105094623id_/https://hakeemjeffries.com/news/hakeem-jeffries-blasts-house-gop-debt-limit-plan-wants-real-budget/",
+      "file": "archive/2024/jeffries-ny/news-hakeem-jeffries-blasts-house-gop-debt-limit-plan-wants-real-budget.html",
+      "text_file": "archive/2024/jeffries-ny/news-hakeem-jeffries-blasts-house-gop-debt-limit-plan-wants-real-budget.txt",
+      "bytes": 85460,
+      "sha256_html": "4873d347b3fe2d38eb7ccac24b7b5611ad18635fe78c4ad2f05f23aedab80cbf",
+      "sha256_text": "07eb26cd30efc82fed87fb563183fa67fa958228533bd9e8cd015ab99a6798d4"
+    },
+    {
+      "original": "https://hakeemjeffries.com/news/jeffries-fights-new-york-district-maps-enough-to-make-jim-crow-blush/",
+      "timestamp": "20241105094531",
+      "wayback": "https://web.archive.org/web/20241105094531/https://hakeemjeffries.com/news/jeffries-fights-new-york-district-maps-enough-to-make-jim-crow-blush/",
+      "wayback_raw": "https://web.archive.org/web/20241105094531id_/https://hakeemjeffries.com/news/jeffries-fights-new-york-district-maps-enough-to-make-jim-crow-blush/",
+      "file": "archive/2024/jeffries-ny/news-jeffries-fights-new-york-district-maps-enough-to-make-jim-crow-blush.html",
+      "text_file": "archive/2024/jeffries-ny/news-jeffries-fights-new-york-district-maps-enough-to-make-jim-crow-blush.txt",
+      "bytes": 85745,
+      "sha256_html": "87e00e85bd2e00a678cafbdc81b8c61a06b7146cd5247c28b6f128d026b5e32e",
+      "sha256_text": "1e59694f696e0986b55b1faedd887ff5fc81ba57678bd294a4825f241a56fbd6"
+    },
+    {
+      "original": "https://hakeemjeffries.com/news/rep-hakeem-jeffries-was-prepared-to-fight-back-at-capitol-if-its-on-its-on/",
+      "timestamp": "20241105094622",
+      "wayback": "https://web.archive.org/web/20241105094622/https://hakeemjeffries.com/news/rep-hakeem-jeffries-was-prepared-to-fight-back-at-capitol-if-its-on-its-on/",
+      "wayback_raw": "https://web.archive.org/web/20241105094622id_/https://hakeemjeffries.com/news/rep-hakeem-jeffries-was-prepared-to-fight-back-at-capitol-if-its-on-its-on/",
+      "file": "archive/2024/jeffries-ny/news-rep-hakeem-jeffries-was-prepared-to-fight-back-at-capitol-if-its-on-its-on.html",
+      "text_file": "archive/2024/jeffries-ny/news-rep-hakeem-jeffries-was-prepared-to-fight-back-at-capitol-if-its-on-its-on.txt",
+      "bytes": 86223,
+      "sha256_html": "c13a6fe2cba94ba5e8ab0b00df106505bdc976a43bb3f29ebb08b7642696016f",
+      "sha256_text": "abc87e3a69c88c29ca147803fa4e04cbd5e695e5c5cfef4ea023be65dce1d070"
+    }
+  ],
+  "snapshots_found": {
+    "hakeemjeffries.com": 107
+  },
+  "generated_utc": "2026-11-14T08:43:53Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
