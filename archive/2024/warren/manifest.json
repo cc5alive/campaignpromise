@@ -6,9 +6,9 @@
   "pages": [
     {
       "original": "https://elizabethwarren.com/",
-      "timestamp": "20241029091338",
-      "wayback": "https://web.archive.org/web/20241029091338/https://elizabethwarren.com/",
-      "wayback_raw": "https://web.archive.org/web/20241029091338id_/https://elizabethwarren.com/",
+      "timestamp": "20241105231952",
+      "wayback": "https://web.archive.org/web/20241105231952/https://elizabethwarren.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105231952id_/https://elizabethwarren.com/",
       "file": "archive/2024/warren/home.html",
       "text_file": "archive/2024/warren/home.txt",
       "bytes": 176337,
@@ -25,12 +25,122 @@
       "bytes": 659211,
       "sha256_html": "462bbef8d5a38d28fa733a250862fed412e9189483110faabca4a0585f78eb59",
       "sha256_text": "56f8f58138e7cd2a9cd9c057d02a6465ec151fec81fca1d88f6a63b342e1986e"
+    },
+    {
+      "original": "https://elizabethwarren.com/news/warren-levin-safe-voting-plan",
+      "timestamp": "20241105082632",
+      "wayback": "https://web.archive.org/web/20241105082632/https://elizabethwarren.com/news/warren-levin-safe-voting-plan",
+      "wayback_raw": "https://web.archive.org/web/20241105082632id_/https://elizabethwarren.com/news/warren-levin-safe-voting-plan",
+      "file": "archive/2024/warren/news-warren-levin-safe-voting-plan.html",
+      "text_file": "archive/2024/warren/news-warren-levin-safe-voting-plan.txt",
+      "bytes": 99876,
+      "sha256_html": "e2060ababe6033f80f45637553d78977914e0789f9e1b30b5218f5b888e613d4",
+      "sha256_text": "26812d3b0961f1edbd369893ecfba11047ea7d0182c702d421227112f0be9e60"
+    },
+    {
+      "original": "https://elizabethwarren.com/planes/cuidado-de-salud",
+      "timestamp": "20241105082229",
+      "wayback": "https://web.archive.org/web/20241105082229/https://elizabethwarren.com/planes/cuidado-de-salud",
+      "wayback_raw": "https://web.archive.org/web/20241105082229id_/https://elizabethwarren.com/planes/cuidado-de-salud",
+      "file": "archive/2024/warren/planes-cuidado-de-salud.html",
+      "text_file": "archive/2024/warren/planes-cuidado-de-salud.txt",
+      "bytes": 130024,
+      "sha256_html": "336ce48b99abdd75defda3783d8057d03e2e713470ce94992b87bbf675cd820c",
+      "sha256_text": "47dcf30b303a050c48a20b5f4f0dadec1c8685228fda7a862a3cfdb343f7e340"
+    },
+    {
+      "original": "https://elizabethwarren.com/plans/100-clean-energy",
+      "timestamp": "20241105082744",
+      "wayback": "https://web.archive.org/web/20241105082744/https://elizabethwarren.com/plans/100-clean-energy",
+      "wayback_raw": "https://web.archive.org/web/20241105082744id_/https://elizabethwarren.com/plans/100-clean-energy",
+      "file": "archive/2024/warren/plans-100-clean-energy.html",
+      "text_file": "archive/2024/warren/plans-100-clean-energy.txt",
+      "bytes": 187959,
+      "sha256_html": "38453d60af9bfc21d089575834fd88a11a5b8a82a9861d3e7a5b366da8324524",
+      "sha256_text": "8c9d5c5587dc9beb475883089fafb2bf41e25dec74930e7d9ca1a5ce67da564b"
+    },
+    {
+      "original": "https://elizabethwarren.com/plans/aapi",
+      "timestamp": "20241105082245",
+      "wayback": "https://web.archive.org/web/20241105082245/https://elizabethwarren.com/plans/aapi",
+      "wayback_raw": "https://web.archive.org/web/20241105082245id_/https://elizabethwarren.com/plans/aapi",
+      "file": "archive/2024/warren/plans-aapi.html",
+      "text_file": "archive/2024/warren/plans-aapi.txt",
+      "bytes": 404053,
+      "sha256_html": "7b0b39f2edd82141e3812239da59209fce5bf5c8757e36042623e447da3817be",
+      "sha256_text": "25b53393deef128d63e49eca4a365b305de1ade2763ad8234c5b05ed2c7a22b1"
+    },
+    {
+      "original": "https://elizabethwarren.com/plans/accountable-capitalism",
+      "timestamp": "20241105082811",
+      "wayback": "https://web.archive.org/web/20241105082811/https://elizabethwarren.com/plans/accountable-capitalism",
+      "wayback_raw": "https://web.archive.org/web/20241105082811id_/https://elizabethwarren.com/plans/accountable-capitalism",
+      "file": "archive/2024/warren/plans-accountable-capitalism.html",
+      "text_file": "archive/2024/warren/plans-accountable-capitalism.txt",
+      "bytes": 121803,
+      "sha256_html": "0da8441d0a8bd534885efaeb4e9acb96f46bee984532f221d63346e304fe1ca5",
+      "sha256_text": "bd6fe1fde8b28a75c3afe2b6abe06679597fce72644ed6f54db047d99453943d"
+    },
+    {
+      "original": "https://elizabethwarren.com/plans/action-to-protect-choice",
+      "timestamp": "20241105083059",
+      "wayback": "https://web.archive.org/web/20241105083059/https://elizabethwarren.com/plans/action-to-protect-choice",
+      "wayback_raw": "https://web.archive.org/web/20241105083059id_/https://elizabethwarren.com/plans/action-to-protect-choice",
+      "file": "archive/2024/warren/plans-action-to-protect-choice.html",
+      "text_file": "archive/2024/warren/plans-action-to-protect-choice.txt",
+      "bytes": 162845,
+      "sha256_html": "0abc6c96b379ae4323ab6d0a7f7374981f005cd4dd9e6b6cc9f42e9e8b4470c7",
+      "sha256_text": "2203dc610923018eb3bfda3940fcea15cb7abb7ca58592ba3f5634d88c173311"
+    },
+    {
+      "original": "https://elizabethwarren.com/plans/addressing-maternal-mortality-epidemic",
+      "timestamp": "20241105082751",
+      "wayback": "https://web.archive.org/web/20241105082751/https://elizabethwarren.com/plans/addressing-maternal-mortality-epidemic",
+      "wayback_raw": "https://web.archive.org/web/20241105082751id_/https://elizabethwarren.com/plans/addressing-maternal-mortality-epidemic",
+      "file": "archive/2024/warren/plans-addressing-maternal-mortality-epidemic.html",
+      "text_file": "archive/2024/warren/plans-addressing-maternal-mortality-epidemic.txt",
+      "bytes": 132511,
+      "sha256_html": "aee08393e7acb428fe954923171e363c954344c8a3252db8ac80ab0fea513115",
+      "sha256_text": "cbcf6fc7c4c9c6dce7d48d45cbe1bd12da19b3c073423886747cb088df301d16"
+    },
+    {
+      "original": "https://elizabethwarren.com/plans/affordable-higher-education/",
+      "timestamp": "20241105104748",
+      "wayback": "https://web.archive.org/web/20241105104748/https://elizabethwarren.com/plans/affordable-higher-education/",
+      "wayback_raw": "https://web.archive.org/web/20241105104748id_/https://elizabethwarren.com/plans/affordable-higher-education/",
+      "file": "archive/2024/warren/plans-affordable-higher-education.html",
+      "text_file": "archive/2024/warren/plans-affordable-higher-education.txt",
+      "bytes": 200879,
+      "sha256_html": "4c744626c41c5804ccfc58c6e4dd1bf8e2019e8bda982041e555fc6d8c7ea9f5",
+      "sha256_text": "3bf11e5fc0596d50b308ffc0e820bfeac31ae285c3da117ebe2a002e48cd5e98"
+    },
+    {
+      "original": "https://elizabethwarren.com/plans/after-trump",
+      "timestamp": "20241105082806",
+      "wayback": "https://web.archive.org/web/20241105082806/https://elizabethwarren.com/plans/after-trump",
+      "wayback_raw": "https://web.archive.org/web/20241105082806id_/https://elizabethwarren.com/plans/after-trump",
+      "file": "archive/2024/warren/plans-after-trump.html",
+      "text_file": "archive/2024/warren/plans-after-trump.txt",
+      "bytes": 190279,
+      "sha256_html": "1d4e8c0ee4f8ef6a453e5d881244f359af29eb0f4200ce8db5d82d3f91ab3255",
+      "sha256_text": "2054185eae6daad242a2cdf22480074726a0c6ae47c9712ae33633a2c2b6c51f"
+    },
+    {
+      "original": "https://elizabethwarren.com/plans/agenda-black-america",
+      "timestamp": "20241105082219",
+      "wayback": "https://web.archive.org/web/20241105082219/https://elizabethwarren.com/plans/agenda-black-america",
+      "wayback_raw": "https://web.archive.org/web/20241105082219id_/https://elizabethwarren.com/plans/agenda-black-america",
+      "file": "archive/2024/warren/plans-agenda-black-america.html",
+      "text_file": "archive/2024/warren/plans-agenda-black-america.txt",
+      "bytes": 250649,
+      "sha256_html": "bad83f2969ad10752abd484f91f2a4ae3b60ef171a810ca393659103fcd9bbb2",
+      "sha256_text": "afe3e2abbc31e3ebad92a6cdfebe4a32b70693aa1b445411007a7e3afd2cd844"
     }
   ],
   "snapshots_found": {
-    "elizabethwarren.com": 1
+    "elizabethwarren.com": 154
   },
-  "generated_utc": "2026-11-14T08:04:16Z",
+  "generated_utc": "2026-11-14T08:30:55Z",
   "window": {
     "from": "20240801",
     "to": "20241105"
