@@ -1,0 +1,60 @@
+{
+  "name": "Lucy McBath",
+  "domains_tried": [
+    "lucyforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://lucyforcongress.com/",
+      "timestamp": "20241105203251",
+      "wayback": "https://web.archive.org/web/20241105203251/https://lucyforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105203251id_/https://lucyforcongress.com/",
+      "file": "archive/2024/mcbath-ga/home.html",
+      "text_file": "archive/2024/mcbath-ga/home.txt",
+      "bytes": 109590,
+      "sha256_html": "48adb36497b3942371f13367e1d6a5674eb5db90e6de66a65a94a57a981ae8d5",
+      "sha256_text": "57f83f492b72ddc38e306d62d2bb17158e7288f4ba7d1de01556fd291c04b130"
+    },
+    {
+      "original": "https://lucyforcongress.com/issues/",
+      "timestamp": "20241105100656",
+      "wayback": "https://web.archive.org/web/20241105100656/https://lucyforcongress.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105100656id_/https://lucyforcongress.com/issues/",
+      "file": "archive/2024/mcbath-ga/issues.html",
+      "text_file": "archive/2024/mcbath-ga/issues.txt",
+      "bytes": 95748,
+      "sha256_html": "b5b5ca7c3fb2776023f3c55fedf446e34548b1fe7adf05241a88dc15ccf760f6",
+      "sha256_text": "4e7ab78f2aa3a7d1f54ca08e42f11b69ef0c7e854be499d30c1dce56f7633d75"
+    },
+    {
+      "original": "https://lucyforcongress.com/issues/embed/",
+      "timestamp": "20241102135348",
+      "wayback": "https://web.archive.org/web/20241102135348/https://lucyforcongress.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241102135348id_/https://lucyforcongress.com/issues/embed/",
+      "file": "archive/2024/mcbath-ga/issues-embed.html",
+      "text_file": "archive/2024/mcbath-ga/issues-embed.txt",
+      "bytes": 95862,
+      "sha256_html": "2ce5a3a944ec003b44e6bcab2c685ff3bc133c9339c7534dcd7a8900e32ccd14",
+      "sha256_text": "e36bbfa876228298574cee04a54e2fe88dd238463444f3235fc38afc19aeffad"
+    },
+    {
+      "original": "https://lucyforcongress.com/about/",
+      "timestamp": "20241105100659",
+      "wayback": "https://web.archive.org/web/20241105100659/https://lucyforcongress.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105100659id_/https://lucyforcongress.com/about/",
+      "file": "archive/2024/mcbath-ga/about.html",
+      "text_file": "archive/2024/mcbath-ga/about.txt",
+      "bytes": 85435,
+      "sha256_html": "478ac01660212d68ee198492c7f35eee7897e430a9214d68ecbf26ef16e49284",
+      "sha256_text": "1c09b7f272e245d9d58caea14d954ca0b16d35428dca5a985d511498cd044002"
+    }
+  ],
+  "snapshots_found": {
+    "lucyforcongress.com": 182
+  },
+  "generated_utc": "2026-11-14T22:46:40Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
