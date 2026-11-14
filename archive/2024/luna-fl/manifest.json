@@ -1,0 +1,49 @@
+{
+  "name": "Anna Paulina Luna",
+  "domains_tried": [
+    "voteannapaulina.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.voteannapaulina.com/",
+      "timestamp": "20241105191103",
+      "wayback": "https://web.archive.org/web/20241105191103/https://www.voteannapaulina.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105191103id_/https://www.voteannapaulina.com/",
+      "file": "archive/2024/luna-fl/home.html",
+      "text_file": "archive/2024/luna-fl/home.txt",
+      "bytes": 1065031,
+      "sha256_html": "ca822606eeefd27964c48c41911a2af0d2f0c31a30f93c0a9d4621bd8dda21b0",
+      "sha256_text": "13bb7ea38b670baf2c5181a92ab9301072ec988cf8a0527991ee037d2f090a51"
+    },
+    {
+      "original": "https://www.voteannapaulina.com/post/anna-paulina-luna-slams-harris-for-failed-record-on-border-illegal-immigration",
+      "timestamp": "20241105191343",
+      "wayback": "https://web.archive.org/web/20241105191343/https://www.voteannapaulina.com/post/anna-paulina-luna-slams-harris-for-failed-record-on-border-illegal-immigration",
+      "wayback_raw": "https://web.archive.org/web/20241105191343id_/https://www.voteannapaulina.com/post/anna-paulina-luna-slams-harris-for-failed-record-on-border-illegal-immigration",
+      "file": "archive/2024/luna-fl/post-anna-paulina-luna-slams-harris-for-failed-record-on-border-illegal-immigration.html",
+      "text_file": "archive/2024/luna-fl/post-anna-paulina-luna-slams-harris-for-failed-record-on-border-illegal-immigration.txt",
+      "bytes": 1164312,
+      "sha256_html": "468d433c1ab57d0fe5c869aa6f8789f8eb4f900f91df5e708bb38c6fbcb958d3",
+      "sha256_text": "312bfbe663166d3991276650535ca243142187190ba7726fa8875b848b542cb9"
+    },
+    {
+      "original": "https://www.voteannapaulina.com/post/rep-anna-paulina-luna-assists-in-drug-bust-two-arrests-during-police-ride-along",
+      "timestamp": "20241105191350",
+      "wayback": "https://web.archive.org/web/20241105191350/https://www.voteannapaulina.com/post/rep-anna-paulina-luna-assists-in-drug-bust-two-arrests-during-police-ride-along",
+      "wayback_raw": "https://web.archive.org/web/20241105191350id_/https://www.voteannapaulina.com/post/rep-anna-paulina-luna-assists-in-drug-bust-two-arrests-during-police-ride-along",
+      "file": "archive/2024/luna-fl/post-rep-anna-paulina-luna-assists-in-drug-bust-two-arrests-during-police-ride-along.html",
+      "text_file": "archive/2024/luna-fl/post-rep-anna-paulina-luna-assists-in-drug-bust-two-arrests-during-police-ride-along.txt",
+      "bytes": 1166746,
+      "sha256_html": "aa1b5d7f10a400c7352230349d3c76a43046eb0f7f0cdfa9bdd935d1fa3fa2e6",
+      "sha256_text": "5d882ec5e346403afbcf71335242a24ad4b146c32ebd2e108dc64ee72033b653"
+    }
+  ],
+  "snapshots_found": {
+    "voteannapaulina.com": 100
+  },
+  "generated_utc": "2026-11-14T08:29:37Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
