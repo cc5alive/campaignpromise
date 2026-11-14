@@ -1,0 +1,672 @@
+{
+ "_note": "Round 3: 50 more members. Domains come from each campaign committee's website on its FEC registration, plus alternates where the FEC record had none or the member used another site.",
+ "window": {
+  "from": "20240801",
+  "to": "20241105"
+ },
+ "members": [
+  {
+   "key": "cruz-tx",
+   "bioguide": "C001098",
+   "name": "Ted Cruz",
+   "last": "Cruz",
+   "party": "R",
+   "chamber": "Senate",
+   "state": "TX",
+   "campaign_committee": "C00492785",
+   "domains": [
+    "tedcruz.org",
+    "tedcruz.com"
+   ]
+  },
+  {
+   "key": "scott-fl",
+   "bioguide": "S001217",
+   "name": "Rick Scott",
+   "last": "Scott",
+   "party": "R",
+   "chamber": "Senate",
+   "state": "FL",
+   "campaign_committee": "C00676965",
+   "domains": [
+    "rickscottforflorida.com",
+    "rickscott.com"
+   ]
+  },
+  {
+   "key": "blackburn-tn",
+   "bioguide": "B001243",
+   "name": "Marsha Blackburn",
+   "last": "Blackburn",
+   "party": "R",
+   "chamber": "Senate",
+   "state": "TN",
+   "campaign_committee": "C00376939",
+   "domains": [
+    "marshablackburn.com"
+   ]
+  },
+  {
+   "key": "fischer-ne",
+   "bioguide": "F000463",
+   "name": "Deb Fischer",
+   "last": "Fischer",
+   "party": "R",
+   "chamber": "Senate",
+   "state": "NE",
+   "campaign_committee": "C00498907",
+   "domains": [
+    "debfornebraska.com",
+    "debfischer.com"
+   ]
+  },
+  {
+   "key": "ricketts-ne",
+   "bioguide": "R000618",
+   "name": "Pete Ricketts",
+   "last": "Ricketts",
+   "party": "R",
+   "chamber": "Senate",
+   "state": "NE",
+   "campaign_committee": "C00832436",
+   "domains": [
+    "petericketts.com"
+   ]
+  },
+  {
+   "key": "klobuchar-mn",
+   "bioguide": "K000367",
+   "name": "Amy Klobuchar",
+   "last": "Klobuchar",
+   "party": "D",
+   "chamber": "Senate",
+   "state": "MN",
+   "campaign_committee": "C00431353",
+   "domains": [
+    "amyklobuchar.com"
+   ]
+  },
+  {
+   "key": "kaine-va",
+   "bioguide": "K000384",
+   "name": "Tim Kaine",
+   "last": "Kaine",
+   "party": "D",
+   "chamber": "Senate",
+   "state": "VA",
+   "campaign_committee": "C00495358",
+   "domains": [
+    "timkaine.com"
+   ]
+  },
+  {
+   "key": "murphy-ct",
+   "bioguide": "M001169",
+   "name": "Christopher Murphy",
+   "last": "Murphy",
+   "party": "D",
+   "chamber": "Senate",
+   "state": "CT",
+   "campaign_committee": "C00492645",
+   "domains": [
+    "chrismurphy.com"
+   ]
+  },
+  {
+   "key": "rosen-nv",
+   "bioguide": "R000608",
+   "name": "Jacky Rosen",
+   "last": "Rosen",
+   "party": "D",
+   "chamber": "Senate",
+   "state": "NV",
+   "campaign_committee": "C00606939",
+   "domains": [
+    "rosenfornevada.com"
+   ]
+  },
+  {
+   "key": "baldwin-wi",
+   "bioguide": "B001230",
+   "name": "Tammy Baldwin",
+   "last": "Baldwin",
+   "party": "D",
+   "chamber": "Senate",
+   "state": "WI",
+   "campaign_committee": "C00326801",
+   "domains": [
+    "tammybaldwin.com"
+   ]
+  },
+  {
+   "key": "stefanik-ny",
+   "bioguide": "S001196",
+   "name": "Elise M. Stefanik",
+   "last": "Stefanik",
+   "party": "R",
+   "chamber": "House",
+   "state": "NY",
+   "campaign_committee": "C00547893",
+   "domains": [
+    "eliseforcongress.com",
+    "elisestefanik.com"
+   ]
+  },
+  {
+   "key": "comer-ky",
+   "bioguide": "C001108",
+   "name": "James Comer",
+   "last": "Comer",
+   "party": "R",
+   "chamber": "House",
+   "state": "KY",
+   "campaign_committee": "C00588764",
+   "domains": [
+    "jamescomer.com"
+   ]
+  },
+  {
+   "key": "biggs-az",
+   "bioguide": "B001302",
+   "name": "Andy Biggs",
+   "last": "Biggs",
+   "party": "R",
+   "chamber": "House",
+   "state": "AZ",
+   "campaign_committee": "C00610451",
+   "domains": [
+    "biggsforcongress.com"
+   ]
+  },
+  {
+   "key": "norman-sc",
+   "bioguide": "N000190",
+   "name": "Ralph Norman",
+   "last": "Norman",
+   "party": "R",
+   "chamber": "House",
+   "state": "SC",
+   "campaign_committee": "C00633610",
+   "domains": [
+    "electralphnorman.com"
+   ]
+  },
+  {
+   "key": "burchett-tn",
+   "bioguide": "B001309",
+   "name": "Tim Burchett",
+   "last": "Burchett",
+   "party": "R",
+   "chamber": "House",
+   "state": "TN",
+   "campaign_committee": "C00652149",
+   "domains": [
+    "timburchett.com",
+    "burchettforcongress.com"
+   ]
+  },
+  {
+   "key": "perry-pa",
+   "bioguide": "P000605",
+   "name": "Scott Perry",
+   "last": "Perry",
+   "party": "R",
+   "chamber": "House",
+   "state": "PA",
+   "campaign_committee": "C00510164",
+   "domains": [
+    "patriotsforperry.com",
+    "scottperryforcongress.com"
+   ]
+  },
+  {
+   "key": "harris-md",
+   "bioguide": "H001052",
+   "name": "Andy Harris",
+   "last": "Harris",
+   "party": "R",
+   "chamber": "House",
+   "state": "MD",
+   "campaign_committee": "C00435974",
+   "domains": [
+    "andyharris.com"
+   ]
+  },
+  {
+   "key": "nunn-ia",
+   "bioguide": "N000193",
+   "name": "Zachary Nunn",
+   "last": "Nunn",
+   "party": "R",
+   "chamber": "House",
+   "state": "IA",
+   "campaign_committee": "C00784389",
+   "domains": [
+    "zachnunn.com"
+   ]
+  },
+  {
+   "key": "ciscomani-az",
+   "bioguide": "C001133",
+   "name": "Juan Ciscomani",
+   "last": "Ciscomani",
+   "party": "R",
+   "chamber": "House",
+   "state": "AZ",
+   "campaign_committee": "C00786194",
+   "domains": [
+    "juanciscomani.com"
+   ]
+  },
+  {
+   "key": "turner-oh",
+   "bioguide": "T000463",
+   "name": "Michael R. Turner",
+   "last": "Turner",
+   "party": "R",
+   "chamber": "House",
+   "state": "OH",
+   "campaign_committee": "C00373001",
+   "domains": [
+    "miketurnerforcongress.com",
+    "turnerforcongress.com"
+   ]
+  },
+  {
+   "key": "crenshaw-tx",
+   "bioguide": "C001120",
+   "name": "Dan Crenshaw",
+   "last": "Crenshaw",
+   "party": "R",
+   "chamber": "House",
+   "state": "TX",
+   "campaign_committee": "C00660795",
+   "domains": [
+    "crenshawforcongress.com",
+    "dancrenshaw.com"
+   ]
+  },
+  {
+   "key": "diaz-balart-fl",
+   "bioguide": "D000600",
+   "name": "Mario Diaz-Balart",
+   "last": "Diaz-Balart",
+   "party": "R",
+   "chamber": "House",
+   "state": "FL",
+   "campaign_committee": "C00376087",
+   "domains": [
+    "mariodiazbalart.com"
+   ]
+  },
+  {
+   "key": "tiffany-wi",
+   "bioguide": "T000165",
+   "name": "Thomas P. Tiffany",
+   "last": "Tiffany",
+   "party": "R",
+   "chamber": "House",
+   "state": "WI",
+   "campaign_committee": "C00718635",
+   "domains": [
+    "tiffany4wisconsin.com"
+   ]
+  },
+  {
+   "key": "mills-fl",
+   "bioguide": "M001216",
+   "name": "Cory Mills",
+   "last": "Mills",
+   "party": "R",
+   "chamber": "House",
+   "state": "FL",
+   "campaign_committee": "C00774943",
+   "domains": [
+    "millsforflorida.com",
+    "corymills.com"
+   ]
+  },
+  {
+   "key": "crane-az",
+   "bioguide": "C001132",
+   "name": "Elijah Crane",
+   "last": "Crane",
+   "party": "R",
+   "chamber": "House",
+   "state": "AZ",
+   "campaign_committee": "C00784934",
+   "domains": [
+    "elicraneforcongress.com",
+    "elicrane.com"
+   ]
+  },
+  {
+   "key": "barrett-mi",
+   "bioguide": "B001321",
+   "name": "Tom Barrett",
+   "last": "Barrett",
+   "party": "R",
+   "chamber": "House",
+   "state": "MI",
+   "campaign_committee": "C00793976",
+   "domains": [
+    "tombarrettforcongress.com"
+   ]
+  },
+  {
+   "key": "evans-co",
+   "bioguide": "E000300",
+   "name": "Gabe Evans",
+   "last": "Evans",
+   "party": "R",
+   "chamber": "House",
+   "state": "CO",
+   "campaign_committee": "C00849844",
+   "domains": [
+    "electgabeevans.com"
+   ]
+  },
+  {
+   "key": "wagner-mo",
+   "bioguide": "W000812",
+   "name": "Ann Wagner",
+   "last": "Wagner",
+   "party": "R",
+   "chamber": "House",
+   "state": "MO",
+   "campaign_committee": "C00495846",
+   "domains": [
+    "annwagner.com"
+   ]
+  },
+  {
+   "key": "pelosi-ca",
+   "bioguide": "P000197",
+   "name": "Nancy Pelosi",
+   "last": "Pelosi",
+   "party": "D",
+   "chamber": "House",
+   "state": "CA",
+   "campaign_committee": "C00213512",
+   "domains": [
+    "pelosiforcongress.org",
+    "nancypelosi.com"
+   ]
+  },
+  {
+   "key": "clark-ma",
+   "bioguide": "C001101",
+   "name": "Katherine M. Clark",
+   "last": "Clark",
+   "party": "D",
+   "chamber": "House",
+   "state": "MA",
+   "campaign_committee": "C00541888",
+   "domains": [
+    "katherineclark.org"
+   ]
+  },
+  {
+   "key": "aguilar-ca",
+   "bioguide": "A000371",
+   "name": "Pete Aguilar",
+   "last": "Aguilar",
+   "party": "D",
+   "chamber": "House",
+   "state": "CA",
+   "campaign_committee": "C00510461",
+   "domains": [
+    "peteaguilar.com"
+   ]
+  },
+  {
+   "key": "pressley-ma",
+   "bioguide": "P000617",
+   "name": "Ayanna Pressley",
+   "last": "Pressley",
+   "party": "D",
+   "chamber": "House",
+   "state": "MA",
+   "campaign_committee": "C00667741",
+   "domains": [
+    "ayannapressley.com"
+   ]
+  },
+  {
+   "key": "frost-fl",
+   "bioguide": "F000476",
+   "name": "Maxwell Frost",
+   "last": "Frost",
+   "party": "D",
+   "chamber": "House",
+   "state": "FL",
+   "campaign_committee": "C00786822",
+   "domains": [
+    "frostforcongress.com"
+   ]
+  },
+  {
+   "key": "raskin-md",
+   "bioguide": "R000606",
+   "name": "Jamie Raskin",
+   "last": "Raskin",
+   "party": "D",
+   "chamber": "House",
+   "state": "MD",
+   "campaign_committee": "C00575126",
+   "domains": [
+    "jamieraskin.com"
+   ]
+  },
+  {
+   "key": "smith-wa",
+   "bioguide": "S000510",
+   "name": "Adam Smith",
+   "last": "Smith",
+   "party": "D",
+   "chamber": "House",
+   "state": "WA",
+   "campaign_committee": "C00304709",
+   "domains": [
+    "electadamsmith.com"
+   ]
+  },
+  {
+   "key": "kaptur-oh",
+   "bioguide": "K000009",
+   "name": "Marcy Kaptur",
+   "last": "Kaptur",
+   "party": "D",
+   "chamber": "House",
+   "state": "OH",
+   "campaign_committee": "C00154625",
+   "domains": [
+    "marcykaptur.com"
+   ]
+  },
+  {
+   "key": "hayes-ct",
+   "bioguide": "H001081",
+   "name": "Jahana Hayes",
+   "last": "Hayes",
+   "party": "D",
+   "chamber": "House",
+   "state": "CT",
+   "campaign_committee": "C00677898",
+   "domains": [
+    "jahanahayes.com"
+   ]
+  },
+  {
+   "key": "lee-nv",
+   "bioguide": "L000590",
+   "name": "Susie Lee",
+   "last": "Lee",
+   "party": "D",
+   "chamber": "House",
+   "state": "NV",
+   "campaign_committee": "C00655613",
+   "domains": [
+    "susieleeforcongress.com"
+   ]
+  },
+  {
+   "key": "horsford-nv",
+   "bioguide": "H001066",
+   "name": "Steven Horsford",
+   "last": "Horsford",
+   "party": "D",
+   "chamber": "House",
+   "state": "NV",
+   "campaign_committee": "C00668228",
+   "domains": [
+    "stevenhorsford.com"
+   ]
+  },
+  {
+   "key": "crow-co",
+   "bioguide": "C001121",
+   "name": "Jason Crow",
+   "last": "Crow",
+   "party": "D",
+   "chamber": "House",
+   "state": "CO",
+   "campaign_committee": "C00637363",
+   "domains": [
+    "jasoncrow.org"
+   ]
+  },
+  {
+   "key": "suozzi-ny",
+   "bioguide": "S001201",
+   "name": "Thomas R. Suozzi",
+   "last": "Suozzi",
+   "party": "D",
+   "chamber": "House",
+   "state": "NY",
+   "campaign_committee": "C00607200",
+   "domains": [
+    "suozziforcongress.com"
+   ]
+  },
+  {
+   "key": "harder-ca",
+   "bioguide": "H001090",
+   "name": "Josh Harder",
+   "last": "Harder",
+   "party": "D",
+   "chamber": "House",
+   "state": "CA",
+   "campaign_committee": "C00639146",
+   "domains": [
+    "harderforcongress.com"
+   ]
+  },
+  {
+   "key": "sykes-oh",
+   "bioguide": "S001223",
+   "name": "Emilia Strong Sykes",
+   "last": "Sykes",
+   "party": "D",
+   "chamber": "House",
+   "state": "OH",
+   "campaign_committee": "C00801274",
+   "domains": [
+    "emiliasykesforcongress.com"
+   ]
+  },
+  {
+   "key": "mcdonaldrivet-mi",
+   "bioguide": "M001237",
+   "name": "Kristen McDonald Rivet",
+   "last": "McDonald Rivet",
+   "party": "D",
+   "chamber": "House",
+   "state": "MI",
+   "campaign_committee": "C00864207",
+   "domains": [
+    "kristenmcdonaldrivet.com"
+   ]
+  },
+  {
+   "key": "gray-ca",
+   "bioguide": "G000605",
+   "name": "Adam Gray",
+   "last": "Gray",
+   "party": "D",
+   "chamber": "House",
+   "state": "CA",
+   "campaign_committee": "C00801431",
+   "domains": [
+    "adamgrayforcongress.com"
+   ]
+  },
+  {
+   "key": "gillen-ny",
+   "bioguide": "G000602",
+   "name": "Laura Gillen",
+   "last": "Gillen",
+   "party": "D",
+   "chamber": "House",
+   "state": "NY",
+   "campaign_committee": "C00840165",
+   "domains": [
+    "lauragillen.com"
+   ]
+  },
+  {
+   "key": "figures-al",
+   "bioguide": "F000481",
+   "name": "Shomari Figures",
+   "last": "Figures",
+   "party": "D",
+   "chamber": "House",
+   "state": "AL",
+   "campaign_committee": "C00856237",
+   "domains": [
+    "figuresforcongress.com",
+    "shomarifigures.com"
+   ]
+  },
+  {
+   "key": "delacruz-tx",
+   "bioguide": "D000594",
+   "name": "Monica De La Cruz",
+   "last": "De La Cruz",
+   "party": "R",
+   "chamber": "House",
+   "state": "TX",
+   "campaign_committee": "C00765719",
+   "domains": [
+    "monicaforcongress.us",
+    "monicaforcongress.com"
+   ]
+  },
+  {
+   "key": "lee-pa",
+   "bioguide": "L000602",
+   "name": "Summer L. Lee",
+   "last": "Lee",
+   "party": "D",
+   "chamber": "House",
+   "state": "PA",
+   "campaign_committee": "C00791780",
+   "domains": [
+    "summerforpa.com"
+   ]
+  },
+  {
+   "key": "owens-ut",
+   "bioguide": "O000086",
+   "name": "Burgess Owens",
+   "last": "Owens",
+   "party": "R",
+   "chamber": "House",
+   "state": "UT",
+   "campaign_committee": "C00725853",
+   "domains": [
+    "burgess4utah.com"
+   ]
+  }
+ ]
+}
