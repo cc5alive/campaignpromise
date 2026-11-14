@@ -1,0 +1,38 @@
+{
+  "name": "Lauren Underwood",
+  "domains_tried": [
+    "underwoodforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://underwoodforcongress.com/",
+      "timestamp": "20241105203242",
+      "wayback": "https://web.archive.org/web/20241105203242/https://underwoodforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105203242id_/https://underwoodforcongress.com/",
+      "file": "archive/2024/underwood-il/home.html",
+      "text_file": "archive/2024/underwood-il/home.txt",
+      "bytes": 43563,
+      "sha256_html": "4d2ebc214dc1352851fd06f84c36352dd32d2c19f5a8a508ad536540018808bb",
+      "sha256_text": "bb86f983661b5fdbe0c86a4aa81d2c9c0705f0b3b51959cd783c38869da6aa69"
+    },
+    {
+      "original": "https://underwoodforcongress.com/issues/",
+      "timestamp": "20241105035738",
+      "wayback": "https://web.archive.org/web/20241105035738/https://underwoodforcongress.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105035738id_/https://underwoodforcongress.com/issues/",
+      "file": "archive/2024/underwood-il/issues.html",
+      "text_file": "archive/2024/underwood-il/issues.txt",
+      "bytes": 38569,
+      "sha256_html": "800cdc04f90c04ef9f8c843341e83e3e53180b4be2d508c536ed95539ccef5d4",
+      "sha256_text": "64a111b33d06d74c4deeede6249c6a1011c096d58846cc3d04ed502a89ca6560"
+    }
+  ],
+  "snapshots_found": {
+    "underwoodforcongress.com": 24
+  },
+  "generated_utc": "2026-11-14T22:35:46Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
