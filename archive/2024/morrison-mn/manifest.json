@@ -1,0 +1,49 @@
+{
+  "name": "Kelly Morrison",
+  "domains_tried": [
+    "kellyforcongress.org"
+  ],
+  "pages": [
+    {
+      "original": "https://www.kellyforcongress.org/",
+      "timestamp": "20241105151025",
+      "wayback": "https://web.archive.org/web/20241105151025/https://www.kellyforcongress.org/",
+      "wayback_raw": "https://web.archive.org/web/20241105151025id_/https://www.kellyforcongress.org/",
+      "file": "archive/2024/morrison-mn/home.html",
+      "text_file": "archive/2024/morrison-mn/home.txt",
+      "bytes": 126278,
+      "sha256_html": "7595503d86ffb4475d39db9fcdc7394b8b8ddb4fd5778729f0be6b6bcea8e012",
+      "sha256_text": "0d3295b85055f2937f2d5d0c569080ea7a3c2bf4a285be0e7bfdc365a126da09"
+    },
+    {
+      "original": "https://www.kellyforcongress.org/priorities",
+      "timestamp": "20241105132209",
+      "wayback": "https://web.archive.org/web/20241105132209/https://www.kellyforcongress.org/priorities",
+      "wayback_raw": "https://web.archive.org/web/20241105132209id_/https://www.kellyforcongress.org/priorities",
+      "file": "archive/2024/morrison-mn/priorities.html",
+      "text_file": "archive/2024/morrison-mn/priorities.txt",
+      "bytes": 154609,
+      "sha256_html": "39a651829b0918455c674f05f011fd0314944d4d8bd47ea37ac6730a9a53d977",
+      "sha256_text": "98a0b7b177c7ff40653abfe5a183496f1db8c7b5c341553b3e1cd335b752564b"
+    },
+    {
+      "original": "https://www.kellyforcongress.org/about",
+      "timestamp": "20241105132156",
+      "wayback": "https://web.archive.org/web/20241105132156/https://www.kellyforcongress.org/about",
+      "wayback_raw": "https://web.archive.org/web/20241105132156id_/https://www.kellyforcongress.org/about",
+      "file": "archive/2024/morrison-mn/about.html",
+      "text_file": "archive/2024/morrison-mn/about.txt",
+      "bytes": 196828,
+      "sha256_html": "51f6669ccc25224aa25b9e54129d269c8a69b01d5e70e09758ba2cad2f513eec",
+      "sha256_text": "926a03a5581094f6475ddac7c1a9ae3e6232a4ed2c1ceca5bf115839a186f86e"
+    }
+  ],
+  "snapshots_found": {
+    "kellyforcongress.org": 23
+  },
+  "generated_utc": "2026-11-14T16:57:23Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
