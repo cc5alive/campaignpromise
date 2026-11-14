@@ -1,0 +1,148 @@
+{
+  "name": "Ro Khanna",
+  "domains_tried": [
+    "rokhanna.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.rokhanna.com/",
+      "timestamp": "20241105042943",
+      "wayback": "https://web.archive.org/web/20241105042943/https://www.rokhanna.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105042943id_/https://www.rokhanna.com/",
+      "file": "archive/2024/khanna-ca/home.html",
+      "text_file": "archive/2024/khanna-ca/home.txt",
+      "bytes": 18155,
+      "sha256_html": "2e6c9d6274fa9864da4bf30bcc5fca16365a350f2298b2cfe301be98654ad123",
+      "sha256_text": "40886c8ec20ff41e70d701b32a80c4e40b6c37884d5aa3c7d253c716c7a878c0"
+    },
+    {
+      "original": "https://www.rokhanna.com/accomplishments",
+      "timestamp": "20241105043159",
+      "wayback": "https://web.archive.org/web/20241105043159/https://www.rokhanna.com/accomplishments",
+      "wayback_raw": "https://web.archive.org/web/20241105043159id_/https://www.rokhanna.com/accomplishments",
+      "file": "archive/2024/khanna-ca/accomplishments.html",
+      "text_file": "archive/2024/khanna-ca/accomplishments.txt",
+      "bytes": 30802,
+      "sha256_html": "06bb151a961f6702d51829cf804863b42e59c2187099ab7868a076e517a22b8d",
+      "sha256_text": "c9b86255b1fbd161e407a32a3d09b73b5c62551e3f9e7888b7561556e41a6941"
+    },
+    {
+      "original": "https://www.rokhanna.com/issues",
+      "timestamp": "20241105044033",
+      "wayback": "https://web.archive.org/web/20241105044033/https://www.rokhanna.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105044033id_/https://www.rokhanna.com/issues",
+      "file": "archive/2024/khanna-ca/issues.html",
+      "text_file": "archive/2024/khanna-ca/issues.txt",
+      "bytes": 21599,
+      "sha256_html": "c2b67109f85ed37f96a9f225cd058017393463384c428b9785b38995c293d65c",
+      "sha256_text": "7a330f61c1d6660f74e73b5c868801fc91641d87e6ef257812658beccbe51b77"
+    },
+    {
+      "original": "https://www.rokhanna.com/issues/building-strong-21st-century-economy",
+      "timestamp": "20241105044103",
+      "wayback": "https://web.archive.org/web/20241105044103/https://www.rokhanna.com/issues/building-strong-21st-century-economy",
+      "wayback_raw": "https://web.archive.org/web/20241105044103id_/https://www.rokhanna.com/issues/building-strong-21st-century-economy",
+      "file": "archive/2024/khanna-ca/issues-building-strong-21st-century-economy.html",
+      "text_file": "archive/2024/khanna-ca/issues-building-strong-21st-century-economy.txt",
+      "bytes": 17552,
+      "sha256_html": "766c2eb9a5a8c2e2a6a5baa2d1322df7f062a751364995c71f1107424557961d",
+      "sha256_text": "728b00de01fbfefca1b81b60dca6e9fb7f3e5ec6ed0dc749c14ce67b49288a2b"
+    },
+    {
+      "original": "https://www.rokhanna.com/issues/developer_id.dMDhkMT",
+      "timestamp": "20241031131806",
+      "wayback": "https://web.archive.org/web/20241031131806/https://www.rokhanna.com/issues/developer_id.dMDhkMT",
+      "wayback_raw": "https://web.archive.org/web/20241031131806id_/https://www.rokhanna.com/issues/developer_id.dMDhkMT",
+      "file": "archive/2024/khanna-ca/issues-developer-id-dmdhkmt.html",
+      "text_file": "archive/2024/khanna-ca/issues-developer-id-dmdhkmt.txt",
+      "bytes": 21707,
+      "sha256_html": "eeed4a2b669f30d6804da33fb824d05d4d8703bf36deeaded4eae7d60a7598e6",
+      "sha256_text": "7a330f61c1d6660f74e73b5c868801fc91641d87e6ef257812658beccbe51b77"
+    },
+    {
+      "original": "https://www.rokhanna.com/issues/educating-next-generation",
+      "timestamp": "20241105044039",
+      "wayback": "https://web.archive.org/web/20241105044039/https://www.rokhanna.com/issues/educating-next-generation",
+      "wayback_raw": "https://web.archive.org/web/20241105044039id_/https://www.rokhanna.com/issues/educating-next-generation",
+      "file": "archive/2024/khanna-ca/issues-educating-next-generation.html",
+      "text_file": "archive/2024/khanna-ca/issues-educating-next-generation.txt",
+      "bytes": 19186,
+      "sha256_html": "a1e715c98a47f4aaa30c3ca240d601bf4ba3bfd2e7570a5de8f375b2be9ec999",
+      "sha256_text": "683ad1b3c204a79370a80c1316256bd4d56ad4d45d264b2063db2fec9f3e7383"
+    },
+    {
+      "original": "https://www.rokhanna.com/issues/fighting-immigration-reform",
+      "timestamp": "20241105044038",
+      "wayback": "https://web.archive.org/web/20241105044038/https://www.rokhanna.com/issues/fighting-immigration-reform",
+      "wayback_raw": "https://web.archive.org/web/20241105044038id_/https://www.rokhanna.com/issues/fighting-immigration-reform",
+      "file": "archive/2024/khanna-ca/issues-fighting-immigration-reform.html",
+      "text_file": "archive/2024/khanna-ca/issues-fighting-immigration-reform.txt",
+      "bytes": 21704,
+      "sha256_html": "265cc88608dedda25b15418203101092c9af66ce2ff5710bdf6e832cb959ec97",
+      "sha256_text": "8b123da6d2a1da9152916277ff0d05a844f1a26d25ac5630e2216b0ef54a0c0a"
+    },
+    {
+      "original": "https://www.rokhanna.com/issues/fulfilling-our-obligation-our-veterans",
+      "timestamp": "20241105044100",
+      "wayback": "https://web.archive.org/web/20241105044100/https://www.rokhanna.com/issues/fulfilling-our-obligation-our-veterans",
+      "wayback_raw": "https://web.archive.org/web/20241105044100id_/https://www.rokhanna.com/issues/fulfilling-our-obligation-our-veterans",
+      "file": "archive/2024/khanna-ca/issues-fulfilling-our-obligation-our-veterans.html",
+      "text_file": "archive/2024/khanna-ca/issues-fulfilling-our-obligation-our-veterans.txt",
+      "bytes": 22395,
+      "sha256_html": "089a6d384d93c24141502c50cae1cb90ea0488d359ef377099be5dc788f3aff6",
+      "sha256_text": "5fe1d4a840073a7c1fbd1b1b42331527c9fbe0c18d63aa019ad23e98cc862ff0"
+    },
+    {
+      "original": "https://www.rokhanna.com/issues/gun-safety",
+      "timestamp": "20241105044059",
+      "wayback": "https://web.archive.org/web/20241105044059/https://www.rokhanna.com/issues/gun-safety",
+      "wayback_raw": "https://web.archive.org/web/20241105044059id_/https://www.rokhanna.com/issues/gun-safety",
+      "file": "archive/2024/khanna-ca/issues-gun-safety.html",
+      "text_file": "archive/2024/khanna-ca/issues-gun-safety.txt",
+      "bytes": 18004,
+      "sha256_html": "135f0e813bec459240e52f7cc327535696bb370b2bbd4ffad7b0e95a5e5a938a",
+      "sha256_text": "dd62c1019d238b5eb42ad875b7ad211d15841cca42d3403c36477a70e757574d"
+    },
+    {
+      "original": "https://www.rokhanna.com/issues/improving-government-efficiency-transparency-and-responsiveness",
+      "timestamp": "20241105044105",
+      "wayback": "https://web.archive.org/web/20241105044105/https://www.rokhanna.com/issues/improving-government-efficiency-transparency-and-responsiveness",
+      "wayback_raw": "https://web.archive.org/web/20241105044105id_/https://www.rokhanna.com/issues/improving-government-efficiency-transparency-and-responsiveness",
+      "file": "archive/2024/khanna-ca/issues-improving-government-efficiency-transparency-and-responsiveness.html",
+      "text_file": "archive/2024/khanna-ca/issues-improving-government-efficiency-transparency-and-responsiveness.txt",
+      "bytes": 24998,
+      "sha256_html": "2945667b81100fe17d3163417faa705bf8536e48be2816db6f511ee56156b1f7",
+      "sha256_text": "69f0af41436d1e292a6f81d7c800f2b1ebe9f4347f811b8f6f924d01c228b0bf"
+    },
+    {
+      "original": "https://www.rokhanna.com/issues/internet-bill-rights",
+      "timestamp": "20241105044031",
+      "wayback": "https://web.archive.org/web/20241105044031/https://www.rokhanna.com/issues/internet-bill-rights",
+      "wayback_raw": "https://web.archive.org/web/20241105044031id_/https://www.rokhanna.com/issues/internet-bill-rights",
+      "file": "archive/2024/khanna-ca/issues-internet-bill-rights.html",
+      "text_file": "archive/2024/khanna-ca/issues-internet-bill-rights.txt",
+      "bytes": 17893,
+      "sha256_html": "ff71059decbec84e3fe9f4201a42ac2a7fa2fb9f69c9cb57a881f6d83b4978e6",
+      "sha256_text": "9b75c611e7e7505dc85c26ebc79b433438515e9282aff25aa460580a21a17fbb"
+    },
+    {
+      "original": "https://www.rokhanna.com/issues/misc",
+      "timestamp": "20241105050307",
+      "wayback": "https://web.archive.org/web/20241105050307/https://www.rokhanna.com/issues/misc",
+      "wayback_raw": "https://web.archive.org/web/20241105050307id_/https://www.rokhanna.com/issues/misc",
+      "file": "archive/2024/khanna-ca/issues-misc.html",
+      "text_file": "archive/2024/khanna-ca/issues-misc.txt",
+      "bytes": 21628,
+      "sha256_html": "f2c2fca1927683019e2716612bb5cf1c8e1a7717439ed3a0f7bc933ee3ab1b53",
+      "sha256_text": "7a330f61c1d6660f74e73b5c868801fc91641d87e6ef257812658beccbe51b77"
+    }
+  ],
+  "snapshots_found": {
+    "rokhanna.com": 70
+  },
+  "generated_utc": "2026-11-14T08:48:32Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
