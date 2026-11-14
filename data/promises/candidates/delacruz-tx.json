@@ -1,0 +1,56 @@
+{
+ "member": "delacruz-tx",
+ "pages": 8,
+ "candidates": [
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "National Border Patrol Council Endorses Congresswoman Monica De La Cruz for Her Leadership on Border Security and Support for Agents",
+   "page": "https://www.monicaforcongress.us/",
+   "file": "archive/2024/delacruz-tx/home.html",
+   "snapshot": "20241031021853"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "Oppose tariffs that hinder American farmers from reaching new customers",
+   "page": "https://www.monicaforcongress.us/issues/",
+   "file": "archive/2024/delacruz-tx/issues.html",
+   "snapshot": "20241031101630"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "Support Border Patrol and Customs agents",
+   "page": "https://www.monicaforcongress.us/issues/",
+   "file": "archive/2024/delacruz-tx/issues.html",
+   "snapshot": "20241031101630"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "Cut wasteful Washington spending that is driving inflation",
+   "page": "https://www.monicaforcongress.us/issues/",
+   "file": "archive/2024/delacruz-tx/issues.html",
+   "snapshot": "20241031101630"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "Protect Medicare and Social Security",
+   "page": "https://www.monicaforcongress.us/issues/",
+   "file": "archive/2024/delacruz-tx/issues.html",
+   "snapshot": "20241031101630"
+  }
+ ]
+}

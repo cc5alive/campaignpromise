@@ -1,0 +1,46 @@
+{
+ "member": "harder-ca",
+ "pages": 12,
+ "candidates": [
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "Josh is leading the fight to cut the cost of prescription drugs like insulin, repeal the gas taxes in both Washington and Sacramento, and get housing costs under control.",
+   "page": "http://harderforcongress.com/issues/",
+   "file": "archive/2024/harder-ca/issues.html",
+   "snapshot": "20241105194912"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "This year he brought home millions in federal dollars to fund a special task force to fight methamphetamine and fentanyl trafficking in the Valley and hire new police officers, buy new police cars, and stand up state of the art public safety equipment.",
+   "page": "http://harderforcongress.com/issues/",
+   "file": "archive/2024/harder-ca/issues.html",
+   "snapshot": "20241105194912"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "He also believes we can’t just stop there – Josh is a vocal advocate for real, comprehensive immigration reform to give immigrants and their families the protections they need to participate fully in our community.",
+   "page": "http://harderforcongress.com/issues/",
+   "file": "archive/2024/harder-ca/issues.html",
+   "snapshot": "20241105194912"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "He believes both border security and immigration reform are important pieces to our country’s success.",
+   "page": "http://harderforcongress.com/issues/",
+   "file": "archive/2024/harder-ca/issues.html",
+   "snapshot": "20241105194912"
+  }
+ ]
+}

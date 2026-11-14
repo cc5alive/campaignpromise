@@ -1,0 +1,359 @@
+[
+ {
+  "member": "cruz-tx",
+  "cand": 0,
+  "kind": "Stated position",
+  "issue": "Immigration",
+  "votes": [
+   "senate-1-00007"
+  ],
+  "note": "Judgment needed: the Laken Riley Act requires detention only for migrants charged with or arrested for certain crimes, not an end to catch and release generally. Quote is a homepage headline."
+ },
+ {
+  "member": "blackburn-tn",
+  "cand": 0,
+  "kind": "Pledge",
+  "issue": "Taxes",
+  "votes": [
+   "senate-1-00372"
+  ],
+  "note": "H.R.1 made the 2017 tax cuts permanent."
+ },
+ {
+  "member": "blackburn-tn",
+  "cand": 11,
+  "kind": "Stated position",
+  "issue": "Immigration",
+  "votes": [
+   "senate-1-00007"
+  ],
+  "note": ""
+ },
+ {
+  "member": "blackburn-tn",
+  "cand": 13,
+  "kind": "Stated position",
+  "issue": "Federal spending",
+  "votes": [
+   "senate-1-00372"
+  ],
+  "note": "Judgment needed: CBO estimated H.R.1 adds to the deficit over ten years, while supporters count its spending cuts. Whether it 'cuts spending' depends on the baseline."
+ },
+ {
+  "member": "fischer-ne",
+  "cand": 1,
+  "kind": "Stated position",
+  "issue": "Taxes",
+  "votes": [
+   "senate-1-00372"
+  ],
+  "note": "Homepage bullet."
+ },
+ {
+  "member": "kaine-va",
+  "cand": 4,
+  "kind": "Stated position",
+  "issue": "Taxes",
+  "votes": [
+   "senate-1-00372"
+  ],
+  "note": "Judgment needed: H.R.1 cut taxes for most households but critics said it favored high earners; whether a no vote breaks this depends on how you read 'working families'."
+ },
+ {
+  "member": "biggs-az",
+  "cand": 0,
+  "kind": "Pledge",
+  "issue": "Immigration",
+  "votes": [
+   "house-2025-006",
+   "house-2025-023"
+  ],
+  "note": ""
+ },
+ {
+  "member": "biggs-az",
+  "cand": 3,
+  "kind": "Stated position",
+  "issue": "Federal spending",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": "Judgment needed: CBO estimated H.R.1 adds to the deficit over ten years, while supporters count its spending cuts. Whether it 'cuts spending' depends on the baseline."
+ },
+ {
+  "member": "burchett-tn",
+  "cand": 0,
+  "kind": "Pledge",
+  "issue": "Abortion funding",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": "H.R.1 blocked Medicaid payments to Planned Parenthood for one year. Judgment needed on whether that matches the promise's wording."
+ },
+ {
+  "member": "burchett-tn",
+  "cand": 5,
+  "kind": "Stated position",
+  "issue": "Immigration",
+  "votes": [
+   "house-2025-006",
+   "house-2025-023"
+  ],
+  "note": ""
+ },
+ {
+  "member": "perry-pa",
+  "cand": 0,
+  "kind": "Stated position",
+  "issue": "Social Security & Medicare",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": "Judgment needed: H.R.1 did not change Social Security or Medicare benefits directly; CBO said its deficit increase could trigger automatic Medicare cuts unless Congress waives them."
+ },
+ {
+  "member": "perry-pa",
+  "cand": 4,
+  "kind": "Stated position",
+  "issue": "Abortion funding",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": "H.R.1 blocked Medicaid payments to Planned Parenthood for one year. Judgment needed on whether that matches the promise's wording."
+ },
+ {
+  "member": "harris-md",
+  "cand": 2,
+  "kind": "Pledge",
+  "issue": "Taxes",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "harris-md",
+  "cand": 3,
+  "kind": "Pledge",
+  "issue": "Immigration",
+  "votes": [
+   "house-2025-006",
+   "house-2025-023"
+  ],
+  "note": ""
+ },
+ {
+  "member": "ciscomani-az",
+  "cand": 1,
+  "kind": "Stated position",
+  "issue": "Immigration",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": "H.R.1 included funding for border wall construction."
+ },
+ {
+  "member": "crenshaw-tx",
+  "cand": 1,
+  "kind": "Stated position",
+  "issue": "Immigration",
+  "votes": [
+   "house-2025-006",
+   "house-2025-023"
+  ],
+  "note": ""
+ },
+ {
+  "member": "barrett-mi",
+  "cand": 1,
+  "kind": "Pledge",
+  "issue": "Immigration",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": "H.R.1 included funding for border wall construction."
+ },
+ {
+  "member": "barrett-mi",
+  "cand": 4,
+  "kind": "Pledge",
+  "issue": "Taxes",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "evans-co",
+  "cand": 1,
+  "kind": "Pledge",
+  "issue": "Social Security & Medicare",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": "Judgment needed: H.R.1 did not change Social Security or Medicare benefits directly; CBO said its deficit increase could trigger automatic Medicare cuts unless Congress waives them."
+ },
+ {
+  "member": "evans-co",
+  "cand": 2,
+  "kind": "Pledge",
+  "issue": "Taxes",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "wagner-mo",
+  "cand": 0,
+  "kind": "Pledge",
+  "issue": "Immigration",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": "H.R.1 included funding for border wall construction."
+ },
+ {
+  "member": "wagner-mo",
+  "cand": 2,
+  "kind": "Stated position",
+  "issue": "Taxes",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "pelosi-ca",
+  "cand": 0,
+  "kind": "Pledge",
+  "issue": "Taxes",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": "Judgment needed: H.R.1 made a $2,200 child tax credit permanent, but not the larger, fully refundable 2021 version Pelosi was referring to."
+ },
+ {
+  "member": "kaptur-oh",
+  "cand": 1,
+  "kind": "Stated position",
+  "issue": "Social Security & Medicare",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": "Judgment needed: H.R.1 did not change Social Security or Medicare benefits directly; CBO said its deficit increase could trigger automatic Medicare cuts unless Congress waives them."
+ },
+ {
+  "member": "horsford-nv",
+  "cand": 2,
+  "kind": "Stated position",
+  "issue": "Social Security & Medicare",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": "Judgment needed: H.R.1 did not change Social Security or Medicare benefits directly; CBO said its deficit increase could trigger automatic Medicare cuts unless Congress waives them."
+ },
+ {
+  "member": "sykes-oh",
+  "cand": 1,
+  "kind": "Pledge",
+  "issue": "Social Security & Medicare",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": "Judgment needed: H.R.1 did not change Social Security or Medicare benefits directly; CBO said its deficit increase could trigger automatic Medicare cuts unless Congress waives them."
+ },
+ {
+  "member": "gillen-ny",
+  "cand": 0,
+  "kind": "Pledge",
+  "issue": "Taxes",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": "Judgment needed: H.R.1 raised the SALT cap from $10,000 to $40,000 for five years. That's a partial restoration, inside a bill Gillen opposed for other reasons."
+ },
+ {
+  "member": "gillen-ny",
+  "cand": 4,
+  "kind": "Pledge",
+  "issue": "Social Security & Medicare",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": "Judgment needed: H.R.1 did not change Social Security or Medicare benefits directly; CBO said its deficit increase could trigger automatic Medicare cuts unless Congress waives them."
+ },
+ {
+  "member": "gillen-ny",
+  "cand": 3,
+  "kind": "Pledge",
+  "issue": "Immigration",
+  "votes": [
+   "house-2025-006",
+   "house-2025-023"
+  ],
+  "note": "Judgment needed: the Laken Riley Act passed with votes from both parties; whether it counts as a 'bipartisan solution' to secure the border is a call for the reviewer."
+ },
+ {
+  "member": "delacruz-tx",
+  "cand": 3,
+  "kind": "Stated position",
+  "issue": "Federal spending",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": "Judgment needed: CBO estimated H.R.1 adds to the deficit over ten years, while supporters count its spending cuts. Whether it 'cuts spending' depends on the baseline."
+ },
+ {
+  "member": "delacruz-tx",
+  "cand": 2,
+  "kind": "Stated position",
+  "issue": "Immigration",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": "H.R.1 funded hiring and pay for Border Patrol and CBP officers. Issues-page bullet."
+ },
+ {
+  "member": "owens-ut",
+  "cand": 0,
+  "kind": "Pledge",
+  "issue": "Taxes",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "owens-ut",
+  "cand": 1,
+  "kind": "Stated position",
+  "issue": "Immigration",
+  "votes": [
+   "house-2025-006",
+   "house-2025-023"
+  ],
+  "note": ""
+ }
+]

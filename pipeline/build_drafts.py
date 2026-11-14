@@ -8,6 +8,7 @@ Each pick: {"member": key, "page": original URL, "quote": exact text,
 A quote is kept only if it appears word for word in the archived HTML.
 """
 import json, re, sys
+from datetime import datetime
 from pathlib import Path
 from bs4 import BeautifulSoup
 
@@ -17,6 +18,19 @@ members_file = sys.argv[2]
 picks = json.loads((ROOT / f"data/promises/{rnd}_selections.json").read_text())
 M = {m["key"]: m for f in members_file.split(",") for m in json.loads((ROOT / "pipeline" / f).read_text())["members"]}
 LIS = json.loads((ROOT / "data/bioguide_to_lis.json").read_text())
+
+
+def iso_date(raw):
+    """House XML gives 22-May-2025; Senate XML gives 'July 1, 2025,  11:56 AM'. Return YYYY-MM-DD."""
+    raw = (raw or "").strip()
+    for fmt, part in (("%d-%b-%Y", raw), ("%B %d, %Y", ",".join(raw.split(",")[:2]))):
+        try:
+            return datetime.strptime(part.strip(), fmt).date().isoformat()
+        except ValueError:
+            pass
+    return raw
+
+
 V = {Path(v["file"]).stem: v for v in json.loads((ROOT / "votes/119/index.json").read_text())["votes"]}
 LABEL = {"S1582": "GENIUS Act", "S5": "Laken Riley Act", "HR29": "Laken Riley Act (House version)",
          "HR1": "2025 reconciliation bill", "HR3633": "CLARITY Act", "HR1919": "Anti-CBDC Act"}
@@ -47,7 +61,7 @@ for i, p in enumerate(picks, 1):
         v = V[vid]
         q = v["question"] or ""
         short = "final passage" if "Passage" in q else ("final passage (Senate version)" if "Concur" in q else q)
-        votes.append({"id": vid, "bill": LABEL[v["bill"]], "question": short, "date": (v["date"] or "")[:20],
+        votes.append({"id": vid, "bill": LABEL[v["bill"]], "question": short, "date": iso_date(v["date"]),
                       "vote": v["positions"].get(who, {}).get("vote", "not found"), "source": v["source"]})
     out.append({"id": f"{rnd.upper()}-{len(out)+1:03d}", "member": p["member"], "name": m["name"], "party": m["party"],
                 "chamber": m["chamber"], "state": m["state"], "quote": p["quote"], "kind": p["kind"], "issue": p["issue"],

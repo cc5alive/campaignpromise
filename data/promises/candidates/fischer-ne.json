@@ -1,0 +1,27 @@
+{
+ "member": "fischer-ne",
+ "pages": 8,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Immigration",
+    "Social Security & Medicare"
+   ],
+   "sentence": "Dan Osborn supports MASS AMNESTY and Social Security benefits for illegal immigrants.",
+   "page": "https://debfornebraska.com/",
+   "file": "archive/2024/fischer-ne/home.html",
+   "snapshot": "20241105070421"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "Cut taxes and regulations.",
+   "page": "https://debfornebraska.com/",
+   "file": "archive/2024/fischer-ne/home.html",
+   "snapshot": "20241105070421"
+  }
+ ]
+}

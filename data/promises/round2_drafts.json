@@ -24,7 +24,7 @@
      "id": "house-2025-145",
      "bill": "2025 reconciliation bill",
      "question": "final passage",
-     "date": "22-May-2025",
+     "date": "2025-05-22",
      "vote": "Yea",
      "source": "https://clerk.house.gov/evs/2025/roll145.xml"
     },
@@ -32,7 +32,7 @@
      "id": "house-2025-190",
      "bill": "2025 reconciliation bill",
      "question": "final passage (Senate version)",
-     "date": "3-Jul-2025",
+     "date": "2025-07-03",
      "vote": "No",
      "source": "https://clerk.house.gov/evs/2025/roll190.xml"
     }
@@ -65,7 +65,7 @@
      "id": "house-2025-006",
      "bill": "Laken Riley Act (House version)",
      "question": "final passage",
-     "date": "7-Jan-2025",
+     "date": "2025-01-07",
      "vote": "Yea",
      "source": "https://clerk.house.gov/evs/2025/roll006.xml"
     },
@@ -73,7 +73,7 @@
      "id": "house-2025-023",
      "bill": "Laken Riley Act",
      "question": "final passage",
-     "date": "22-Jan-2025",
+     "date": "2025-01-22",
      "vote": "Yea",
      "source": "https://clerk.house.gov/evs/2025/roll023.xml"
     }
@@ -106,7 +106,7 @@
      "id": "senate-1-00372",
      "bill": "2025 reconciliation bill",
      "question": "final passage",
-     "date": "July 1, 2025,  11:56",
+     "date": "2025-07-01",
      "vote": "Yea",
      "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml"
     }
@@ -139,7 +139,7 @@
      "id": "senate-1-00007",
      "bill": "Laken Riley Act",
      "question": "final passage",
-     "date": "January 20, 2025,  0",
+     "date": "2025-01-20",
      "vote": "Yea",
      "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00007.xml"
     }
@@ -172,7 +172,7 @@
      "id": "senate-1-00372",
      "bill": "2025 reconciliation bill",
      "question": "final passage",
-     "date": "July 1, 2025,  11:56",
+     "date": "2025-07-01",
      "vote": "Yea",
      "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml"
     }
@@ -205,7 +205,7 @@
      "id": "senate-1-00372",
      "bill": "2025 reconciliation bill",
      "question": "final passage",
-     "date": "July 1, 2025,  11:56",
+     "date": "2025-07-01",
      "vote": "Yea",
      "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml"
     }
@@ -238,7 +238,7 @@
      "id": "senate-1-00007",
      "bill": "Laken Riley Act",
      "question": "final passage",
-     "date": "January 20, 2025,  0",
+     "date": "2025-01-20",
      "vote": "Yea",
      "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00007.xml"
     },
@@ -246,7 +246,7 @@
      "id": "senate-1-00372",
      "bill": "2025 reconciliation bill",
      "question": "final passage",
-     "date": "July 1, 2025,  11:56",
+     "date": "2025-07-01",
      "vote": "Yea",
      "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml"
     }
@@ -279,7 +279,7 @@
      "id": "senate-1-00372",
      "bill": "2025 reconciliation bill",
      "question": "final passage",
-     "date": "July 1, 2025,  11:56",
+     "date": "2025-07-01",
      "vote": "Yea",
      "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml"
     }
@@ -312,7 +312,7 @@
      "id": "house-2025-145",
      "bill": "2025 reconciliation bill",
      "question": "final passage",
-     "date": "22-May-2025",
+     "date": "2025-05-22",
      "vote": "Yea",
      "source": "https://clerk.house.gov/evs/2025/roll145.xml"
     },
@@ -320,7 +320,7 @@
      "id": "house-2025-190",
      "bill": "2025 reconciliation bill",
      "question": "final passage (Senate version)",
-     "date": "3-Jul-2025",
+     "date": "2025-07-03",
      "vote": "Aye",
      "source": "https://clerk.house.gov/evs/2025/roll190.xml"
     }
@@ -353,7 +353,7 @@
      "id": "house-2025-145",
      "bill": "2025 reconciliation bill",
      "question": "final passage",
-     "date": "22-May-2025",
+     "date": "2025-05-22",
      "vote": "Yea",
      "source": "https://clerk.house.gov/evs/2025/roll145.xml"
     },
@@ -361,7 +361,7 @@
      "id": "house-2025-190",
      "bill": "2025 reconciliation bill",
      "question": "final passage (Senate version)",
-     "date": "3-Jul-2025",
+     "date": "2025-07-03",
      "vote": "Aye",
      "source": "https://clerk.house.gov/evs/2025/roll190.xml"
     }
@@ -394,7 +394,7 @@
      "id": "house-2025-006",
      "bill": "Laken Riley Act (House version)",
      "question": "final passage",
-     "date": "7-Jan-2025",
+     "date": "2025-01-07",
      "vote": "Yea",
      "source": "https://clerk.house.gov/evs/2025/roll006.xml"
     },
@@ -402,7 +402,7 @@
      "id": "house-2025-023",
      "bill": "Laken Riley Act",
      "question": "final passage",
-     "date": "22-Jan-2025",
+     "date": "2025-01-22",
      "vote": "Yea",
      "source": "https://clerk.house.gov/evs/2025/roll023.xml"
     }
@@ -435,7 +435,7 @@
      "id": "house-2025-145",
      "bill": "2025 reconciliation bill",
      "question": "final passage",
-     "date": "22-May-2025",
+     "date": "2025-05-22",
      "vote": "Yea",
      "source": "https://clerk.house.gov/evs/2025/roll145.xml"
     },
@@ -443,7 +443,7 @@
      "id": "house-2025-190",
      "bill": "2025 reconciliation bill",
      "question": "final passage (Senate version)",
-     "date": "3-Jul-2025",
+     "date": "2025-07-03",
      "vote": "Aye",
      "source": "https://clerk.house.gov/evs/2025/roll190.xml"
     }
@@ -476,7 +476,7 @@
      "id": "house-2025-006",
      "bill": "Laken Riley Act (House version)",
      "question": "final passage",
-     "date": "7-Jan-2025",
+     "date": "2025-01-07",
      "vote": "Yea",
      "source": "https://clerk.house.gov/evs/2025/roll006.xml"
     },
@@ -484,7 +484,7 @@
      "id": "house-2025-023",
      "bill": "Laken Riley Act",
      "question": "final passage",
-     "date": "22-Jan-2025",
+     "date": "2025-01-22",
      "vote": "Yea",
      "source": "https://clerk.house.gov/evs/2025/roll023.xml"
     }
@@ -517,7 +517,7 @@
      "id": "house-2025-145",
      "bill": "2025 reconciliation bill",
      "question": "final passage",
-     "date": "22-May-2025",
+     "date": "2025-05-22",
      "vote": "Yea",
      "source": "https://clerk.house.gov/evs/2025/roll145.xml"
     },
@@ -525,7 +525,7 @@
      "id": "house-2025-190",
      "bill": "2025 reconciliation bill",
      "question": "final passage (Senate version)",
-     "date": "3-Jul-2025",
+     "date": "2025-07-03",
      "vote": "Aye",
      "source": "https://clerk.house.gov/evs/2025/roll190.xml"
     }
@@ -558,7 +558,7 @@
      "id": "house-2025-145",
      "bill": "2025 reconciliation bill",
      "question": "final passage",
-     "date": "22-May-2025",
+     "date": "2025-05-22",
      "vote": "Yea",
      "source": "https://clerk.house.gov/evs/2025/roll145.xml"
     },
@@ -566,7 +566,7 @@
      "id": "house-2025-190",
      "bill": "2025 reconciliation bill",
      "question": "final passage (Senate version)",
-     "date": "3-Jul-2025",
+     "date": "2025-07-03",
      "vote": "Aye",
      "source": "https://clerk.house.gov/evs/2025/roll190.xml"
     }
@@ -599,7 +599,7 @@
      "id": "house-2025-145",
      "bill": "2025 reconciliation bill",
      "question": "final passage",
-     "date": "22-May-2025",
+     "date": "2025-05-22",
      "vote": "Yea",
      "source": "https://clerk.house.gov/evs/2025/roll145.xml"
     },
@@ -607,7 +607,7 @@
      "id": "house-2025-190",
      "bill": "2025 reconciliation bill",
      "question": "final passage (Senate version)",
-     "date": "3-Jul-2025",
+     "date": "2025-07-03",
      "vote": "Aye",
      "source": "https://clerk.house.gov/evs/2025/roll190.xml"
     }
@@ -640,7 +640,7 @@
      "id": "house-2025-006",
      "bill": "Laken Riley Act (House version)",
      "question": "final passage",
-     "date": "7-Jan-2025",
+     "date": "2025-01-07",
      "vote": "Yea",
      "source": "https://clerk.house.gov/evs/2025/roll006.xml"
     },
@@ -648,7 +648,7 @@
      "id": "house-2025-023",
      "bill": "Laken Riley Act",
      "question": "final passage",
-     "date": "22-Jan-2025",
+     "date": "2025-01-22",
      "vote": "Yea",
      "source": "https://clerk.house.gov/evs/2025/roll023.xml"
     }
@@ -681,7 +681,7 @@
      "id": "house-2025-006",
      "bill": "Laken Riley Act (House version)",
      "question": "final passage",
-     "date": "7-Jan-2025",
+     "date": "2025-01-07",
      "vote": "Yea",
      "source": "https://clerk.house.gov/evs/2025/roll006.xml"
     },
@@ -689,7 +689,7 @@
      "id": "house-2025-023",
      "bill": "Laken Riley Act",
      "question": "final passage",
-     "date": "22-Jan-2025",
+     "date": "2025-01-22",
      "vote": "Yea",
      "source": "https://clerk.house.gov/evs/2025/roll023.xml"
     }
@@ -722,7 +722,7 @@
      "id": "house-2025-006",
      "bill": "Laken Riley Act (House version)",
      "question": "final passage",
-     "date": "7-Jan-2025",
+     "date": "2025-01-07",
      "vote": "Yea",
      "source": "https://clerk.house.gov/evs/2025/roll006.xml"
     },
@@ -730,7 +730,7 @@
      "id": "house-2025-023",
      "bill": "Laken Riley Act",
      "question": "final passage",
-     "date": "22-Jan-2025",
+     "date": "2025-01-22",
      "vote": "Yea",
      "source": "https://clerk.house.gov/evs/2025/roll023.xml"
     }
@@ -763,7 +763,7 @@
      "id": "house-2025-006",
      "bill": "Laken Riley Act (House version)",
      "question": "final passage",
-     "date": "7-Jan-2025",
+     "date": "2025-01-07",
      "vote": "Yea",
      "source": "https://clerk.house.gov/evs/2025/roll006.xml"
     },
@@ -771,7 +771,7 @@
      "id": "house-2025-023",
      "bill": "Laken Riley Act",
      "question": "final passage",
-     "date": "22-Jan-2025",
+     "date": "2025-01-22",
      "vote": "Yea",
      "source": "https://clerk.house.gov/evs/2025/roll023.xml"
     },
@@ -779,7 +779,7 @@
      "id": "house-2025-145",
      "bill": "2025 reconciliation bill",
      "question": "final passage",
-     "date": "22-May-2025",
+     "date": "2025-05-22",
      "vote": "Yea",
      "source": "https://clerk.house.gov/evs/2025/roll145.xml"
     },
@@ -787,7 +787,7 @@
      "id": "house-2025-190",
      "bill": "2025 reconciliation bill",
      "question": "final passage (Senate version)",
-     "date": "3-Jul-2025",
+     "date": "2025-07-03",
      "vote": "Aye",
      "source": "https://clerk.house.gov/evs/2025/roll190.xml"
     }
@@ -820,7 +820,7 @@
      "id": "house-2025-145",
      "bill": "2025 reconciliation bill",
      "question": "final passage",
-     "date": "22-May-2025",
+     "date": "2025-05-22",
      "vote": "Yea",
      "source": "https://clerk.house.gov/evs/2025/roll145.xml"
     },
@@ -828,7 +828,7 @@
      "id": "house-2025-190",
      "bill": "2025 reconciliation bill",
      "question": "final passage (Senate version)",
-     "date": "3-Jul-2025",
+     "date": "2025-07-03",
      "vote": "Aye",
      "source": "https://clerk.house.gov/evs/2025/roll190.xml"
     }
@@ -861,7 +861,7 @@
      "id": "house-2025-145",
      "bill": "2025 reconciliation bill",
      "question": "final passage",
-     "date": "22-May-2025",
+     "date": "2025-05-22",
      "vote": "Yea",
      "source": "https://clerk.house.gov/evs/2025/roll145.xml"
     },
@@ -869,7 +869,7 @@
      "id": "house-2025-190",
      "bill": "2025 reconciliation bill",
      "question": "final passage (Senate version)",
-     "date": "3-Jul-2025",
+     "date": "2025-07-03",
      "vote": "Aye",
      "source": "https://clerk.house.gov/evs/2025/roll190.xml"
     }
@@ -902,7 +902,7 @@
      "id": "house-2025-006",
      "bill": "Laken Riley Act (House version)",
      "question": "final passage",
-     "date": "7-Jan-2025",
+     "date": "2025-01-07",
      "vote": "Yea",
      "source": "https://clerk.house.gov/evs/2025/roll006.xml"
     },
@@ -910,7 +910,7 @@
      "id": "house-2025-023",
      "bill": "Laken Riley Act",
      "question": "final passage",
-     "date": "22-Jan-2025",
+     "date": "2025-01-22",
      "vote": "Yea",
      "source": "https://clerk.house.gov/evs/2025/roll023.xml"
     }
@@ -943,7 +943,7 @@
      "id": "house-2025-145",
      "bill": "2025 reconciliation bill",
      "question": "final passage",
-     "date": "22-May-2025",
+     "date": "2025-05-22",
      "vote": "Yea",
      "source": "https://clerk.house.gov/evs/2025/roll145.xml"
     },
@@ -951,7 +951,7 @@
      "id": "house-2025-190",
      "bill": "2025 reconciliation bill",
      "question": "final passage (Senate version)",
-     "date": "3-Jul-2025",
+     "date": "2025-07-03",
      "vote": "Aye",
      "source": "https://clerk.house.gov/evs/2025/roll190.xml"
     }
@@ -984,7 +984,7 @@
      "id": "house-2025-006",
      "bill": "Laken Riley Act (House version)",
      "question": "final passage",
-     "date": "7-Jan-2025",
+     "date": "2025-01-07",
      "vote": "Yea",
      "source": "https://clerk.house.gov/evs/2025/roll006.xml"
     },
@@ -992,7 +992,7 @@
      "id": "house-2025-023",
      "bill": "Laken Riley Act",
      "question": "final passage",
-     "date": "22-Jan-2025",
+     "date": "2025-01-22",
      "vote": "Yea",
      "source": "https://clerk.house.gov/evs/2025/roll023.xml"
     }
@@ -1025,7 +1025,7 @@
      "id": "senate-1-00372",
      "bill": "2025 reconciliation bill",
      "question": "final passage",
-     "date": "July 1, 2025,  11:56",
+     "date": "2025-07-01",
      "vote": "Nay",
      "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml"
     }
@@ -1058,7 +1058,7 @@
      "id": "senate-1-00372",
      "bill": "2025 reconciliation bill",
      "question": "final passage",
-     "date": "July 1, 2025,  11:56",
+     "date": "2025-07-01",
      "vote": "Nay",
      "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml"
     }
@@ -1091,7 +1091,7 @@
      "id": "house-2025-145",
      "bill": "2025 reconciliation bill",
      "question": "final passage",
-     "date": "22-May-2025",
+     "date": "2025-05-22",
      "vote": "Nay",
      "source": "https://clerk.house.gov/evs/2025/roll145.xml"
     },
@@ -1099,7 +1099,7 @@
      "id": "house-2025-190",
      "bill": "2025 reconciliation bill",
      "question": "final passage (Senate version)",
-     "date": "3-Jul-2025",
+     "date": "2025-07-03",
      "vote": "No",
      "source": "https://clerk.house.gov/evs/2025/roll190.xml"
     }
@@ -1132,7 +1132,7 @@
      "id": "house-2025-145",
      "bill": "2025 reconciliation bill",
      "question": "final passage",
-     "date": "22-May-2025",
+     "date": "2025-05-22",
      "vote": "Nay",
      "source": "https://clerk.house.gov/evs/2025/roll145.xml"
     },
@@ -1140,7 +1140,7 @@
      "id": "house-2025-190",
      "bill": "2025 reconciliation bill",
      "question": "final passage (Senate version)",
-     "date": "3-Jul-2025",
+     "date": "2025-07-03",
      "vote": "No",
      "source": "https://clerk.house.gov/evs/2025/roll190.xml"
     }
@@ -1173,7 +1173,7 @@
      "id": "house-2025-145",
      "bill": "2025 reconciliation bill",
      "question": "final passage",
-     "date": "22-May-2025",
+     "date": "2025-05-22",
      "vote": "Nay",
      "source": "https://clerk.house.gov/evs/2025/roll145.xml"
     },
@@ -1181,7 +1181,7 @@
      "id": "house-2025-190",
      "bill": "2025 reconciliation bill",
      "question": "final passage (Senate version)",
-     "date": "3-Jul-2025",
+     "date": "2025-07-03",
      "vote": "No",
      "source": "https://clerk.house.gov/evs/2025/roll190.xml"
     }
@@ -1214,7 +1214,7 @@
      "id": "house-2025-145",
      "bill": "2025 reconciliation bill",
      "question": "final passage",
-     "date": "22-May-2025",
+     "date": "2025-05-22",
      "vote": "Nay",
      "source": "https://clerk.house.gov/evs/2025/roll145.xml"
     },
@@ -1222,7 +1222,7 @@
      "id": "house-2025-190",
      "bill": "2025 reconciliation bill",
      "question": "final passage (Senate version)",
-     "date": "3-Jul-2025",
+     "date": "2025-07-03",
      "vote": "No",
      "source": "https://clerk.house.gov/evs/2025/roll190.xml"
     }
@@ -1255,7 +1255,7 @@
      "id": "house-2025-145",
      "bill": "2025 reconciliation bill",
      "question": "final passage",
-     "date": "22-May-2025",
+     "date": "2025-05-22",
      "vote": "Nay",
      "source": "https://clerk.house.gov/evs/2025/roll145.xml"
     },
@@ -1263,7 +1263,7 @@
      "id": "house-2025-190",
      "bill": "2025 reconciliation bill",
      "question": "final passage (Senate version)",
-     "date": "3-Jul-2025",
+     "date": "2025-07-03",
      "vote": "No",
      "source": "https://clerk.house.gov/evs/2025/roll190.xml"
     }
@@ -1296,7 +1296,7 @@
      "id": "house-2025-006",
      "bill": "Laken Riley Act (House version)",
      "question": "final passage",
-     "date": "7-Jan-2025",
+     "date": "2025-01-07",
      "vote": "Nay",
      "source": "https://clerk.house.gov/evs/2025/roll006.xml"
     },
@@ -1304,7 +1304,7 @@
      "id": "house-2025-023",
      "bill": "Laken Riley Act",
      "question": "final passage",
-     "date": "22-Jan-2025",
+     "date": "2025-01-22",
      "vote": "Nay",
      "source": "https://clerk.house.gov/evs/2025/roll023.xml"
     }
@@ -1337,7 +1337,7 @@
      "id": "house-2025-145",
      "bill": "2025 reconciliation bill",
      "question": "final passage",
-     "date": "22-May-2025",
+     "date": "2025-05-22",
      "vote": "Nay",
      "source": "https://clerk.house.gov/evs/2025/roll145.xml"
     },
@@ -1345,7 +1345,7 @@
      "id": "house-2025-190",
      "bill": "2025 reconciliation bill",
      "question": "final passage (Senate version)",
-     "date": "3-Jul-2025",
+     "date": "2025-07-03",
      "vote": "No",
      "source": "https://clerk.house.gov/evs/2025/roll190.xml"
     }
@@ -1378,7 +1378,7 @@
      "id": "house-2025-006",
      "bill": "Laken Riley Act (House version)",
      "question": "final passage",
-     "date": "7-Jan-2025",
+     "date": "2025-01-07",
      "vote": "Nay",
      "source": "https://clerk.house.gov/evs/2025/roll006.xml"
     },
@@ -1386,7 +1386,7 @@
      "id": "house-2025-023",
      "bill": "Laken Riley Act",
      "question": "final passage",
-     "date": "22-Jan-2025",
+     "date": "2025-01-22",
      "vote": "Nay",
      "source": "https://clerk.house.gov/evs/2025/roll023.xml"
     }
@@ -1419,7 +1419,7 @@
      "id": "house-2025-145",
      "bill": "2025 reconciliation bill",
      "question": "final passage",
-     "date": "22-May-2025",
+     "date": "2025-05-22",
      "vote": "Nay",
      "source": "https://clerk.house.gov/evs/2025/roll145.xml"
     },
@@ -1427,7 +1427,7 @@
      "id": "house-2025-190",
      "bill": "2025 reconciliation bill",
      "question": "final passage (Senate version)",
-     "date": "3-Jul-2025",
+     "date": "2025-07-03",
      "vote": "No",
      "source": "https://clerk.house.gov/evs/2025/roll190.xml"
     }
@@ -1460,7 +1460,7 @@
      "id": "house-2025-199",
      "bill": "CLARITY Act",
      "question": "final passage",
-     "date": "17-Jul-2025",
+     "date": "2025-07-17",
      "vote": "Yea",
      "source": "https://clerk.house.gov/evs/2025/roll199.xml"
     },
@@ -1468,7 +1468,7 @@
      "id": "house-2025-200",
      "bill": "GENIUS Act",
      "question": "final passage",
-     "date": "17-Jul-2025",
+     "date": "2025-07-17",
      "vote": "Yea",
      "source": "https://clerk.house.gov/evs/2025/roll200.xml"
     },
@@ -1476,7 +1476,7 @@
      "id": "house-2025-201",
      "bill": "Anti-CBDC Act",
      "question": "final passage",
-     "date": "17-Jul-2025",
+     "date": "2025-07-17",
      "vote": "Nay",
      "source": "https://clerk.house.gov/evs/2025/roll201.xml"
     }
@@ -1509,7 +1509,7 @@
      "id": "house-2025-145",
      "bill": "2025 reconciliation bill",
      "question": "final passage",
-     "date": "22-May-2025",
+     "date": "2025-05-22",
      "vote": "Nay",
      "source": "https://clerk.house.gov/evs/2025/roll145.xml"
     },
@@ -1517,7 +1517,7 @@
      "id": "house-2025-190",
      "bill": "2025 reconciliation bill",
      "question": "final passage (Senate version)",
-     "date": "3-Jul-2025",
+     "date": "2025-07-03",
      "vote": "No",
      "source": "https://clerk.house.gov/evs/2025/roll190.xml"
     }
@@ -1550,7 +1550,7 @@
      "id": "house-2025-145",
      "bill": "2025 reconciliation bill",
      "question": "final passage",
-     "date": "22-May-2025",
+     "date": "2025-05-22",
      "vote": "Nay",
      "source": "https://clerk.house.gov/evs/2025/roll145.xml"
     },
@@ -1558,7 +1558,7 @@
      "id": "house-2025-190",
      "bill": "2025 reconciliation bill",
      "question": "final passage (Senate version)",
-     "date": "3-Jul-2025",
+     "date": "2025-07-03",
      "vote": "No",
      "source": "https://clerk.house.gov/evs/2025/roll190.xml"
     }
@@ -1591,7 +1591,7 @@
      "id": "house-2025-145",
      "bill": "2025 reconciliation bill",
      "question": "final passage",
-     "date": "22-May-2025",
+     "date": "2025-05-22",
      "vote": "Nay",
      "source": "https://clerk.house.gov/evs/2025/roll145.xml"
     },
@@ -1599,7 +1599,7 @@
      "id": "house-2025-190",
      "bill": "2025 reconciliation bill",
      "question": "final passage (Senate version)",
-     "date": "3-Jul-2025",
+     "date": "2025-07-03",
      "vote": "No",
      "source": "https://clerk.house.gov/evs/2025/roll190.xml"
     }
@@ -1632,7 +1632,7 @@
      "id": "house-2025-006",
      "bill": "Laken Riley Act (House version)",
      "question": "final passage",
-     "date": "7-Jan-2025",
+     "date": "2025-01-07",
      "vote": "Nay",
      "source": "https://clerk.house.gov/evs/2025/roll006.xml"
     },
@@ -1640,7 +1640,7 @@
      "id": "house-2025-023",
      "bill": "Laken Riley Act",
      "question": "final passage",
-     "date": "22-Jan-2025",
+     "date": "2025-01-22",
      "vote": "Nay",
      "source": "https://clerk.house.gov/evs/2025/roll023.xml"
     }
@@ -1673,7 +1673,7 @@
      "id": "house-2025-006",
      "bill": "Laken Riley Act (House version)",
      "question": "final passage",
-     "date": "7-Jan-2025",
+     "date": "2025-01-07",
      "vote": "Nay",
      "source": "https://clerk.house.gov/evs/2025/roll006.xml"
     },
@@ -1681,7 +1681,7 @@
      "id": "house-2025-023",
      "bill": "Laken Riley Act",
      "question": "final passage",
-     "date": "22-Jan-2025",
+     "date": "2025-01-22",
      "vote": "Not Voting",
      "source": "https://clerk.house.gov/evs/2025/roll023.xml"
     }

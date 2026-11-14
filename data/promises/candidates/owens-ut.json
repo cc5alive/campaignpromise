@@ -1,0 +1,88 @@
+{
+ "member": "owens-ut",
+ "pages": 12,
+ "candidates": [
+  {
+   "score": 9,
+   "topics": [
+    "Taxes",
+    "Federal spending"
+   ],
+   "sentence": "I will continue to support policies that allow Americans to keep more of their hard-earned money, while holding the Biden administration accountable for their wasteful spending of taxpayer funds.",
+   "page": "https://burgess4utah.com/issues/taxes/",
+   "file": "archive/2024/owens-ut/issues-taxes.html",
+   "snapshot": "20241105190131"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "With record amounts of fentanyl pouring into our country at rates never seen before, we need to secure the border.",
+   "page": "https://burgess4utah.com/issues/immigration/",
+   "file": "archive/2024/owens-ut/issues-immigration.html",
+   "snapshot": "20241105190101"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Immigration",
+    "Taxes"
+   ],
+   "sentence": "Protect American Taxpayer Dollars from Illegal Immigration Act",
+   "page": "https://burgess4utah.com/issues/immigration/",
+   "file": "archive/2024/owens-ut/issues-immigration.html",
+   "snapshot": "20241105190101"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "Taxpayer Protection Pledge",
+   "page": "https://burgess4utah.com/issues/taxes/",
+   "file": "archive/2024/owens-ut/issues-taxes.html",
+   "snapshot": "20241105190131"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": ", which would repeal excise taxes on the transfer of firearms.",
+   "page": "https://burgess4utah.com/issues/2nd-amendment/",
+   "file": "archive/2024/owens-ut/issues-2nd-amendment.html",
+   "snapshot": "20241105190119"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": ", a resolution stating Congressional support for the step-up in tax basis and recognizing the contributions of family-owned farms and businesses.",
+   "page": "https://burgess4utah.com/issues/balance-budget/",
+   "file": "archive/2024/owens-ut/issues-balance-budget.html",
+   "snapshot": "20241105190137"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "to Department of Homeland Security (DHS) Secretary Alejandro Mayorkas requesting information on how DHS plans to secure the border in light of lifting Title 42 expulsion authority.",
+   "page": "https://burgess4utah.com/issues/immigration/",
+   "file": "archive/2024/owens-ut/issues-immigration.html",
+   "snapshot": "20241105190101"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": ", legislation to study historic drought conditions and protect the long-term health of the Great Salt Lake in Utah.",
+   "page": "https://burgess4utah.com/issues/water/",
+   "file": "archive/2024/owens-ut/issues-water.html",
+   "snapshot": "20241105190106"
+  }
+ ]
+}

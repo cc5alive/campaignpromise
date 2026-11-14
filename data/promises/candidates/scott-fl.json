@@ -1,0 +1,47 @@
+{
+ "member": "scott-fl",
+ "pages": 12,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Taxes",
+    "Federal spending"
+   ],
+   "sentence": "Thanks to Governor Scott’s work to cut taxes, reduce debt and turnaround the economy, record investments have been made in Florida students.",
+   "page": "https://rickscott.com/debates/senator-nelson-confused-by-the-reality-of-floridas-education-accomplishments/",
+   "file": "archive/2024/scott-fl/debates-senator-nelson-confused-by-the-reality-of-floridas-education-accomplishments.html",
+   "snapshot": "20241105170135"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "Do The Failed Florida Dems Believe There is a Border Crisis?",
+   "page": "https://rickscott.com/",
+   "file": "archive/2024/scott-fl/home.html",
+   "snapshot": "20241105165924"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "Joe Biden is Confused About Who Wants To Cut Social Security and Medicare",
+   "page": "https://rickscott.com/",
+   "file": "archive/2024/scott-fl/home.html",
+   "snapshot": "20241105165924"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "Senator Scott is committed to combatting the fentanyl crisis, protecting Florida students, and keeping Floridians safe.",
+   "page": "https://rickscott.com/endorsement/florida-police-chiefs-association/",
+   "file": "archive/2024/scott-fl/endorsement-florida-police-chiefs-association.html",
+   "snapshot": "20241105163111"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "member": "ciscomani-az",
+ "pages": 3,
+ "candidates": [
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "Juan supports an all-of-the-above approach to securing the border – boots on the ground, deploying new technology, and yes – finishing the wall.",
+   "page": "https://juanciscomani.com/",
+   "file": "archive/2024/ciscomani-az/home.html",
+   "snapshot": "20241105072236"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "I support an all-of-the-above approach to securing the border – boots on the ground, deploying new technology, and yes – finishing the wall.",
+   "page": "https://juanciscomani.com/priorities",
+   "file": "archive/2024/ciscomani-az/priorities.html",
+   "snapshot": "20241105155425"
+  }
+ ]
+}
