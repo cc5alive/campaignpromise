@@ -1,0 +1,27 @@
+{
+  "name": "Henry Cuellar",
+  "domains_tried": [
+    "henrycuellar.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.henrycuellar.com/",
+      "timestamp": "20241105130121",
+      "wayback": "https://web.archive.org/web/20241105130121/https://www.henrycuellar.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105130121id_/https://www.henrycuellar.com/",
+      "file": "archive/2024/cuellar-tx/home.html",
+      "text_file": "archive/2024/cuellar-tx/home.txt",
+      "bytes": 300863,
+      "sha256_html": "a55982a9e3f8317a171c5b511a6c27056f2a401766ab2076f90219aa5101f7cc",
+      "sha256_text": "ab9cc8205d22d786df8c5cdbc8f890128c4c3d1dbf987e2b16973b8e11e31fa1"
+    }
+  ],
+  "snapshots_found": {
+    "henrycuellar.com": 1
+  },
+  "generated_utc": "2026-11-14T08:50:32Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
