@@ -1,0 +1,148 @@
+{
+  "name": "Tim Kaine",
+  "domains_tried": [
+    "timkaine.com"
+  ],
+  "pages": [
+    {
+      "original": "https://timkaine.com/",
+      "timestamp": "20241105234102",
+      "wayback": "https://web.archive.org/web/20241105234102/https://timkaine.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105234102id_/https://timkaine.com/",
+      "file": "archive/2024/kaine-va/home.html",
+      "text_file": "archive/2024/kaine-va/home.txt",
+      "bytes": 274460,
+      "sha256_html": "d24b9a2067cf30e325b336fed4d5cb0f07356100e42c9b2c5a449f23200acdd3",
+      "sha256_text": "1f934ea41e2dbc634e7bb640f3b35bba6465b50c09997d3bf3e2ad9ac82520ea"
+    },
+    {
+      "original": "https://timkaine.com/7-days-7-ways-tim-kaine-stands-up-for-virginia-listening-to-virginians/",
+      "timestamp": "20241102050544",
+      "wayback": "https://web.archive.org/web/20241102050544/https://timkaine.com/7-days-7-ways-tim-kaine-stands-up-for-virginia-listening-to-virginians/",
+      "wayback_raw": "https://web.archive.org/web/20241102050544id_/https://timkaine.com/7-days-7-ways-tim-kaine-stands-up-for-virginia-listening-to-virginians/",
+      "file": "archive/2024/kaine-va/7-days-7-ways-tim-kaine-stands-up-for-virginia-listening-to-virginians.html",
+      "text_file": "archive/2024/kaine-va/7-days-7-ways-tim-kaine-stands-up-for-virginia-listening-to-virginians.txt",
+      "bytes": 177727,
+      "sha256_html": "fac626bb8726c460ba4832afe0cb244dab055c2f4dd126de23182ce32f43abd1",
+      "sha256_text": "99f7e654d93a799286e84a500fdf6cff73da73b8a6610660cd9b4b76985dc482"
+    },
+    {
+      "original": "https://timkaine.com/7-days-7-ways-tim-kaine-stands-up-for-virginia-lowering-costs/",
+      "timestamp": "20241101232008",
+      "wayback": "https://web.archive.org/web/20241101232008/https://timkaine.com/7-days-7-ways-tim-kaine-stands-up-for-virginia-lowering-costs/",
+      "wayback_raw": "https://web.archive.org/web/20241101232008id_/https://timkaine.com/7-days-7-ways-tim-kaine-stands-up-for-virginia-lowering-costs/",
+      "file": "archive/2024/kaine-va/7-days-7-ways-tim-kaine-stands-up-for-virginia-lowering-costs.html",
+      "text_file": "archive/2024/kaine-va/7-days-7-ways-tim-kaine-stands-up-for-virginia-lowering-costs.txt",
+      "bytes": 178255,
+      "sha256_html": "c053f8fceda362da7528a9aee652f079d9698d9dedba3c2f681d1a05c49e65b5",
+      "sha256_text": "f123ca0980c6a697f852ff88e6cf557ef9aa93dc06949e6dd3528be68fc45dc0"
+    },
+    {
+      "original": "https://timkaine.com/7-days-7-ways-tim-kaine-stands-up-for-virginia-making-healthcare-more-affordable/",
+      "timestamp": "20241102050526",
+      "wayback": "https://web.archive.org/web/20241102050526/https://timkaine.com/7-days-7-ways-tim-kaine-stands-up-for-virginia-making-healthcare-more-affordable/",
+      "wayback_raw": "https://web.archive.org/web/20241102050526id_/https://timkaine.com/7-days-7-ways-tim-kaine-stands-up-for-virginia-making-healthcare-more-affordable/",
+      "file": "archive/2024/kaine-va/7-days-7-ways-tim-kaine-stands-up-for-virginia-making-healthcare-more-affordable.html",
+      "text_file": "archive/2024/kaine-va/7-days-7-ways-tim-kaine-stands-up-for-virginia-making-healthcare-more-affordable.txt",
+      "bytes": 179105,
+      "sha256_html": "2ec59c5e1d60a22f69d478cf0b1af83bbbb6a9411861a60667fb2687aadfa448",
+      "sha256_text": "b82bc32984b6f0dcab3872621b29d4c1c465e2da91fb832bbae82bcb749e9330"
+    },
+    {
+      "original": "https://timkaine.com/7-days-7-ways-tim-kaine-stands-up-for-virginia-supporting-workers/",
+      "timestamp": "20241102102048",
+      "wayback": "https://web.archive.org/web/20241102102048/https://timkaine.com/7-days-7-ways-tim-kaine-stands-up-for-virginia-supporting-workers/",
+      "wayback_raw": "https://web.archive.org/web/20241102102048id_/https://timkaine.com/7-days-7-ways-tim-kaine-stands-up-for-virginia-supporting-workers/",
+      "file": "archive/2024/kaine-va/7-days-7-ways-tim-kaine-stands-up-for-virginia-supporting-workers.html",
+      "text_file": "archive/2024/kaine-va/7-days-7-ways-tim-kaine-stands-up-for-virginia-supporting-workers.txt",
+      "bytes": 178169,
+      "sha256_html": "73d40f4041a6b9ae1439bb074ae958784529355ac5bfc712dbd6b4b2f9b19075",
+      "sha256_text": "332ed1a8dadd19e00aa54bc6ba9096d87154692a60dbc0fb6860e35f79f94105"
+    },
+    {
+      "original": "https://timkaine.com/issues/",
+      "timestamp": "20241101214814",
+      "wayback": "https://web.archive.org/web/20241101214814/https://timkaine.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241101214814id_/https://timkaine.com/issues/",
+      "file": "archive/2024/kaine-va/issues.html",
+      "text_file": "archive/2024/kaine-va/issues.txt",
+      "bytes": 236254,
+      "sha256_html": "2c72c4f84b70b198e854adbc3df97692400a07c288bde3cfe39dacb176149e22",
+      "sha256_text": "039e13ab80a0b1b2216be6808d6f6fae6e8fc6baf18b7a3677aeeeaab0c27dab"
+    },
+    {
+      "original": "https://timkaine.com/kaine-campaign-launches-standing-up-for-virginia-tour-to-highlight-how-hes-delivered-for-every-corner-of-the-commonwealth/",
+      "timestamp": "20241104082631",
+      "wayback": "https://web.archive.org/web/20241104082631/https://timkaine.com/kaine-campaign-launches-standing-up-for-virginia-tour-to-highlight-how-hes-delivered-for-every-corner-of-the-commonwealth/",
+      "wayback_raw": "https://web.archive.org/web/20241104082631id_/https://timkaine.com/kaine-campaign-launches-standing-up-for-virginia-tour-to-highlight-how-hes-delivered-for-every-corner-of-the-commonwealth/",
+      "file": "archive/2024/kaine-va/kaine-campaign-launches-standing-up-for-virginia-tour-to-highlight-how-hes-delivered-for-every-corner-of-the-commonwealth.html",
+      "text_file": "archive/2024/kaine-va/kaine-campaign-launches-standing-up-for-virginia-tour-to-highlight-how-hes-delivered-for-every-corner-of-the-commonwealth.txt",
+      "bytes": 178665,
+      "sha256_html": "9b3f89f1c764153aa8cf3ad8aac0ce06d7c196b410a99ef4180cdbe69fb1a61a",
+      "sha256_text": "746bb71c7718a6fcaa7a56fe8135d62e4988225fbbe1673dd80117c0bfd81a34"
+    },
+    {
+      "original": "https://timkaine.com/kaine-for-virginia-campaign-launches-final-closing-tv-ad-faith-and-freedom-highlighting-that-senator-kaine-is-standing-up-for-all-virginians/",
+      "timestamp": "20241102050556",
+      "wayback": "https://web.archive.org/web/20241102050556/https://timkaine.com/kaine-for-virginia-campaign-launches-final-closing-tv-ad-faith-and-freedom-highlighting-that-senator-kaine-is-standing-up-for-all-virginians/",
+      "wayback_raw": "https://web.archive.org/web/20241102050556id_/https://timkaine.com/kaine-for-virginia-campaign-launches-final-closing-tv-ad-faith-and-freedom-highlighting-that-senator-kaine-is-standing-up-for-all-virginians/",
+      "file": "archive/2024/kaine-va/kaine-for-virginia-campaign-launches-final-closing-tv-ad-faith-and-freedom-highlighting-that-senator-kaine-is-standing-up-for-all-virginians.html",
+      "text_file": "archive/2024/kaine-va/kaine-for-virginia-campaign-launches-final-closing-tv-ad-faith-and-freedom-highlighting-that-senator-kaine-is-standing-up-for-all-virginians.txt",
+      "bytes": 181303,
+      "sha256_html": "335236364bfc66c4a4b72b6e3f7fe45723f75f520dc1e2e90f2398602c5ab2f4",
+      "sha256_text": "2b742b7058926738a803825c2f4f979fa3d92a32449a44868bf43c0f7a57053c"
+    },
+    {
+      "original": "https://timkaine.com/kaine-for-virginia-campaign-launches-new-digital-ad-extreme-highlighting-hung-caos-dangerous-position-on-reproductive-freedom/",
+      "timestamp": "20241104075801",
+      "wayback": "https://web.archive.org/web/20241104075801/https://timkaine.com/kaine-for-virginia-campaign-launches-new-digital-ad-extreme-highlighting-hung-caos-dangerous-position-on-reproductive-freedom/",
+      "wayback_raw": "https://web.archive.org/web/20241104075801id_/https://timkaine.com/kaine-for-virginia-campaign-launches-new-digital-ad-extreme-highlighting-hung-caos-dangerous-position-on-reproductive-freedom/",
+      "file": "archive/2024/kaine-va/kaine-for-virginia-campaign-launches-new-digital-ad-extreme-highlighting-hung-caos-dangerous-position-on-reproductive-freedom.html",
+      "text_file": "archive/2024/kaine-va/kaine-for-virginia-campaign-launches-new-digital-ad-extreme-highlighting-hung-caos-dangerous-position-on-reproductive-freedom.txt",
+      "bytes": 181267,
+      "sha256_html": "93d1f9c920512fcdeb58520b288d10ed0d2f92bed6baa705528575dbc467b4f5",
+      "sha256_text": "884f173b432c769078b2523580abe62ce4b6e2267c016ec1be35c243547fb56d"
+    },
+    {
+      "original": "https://timkaine.com/kaine-for-virginia-campaign-launches-new-spanish-language-ad-valores-which-highlights-senator-kaines-lifelong-values-of-service/",
+      "timestamp": "20241102050621",
+      "wayback": "https://web.archive.org/web/20241102050621/https://timkaine.com/kaine-for-virginia-campaign-launches-new-spanish-language-ad-valores-which-highlights-senator-kaines-lifelong-values-of-service/",
+      "wayback_raw": "https://web.archive.org/web/20241102050621id_/https://timkaine.com/kaine-for-virginia-campaign-launches-new-spanish-language-ad-valores-which-highlights-senator-kaines-lifelong-values-of-service/",
+      "file": "archive/2024/kaine-va/kaine-for-virginia-campaign-launches-new-spanish-language-ad-valores-which-highlights-senator-kaines-lifelong-values-of-service.html",
+      "text_file": "archive/2024/kaine-va/kaine-for-virginia-campaign-launches-new-spanish-language-ad-valores-which-highlights-senator-kaines-lifelong-values-of-service.txt",
+      "bytes": 182411,
+      "sha256_html": "958d3d2346ec5270568bdefe1cb0b358142394f07f852d6b7e331284a6b02fb1",
+      "sha256_text": "775a198c60d6258bcea7369c204a7ecd1462449c67820e670a7cbb552754781d"
+    },
+    {
+      "original": "https://timkaine.com/kaine-for-virginia-has-8-7m-on-hand-raising-a-record-breaking-2-5m-in-q1/",
+      "timestamp": "20241104082417",
+      "wayback": "https://web.archive.org/web/20241104082417/https://timkaine.com/kaine-for-virginia-has-8-7m-on-hand-raising-a-record-breaking-2-5m-in-q1/",
+      "wayback_raw": "https://web.archive.org/web/20241104082417id_/https://timkaine.com/kaine-for-virginia-has-8-7m-on-hand-raising-a-record-breaking-2-5m-in-q1/",
+      "file": "archive/2024/kaine-va/kaine-for-virginia-has-8-7m-on-hand-raising-a-record-breaking-2-5m-in-q1.html",
+      "text_file": "archive/2024/kaine-va/kaine-for-virginia-has-8-7m-on-hand-raising-a-record-breaking-2-5m-in-q1.txt",
+      "bytes": 176768,
+      "sha256_html": "c435dd84aab28f51a9f548d09eac8c9d675f59e0e9cc1e5eb612fc8f96ac187f",
+      "sha256_text": "6bfa2f5f2a6f1d5029dc42ab87abfe41ddd51353445db95ef3ee7c5eb420fbe7"
+    },
+    {
+      "original": "https://timkaine.com/kaine-for-virginia-launches-new-series-caos-cuts-to-highlight-how-hung-caos-extreme-plans-would-be-bad-for-virginia/",
+      "timestamp": "20241104065739",
+      "wayback": "https://web.archive.org/web/20241104065739/https://timkaine.com/kaine-for-virginia-launches-new-series-caos-cuts-to-highlight-how-hung-caos-extreme-plans-would-be-bad-for-virginia/",
+      "wayback_raw": "https://web.archive.org/web/20241104065739id_/https://timkaine.com/kaine-for-virginia-launches-new-series-caos-cuts-to-highlight-how-hung-caos-extreme-plans-would-be-bad-for-virginia/",
+      "file": "archive/2024/kaine-va/kaine-for-virginia-launches-new-series-caos-cuts-to-highlight-how-hung-caos-extreme-plans-would-be-bad-for-virginia.html",
+      "text_file": "archive/2024/kaine-va/kaine-for-virginia-launches-new-series-caos-cuts-to-highlight-how-hung-caos-extreme-plans-would-be-bad-for-virginia.txt",
+      "bytes": 180026,
+      "sha256_html": "43cc50cb9dc2d44387039e4a780fc4756dd8c858b309cac9778cf73cc9a824df",
+      "sha256_text": "3e644575aaa51e4fc253744382b8586144a2df6e7550689f7ab7bb13716ab993"
+    }
+  ],
+  "snapshots_found": {
+    "timkaine.com": 580
+  },
+  "generated_utc": "2026-11-14T15:55:14Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
