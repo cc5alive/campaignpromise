@@ -1,0 +1,27 @@
+{
+  "name": "Bernie Moreno",
+  "domains_tried": [
+    "berniemoreno.com"
+  ],
+  "pages": [
+    {
+      "original": "https://berniemoreno.com/",
+      "timestamp": "20241105071932",
+      "wayback": "https://web.archive.org/web/20241105071932/https://berniemoreno.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105071932id_/https://berniemoreno.com/",
+      "file": "archive/2024/moreno/home.html",
+      "text_file": "archive/2024/moreno/home.txt",
+      "bytes": 45026,
+      "sha256_html": "7ce5d97f3b202867280b5b88adbb5588439e0deb47fa8d40cad3282281144511",
+      "sha256_text": "a986fd652fa0a116199664ca5af0a1d3891130fdc16af6c0a51bc0df253272a6"
+    }
+  ],
+  "snapshots_found": {
+    "berniemoreno.com": 812
+  },
+  "generated_utc": "2026-11-14T07:42:09Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
