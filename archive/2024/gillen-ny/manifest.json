@@ -1,0 +1,49 @@
+{
+  "name": "Laura Gillen",
+  "domains_tried": [
+    "lauragillen.com"
+  ],
+  "pages": [
+    {
+      "original": "https://lauragillen.com/",
+      "timestamp": "20241105204637",
+      "wayback": "https://web.archive.org/web/20241105204637/https://lauragillen.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105204637id_/https://lauragillen.com/",
+      "file": "archive/2024/gillen-ny/home.html",
+      "text_file": "archive/2024/gillen-ny/home.txt",
+      "bytes": 67624,
+      "sha256_html": "bfd31f9e7f8323da6ccf153cb76f61f2b668a236e452abe7b85a3b906115abc1",
+      "sha256_text": "e6b3be62c4e76bd136bfd73212bbb95a5ad730630bcc42c3026de341bf0460db"
+    },
+    {
+      "original": "https://lauragillen.com/issues/",
+      "timestamp": "20241105204556",
+      "wayback": "https://web.archive.org/web/20241105204556/https://lauragillen.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105204556id_/https://lauragillen.com/issues/",
+      "file": "archive/2024/gillen-ny/issues.html",
+      "text_file": "archive/2024/gillen-ny/issues.txt",
+      "bytes": 67196,
+      "sha256_html": "b3b651f45fd54fb6cac202148f0d8d9cb64f437e8ebf89419d467d48ccafc0ca",
+      "sha256_text": "7a9410500f54d790daabcdebfa4b6a440b133594437f9abf1e9d5070794e94dc"
+    },
+    {
+      "original": "https://lauragillen.com/issues/embed/",
+      "timestamp": "20241031192157",
+      "wayback": "https://web.archive.org/web/20241031192157/https://lauragillen.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241031192157id_/https://lauragillen.com/issues/embed/",
+      "file": "archive/2024/gillen-ny/issues-embed.html",
+      "text_file": "archive/2024/gillen-ny/issues-embed.txt",
+      "bytes": 19680,
+      "sha256_html": "636a305c76b5fd3972e3853b730db9eb6ca3670fbb36d1eff803b4bf7e3dda0c",
+      "sha256_text": "e5a7f65215265268ed6d9bba9d6510fd95d1272d4fe76b8dff54eaf576fd5ffa"
+    }
+  ],
+  "snapshots_found": {
+    "lauragillen.com": 136
+  },
+  "generated_utc": "2026-11-14T16:16:38Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
