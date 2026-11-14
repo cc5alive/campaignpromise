@@ -1,0 +1,150 @@
+{
+  "name": "Tim Burchett",
+  "domains_tried": [
+    "timburchett.com",
+    "burchettforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.burchettforcongress.com/",
+      "timestamp": "20241105094426",
+      "wayback": "https://web.archive.org/web/20241105094426/https://www.burchettforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105094426id_/https://www.burchettforcongress.com/",
+      "file": "archive/2024/burchett-tn/home.html",
+      "text_file": "archive/2024/burchett-tn/home.txt",
+      "bytes": 68904,
+      "sha256_html": "1b9814920c3c3c3b9e3baa59bfa517f394c927ffebdfc07fb5f296e9820b626b",
+      "sha256_text": "1cdadd243cba522f8ebbfd265455ef4fc1b313c3c8a874ebab0f98a494b1b6fa"
+    },
+    {
+      "original": "https://www.burchettforcongress.com/issues/",
+      "timestamp": "20241105094428",
+      "wayback": "https://web.archive.org/web/20241105094428/https://www.burchettforcongress.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105094428id_/https://www.burchettforcongress.com/issues/",
+      "file": "archive/2024/burchett-tn/issues.html",
+      "text_file": "archive/2024/burchett-tn/issues.txt",
+      "bytes": 51478,
+      "sha256_html": "bd2cb3e8ce46bf1e13fedbf690e2cf3e0905bd581a4372dac0c06ba861049915",
+      "sha256_text": "5d5e0e327059783fe2207dec9e64e61c49e4f21b0d1f04257de432ddca0f116d"
+    },
+    {
+      "original": "https://www.burchettforcongress.com/issue/energy-independence/",
+      "timestamp": "20241105094617",
+      "wayback": "https://web.archive.org/web/20241105094617/https://www.burchettforcongress.com/issue/energy-independence/",
+      "wayback_raw": "https://web.archive.org/web/20241105094617id_/https://www.burchettforcongress.com/issue/energy-independence/",
+      "file": "archive/2024/burchett-tn/issue-energy-independence.html",
+      "text_file": "archive/2024/burchett-tn/issue-energy-independence.txt",
+      "bytes": 44201,
+      "sha256_html": "6786cf118082a426097741e4dc547a23c48a003077c00b632fa9ef3b998ba8e9",
+      "sha256_text": "dff2df6f52e0c3997f534c3ba3c4e0f9c6305734b0d76b8b9fa564840238c8c7"
+    },
+    {
+      "original": "https://www.burchettforcongress.com/issue/guns/",
+      "timestamp": "20241105094614",
+      "wayback": "https://web.archive.org/web/20241105094614/https://www.burchettforcongress.com/issue/guns/",
+      "wayback_raw": "https://web.archive.org/web/20241105094614id_/https://www.burchettforcongress.com/issue/guns/",
+      "file": "archive/2024/burchett-tn/issue-guns.html",
+      "text_file": "archive/2024/burchett-tn/issue-guns.txt",
+      "bytes": 43998,
+      "sha256_html": "bea0b82b43c57a3923aef960cb3e1610225b6bc78f9795c3a695ce6d4cadb73c",
+      "sha256_text": "1cb125f7aa89ea749c20ebeb94bba832bb903872860210142a6a394c6f1d6fac"
+    },
+    {
+      "original": "https://www.burchettforcongress.com/issue/health-care/",
+      "timestamp": "20241105094616",
+      "wayback": "https://web.archive.org/web/20241105094616/https://www.burchettforcongress.com/issue/health-care/",
+      "wayback_raw": "https://web.archive.org/web/20241105094616id_/https://www.burchettforcongress.com/issue/health-care/",
+      "file": "archive/2024/burchett-tn/issue-health-care.html",
+      "text_file": "archive/2024/burchett-tn/issue-health-care.txt",
+      "bytes": 44415,
+      "sha256_html": "fb055e5f1bf17592eb24dd618b194811f98f05c328cecdca39e0157d308a4f49",
+      "sha256_text": "4102ec43cd8a6242e14058f00cc73361789b98ef7f2e5166a1f5ee5c12270a4a"
+    },
+    {
+      "original": "https://www.burchettforcongress.com/issue/immigration/",
+      "timestamp": "20241105094616",
+      "wayback": "https://web.archive.org/web/20241105094616/https://www.burchettforcongress.com/issue/immigration/",
+      "wayback_raw": "https://web.archive.org/web/20241105094616id_/https://www.burchettforcongress.com/issue/immigration/",
+      "file": "archive/2024/burchett-tn/issue-immigration.html",
+      "text_file": "archive/2024/burchett-tn/issue-immigration.txt",
+      "bytes": 44335,
+      "sha256_html": "bd3b02bfa3a5415b7b72e6aa3f18b898833eb1f266c6dc3673f182d7287d2ebf",
+      "sha256_text": "49a1d10e707eb9be5f48ad76f8fe1b75f4f0bfd2f9a0262c0a0ec96cb7d1e4e3"
+    },
+    {
+      "original": "https://www.burchettforcongress.com/issue/israel/",
+      "timestamp": "20241105094614",
+      "wayback": "https://web.archive.org/web/20241105094614/https://www.burchettforcongress.com/issue/israel/",
+      "wayback_raw": "https://web.archive.org/web/20241105094614id_/https://www.burchettforcongress.com/issue/israel/",
+      "file": "archive/2024/burchett-tn/issue-israel.html",
+      "text_file": "archive/2024/burchett-tn/issue-israel.txt",
+      "bytes": 44172,
+      "sha256_html": "0c83849633576f70395849914d2b1c299bbb63e7cf83d20e1385ff59b0b43970",
+      "sha256_text": "d9a19b549a77658a129dd7e827eedea1a54231e56ae2c1e3f190ba4ad8fc754a"
+    },
+    {
+      "original": "https://www.burchettforcongress.com/issue/jobs-and-regulation/",
+      "timestamp": "20241105094614",
+      "wayback": "https://web.archive.org/web/20241105094614/https://www.burchettforcongress.com/issue/jobs-and-regulation/",
+      "wayback_raw": "https://web.archive.org/web/20241105094614id_/https://www.burchettforcongress.com/issue/jobs-and-regulation/",
+      "file": "archive/2024/burchett-tn/issue-jobs-and-regulation.html",
+      "text_file": "archive/2024/burchett-tn/issue-jobs-and-regulation.txt",
+      "bytes": 44239,
+      "sha256_html": "1ee7236f2423a113a6658bd05f7bc7cb55838fdcdd3810b4faf0250b0a1a5909",
+      "sha256_text": "83f9298a9455802d23e6182ea95d2f6d1e169190ab2bdafe09e28a7a87c7d6b0"
+    },
+    {
+      "original": "https://www.burchettforcongress.com/issue/life/",
+      "timestamp": "20241105094618",
+      "wayback": "https://web.archive.org/web/20241105094618/https://www.burchettforcongress.com/issue/life/",
+      "wayback_raw": "https://web.archive.org/web/20241105094618id_/https://www.burchettforcongress.com/issue/life/",
+      "file": "archive/2024/burchett-tn/issue-life.html",
+      "text_file": "archive/2024/burchett-tn/issue-life.txt",
+      "bytes": 43913,
+      "sha256_html": "019cb0653d8cfa5e73fb312f32e2fb6b60f865369639b5a89ec3f8424b28b0f2",
+      "sha256_text": "87a9a0088739a85f3f512554a8736596f0a1f1251a7d9a95c3876ecb2aecd7f1"
+    },
+    {
+      "original": "https://www.burchettforcongress.com/issue/national-security/",
+      "timestamp": "20241105094616",
+      "wayback": "https://web.archive.org/web/20241105094616/https://www.burchettforcongress.com/issue/national-security/",
+      "wayback_raw": "https://web.archive.org/web/20241105094616id_/https://www.burchettforcongress.com/issue/national-security/",
+      "file": "archive/2024/burchett-tn/issue-national-security.html",
+      "text_file": "archive/2024/burchett-tn/issue-national-security.txt",
+      "bytes": 44877,
+      "sha256_html": "ada91d6f3d3b2e2f6b1ba76d92071cdb33f79868bcaeae464ef8396eac7e774e",
+      "sha256_text": "1cd9696b9a3668f5ade2f8bc9632a79969a5c67cbab7470eeeca99aa5a26250a"
+    },
+    {
+      "original": "https://www.burchettforcongress.com/issue/taxes-and-spending/",
+      "timestamp": "20241105094435",
+      "wayback": "https://web.archive.org/web/20241105094435/https://www.burchettforcongress.com/issue/taxes-and-spending/",
+      "wayback_raw": "https://web.archive.org/web/20241105094435id_/https://www.burchettforcongress.com/issue/taxes-and-spending/",
+      "file": "archive/2024/burchett-tn/issue-taxes-and-spending.html",
+      "text_file": "archive/2024/burchett-tn/issue-taxes-and-spending.txt",
+      "bytes": 44941,
+      "sha256_html": "69aa8c6347bda47453baa12540ee61439a4868b0323a414421526f2fc29d8497",
+      "sha256_text": "3b97af899f0b90ce2244df2d5b5d4bb50e67b02f057053be15ca61913613e42e"
+    },
+    {
+      "original": "https://www.burchettforcongress.com/issue/term-limits/",
+      "timestamp": "20241105094419",
+      "wayback": "https://web.archive.org/web/20241105094419/https://www.burchettforcongress.com/issue/term-limits/",
+      "wayback_raw": "https://web.archive.org/web/20241105094419id_/https://www.burchettforcongress.com/issue/term-limits/",
+      "file": "archive/2024/burchett-tn/issue-term-limits.html",
+      "text_file": "archive/2024/burchett-tn/issue-term-limits.txt",
+      "bytes": 44097,
+      "sha256_html": "c38a4eb7bd647a6705f0aa5a72f40f4485600d26008dd06e82a55d05bf10c3a8",
+      "sha256_text": "f630d7fe8faaf915bd1ad281bb616a2b83b4db563bb66da514c6c9b1025584d1"
+    }
+  ],
+  "snapshots_found": {
+    "timburchett.com": 0,
+    "burchettforcongress.com": 94
+  },
+  "generated_utc": "2026-11-14T16:01:30Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
