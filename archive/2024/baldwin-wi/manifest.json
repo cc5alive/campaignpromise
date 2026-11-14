@@ -1,0 +1,148 @@
+{
+  "name": "Tammy Baldwin",
+  "domains_tried": [
+    "tammybaldwin.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.tammybaldwin.com/",
+      "timestamp": "20241101172647",
+      "wayback": "https://web.archive.org/web/20241101172647/https://www.tammybaldwin.com/",
+      "wayback_raw": "https://web.archive.org/web/20241101172647id_/https://www.tammybaldwin.com/",
+      "file": "archive/2024/baldwin-wi/home.html",
+      "text_file": "archive/2024/baldwin-wi/home.txt",
+      "bytes": 71397,
+      "sha256_html": "97edd764a918cdc9f9d1bb980f2a73cfbceb1a8f9910071ffac7bf763c932891",
+      "sha256_text": "9e45f1b729df93989a8c393ea5794733f26f7a2f0fd2dad1cda74f8b15445cc0"
+    },
+    {
+      "original": "https://www.tammybaldwin.com/issues/",
+      "timestamp": "20241008015943",
+      "wayback": "https://web.archive.org/web/20241008015943/https://www.tammybaldwin.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241008015943id_/https://www.tammybaldwin.com/issues/",
+      "file": "archive/2024/baldwin-wi/issues.html",
+      "text_file": "archive/2024/baldwin-wi/issues.txt",
+      "bytes": 75171,
+      "sha256_html": "1a79fd67c6cde2a4f97c2fc911f15303456a5383577b392dfd864178f2cafc68",
+      "sha256_text": "44a10bdc83a076b6977292c3fcd6225c3f73e19c39bd40b22bb6fa033c0c3feb"
+    },
+    {
+      "original": "https://www.tammybaldwin.com/issues/china/",
+      "timestamp": "20241006042038",
+      "wayback": "https://web.archive.org/web/20241006042038/https://www.tammybaldwin.com/issues/china/",
+      "wayback_raw": "https://web.archive.org/web/20241006042038id_/https://www.tammybaldwin.com/issues/china/",
+      "file": "archive/2024/baldwin-wi/issues-china.html",
+      "text_file": "archive/2024/baldwin-wi/issues-china.txt",
+      "bytes": 48061,
+      "sha256_html": "8b31612de9613d1b64d3e0239e72d351a3452b2b7444334fd1d54f31ead66aa4",
+      "sha256_text": "abcc608d458ba77bcdd4df2a44f2cf9a277a6abac3abbc3d34b9fabd14ac0a1f"
+    },
+    {
+      "original": "https://www.tammybaldwin.com/issues/clean-water/",
+      "timestamp": "20241006042326",
+      "wayback": "https://web.archive.org/web/20241006042326/https://www.tammybaldwin.com/issues/clean-water/",
+      "wayback_raw": "https://web.archive.org/web/20241006042326id_/https://www.tammybaldwin.com/issues/clean-water/",
+      "file": "archive/2024/baldwin-wi/issues-clean-water.html",
+      "text_file": "archive/2024/baldwin-wi/issues-clean-water.txt",
+      "bytes": 49010,
+      "sha256_html": "fcf6e2006534f9671b47dc5fd829212337a2729d671834aaea116bcd13e3b707",
+      "sha256_text": "e99486e3d6ee590b6dd822ea442c5f9fb7dae94f4a46c5fc523aa4eebd03a6c9"
+    },
+    {
+      "original": "https://www.tammybaldwin.com/issues/drug-prices/",
+      "timestamp": "20241006041556",
+      "wayback": "https://web.archive.org/web/20241006041556/https://www.tammybaldwin.com/issues/drug-prices/",
+      "wayback_raw": "https://web.archive.org/web/20241006041556id_/https://www.tammybaldwin.com/issues/drug-prices/",
+      "file": "archive/2024/baldwin-wi/issues-drug-prices.html",
+      "text_file": "archive/2024/baldwin-wi/issues-drug-prices.txt",
+      "bytes": 48303,
+      "sha256_html": "8530021e79642128944c86895135c9d4e21c5b0cb323058e3d9eb5f0ca9ebbdb",
+      "sha256_text": "c23070d9d4653d1ed426ec0cccdd6ce9bf0df272a3574cb795aef47efdb329f7"
+    },
+    {
+      "original": "https://www.tammybaldwin.com/issues/freedom-to-choose/",
+      "timestamp": "20241006041647",
+      "wayback": "https://web.archive.org/web/20241006041647/https://www.tammybaldwin.com/issues/freedom-to-choose/",
+      "wayback_raw": "https://web.archive.org/web/20241006041647id_/https://www.tammybaldwin.com/issues/freedom-to-choose/",
+      "file": "archive/2024/baldwin-wi/issues-freedom-to-choose.html",
+      "text_file": "archive/2024/baldwin-wi/issues-freedom-to-choose.txt",
+      "bytes": 47920,
+      "sha256_html": "73fba2bc63977eee70aa65aab53417ab9d55e36837acf5885e802c9ef1f5b863",
+      "sha256_text": "3665981f3186de4491c1b0dfea51f0f8e3b74bc5843f9d5a0e29f60d5ec99f82"
+    },
+    {
+      "original": "https://www.tammybaldwin.com/issues/healthcare/",
+      "timestamp": "20241006041621",
+      "wayback": "https://web.archive.org/web/20241006041621/https://www.tammybaldwin.com/issues/healthcare/",
+      "wayback_raw": "https://web.archive.org/web/20241006041621id_/https://www.tammybaldwin.com/issues/healthcare/",
+      "file": "archive/2024/baldwin-wi/issues-healthcare.html",
+      "text_file": "archive/2024/baldwin-wi/issues-healthcare.txt",
+      "bytes": 49777,
+      "sha256_html": "2b016f79c1cfe0341a8920f710acea73189047e8f428d9ada9cb1698fda833e8",
+      "sha256_text": "b33305629e9842cdcca30d890d88a108c4add868d42d72ae44fcfdd1e3593e17"
+    },
+    {
+      "original": "https://www.tammybaldwin.com/issues/infrastructure/",
+      "timestamp": "20241006042232",
+      "wayback": "https://web.archive.org/web/20241006042232/https://www.tammybaldwin.com/issues/infrastructure/",
+      "wayback_raw": "https://web.archive.org/web/20241006042232id_/https://www.tammybaldwin.com/issues/infrastructure/",
+      "file": "archive/2024/baldwin-wi/issues-infrastructure.html",
+      "text_file": "archive/2024/baldwin-wi/issues-infrastructure.txt",
+      "bytes": 49103,
+      "sha256_html": "da867cb68ad798043138fbcfdac87bd20dce209ac24340d4b88fab43c3fd423e",
+      "sha256_text": "6854e5b389c618b7c218492d8f66b007e1bce20d551ba93992133ece7303446c"
+    },
+    {
+      "original": "https://www.tammybaldwin.com/issues/lgbtq-rights/",
+      "timestamp": "20241006042406",
+      "wayback": "https://web.archive.org/web/20241006042406/https://www.tammybaldwin.com/issues/lgbtq-rights/",
+      "wayback_raw": "https://web.archive.org/web/20241006042406id_/https://www.tammybaldwin.com/issues/lgbtq-rights/",
+      "file": "archive/2024/baldwin-wi/issues-lgbtq-rights.html",
+      "text_file": "archive/2024/baldwin-wi/issues-lgbtq-rights.txt",
+      "bytes": 47270,
+      "sha256_html": "70c29d9fc07f286aee1785f1988b7438f4cbd735327dbf11c425139e1700d92b",
+      "sha256_text": "ab3bc89906c12e4c1567c2a4d1bfa2ca3478392688f05b664e9b3e8ccdac4a1c"
+    },
+    {
+      "original": "https://www.tammybaldwin.com/issues/made-in-wisconsin/",
+      "timestamp": "20241006041519",
+      "wayback": "https://web.archive.org/web/20241006041519/https://www.tammybaldwin.com/issues/made-in-wisconsin/",
+      "wayback_raw": "https://web.archive.org/web/20241006041519id_/https://www.tammybaldwin.com/issues/made-in-wisconsin/",
+      "file": "archive/2024/baldwin-wi/issues-made-in-wisconsin.html",
+      "text_file": "archive/2024/baldwin-wi/issues-made-in-wisconsin.txt",
+      "bytes": 49692,
+      "sha256_html": "c51745bbbcc0985a9b24d279644de07dd3337dcf876127461da5198647c130d1",
+      "sha256_text": "ae27434555f3bb046293f1d9ca66097bc8edd1d1bd10982c97fd49b4ff026930"
+    },
+    {
+      "original": "https://www.tammybaldwin.com/issues/national-security/",
+      "timestamp": "20241006041756",
+      "wayback": "https://web.archive.org/web/20241006041756/https://www.tammybaldwin.com/issues/national-security/",
+      "wayback_raw": "https://web.archive.org/web/20241006041756id_/https://www.tammybaldwin.com/issues/national-security/",
+      "file": "archive/2024/baldwin-wi/issues-national-security.html",
+      "text_file": "archive/2024/baldwin-wi/issues-national-security.txt",
+      "bytes": 48957,
+      "sha256_html": "d1fa645b7ef33c97a73ebf6953fd22067841b765549fdbd1981fb6b0d1365cc4",
+      "sha256_text": "732d1434930513fe786dd569131cf71c0e1b9560951ffcf968a698514c989f91"
+    },
+    {
+      "original": "https://www.tammybaldwin.com/issues/opioid-epidemic/",
+      "timestamp": "20241006042156",
+      "wayback": "https://web.archive.org/web/20241006042156/https://www.tammybaldwin.com/issues/opioid-epidemic/",
+      "wayback_raw": "https://web.archive.org/web/20241006042156id_/https://www.tammybaldwin.com/issues/opioid-epidemic/",
+      "file": "archive/2024/baldwin-wi/issues-opioid-epidemic.html",
+      "text_file": "archive/2024/baldwin-wi/issues-opioid-epidemic.txt",
+      "bytes": 49479,
+      "sha256_html": "6e306e15d97e3b04e4be8e6c73e19c9d38cd48fe337df619aa3b393f0b34f0a3",
+      "sha256_text": "88a72ae40097e6dcfc402d9e05d8f8055dd448dfe337d3461ff09b293c33edef"
+    }
+  ],
+  "snapshots_found": {
+    "tammybaldwin.com": 61
+  },
+  "generated_utc": "2026-11-14T15:55:39Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
