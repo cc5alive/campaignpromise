@@ -1,0 +1,27 @@
+{
+  "name": "Derek Schmidt",
+  "domains_tried": [
+    "derekschmidt.com"
+  ],
+  "pages": [
+    {
+      "original": "https://derekschmidt.com/",
+      "timestamp": "20241105201544",
+      "wayback": "https://web.archive.org/web/20241105201544/https://derekschmidt.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105201544id_/https://derekschmidt.com/",
+      "file": "archive/2024/schmidt-ks/home.html",
+      "text_file": "archive/2024/schmidt-ks/home.txt",
+      "bytes": 61051,
+      "sha256_html": "693d951ad217a8d1fdb486991f7edc54154247cfa11f5ca0403f93ca0fa532da",
+      "sha256_text": "2e826a4731d7a4d13727ce5ec16e4af500d16598b2bd7c50590213f6a1839087"
+    }
+  ],
+  "snapshots_found": {
+    "derekschmidt.com": 1
+  },
+  "generated_utc": "2026-11-14T16:45:53Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
