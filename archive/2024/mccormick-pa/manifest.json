@@ -1,0 +1,149 @@
+{
+  "name": "David McCormick",
+  "domains_tried": [
+    "davemccormickpa.com",
+    "davemccormick.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.davemccormickpa.com/",
+      "timestamp": "20241105144133",
+      "wayback": "https://web.archive.org/web/20241105144133/https://www.davemccormickpa.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105144133id_/https://www.davemccormickpa.com/",
+      "file": "archive/2024/mccormick-pa/home.html",
+      "text_file": "archive/2024/mccormick-pa/home.txt",
+      "bytes": 231553,
+      "sha256_html": "0c2452f36accfac22889b6d94ca0b4411fe47be071244fd579c67c2875ece50b",
+      "sha256_text": "b5e2eff0ce65eff3a347a523888932077b0dadacccd08126cba569a910c2d17d"
+    },
+    {
+      "original": "https://www.davemccormickpa.com/daves-battle-plan-to-renew-america/",
+      "timestamp": "20241104153120",
+      "wayback": "https://web.archive.org/web/20241104153120/https://www.davemccormickpa.com/daves-battle-plan-to-renew-america/",
+      "wayback_raw": "https://web.archive.org/web/20241104153120id_/https://www.davemccormickpa.com/daves-battle-plan-to-renew-america/",
+      "file": "archive/2024/mccormick-pa/daves-battle-plan-to-renew-america.html",
+      "text_file": "archive/2024/mccormick-pa/daves-battle-plan-to-renew-america.txt",
+      "bytes": 44729,
+      "sha256_html": "ab52be988ef3437dea35bb4d1a72ceb2fb3300140c7f7111fe5fb06899a726a3",
+      "sha256_text": "762fb53cac3cbe972989156e33aa9702a87ede44d36a2147863a86c6df7e44e1"
+    },
+    {
+      "original": "https://www.davemccormickpa.com/daves-keystone-agenda/",
+      "timestamp": "20241105204936",
+      "wayback": "https://web.archive.org/web/20241105204936/https://www.davemccormickpa.com/daves-keystone-agenda/",
+      "wayback_raw": "https://web.archive.org/web/20241105204936id_/https://www.davemccormickpa.com/daves-keystone-agenda/",
+      "file": "archive/2024/mccormick-pa/daves-keystone-agenda.html",
+      "text_file": "archive/2024/mccormick-pa/daves-keystone-agenda.txt",
+      "bytes": 74692,
+      "sha256_html": "3cc434af9c73e8dc3912b62b6b42d06f352060f313fe462c891a2d942f045a3c",
+      "sha256_text": "8d41fa4e817327281b920b50aa4bf75759f1ee004a40ed40e6cce29da38b995e"
+    },
+    {
+      "original": "https://www.davemccormickpa.com/issues/",
+      "timestamp": "20241104153058",
+      "wayback": "https://web.archive.org/web/20241104153058/https://www.davemccormickpa.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241104153058id_/https://www.davemccormickpa.com/issues/",
+      "file": "archive/2024/mccormick-pa/issues.html",
+      "text_file": "archive/2024/mccormick-pa/issues.txt",
+      "bytes": 54317,
+      "sha256_html": "d069ef03f43a68835aa4f048dbed02b7c01877e2a212880cfeb25bd687dd847e",
+      "sha256_text": "d1b8e66d7c178b987f3c2ab3384e589d2f734d7baa4afafb7d9c43582f1ce239"
+    },
+    {
+      "original": "https://www.davemccormickpa.com/daves-battle-plan-to-renew-america/embed/",
+      "timestamp": "20241102062907",
+      "wayback": "https://web.archive.org/web/20241102062907/https://www.davemccormickpa.com/daves-battle-plan-to-renew-america/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241102062907id_/https://www.davemccormickpa.com/daves-battle-plan-to-renew-america/embed/",
+      "file": "archive/2024/mccormick-pa/daves-battle-plan-to-renew-america-embed.html",
+      "text_file": "archive/2024/mccormick-pa/daves-battle-plan-to-renew-america-embed.txt",
+      "bytes": 20597,
+      "sha256_html": "621b79b1ef603cc4f6c010d4d4b259d3e73a63b6fe92c22bcea2012bdea30380",
+      "sha256_text": "2b3364164ece32835ac2702d52230bd7e9c01f1889298b1092758089032aa5a8"
+    },
+    {
+      "original": "https://www.davemccormickpa.com/issues/embed/",
+      "timestamp": "20241102062709",
+      "wayback": "https://web.archive.org/web/20241102062709/https://www.davemccormickpa.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241102062709id_/https://www.davemccormickpa.com/issues/embed/",
+      "file": "archive/2024/mccormick-pa/issues-embed.html",
+      "text_file": "archive/2024/mccormick-pa/issues-embed.txt",
+      "bytes": 20480,
+      "sha256_html": "ce9405fd822d66899f0275d8257e93bb98540d2f9b6819aaf33aa47fdbafdc0d",
+      "sha256_text": "5396ab23e3bf56b63b1280fa84fef022be7444c9facb191d4498a0f0dc50e2e8"
+    },
+    {
+      "original": "https://www.davemccormickpa.com/2023/03/14/a-battle-plan-for-american-renewal/",
+      "timestamp": "20241104155755",
+      "wayback": "https://web.archive.org/web/20241104155755/https://www.davemccormickpa.com/2023/03/14/a-battle-plan-for-american-renewal/",
+      "wayback_raw": "https://web.archive.org/web/20241104155755id_/https://www.davemccormickpa.com/2023/03/14/a-battle-plan-for-american-renewal/",
+      "file": "archive/2024/mccormick-pa/2023-03-14-a-battle-plan-for-american-renewal.html",
+      "text_file": "archive/2024/mccormick-pa/2023-03-14-a-battle-plan-for-american-renewal.txt",
+      "bytes": 46892,
+      "sha256_html": "90b4cf2e276ae1e47a63b297b1a063e6fb98709b6d5aa85535baceb6385344f7",
+      "sha256_text": "6a098ab2a65129986420e81a42be395bb12d9d05453495209296b28b6c12d448"
+    },
+    {
+      "original": "https://www.davemccormickpa.com/2023/03/15/china-has-a-plan-to-lead-the-world-whats-ours/",
+      "timestamp": "20241104161217",
+      "wayback": "https://web.archive.org/web/20241104161217/https://www.davemccormickpa.com/2023/03/15/china-has-a-plan-to-lead-the-world-whats-ours/",
+      "wayback_raw": "https://web.archive.org/web/20241104161217id_/https://www.davemccormickpa.com/2023/03/15/china-has-a-plan-to-lead-the-world-whats-ours/",
+      "file": "archive/2024/mccormick-pa/2023-03-15-china-has-a-plan-to-lead-the-world-whats-ours.html",
+      "text_file": "archive/2024/mccormick-pa/2023-03-15-china-has-a-plan-to-lead-the-world-whats-ours.txt",
+      "bytes": 47538,
+      "sha256_html": "1f45081f8507cc47a742b6646ce7969b6bd5249392edb92ce1954195c8245526",
+      "sha256_text": "653bcae351e8dcf826571e274228e6cb966f256fb65a505ca3253ae2119078e9"
+    },
+    {
+      "original": "https://www.davemccormickpa.com/2024/02/11/mccormick-unveils-the-fighting-for-pennsylvanias-future-bus-launches-67-county-tour/",
+      "timestamp": "20241104161156",
+      "wayback": "https://web.archive.org/web/20241104161156/https://www.davemccormickpa.com/2024/02/11/mccormick-unveils-the-fighting-for-pennsylvanias-future-bus-launches-67-county-tour/",
+      "wayback_raw": "https://web.archive.org/web/20241104161156id_/https://www.davemccormickpa.com/2024/02/11/mccormick-unveils-the-fighting-for-pennsylvanias-future-bus-launches-67-county-tour/",
+      "file": "archive/2024/mccormick-pa/2024-02-11-mccormick-unveils-the-fighting-for-pennsylvanias-future-bus-launches-67-county-tour.html",
+      "text_file": "archive/2024/mccormick-pa/2024-02-11-mccormick-unveils-the-fighting-for-pennsylvanias-future-bus-launches-67-county-tour.txt",
+      "bytes": 43145,
+      "sha256_html": "3f2d04594b21dba861b2f9e1b21c6fe422e81434b83c4aa3e2f3c37da102e5a4",
+      "sha256_text": "8137e229c05bc85f55ef8a2c6d9fa38df6c46ba8746c300f403e871b94432bf0"
+    },
+    {
+      "original": "https://www.davemccormickpa.com/2024/03/07/dave-mccormick-a-rescue-plan-for-american-energy-and-the-environment/",
+      "timestamp": "20241104161030",
+      "wayback": "https://web.archive.org/web/20241104161030/https://www.davemccormickpa.com/2024/03/07/dave-mccormick-a-rescue-plan-for-american-energy-and-the-environment/",
+      "wayback_raw": "https://web.archive.org/web/20241104161030id_/https://www.davemccormickpa.com/2024/03/07/dave-mccormick-a-rescue-plan-for-american-energy-and-the-environment/",
+      "file": "archive/2024/mccormick-pa/2024-03-07-dave-mccormick-a-rescue-plan-for-american-energy-and-the-environment.html",
+      "text_file": "archive/2024/mccormick-pa/2024-03-07-dave-mccormick-a-rescue-plan-for-american-energy-and-the-environment.txt",
+      "bytes": 47510,
+      "sha256_html": "e29270fce5fc8164f76eaf7256d79c80a8aa706412d769bc721aeda20eb7ebb8",
+      "sha256_text": "848c1ef19fef45e4b2e2f6c5b9178cf8ee2656a6bfd55a851d349fcbd5990947"
+    },
+    {
+      "original": "https://www.davemccormickpa.com/2024/04/12/pennsylvania-senate-hopeful-dave-mccormick-lays-out-economic-priorities/",
+      "timestamp": "20241104155928",
+      "wayback": "https://web.archive.org/web/20241104155928/https://www.davemccormickpa.com/2024/04/12/pennsylvania-senate-hopeful-dave-mccormick-lays-out-economic-priorities/",
+      "wayback_raw": "https://web.archive.org/web/20241104155928id_/https://www.davemccormickpa.com/2024/04/12/pennsylvania-senate-hopeful-dave-mccormick-lays-out-economic-priorities/",
+      "file": "archive/2024/mccormick-pa/2024-04-12-pennsylvania-senate-hopeful-dave-mccormick-lays-out-economic-priorities.html",
+      "text_file": "archive/2024/mccormick-pa/2024-04-12-pennsylvania-senate-hopeful-dave-mccormick-lays-out-economic-priorities.txt",
+      "bytes": 50917,
+      "sha256_html": "6984f317abfded804e9fcd9e92f8e3ee5b40d227f8b059cd90376427ff3dfd2e",
+      "sha256_text": "2c6890c4d1b72fa82d135056360c5e06fe24dea53c99cd7ea738a2f91bb116a9"
+    },
+    {
+      "original": "https://www.davemccormickpa.com/2024/05/06/mccormick-releases-digital-ad-slamming-caseys-silence-on-gazan-refugee-plan/",
+      "timestamp": "20241104161012",
+      "wayback": "https://web.archive.org/web/20241104161012/https://www.davemccormickpa.com/2024/05/06/mccormick-releases-digital-ad-slamming-caseys-silence-on-gazan-refugee-plan/",
+      "wayback_raw": "https://web.archive.org/web/20241104161012id_/https://www.davemccormickpa.com/2024/05/06/mccormick-releases-digital-ad-slamming-caseys-silence-on-gazan-refugee-plan/",
+      "file": "archive/2024/mccormick-pa/2024-05-06-mccormick-releases-digital-ad-slamming-caseys-silence-on-gazan-refugee-plan.html",
+      "text_file": "archive/2024/mccormick-pa/2024-05-06-mccormick-releases-digital-ad-slamming-caseys-silence-on-gazan-refugee-plan.txt",
+      "bytes": 43717,
+      "sha256_html": "5e3ee933f83ed907ed9022d9830e212bade9638a8d4a41cd3c370fce1d6dd85d",
+      "sha256_text": "6b63f3c925db06bf5b291bd3c4511d12f9f85522e8d43defd6b5b044d87f295d"
+    }
+  ],
+  "snapshots_found": {
+    "davemccormickpa.com": 306
+  },
+  "generated_utc": "2026-11-14T08:18:32Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
