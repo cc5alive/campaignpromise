@@ -1,0 +1,100 @@
+{
+ "_note": "Round 5 retry: archive jobs that failed to start on the first run.",
+ "window": {
+  "from": "20240801",
+  "to": "20241105"
+ },
+ "members": [
+  {
+   "key": "sorensen-il",
+   "bioguide": "S001225",
+   "name": "Eric Sorensen",
+   "last": "Sorensen",
+   "party": "D",
+   "chamber": "House",
+   "state": "IL",
+   "campaign_committee": "C00793935",
+   "domains": [
+    "ericforillinois.com"
+   ]
+  },
+  {
+   "key": "vasquez-nm",
+   "bioguide": "V000136",
+   "name": "Gabe Vasquez",
+   "last": "Vasquez",
+   "party": "D",
+   "chamber": "House",
+   "state": "NM",
+   "campaign_committee": "C00789404",
+   "domains": [
+    "gabeforcongress.com"
+   ]
+  },
+  {
+   "key": "hoyle-or",
+   "bioguide": "H001094",
+   "name": "Val T. Hoyle",
+   "last": "Hoyle",
+   "party": "D",
+   "chamber": "House",
+   "state": "OR",
+   "campaign_committee": "C00796144",
+   "domains": [
+    "valhoyle.com"
+   ]
+  },
+  {
+   "key": "salinas-or",
+   "bioguide": "S001226",
+   "name": "Andrea Salinas",
+   "last": "Salinas",
+   "party": "D",
+   "chamber": "House",
+   "state": "OR",
+   "campaign_committee": "C00793703",
+   "domains": [
+    "andreasalinasfororegon.com"
+   ]
+  },
+  {
+   "key": "pettersen-co",
+   "bioguide": "P000620",
+   "name": "Brittany Pettersen",
+   "last": "Pettersen",
+   "party": "D",
+   "chamber": "House",
+   "state": "CO",
+   "campaign_committee": "C00637215",
+   "domains": [
+    "brittanypettersen.com"
+   ]
+  },
+  {
+   "key": "krishnamoorthi-il",
+   "bioguide": "K000391",
+   "name": "Raja Krishnamoorthi",
+   "last": "Krishnamoorthi",
+   "party": "D",
+   "chamber": "House",
+   "state": "IL",
+   "campaign_committee": "C00575092",
+   "domains": [
+    "rajaforcongress.com"
+   ]
+  },
+  {
+   "key": "garcia-ca",
+   "bioguide": "G000598",
+   "name": "Robert Garcia",
+   "last": "Garcia",
+   "party": "D",
+   "chamber": "House",
+   "state": "CA",
+   "campaign_committee": "C00797795",
+   "domains": [
+    "robertgarcia.com"
+   ]
+  }
+ ]
+}
