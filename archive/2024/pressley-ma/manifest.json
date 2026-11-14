@@ -1,0 +1,148 @@
+{
+  "name": "Ayanna Pressley",
+  "domains_tried": [
+    "ayannapressley.com"
+  ],
+  "pages": [
+    {
+      "original": "https://ayannapressley.com/",
+      "timestamp": "20241105043946",
+      "wayback": "https://web.archive.org/web/20241105043946/https://ayannapressley.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105043946id_/https://ayannapressley.com/",
+      "file": "archive/2024/pressley-ma/home.html",
+      "text_file": "archive/2024/pressley-ma/home.txt",
+      "bytes": 55035,
+      "sha256_html": "8eed6b7ef09fc3398819fbf8245a95a4e412efde0ac615709057d995cff13ceb",
+      "sha256_text": "e6e78d02b5d6524d8357280c1e0fd4643b2e67350e1e9a78ed4c34318e15eca8"
+    },
+    {
+      "original": "https://ayannapressley.com/issues/",
+      "timestamp": "20241105044006",
+      "wayback": "https://web.archive.org/web/20241105044006/https://ayannapressley.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105044006id_/https://ayannapressley.com/issues/",
+      "file": "archive/2024/pressley-ma/issues.html",
+      "text_file": "archive/2024/pressley-ma/issues.txt",
+      "bytes": 46645,
+      "sha256_html": "269521951c71fe95bee0fbd68c5cd16d7871f9d01c60066f7408116f5bf5fc7e",
+      "sha256_text": "2939a898ec99e1a68df14e006e99e0a5e160f080352f22a71dcd8398789a9b53"
+    },
+    {
+      "original": "https://ayannapressley.com/issues/climate-crisis/",
+      "timestamp": "20241105044120",
+      "wayback": "https://web.archive.org/web/20241105044120/https://ayannapressley.com/issues/climate-crisis/",
+      "wayback_raw": "https://web.archive.org/web/20241105044120id_/https://ayannapressley.com/issues/climate-crisis/",
+      "file": "archive/2024/pressley-ma/issues-climate-crisis.html",
+      "text_file": "archive/2024/pressley-ma/issues-climate-crisis.txt",
+      "bytes": 41978,
+      "sha256_html": "7e98196d6e30e75e8ae0f0295a78415c9f05b3de6025065ad4a1f066228de420",
+      "sha256_text": "f86f4cc5cb5b9cbad522bea924c3c74a05d29e709b054790595d11d2b00428a0"
+    },
+    {
+      "original": "https://ayannapressley.com/issues/economy/",
+      "timestamp": "20241105044007",
+      "wayback": "https://web.archive.org/web/20241105044007/https://ayannapressley.com/issues/economy/",
+      "wayback_raw": "https://web.archive.org/web/20241105044007id_/https://ayannapressley.com/issues/economy/",
+      "file": "archive/2024/pressley-ma/issues-economy.html",
+      "text_file": "archive/2024/pressley-ma/issues-economy.txt",
+      "bytes": 42009,
+      "sha256_html": "f0bd2f038f6609476ac22f5444fe2180a3b89c8b004f184961245a5200da3496",
+      "sha256_text": "feddb3ad0edcbaac5627f74a1c8ed1eeaf3ca50b58b49a5a12963cb4c3e3f13b"
+    },
+    {
+      "original": "https://ayannapressley.com/issues/educational/",
+      "timestamp": "20241105044004",
+      "wayback": "https://web.archive.org/web/20241105044004/https://ayannapressley.com/issues/educational/",
+      "wayback_raw": "https://web.archive.org/web/20241105044004id_/https://ayannapressley.com/issues/educational/",
+      "file": "archive/2024/pressley-ma/issues-educational.html",
+      "text_file": "archive/2024/pressley-ma/issues-educational.txt",
+      "bytes": 41679,
+      "sha256_html": "563ba4954296cf4c29752cca2b9a33f032d0fe26df7a5bb0ea5d7a357deff24c",
+      "sha256_text": "878783759e8ad388ec2c1b1c1552395026880759d435b6795c4acb785266f6f9"
+    },
+    {
+      "original": "https://ayannapressley.com/issues/foreign-policy/",
+      "timestamp": "20241105044119",
+      "wayback": "https://web.archive.org/web/20241105044119/https://ayannapressley.com/issues/foreign-policy/",
+      "wayback_raw": "https://web.archive.org/web/20241105044119id_/https://ayannapressley.com/issues/foreign-policy/",
+      "file": "archive/2024/pressley-ma/issues-foreign-policy.html",
+      "text_file": "archive/2024/pressley-ma/issues-foreign-policy.txt",
+      "bytes": 42406,
+      "sha256_html": "a3d9775d60203544c49721a29cc41f544e2e70240fd9ff6b5a12a43ebbba4f85",
+      "sha256_text": "bb8379760dc8d5ae10b40f971c901baa0154d4b154bb81321cca0fca215e7785"
+    },
+    {
+      "original": "https://ayannapressley.com/issues/healthcare/",
+      "timestamp": "20241105044002",
+      "wayback": "https://web.archive.org/web/20241105044002/https://ayannapressley.com/issues/healthcare/",
+      "wayback_raw": "https://web.archive.org/web/20241105044002id_/https://ayannapressley.com/issues/healthcare/",
+      "file": "archive/2024/pressley-ma/issues-healthcare.html",
+      "text_file": "archive/2024/pressley-ma/issues-healthcare.txt",
+      "bytes": 42029,
+      "sha256_html": "a44c67d01be089d35b57ed2a934c37fe80402b899342213ab5f06a292c843289",
+      "sha256_text": "3417603368147bbed74e03e18ba2d2515811def712c304341f4ba3768c213cb0"
+    },
+    {
+      "original": "https://ayannapressley.com/issues/housing/",
+      "timestamp": "20241105043949",
+      "wayback": "https://web.archive.org/web/20241105043949/https://ayannapressley.com/issues/housing/",
+      "wayback_raw": "https://web.archive.org/web/20241105043949id_/https://ayannapressley.com/issues/housing/",
+      "file": "archive/2024/pressley-ma/issues-housing.html",
+      "text_file": "archive/2024/pressley-ma/issues-housing.txt",
+      "bytes": 41986,
+      "sha256_html": "f689c52a02a5b9791d8bbae87d518604b5b405085318cf4ec904544c2bd253b4",
+      "sha256_text": "304fd839460bf871669fb77eef62f660f93fe52bb30f694f1f87eb730ec5b2e9"
+    },
+    {
+      "original": "https://ayannapressley.com/issues/immigration/",
+      "timestamp": "20241105044123",
+      "wayback": "https://web.archive.org/web/20241105044123/https://ayannapressley.com/issues/immigration/",
+      "wayback_raw": "https://web.archive.org/web/20241105044123id_/https://ayannapressley.com/issues/immigration/",
+      "file": "archive/2024/pressley-ma/issues-immigration.html",
+      "text_file": "archive/2024/pressley-ma/issues-immigration.txt",
+      "bytes": 41532,
+      "sha256_html": "5eb5af1e9343380c65a241fc4194ba25ed0cb557be01476eda37346afbd0035b",
+      "sha256_text": "292964e273cc97b37ccff981c9da31d8bd954c918c2eee20b18ff5d6730615bf"
+    },
+    {
+      "original": "https://ayannapressley.com/issues/jobguarantee/",
+      "timestamp": "20241105043949",
+      "wayback": "https://web.archive.org/web/20241105043949/https://ayannapressley.com/issues/jobguarantee/",
+      "wayback_raw": "https://web.archive.org/web/20241105043949id_/https://ayannapressley.com/issues/jobguarantee/",
+      "file": "archive/2024/pressley-ma/issues-jobguarantee.html",
+      "text_file": "archive/2024/pressley-ma/issues-jobguarantee.txt",
+      "bytes": 41999,
+      "sha256_html": "bb99c4e9bba55737e5f2197823639a4e4b62bca1bcb57e26ab5f9166b11626a5",
+      "sha256_text": "06578f33cf574b45e0b53b54c35fe270e8f23ee762b59606c84590b7ed6183e7"
+    },
+    {
+      "original": "https://ayannapressley.com/issues/lgbtq/",
+      "timestamp": "20241105044124",
+      "wayback": "https://web.archive.org/web/20241105044124/https://ayannapressley.com/issues/lgbtq/",
+      "wayback_raw": "https://web.archive.org/web/20241105044124id_/https://ayannapressley.com/issues/lgbtq/",
+      "file": "archive/2024/pressley-ma/issues-lgbtq.html",
+      "text_file": "archive/2024/pressley-ma/issues-lgbtq.txt",
+      "bytes": 41553,
+      "sha256_html": "cbfea704d50c9513e425f7c76f19c0729ae10b58585abf0b787940d8816494b0",
+      "sha256_text": "4c39f71fd25efadfda889d9a4ac7f7fcf0ead62157c73d922ea7c60abc16c52a"
+    },
+    {
+      "original": "https://ayannapressley.com/issues/protecting-the-rights-of-cisgender-and-transgender-women-and-girls/",
+      "timestamp": "20241105044125",
+      "wayback": "https://web.archive.org/web/20241105044125/https://ayannapressley.com/issues/protecting-the-rights-of-cisgender-and-transgender-women-and-girls/",
+      "wayback_raw": "https://web.archive.org/web/20241105044125id_/https://ayannapressley.com/issues/protecting-the-rights-of-cisgender-and-transgender-women-and-girls/",
+      "file": "archive/2024/pressley-ma/issues-protecting-the-rights-of-cisgender-and-transgender-women-and-girls.html",
+      "text_file": "archive/2024/pressley-ma/issues-protecting-the-rights-of-cisgender-and-transgender-women-and-girls.txt",
+      "bytes": 42721,
+      "sha256_html": "638a5168f1b818b2f34968c33e85aa7b8b429f5c36373cbd609fa539e6ef6310",
+      "sha256_text": "cb1359bf51cb52702c94f8e08b4725326a5c4c18980eed2dba02e832e14540ad"
+    }
+  ],
+  "snapshots_found": {
+    "ayannapressley.com": 102
+  },
+  "generated_utc": "2026-11-14T16:08:19Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
