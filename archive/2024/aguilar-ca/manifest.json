@@ -1,0 +1,27 @@
+{
+  "name": "Pete Aguilar",
+  "domains_tried": [
+    "peteaguilar.com"
+  ],
+  "pages": [
+    {
+      "original": "https://peteaguilar.com/",
+      "timestamp": "20241105141229",
+      "wayback": "https://web.archive.org/web/20241105141229/https://peteaguilar.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105141229id_/https://peteaguilar.com/",
+      "file": "archive/2024/aguilar-ca/home.html",
+      "text_file": "archive/2024/aguilar-ca/home.txt",
+      "bytes": 78733,
+      "sha256_html": "b09ae3399c43233cf81a8bf262ea222b9fbbf161e7790c5aa55df0e0665775a9",
+      "sha256_text": "59051a170e009d776f29f2c842aee5b4e1b892972d0431078c380649850c93d6"
+    }
+  ],
+  "snapshots_found": {
+    "peteaguilar.com": 36
+  },
+  "generated_utc": "2026-11-14T16:06:39Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
