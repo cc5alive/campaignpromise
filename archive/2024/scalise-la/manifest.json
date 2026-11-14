@@ -1,0 +1,49 @@
+{
+  "name": "Steve Scalise",
+  "domains_tried": [
+    "stevescalise.com"
+  ],
+  "pages": [
+    {
+      "original": "https://stevescalise.com/",
+      "timestamp": "20241031202706",
+      "wayback": "https://web.archive.org/web/20241031202706/https://stevescalise.com/",
+      "wayback_raw": "https://web.archive.org/web/20241031202706id_/https://stevescalise.com/",
+      "file": "archive/2024/scalise-la/home.html",
+      "text_file": "archive/2024/scalise-la/home.txt",
+      "bytes": 35061,
+      "sha256_html": "de908fb7cb936544472e416adf9b4c1d558ad80e30017d1a6ea31a885a32a539",
+      "sha256_text": "f3aada7ceffeb2b09641a0053be90f8bb39ea6b1bad8c7ddeaaaa204834ee9c2"
+    },
+    {
+      "original": "https://stevescalise.com/your-priorities/",
+      "timestamp": "20241031085516",
+      "wayback": "https://web.archive.org/web/20241031085516/https://stevescalise.com/your-priorities/",
+      "wayback_raw": "https://web.archive.org/web/20241031085516id_/https://stevescalise.com/your-priorities/",
+      "file": "archive/2024/scalise-la/your-priorities.html",
+      "text_file": "archive/2024/scalise-la/your-priorities.txt",
+      "bytes": 41787,
+      "sha256_html": "460961beadfeeb91019dbf911fc5a328d1d08538f931a2d28ea3ace1787be396",
+      "sha256_text": "66f0475773901cc5737d26450f815e3cd288d3edacd14ec7f4591ebd2bf9d7be"
+    },
+    {
+      "original": "https://stevescalise.com/your-priorities/embed/",
+      "timestamp": "20241031143323",
+      "wayback": "https://web.archive.org/web/20241031143323/https://stevescalise.com/your-priorities/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241031143323id_/https://stevescalise.com/your-priorities/embed/",
+      "file": "archive/2024/scalise-la/your-priorities-embed.html",
+      "text_file": "archive/2024/scalise-la/your-priorities-embed.txt",
+      "bytes": 19351,
+      "sha256_html": "d2372f8f517e372de07722dab3031aaab60139ddbc9521205daae178f4709697",
+      "sha256_text": "05f4ec046029563c4b0f31cd39457e521b4920ffffde3388f9d2f5f9052a5d16"
+    }
+  ],
+  "snapshots_found": {
+    "stevescalise.com": 36
+  },
+  "generated_utc": "2026-11-14T08:24:15Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
