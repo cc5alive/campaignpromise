@@ -1,0 +1,49 @@
+{
+  "name": "Steven Horsford",
+  "domains_tried": [
+    "stevenhorsford.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.stevenhorsford.com/",
+      "timestamp": "20241105201928",
+      "wayback": "https://web.archive.org/web/20241105201928/https://www.stevenhorsford.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105201928id_/https://www.stevenhorsford.com/",
+      "file": "archive/2024/horsford-nv/home.html",
+      "text_file": "archive/2024/horsford-nv/home.txt",
+      "bytes": 504269,
+      "sha256_html": "79c4ad5e0f1bd6ee24ccda8544b2cad1bbd18462b257e251eb0fbf795c3dcd41",
+      "sha256_text": "78d5597cf2f73011dce154b4d5e8e7f3ca97e410f7a5a2230963e2cdd2a90d45"
+    },
+    {
+      "original": "https://www.stevenhorsford.com/issues",
+      "timestamp": "20241105201609",
+      "wayback": "https://web.archive.org/web/20241105201609/https://www.stevenhorsford.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105201609id_/https://www.stevenhorsford.com/issues",
+      "file": "archive/2024/horsford-nv/issues.html",
+      "text_file": "archive/2024/horsford-nv/issues.txt",
+      "bytes": 327939,
+      "sha256_html": "d66248960cc4c2807fcf24bdbc4613756afc953e3cacdec98d30d589bd48bcc8",
+      "sha256_text": "b900ada323f8a2e4d371c01cf2fd6ff37344ee186538e680ab4cfa32dcc40647"
+    },
+    {
+      "original": "https://www.stevenhorsford.com/about",
+      "timestamp": "20241105201621",
+      "wayback": "https://web.archive.org/web/20241105201621/https://www.stevenhorsford.com/about",
+      "wayback_raw": "https://web.archive.org/web/20241105201621id_/https://www.stevenhorsford.com/about",
+      "file": "archive/2024/horsford-nv/about.html",
+      "text_file": "archive/2024/horsford-nv/about.txt",
+      "bytes": 356631,
+      "sha256_html": "5f20a72571aae60bca379481971d7402a611904396b1d71256459dbe1988e52d",
+      "sha256_text": "1a1bd5efd075df9f8d2bd1e4be057bfeeaf1fe1b4a49c261ae8ba15bf1d0f398"
+    }
+  ],
+  "snapshots_found": {
+    "stevenhorsford.com": 7
+  },
+  "generated_utc": "2026-11-14T16:13:35Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
