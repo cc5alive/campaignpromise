@@ -97,7 +97,13 @@
     {
       "original": "https://www.lawlerforcongress.com/2022/09/25/power-politics-full-show-discussing-the-issues-with-assemblyman-congressional-candidate-mike-lawler/",
       "timestamp": "20241105044233",
-      "error": "no response"
+      "wayback": "https://web.archive.org/web/20241105044233/https://www.lawlerforcongress.com/2022/09/25/power-politics-full-show-discussing-the-issues-with-assemblyman-congressional-candidate-mike-lawler/",
+      "wayback_raw": "https://web.archive.org/web/20241105044233id_/https://www.lawlerforcongress.com/2022/09/25/power-politics-full-show-discussing-the-issues-with-assemblyman-congressional-candidate-mike-lawler/",
+      "file": "archive/2024/lawler/2022-09-25-power-politics-full-show-discussing-the-issues-with-assemblyman-congressional-candidate-mike-lawler.html",
+      "text_file": "archive/2024/lawler/2022-09-25-power-politics-full-show-discussing-the-issues-with-assemblyman-congressional-candidate-mike-lawler.txt",
+      "bytes": 29040,
+      "sha256_html": "17cb5505231475a000248e86d63744b8deb0b1e4969c7db135d2a2fb63c8244a",
+      "sha256_text": "c379a1f49775a83b97e57e54c18c87c526aabf4efb25650b98877f6a231c8c9f"
     },
     {
       "original": "https://www.lawlerforcongress.com/2022/12/20/how-2-new-house-members-plan-to-work-across-the-aisle-in-the-next-congress/",
@@ -137,7 +143,7 @@
     "mikelawler.com": 0,
     "lawlerforcongress.com": 237
   },
-  "generated_utc": "2026-11-14T08:08:33Z",
+  "generated_utc": "2026-11-14T08:27:34Z",
   "window": {
     "from": "20240801",
     "to": "20241105"
