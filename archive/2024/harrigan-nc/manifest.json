@@ -1,0 +1,38 @@
+{
+  "name": "Pat Harrigan",
+  "domains_tried": [
+    "harriganforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.harriganforcongress.com/",
+      "timestamp": "20241105151457",
+      "wayback": "https://web.archive.org/web/20241105151457/https://www.harriganforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105151457id_/https://www.harriganforcongress.com/",
+      "file": "archive/2024/harrigan-nc/home.html",
+      "text_file": "archive/2024/harrigan-nc/home.txt",
+      "bytes": 71736,
+      "sha256_html": "17ea5287a88f09be954807db12e33fa38274b86489ea5932d35f2e74e0ade700",
+      "sha256_text": "d938d579fd148ca38e7546d0bdbc5c8d1f6de98c6d0ef71c0310015bcc48c572"
+    },
+    {
+      "original": "https://www.harriganforcongress.com/issues",
+      "timestamp": "20241105151510",
+      "wayback": "https://web.archive.org/web/20241105151510/https://www.harriganforcongress.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105151510id_/https://www.harriganforcongress.com/issues",
+      "file": "archive/2024/harrigan-nc/issues.html",
+      "text_file": "archive/2024/harrigan-nc/issues.txt",
+      "bytes": 58436,
+      "sha256_html": "4f8a12cdef66b5af6383fc64db7bef95ca119b8c0d27f2f4b8fb25408cb17b49",
+      "sha256_text": "ff18c1c1a13f252248e31c897da4b7d1c628ed8a1843f20aeaf3efacd880dfc9"
+    }
+  ],
+  "snapshots_found": {
+    "harriganforcongress.com": 27
+  },
+  "generated_utc": "2026-11-14T16:40:46Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
