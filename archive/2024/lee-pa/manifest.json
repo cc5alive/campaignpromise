@@ -1,0 +1,60 @@
+{
+  "name": "Summer L. Lee",
+  "domains_tried": [
+    "summerforpa.com"
+  ],
+  "pages": [
+    {
+      "original": "https://summerforpa.com/",
+      "timestamp": "20241105132309",
+      "wayback": "https://web.archive.org/web/20241105132309/https://summerforpa.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105132309id_/https://summerforpa.com/",
+      "file": "archive/2024/lee-pa/home.html",
+      "text_file": "archive/2024/lee-pa/home.txt",
+      "bytes": 86727,
+      "sha256_html": "6497164c2c5cb210c5050f77da93802183d1332c5d664a378c2b1a1c6f50e263",
+      "sha256_text": "503ef46148ad8ac2d8db497b59e53fff7a97a7771591b0367b5ca8bdc423235f"
+    },
+    {
+      "original": "https://summerforpa.com/issues/",
+      "timestamp": "20241105132031",
+      "wayback": "https://web.archive.org/web/20241105132031/https://summerforpa.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105132031id_/https://summerforpa.com/issues/",
+      "file": "archive/2024/lee-pa/issues.html",
+      "text_file": "archive/2024/lee-pa/issues.txt",
+      "bytes": 177382,
+      "sha256_html": "440ec7a82d0183a7c9ef33e7e7ac0141a2111837189f37528c8df1d7f37e32b1",
+      "sha256_text": "012a2fa8e2d046c27bcec9fa6a1ec7da0a09f51ebc46afc79de7a1d383c227d2"
+    },
+    {
+      "original": "https://summerforpa.com/endorsement/planned-parenthood-action-fund/",
+      "timestamp": "20241105135252",
+      "wayback": "https://web.archive.org/web/20241105135252/https://summerforpa.com/endorsement/planned-parenthood-action-fund/",
+      "wayback_raw": "https://web.archive.org/web/20241105135252id_/https://summerforpa.com/endorsement/planned-parenthood-action-fund/",
+      "file": "archive/2024/lee-pa/endorsement-planned-parenthood-action-fund.html",
+      "text_file": "archive/2024/lee-pa/endorsement-planned-parenthood-action-fund.txt",
+      "bytes": 54497,
+      "sha256_html": "f148fd67976416eb4cbbcb959634a72c91330ddaf9ae12b0d810bdba4a2ce5b0",
+      "sha256_text": "66f7160873be5a7663b44c1354059c7283466fd3ac65da5c630a430f3f5ca0b3"
+    },
+    {
+      "original": "https://summerforpa.com/about/",
+      "timestamp": "20241105132238",
+      "wayback": "https://web.archive.org/web/20241105132238/https://summerforpa.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105132238id_/https://summerforpa.com/about/",
+      "file": "archive/2024/lee-pa/about.html",
+      "text_file": "archive/2024/lee-pa/about.txt",
+      "bytes": 89096,
+      "sha256_html": "aac030f1ce73b44a230977caaf2541f226d940a15e72dae021bbe993d2db1042",
+      "sha256_text": "931a9e424ea8a0f1bb0965c015ecf251b3c6c91ef748642aed8f539d73bcd09e"
+    }
+  ],
+  "snapshots_found": {
+    "summerforpa.com": 355
+  },
+  "generated_utc": "2026-11-14T16:24:05Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
