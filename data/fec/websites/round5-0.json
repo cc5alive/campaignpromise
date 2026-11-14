@@ -1,0 +1,68 @@
+{
+ "committees": {
+  "C00420760": {
+   "name": "FRIENDS OF MAZIE HIRONO",
+   "website": "WWW.MAZIEFORHAWAII.COM",
+   "error": null
+  },
+  "C00516047": {
+   "name": "ANGUS KING FOR U.S. SENATE CAMPAIGN",
+   "website": "HTTPS://ANGUSFORMAINE.COM/",
+   "error": null
+  },
+  "C00443218": {
+   "name": "WICKER FOR SENATE",
+   "website": "WWW.WICKERFORSENATE.COM",
+   "error": null
+  },
+  "C00434563": {
+   "name": "MARTIN HEINRICH FOR SENATE",
+   "website": "HTTPS://MARTINHEINRICH.COM",
+   "error": null
+  },
+  "C00413914": {
+   "name": "GILLIBRAND FOR SENATE",
+   "website": "WWW.KIRSTENGILLIBRAND.COM",
+   "error": null
+  },
+  "C00504704": {
+   "name": "CRAMER FOR SENATE",
+   "website": "WWW.KEVINCRAMER.ORG",
+   "error": null
+  },
+  "C00410803": {
+   "name": "WHITEHOUSE FOR SENATE",
+   "website": "HTTP://WWW.WHITEHOUSEFORSENATE.COM",
+   "error": null
+  },
+  "C00411330": {
+   "name": "FRIENDS OF BERNIE SANDERS",
+   "website": "WWW.BERNIE.ORG",
+   "error": null
+  },
+  "C00349506": {
+   "name": "FRIENDS OF MARIA",
+   "website": "WWW.CANTWELL.COM",
+   "error": null
+  }
+ },
+ "searches": {
+  "hinson|IA|H": [
+   {
+    "candidate_id": "H0IA01174",
+    "name": "ARENHOLZ, ASHLEY HINSON",
+    "committees": [
+     [
+      "C00706267",
+      "ASHLEY FOR IOWA",
+      [
+       2022,
+       2024,
+       2026
+      ]
+     ]
+    ]
+   }
+  ]
+ }
+}
