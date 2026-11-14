@@ -1,0 +1,49 @@
+{
+  "name": "Max L. Miller",
+  "domains_tried": [
+    "votemaxmiller.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.votemaxmiller.com/",
+      "timestamp": "20241105200414",
+      "wayback": "https://web.archive.org/web/20241105200414/https://www.votemaxmiller.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105200414id_/https://www.votemaxmiller.com/",
+      "file": "archive/2024/miller-oh/home.html",
+      "text_file": "archive/2024/miller-oh/home.txt",
+      "bytes": 33270,
+      "sha256_html": "a2ee2e90ba3f0c7091621fc1e52e5426ae031e713ff56d597a89b39c5592a553",
+      "sha256_text": "8fe890457e706d18357b983f18857ae0e09320c4532952d1e409a79224b7e85b"
+    },
+    {
+      "original": "https://www.votemaxmiller.com/accomplishments",
+      "timestamp": "20241105200416",
+      "wayback": "https://web.archive.org/web/20241105200416/https://www.votemaxmiller.com/accomplishments",
+      "wayback_raw": "https://web.archive.org/web/20241105200416id_/https://www.votemaxmiller.com/accomplishments",
+      "file": "archive/2024/miller-oh/accomplishments.html",
+      "text_file": "archive/2024/miller-oh/accomplishments.txt",
+      "bytes": 33953,
+      "sha256_html": "8344ab46f68f7de302f3ded2f904f481d5f822104c69b06e99b30644d6ae9dc7",
+      "sha256_text": "5269706305ccf49d828ea5c75414d2a5db3fd4e6d697cebaca9e2ad50e7010e4"
+    },
+    {
+      "original": "https://www.votemaxmiller.com/about",
+      "timestamp": "20241105200417",
+      "wayback": "https://web.archive.org/web/20241105200417/https://www.votemaxmiller.com/about",
+      "wayback_raw": "https://web.archive.org/web/20241105200417id_/https://www.votemaxmiller.com/about",
+      "file": "archive/2024/miller-oh/about.html",
+      "text_file": "archive/2024/miller-oh/about.txt",
+      "bytes": 22641,
+      "sha256_html": "f4b4e668b7e85afaeb07d2a7d8443422448d62c319cafdc2dc0827b171333d28",
+      "sha256_text": "d64832fe963dd1e1436d6fe92c1d69d6cf8b2541a5e082aebace2c11a45d82a9"
+    }
+  ],
+  "snapshots_found": {
+    "votemaxmiller.com": 8
+  },
+  "generated_utc": "2026-11-14T22:27:44Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
