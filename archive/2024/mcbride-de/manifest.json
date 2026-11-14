@@ -1,0 +1,49 @@
+{
+  "name": "Sarah McBride",
+  "domains_tried": [
+    "sarahmcbride.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.sarahmcbride.com/",
+      "timestamp": "20241105043244",
+      "wayback": "https://web.archive.org/web/20241105043244/https://www.sarahmcbride.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105043244id_/https://www.sarahmcbride.com/",
+      "file": "archive/2024/mcbride-de/home.html",
+      "text_file": "archive/2024/mcbride-de/home.txt",
+      "bytes": 183699,
+      "sha256_html": "7d47d786a7a3a69bb1b99d6da8c31d7f04181aff75dbb2d4d96a9f998ece08d5",
+      "sha256_text": "dbe9ac9c8f95ae956779dff1bd8f6d9c1284323c64d34535863b53c4248e0935"
+    },
+    {
+      "original": "https://www.sarahmcbride.com/priorities",
+      "timestamp": "20241105043249",
+      "wayback": "https://web.archive.org/web/20241105043249/https://www.sarahmcbride.com/priorities",
+      "wayback_raw": "https://web.archive.org/web/20241105043249id_/https://www.sarahmcbride.com/priorities",
+      "file": "archive/2024/mcbride-de/priorities.html",
+      "text_file": "archive/2024/mcbride-de/priorities.txt",
+      "bytes": 326672,
+      "sha256_html": "8e6068a95756d37986c6e2d8a432c575e0a72fa1126b9fab8d8f3b0190a81996",
+      "sha256_text": "b3a384d701c4709208c6b199bc672fa7cf41fff8363afada0d8f06c80a268318"
+    },
+    {
+      "original": "https://www.sarahmcbride.com/about",
+      "timestamp": "20241105043310",
+      "wayback": "https://web.archive.org/web/20241105043310/https://www.sarahmcbride.com/about",
+      "wayback_raw": "https://web.archive.org/web/20241105043310id_/https://www.sarahmcbride.com/about",
+      "file": "archive/2024/mcbride-de/about.html",
+      "text_file": "archive/2024/mcbride-de/about.txt",
+      "bytes": 143843,
+      "sha256_html": "607acbd2fc6725a027b261ca9d92a5eff93b8182597bb7b156a73ecd02bd7db3",
+      "sha256_text": "91353d401cea9b53b2ce2c89b6599b606e540d368b2bd469dd045b496b7e9575"
+    }
+  ],
+  "snapshots_found": {
+    "sarahmcbride.com": 59
+  },
+  "generated_utc": "2026-11-14T08:46:56Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
