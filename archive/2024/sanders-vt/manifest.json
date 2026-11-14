@@ -1,0 +1,150 @@
+{
+  "name": "Bernard Sanders",
+  "domains_tried": [
+    "bernie.org",
+    "berniesanders.com"
+  ],
+  "pages": [
+    {
+      "original": "https://berniesanders.com/",
+      "timestamp": "20241105170636",
+      "wayback": "https://web.archive.org/web/20241105170636/https://berniesanders.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105170636id_/https://berniesanders.com/",
+      "file": "archive/2024/sanders-vt/home.html",
+      "text_file": "archive/2024/sanders-vt/home.txt",
+      "bytes": 40083,
+      "sha256_html": "3fc272ae8e6545c2664e5020a2e9009c35d486b9cdf9ba881b63ab837377baba",
+      "sha256_text": "d5bf820694de5250b30eeffc5fa8037ef050015f28b830e85bf95ec57aadaffc"
+    },
+    {
+      "original": "https://berniesanders.com/issues/",
+      "timestamp": "20241105170538",
+      "wayback": "https://web.archive.org/web/20241105170538/https://berniesanders.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105170538id_/https://berniesanders.com/issues/",
+      "file": "archive/2024/sanders-vt/issues.html",
+      "text_file": "archive/2024/sanders-vt/issues.txt",
+      "bytes": 99902,
+      "sha256_html": "59653535c832bdc6c1b7258af8103f7023b9ebdeca100a8ce91b6c8bbd2fcec7",
+      "sha256_text": "bf1c6746521e023886652c6af2291850e68b5f9920b6f4adf6a1bd709b53b32e"
+    },
+    {
+      "original": "https://berniesanders.com/sanders-plan-to-hire-more-black-health-care-professionals/",
+      "timestamp": "20241105171548",
+      "wayback": "https://web.archive.org/web/20241105171548/https://berniesanders.com/sanders-plan-to-hire-more-black-health-care-professionals/",
+      "wayback_raw": "https://web.archive.org/web/20241105171548id_/https://berniesanders.com/sanders-plan-to-hire-more-black-health-care-professionals/",
+      "file": "archive/2024/sanders-vt/sanders-plan-to-hire-more-black-health-care-professionals.html",
+      "text_file": "archive/2024/sanders-vt/sanders-plan-to-hire-more-black-health-care-professionals.txt",
+      "bytes": 24527,
+      "sha256_html": "f7d331409d64f8d5855f2664ac7291e836a948a62fa1624d6fff9a13563173c4",
+      "sha256_text": "2abf85acf2f175ffea6067228daba8fc2617cea3721d10c08c925127edfa534a"
+    },
+    {
+      "original": "https://plan@berniesanders.com/issues/",
+      "timestamp": "20241105185157",
+      "wayback": "https://web.archive.org/web/20241105185157/https://plan@berniesanders.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105185157id_/https://plan@berniesanders.com/issues/",
+      "file": "archive/2024/sanders-vt/issues.html",
+      "text_file": "archive/2024/sanders-vt/issues.txt",
+      "bytes": 99902,
+      "sha256_html": "59653535c832bdc6c1b7258af8103f7023b9ebdeca100a8ce91b6c8bbd2fcec7",
+      "sha256_text": "bf1c6746521e023886652c6af2291850e68b5f9920b6f4adf6a1bd709b53b32e"
+    },
+    {
+      "original": "https://berniesanders.com/issues/corporate-accountability-and-democracy/",
+      "timestamp": "20241105170557",
+      "wayback": "https://web.archive.org/web/20241105170557/https://berniesanders.com/issues/corporate-accountability-and-democracy/",
+      "wayback_raw": "https://web.archive.org/web/20241105170557id_/https://berniesanders.com/issues/corporate-accountability-and-democracy/",
+      "file": "archive/2024/sanders-vt/issues-corporate-accountability-and-democracy.html",
+      "text_file": "archive/2024/sanders-vt/issues-corporate-accountability-and-democracy.txt",
+      "bytes": 65174,
+      "sha256_html": "e190d7a1fa19d6e782a97c927f682584f133429620c274f0a5eda5ca585c0da8",
+      "sha256_text": "51a2486d7e08a49a59a0efb583464af845657f6c1e61db63d4b4dbae711efd7f"
+    },
+    {
+      "original": "https://berniesanders.com/issues/criminal-justice-reform/",
+      "timestamp": "20241105170850",
+      "wayback": "https://web.archive.org/web/20241105170850/https://berniesanders.com/issues/criminal-justice-reform/",
+      "wayback_raw": "https://web.archive.org/web/20241105170850id_/https://berniesanders.com/issues/criminal-justice-reform/",
+      "file": "archive/2024/sanders-vt/issues-criminal-justice-reform.html",
+      "text_file": "archive/2024/sanders-vt/issues-criminal-justice-reform.txt",
+      "bytes": 68469,
+      "sha256_html": "a2fe7550125bb3cbf0493ec941447b344df7eb8a5ccdfd41f7cbd7eefd9639a4",
+      "sha256_text": "3fe5887e513d6257c1580405cbe522a8dafd02cde389edb2b6f4661950c84df7"
+    },
+    {
+      "original": "https://berniesanders.com/issues/disability-rights-old/",
+      "timestamp": "20241105171535",
+      "wayback": "https://web.archive.org/web/20241105171535/https://berniesanders.com/issues/disability-rights-old/",
+      "wayback_raw": "https://web.archive.org/web/20241105171535id_/https://berniesanders.com/issues/disability-rights-old/",
+      "file": "archive/2024/sanders-vt/issues-disability-rights-old.html",
+      "text_file": "archive/2024/sanders-vt/issues-disability-rights-old.txt",
+      "bytes": 27325,
+      "sha256_html": "1efc3b9742eb17123d0ac1d361041ae767624859e42f07e5e75b81796a17ba67",
+      "sha256_text": "57a45c1266d218c24b389715c1634a290bb34d3419a6815c962f23c501835620"
+    },
+    {
+      "original": "https://berniesanders.com/issues/eliminating-medical-debt/",
+      "timestamp": "20241105170949",
+      "wayback": "https://web.archive.org/web/20241105170949/https://berniesanders.com/issues/eliminating-medical-debt/",
+      "wayback_raw": "https://web.archive.org/web/20241105170949id_/https://berniesanders.com/issues/eliminating-medical-debt/",
+      "file": "archive/2024/sanders-vt/issues-eliminating-medical-debt.html",
+      "text_file": "archive/2024/sanders-vt/issues-eliminating-medical-debt.txt",
+      "bytes": 36694,
+      "sha256_html": "543b0edab27d976d971d088058d6667e46e6f49465731d126bcace32b8ed9b9b",
+      "sha256_text": "b62c420ba92e8b9bc3b5f877e3dbada2cdd96d1df76591a776888f80f338c564"
+    },
+    {
+      "original": "https://berniesanders.com/issues/emergency-response-coronavirus-pandemic/",
+      "timestamp": "20241105170405",
+      "wayback": "https://web.archive.org/web/20241105170405/https://berniesanders.com/issues/emergency-response-coronavirus-pandemic/",
+      "wayback_raw": "https://web.archive.org/web/20241105170405id_/https://berniesanders.com/issues/emergency-response-coronavirus-pandemic/",
+      "file": "archive/2024/sanders-vt/issues-emergency-response-coronavirus-pandemic.html",
+      "text_file": "archive/2024/sanders-vt/issues-emergency-response-coronavirus-pandemic.txt",
+      "bytes": 37683,
+      "sha256_html": "140f4424e02a7e9e6139a0c38780b4a993205724526d4c5315eeceb2002148a7",
+      "sha256_text": "c50e914bae23330952fd745396b6af5f027acf735193b005b846167ee68fcc0a"
+    },
+    {
+      "original": "https://berniesanders.com/issues/empower-puerto-rico/",
+      "timestamp": "20241105170559",
+      "wayback": "https://web.archive.org/web/20241105170559/https://berniesanders.com/issues/empower-puerto-rico/",
+      "wayback_raw": "https://web.archive.org/web/20241105170559id_/https://berniesanders.com/issues/empower-puerto-rico/",
+      "file": "archive/2024/sanders-vt/issues-empower-puerto-rico.html",
+      "text_file": "archive/2024/sanders-vt/issues-empower-puerto-rico.txt",
+      "bytes": 26460,
+      "sha256_html": "c81c1d9d4c29eca28fbeb704dc5dd8bc4a1416b227bfb5ce31e1bd99209ecdae",
+      "sha256_text": "b27f7b6ad7447e01e9db76cacb72bc1c8a027f54dd494b8d093347461d5098db"
+    },
+    {
+      "original": "https://berniesanders.com/issues/empowering-tribal-nations/",
+      "timestamp": "20241105170556",
+      "wayback": "https://web.archive.org/web/20241105170556/https://berniesanders.com/issues/empowering-tribal-nations/",
+      "wayback_raw": "https://web.archive.org/web/20241105170556id_/https://berniesanders.com/issues/empowering-tribal-nations/",
+      "file": "archive/2024/sanders-vt/issues-empowering-tribal-nations.html",
+      "text_file": "archive/2024/sanders-vt/issues-empowering-tribal-nations.txt",
+      "bytes": 28349,
+      "sha256_html": "c011ce40c1b24132e10da7929041ccbd80574722f73c3d46dfd1a184766a6e5f",
+      "sha256_text": "fe628d99a78acf30f01b5704a5252860342ea498b355c75f8e507a214fbed7d9"
+    },
+    {
+      "original": "https://berniesanders.com/issues/end-humanitarian-crisis-and-empower-people-puerto-rico/",
+      "timestamp": "20241105171343",
+      "wayback": "https://web.archive.org/web/20241105171343/https://berniesanders.com/issues/end-humanitarian-crisis-and-empower-people-puerto-rico/",
+      "wayback_raw": "https://web.archive.org/web/20241105171343id_/https://berniesanders.com/issues/end-humanitarian-crisis-and-empower-people-puerto-rico/",
+      "file": "archive/2024/sanders-vt/issues-end-humanitarian-crisis-and-empower-people-puerto-rico.html",
+      "text_file": "archive/2024/sanders-vt/issues-end-humanitarian-crisis-and-empower-people-puerto-rico.txt",
+      "bytes": 39415,
+      "sha256_html": "cd287e157fea856a3f8d6ce517df3932948239995adcd7f2ee76dc688dba385d",
+      "sha256_text": "e3387e67810765ee212b98811bada4bf612d6741c5eef43c4c96d32643477869"
+    }
+  ],
+  "snapshots_found": {
+    "bernie.org": 0,
+    "berniesanders.com": 329
+  },
+  "generated_utc": "2026-11-14T22:23:13Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
