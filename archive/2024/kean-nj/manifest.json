@@ -1,0 +1,49 @@
+{
+  "name": "Thomas H. Kean, Jr.",
+  "domains_tried": [
+    "tomkean.com"
+  ],
+  "pages": [
+    {
+      "original": "https://tomkean.com/",
+      "timestamp": "20241105080912",
+      "wayback": "https://web.archive.org/web/20241105080912/https://tomkean.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105080912id_/https://tomkean.com/",
+      "file": "archive/2024/kean-nj/home.html",
+      "text_file": "archive/2024/kean-nj/home.txt",
+      "bytes": 86312,
+      "sha256_html": "685992c7f146b8c1b163da7da449b92603f5b7aa76d115fb5def7c0b6e66a62e",
+      "sha256_text": "6e0bfc3cee804253b78e9b1e4599b5fab3a4820c3f3c3f67eee46868641f203f"
+    },
+    {
+      "original": "https://tomkean.com/action/issue-survey/",
+      "timestamp": "20241105081326",
+      "wayback": "https://web.archive.org/web/20241105081326/https://tomkean.com/action/issue-survey/",
+      "wayback_raw": "https://web.archive.org/web/20241105081326id_/https://tomkean.com/action/issue-survey/",
+      "file": "archive/2024/kean-nj/action-issue-survey.html",
+      "text_file": "archive/2024/kean-nj/action-issue-survey.txt",
+      "bytes": 66504,
+      "sha256_html": "b92ff645768e6a0bbfa51fb5d2f641b29dc959e0cc9aa09bb8608d1d08149c73",
+      "sha256_text": "fbb5bc722c2b60104f61d8c761d67c532b7f7203f00447dba5881040448ed3fa"
+    },
+    {
+      "original": "https://tomkean.com/action/we-stand-with-senator-kean-in-support-of-israel/",
+      "timestamp": "20241105081344",
+      "wayback": "https://web.archive.org/web/20241105081344/https://tomkean.com/action/we-stand-with-senator-kean-in-support-of-israel/",
+      "wayback_raw": "https://web.archive.org/web/20241105081344id_/https://tomkean.com/action/we-stand-with-senator-kean-in-support-of-israel/",
+      "file": "archive/2024/kean-nj/action-we-stand-with-senator-kean-in-support-of-israel.html",
+      "text_file": "archive/2024/kean-nj/action-we-stand-with-senator-kean-in-support-of-israel.txt",
+      "bytes": 66630,
+      "sha256_html": "32638ec7f4302bead47cf3aaf6b88ebb6fe42d5e4d104f73819a1b28603ccec0",
+      "sha256_text": "1c7c00d6c7d884fbc558844f985e0e156bda8604ff09be582142b8486e1adbb2"
+    }
+  ],
+  "snapshots_found": {
+    "tomkean.com": 32
+  },
+  "generated_utc": "2026-11-14T16:47:40Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
