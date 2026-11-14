@@ -1,0 +1,31 @@
+{
+  "name": "Donald G. Davis",
+  "domains_tried": [
+    "dondavisfornc.com",
+    "dondavisnc.com",
+    "dondavis.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.dondavis.com/",
+      "timestamp": "20240911155254",
+      "wayback": "https://web.archive.org/web/20240911155254/https://www.dondavis.com/",
+      "wayback_raw": "https://web.archive.org/web/20240911155254id_/https://www.dondavis.com/",
+      "file": "archive/2024/davis-nc/home.html",
+      "text_file": "archive/2024/davis-nc/home.txt",
+      "bytes": 70437,
+      "sha256_html": "22911bb1f208a80afa2db29d4688c0cb8dada8b1c22ae4e0601fb8d0ddbeb7f6",
+      "sha256_text": "127cdf9898e0544ca88ab4fecf13a0054f802bd1cb14ae3565269f008f59ba38"
+    }
+  ],
+  "snapshots_found": {
+    "dondavisfornc.com": 0,
+    "dondavisnc.com": 0,
+    "dondavis.com": 6
+  },
+  "generated_utc": "2026-11-14T08:57:04Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
