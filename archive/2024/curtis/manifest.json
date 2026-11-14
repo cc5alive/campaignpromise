@@ -1,0 +1,49 @@
+{
+  "name": "John Curtis",
+  "domains_tried": [
+    "johncurtis.org"
+  ],
+  "pages": [
+    {
+      "original": "https://www.johncurtis.org/",
+      "timestamp": "20241105072551",
+      "wayback": "https://web.archive.org/web/20241105072551/https://www.johncurtis.org/",
+      "wayback_raw": "https://web.archive.org/web/20241105072551id_/https://www.johncurtis.org/",
+      "file": "archive/2024/curtis/home.html",
+      "text_file": "archive/2024/curtis/home.txt",
+      "bytes": 95825,
+      "sha256_html": "6efbca263de04ede6baf45eb6083d57310ae3c2aac7ecf7d1c7ec625e017bb2e",
+      "sha256_text": "e29d24df2d1d765f90fb65f71e67fceafa7ae9b994479ca4f88027d3aa57c7c8"
+    },
+    {
+      "original": "https://www.johncurtis.org/issues/",
+      "timestamp": "20241105071509",
+      "wayback": "https://web.archive.org/web/20241105071509/https://www.johncurtis.org/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105071509id_/https://www.johncurtis.org/issues/",
+      "file": "archive/2024/curtis/issues.html",
+      "text_file": "archive/2024/curtis/issues.txt",
+      "bytes": 47738,
+      "sha256_html": "d530ce4f51c7171ac9ffe53086a3db7615cc851898ccccff0976e423ac05156b",
+      "sha256_text": "87c2097b0fe7f8680ac1702e771f09798b4fa575d16a62115f4805f5a085accb"
+    },
+    {
+      "original": "https://www.johncurtis.org/issues/embed/",
+      "timestamp": "20241101213807",
+      "wayback": "https://web.archive.org/web/20241101213807/https://www.johncurtis.org/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241101213807id_/https://www.johncurtis.org/issues/embed/",
+      "file": "archive/2024/curtis/issues-embed.html",
+      "text_file": "archive/2024/curtis/issues-embed.txt",
+      "bytes": 20647,
+      "sha256_html": "2d8f26f84b4003fb6de8ac9bd0e78272ee53ef504d130213a997568747d63bf1",
+      "sha256_text": "3dd9d6052cc6a82d4addb1dcc2ed2d909d4c2454ccaad8682c68cd4cb0b6bbcb"
+    }
+  ],
+  "snapshots_found": {
+    "johncurtis.org": 250
+  },
+  "generated_utc": "2026-11-14T07:42:47Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
