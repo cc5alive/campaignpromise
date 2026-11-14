@@ -30,7 +30,14 @@ TARGETS = {
     "S5": "Laken Riley Act (immigration detention)",
     "HR29": "Laken Riley Act, House version",
     "HR1": "2025 budget reconciliation bill (One Big Beautiful Bill Act)",
+    # Round 4 issues: fentanyl, abortion, health care
+    "S331": "HALT Fentanyl Act",
+    "HR21": "Born-Alive Abortion Survivors Protection Act",
+    "S6": "Born-Alive Abortion Survivors Protection Act, Senate version",
 }
+# Every roll call seen (both chambers), without member positions: lets us find the
+# official record for any new issue without guessing roll numbers.
+CATALOG = []
 
 
 def norm_bill(s):
@@ -61,6 +68,9 @@ def senate():
         root = ET.fromstring(menu.content)
         for v in root.iter("vote"):
             issue = norm_bill(v.findtext("issue"))
+            CATALOG.append({"chamber": "Senate", "session": sess, "number": int(v.findtext("vote_number")),
+                            "date": v.findtext("vote_date"), "bill": issue, "question": v.findtext("question"),
+                            "result": v.findtext("result"), "title": v.findtext("title")})
             if issue not in TARGETS:
                 continue
             num = int(v.findtext("vote_number"))
@@ -110,6 +120,9 @@ def house():
                 continue
             meta = x.find("vote-metadata")
             bill = norm_bill(meta.findtext("legis-num"))
+            CATALOG.append({"chamber": "House", "year": year, "number": n, "date": meta.findtext("action-date"),
+                            "bill": bill, "question": meta.findtext("vote-question"),
+                            "result": meta.findtext("vote-result"), "title": meta.findtext("vote-desc")})
             if bill not in TARGETS:
                 continue
             path = OUT / f"house-{year}-{n:03d}.xml"
@@ -139,7 +152,8 @@ def main():
     (OUT / "index.json").write_text(json.dumps({
         "generated_utc": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
         "targets": TARGETS, "votes": rows}, indent=1), encoding="utf-8")
-    print(len(rows), "votes saved")
+    (OUT / "catalog.json").write_text(json.dumps(CATALOG, indent=0), encoding="utf-8")
+    print(len(rows), "votes saved;", len(CATALOG), "roll calls catalogued")
 
 
 if __name__ == "__main__":
