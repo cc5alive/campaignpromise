@@ -1,0 +1,28 @@
+{
+  "name": "Troy Downing",
+  "domains_tried": [
+    "troydowning.com",
+    "downingformontana.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.troydowning.com/",
+      "timestamp": "20241105210616",
+      "wayback": "https://web.archive.org/web/20241105210616/https://www.troydowning.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105210616id_/https://www.troydowning.com/",
+      "file": "archive/2024/downing-mt/home.html",
+      "text_file": "archive/2024/downing-mt/home.txt",
+      "bytes": 85562,
+      "sha256_html": "d2ec5739b24c576748c23c1bae2534d245278f83598e18ff2882463d82726025",
+      "sha256_text": "350b97831bab93573e3489a89a6310f62342da5790c47b7cce7bb88747c1d061"
+    }
+  ],
+  "snapshots_found": {
+    "troydowning.com": 2
+  },
+  "generated_utc": "2026-11-14T16:39:12Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
