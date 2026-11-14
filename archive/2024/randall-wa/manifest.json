@@ -1,0 +1,126 @@
+{
+  "name": "Emily Randall",
+  "domains_tried": [
+    "electemilyrandall.com"
+  ],
+  "pages": [
+    {
+      "original": "https://electemilyrandall.com/",
+      "timestamp": "20241101225701",
+      "wayback": "https://web.archive.org/web/20241101225701/https://electemilyrandall.com/",
+      "wayback_raw": "https://web.archive.org/web/20241101225701id_/https://electemilyrandall.com/",
+      "file": "archive/2024/randall-wa/home.html",
+      "text_file": "archive/2024/randall-wa/home.txt",
+      "bytes": 157764,
+      "sha256_html": "c9dcd1a49112e06af652d81f4b4bd6773b60b67cbd99b9026be068a0d0393204",
+      "sha256_text": "3be8aa07025075b1abe3cb373febda58e60ab3527111fc350e0d0108014a623c"
+    },
+    {
+      "original": "https://electemilyrandall.com/emily-randall-announces-planned-parenthood-action-fund-sole-endorsement/",
+      "timestamp": "20241101112200",
+      "wayback": "https://web.archive.org/web/20241101112200/https://electemilyrandall.com/emily-randall-announces-planned-parenthood-action-fund-sole-endorsement/",
+      "wayback_raw": "https://web.archive.org/web/20241101112200id_/https://electemilyrandall.com/emily-randall-announces-planned-parenthood-action-fund-sole-endorsement/",
+      "file": "archive/2024/randall-wa/emily-randall-announces-planned-parenthood-action-fund-sole-endorsement.html",
+      "text_file": "archive/2024/randall-wa/emily-randall-announces-planned-parenthood-action-fund-sole-endorsement.txt",
+      "bytes": 104887,
+      "sha256_html": "0962d6b19e0fd007e7f9cecc70349c28020c30fb36c413d212dbd5a9221b089d",
+      "sha256_text": "1b74f3547b49dac8408f3103e91abf8192a884c58f2511d73c83bb4e6e45e896"
+    },
+    {
+      "original": "https://electemilyrandall.com/issues/",
+      "timestamp": "20241031152853",
+      "wayback": "https://web.archive.org/web/20241031152853/https://electemilyrandall.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241031152853id_/https://electemilyrandall.com/issues/",
+      "file": "archive/2024/randall-wa/issues.html",
+      "text_file": "archive/2024/randall-wa/issues.txt",
+      "bytes": 116911,
+      "sha256_html": "660d6166d776ce487d8d84fcdb2dc3c6c8e910dfe60d9ee694372eb093571dd6",
+      "sha256_text": "561b6a01e18922c0eaaa313cc7d2785db6b95a5252f7b85c9042aeab60f9dd7a"
+    },
+    {
+      "original": "https://electemilyrandall.com/emily-randall-announces-planned-parenthood-action-fund-sole-endorsement/embed/",
+      "timestamp": "20241104215200",
+      "wayback": "https://web.archive.org/web/20241104215200/https://electemilyrandall.com/emily-randall-announces-planned-parenthood-action-fund-sole-endorsement/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241104215200id_/https://electemilyrandall.com/emily-randall-announces-planned-parenthood-action-fund-sole-endorsement/embed/",
+      "file": "archive/2024/randall-wa/emily-randall-announces-planned-parenthood-action-fund-sole-endorsement-embed.html",
+      "text_file": "archive/2024/randall-wa/emily-randall-announces-planned-parenthood-action-fund-sole-endorsement-embed.txt",
+      "bytes": 21829,
+      "sha256_html": "e3572f2a48cd6afe1a3d900202a6a9b52ccb2d94ec43b3e98587a037765e9565",
+      "sha256_text": "baceabd6aeabead903dc99206873df2ee85baf6254db804b37f6099da86f760a"
+    },
+    {
+      "original": "https://electemilyrandall.com/issues/abortion/",
+      "timestamp": "20241104160224",
+      "wayback": "https://web.archive.org/web/20241104160224/https://electemilyrandall.com/issues/abortion/",
+      "wayback_raw": "https://web.archive.org/web/20241104160224id_/https://electemilyrandall.com/issues/abortion/",
+      "file": "archive/2024/randall-wa/issues-abortion.html",
+      "text_file": "archive/2024/randall-wa/issues-abortion.txt",
+      "bytes": 101211,
+      "sha256_html": "091b79ab71b644700bfef4077907ec6a6395cd0bf6ef0b1c643db5d3749d7eb2",
+      "sha256_text": "2c771e313260d04775b4be3595c73804238d7d5be06864793ddfc94d5e08ddb8"
+    },
+    {
+      "original": "https://electemilyrandall.com/issues/defending-democracy/",
+      "timestamp": "20241104155856",
+      "wayback": "https://web.archive.org/web/20241104155856/https://electemilyrandall.com/issues/defending-democracy/",
+      "wayback_raw": "https://web.archive.org/web/20241104155856id_/https://electemilyrandall.com/issues/defending-democracy/",
+      "file": "archive/2024/randall-wa/issues-defending-democracy.html",
+      "text_file": "archive/2024/randall-wa/issues-defending-democracy.txt",
+      "bytes": 101057,
+      "sha256_html": "29f460e1e5765fa134f8ab285305ae4af9ea2d77d965a06c976700ece9c0bcf0",
+      "sha256_text": "6036b778080b53211c5d5a9b0790154f72b2d39b40f22344a469f48ecf0daf03"
+    },
+    {
+      "original": "https://electemilyrandall.com/issues/enhancing-healthcare/",
+      "timestamp": "20241104155953",
+      "wayback": "https://web.archive.org/web/20241104155953/https://electemilyrandall.com/issues/enhancing-healthcare/",
+      "wayback_raw": "https://web.archive.org/web/20241104155953id_/https://electemilyrandall.com/issues/enhancing-healthcare/",
+      "file": "archive/2024/randall-wa/issues-enhancing-healthcare.html",
+      "text_file": "archive/2024/randall-wa/issues-enhancing-healthcare.txt",
+      "bytes": 101280,
+      "sha256_html": "d6f7f78c76bd1f5eaf5f5721318a072fa285ee0f34ec9a4d151cad05a71941a3",
+      "sha256_text": "3112b45316043a45ba84a5302a3a9884b5e5ff47087be813429e08b95bd34f82"
+    },
+    {
+      "original": "https://electemilyrandall.com/issues/fighting-climate-change/",
+      "timestamp": "20241104155740",
+      "wayback": "https://web.archive.org/web/20241104155740/https://electemilyrandall.com/issues/fighting-climate-change/",
+      "wayback_raw": "https://web.archive.org/web/20241104155740id_/https://electemilyrandall.com/issues/fighting-climate-change/",
+      "file": "archive/2024/randall-wa/issues-fighting-climate-change.html",
+      "text_file": "archive/2024/randall-wa/issues-fighting-climate-change.txt",
+      "bytes": 101063,
+      "sha256_html": "ae5b9ac82314a451ce89b9db5b08a4b456b0cb24a6b04f7b0b15c1bcd17901e1",
+      "sha256_text": "5b62124be9ac44a96cde7e71b9346d46fe021de55f8ee4855850525cb6c31597"
+    },
+    {
+      "original": "https://electemilyrandall.com/issues/improving-education/",
+      "timestamp": "20241104160129",
+      "wayback": "https://web.archive.org/web/20241104160129/https://electemilyrandall.com/issues/improving-education/",
+      "wayback_raw": "https://web.archive.org/web/20241104160129id_/https://electemilyrandall.com/issues/improving-education/",
+      "file": "archive/2024/randall-wa/issues-improving-education.html",
+      "text_file": "archive/2024/randall-wa/issues-improving-education.txt",
+      "bytes": 101128,
+      "sha256_html": "31b56e82a6b1a97346456a66773f4a96ee46f185739cdf57cdb4d003f6f55ec2",
+      "sha256_text": "116471f92eecddee0d759d68437ff04ea249669119bbcb7e924d27cb5923753b"
+    },
+    {
+      "original": "https://electemilyrandall.com/issues/lowering-costs-for-families/",
+      "timestamp": "20241104155818",
+      "wayback": "https://web.archive.org/web/20241104155818/https://electemilyrandall.com/issues/lowering-costs-for-families/",
+      "wayback_raw": "https://web.archive.org/web/20241104155818id_/https://electemilyrandall.com/issues/lowering-costs-for-families/",
+      "file": "archive/2024/randall-wa/issues-lowering-costs-for-families.html",
+      "text_file": "archive/2024/randall-wa/issues-lowering-costs-for-families.txt",
+      "bytes": 101305,
+      "sha256_html": "74060b7071e630a5427f56c448bfd476ff22ed2c654a13e8039229d7c3ab14e5",
+      "sha256_text": "7d2131ea94ac5990f3e95ad8b8fa96d7d4c10c155b995f2da878a7450c76d2bd"
+    }
+  ],
+  "snapshots_found": {
+    "electemilyrandall.com": 44
+  },
+  "generated_utc": "2026-11-14T17:03:26Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
