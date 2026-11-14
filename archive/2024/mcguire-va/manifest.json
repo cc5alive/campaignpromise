@@ -1,0 +1,39 @@
+{
+  "name": "John J. McGuire III",
+  "domains_tried": [
+    "johnmcguire.com",
+    "mcguireforvirginia.com"
+  ],
+  "pages": [
+    {
+      "original": "https://johnmcguire.com/",
+      "timestamp": "20241007040144",
+      "wayback": "https://web.archive.org/web/20241007040144/https://johnmcguire.com/",
+      "wayback_raw": "https://web.archive.org/web/20241007040144id_/https://johnmcguire.com/",
+      "file": "archive/2024/mcguire-va/home.html",
+      "text_file": "archive/2024/mcguire-va/home.txt",
+      "bytes": 40796,
+      "sha256_html": "b3d6bab1f718ab9149e7bcbc76bfe0da024ef64ac250041e87d2bd1a9030d60f",
+      "sha256_text": "b8db2cd1543db005d648aed1c126a8e2255a6f27f7ce92a6474b176143e6436c"
+    },
+    {
+      "original": "https://www.mcguireforvirginia.com/issues",
+      "timestamp": "20241016065201",
+      "wayback": "https://web.archive.org/web/20241016065201/https://www.mcguireforvirginia.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241016065201id_/https://www.mcguireforvirginia.com/issues",
+      "file": "archive/2024/mcguire-va/issues.html",
+      "text_file": "archive/2024/mcguire-va/issues.txt",
+      "bytes": 595765,
+      "sha256_html": "053c824769bf7a37bf9a2bb427ab9fb711a2b664ee88adb7d583647dc021a6e8",
+      "sha256_text": "afce208b8d8ea850c49d038e0ea96df9d536b6337ba58932a5dcc323803cb589"
+    }
+  ],
+  "snapshots_found": {
+    "johnmcguire.com": 2
+  },
+  "generated_utc": "2026-11-14T16:45:37Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
