@@ -7,13 +7,7 @@
     {
       "original": "https://www.johncurtis.org/",
       "timestamp": "20241105072551",
-      "wayback": "https://web.archive.org/web/20241105072551/https://www.johncurtis.org/",
-      "wayback_raw": "https://web.archive.org/web/20241105072551id_/https://www.johncurtis.org/",
-      "file": "archive/2024/curtis/home.html",
-      "text_file": "archive/2024/curtis/home.txt",
-      "bytes": 95825,
-      "sha256_html": "6efbca263de04ede6baf45eb6083d57310ae3c2aac7ecf7d1c7ec625e017bb2e",
-      "sha256_text": "e29d24df2d1d765f90fb65f71e67fceafa7ae9b994479ca4f88027d3aa57c7c8"
+      "error": "no response"
     },
     {
       "original": "https://www.johncurtis.org/issues/",
@@ -41,7 +35,7 @@
   "snapshots_found": {
     "johncurtis.org": 250
   },
-  "generated_utc": "2026-11-14T07:42:47Z",
+  "generated_utc": "2026-11-14T08:01:44Z",
   "window": {
     "from": "20240801",
     "to": "20241105"
