@@ -1,0 +1,148 @@
+{
+  "name": "Nancy Mace",
+  "domains_tried": [
+    "nancymace.org"
+  ],
+  "pages": [
+    {
+      "original": "https://nancymace.org/",
+      "timestamp": "20241105072312",
+      "wayback": "https://web.archive.org/web/20241105072312/https://nancymace.org/",
+      "wayback_raw": "https://web.archive.org/web/20241105072312id_/https://nancymace.org/",
+      "file": "archive/2024/mace-sc/home.html",
+      "text_file": "archive/2024/mace-sc/home.txt",
+      "bytes": 84095,
+      "sha256_html": "697d06e00c212e688f847f78edfe609f2bba3017e19a3e2275c0adf170ad47c5",
+      "sha256_text": "07f9f3946e78fae352a0952d1a337d64c6f441144c6532ea2f433bb0c955d0e2"
+    },
+    {
+      "original": "https://nancymace.org/accomplishments/",
+      "timestamp": "20241105060115",
+      "wayback": "https://web.archive.org/web/20241105060115/https://nancymace.org/accomplishments/",
+      "wayback_raw": "https://web.archive.org/web/20241105060115id_/https://nancymace.org/accomplishments/",
+      "file": "archive/2024/mace-sc/accomplishments.html",
+      "text_file": "archive/2024/mace-sc/accomplishments.txt",
+      "bytes": 49509,
+      "sha256_html": "f7f3dd31dda14d98a0d138500958d3bab45f2880dffaca46efceba44d96653bf",
+      "sha256_text": "9a9c6f09bb037c0268e0cb97c256c423eaf7c30d40c885ee82db5564f6dbf835"
+    },
+    {
+      "original": "https://nancymace.org/annual-district-issues-survey-beaufort/",
+      "timestamp": "20241105060252",
+      "wayback": "https://web.archive.org/web/20241105060252/https://nancymace.org/annual-district-issues-survey-beaufort/",
+      "wayback_raw": "https://web.archive.org/web/20241105060252id_/https://nancymace.org/annual-district-issues-survey-beaufort/",
+      "file": "archive/2024/mace-sc/annual-district-issues-survey-beaufort.html",
+      "text_file": "archive/2024/mace-sc/annual-district-issues-survey-beaufort.txt",
+      "bytes": 49417,
+      "sha256_html": "1a0e10a91c12944c22862915ac4a7fb052803b710a0efaee3671be7dd1de8ccd",
+      "sha256_text": "117bdc9a21261af530fe718994b696c079dac2dab67d668095c22c3dbd5ce958"
+    },
+    {
+      "original": "https://nancymace.org/annual-district-issues-survey-goose-creek/",
+      "timestamp": "20241105055929",
+      "wayback": "https://web.archive.org/web/20241105055929/https://nancymace.org/annual-district-issues-survey-goose-creek/",
+      "wayback_raw": "https://web.archive.org/web/20241105055929id_/https://nancymace.org/annual-district-issues-survey-goose-creek/",
+      "file": "archive/2024/mace-sc/annual-district-issues-survey-goose-creek.html",
+      "text_file": "archive/2024/mace-sc/annual-district-issues-survey-goose-creek.txt",
+      "bytes": 49598,
+      "sha256_html": "43056a53322be8f77017b2e21b2db8d6e86d23a33e728cdf85ec136499f676f4",
+      "sha256_text": "203221ee49b165f96460b10bc133a42a71834003887fe393959c1a6c60e94b06"
+    },
+    {
+      "original": "https://nancymace.org/annual-district-issues-survey-hilton-head/",
+      "timestamp": "20241105055943",
+      "wayback": "https://web.archive.org/web/20241105055943/https://nancymace.org/annual-district-issues-survey-hilton-head/",
+      "wayback_raw": "https://web.archive.org/web/20241105055943id_/https://nancymace.org/annual-district-issues-survey-hilton-head/",
+      "file": "archive/2024/mace-sc/annual-district-issues-survey-hilton-head.html",
+      "text_file": "archive/2024/mace-sc/annual-district-issues-survey-hilton-head.txt",
+      "bytes": 50033,
+      "sha256_html": "4ec9976b25c72d0cf438af9a95f92f6006d27871dbe8253d8cefaca3a8db263c",
+      "sha256_text": "0a44a75ae2b18ea5c2e87fd2ea366878bd1ebd86268de07008ca4a27168e3643"
+    },
+    {
+      "original": "https://nancymace.org/annual-district-issues-survey-summerville/",
+      "timestamp": "20241105060117",
+      "wayback": "https://web.archive.org/web/20241105060117/https://nancymace.org/annual-district-issues-survey-summerville/",
+      "wayback_raw": "https://web.archive.org/web/20241105060117id_/https://nancymace.org/annual-district-issues-survey-summerville/",
+      "file": "archive/2024/mace-sc/annual-district-issues-survey-summerville.html",
+      "text_file": "archive/2024/mace-sc/annual-district-issues-survey-summerville.txt",
+      "bytes": 49481,
+      "sha256_html": "caaff139df66d87baf21359525dd7924ddb02d63143602f8261e0a01e1a04848",
+      "sha256_text": "b56769a6f7f4cdd3d829b5f7a16b4572ebfa844e7d6e1504880139dd3770902b"
+    },
+    {
+      "original": "https://nancymace.org/annual-district-survey-local-issues/",
+      "timestamp": "20241105055939",
+      "wayback": "https://web.archive.org/web/20241105055939/https://nancymace.org/annual-district-survey-local-issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105055939id_/https://nancymace.org/annual-district-survey-local-issues/",
+      "file": "archive/2024/mace-sc/annual-district-survey-local-issues.html",
+      "text_file": "archive/2024/mace-sc/annual-district-survey-local-issues.txt",
+      "bytes": 49472,
+      "sha256_html": "0479cac268f9ee6cc540613f6ea3746c2ca644431921d0a4dc9566bcda341863",
+      "sha256_text": "e81d6219f205a90fd54c0684df3b45a5463de79128eaedbb607e3a2b933b8673"
+    },
+    {
+      "original": "https://nancymace.org/annual-issues-survey-bluffton/",
+      "timestamp": "20241105055934",
+      "wayback": "https://web.archive.org/web/20241105055934/https://nancymace.org/annual-issues-survey-bluffton/",
+      "wayback_raw": "https://web.archive.org/web/20241105055934id_/https://nancymace.org/annual-issues-survey-bluffton/",
+      "file": "archive/2024/mace-sc/annual-issues-survey-bluffton.html",
+      "text_file": "archive/2024/mace-sc/annual-issues-survey-bluffton.txt",
+      "bytes": 49426,
+      "sha256_html": "64e69541b95929743604eaa107f20eecbab8110a59c53dccda1512fae0b37503",
+      "sha256_text": "44e513bec28bf1d37aeb31f898f674ea25434ac26e9eb4ad2194e8b46b8a8fe2"
+    },
+    {
+      "original": "https://nancymace.org/annual-issues-survey-moncks-corner/",
+      "timestamp": "20241105055951",
+      "wayback": "https://web.archive.org/web/20241105055951/https://nancymace.org/annual-issues-survey-moncks-corner/",
+      "wayback_raw": "https://web.archive.org/web/20241105055951id_/https://nancymace.org/annual-issues-survey-moncks-corner/",
+      "file": "archive/2024/mace-sc/annual-issues-survey-moncks-corner.html",
+      "text_file": "archive/2024/mace-sc/annual-issues-survey-moncks-corner.txt",
+      "bytes": 49728,
+      "sha256_html": "6527fdab889fe7d780dbd7239674ea4ce29dc82ab5b1331424407bb7a0b6c296",
+      "sha256_text": "e8deba2d2e8f37c538c475b3449a787bbc2c56a619f2a5960b5f95f08f06f00d"
+    },
+    {
+      "original": "https://nancymace.org/annual-issues-survey-west-ashley/",
+      "timestamp": "20241105055941",
+      "wayback": "https://web.archive.org/web/20241105055941/https://nancymace.org/annual-issues-survey-west-ashley/",
+      "wayback_raw": "https://web.archive.org/web/20241105055941id_/https://nancymace.org/annual-issues-survey-west-ashley/",
+      "file": "archive/2024/mace-sc/annual-issues-survey-west-ashley.html",
+      "text_file": "archive/2024/mace-sc/annual-issues-survey-west-ashley.txt",
+      "bytes": 49418,
+      "sha256_html": "3657c2213cbedf3fd1bf79f9bcb16888479da45da813ceb04b8e4f6f30fcf093",
+      "sha256_text": "297b598a82486854a049afd5db6c7014c64d548858e29703d00e856295dba241"
+    },
+    {
+      "original": "https://nancymace.org/folly-beach-issues-survey/",
+      "timestamp": "20241105060025",
+      "wayback": "https://web.archive.org/web/20241105060025/https://nancymace.org/folly-beach-issues-survey/",
+      "wayback_raw": "https://web.archive.org/web/20241105060025id_/https://nancymace.org/folly-beach-issues-survey/",
+      "file": "archive/2024/mace-sc/folly-beach-issues-survey.html",
+      "text_file": "archive/2024/mace-sc/folly-beach-issues-survey.txt",
+      "bytes": 48978,
+      "sha256_html": "5cd44506827dfd4ad82cf282ab9101a69d0a802eadb2e4bf5cbee5403cb57046",
+      "sha256_text": "e14c07fa28e17fc60b3d684faec5a6a7df3178c5ef44cd3f8f0a6356bc8e8459"
+    },
+    {
+      "original": "https://nancymace.org/for-many-republicans-trumps-offshore-drilling-plan-and-beaches-dont-mix/",
+      "timestamp": "20241105063136",
+      "wayback": "https://web.archive.org/web/20241105063136/https://nancymace.org/for-many-republicans-trumps-offshore-drilling-plan-and-beaches-dont-mix/",
+      "wayback_raw": "https://web.archive.org/web/20241105063136id_/https://nancymace.org/for-many-republicans-trumps-offshore-drilling-plan-and-beaches-dont-mix/",
+      "file": "archive/2024/mace-sc/for-many-republicans-trumps-offshore-drilling-plan-and-beaches-dont-mix.html",
+      "text_file": "archive/2024/mace-sc/for-many-republicans-trumps-offshore-drilling-plan-and-beaches-dont-mix.txt",
+      "bytes": 121199,
+      "sha256_html": "bd123d280533f7708b8a1264585482f6e449a0a22d283479b54c9e7404ca4618",
+      "sha256_text": "748fe845b9fcf103eddc1a0a9aa734e0808d7cc57c146858a22f980548d76714"
+    }
+  ],
+  "snapshots_found": {
+    "nancymace.org": 346
+  },
+  "generated_utc": "2026-11-14T08:32:19Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
