@@ -1,0 +1,38 @@
+{
+  "name": "Carlos A. Gimenez",
+  "domains_tried": [
+    "carlosgimenezforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://carlosgimenezforcongress.com/",
+      "timestamp": "20241105072027",
+      "wayback": "https://web.archive.org/web/20241105072027/https://carlosgimenezforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105072027id_/https://carlosgimenezforcongress.com/",
+      "file": "archive/2024/gimenez-fl/home.html",
+      "text_file": "archive/2024/gimenez-fl/home.txt",
+      "bytes": 51741,
+      "sha256_html": "0ef10595c8646e4cb913612ab1a5e9ea37c5deed5f620d55687ab7e1e1e35d3b",
+      "sha256_text": "10f2915146e20af13ba14fb89830e30c1fffd2fab797f07c51382a34635fb185"
+    },
+    {
+      "original": "https://carlosgimenezforcongress.com/take-now-issue-priority-surveyvv/",
+      "timestamp": "20241105041935",
+      "wayback": "https://web.archive.org/web/20241105041935/https://carlosgimenezforcongress.com/take-now-issue-priority-surveyvv/",
+      "wayback_raw": "https://web.archive.org/web/20241105041935id_/https://carlosgimenezforcongress.com/take-now-issue-priority-surveyvv/",
+      "file": "archive/2024/gimenez-fl/take-now-issue-priority-surveyvv.html",
+      "text_file": "archive/2024/gimenez-fl/take-now-issue-priority-surveyvv.txt",
+      "bytes": 53068,
+      "sha256_html": "699acfe2467d3861802ff4df46d34f7ecfd2ede506b6ebc6040b126cb020f251",
+      "sha256_text": "11fae5be40687c78d2e61862cf1de7adc97ec9e8824400834aac93b265b4895a"
+    }
+  ],
+  "snapshots_found": {
+    "carlosgimenezforcongress.com": 9
+  },
+  "generated_utc": "2026-11-14T22:32:11Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
