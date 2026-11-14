@@ -1,0 +1,142 @@
+{
+  "name": "Angie Craig",
+  "domains_tried": [
+    "angiecraig.com"
+  ],
+  "pages": [
+    {
+      "original": "https://angiecraig.com/",
+      "timestamp": "20241105225717",
+      "wayback": "https://web.archive.org/web/20241105225717/https://angiecraig.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105225717id_/https://angiecraig.com/",
+      "file": "archive/2024/craig-mn/home.html",
+      "text_file": "archive/2024/craig-mn/home.txt",
+      "bytes": 71155,
+      "sha256_html": "d482a7f5885994476908219b09313e41de16c131714d08ee234b7e5a3f039dab",
+      "sha256_text": "6639aff1ccd2370be6d8c5cdf79bc9a4a407c0ad8b701a9d8ba8545848204135"
+    },
+    {
+      "original": "https://www.angiecraig.com/issues/",
+      "timestamp": "20241105200344",
+      "wayback": "https://web.archive.org/web/20241105200344/https://www.angiecraig.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105200344id_/https://www.angiecraig.com/issues/",
+      "file": "archive/2024/craig-mn/issues.html",
+      "text_file": "archive/2024/craig-mn/issues.txt",
+      "bytes": 68041,
+      "sha256_html": "d82e0eac1455b5eecc6a3db81a606042148daf244dd9b52ae5529e5de1d6829c",
+      "sha256_text": "78b5b4e2bea0721097bd87a644d33bdcc69456d3f4f11105a7d020e7412d7147"
+    },
+    {
+      "original": "https://angiecraig.com/issue/democracy-reform/",
+      "timestamp": "20241105201054",
+      "wayback": "https://web.archive.org/web/20241105201054/https://angiecraig.com/issue/democracy-reform/",
+      "wayback_raw": "https://web.archive.org/web/20241105201054id_/https://angiecraig.com/issue/democracy-reform/",
+      "file": "archive/2024/craig-mn/issue-democracy-reform.html",
+      "text_file": "archive/2024/craig-mn/issue-democracy-reform.txt",
+      "bytes": 56117,
+      "sha256_html": "82f1d0624683341c825adc72b2db0c28ad568be3c70ed30b4a4cdffb05b5a50a",
+      "sha256_text": "5691dfa79cbae821aab04b9be0f83beb0f10ec119041bac92c6eaeba2200ba9f"
+    },
+    {
+      "original": "https://angiecraig.com/issue/education/",
+      "timestamp": "20241105201101",
+      "error": "no response"
+    },
+    {
+      "original": "https://angiecraig.com/issue/environment/",
+      "timestamp": "20241105201059",
+      "wayback": "https://web.archive.org/web/20241105201059/https://angiecraig.com/issue/environment/",
+      "wayback_raw": "https://web.archive.org/web/20241105201059id_/https://angiecraig.com/issue/environment/",
+      "file": "archive/2024/craig-mn/issue-environment.html",
+      "text_file": "archive/2024/craig-mn/issue-environment.txt",
+      "bytes": 55326,
+      "sha256_html": "681cf0414290d86718e91b5b92db72ee38989107c4d616cdd51bc4eabf23de76",
+      "sha256_text": "54c3ecbeb968258faa9e412c6c7297d01ce5308b6ab21b317826fd15ceae1ea7"
+    },
+    {
+      "original": "https://angiecraig.com/issue/family-farms/",
+      "timestamp": "20241105201103",
+      "wayback": "https://web.archive.org/web/20241105201103/https://angiecraig.com/issue/family-farms/",
+      "wayback_raw": "https://web.archive.org/web/20241105201103id_/https://angiecraig.com/issue/family-farms/",
+      "file": "archive/2024/craig-mn/issue-family-farms.html",
+      "text_file": "archive/2024/craig-mn/issue-family-farms.txt",
+      "bytes": 55591,
+      "sha256_html": "e96ec1dc0f14ce5d490b4b919fd737684b334519f2e097ffed96eaf9be66aa3a",
+      "sha256_text": "044d1bf0f1d8c9ec5bcc4e0cb464a0fe0e78c37a7bd90e21f6c96971841af55c"
+    },
+    {
+      "original": "https://angiecraig.com/issue/gun-safety/",
+      "timestamp": "20241105201100",
+      "wayback": "https://web.archive.org/web/20241105201100/https://angiecraig.com/issue/gun-safety/",
+      "wayback_raw": "https://web.archive.org/web/20241105201100id_/https://angiecraig.com/issue/gun-safety/",
+      "file": "archive/2024/craig-mn/issue-gun-safety.html",
+      "text_file": "archive/2024/craig-mn/issue-gun-safety.txt",
+      "bytes": 54566,
+      "sha256_html": "641aaa5bf0d9e8a8c15b8724abbfc877093e63f37ab26a9950176c6e0579c087",
+      "sha256_text": "90847efb9edaef882078c899407eda7aa52e2225cbc08ce58efe47a343e05af3"
+    },
+    {
+      "original": "https://angiecraig.com/issue/health-care/",
+      "timestamp": "20241105201044",
+      "wayback": "https://web.archive.org/web/20241105201044/https://angiecraig.com/issue/health-care/",
+      "wayback_raw": "https://web.archive.org/web/20241105201044id_/https://angiecraig.com/issue/health-care/",
+      "file": "archive/2024/craig-mn/issue-health-care.html",
+      "text_file": "archive/2024/craig-mn/issue-health-care.txt",
+      "bytes": 56968,
+      "sha256_html": "d7c16312391756e07c6bfbed860f8c3c43f9ec4e0b6eed6dd1228206bb6c0c6c",
+      "sha256_text": "c6d9d2b392e7e84e40de160958a9d543308ce1b8d5fe5ae020c594e1acabddeb"
+    },
+    {
+      "original": "https://angiecraig.com/issue/lowering-costs-for-working-families/",
+      "timestamp": "20241105201058",
+      "wayback": "https://web.archive.org/web/20241105201058/https://angiecraig.com/issue/lowering-costs-for-working-families/",
+      "wayback_raw": "https://web.archive.org/web/20241105201058id_/https://angiecraig.com/issue/lowering-costs-for-working-families/",
+      "file": "archive/2024/craig-mn/issue-lowering-costs-for-working-families.html",
+      "text_file": "archive/2024/craig-mn/issue-lowering-costs-for-working-families.txt",
+      "bytes": 54998,
+      "sha256_html": "f574a9ee5daecdbf83f386a43d67418de477b867db253f92adb7d09a198b235d",
+      "sha256_text": "a90d037906a937b189ef865093562ee5c7070582b6b719c605df4d79efc3b518"
+    },
+    {
+      "original": "https://angiecraig.com/issue/national-security/",
+      "timestamp": "20241105201058",
+      "wayback": "https://web.archive.org/web/20241105201058/https://angiecraig.com/issue/national-security/",
+      "wayback_raw": "https://web.archive.org/web/20241105201058id_/https://angiecraig.com/issue/national-security/",
+      "file": "archive/2024/craig-mn/issue-national-security.html",
+      "text_file": "archive/2024/craig-mn/issue-national-security.txt",
+      "bytes": 56437,
+      "sha256_html": "58f2411c67c4a6c594070d99688412026e27ed70fa1fc46c763d79c9560f0399",
+      "sha256_text": "b25941392a619bee9cce00ab81568d1322b95a5795680b1400701c2113a4820c"
+    },
+    {
+      "original": "https://angiecraig.com/issue/public-safety/",
+      "timestamp": "20241105201053",
+      "wayback": "https://web.archive.org/web/20241105201053/https://angiecraig.com/issue/public-safety/",
+      "wayback_raw": "https://web.archive.org/web/20241105201053id_/https://angiecraig.com/issue/public-safety/",
+      "file": "archive/2024/craig-mn/issue-public-safety.html",
+      "text_file": "archive/2024/craig-mn/issue-public-safety.txt",
+      "bytes": 56315,
+      "sha256_html": "7e20679d05a21ef2f636afa3cf31c8172bbda9db5474583f1d2dc04895a4ef89",
+      "sha256_text": "a2e2de247d86a81440e337bee3b4ac0986ea88aeefdbe4a6f7b417169aeae110"
+    },
+    {
+      "original": "https://angiecraig.com/issue/seniors/",
+      "timestamp": "20241105201057",
+      "wayback": "https://web.archive.org/web/20241105201057/https://angiecraig.com/issue/seniors/",
+      "wayback_raw": "https://web.archive.org/web/20241105201057id_/https://angiecraig.com/issue/seniors/",
+      "file": "archive/2024/craig-mn/issue-seniors.html",
+      "text_file": "archive/2024/craig-mn/issue-seniors.txt",
+      "bytes": 55056,
+      "sha256_html": "b1dd3d30eb79a94813f9872d1e1ffcdb05ae78f698dc98c651912cfc3587b92b",
+      "sha256_text": "2e44b77e5db117f43c957ddca38bb05e5bb6d7a571cb790aafbf4feeca69e888"
+    }
+  ],
+  "snapshots_found": {
+    "angiecraig.com": 569
+  },
+  "generated_utc": "2026-11-14T22:43:42Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
