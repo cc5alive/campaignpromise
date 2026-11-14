@@ -1,0 +1,27 @@
+{
+  "name": "Maria Elvira Salazar",
+  "domains_tried": [
+    "mariaelvirasalazar.com"
+  ],
+  "pages": [
+    {
+      "original": "https://mariaelvirasalazar.com/",
+      "timestamp": "20241105194736",
+      "wayback": "https://web.archive.org/web/20241105194736/https://mariaelvirasalazar.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105194736id_/https://mariaelvirasalazar.com/",
+      "file": "archive/2024/salazar/home.html",
+      "text_file": "archive/2024/salazar/home.txt",
+      "bytes": 80293,
+      "sha256_html": "924efb0963fffa2983ab3a512993bba5feb0e0f975a414d30a74e75aa185a146",
+      "sha256_text": "7bfe0c901db963641091c7f06c1e73417ee7314fbcd367cd6e9db9e4010cba9e"
+    }
+  ],
+  "snapshots_found": {
+    "mariaelvirasalazar.com": 1
+  },
+  "generated_utc": "2026-11-14T07:48:27Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
