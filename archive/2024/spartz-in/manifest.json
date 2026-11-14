@@ -1,0 +1,92 @@
+{
+  "name": "Victoria Spartz",
+  "domains_tried": [
+    "spartzforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.spartzforcongress.com/",
+      "timestamp": "20241105170038",
+      "wayback": "https://web.archive.org/web/20241105170038/https://www.spartzforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105170038id_/https://www.spartzforcongress.com/",
+      "file": "archive/2024/spartz-in/home.html",
+      "text_file": "archive/2024/spartz-in/home.txt",
+      "bytes": 101472,
+      "sha256_html": "5e4a2f646508c79bd9ee1b22313dd5cf82c934a781104960ed0f01f64663dcc3",
+      "sha256_text": "ab6fe911c2b31e7e346527b400133a921be85241787cef831a8f3fe5bc0b9ecf"
+    },
+    {
+      "original": "https://www.spartzforcongress.com/issues/",
+      "timestamp": "20241105170108",
+      "wayback": "https://web.archive.org/web/20241105170108/https://www.spartzforcongress.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105170108id_/https://www.spartzforcongress.com/issues/",
+      "file": "archive/2024/spartz-in/issues.html",
+      "text_file": "archive/2024/spartz-in/issues.txt",
+      "bytes": 87970,
+      "sha256_html": "70a26064455193167ec3c12223883ff91648359f485ffb5282381af7fe2a3db4",
+      "sha256_text": "4e0d776bb27d6af4b71f79646971e2aa50adcd49996ef86c271053bef095108d"
+    },
+    {
+      "original": "https://www.spartzforcongress.com/issues/embed/",
+      "timestamp": "20241102202916",
+      "wayback": "https://web.archive.org/web/20241102202916/https://www.spartzforcongress.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241102202916id_/https://www.spartzforcongress.com/issues/embed/",
+      "file": "archive/2024/spartz-in/issues-embed.html",
+      "text_file": "archive/2024/spartz-in/issues-embed.txt",
+      "bytes": 21362,
+      "sha256_html": "0322900cb61df302611708d6a4b0bc2885834e7325137c8da9240db607239cc4",
+      "sha256_text": "1d776e5c892f37d854fc40e3ed9b09747b63573208c1b41d35ecf22689310b90"
+    },
+    {
+      "original": "https://www.spartzforcongress.com/news/spartz-is-a-fighter/",
+      "timestamp": "20241105170126",
+      "wayback": "https://web.archive.org/web/20241105170126/https://www.spartzforcongress.com/news/spartz-is-a-fighter/",
+      "wayback_raw": "https://web.archive.org/web/20241105170126id_/https://www.spartzforcongress.com/news/spartz-is-a-fighter/",
+      "file": "archive/2024/spartz-in/news-spartz-is-a-fighter.html",
+      "text_file": "archive/2024/spartz-in/news-spartz-is-a-fighter.txt",
+      "bytes": 82169,
+      "sha256_html": "4bda26cf8397be5767d3b9f0653db924bbbe0dde945009a4ffb41acd9521e2e6",
+      "sha256_text": "de0a46bccbe9fdc77d2c694735bc102b5a6aa2b5575bb57a460168da37e9bd6e"
+    },
+    {
+      "original": "https://www.spartzforcongress.com/news/spartz-is-a-fighter/embed/",
+      "timestamp": "20241102213240",
+      "wayback": "https://web.archive.org/web/20241102213240/https://www.spartzforcongress.com/news/spartz-is-a-fighter/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241102213240id_/https://www.spartzforcongress.com/news/spartz-is-a-fighter/embed/",
+      "file": "archive/2024/spartz-in/news-spartz-is-a-fighter-embed.html",
+      "text_file": "archive/2024/spartz-in/news-spartz-is-a-fighter-embed.txt",
+      "bytes": 21765,
+      "sha256_html": "6637f6bead17b5ea9ffec7a12d1b48420963ad622c7aa47a06fee0740916766f",
+      "sha256_text": "3d3a5cc0c2a7e6e4db02c8e30b95e4fe300b9083c7b05f1c4fc6105193d1289c"
+    },
+    {
+      "original": "https://www.spartzforcongress.com/wp-content/plugins/elementor-pro/modules/forms/classes/form-record.php",
+      "timestamp": "20241105173933",
+      "error": 200
+    },
+    {
+      "original": "https://www.spartzforcongress.com/wp-content/plugins/elementor-pro/modules/notes/database/migrations/add-note-position.php",
+      "timestamp": "20241105174859",
+      "error": 200
+    },
+    {
+      "original": "https://www.spartzforcongress.com/about/",
+      "timestamp": "20241105170140",
+      "wayback": "https://web.archive.org/web/20241105170140/https://www.spartzforcongress.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105170140id_/https://www.spartzforcongress.com/about/",
+      "file": "archive/2024/spartz-in/about.html",
+      "text_file": "archive/2024/spartz-in/about.txt",
+      "bytes": 94769,
+      "sha256_html": "8272512f2ef6191e068830d59c7b93f35bfa76c26729afd5a81b22ad57c2b952",
+      "sha256_text": "50adab0021e8795db217c092e86e7e24094d3151aa3d9815829ad0ec5e9203a9"
+    }
+  ],
+  "snapshots_found": {
+    "spartzforcongress.com": 718
+  },
+  "generated_utc": "2026-11-14T22:37:56Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
