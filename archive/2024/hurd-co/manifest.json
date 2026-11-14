@@ -1,0 +1,71 @@
+{
+  "name": "Jeff Hurd",
+  "domains_tried": [
+    "jeffhurdforcolorado.com"
+  ],
+  "pages": [
+    {
+      "original": "https://jeffhurdforcolorado.com/",
+      "timestamp": "20241105214526",
+      "wayback": "https://web.archive.org/web/20241105214526/https://jeffhurdforcolorado.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105214526id_/https://jeffhurdforcolorado.com/",
+      "file": "archive/2024/hurd-co/home.html",
+      "text_file": "archive/2024/hurd-co/home.txt",
+      "bytes": 105452,
+      "sha256_html": "69944b7738224bb4aae2484adde9c7c570a8e6d8458127f12a2365f90cc8218f",
+      "sha256_text": "06d52f0de4e54af8583eccf628385be69fc4418d50ff1badcf0873a8896df319"
+    },
+    {
+      "original": "https://jeffhurdforcolorado.com/add-your-name-do-you-stand-with-israel/",
+      "timestamp": "20241105190512",
+      "wayback": "https://web.archive.org/web/20241105190512/https://jeffhurdforcolorado.com/add-your-name-do-you-stand-with-israel/",
+      "wayback_raw": "https://web.archive.org/web/20241105190512id_/https://jeffhurdforcolorado.com/add-your-name-do-you-stand-with-israel/",
+      "file": "archive/2024/hurd-co/add-your-name-do-you-stand-with-israel.html",
+      "text_file": "archive/2024/hurd-co/add-your-name-do-you-stand-with-israel.txt",
+      "bytes": 84650,
+      "sha256_html": "15766fba1ae545014c85b210cb4efa6d28e291fcadd72cabf6f1208b2c550f12",
+      "sha256_text": "27044d28fac0e4b89e2cc44fcfa7e94eccb83ee167654a8574e9f0f2248309ce"
+    },
+    {
+      "original": "https://jeffhurdforcolorado.com/issues/",
+      "timestamp": "20241105185940",
+      "wayback": "https://web.archive.org/web/20241105185940/https://jeffhurdforcolorado.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105185940id_/https://jeffhurdforcolorado.com/issues/",
+      "file": "archive/2024/hurd-co/issues.html",
+      "text_file": "archive/2024/hurd-co/issues.txt",
+      "bytes": 90658,
+      "sha256_html": "537c80dc74292dce8215052a042a965dc1d8d09e36462c2b56bc7e42ce231154",
+      "sha256_text": "44253d69a90630e74b591a42505fb241efe2d1fa34edd0e915cfe9fbf7f9b027"
+    },
+    {
+      "original": "https://jeffhurdforcolorado.com/jeff-hurd-talks-policy-on-the-making-action-happen-podcast/",
+      "timestamp": "20241105190216",
+      "wayback": "https://web.archive.org/web/20241105190216/https://jeffhurdforcolorado.com/jeff-hurd-talks-policy-on-the-making-action-happen-podcast/",
+      "wayback_raw": "https://web.archive.org/web/20241105190216id_/https://jeffhurdforcolorado.com/jeff-hurd-talks-policy-on-the-making-action-happen-podcast/",
+      "file": "archive/2024/hurd-co/jeff-hurd-talks-policy-on-the-making-action-happen-podcast.html",
+      "text_file": "archive/2024/hurd-co/jeff-hurd-talks-policy-on-the-making-action-happen-podcast.txt",
+      "bytes": 78722,
+      "sha256_html": "f94399680bb16df1632de33ef5549b43172b91a7ed8887f19cf1e5ad1a2ca291",
+      "sha256_text": "cb274c88757c4249626ccec63d479b1797f4df1514eaef662ebaa2c37a71f2cc"
+    },
+    {
+      "original": "https://jeffhurdforcolorado.com/issues/embed/",
+      "timestamp": "20241104221633",
+      "wayback": "https://web.archive.org/web/20241104221633/https://jeffhurdforcolorado.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241104221633id_/https://jeffhurdforcolorado.com/issues/embed/",
+      "file": "archive/2024/hurd-co/issues-embed.html",
+      "text_file": "archive/2024/hurd-co/issues-embed.txt",
+      "bytes": 20693,
+      "sha256_html": "642be78c0a3260cb5a5fb8aa5f07e645b613a221029207ac9cdbb391aefedc89",
+      "sha256_text": "b800d26b710a7864e77d2b4e9cb0cffe8837d3b661d1c67411ca0049be992f85"
+    }
+  ],
+  "snapshots_found": {
+    "jeffhurdforcolorado.com": 64
+  },
+  "generated_utc": "2026-11-14T16:38:11Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
