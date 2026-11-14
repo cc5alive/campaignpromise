@@ -1,0 +1,148 @@
+{
+  "name": "Brian K. Fitzpatrick",
+  "domains_tried": [
+    "brianfitzpatrick.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.brianfitzpatrick.com/",
+      "timestamp": "20241105210121",
+      "wayback": "https://web.archive.org/web/20241105210121/https://www.brianfitzpatrick.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105210121id_/https://www.brianfitzpatrick.com/",
+      "file": "archive/2024/fitzpatrick-pa/home.html",
+      "text_file": "archive/2024/fitzpatrick-pa/home.txt",
+      "bytes": 121779,
+      "sha256_html": "f9ba41097bf8cffa485cc465684b381f510809c254f897004ca33913f9e1d583",
+      "sha256_text": "0ac8a9dc7b6ca2b56e44d76f8b2613d455906d2b6e66894428b18d47a54ea2a9"
+    },
+    {
+      "original": "https://www.brianfitzpatrick.com/issues/",
+      "timestamp": "20241105210226",
+      "wayback": "https://web.archive.org/web/20241105210226/https://www.brianfitzpatrick.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105210226id_/https://www.brianfitzpatrick.com/issues/",
+      "file": "archive/2024/fitzpatrick-pa/issues.html",
+      "text_file": "archive/2024/fitzpatrick-pa/issues.txt",
+      "bytes": 83290,
+      "sha256_html": "d9ff1e2c76739e7f7dbc66b4c45490bf6774a49cff870bddcfa6b96e7b6f8ad9",
+      "sha256_text": "a3456939d86065539848f4f747c36389b5908bdbf12d3e061a5511953e7f59d1"
+    },
+    {
+      "original": "https://www.brianfitzpatrick.com/issues/a-health-care-system-that-works-for-everyone/",
+      "timestamp": "20241105210250",
+      "wayback": "https://web.archive.org/web/20241105210250/https://www.brianfitzpatrick.com/issues/a-health-care-system-that-works-for-everyone/",
+      "wayback_raw": "https://web.archive.org/web/20241105210250id_/https://www.brianfitzpatrick.com/issues/a-health-care-system-that-works-for-everyone/",
+      "file": "archive/2024/fitzpatrick-pa/issues-a-health-care-system-that-works-for-everyone.html",
+      "text_file": "archive/2024/fitzpatrick-pa/issues-a-health-care-system-that-works-for-everyone.txt",
+      "bytes": 81476,
+      "sha256_html": "711aea294f0adf6df9067ddc7c0d5da8fb9bf3c87a9213885e38a359eda2cb3e",
+      "sha256_text": "2f08541b2b44c9f8959b4e6b814bdb266b5a505d11ca835133b636d9ba98692c"
+    },
+    {
+      "original": "https://www.brianfitzpatrick.com/issues/diversity-and-lgbt-equality/",
+      "timestamp": "20241105210207",
+      "wayback": "https://web.archive.org/web/20241105210207/https://www.brianfitzpatrick.com/issues/diversity-and-lgbt-equality/",
+      "wayback_raw": "https://web.archive.org/web/20241105210207id_/https://www.brianfitzpatrick.com/issues/diversity-and-lgbt-equality/",
+      "file": "archive/2024/fitzpatrick-pa/issues-diversity-and-lgbt-equality.html",
+      "text_file": "archive/2024/fitzpatrick-pa/issues-diversity-and-lgbt-equality.txt",
+      "bytes": 80755,
+      "sha256_html": "ba84ce0bc84e47ffe52fa70b9f946dcf9dc78c656fc935e078d9701cc4dd6db3",
+      "sha256_text": "f4bc2be9f7bad319cbed828f5242cd278fe2a2564d5afeb2e1c25cd025cab319"
+    },
+    {
+      "original": "https://www.brianfitzpatrick.com/issues/education/",
+      "timestamp": "20241105210205",
+      "wayback": "https://web.archive.org/web/20241105210205/https://www.brianfitzpatrick.com/issues/education/",
+      "wayback_raw": "https://web.archive.org/web/20241105210205id_/https://www.brianfitzpatrick.com/issues/education/",
+      "file": "archive/2024/fitzpatrick-pa/issues-education.html",
+      "text_file": "archive/2024/fitzpatrick-pa/issues-education.txt",
+      "bytes": 80611,
+      "sha256_html": "3c7a999e261c6a925563ba332ae2345dd454122832149243b3add04da067b574",
+      "sha256_text": "2b3f08f4acaa05b20e78e670e4107dca46c6d7775f9fc7d3db62f086dcb56ae0"
+    },
+    {
+      "original": "https://www.brianfitzpatrick.com/issues/empowering-women/",
+      "timestamp": "20241105210203",
+      "wayback": "https://web.archive.org/web/20241105210203/https://www.brianfitzpatrick.com/issues/empowering-women/",
+      "wayback_raw": "https://web.archive.org/web/20241105210203id_/https://www.brianfitzpatrick.com/issues/empowering-women/",
+      "file": "archive/2024/fitzpatrick-pa/issues-empowering-women.html",
+      "text_file": "archive/2024/fitzpatrick-pa/issues-empowering-women.txt",
+      "bytes": 81800,
+      "sha256_html": "2baa2c5fcbedf33f279a0dc4e1cfdfd9c78ee740a6eef2f8f45a15bbb88330bb",
+      "sha256_text": "9116c923b36878a1ca934fb12880a87b700bf65444308776cc502f3f1382df5b"
+    },
+    {
+      "original": "https://www.brianfitzpatrick.com/issues/government-reform/",
+      "timestamp": "20241105210414",
+      "wayback": "https://web.archive.org/web/20241105210414/https://www.brianfitzpatrick.com/issues/government-reform/",
+      "wayback_raw": "https://web.archive.org/web/20241105210414id_/https://www.brianfitzpatrick.com/issues/government-reform/",
+      "file": "archive/2024/fitzpatrick-pa/issues-government-reform.html",
+      "text_file": "archive/2024/fitzpatrick-pa/issues-government-reform.txt",
+      "bytes": 80350,
+      "sha256_html": "e4dcead43216de8cc750930b8dcc25fe6f7c8ba3447b7eb74bb7815b8363c193",
+      "sha256_text": "edbc5a536155c27d3550b141bafdb46c20808420e1da4de06eb20c9c2b2a0367"
+    },
+    {
+      "original": "https://www.brianfitzpatrick.com/issues/immigration-that-works-for-everyone/",
+      "timestamp": "20241105210319",
+      "wayback": "https://web.archive.org/web/20241105210319/https://www.brianfitzpatrick.com/issues/immigration-that-works-for-everyone/",
+      "wayback_raw": "https://web.archive.org/web/20241105210319id_/https://www.brianfitzpatrick.com/issues/immigration-that-works-for-everyone/",
+      "file": "archive/2024/fitzpatrick-pa/issues-immigration-that-works-for-everyone.html",
+      "text_file": "archive/2024/fitzpatrick-pa/issues-immigration-that-works-for-everyone.txt",
+      "bytes": 83120,
+      "sha256_html": "dbf366822b6c420ad55d4cf0de310210fbe354c48cc933d596d9c4567ade277e",
+      "sha256_text": "b1751f8a09ff9c8d5021b388a87928a31e362cc68373c994b7f09350abdd552d"
+    },
+    {
+      "original": "https://www.brianfitzpatrick.com/issues/opioid-addiction-and-mental-health/",
+      "timestamp": "20241105210207",
+      "wayback": "https://web.archive.org/web/20241105210207/https://www.brianfitzpatrick.com/issues/opioid-addiction-and-mental-health/",
+      "wayback_raw": "https://web.archive.org/web/20241105210207id_/https://www.brianfitzpatrick.com/issues/opioid-addiction-and-mental-health/",
+      "file": "archive/2024/fitzpatrick-pa/issues-opioid-addiction-and-mental-health.html",
+      "text_file": "archive/2024/fitzpatrick-pa/issues-opioid-addiction-and-mental-health.txt",
+      "bytes": 81150,
+      "sha256_html": "04f25b7a83506b02e2c6e3e4fc30dffd17efa6ead694a42c6e93071c85af7921",
+      "sha256_text": "2905e846d2b584ef41086a2dae4cbc9b2c1402f8a9e7b6d3e962ffedadb48834"
+    },
+    {
+      "original": "https://www.brianfitzpatrick.com/issues/opportunity-for-all/",
+      "timestamp": "20241105210400",
+      "wayback": "https://web.archive.org/web/20241105210400/https://www.brianfitzpatrick.com/issues/opportunity-for-all/",
+      "wayback_raw": "https://web.archive.org/web/20241105210400id_/https://www.brianfitzpatrick.com/issues/opportunity-for-all/",
+      "file": "archive/2024/fitzpatrick-pa/issues-opportunity-for-all.html",
+      "text_file": "archive/2024/fitzpatrick-pa/issues-opportunity-for-all.txt",
+      "bytes": 80897,
+      "sha256_html": "bb289fe89d1bd09e3ef871bc1adfabb768942ac01fa4b3f985424b3ecf514fc8",
+      "sha256_text": "0a8d5160a469b94f780d2016432be8fd585d4a8fa3d6db8e35ae65120c939126"
+    },
+    {
+      "original": "https://www.brianfitzpatrick.com/issues/protecting-medicare-social-security/",
+      "timestamp": "20241105210249",
+      "wayback": "https://web.archive.org/web/20241105210249/https://www.brianfitzpatrick.com/issues/protecting-medicare-social-security/",
+      "wayback_raw": "https://web.archive.org/web/20241105210249id_/https://www.brianfitzpatrick.com/issues/protecting-medicare-social-security/",
+      "file": "archive/2024/fitzpatrick-pa/issues-protecting-medicare-social-security.html",
+      "text_file": "archive/2024/fitzpatrick-pa/issues-protecting-medicare-social-security.txt",
+      "bytes": 80264,
+      "sha256_html": "6447d0705fe3c5e495ee3112b4c2e479b983a1985df309c6486edc7a78f0e3c9",
+      "sha256_text": "00392cab7df413666973a9d6055e468f2ea62085bf64a865b026f7a8ad494ee4"
+    },
+    {
+      "original": "https://www.brianfitzpatrick.com/issues/protecting-our-animals/",
+      "timestamp": "20241105210216",
+      "wayback": "https://web.archive.org/web/20241105210216/https://www.brianfitzpatrick.com/issues/protecting-our-animals/",
+      "wayback_raw": "https://web.archive.org/web/20241105210216id_/https://www.brianfitzpatrick.com/issues/protecting-our-animals/",
+      "file": "archive/2024/fitzpatrick-pa/issues-protecting-our-animals.html",
+      "text_file": "archive/2024/fitzpatrick-pa/issues-protecting-our-animals.txt",
+      "bytes": 79656,
+      "sha256_html": "c9765f02d055b929962f6c86729015468c0940b78348aa0ce3ceda738307c26b",
+      "sha256_text": "8bd3b7d0197f911b1c5c5c4fc57f0e1679af48bdde8228e1433b920999867e97"
+    }
+  ],
+  "snapshots_found": {
+    "brianfitzpatrick.com": 178
+  },
+  "generated_utc": "2026-11-14T08:25:39Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
