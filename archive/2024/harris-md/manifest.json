@@ -1,0 +1,38 @@
+{
+  "name": "Andy Harris",
+  "domains_tried": [
+    "andyharris.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.andyharris.com/",
+      "timestamp": "20241105183408",
+      "wayback": "https://web.archive.org/web/20241105183408/https://www.andyharris.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105183408id_/https://www.andyharris.com/",
+      "file": "archive/2024/harris-md/home.html",
+      "text_file": "archive/2024/harris-md/home.txt",
+      "bytes": 460904,
+      "sha256_html": "8efaae3ab54a779f9b8d273a4265a93a0402adf40ff9af687f57c72ce8cc658b",
+      "sha256_text": "caa43fe56032d51639c9c994482f5058ae5969e3877cd99a60e7364ba0c44d54"
+    },
+    {
+      "original": "https://www.andyharris.com/issues",
+      "timestamp": "20241105183449",
+      "wayback": "https://web.archive.org/web/20241105183449/https://www.andyharris.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105183449id_/https://www.andyharris.com/issues",
+      "file": "archive/2024/harris-md/issues.html",
+      "text_file": "archive/2024/harris-md/issues.txt",
+      "bytes": 643022,
+      "sha256_html": "26eb79cdc33523329af3e139c4ef5fb747455c035a53176cfaf97bc7b34b19a8",
+      "sha256_text": "a84e9f575d18b73a9bd965972e13998c5c640ccffeaeda5ad59bb64d24403081"
+    }
+  ],
+  "snapshots_found": {
+    "andyharris.com": 15
+  },
+  "generated_utc": "2026-11-14T15:57:28Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
