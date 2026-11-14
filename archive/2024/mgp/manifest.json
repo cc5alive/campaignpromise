@@ -11,8 +11,8 @@
       "wayback_raw": "https://web.archive.org/web/20241105160059id_/https://marieforcongress.com/",
       "file": "archive/2024/mgp/home.html",
       "text_file": "archive/2024/mgp/home.txt",
-      "bytes": 222009,
-      "sha256_html": "9ad70921192d076cd0371206a9ab037452e06424276713f3b8f182f72d9ff0bf",
+      "bytes": 221536,
+      "sha256_html": "d6ba644f316a2e58d4e99113b7846f5b06d4d90b4a6457e69921d4bb541c01b0",
       "sha256_text": "fb57187dea475711869e02cf9eb53021963ae9e5450f7c58241e507970cd92e5"
     },
     {
@@ -52,7 +52,7 @@
   "snapshots_found": {
     "marieforcongress.com": 25
   },
-  "generated_utc": "2026-11-14T08:04:49Z",
+  "generated_utc": "2026-11-14T08:22:42Z",
   "window": {
     "from": "20240801",
     "to": "20241105"
