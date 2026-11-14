@@ -1,0 +1,49 @@
+{
+  "name": "Eugene Simon Vindman",
+  "domains_tried": [
+    "vindmanforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://vindmanforcongress.com/",
+      "timestamp": "20241105135324",
+      "wayback": "https://web.archive.org/web/20241105135324/https://vindmanforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105135324id_/https://vindmanforcongress.com/",
+      "file": "archive/2024/vindman-va/home.html",
+      "text_file": "archive/2024/vindman-va/home.txt",
+      "bytes": 289733,
+      "sha256_html": "4146a377c67f74f80d4e5352f975ccec62f803225d9110b92123037dbb1fc4c8",
+      "sha256_text": "03b697f83a11d528e90d0c0c85a48c754c6a6110b18eae5f2dc807fd66bbe56f"
+    },
+    {
+      "original": "https://vindmanforcongress.com/issues/",
+      "timestamp": "20241105160306",
+      "wayback": "https://web.archive.org/web/20241105160306/https://vindmanforcongress.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105160306id_/https://vindmanforcongress.com/issues/",
+      "file": "archive/2024/vindman-va/issues.html",
+      "text_file": "archive/2024/vindman-va/issues.txt",
+      "bytes": 55363,
+      "sha256_html": "b3d4bdc2825d512eff82902e847ed5f015b59528828c612a2d921f580a303a07",
+      "sha256_text": "1ed26756f88900b4292d113feed937ea199b8943887f91658a28a453978a78b0"
+    },
+    {
+      "original": "https://vindmanforcongress.com/about/",
+      "timestamp": "20241105135505",
+      "wayback": "https://web.archive.org/web/20241105135505/https://vindmanforcongress.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105135505id_/https://vindmanforcongress.com/about/",
+      "file": "archive/2024/vindman-va/about.html",
+      "text_file": "archive/2024/vindman-va/about.txt",
+      "bytes": 60194,
+      "sha256_html": "5d7b597343540aa200e786b028a2107ef467331050b10d58d19d0893efbfff03",
+      "sha256_text": "ed614183e1566ac3fda40d6bef6423a574918b05fbba9d155efab4f0e2ece79d"
+    }
+  ],
+  "snapshots_found": {
+    "vindmanforcongress.com": 13
+  },
+  "generated_utc": "2026-11-14T17:01:07Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
