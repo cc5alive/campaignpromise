@@ -1,0 +1,60 @@
+{
+  "name": "Michael Baumgartner",
+  "domains_tried": [
+    "votebaumgartner.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.votebaumgartner.com/",
+      "timestamp": "20241105101347",
+      "wayback": "https://web.archive.org/web/20241105101347/https://www.votebaumgartner.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105101347id_/https://www.votebaumgartner.com/",
+      "file": "archive/2024/baumgartner-wa/home.html",
+      "text_file": "archive/2024/baumgartner-wa/home.txt",
+      "bytes": 741483,
+      "sha256_html": "f9b0012ada33af07f6956db962098e366d6ec7edb71919942d746b01dbcdb3cd",
+      "sha256_text": "4bfb435dfc35668568c52113bf5758a3fd75aa5880b141bb40f725304e54578c"
+    },
+    {
+      "original": "https://www.votebaumgartner.com/events/past-discussion-of-veterans-issues",
+      "timestamp": "20241104233615",
+      "wayback": "https://web.archive.org/web/20241104233615/https://www.votebaumgartner.com/events/past-discussion-of-veterans-issues",
+      "wayback_raw": "https://web.archive.org/web/20241104233615id_/https://www.votebaumgartner.com/events/past-discussion-of-veterans-issues",
+      "file": "archive/2024/baumgartner-wa/events-past-discussion-of-veterans-issues.html",
+      "text_file": "archive/2024/baumgartner-wa/events-past-discussion-of-veterans-issues.txt",
+      "bytes": 773400,
+      "sha256_html": "d101cf963713df7da98f7ede465dd54724622f00176afde5ae0f9cbefc1d19f0",
+      "sha256_text": "e662b6a2f10b1dbbd2031fb7f354ead835b6fac08ec6966555309189eae39055"
+    },
+    {
+      "original": "https://www.votebaumgartner.com/post/record-breaking-q1-fundraising-total",
+      "timestamp": "20241104233732",
+      "wayback": "https://web.archive.org/web/20241104233732/https://www.votebaumgartner.com/post/record-breaking-q1-fundraising-total",
+      "wayback_raw": "https://web.archive.org/web/20241104233732id_/https://www.votebaumgartner.com/post/record-breaking-q1-fundraising-total",
+      "file": "archive/2024/baumgartner-wa/post-record-breaking-q1-fundraising-total.html",
+      "text_file": "archive/2024/baumgartner-wa/post-record-breaking-q1-fundraising-total.txt",
+      "bytes": 943261,
+      "sha256_html": "6c30f506925c04f2de2d1ae2321bb89f3021b29db487584147ab1e8bd9ade15f",
+      "sha256_text": "5ea139bdba64da45f970a0f27027a8f74c92c6e79ea454c9f8816c2785109a99"
+    },
+    {
+      "original": "https://www.votebaumgartner.com/post/to-my-supporters-who-helped-set-fundraising-record",
+      "timestamp": "20241104233640",
+      "wayback": "https://web.archive.org/web/20241104233640/https://www.votebaumgartner.com/post/to-my-supporters-who-helped-set-fundraising-record",
+      "wayback_raw": "https://web.archive.org/web/20241104233640id_/https://www.votebaumgartner.com/post/to-my-supporters-who-helped-set-fundraising-record",
+      "file": "archive/2024/baumgartner-wa/post-to-my-supporters-who-helped-set-fundraising-record.html",
+      "text_file": "archive/2024/baumgartner-wa/post-to-my-supporters-who-helped-set-fundraising-record.txt",
+      "bytes": 932381,
+      "sha256_html": "945d96523331a4b34f58b54e3619ab126cba89b617d21d1c9dc631a0ea5295e4",
+      "sha256_text": "06a2f3c68aad289e917f8103e193a5fa4105133a6eeef0ca41fa0e5117e84c92"
+    }
+  ],
+  "snapshots_found": {
+    "votebaumgartner.com": 180
+  },
+  "generated_utc": "2026-11-14T16:45:33Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
