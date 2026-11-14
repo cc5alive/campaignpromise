@@ -1,0 +1,27 @@
+{
+  "name": "John James",
+  "domains_tried": [
+    "johnjamesmi.com"
+  ],
+  "pages": [
+    {
+      "original": "https://johnjamesmi.com/",
+      "timestamp": "20241105215930",
+      "wayback": "https://web.archive.org/web/20241105215930/https://johnjamesmi.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105215930id_/https://johnjamesmi.com/",
+      "file": "archive/2024/james-mi/home.html",
+      "text_file": "archive/2024/james-mi/home.txt",
+      "bytes": 54696,
+      "sha256_html": "a5bc4f2c98ae3efaa409a61525de7d6b21aa1d5fcb53f719c950d5655b534517",
+      "sha256_text": "f1d6f80371f6c3b5d415f3f321e5448b32a8c319e55791645ad8c1f1c76a51fd"
+    }
+  ],
+  "snapshots_found": {
+    "johnjamesmi.com": 6
+  },
+  "generated_utc": "2026-11-14T16:52:36Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
