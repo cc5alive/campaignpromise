@@ -1,0 +1,142 @@
+{
+  "name": "Adam B. Schiff",
+  "domains_tried": [
+    "adamschiff.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.adamschiff.com/",
+      "timestamp": "20241105154829",
+      "wayback": "https://web.archive.org/web/20241105154829/https://www.adamschiff.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105154829id_/https://www.adamschiff.com/",
+      "file": "archive/2024/schiff-ca/home.html",
+      "text_file": "archive/2024/schiff-ca/home.txt",
+      "bytes": 66562,
+      "sha256_html": "c5d8cf0bd204bc50f60f8cfb85dcd2f0c8b57f6928c65dd709af64d3c819d5e6",
+      "sha256_text": "a10300cf49bcf25f13ef325c8222327315e0f5a8eb6ae95458cd31878bcd5a70"
+    },
+    {
+      "original": "https://www.adamschiff.com/plans/",
+      "timestamp": "20241105155136",
+      "wayback": "https://web.archive.org/web/20241105155136/https://www.adamschiff.com/plans/",
+      "wayback_raw": "https://web.archive.org/web/20241105155136id_/https://www.adamschiff.com/plans/",
+      "file": "archive/2024/schiff-ca/plans.html",
+      "text_file": "archive/2024/schiff-ca/plans.txt",
+      "bytes": 55530,
+      "sha256_html": "79fd629a4e48f264eb51fb8b5b8d7055e6602d5c7b8424f78908bc76207c3849",
+      "sha256_text": "37b8704a1a4ee0376972b56180e99cdffdaac2ec1a93e463e48eb1e604f270b7"
+    },
+    {
+      "original": "https://www.adamschiff.com/issue/accomplishments/",
+      "timestamp": "20241105155837",
+      "wayback": "https://web.archive.org/web/20241105155837/https://www.adamschiff.com/issue/accomplishments/",
+      "wayback_raw": "https://web.archive.org/web/20241105155837id_/https://www.adamschiff.com/issue/accomplishments/",
+      "file": "archive/2024/schiff-ca/issue-accomplishments.html",
+      "text_file": "archive/2024/schiff-ca/issue-accomplishments.txt",
+      "bytes": 78899,
+      "sha256_html": "531cc318b1bc4992550e2464ee33ec3bdda1baf850532d09e5c3306b65dbdf31",
+      "sha256_text": "89fab121b32f31a7ab5445cd97decbdd4d3c5d86fb9f189a46be0de9b83e6c12"
+    },
+    {
+      "original": "https://www.adamschiff.com/issue/affordability-agenda/",
+      "timestamp": "20241105155842",
+      "wayback": "https://web.archive.org/web/20241105155842/https://www.adamschiff.com/issue/affordability-agenda/",
+      "wayback_raw": "https://web.archive.org/web/20241105155842id_/https://www.adamschiff.com/issue/affordability-agenda/",
+      "file": "archive/2024/schiff-ca/issue-affordability-agenda.html",
+      "text_file": "archive/2024/schiff-ca/issue-affordability-agenda.txt",
+      "bytes": 81925,
+      "sha256_html": "4229844c7398c2358aae1b3fb41c6aa033f5a18d500a696c7aead43d94e1c4fa",
+      "sha256_text": "0d13e2c56d044f800adc15583165d99c5c8214a3625f1a77eba6110bbd688e5f"
+    },
+    {
+      "original": "https://www.adamschiff.com/issue/combating-the-climate-crisis/",
+      "timestamp": "20241105155839",
+      "wayback": "https://web.archive.org/web/20241105155839/https://www.adamschiff.com/issue/combating-the-climate-crisis/",
+      "wayback_raw": "https://web.archive.org/web/20241105155839id_/https://www.adamschiff.com/issue/combating-the-climate-crisis/",
+      "file": "archive/2024/schiff-ca/issue-combating-the-climate-crisis.html",
+      "text_file": "archive/2024/schiff-ca/issue-combating-the-climate-crisis.txt",
+      "bytes": 55809,
+      "sha256_html": "042c8e2802970243fa135646bfa0590a77f57a82714a5f5ae4677331648f1d00",
+      "sha256_text": "ee2e3fd848f8174c3e1b05cfb76d7107ade3f7ff57640b2ae064892b5541fbe8"
+    },
+    {
+      "original": "https://www.adamschiff.com/issue/defending-democracy/",
+      "timestamp": "20241105155838",
+      "wayback": "https://web.archive.org/web/20241105155838/https://www.adamschiff.com/issue/defending-democracy/",
+      "wayback_raw": "https://web.archive.org/web/20241105155838id_/https://www.adamschiff.com/issue/defending-democracy/",
+      "file": "archive/2024/schiff-ca/issue-defending-democracy.html",
+      "text_file": "archive/2024/schiff-ca/issue-defending-democracy.txt",
+      "bytes": 65607,
+      "sha256_html": "973cdf6561718b4ccda96e18a949a85dca238b1730f7a2be5d725a7e967c30a4",
+      "sha256_text": "a8b8a9d5fa3d7ec4c9af8b6e3f1374a9e54f68e2ea40ffce213cb9d7cb7794cd"
+    },
+    {
+      "original": "https://www.adamschiff.com/issue/democracy-reform/",
+      "timestamp": "20241105155835",
+      "wayback": "https://web.archive.org/web/20241105155835/https://www.adamschiff.com/issue/democracy-reform/",
+      "wayback_raw": "https://web.archive.org/web/20241105155835id_/https://www.adamschiff.com/issue/democracy-reform/",
+      "file": "archive/2024/schiff-ca/issue-democracy-reform.html",
+      "text_file": "archive/2024/schiff-ca/issue-democracy-reform.txt",
+      "bytes": 56246,
+      "sha256_html": "e28332464a961827327db4e14f2b74c67e788ef0bc6d30dfba3d0f4d997dfb2f",
+      "sha256_text": "439812580f58be535934add24b96ac284e9fdf1d2459311d6a1d8102a5d5a519"
+    },
+    {
+      "original": "https://www.adamschiff.com/issue/our-economy/",
+      "timestamp": "20241105155833",
+      "wayback": "https://web.archive.org/web/20241105155833/https://www.adamschiff.com/issue/our-economy/",
+      "wayback_raw": "https://web.archive.org/web/20241105155833id_/https://www.adamschiff.com/issue/our-economy/",
+      "file": "archive/2024/schiff-ca/issue-our-economy.html",
+      "text_file": "archive/2024/schiff-ca/issue-our-economy.txt",
+      "bytes": 55318,
+      "sha256_html": "3116e1161daf8e341a4e10ee8130313bf41bf15da1a3355b3080479eaae82b93",
+      "sha256_text": "cca04f09708e8f5eb46cc4149f4b84a0a1ea78beb081aecf61f46fd49e726f89"
+    },
+    {
+      "original": "https://www.adamschiff.com/issue/universal-health-care/",
+      "timestamp": "20241105155840",
+      "wayback": "https://web.archive.org/web/20241105155840/https://www.adamschiff.com/issue/universal-health-care/",
+      "wayback_raw": "https://web.archive.org/web/20241105155840id_/https://www.adamschiff.com/issue/universal-health-care/",
+      "file": "archive/2024/schiff-ca/issue-universal-health-care.html",
+      "text_file": "archive/2024/schiff-ca/issue-universal-health-care.txt",
+      "bytes": 54796,
+      "sha256_html": "8638e1cb114dc94b7a164ab3de0d838abe56a4839699e5c4e297598dc906d40c",
+      "sha256_text": "b88a46f02c4e44cf93023699d54b77eb9f57837a3e608c84e88a878a231b461c"
+    },
+    {
+      "original": "https://www.adamschiff.com/plans/accomplishments/",
+      "timestamp": "20241105155448",
+      "error": "no response"
+    },
+    {
+      "original": "https://www.adamschiff.com/plans/affordability-agenda/",
+      "timestamp": "20241105155444",
+      "wayback": "https://web.archive.org/web/20241105155444/https://www.adamschiff.com/plans/affordability-agenda/",
+      "wayback_raw": "https://web.archive.org/web/20241105155444id_/https://www.adamschiff.com/plans/affordability-agenda/",
+      "file": "archive/2024/schiff-ca/plans-affordability-agenda.html",
+      "text_file": "archive/2024/schiff-ca/plans-affordability-agenda.txt",
+      "bytes": 82063,
+      "sha256_html": "c356a4a90bdabcd8f1dd893ba2d207ac6b7285b00df4cfd6a6489ab3877bd3b5",
+      "sha256_text": "8f9bf1826a330366497d047dc8243bf937bd6a12a058f5e2e64a475ce0dabfb1"
+    },
+    {
+      "original": "https://www.adamschiff.com/plans/defending-democracy/",
+      "timestamp": "20241105155441",
+      "wayback": "https://web.archive.org/web/20241105155441/https://www.adamschiff.com/plans/defending-democracy/",
+      "wayback_raw": "https://web.archive.org/web/20241105155441id_/https://www.adamschiff.com/plans/defending-democracy/",
+      "file": "archive/2024/schiff-ca/plans-defending-democracy.html",
+      "text_file": "archive/2024/schiff-ca/plans-defending-democracy.txt",
+      "bytes": 65936,
+      "sha256_html": "c4607c2d30a0e404ef41d733941e5dd36b070be63de328a9e00638f7217e9d92",
+      "sha256_text": "d19dae1617f541db5b4544aec0c77ae7956975069c0fff3a615d12d7e3990f84"
+    }
+  ],
+  "snapshots_found": {
+    "adamschiff.com": 72
+  },
+  "generated_utc": "2026-11-14T08:30:50Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
