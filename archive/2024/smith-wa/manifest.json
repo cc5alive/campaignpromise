@@ -1,0 +1,148 @@
+{
+  "name": "Adam Smith",
+  "domains_tried": [
+    "electadamsmith.com"
+  ],
+  "pages": [
+    {
+      "original": "https://electadamsmith.com/",
+      "timestamp": "20241105001859",
+      "wayback": "https://web.archive.org/web/20241105001859/https://electadamsmith.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105001859id_/https://electadamsmith.com/",
+      "file": "archive/2024/smith-wa/home.html",
+      "text_file": "archive/2024/smith-wa/home.txt",
+      "bytes": 101093,
+      "sha256_html": "c5bad7610b892914f9b7fbcb73aa53bc2275cfe38218c574f21f316a70bf22d9",
+      "sha256_text": "cea277e9120502fd4a3576bd436a950407cf7e9ef8873879fbfe8646614cd0d3"
+    },
+    {
+      "original": "https://electadamsmith.com/issues/",
+      "timestamp": "20241105000632",
+      "wayback": "https://web.archive.org/web/20241105000632/https://electadamsmith.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105000632id_/https://electadamsmith.com/issues/",
+      "file": "archive/2024/smith-wa/issues.html",
+      "text_file": "archive/2024/smith-wa/issues.txt",
+      "bytes": 33479,
+      "sha256_html": "638af7bac8a722a932ce27ef808eb8b1db879971d1b7e1e52c15af4e68b5dda0",
+      "sha256_text": "4a8d66a951238eea6eca89a798f1a36ee0d1c6b1c9d15d646acbab9bae50f033"
+    },
+    {
+      "original": "https://electadamsmith.com/priorities/",
+      "timestamp": "20241105000314",
+      "wayback": "https://web.archive.org/web/20241105000314/https://electadamsmith.com/priorities/",
+      "wayback_raw": "https://web.archive.org/web/20241105000314id_/https://electadamsmith.com/priorities/",
+      "file": "archive/2024/smith-wa/priorities.html",
+      "text_file": "archive/2024/smith-wa/priorities.txt",
+      "bytes": 37097,
+      "sha256_html": "41a0ad5d1f5a7e91f7fedb0ed6e47572cce5537c5a74c82ae4ad87c3ffdb4cdb",
+      "sha256_text": "3d6e459bd49ff996c650d4affc187932aaee65bc3c93417911592ebb0ccc0337"
+    },
+    {
+      "original": "https://electadamsmith.com/2022-endorsements/smith_priorities/",
+      "timestamp": "20241105001647",
+      "wayback": "https://web.archive.org/web/20241105001647/https://electadamsmith.com/2022-endorsements/smith_priorities/",
+      "wayback_raw": "https://web.archive.org/web/20241105001647id_/https://electadamsmith.com/2022-endorsements/smith_priorities/",
+      "file": "archive/2024/smith-wa/2022-endorsements-smith-priorities.html",
+      "text_file": "archive/2024/smith-wa/2022-endorsements-smith-priorities.txt",
+      "bytes": 36660,
+      "sha256_html": "546f561d62247c4f07178313beac2945a4192f3b33864acaf9e6bc9ab353fc5d",
+      "sha256_text": "272d47559d964299982093eab5520e4f36a5497481124ecfbf72b99fe119fa73"
+    },
+    {
+      "original": "https://electadamsmith.com/2022-endorsements/smith_priorities-2/",
+      "timestamp": "20241105001658",
+      "wayback": "https://web.archive.org/web/20241105001658/https://electadamsmith.com/2022-endorsements/smith_priorities-2/",
+      "wayback_raw": "https://web.archive.org/web/20241105001658id_/https://electadamsmith.com/2022-endorsements/smith_priorities-2/",
+      "file": "archive/2024/smith-wa/2022-endorsements-smith-priorities-2.html",
+      "text_file": "archive/2024/smith-wa/2022-endorsements-smith-priorities-2.txt",
+      "bytes": 36442,
+      "sha256_html": "ebf36443ac707d5adc8ec20971a643d9086bb0bc864318d2841a1cc9c552e14b",
+      "sha256_text": "272d47559d964299982093eab5520e4f36a5497481124ecfbf72b99fe119fa73"
+    },
+    {
+      "original": "https://electadamsmith.com/issues/campaign-finance-reform/",
+      "timestamp": "20241105000252",
+      "wayback": "https://web.archive.org/web/20241105000252/https://electadamsmith.com/issues/campaign-finance-reform/",
+      "wayback_raw": "https://web.archive.org/web/20241105000252id_/https://electadamsmith.com/issues/campaign-finance-reform/",
+      "file": "archive/2024/smith-wa/issues-campaign-finance-reform.html",
+      "text_file": "archive/2024/smith-wa/issues-campaign-finance-reform.txt",
+      "bytes": 35304,
+      "sha256_html": "407782b6cc97d7ff17cdbd155d5a2461a4a30ba2d393d79e63062c3bf4f498cd",
+      "sha256_text": "94aba3bb4d24455c3e79481d7f232f27832a4a55f514806f645480d97ec12428"
+    },
+    {
+      "original": "https://electadamsmith.com/issues/climate-change/",
+      "timestamp": "20241105000242",
+      "wayback": "https://web.archive.org/web/20241105000242/https://electadamsmith.com/issues/climate-change/",
+      "wayback_raw": "https://web.archive.org/web/20241105000242id_/https://electadamsmith.com/issues/climate-change/",
+      "file": "archive/2024/smith-wa/issues-climate-change.html",
+      "text_file": "archive/2024/smith-wa/issues-climate-change.txt",
+      "bytes": 39713,
+      "sha256_html": "f81c83ef8b2b55bee2e7906f46cc80d94f165b3152ea7ce86ab4352e06e3bea3",
+      "sha256_text": "dc9c8b4705a6ec4eda133f2af7e9006bfdb8f5ace702dfd9c54392a95e3fa76c"
+    },
+    {
+      "original": "https://electadamsmith.com/issues/criminal-justice-reform/",
+      "timestamp": "20241105000336",
+      "wayback": "https://web.archive.org/web/20241105000336/https://electadamsmith.com/issues/criminal-justice-reform/",
+      "wayback_raw": "https://web.archive.org/web/20241105000336id_/https://electadamsmith.com/issues/criminal-justice-reform/",
+      "file": "archive/2024/smith-wa/issues-criminal-justice-reform.html",
+      "text_file": "archive/2024/smith-wa/issues-criminal-justice-reform.txt",
+      "bytes": 36938,
+      "sha256_html": "0733854d62b8dcc743f67765493e4cd0b0104911c358c6386745dcb272708461",
+      "sha256_text": "057fd9f3d2adf5f88c9e64f09ff5aeac350ab122f8310a2080e0151639a1b11f"
+    },
+    {
+      "original": "https://electadamsmith.com/issues/economy-jobs/",
+      "timestamp": "20241105000407",
+      "wayback": "https://web.archive.org/web/20241105000407/https://electadamsmith.com/issues/economy-jobs/",
+      "wayback_raw": "https://web.archive.org/web/20241105000407id_/https://electadamsmith.com/issues/economy-jobs/",
+      "file": "archive/2024/smith-wa/issues-economy-jobs.html",
+      "text_file": "archive/2024/smith-wa/issues-economy-jobs.txt",
+      "bytes": 40918,
+      "sha256_html": "8e4a07c129bc3df23abcab777ab1d00a4c4a025e9638c207da0348afb051f760",
+      "sha256_text": "61db2c8f519a57e8e64c3d5beb36fbd9b45f658f9e603a1a8d28294395d5569e"
+    },
+    {
+      "original": "https://electadamsmith.com/issues/education/",
+      "timestamp": "20241105000337",
+      "wayback": "https://web.archive.org/web/20241105000337/https://electadamsmith.com/issues/education/",
+      "wayback_raw": "https://web.archive.org/web/20241105000337id_/https://electadamsmith.com/issues/education/",
+      "file": "archive/2024/smith-wa/issues-education.html",
+      "text_file": "archive/2024/smith-wa/issues-education.txt",
+      "bytes": 38826,
+      "sha256_html": "e3dd29ea3c46aff7e7d90bc3be43ca4eecb5016866cdb2bb415d20f9850efe88",
+      "sha256_text": "0dae4255c85be5700fcf2ba0850fb0b6f00926f246a0a826b3549a0b79abed8d"
+    },
+    {
+      "original": "https://electadamsmith.com/issues/embed/",
+      "timestamp": "20241103020132",
+      "wayback": "https://web.archive.org/web/20241103020132/https://electadamsmith.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241103020132id_/https://electadamsmith.com/issues/embed/",
+      "file": "archive/2024/smith-wa/issues-embed.html",
+      "text_file": "archive/2024/smith-wa/issues-embed.txt",
+      "bytes": 19809,
+      "sha256_html": "ebe3cba6278ef8a4d97eff3247bf94e40766c62e57fcdf11fdd66ba6bcb0ec03",
+      "sha256_text": "fdf1acfe840c12fa990dda7a7cf7d67d2b6a37370df65b5cd583f9f77287bce4"
+    },
+    {
+      "original": "https://electadamsmith.com/issues/gun-violence/",
+      "timestamp": "20241105000402",
+      "wayback": "https://web.archive.org/web/20241105000402/https://electadamsmith.com/issues/gun-violence/",
+      "wayback_raw": "https://web.archive.org/web/20241105000402id_/https://electadamsmith.com/issues/gun-violence/",
+      "file": "archive/2024/smith-wa/issues-gun-violence.html",
+      "text_file": "archive/2024/smith-wa/issues-gun-violence.txt",
+      "bytes": 36326,
+      "sha256_html": "ed274699e2c5d8c6fe6a7ba097c08472d91f82de2d1c7e4ca7617ff7fc00b1e2",
+      "sha256_text": "96aa211988bfd842bc87f82dcd69e930956bf690e86c420830bec235ab4eecd3"
+    }
+  ],
+  "snapshots_found": {
+    "electadamsmith.com": 403
+  },
+  "generated_utc": "2026-11-14T16:15:18Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
