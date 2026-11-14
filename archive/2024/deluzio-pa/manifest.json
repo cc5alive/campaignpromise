@@ -1,0 +1,148 @@
+{
+  "name": "Christopher R. Deluzio",
+  "domains_tried": [
+    "chrisforpa.com"
+  ],
+  "pages": [
+    {
+      "original": "https://chrisforpa.com/",
+      "timestamp": "20241105143400",
+      "wayback": "https://web.archive.org/web/20241105143400/https://chrisforpa.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105143400id_/https://chrisforpa.com/",
+      "file": "archive/2024/deluzio-pa/home.html",
+      "text_file": "archive/2024/deluzio-pa/home.txt",
+      "bytes": 49799,
+      "sha256_html": "2a824cd305a4c0d13fec14b33b932dd9de8f307e95459baffb4d36f2bed90282",
+      "sha256_text": "15da4d84dfd5b8a037ace81d8a4ef7b4a9506c934f8a37a1f8020022ae126842"
+    },
+    {
+      "original": "https://chrisforpa.com/core-values/",
+      "timestamp": "20241105041504",
+      "wayback": "https://web.archive.org/web/20241105041504/https://chrisforpa.com/core-values/",
+      "wayback_raw": "https://web.archive.org/web/20241105041504id_/https://chrisforpa.com/core-values/",
+      "file": "archive/2024/deluzio-pa/core-values.html",
+      "text_file": "archive/2024/deluzio-pa/core-values.txt",
+      "bytes": 45676,
+      "sha256_html": "fab3f4aa9b454adb2c0b9a589a2515d51c92ef077ebc19be135321506a1980d1",
+      "sha256_text": "81d49321cd77d686c5ddfc83b5fdf2aadab5460c6b21c104e04d55d183b242da"
+    },
+    {
+      "original": "https://chrisforpa.com/core-values/democracy/",
+      "timestamp": "20241105041643",
+      "wayback": "https://web.archive.org/web/20241105041643/https://chrisforpa.com/core-values/democracy/",
+      "wayback_raw": "https://web.archive.org/web/20241105041643id_/https://chrisforpa.com/core-values/democracy/",
+      "file": "archive/2024/deluzio-pa/core-values-democracy.html",
+      "text_file": "archive/2024/deluzio-pa/core-values-democracy.txt",
+      "bytes": 45528,
+      "sha256_html": "8911500b202ead8ef0dc5863010cd34aa383fc36ea336c633d1b08ace3d1055d",
+      "sha256_text": "bc62443083e3374e214da12b9559734bb89115fdb089ea53f6abda9f1ead0c04"
+    },
+    {
+      "original": "https://chrisforpa.com/core-values/good-healthcare/",
+      "timestamp": "20240918192733",
+      "wayback": "https://web.archive.org/web/20240918192733/https://chrisforpa.com/core-values/good-healthcare/",
+      "wayback_raw": "https://web.archive.org/web/20240918192733id_/https://chrisforpa.com/core-values/good-healthcare/",
+      "file": "archive/2024/deluzio-pa/core-values-good-healthcare.html",
+      "text_file": "archive/2024/deluzio-pa/core-values-good-healthcare.txt",
+      "bytes": 45027,
+      "sha256_html": "211f8d4b907a46eac8e0b7333cf818ff74804595819d60bd67c0454666b340aa",
+      "sha256_text": "445262afb16379e21a1648d9a98361f9a7eb47070acd12e8fb25c1b5bad1aca0"
+    },
+    {
+      "original": "https://chrisforpa.com/core-values/healthy-safe-resilient-communities/",
+      "timestamp": "20241101123301",
+      "wayback": "https://web.archive.org/web/20241101123301/https://chrisforpa.com/core-values/healthy-safe-resilient-communities/",
+      "wayback_raw": "https://web.archive.org/web/20241101123301id_/https://chrisforpa.com/core-values/healthy-safe-resilient-communities/",
+      "file": "archive/2024/deluzio-pa/core-values-healthy-safe-resilient-communities.html",
+      "text_file": "archive/2024/deluzio-pa/core-values-healthy-safe-resilient-communities.txt",
+      "bytes": 47467,
+      "sha256_html": "edb0456cad39f00076e4c81103fa89a4e014253af2d508500d94e47f704cda9f",
+      "sha256_text": "043d018061212944ccbfacf97941d58c15ee1b9f40002b4d1966ed5e089a815a"
+    },
+    {
+      "original": "https://chrisforpa.com/core-values/make-stuff-here/",
+      "timestamp": "20240918192859",
+      "wayback": "https://web.archive.org/web/20240918192859/https://chrisforpa.com/core-values/make-stuff-here/",
+      "wayback_raw": "https://web.archive.org/web/20240918192859id_/https://chrisforpa.com/core-values/make-stuff-here/",
+      "file": "archive/2024/deluzio-pa/core-values-make-stuff-here.html",
+      "text_file": "archive/2024/deluzio-pa/core-values-make-stuff-here.txt",
+      "bytes": 47184,
+      "sha256_html": "64c9aedb5d9a2ba8d361aaea7f1e83acd33eb228d0e539664ecc8973f32dae9c",
+      "sha256_text": "29457a949c5a7c4a8663c46ee19760fb9f1dc704ba06f0c46f957dac36a63f04"
+    },
+    {
+      "original": "https://chrisforpa.com/core-values/protecting-his-fellow-veterans/",
+      "timestamp": "20241101180602",
+      "wayback": "https://web.archive.org/web/20241101180602/https://chrisforpa.com/core-values/protecting-his-fellow-veterans/",
+      "wayback_raw": "https://web.archive.org/web/20241101180602id_/https://chrisforpa.com/core-values/protecting-his-fellow-veterans/",
+      "file": "archive/2024/deluzio-pa/core-values-protecting-his-fellow-veterans.html",
+      "text_file": "archive/2024/deluzio-pa/core-values-protecting-his-fellow-veterans.txt",
+      "bytes": 45982,
+      "sha256_html": "db7ffe7e10ddbd05e7ba375415aadbd4ef1165fcc375082c2107f61998850f90",
+      "sha256_text": "1cfad96d6a8abbcad5fa4389727948bea79db62c8882d78897337316bfb4b4b6"
+    },
+    {
+      "original": "https://chrisforpa.com/core-values/reproductive-freedom/",
+      "timestamp": "20241105041607",
+      "wayback": "https://web.archive.org/web/20241105041607/https://chrisforpa.com/core-values/reproductive-freedom/",
+      "wayback_raw": "https://web.archive.org/web/20241105041607id_/https://chrisforpa.com/core-values/reproductive-freedom/",
+      "file": "archive/2024/deluzio-pa/core-values-reproductive-freedom.html",
+      "text_file": "archive/2024/deluzio-pa/core-values-reproductive-freedom.txt",
+      "bytes": 45677,
+      "sha256_html": "3a004edfa80d916b2b91470f685d1409f897a62bd73a51ae51b83fa049528e54",
+      "sha256_text": "32dced8c939f3c503780fe2aba5ce3de159901d8fade0777c9f9324fa1cdead9"
+    },
+    {
+      "original": "https://chrisforpa.com/core-values/safer-communities/",
+      "timestamp": "20240918193211",
+      "wayback": "https://web.archive.org/web/20240918193211/https://chrisforpa.com/core-values/safer-communities/",
+      "wayback_raw": "https://web.archive.org/web/20240918193211id_/https://chrisforpa.com/core-values/safer-communities/",
+      "file": "archive/2024/deluzio-pa/core-values-safer-communities.html",
+      "text_file": "archive/2024/deluzio-pa/core-values-safer-communities.txt",
+      "bytes": 46021,
+      "sha256_html": "ec3bd3ac91752686b60ddfc02fae412cfc59227e57f3d9014406bfb310c6ca2f",
+      "sha256_text": "de45a092edbf80844cc3c9667177911eab80681ea2f924c1d9f6057dbc90ded0"
+    },
+    {
+      "original": "https://chrisforpa.com/core-values/securing-your-retirement/",
+      "timestamp": "20240918192733",
+      "wayback": "https://web.archive.org/web/20240918192733/https://chrisforpa.com/core-values/securing-your-retirement/",
+      "wayback_raw": "https://web.archive.org/web/20240918192733id_/https://chrisforpa.com/core-values/securing-your-retirement/",
+      "file": "archive/2024/deluzio-pa/core-values-securing-your-retirement.html",
+      "text_file": "archive/2024/deluzio-pa/core-values-securing-your-retirement.txt",
+      "bytes": 46810,
+      "sha256_html": "5fce9f0e9655e45cea878469d3ed6450d2e2b5fe263fbf2bffbc24fe017894dc",
+      "sha256_text": "52f41e35dee09c5cb4f7e6f070ccd9e91c2b3268e30b5c434481aa2acc1009b7"
+    },
+    {
+      "original": "https://chrisforpa.com/core-values/taking-on-corporate-power/",
+      "timestamp": "20241016063411",
+      "wayback": "https://web.archive.org/web/20241016063411/https://chrisforpa.com/core-values/taking-on-corporate-power/",
+      "wayback_raw": "https://web.archive.org/web/20241016063411id_/https://chrisforpa.com/core-values/taking-on-corporate-power/",
+      "file": "archive/2024/deluzio-pa/core-values-taking-on-corporate-power.html",
+      "text_file": "archive/2024/deluzio-pa/core-values-taking-on-corporate-power.txt",
+      "bytes": 47154,
+      "sha256_html": "f418fbb19a9e6fbde960b3051fceac5e04290acd5523b99f5d095c0ae6cc268c",
+      "sha256_text": "7fb9cbdf620c91beb332022a9245dec69f027c3407710c3d1fd0c4c952c92a74"
+    },
+    {
+      "original": "https://chrisforpa.com/core-values/union-way-of-life/",
+      "timestamp": "20241105041602",
+      "wayback": "https://web.archive.org/web/20241105041602/https://chrisforpa.com/core-values/union-way-of-life/",
+      "wayback_raw": "https://web.archive.org/web/20241105041602id_/https://chrisforpa.com/core-values/union-way-of-life/",
+      "file": "archive/2024/deluzio-pa/core-values-union-way-of-life.html",
+      "text_file": "archive/2024/deluzio-pa/core-values-union-way-of-life.txt",
+      "bytes": 46239,
+      "sha256_html": "87dcc55dca31cce66f47e319ff0a6e57cba02a9d05fda1ef1aa228a512f10a64",
+      "sha256_text": "05d724e93c46d359963dde80558268bdcb5ddce4096a6d2069ec62338252a612"
+    }
+  ],
+  "snapshots_found": {
+    "chrisforpa.com": 18
+  },
+  "generated_utc": "2026-11-14T08:50:35Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
