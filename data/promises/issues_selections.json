@@ -224,14 +224,14 @@
  },
  {
   "member": "lee-pa",
-  "cand": 12,
-  "cand_dir": "candidates_v2",
   "kind": "Stated position",
   "issue": "Abortion",
   "votes": [
    "house-2025-027"
   ],
-  "note": "Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading."
+  "note": "Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading.",
+  "quote": "We need to protect abortion rights and guarantee access to reproductive health care at the federal level.",
+  "page": "https://summerforpa.com/issues/"
  },
  {
   "member": "kaptur-oh",
