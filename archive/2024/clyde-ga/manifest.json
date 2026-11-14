@@ -1,0 +1,27 @@
+{
+  "name": "Andrew S. Clyde",
+  "domains_tried": [
+    "clyde4congress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.clyde4congress.com/",
+      "timestamp": "20241105152844",
+      "wayback": "https://web.archive.org/web/20241105152844/https://www.clyde4congress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105152844id_/https://www.clyde4congress.com/",
+      "file": "archive/2024/clyde-ga/home.html",
+      "text_file": "archive/2024/clyde-ga/home.txt",
+      "bytes": 657432,
+      "sha256_html": "f6674270d0eaec5130d587116e422f5598cf02a18f6dd6d9b50d0347d892e4c1",
+      "sha256_text": "aae9ec282ac8b30f489efdd3c3f99fc62a97c1d9853899762eb2aef8f7db6b88"
+    }
+  ],
+  "snapshots_found": {
+    "clyde4congress.com": 1844
+  },
+  "generated_utc": "2026-11-14T22:26:01Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
