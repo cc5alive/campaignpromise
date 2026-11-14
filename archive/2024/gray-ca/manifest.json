@@ -1,0 +1,60 @@
+{
+  "name": "Adam Gray",
+  "domains_tried": [
+    "adamgrayforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.adamgrayforcongress.com/",
+      "timestamp": "20241105160107",
+      "wayback": "https://web.archive.org/web/20241105160107/https://www.adamgrayforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105160107id_/https://www.adamgrayforcongress.com/",
+      "file": "archive/2024/gray-ca/home.html",
+      "text_file": "archive/2024/gray-ca/home.txt",
+      "bytes": 511292,
+      "sha256_html": "f056c6d2a42feb11f99de4f95b970ae8b12ff20ffdbe94b99de16cdd5d5a7d99",
+      "sha256_text": "78cb54fe51f27959f39becf2a84ba130bd5db135de6673ea14cbe8991c5b8dd9"
+    },
+    {
+      "original": "https://www.adamgrayforcongress.com/issues",
+      "timestamp": "20241105104817",
+      "wayback": "https://web.archive.org/web/20241105104817/https://www.adamgrayforcongress.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105104817id_/https://www.adamgrayforcongress.com/issues",
+      "file": "archive/2024/gray-ca/issues.html",
+      "text_file": "archive/2024/gray-ca/issues.txt",
+      "bytes": 476755,
+      "sha256_html": "3806c34243e97c723c4595111abe0548c3fabf0f05886fb3377aa64e955d68ab",
+      "sha256_text": "7890dbba30382847e8e4e43127f5aa3f9416543a556bc4f60be080923765c811"
+    },
+    {
+      "original": "https://www.adamgrayforcongress.com/media/issues",
+      "timestamp": "20241102193607",
+      "wayback": "https://web.archive.org/web/20241102193607/https://www.adamgrayforcongress.com/media/issues",
+      "wayback_raw": "https://web.archive.org/web/20241102193607id_/https://www.adamgrayforcongress.com/media/issues",
+      "file": "archive/2024/gray-ca/media-issues.html",
+      "text_file": "archive/2024/gray-ca/media-issues.txt",
+      "bytes": 600728,
+      "sha256_html": "4929b4003a6d69cff5d1072d322d24bbeee269c8d42959b8a67fe7ccfa43f0e0",
+      "sha256_text": "f395448667ff55d201b0a40d1e7525174fbc1d167d8902d810235d4a20a5293b"
+    },
+    {
+      "original": "https://www.adamgrayforcongress.com/media/wix-thunderbolt/dist/issues",
+      "timestamp": "20241103204609",
+      "wayback": "https://web.archive.org/web/20241103204609/https://www.adamgrayforcongress.com/media/wix-thunderbolt/dist/issues",
+      "wayback_raw": "https://web.archive.org/web/20241103204609id_/https://www.adamgrayforcongress.com/media/wix-thunderbolt/dist/issues",
+      "file": "archive/2024/gray-ca/media-wix-thunderbolt-dist-issues.html",
+      "text_file": "archive/2024/gray-ca/media-wix-thunderbolt-dist-issues.txt",
+      "bytes": 600866,
+      "sha256_html": "2508a2a785614df24d703666cf278e3ef24a9c1f84a31255d1b000d2b813b71e",
+      "sha256_text": "f395448667ff55d201b0a40d1e7525174fbc1d167d8902d810235d4a20a5293b"
+    }
+  ],
+  "snapshots_found": {
+    "adamgrayforcongress.com": 116
+  },
+  "generated_utc": "2026-11-14T16:15:30Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
