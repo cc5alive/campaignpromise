@@ -1,0 +1,50 @@
+{
+ "committees": {
+  "C00436386": {
+   "name": "FRIENDS OF JOHN BARRASSO",
+   "website": "WWW.BARRASSOFORWYOMING.COM",
+   "error": null
+  },
+  "C00806018": {
+   "name": "LALOTA FOR CONGRESS",
+   "website": "NICKLALOTA.COM",
+   "error": null
+  },
+  "C00729954": {
+   "name": "GARBARINO FOR CONGRESS",
+   "website": "WWW.GARBARINOFORNY.COM",
+   "error": null
+  },
+  "C00694778": {
+   "name": "NICOLE FOR NEW YORK",
+   "website": "NICOLEMALLIOTAKIS.COM",
+   "error": null
+  },
+  "C00770818": {
+   "name": "MAX MILLER FOR CONGRESS",
+   "website": "WWW.VOTEMAXMILLER.COM",
+   "error": null
+  },
+  "C00779603": {
+   "name": "CAREY FOR CONGRESS",
+   "website": "WWW.CAREYFORCONGRESS.COM",
+   "error": null
+  },
+  "C00527457": {
+   "name": "FRIENDS OF DAVE JOYCE",
+   "website": "WWW.JOYCEFORCONGRESS.COM",
+   "error": null
+  },
+  "C00441014": {
+   "name": "ROB WITTMAN FOR CONGRESS",
+   "website": "HTTP://ROBWITTMAN.COM",
+   "error": null
+  },
+  "C00544684": {
+   "name": "MIKE COLLINS FOR SENATE",
+   "website": "HTTPS://MIKECOLLINSGA.COM/",
+   "error": null
+  }
+ },
+ "searches": {}
+}
