@@ -1,0 +1,148 @@
+{
+  "name": "Sheldon Whitehouse",
+  "domains_tried": [
+    "whitehouseforsenate.com"
+  ],
+  "pages": [
+    {
+      "original": "https://whitehouseforsenate.com/",
+      "timestamp": "20241105072558",
+      "wayback": "https://web.archive.org/web/20241105072558/https://whitehouseforsenate.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105072558id_/https://whitehouseforsenate.com/",
+      "file": "archive/2024/whitehouse-ri/home.html",
+      "text_file": "archive/2024/whitehouse-ri/home.txt",
+      "bytes": 106021,
+      "sha256_html": "606417076d27ac76e2e3fc2261cf8217b5852481924199bb424385501d1e28bf",
+      "sha256_text": "fa75ebcf890a54d08cc43e2056a53b9a651d94edae50a29089c10e945d8909bf"
+    },
+    {
+      "original": "https://whitehouseforsenate.com/issues/",
+      "timestamp": "20241105072600",
+      "wayback": "https://web.archive.org/web/20241105072600/https://whitehouseforsenate.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105072600id_/https://whitehouseforsenate.com/issues/",
+      "file": "archive/2024/whitehouse-ri/issues.html",
+      "text_file": "archive/2024/whitehouse-ri/issues.txt",
+      "bytes": 70999,
+      "sha256_html": "bfe17ce204c6d2c8494d2e929dc31c575d5e46a18d9ff3dd90eefa266c5fa7a3",
+      "sha256_text": "872c6ac40fb9eb1c7d9e7374939de37fa66e1abb34079d9f9e0917a470b7fa82"
+    },
+    {
+      "original": "https://whitehouseforsenate.com/issues/creating-opportunity-lowering-costs/",
+      "timestamp": "20241105072632",
+      "wayback": "https://web.archive.org/web/20241105072632/https://whitehouseforsenate.com/issues/creating-opportunity-lowering-costs/",
+      "wayback_raw": "https://web.archive.org/web/20241105072632id_/https://whitehouseforsenate.com/issues/creating-opportunity-lowering-costs/",
+      "file": "archive/2024/whitehouse-ri/issues-creating-opportunity-lowering-costs.html",
+      "text_file": "archive/2024/whitehouse-ri/issues-creating-opportunity-lowering-costs.txt",
+      "bytes": 71376,
+      "sha256_html": "c623b6ca386557d45c91d1c028cb7324966f103d0a0ab28b64f1e95a42026843",
+      "sha256_text": "8349791a000f2d3c010080397249d1828ce070dcc42709a43e2829f508405f57"
+    },
+    {
+      "original": "https://whitehouseforsenate.com/issues/fighting-climate-change/",
+      "timestamp": "20241105072632",
+      "wayback": "https://web.archive.org/web/20241105072632/https://whitehouseforsenate.com/issues/fighting-climate-change/",
+      "wayback_raw": "https://web.archive.org/web/20241105072632id_/https://whitehouseforsenate.com/issues/fighting-climate-change/",
+      "file": "archive/2024/whitehouse-ri/issues-fighting-climate-change.html",
+      "text_file": "archive/2024/whitehouse-ri/issues-fighting-climate-change.txt",
+      "bytes": 71396,
+      "sha256_html": "424f604b42a5918b54d66f306ed9a3c28375f27567d3a54918f08f519b444c4c",
+      "sha256_text": "3a796fa2c350c344e2af2e0dfdb70206a766b823a858fb3b34c44efd29960b47"
+    },
+    {
+      "original": "https://whitehouseforsenate.com/issues/health-care/",
+      "timestamp": "20241105072630",
+      "wayback": "https://web.archive.org/web/20241105072630/https://whitehouseforsenate.com/issues/health-care/",
+      "wayback_raw": "https://web.archive.org/web/20241105072630id_/https://whitehouseforsenate.com/issues/health-care/",
+      "file": "archive/2024/whitehouse-ri/issues-health-care.html",
+      "text_file": "archive/2024/whitehouse-ri/issues-health-care.txt",
+      "bytes": 69695,
+      "sha256_html": "1819cb6c5af7cd76fb2b51fef44267ee71968e0c06101b1d0cb23a7301c5780b",
+      "sha256_text": "ea68d30d6f235536400026afc180b0103ca937f70800e5634966f61e99fc88b5"
+    },
+    {
+      "original": "https://whitehouseforsenate.com/issues/protecting-national-security-fixing-the-immigration-system/",
+      "timestamp": "20241105072633",
+      "wayback": "https://web.archive.org/web/20241105072633/https://whitehouseforsenate.com/issues/protecting-national-security-fixing-the-immigration-system/",
+      "wayback_raw": "https://web.archive.org/web/20241105072633id_/https://whitehouseforsenate.com/issues/protecting-national-security-fixing-the-immigration-system/",
+      "file": "archive/2024/whitehouse-ri/issues-protecting-national-security-fixing-the-immigration-system.html",
+      "text_file": "archive/2024/whitehouse-ri/issues-protecting-national-security-fixing-the-immigration-system.txt",
+      "bytes": 69400,
+      "sha256_html": "37cd048080a74e0d94e745a2c1fe5ceb91668c2fd1c751452916a72b398aa4e8",
+      "sha256_text": "c7dbe15b84e6d57497258ddfa3be5072955fa41b7942526b4799031066d26be0"
+    },
+    {
+      "original": "https://whitehouseforsenate.com/issues/protecting-social-security-medicare/",
+      "timestamp": "20241105072629",
+      "wayback": "https://web.archive.org/web/20241105072629/https://whitehouseforsenate.com/issues/protecting-social-security-medicare/",
+      "wayback_raw": "https://web.archive.org/web/20241105072629id_/https://whitehouseforsenate.com/issues/protecting-social-security-medicare/",
+      "file": "archive/2024/whitehouse-ri/issues-protecting-social-security-medicare.html",
+      "text_file": "archive/2024/whitehouse-ri/issues-protecting-social-security-medicare.txt",
+      "bytes": 71113,
+      "sha256_html": "87a5837b33734c5f08f6edfa7643f0c7302b6950b88e386fdef5b32e850b3d88",
+      "sha256_text": "1c76845d5e7e22e6cd5c5631f015c3e267ba29002e9f1a6caf41daf49fe5d150"
+    },
+    {
+      "original": "https://whitehouseforsenate.com/issues/reproductive-freedom/",
+      "timestamp": "20241105072633",
+      "wayback": "https://web.archive.org/web/20241105072633/https://whitehouseforsenate.com/issues/reproductive-freedom/",
+      "wayback_raw": "https://web.archive.org/web/20241105072633id_/https://whitehouseforsenate.com/issues/reproductive-freedom/",
+      "file": "archive/2024/whitehouse-ri/issues-reproductive-freedom.html",
+      "text_file": "archive/2024/whitehouse-ri/issues-reproductive-freedom.txt",
+      "bytes": 68589,
+      "sha256_html": "c12fb8f7a7cb7e115eac494294ceb1854ddd61da303362004fb1ae7e7d34424a",
+      "sha256_text": "2e5dcba28b21b3731c4945058264b7011d115ce4d388bc7bc9e712b586b9adb6"
+    },
+    {
+      "original": "https://whitehouseforsenate.com/issues/safeguarding-justice-democracy/",
+      "timestamp": "20241105072632",
+      "wayback": "https://web.archive.org/web/20241105072632/https://whitehouseforsenate.com/issues/safeguarding-justice-democracy/",
+      "wayback_raw": "https://web.archive.org/web/20241105072632id_/https://whitehouseforsenate.com/issues/safeguarding-justice-democracy/",
+      "file": "archive/2024/whitehouse-ri/issues-safeguarding-justice-democracy.html",
+      "text_file": "archive/2024/whitehouse-ri/issues-safeguarding-justice-democracy.txt",
+      "bytes": 69140,
+      "sha256_html": "ae5e0c9becbcbe619563f10d7b19350538fd4f747c1e27a366f76d221f2e7c1c",
+      "sha256_text": "c900bbbfd031c0d69bf5285356051d8814a40dcb00ba1ca5b4cb74198d2c8f8f"
+    },
+    {
+      "original": "https://whitehouseforsenate.com/issues/standing-up-to-special-interests/",
+      "timestamp": "20241105072631",
+      "wayback": "https://web.archive.org/web/20241105072631/https://whitehouseforsenate.com/issues/standing-up-to-special-interests/",
+      "wayback_raw": "https://web.archive.org/web/20241105072631id_/https://whitehouseforsenate.com/issues/standing-up-to-special-interests/",
+      "file": "archive/2024/whitehouse-ri/issues-standing-up-to-special-interests.html",
+      "text_file": "archive/2024/whitehouse-ri/issues-standing-up-to-special-interests.txt",
+      "bytes": 70854,
+      "sha256_html": "551a3d9d6e8e15e82611ed906fe2c8feaa66b871583b4b8859c092f3e98ab791",
+      "sha256_text": "0b94fb9c9a38e787c5948d0588b9dd2dca763cbdbfe068837f1ec391674653c6"
+    },
+    {
+      "original": "https://whitehouseforsenate.com/issues/supporting-veterans/",
+      "timestamp": "20241105072631",
+      "wayback": "https://web.archive.org/web/20241105072631/https://whitehouseforsenate.com/issues/supporting-veterans/",
+      "wayback_raw": "https://web.archive.org/web/20241105072631id_/https://whitehouseforsenate.com/issues/supporting-veterans/",
+      "file": "archive/2024/whitehouse-ri/issues-supporting-veterans.html",
+      "text_file": "archive/2024/whitehouse-ri/issues-supporting-veterans.txt",
+      "bytes": 70464,
+      "sha256_html": "2d96e4ea984b284ed4ffdd864b656fa553e3f233e0ba6d467fe9ca66d9a5a340",
+      "sha256_text": "520781f7ead8d11eabdbc7ef1840555871df8a1f0b8af09efe25906fc38645b4"
+    },
+    {
+      "original": "https://whitehouseforsenate.com/issues/upgrading-infrastructure/",
+      "timestamp": "20241105072629",
+      "wayback": "https://web.archive.org/web/20241105072629/https://whitehouseforsenate.com/issues/upgrading-infrastructure/",
+      "wayback_raw": "https://web.archive.org/web/20241105072629id_/https://whitehouseforsenate.com/issues/upgrading-infrastructure/",
+      "file": "archive/2024/whitehouse-ri/issues-upgrading-infrastructure.html",
+      "text_file": "archive/2024/whitehouse-ri/issues-upgrading-infrastructure.txt",
+      "bytes": 70843,
+      "sha256_html": "ae53f84bc66497e346f62a5004fac3f40c0228d35aa9a5a4d0700df7158b6dd6",
+      "sha256_text": "4c7a1e12a02dc388ee1714d215a66b834b9bdf554d9071d5fd5d73d4c7d2377b"
+    }
+  ],
+  "snapshots_found": {
+    "whitehouseforsenate.com": 478
+  },
+  "generated_utc": "2026-11-14T22:19:26Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
