@@ -1,0 +1,105 @@
+{
+  "name": "Monica De La Cruz",
+  "domains_tried": [
+    "monicaforcongress.us",
+    "monicaforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.monicaforcongress.us/",
+      "timestamp": "20241031021853",
+      "wayback": "https://web.archive.org/web/20241031021853/https://www.monicaforcongress.us/",
+      "wayback_raw": "https://web.archive.org/web/20241031021853id_/https://www.monicaforcongress.us/",
+      "file": "archive/2024/delacruz-tx/home.html",
+      "text_file": "archive/2024/delacruz-tx/home.txt",
+      "bytes": 99335,
+      "sha256_html": "9ad054810041cc8f135c3cb6681ca86ad47afd33b78814317110856a3dcc5ac5",
+      "sha256_text": "3dc6a7d6e22068e64643a33141105760698449f05fbc688ee8b8687d93da6d04"
+    },
+    {
+      "original": "https://www.monicaforcongress.us/issues/",
+      "timestamp": "20241031101630",
+      "wayback": "https://web.archive.org/web/20241031101630/https://www.monicaforcongress.us/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241031101630id_/https://www.monicaforcongress.us/issues/",
+      "file": "archive/2024/delacruz-tx/issues.html",
+      "text_file": "archive/2024/delacruz-tx/issues.txt",
+      "bytes": 69361,
+      "sha256_html": "3c5a27312bdd2c38498fd234337aa20dca8af97478c16ed9c08d8a0e67617fd2",
+      "sha256_text": "5ecef70563405bc199cdcba7ae3a429e8b85deb79ee0a6cbd5706ef0181ae23c"
+    },
+    {
+      "original": "https://www.monicaforcongress.us/issue/agriculture/",
+      "timestamp": "20241005181005",
+      "wayback": "https://web.archive.org/web/20241005181005/https://www.monicaforcongress.us/issue/agriculture/",
+      "wayback_raw": "https://web.archive.org/web/20241005181005id_/https://www.monicaforcongress.us/issue/agriculture/",
+      "file": "archive/2024/delacruz-tx/issue-agriculture.html",
+      "text_file": "archive/2024/delacruz-tx/issue-agriculture.txt",
+      "bytes": 51644,
+      "sha256_html": "43d62884943cd05987dd0e6535480ef0e933e925798b1ff99396e021cb441f7f",
+      "sha256_text": "4d28ca8b103084175655c07e72ee3e4e2cf9b4634bfd2e801b1ac9f26ad75035"
+    },
+    {
+      "original": "https://www.monicaforcongress.us/issue/economy/",
+      "timestamp": "20241005194925",
+      "wayback": "https://web.archive.org/web/20241005194925/https://www.monicaforcongress.us/issue/economy/",
+      "wayback_raw": "https://web.archive.org/web/20241005194925id_/https://www.monicaforcongress.us/issue/economy/",
+      "file": "archive/2024/delacruz-tx/issue-economy.html",
+      "text_file": "archive/2024/delacruz-tx/issue-economy.txt",
+      "bytes": 51478,
+      "sha256_html": "fe85be798322d33daa487039c75d1a19af157c0dd5dc5c5e817020bc7f6842f8",
+      "sha256_text": "e591fa702562804c67cd13a0b12d388c62c19b79d93fa997955f00668b6739b6"
+    },
+    {
+      "original": "https://www.monicaforcongress.us/issue/energy/",
+      "timestamp": "20240912185233",
+      "wayback": "https://web.archive.org/web/20240912185233/https://www.monicaforcongress.us/issue/energy/",
+      "wayback_raw": "https://web.archive.org/web/20240912185233id_/https://www.monicaforcongress.us/issue/energy/",
+      "file": "archive/2024/delacruz-tx/issue-energy.html",
+      "text_file": "archive/2024/delacruz-tx/issue-energy.txt",
+      "bytes": 51589,
+      "sha256_html": "64aa7f0df648c454f955e6e2e9e58197d2af54eaee636d67b618c547116f7921",
+      "sha256_text": "1d5170b74b2da0211824a7dc020c48da2376d3f71b84c96f1410ae59590b699c"
+    },
+    {
+      "original": "https://www.monicaforcongress.us/issue/seniors/",
+      "timestamp": "20241005195242",
+      "wayback": "https://web.archive.org/web/20241005195242/https://www.monicaforcongress.us/issue/seniors/",
+      "wayback_raw": "https://web.archive.org/web/20241005195242id_/https://www.monicaforcongress.us/issue/seniors/",
+      "file": "archive/2024/delacruz-tx/issue-seniors.html",
+      "text_file": "archive/2024/delacruz-tx/issue-seniors.txt",
+      "bytes": 51478,
+      "sha256_html": "c61ae5537038e16a8b959697b2057307253373c7298b98c495bc6218200925cc",
+      "sha256_text": "d1851d6c90a0175fb62229131bb7155e0e1b4b0a38abe1745f0e918483ddea17"
+    },
+    {
+      "original": "https://www.monicaforcongress.us/issues/embed/",
+      "timestamp": "20241101083349",
+      "wayback": "https://web.archive.org/web/20241101083349/https://www.monicaforcongress.us/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241101083349id_/https://www.monicaforcongress.us/issues/embed/",
+      "file": "archive/2024/delacruz-tx/issues-embed.html",
+      "text_file": "archive/2024/delacruz-tx/issues-embed.txt",
+      "bytes": 69408,
+      "sha256_html": "a1e843a6a13811972f95ccf841b706c755649d8c0afd66c57d53a2ec9187b035",
+      "sha256_text": "5ecef70563405bc199cdcba7ae3a429e8b85deb79ee0a6cbd5706ef0181ae23c"
+    },
+    {
+      "original": "https://www.monicaforcongress.us/about/",
+      "timestamp": "20241031064514",
+      "wayback": "https://web.archive.org/web/20241031064514/https://www.monicaforcongress.us/about/",
+      "wayback_raw": "https://web.archive.org/web/20241031064514id_/https://www.monicaforcongress.us/about/",
+      "file": "archive/2024/delacruz-tx/about.html",
+      "text_file": "archive/2024/delacruz-tx/about.txt",
+      "bytes": 66252,
+      "sha256_html": "1451ad300e336b9abfa56d4fcb32896c4ccb70299cf52f024a0f7cc56c068aa1",
+      "sha256_text": "8f7f1424f4c2d0a6e0a0465872192ab01e60293cf593bafb3d85250401650df3"
+    }
+  ],
+  "snapshots_found": {
+    "monicaforcongress.us": 46
+  },
+  "generated_utc": "2026-11-14T16:17:58Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
