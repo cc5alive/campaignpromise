@@ -1,0 +1,71 @@
+{
+  "name": "Don Bacon",
+  "domains_tried": [
+    "donjbacon.com"
+  ],
+  "pages": [
+    {
+      "original": "https://donjbacon.com/",
+      "timestamp": "20241105160007",
+      "wayback": "https://web.archive.org/web/20241105160007/https://donjbacon.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105160007id_/https://donjbacon.com/",
+      "file": "archive/2024/bacon-ne/home.html",
+      "text_file": "archive/2024/bacon-ne/home.txt",
+      "bytes": 263060,
+      "sha256_html": "f35411cdd9da15c1cdd58758db7f2a7ff22036e7d5cf55834acc38c8c072b269",
+      "sha256_text": "83a23a5acfce08b09280683eb872b9a1886ff4ec88c10789a0189c4b6a81c758"
+    },
+    {
+      "original": "https://donjbacon.com/issues/",
+      "timestamp": "20241105042501",
+      "wayback": "https://web.archive.org/web/20241105042501/https://donjbacon.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105042501id_/https://donjbacon.com/issues/",
+      "file": "archive/2024/bacon-ne/issues.html",
+      "text_file": "archive/2024/bacon-ne/issues.txt",
+      "bytes": 238597,
+      "sha256_html": "94b1f4c35db37210a2271497bc9e820d675c00b1a8144ddac7739d4ec97963c4",
+      "sha256_text": "b891d1ece1127ecd5c20e30e96d1629a581218e38efe56389508b084294b98cf"
+    },
+    {
+      "original": "https://donjbacon.com/omaha-police-union-endorses-rep-bacon-for-2024/",
+      "timestamp": "20241105042306",
+      "wayback": "https://web.archive.org/web/20241105042306/https://donjbacon.com/omaha-police-union-endorses-rep-bacon-for-2024/",
+      "wayback_raw": "https://web.archive.org/web/20241105042306id_/https://donjbacon.com/omaha-police-union-endorses-rep-bacon-for-2024/",
+      "file": "archive/2024/bacon-ne/omaha-police-union-endorses-rep-bacon-for-2024.html",
+      "text_file": "archive/2024/bacon-ne/omaha-police-union-endorses-rep-bacon-for-2024.txt",
+      "bytes": 193052,
+      "sha256_html": "1a6baa1ef8c67c9c79e0c6679eeb2baab5b5b1dd1c95627e577e6e7501637200",
+      "sha256_text": "d3e700335c9d7dac847116c7c5b14b1101d0bdc2d55bf2a09e33ae7e0718f2df"
+    },
+    {
+      "original": "https://donjbacon.com/issues/embed/",
+      "timestamp": "20241101184610",
+      "wayback": "https://web.archive.org/web/20241101184610/https://donjbacon.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241101184610id_/https://donjbacon.com/issues/embed/",
+      "file": "archive/2024/bacon-ne/issues-embed.html",
+      "text_file": "archive/2024/bacon-ne/issues-embed.txt",
+      "bytes": 20696,
+      "sha256_html": "1fab323f29831f8ec63f878a5faef5c37f1d5b78682fd6b5c61bc4c82a66745a",
+      "sha256_text": "2b535df156c69b111c10ddc1ae455f6b8aec14150e2791db1fb35ca58743d8cf"
+    },
+    {
+      "original": "https://donjbacon.com/omaha-police-union-endorses-rep-bacon-for-2024/embed/",
+      "timestamp": "20241102200933",
+      "wayback": "https://web.archive.org/web/20241102200933/https://donjbacon.com/omaha-police-union-endorses-rep-bacon-for-2024/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241102200933id_/https://donjbacon.com/omaha-police-union-endorses-rep-bacon-for-2024/embed/",
+      "file": "archive/2024/bacon-ne/omaha-police-union-endorses-rep-bacon-for-2024-embed.html",
+      "text_file": "archive/2024/bacon-ne/omaha-police-union-endorses-rep-bacon-for-2024-embed.txt",
+      "bytes": 22286,
+      "sha256_html": "00b92af523e8b2b6625cbfea5047cf02f6b5ab29ef41e1e959915c570a378f36",
+      "sha256_text": "809e30e42da618b33d753f70caf8a20a59b85de7256e11e72b0780328a31f064"
+    }
+  ],
+  "snapshots_found": {
+    "donjbacon.com": 27
+  },
+  "generated_utc": "2026-11-14T08:30:44Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
