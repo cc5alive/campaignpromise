@@ -1,0 +1,27 @@
+{
+ "member": "kennedy-ny",
+ "pages": 2,
+ "candidates": [
+  {
+   "score": 9,
+   "topics": [
+    "Health care",
+    "Social Security & Medicare"
+   ],
+   "sentence": "In Congress, he will fight against rollbacks to the Affordable Care Act, protect and expand Medicare, and work to make prescription drugs more affordable.",
+   "page": "https://kennedyforuscongress.com/issues/",
+   "file": "archive/2024/kennedy-ny/issues.html",
+   "snapshot": "20241105210953"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "As a Congressman, he will fight against a national abortion ban and work to codify Roe v.",
+   "page": "https://kennedyforuscongress.com/issues/",
+   "file": "archive/2024/kennedy-ny/issues.html",
+   "snapshot": "20241105210953"
+  }
+ ]
+}

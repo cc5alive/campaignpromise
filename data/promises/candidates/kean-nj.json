@@ -1,0 +1,26 @@
+{
+ "member": "kean-nj",
+ "pages": 3,
+ "candidates": [
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "I am fighting to lower taxes and grow jobs as a leader in the state legislature and that is priority number one for me in Congress.",
+   "page": "https://tomkean.com/",
+   "file": "archive/2024/kean-nj/home.html",
+   "snapshot": "20241105080912"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "Malinowski opposed the United States supplying the Israeli Defense Forces with cluster munitions and asked then-Senator Hillary Clinton not to support Israel’s construction of an “illegal” wall in the West Bank.",
+   "page": "https://tomkean.com/action/we-stand-with-senator-kean-in-support-of-israel/",
+   "file": "archive/2024/kean-nj/action-we-stand-with-senator-kean-in-support-of-israel.html",
+   "snapshot": "20241105081344"
+  }
+ ]
+}
