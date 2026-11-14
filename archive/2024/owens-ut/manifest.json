@@ -1,0 +1,148 @@
+{
+  "name": "Burgess Owens",
+  "domains_tried": [
+    "burgess4utah.com"
+  ],
+  "pages": [
+    {
+      "original": "https://burgess4utah.com/",
+      "timestamp": "20241105185652",
+      "wayback": "https://web.archive.org/web/20241105185652/https://burgess4utah.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105185652id_/https://burgess4utah.com/",
+      "file": "archive/2024/owens-ut/home.html",
+      "text_file": "archive/2024/owens-ut/home.txt",
+      "bytes": 94175,
+      "sha256_html": "abfbfebf157b0b0564c0e65ac7caa0cacd801591c946382448c9a6d9f77ae381",
+      "sha256_text": "e1936dfdfc3d092a6906e8725a47a40aa6fa25f3216cbb0942a715e129755b47"
+    },
+    {
+      "original": "https://burgess4utah.com/issues/",
+      "timestamp": "20241105185701",
+      "wayback": "https://web.archive.org/web/20241105185701/https://burgess4utah.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105185701id_/https://burgess4utah.com/issues/",
+      "file": "archive/2024/owens-ut/issues.html",
+      "text_file": "archive/2024/owens-ut/issues.txt",
+      "bytes": 90500,
+      "sha256_html": "5e03c9ca8512fbedb143f1900293849d27887201f9702078b736651153150094",
+      "sha256_text": "86f6e403c911c85f9c2aa13916061293434296e395bc3eea42cccbefa4734103"
+    },
+    {
+      "original": "https://burgess4utah.com/issues/2nd-amendment/",
+      "timestamp": "20241105190119",
+      "wayback": "https://web.archive.org/web/20241105190119/https://burgess4utah.com/issues/2nd-amendment/",
+      "wayback_raw": "https://web.archive.org/web/20241105190119id_/https://burgess4utah.com/issues/2nd-amendment/",
+      "file": "archive/2024/owens-ut/issues-2nd-amendment.html",
+      "text_file": "archive/2024/owens-ut/issues-2nd-amendment.txt",
+      "bytes": 94475,
+      "sha256_html": "0f0ca67bade38a98d7284e1c8a8c1b1734bd50a0b8df1f2797762f7818a79f15",
+      "sha256_text": "6400534ab52a4ad3aa81665f6faaf04b4e94037934e256f49b67d170fa4a3c3a"
+    },
+    {
+      "original": "https://burgess4utah.com/issues/balance-budget/",
+      "timestamp": "20241105190137",
+      "wayback": "https://web.archive.org/web/20241105190137/https://burgess4utah.com/issues/balance-budget/",
+      "wayback_raw": "https://web.archive.org/web/20241105190137id_/https://burgess4utah.com/issues/balance-budget/",
+      "file": "archive/2024/owens-ut/issues-balance-budget.html",
+      "text_file": "archive/2024/owens-ut/issues-balance-budget.txt",
+      "bytes": 97036,
+      "sha256_html": "bb13c2a92de3ea3abf1b1bf32a9472ec19fce808ef7c11bbfad2b3560c17ed8d",
+      "sha256_text": "e40a0b48aef580889dcc7be5971a8affafcf107ce77f9aa47c4ffc1ebb0cb0cf"
+    },
+    {
+      "original": "https://burgess4utah.com/issues/educational-freedom/",
+      "timestamp": "20241105190127",
+      "wayback": "https://web.archive.org/web/20241105190127/https://burgess4utah.com/issues/educational-freedom/",
+      "wayback_raw": "https://web.archive.org/web/20241105190127id_/https://burgess4utah.com/issues/educational-freedom/",
+      "file": "archive/2024/owens-ut/issues-educational-freedom.html",
+      "text_file": "archive/2024/owens-ut/issues-educational-freedom.txt",
+      "bytes": 97175,
+      "sha256_html": "0f4435a222e521e22bff7041cc86837c88ce70db60beb09c7241b5126bcda5f7",
+      "sha256_text": "4a93376855ad3d12911f93e7cdcf48a405d065606c5a0f4a4541d00898ddb194"
+    },
+    {
+      "original": "https://burgess4utah.com/issues/healthcare/",
+      "timestamp": "20241105190113",
+      "wayback": "https://web.archive.org/web/20241105190113/https://burgess4utah.com/issues/healthcare/",
+      "wayback_raw": "https://web.archive.org/web/20241105190113id_/https://burgess4utah.com/issues/healthcare/",
+      "file": "archive/2024/owens-ut/issues-healthcare.html",
+      "text_file": "archive/2024/owens-ut/issues-healthcare.txt",
+      "bytes": 95460,
+      "sha256_html": "659a5c25b9a4cb7e6929d0ef07f4fa33e2078524ed176fd16428e3eb13864a0e",
+      "sha256_text": "40a11a3685f516310a64da49467809786149ecd130edad93f4763d25c9a4f44b"
+    },
+    {
+      "original": "https://burgess4utah.com/issues/immigration/",
+      "timestamp": "20241105190101",
+      "wayback": "https://web.archive.org/web/20241105190101/https://burgess4utah.com/issues/immigration/",
+      "wayback_raw": "https://web.archive.org/web/20241105190101id_/https://burgess4utah.com/issues/immigration/",
+      "file": "archive/2024/owens-ut/issues-immigration.html",
+      "text_file": "archive/2024/owens-ut/issues-immigration.txt",
+      "bytes": 94763,
+      "sha256_html": "cf1fb3c00701993402f8950282e893ceef59c6dc69e641a25537f5edca2004d4",
+      "sha256_text": "223feb17d454d26512230212527448751395342cc9009d69d1aece03672d484b"
+    },
+    {
+      "original": "https://burgess4utah.com/issues/life/",
+      "timestamp": "20241105190149",
+      "wayback": "https://web.archive.org/web/20241105190149/https://burgess4utah.com/issues/life/",
+      "wayback_raw": "https://web.archive.org/web/20241105190149id_/https://burgess4utah.com/issues/life/",
+      "file": "archive/2024/owens-ut/issues-life.html",
+      "text_file": "archive/2024/owens-ut/issues-life.txt",
+      "bytes": 93950,
+      "sha256_html": "86212043146bc3bc05a7213aead4c5f3577e047d89a11b7a71d52115b8d1eb34",
+      "sha256_text": "1600f86e34740baaba69ca538c3fb0eab08a7332413d39655ce2e2834197b1a8"
+    },
+    {
+      "original": "https://burgess4utah.com/issues/taxes/",
+      "timestamp": "20241105190131",
+      "wayback": "https://web.archive.org/web/20241105190131/https://burgess4utah.com/issues/taxes/",
+      "wayback_raw": "https://web.archive.org/web/20241105190131id_/https://burgess4utah.com/issues/taxes/",
+      "file": "archive/2024/owens-ut/issues-taxes.html",
+      "text_file": "archive/2024/owens-ut/issues-taxes.txt",
+      "bytes": 93320,
+      "sha256_html": "220898073e922f975c19d469e2e556724d0cf333d4dedf48fd21a60e4625f7f8",
+      "sha256_text": "3d6beb48ffe200b9af1e4a75449d0714013a442d8ee4e50ac398f3073d741af6"
+    },
+    {
+      "original": "https://burgess4utah.com/issues/trafficking/",
+      "timestamp": "20241105190133",
+      "wayback": "https://web.archive.org/web/20241105190133/https://burgess4utah.com/issues/trafficking/",
+      "wayback_raw": "https://web.archive.org/web/20241105190133id_/https://burgess4utah.com/issues/trafficking/",
+      "file": "archive/2024/owens-ut/issues-trafficking.html",
+      "text_file": "archive/2024/owens-ut/issues-trafficking.txt",
+      "bytes": 95874,
+      "sha256_html": "1a0f87e375ddf221433427d5524b3098157c8b30f412ee380c4b7772551dbd61",
+      "sha256_text": "9c2390f0ec57235db04619c8d91e7463d92c499b3241246fd01090a423a7f5b6"
+    },
+    {
+      "original": "https://burgess4utah.com/issues/water/",
+      "timestamp": "20241105190106",
+      "wayback": "https://web.archive.org/web/20241105190106/https://burgess4utah.com/issues/water/",
+      "wayback_raw": "https://web.archive.org/web/20241105190106id_/https://burgess4utah.com/issues/water/",
+      "file": "archive/2024/owens-ut/issues-water.html",
+      "text_file": "archive/2024/owens-ut/issues-water.txt",
+      "bytes": 93946,
+      "sha256_html": "d661ba7aa35e128117e12ce7a42d0ef872c7996e8962feeaaa09c9fe670f361e",
+      "sha256_text": "8df572f299d996637c30de66d25f0846ef55363579746565cbc09e5957d63a11"
+    },
+    {
+      "original": "https://burgess4utah.com/2022/07/21/owens-leads-the-police-radiation-exposure-benefits-act/",
+      "timestamp": "20241105191703",
+      "wayback": "https://web.archive.org/web/20241105191703/https://burgess4utah.com/2022/07/21/owens-leads-the-police-radiation-exposure-benefits-act/",
+      "wayback_raw": "https://web.archive.org/web/20241105191703id_/https://burgess4utah.com/2022/07/21/owens-leads-the-police-radiation-exposure-benefits-act/",
+      "file": "archive/2024/owens-ut/2022-07-21-owens-leads-the-police-radiation-exposure-benefits-act.html",
+      "text_file": "archive/2024/owens-ut/2022-07-21-owens-leads-the-police-radiation-exposure-benefits-act.txt",
+      "bytes": 84312,
+      "sha256_html": "f535f120515d95d874e17937c8734a5109811b3f298ab78f0fdc85b8d9d2b61d",
+      "sha256_text": "91d2bd6618014d7d1a91c47ab98673f2458d9567e30d2b92db14fbda6229cf6b"
+    }
+  ],
+  "snapshots_found": {
+    "burgess4utah.com": 83
+  },
+  "generated_utc": "2026-11-14T16:18:45Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
