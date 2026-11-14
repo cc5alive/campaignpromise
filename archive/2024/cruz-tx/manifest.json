@@ -1,0 +1,28 @@
+{
+  "name": "Ted Cruz",
+  "domains_tried": [
+    "tedcruz.org",
+    "tedcruz.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.tedcruz.org/",
+      "timestamp": "20240910132508",
+      "wayback": "https://web.archive.org/web/20240910132508/https://www.tedcruz.org/",
+      "wayback_raw": "https://web.archive.org/web/20240910132508id_/https://www.tedcruz.org/",
+      "file": "archive/2024/cruz-tx/home.html",
+      "text_file": "archive/2024/cruz-tx/home.txt",
+      "bytes": 490815,
+      "sha256_html": "cf5c3b95391418233d46678eaa566a82313a15966812c6970064e513e5d34f9f",
+      "sha256_text": "e8e48432765480b9728de6007abfd9dae729f99a549652a4376f65db9e10b7f5"
+    }
+  ],
+  "snapshots_found": {
+    "tedcruz.org": 1
+  },
+  "generated_utc": "2026-11-14T15:52:14Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
