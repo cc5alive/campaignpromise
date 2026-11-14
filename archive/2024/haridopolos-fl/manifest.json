@@ -1,0 +1,115 @@
+{
+  "name": "Mike Haridopolos",
+  "domains_tried": [
+    "mike4congress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.mike4congress.com/",
+      "timestamp": "20241105050702",
+      "wayback": "https://web.archive.org/web/20241105050702/https://www.mike4congress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105050702id_/https://www.mike4congress.com/",
+      "file": "archive/2024/haridopolos-fl/home.html",
+      "text_file": "archive/2024/haridopolos-fl/home.txt",
+      "bytes": 956200,
+      "sha256_html": "7532fb4a6da788c179c594d20b76143191f63404d1ca82512219a93bf49ae6b9",
+      "sha256_text": "987fe218073e50ec3e256b333a91ec0b2f33e34ec0322b74615b0269a79caca6"
+    },
+    {
+      "original": "https://www.mike4congress.com/accomplishments",
+      "timestamp": "20241105050759",
+      "wayback": "https://web.archive.org/web/20241105050759/https://www.mike4congress.com/accomplishments",
+      "wayback_raw": "https://web.archive.org/web/20241105050759id_/https://www.mike4congress.com/accomplishments",
+      "file": "archive/2024/haridopolos-fl/accomplishments.html",
+      "text_file": "archive/2024/haridopolos-fl/accomplishments.txt",
+      "bytes": 796497,
+      "sha256_html": "9c8b29dcc74dd370ed158537507ad6161051de6c28ef14e39e458c92a8023c50",
+      "sha256_text": "d13cf06f37a7d91ed3d5d6c6c423cea93bffad8e8224ed417fc7d1771a48dd47"
+    },
+    {
+      "original": "https://www.mike4congress.com/issues",
+      "timestamp": "20241105050759",
+      "wayback": "https://web.archive.org/web/20241105050759/https://www.mike4congress.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105050759id_/https://www.mike4congress.com/issues",
+      "file": "archive/2024/haridopolos-fl/issues.html",
+      "text_file": "archive/2024/haridopolos-fl/issues.txt",
+      "bytes": 833910,
+      "sha256_html": "42604b2c2403e6a41e9b3c7ef8825c26f401971d4cae7ff0e30058365ac735bd",
+      "sha256_text": "0e0b72f17a7b8cc77baf48a37949292980648693398b91dac129d62a43303233"
+    },
+    {
+      "original": "https://www.mike4congress.com/media/accomplishments",
+      "timestamp": "20241101160203",
+      "wayback": "https://web.archive.org/web/20241101160203/https://www.mike4congress.com/media/accomplishments",
+      "wayback_raw": "https://web.archive.org/web/20241101160203id_/https://www.mike4congress.com/media/accomplishments",
+      "file": "archive/2024/haridopolos-fl/media-accomplishments.html",
+      "text_file": "archive/2024/haridopolos-fl/media-accomplishments.txt",
+      "bytes": 1026069,
+      "sha256_html": "e623c0a3411dea9ab735d2eacbf4ab5c5f9e508a1c11ce784a1406d5ceb125a3",
+      "sha256_text": "bb83da2900b4c4f05b351104e4b689b5d5406e4cf608c63bb89acdeab21c00e6"
+    },
+    {
+      "original": "https://www.mike4congress.com/media/issues",
+      "timestamp": "20241101160042",
+      "wayback": "https://web.archive.org/web/20241101160042/https://www.mike4congress.com/media/issues",
+      "wayback_raw": "https://web.archive.org/web/20241101160042id_/https://www.mike4congress.com/media/issues",
+      "file": "archive/2024/haridopolos-fl/media-issues.html",
+      "text_file": "archive/2024/haridopolos-fl/media-issues.txt",
+      "bytes": 1025938,
+      "sha256_html": "99c2d20c5e325208613b6195badff50c13b52e8e25a4d6d47d3ae1e301ddb4bb",
+      "sha256_text": "bb83da2900b4c4f05b351104e4b689b5d5406e4cf608c63bb89acdeab21c00e6"
+    },
+    {
+      "original": "https://www.mike4congress.com/media/media/accomplishments",
+      "timestamp": "20241103010414",
+      "wayback": "https://web.archive.org/web/20241103010414/https://www.mike4congress.com/media/media/accomplishments",
+      "wayback_raw": "https://web.archive.org/web/20241103010414id_/https://www.mike4congress.com/media/media/accomplishments",
+      "file": "archive/2024/haridopolos-fl/media-media-accomplishments.html",
+      "text_file": "archive/2024/haridopolos-fl/media-media-accomplishments.txt",
+      "bytes": 1026123,
+      "sha256_html": "babc1ef8aa62b4cd6fe17bfb264b13cdbc6ffa3d5370e24c0ca28efbafc11100",
+      "sha256_text": "bb83da2900b4c4f05b351104e4b689b5d5406e4cf608c63bb89acdeab21c00e6"
+    },
+    {
+      "original": "https://www.mike4congress.com/media/media/issues",
+      "timestamp": "20241103010209",
+      "wayback": "https://web.archive.org/web/20241103010209/https://www.mike4congress.com/media/media/issues",
+      "wayback_raw": "https://web.archive.org/web/20241103010209id_/https://www.mike4congress.com/media/media/issues",
+      "file": "archive/2024/haridopolos-fl/media-media-issues.html",
+      "text_file": "archive/2024/haridopolos-fl/media-media-issues.txt",
+      "bytes": 1025992,
+      "sha256_html": "a9bb1bc8f8002df4d8b93f7a89c5f63d096afa4346664000bc28d7ed7f70b14d",
+      "sha256_text": "bb83da2900b4c4f05b351104e4b689b5d5406e4cf608c63bb89acdeab21c00e6"
+    },
+    {
+      "original": "https://www.mike4congress.com/media/wix-thunderbolt/dist/accomplishments",
+      "timestamp": "20241102131445",
+      "wayback": "https://web.archive.org/web/20241102131445/https://www.mike4congress.com/media/wix-thunderbolt/dist/accomplishments",
+      "wayback_raw": "https://web.archive.org/web/20241102131445id_/https://www.mike4congress.com/media/wix-thunderbolt/dist/accomplishments",
+      "file": "archive/2024/haridopolos-fl/media-wix-thunderbolt-dist-accomplishments.html",
+      "text_file": "archive/2024/haridopolos-fl/media-wix-thunderbolt-dist-accomplishments.txt",
+      "bytes": 1026249,
+      "sha256_html": "9e4578a6de9c948dbb2b84bc8b398957daec6726138fa0726f37dd9cb62119cf",
+      "sha256_text": "bb83da2900b4c4f05b351104e4b689b5d5406e4cf608c63bb89acdeab21c00e6"
+    },
+    {
+      "original": "https://www.mike4congress.com/media/wix-thunderbolt/dist/issues",
+      "timestamp": "20241102131148",
+      "wayback": "https://web.archive.org/web/20241102131148/https://www.mike4congress.com/media/wix-thunderbolt/dist/issues",
+      "wayback_raw": "https://web.archive.org/web/20241102131148id_/https://www.mike4congress.com/media/wix-thunderbolt/dist/issues",
+      "file": "archive/2024/haridopolos-fl/media-wix-thunderbolt-dist-issues.html",
+      "text_file": "archive/2024/haridopolos-fl/media-wix-thunderbolt-dist-issues.txt",
+      "bytes": 1026177,
+      "sha256_html": "c75154b366005313e32816e3d2965fea82fce45b44070c7282e844761a088666",
+      "sha256_text": "bb83da2900b4c4f05b351104e4b689b5d5406e4cf608c63bb89acdeab21c00e6"
+    }
+  ],
+  "snapshots_found": {
+    "mike4congress.com": 729
+  },
+  "generated_utc": "2026-11-14T16:36:57Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
