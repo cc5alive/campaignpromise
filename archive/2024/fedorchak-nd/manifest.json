@@ -1,0 +1,60 @@
+{
+  "name": "Julie Fedorchak",
+  "domains_tried": [
+    "fedorchaknd.com"
+  ],
+  "pages": [
+    {
+      "original": "https://fedorchaknd.com/",
+      "timestamp": "20241105213109",
+      "wayback": "https://web.archive.org/web/20241105213109/https://fedorchaknd.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105213109id_/https://fedorchaknd.com/",
+      "file": "archive/2024/fedorchak-nd/home.html",
+      "text_file": "archive/2024/fedorchak-nd/home.txt",
+      "bytes": 94925,
+      "sha256_html": "aa651a2aa7fdecfe2d1496ccaafc9395e1a79461f12e14185ec61db30baeca9e",
+      "sha256_text": "2170c225450f71318151462d69a2daa74bd79f3958d7eccc678b721cd1aa64af"
+    },
+    {
+      "original": "https://fedorchaknd.com/issues/",
+      "timestamp": "20241105212814",
+      "wayback": "https://web.archive.org/web/20241105212814/https://fedorchaknd.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105212814id_/https://fedorchaknd.com/issues/",
+      "file": "archive/2024/fedorchak-nd/issues.html",
+      "text_file": "archive/2024/fedorchak-nd/issues.txt",
+      "bytes": 68868,
+      "sha256_html": "843231cf6e6cabc7d698741b52d590ce451b72840c420c1d7045caf58bfe018b",
+      "sha256_text": "03a4b74b8d4305735f253d6d0b874a92d5a5ab2ae20e1ec24ce6b7efb58366be"
+    },
+    {
+      "original": "https://fedorchaknd.com/issues/embed/",
+      "timestamp": "20241103024202",
+      "wayback": "https://web.archive.org/web/20241103024202/https://fedorchaknd.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241103024202id_/https://fedorchaknd.com/issues/embed/",
+      "file": "archive/2024/fedorchak-nd/issues-embed.html",
+      "text_file": "archive/2024/fedorchak-nd/issues-embed.txt",
+      "bytes": 19696,
+      "sha256_html": "bc7edf840f9a1135c625a268c6bb574b57726642fcc0ff7821d0f2e5e963e57e",
+      "sha256_text": "1f6a7cfb951b0267e3f4e77e17c6a50298d6a146131ca65794e437d6d2a03210"
+    },
+    {
+      "original": "https://fedorchaknd.com/about/",
+      "timestamp": "20241105212320",
+      "wayback": "https://web.archive.org/web/20241105212320/https://fedorchaknd.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105212320id_/https://fedorchaknd.com/about/",
+      "file": "archive/2024/fedorchak-nd/about.html",
+      "text_file": "archive/2024/fedorchak-nd/about.txt",
+      "bytes": 79688,
+      "sha256_html": "ed57cc2c36ae9fcc4fc2abe1a0500dd704ef10fe1eb3c20fd1bb4946dde48c14",
+      "sha256_text": "d89b03b0129bdb265b015edd9d3c25e809284e6815513d6ed49aa60bde26f1cf"
+    }
+  ],
+  "snapshots_found": {
+    "fedorchaknd.com": 36
+  },
+  "generated_utc": "2026-11-14T16:43:05Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
