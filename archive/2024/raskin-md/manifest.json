@@ -1,0 +1,27 @@
+{
+  "name": "Jamie Raskin",
+  "domains_tried": [
+    "jamieraskin.com"
+  ],
+  "pages": [
+    {
+      "original": "https://jamieraskin.com/",
+      "timestamp": "20241105152759",
+      "wayback": "https://web.archive.org/web/20241105152759/https://jamieraskin.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105152759id_/https://jamieraskin.com/",
+      "file": "archive/2024/raskin-md/home.html",
+      "text_file": "archive/2024/raskin-md/home.txt",
+      "bytes": 140039,
+      "sha256_html": "d7487a972c83d88af504285b95ba307f174c63235b0618c8fd105ecb2090af39",
+      "sha256_text": "4f45479c07e340855825d82030b0213051b95108904f9c572a5865d05e3b071d"
+    }
+  ],
+  "snapshots_found": {
+    "jamieraskin.com": 1162
+  },
+  "generated_utc": "2026-11-14T16:08:32Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
