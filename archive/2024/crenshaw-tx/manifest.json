@@ -1,0 +1,50 @@
+{
+  "name": "Dan Crenshaw",
+  "domains_tried": [
+    "crenshawforcongress.com",
+    "dancrenshaw.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.crenshawforcongress.com/",
+      "timestamp": "20241105185358",
+      "wayback": "https://web.archive.org/web/20241105185358/https://www.crenshawforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105185358id_/https://www.crenshawforcongress.com/",
+      "file": "archive/2024/crenshaw-tx/home.html",
+      "text_file": "archive/2024/crenshaw-tx/home.txt",
+      "bytes": 570687,
+      "sha256_html": "f9c397ba55adb3ed5216f1c6ef1f5b844afc8e84e7409e7501da349335d31add",
+      "sha256_text": "9bff984af23884e5b03198d8a9d1b69737d1843dbcecc806bef6a371e7cf8595"
+    },
+    {
+      "original": "https://www.crenshawforcongress.com/issues",
+      "timestamp": "20241105185330",
+      "wayback": "https://web.archive.org/web/20241105185330/https://www.crenshawforcongress.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105185330id_/https://www.crenshawforcongress.com/issues",
+      "file": "archive/2024/crenshaw-tx/issues.html",
+      "text_file": "archive/2024/crenshaw-tx/issues.txt",
+      "bytes": 492773,
+      "sha256_html": "931e96ab5021cd343e47e93e2fc10c2dfc24361c9ec47e1e4ec691663b8604ed",
+      "sha256_text": "0676bbd6f2597851033f3af6f4411e67c663d21207f7028dd626bacbc2f7d07f"
+    },
+    {
+      "original": "https://www.crenshawforcongress.com/about",
+      "timestamp": "20241105185322",
+      "wayback": "https://web.archive.org/web/20241105185322/https://www.crenshawforcongress.com/about",
+      "wayback_raw": "https://web.archive.org/web/20241105185322id_/https://www.crenshawforcongress.com/about",
+      "file": "archive/2024/crenshaw-tx/about.html",
+      "text_file": "archive/2024/crenshaw-tx/about.txt",
+      "bytes": 458181,
+      "sha256_html": "a9213533aa3fdfa4478bf8fd037c14ea87f37e81947b6ff8b289f295303d6e8b",
+      "sha256_text": "9dad82b407f0ecb037ac23bb5a5fbe3a0d7ca4e4cd1fbba00423f0e770fc4192"
+    }
+  ],
+  "snapshots_found": {
+    "crenshawforcongress.com": 7
+  },
+  "generated_utc": "2026-11-14T16:08:51Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
