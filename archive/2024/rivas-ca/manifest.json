@@ -1,0 +1,38 @@
+{
+  "name": "Luz M. Rivas",
+  "domains_tried": [
+    "luzforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.luzforcongress.com/",
+      "timestamp": "20241105133558",
+      "wayback": "https://web.archive.org/web/20241105133558/https://www.luzforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105133558id_/https://www.luzforcongress.com/",
+      "file": "archive/2024/rivas-ca/home.html",
+      "text_file": "archive/2024/rivas-ca/home.txt",
+      "bytes": 393926,
+      "sha256_html": "28b9b87cf704e80cd6765c0b407865aa26391ea61f488ee7e3ffb78de90afb79",
+      "sha256_text": "44a61427e85024668062e54222858643f1770615c69c128df24b043ddaf8e35d"
+    },
+    {
+      "original": "https://www.luzforcongress.com/about",
+      "timestamp": "20241105133359",
+      "wayback": "https://web.archive.org/web/20241105133359/https://www.luzforcongress.com/about",
+      "wayback_raw": "https://web.archive.org/web/20241105133359id_/https://www.luzforcongress.com/about",
+      "file": "archive/2024/rivas-ca/about.html",
+      "text_file": "archive/2024/rivas-ca/about.txt",
+      "bytes": 296508,
+      "sha256_html": "15cfa4ca8872d33e3b1922224a1320a4cd53172bbaa9562fadcefe5c419400a2",
+      "sha256_text": "a7deae07d8da80f37d1df58ecd78d9ca8a3f0f2c46b5305bc6d33fa4799e2a66"
+    }
+  ],
+  "snapshots_found": {
+    "luzforcongress.com": 8
+  },
+  "generated_utc": "2026-11-14T16:50:41Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
