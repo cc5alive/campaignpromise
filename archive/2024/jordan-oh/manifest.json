@@ -1,0 +1,27 @@
+{
+  "name": "Jim Jordan",
+  "domains_tried": [
+    "jimjordanforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.jimjordanforcongress.com/",
+      "timestamp": "20241105093433",
+      "wayback": "https://web.archive.org/web/20241105093433/https://www.jimjordanforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105093433id_/https://www.jimjordanforcongress.com/",
+      "file": "archive/2024/jordan-oh/home.html",
+      "text_file": "archive/2024/jordan-oh/home.txt",
+      "bytes": 79449,
+      "sha256_html": "e3aad2fa292b715010333daa6fe5c4dbc17258466b0c3292cb20cf3a5ab89a25",
+      "sha256_text": "d416551fa689623288b4cf9dcfbf694f11c2eb462509d977413953dc22bdfccf"
+    }
+  ],
+  "snapshots_found": {
+    "jimjordanforcongress.com": 10
+  },
+  "generated_utc": "2026-11-14T08:23:54Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
