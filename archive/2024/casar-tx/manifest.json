@@ -1,0 +1,38 @@
+{
+  "name": "Greg Casar",
+  "domains_tried": [
+    "casarforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.casarforcongress.com/",
+      "timestamp": "20241105204321",
+      "wayback": "https://web.archive.org/web/20241105204321/https://www.casarforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105204321id_/https://www.casarforcongress.com/",
+      "file": "archive/2024/casar-tx/home.html",
+      "text_file": "archive/2024/casar-tx/home.txt",
+      "bytes": 1442375,
+      "sha256_html": "1f4edca942c54197678d153b7ff14f2198396ca225967d5be5e391bf7ec6a988",
+      "sha256_text": "7777e948b5fd5f12c2b7a4765d17e95c47aa229aef78fae48656c6d19da6a380"
+    },
+    {
+      "original": "https://www.casarforcongress.com/issues",
+      "timestamp": "20241105203718",
+      "wayback": "https://web.archive.org/web/20241105203718/https://www.casarforcongress.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105203718id_/https://www.casarforcongress.com/issues",
+      "file": "archive/2024/casar-tx/issues.html",
+      "text_file": "archive/2024/casar-tx/issues.txt",
+      "bytes": 603298,
+      "sha256_html": "a3f305d221dbba3f809ba66fedcb33e9ec131af8fe0eaf2dee3cd5bda6a5691a",
+      "sha256_text": "ab7579a9aeeac4fa6635e427c25f19a2d2cd99a87bd839c73b4394ad0f32a732"
+    }
+  ],
+  "snapshots_found": {
+    "casarforcongress.com": 10
+  },
+  "generated_utc": "2026-11-14T08:52:42Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
