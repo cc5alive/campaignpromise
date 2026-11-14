@@ -1,0 +1,148 @@
+{
+  "name": "Jacky Rosen",
+  "domains_tried": [
+    "rosenfornevada.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.rosenfornevada.com/",
+      "timestamp": "20241101171942",
+      "wayback": "https://web.archive.org/web/20241101171942/https://www.rosenfornevada.com/",
+      "wayback_raw": "https://web.archive.org/web/20241101171942id_/https://www.rosenfornevada.com/",
+      "file": "archive/2024/rosen-nv/home.html",
+      "text_file": "archive/2024/rosen-nv/home.txt",
+      "bytes": 58795,
+      "sha256_html": "aca9b6b06270c8b9cf4a906e9f6214d85a0b0dd9da76be2556dd60cc2b0896bc",
+      "sha256_text": "986c8a13a140a6caea4b753ae19d48ffd2b8fdedf3a619ea46021da00b0ee7de"
+    },
+    {
+      "original": "https://www.rosenfornevada.com/issues/",
+      "timestamp": "20241027214020",
+      "wayback": "https://web.archive.org/web/20241027214020/https://www.rosenfornevada.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241027214020id_/https://www.rosenfornevada.com/issues/",
+      "file": "archive/2024/rosen-nv/issues.html",
+      "text_file": "archive/2024/rosen-nv/issues.txt",
+      "bytes": 72787,
+      "sha256_html": "a42071ed3c65b8808fe81c79bc2c7b4e4a77be212b1f92f6e4c21b2121568461",
+      "sha256_text": "85d9610cc3657f0b043bb6ef69b064ed5649dedb40f1bdfc1abd6554989cf44f"
+    },
+    {
+      "original": "https://www.rosenfornevada.com/issue/climate-change/",
+      "timestamp": "20241028092428",
+      "wayback": "https://web.archive.org/web/20241028092428/https://www.rosenfornevada.com/issue/climate-change/",
+      "wayback_raw": "https://web.archive.org/web/20241028092428id_/https://www.rosenfornevada.com/issue/climate-change/",
+      "file": "archive/2024/rosen-nv/issue-climate-change.html",
+      "text_file": "archive/2024/rosen-nv/issue-climate-change.txt",
+      "bytes": 48032,
+      "sha256_html": "4ab884ead420f608ced52bba0bab4a35c60f5d2d751c81d05b1081d13311ea5e",
+      "sha256_text": "42ff29c10558bbeeed59ccbd216e0ab18e9fd963a0013cb3dce5ae25e912d363"
+    },
+    {
+      "original": "https://www.rosenfornevada.com/issue/democracy/",
+      "timestamp": "20240917182807",
+      "wayback": "https://web.archive.org/web/20240917182807/https://www.rosenfornevada.com/issue/democracy/",
+      "wayback_raw": "https://web.archive.org/web/20240917182807id_/https://www.rosenfornevada.com/issue/democracy/",
+      "file": "archive/2024/rosen-nv/issue-democracy.html",
+      "text_file": "archive/2024/rosen-nv/issue-democracy.txt",
+      "bytes": 46603,
+      "sha256_html": "0e6edb38d8b568ffcb3ea7c028646ea79c65e320ef78f6c636c8cefbac7117c3",
+      "sha256_text": "1f88ac33df7feb4bd3a58e734a7884016691b857a5dc91e4b155f48865ce5c94"
+    },
+    {
+      "original": "https://www.rosenfornevada.com/issue/education/",
+      "timestamp": "20240917175734",
+      "wayback": "https://web.archive.org/web/20240917175734/https://www.rosenfornevada.com/issue/education/",
+      "wayback_raw": "https://web.archive.org/web/20240917175734id_/https://www.rosenfornevada.com/issue/education/",
+      "file": "archive/2024/rosen-nv/issue-education.html",
+      "text_file": "archive/2024/rosen-nv/issue-education.txt",
+      "bytes": 46853,
+      "sha256_html": "5533572869d8fe56280f86a27b56b745d2a4693ddcf78ce580a93ffa64910066",
+      "sha256_text": "a0affe5ec44f3c9e464506a68841f8adee40d42a73cefcab8cba8fc24c12e772"
+    },
+    {
+      "original": "https://www.rosenfornevada.com/issue/gun-violence/",
+      "timestamp": "20241027184708",
+      "wayback": "https://web.archive.org/web/20241027184708/https://www.rosenfornevada.com/issue/gun-violence/",
+      "wayback_raw": "https://web.archive.org/web/20241027184708id_/https://www.rosenfornevada.com/issue/gun-violence/",
+      "file": "archive/2024/rosen-nv/issue-gun-violence.html",
+      "text_file": "archive/2024/rosen-nv/issue-gun-violence.txt",
+      "bytes": 46743,
+      "sha256_html": "9fc5351c6d069ff96b3af49e40cbf0d562e1e039aee65124313ec06890da54a7",
+      "sha256_text": "e1bc049a26e6eff59854c44ad5a785cfecbd554559796904d8bce7cf579aa12a"
+    },
+    {
+      "original": "https://www.rosenfornevada.com/issue/healthcare/",
+      "timestamp": "20241027184657",
+      "wayback": "https://web.archive.org/web/20241027184657/https://www.rosenfornevada.com/issue/healthcare/",
+      "wayback_raw": "https://web.archive.org/web/20241027184657id_/https://www.rosenfornevada.com/issue/healthcare/",
+      "file": "archive/2024/rosen-nv/issue-healthcare.html",
+      "text_file": "archive/2024/rosen-nv/issue-healthcare.txt",
+      "bytes": 46801,
+      "sha256_html": "874f39394d68a978f8013cc3bbad5df1a14e4420e155f78ea52cf3760524c152",
+      "sha256_text": "a5a69c42cbdfc9799f59f25617ca49f79254f3b26bc9ca6c4d31a16831fcfeac"
+    },
+    {
+      "original": "https://www.rosenfornevada.com/issue/housing/",
+      "timestamp": "20241008021127",
+      "wayback": "https://web.archive.org/web/20241008021127/https://www.rosenfornevada.com/issue/housing/",
+      "wayback_raw": "https://web.archive.org/web/20241008021127id_/https://www.rosenfornevada.com/issue/housing/",
+      "file": "archive/2024/rosen-nv/issue-housing.html",
+      "text_file": "archive/2024/rosen-nv/issue-housing.txt",
+      "bytes": 46633,
+      "sha256_html": "8c87f17fba5971f40471a8f7b25996592c5c602d7dfdf9dcbd31c58f93205804",
+      "sha256_text": "7dc450ca8a001c5ce9789f8caa1c77cf24ae86214c2803cbc4c9dd360f8006dc"
+    },
+    {
+      "original": "https://www.rosenfornevada.com/issue/immigration/",
+      "timestamp": "20241027184707",
+      "wayback": "https://web.archive.org/web/20241027184707/https://www.rosenfornevada.com/issue/immigration/",
+      "wayback_raw": "https://web.archive.org/web/20241027184707id_/https://www.rosenfornevada.com/issue/immigration/",
+      "file": "archive/2024/rosen-nv/issue-immigration.html",
+      "text_file": "archive/2024/rosen-nv/issue-immigration.txt",
+      "bytes": 47504,
+      "sha256_html": "acddf99929e566f0bc0e36ee0b89cba201ea2f60942e942ff68a76c5f2aba8e6",
+      "sha256_text": "7534e55141ca0433f6f3aa2d9918f844fd0545379ac5b872450144bc110fe2d4"
+    },
+    {
+      "original": "https://www.rosenfornevada.com/issue/israel/",
+      "timestamp": "20241004075130",
+      "wayback": "https://web.archive.org/web/20241004075130/https://www.rosenfornevada.com/issue/israel/",
+      "wayback_raw": "https://web.archive.org/web/20241004075130id_/https://www.rosenfornevada.com/issue/israel/",
+      "file": "archive/2024/rosen-nv/issue-israel.html",
+      "text_file": "archive/2024/rosen-nv/issue-israel.txt",
+      "bytes": 47408,
+      "sha256_html": "70ef386571b513fad465b8714f66b476786d16cdda467a940abfe711234c9310",
+      "sha256_text": "9846b8568f9b9f82036cbb37d535e5e870815b57e4c26d5363a8466c46551cce"
+    },
+    {
+      "original": "https://www.rosenfornevada.com/issue/law-enforcement/",
+      "timestamp": "20241027184645",
+      "wayback": "https://web.archive.org/web/20241027184645/https://www.rosenfornevada.com/issue/law-enforcement/",
+      "wayback_raw": "https://web.archive.org/web/20241027184645id_/https://www.rosenfornevada.com/issue/law-enforcement/",
+      "file": "archive/2024/rosen-nv/issue-law-enforcement.html",
+      "text_file": "archive/2024/rosen-nv/issue-law-enforcement.txt",
+      "bytes": 48046,
+      "sha256_html": "7bf4a517d9b601c883b70ef46a2b6f157879cf9c120c5e53546fad691e24aa79",
+      "sha256_text": "c78ecbcd20d9d9937b816072d233f5c0d4275e94c3ec7a439a8d825061227400"
+    },
+    {
+      "original": "https://www.rosenfornevada.com/issue/lgbtq/",
+      "timestamp": "20240917201227",
+      "wayback": "https://web.archive.org/web/20240917201227/https://www.rosenfornevada.com/issue/lgbtq/",
+      "wayback_raw": "https://web.archive.org/web/20240917201227id_/https://www.rosenfornevada.com/issue/lgbtq/",
+      "file": "archive/2024/rosen-nv/issue-lgbtq.html",
+      "text_file": "archive/2024/rosen-nv/issue-lgbtq.txt",
+      "bytes": 46225,
+      "sha256_html": "734675a85b39922d901b531d4625698598797670b823a0084905810e71fd98d9",
+      "sha256_text": "01410aab9fdff1db705f5ebd97c30c0b412fb448b6a8e10a257563f630ae8f1b"
+    }
+  ],
+  "snapshots_found": {
+    "rosenfornevada.com": 49
+  },
+  "generated_utc": "2026-11-14T15:49:08Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
