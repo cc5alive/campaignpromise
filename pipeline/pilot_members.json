@@ -1,0 +1,16 @@
+{
+  "_note": "Pilot members for promise scoring. Domains are candidate 2024 campaign sites to look up in the Wayback Machine; the archiver keeps whichever have snapshots from Aug 1 to Nov 5, 2024.",
+  "window": {"from": "20240801", "to": "20241105"},
+  "members": [
+    {"key": "moreno",  "bioguide": "M001242", "name": "Bernie Moreno",          "party": "R", "chamber": "Senate", "state": "OH", "domains": ["berniemoreno.com"]},
+    {"key": "curtis",  "bioguide": "C001114", "name": "John Curtis",            "party": "R", "chamber": "Senate", "state": "UT", "domains": ["johncurtis.org"]},
+    {"key": "warren",  "bioguide": "W000817", "name": "Elizabeth Warren",       "party": "D", "chamber": "Senate", "state": "MA", "domains": ["elizabethwarren.com"]},
+    {"key": "gallego", "bioguide": "G000574", "name": "Ruben Gallego",          "party": "D", "chamber": "Senate", "state": "AZ", "domains": ["gallegoforarizona.com", "rubengallego.com"]},
+    {"key": "massie",  "bioguide": "M001184", "name": "Thomas Massie",          "party": "R", "chamber": "House",  "state": "KY", "domains": ["thomasmassie.com", "massieforcongress.com"]},
+    {"key": "lawler",  "bioguide": "L000599", "name": "Mike Lawler",            "party": "R", "chamber": "House",  "state": "NY", "domains": ["mikelawler.com", "lawlerforcongress.com", "lawlerforny.com"]},
+    {"key": "salazar", "bioguide": "S000168", "name": "Maria Elvira Salazar",   "party": "R", "chamber": "House",  "state": "FL", "domains": ["mariaelvirasalazar.com"]},
+    {"key": "aoc",     "bioguide": "O000172", "name": "Alexandria Ocasio-Cortez","party": "D", "chamber": "House",  "state": "NY", "domains": ["ocasiocortez.com"]},
+    {"key": "torres",  "bioguide": "T000486", "name": "Ritchie Torres",         "party": "D", "chamber": "House",  "state": "NY", "domains": ["ritchietorres.com", "torres.nyc", "ritchietorresforcongress.com"]},
+    {"key": "mgp",     "bioguide": "G000600", "name": "Marie Gluesenkamp Perez","party": "D", "chamber": "House",  "state": "WA", "domains": ["marieforcongress.com"]}
+  ]
+}

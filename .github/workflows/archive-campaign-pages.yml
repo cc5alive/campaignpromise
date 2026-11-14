@@ -1,0 +1,37 @@
+name: Archive 2024 campaign pages
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "pipeline/archive_campaign_pages.py"
+      - "pipeline/pilot_members.json"
+      - ".github/workflows/archive-campaign-pages.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: archive-campaign-pages
+  cancel-in-progress: false
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests==2.32.3 beautifulsoup4==4.12.3
+      - run: python pipeline/archive_campaign_pages.py
+      - name: Commit archive
+        run: |
+          git config user.name "campaignpromise-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add archive
+          git commit -m "Archive 2024 campaign pages for pilot members" || echo "Nothing new to commit"
+          git pull --rebase origin main
+          git push origin HEAD:main
