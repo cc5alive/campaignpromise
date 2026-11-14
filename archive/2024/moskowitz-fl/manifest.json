@@ -1,0 +1,49 @@
+{
+  "name": "Jared Moskowitz",
+  "domains_tried": [
+    "jaredforflorida.com"
+  ],
+  "pages": [
+    {
+      "original": "https://jaredforflorida.com/",
+      "timestamp": "20241105141533",
+      "wayback": "https://web.archive.org/web/20241105141533/https://jaredforflorida.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105141533id_/https://jaredforflorida.com/",
+      "file": "archive/2024/moskowitz-fl/home.html",
+      "text_file": "archive/2024/moskowitz-fl/home.txt",
+      "bytes": 171535,
+      "sha256_html": "c9a3b6bb2248c97e04ee239cb498722a215d5497769333383c019134b2a07444",
+      "sha256_text": "378d819c1544e2963686bfc89c174f3d592a7cb609f1946096fe128a0e75d293"
+    },
+    {
+      "original": "https://jaredforflorida.com/issues/",
+      "timestamp": "20241105141803",
+      "wayback": "https://web.archive.org/web/20241105141803/https://jaredforflorida.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105141803id_/https://jaredforflorida.com/issues/",
+      "file": "archive/2024/moskowitz-fl/issues.html",
+      "text_file": "archive/2024/moskowitz-fl/issues.txt",
+      "bytes": 171105,
+      "sha256_html": "a10cec158284752a79684fd5b0f4cf0a5ba9ca7c69050deeb49cbeb3a9b50340",
+      "sha256_text": "f7a81339b171c043da1f1108e69fb6e1fa995dcc30b5c9d272c825c3e863c494"
+    },
+    {
+      "original": "https://jaredforflorida.com/issues/embed/",
+      "timestamp": "20241104203728",
+      "wayback": "https://web.archive.org/web/20241104203728/https://jaredforflorida.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241104203728id_/https://jaredforflorida.com/issues/embed/",
+      "file": "archive/2024/moskowitz-fl/issues-embed.html",
+      "text_file": "archive/2024/moskowitz-fl/issues-embed.txt",
+      "bytes": 20950,
+      "sha256_html": "ad1910697168f94eef329c16094b11321e855d17b8765db1dcccef05f653cba0",
+      "sha256_text": "60e7b2c8628b7029987546c11e305a65727f68e176645777f1c0f85f23f786f8"
+    }
+  ],
+  "snapshots_found": {
+    "jaredforflorida.com": 35
+  },
+  "generated_utc": "2026-11-14T08:47:56Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
