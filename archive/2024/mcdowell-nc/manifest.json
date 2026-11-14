@@ -1,0 +1,38 @@
+{
+  "name": "Addison P. McDowell",
+  "domains_tried": [
+    "mcdowellfornc.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.mcdowellfornc.com/",
+      "timestamp": "20241105153439",
+      "wayback": "https://web.archive.org/web/20241105153439/https://www.mcdowellfornc.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105153439id_/https://www.mcdowellfornc.com/",
+      "file": "archive/2024/mcdowell-nc/home.html",
+      "text_file": "archive/2024/mcdowell-nc/home.txt",
+      "bytes": 214493,
+      "sha256_html": "2641cba1f62c33246bf3612cc1fdc710d43773f8b41639ec46cbf7f45bdd162e",
+      "sha256_text": "22d9233e4b714e3f6f8dc3bdd36fc5abb6320c9b2e5dc5bc0aae9e350ac6d859"
+    },
+    {
+      "original": "https://www.mcdowellfornc.com/issues",
+      "timestamp": "20241105153511",
+      "wayback": "https://web.archive.org/web/20241105153511/https://www.mcdowellfornc.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105153511id_/https://www.mcdowellfornc.com/issues",
+      "file": "archive/2024/mcdowell-nc/issues.html",
+      "text_file": "archive/2024/mcdowell-nc/issues.txt",
+      "bytes": 138112,
+      "sha256_html": "1c8ca70b72e93eb5938c6c6f3110efc06b2585bdd599be881b30dcdbf382e4ac",
+      "sha256_text": "26900137f36dfd7fa943214f3612ea3853bf0693e30577c31b902b68a01b0d16"
+    }
+  ],
+  "snapshots_found": {
+    "mcdowellfornc.com": 16
+  },
+  "generated_utc": "2026-11-14T16:39:08Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
