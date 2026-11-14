@@ -1,0 +1,71 @@
+{
+  "name": "Herbert C. Conaway, Jr.",
+  "domains_tried": [
+    "herbforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.herbforcongress.com/",
+      "timestamp": "20241105113159",
+      "wayback": "https://web.archive.org/web/20241105113159/https://www.herbforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105113159id_/https://www.herbforcongress.com/",
+      "file": "archive/2024/conaway-nj/home.html",
+      "text_file": "archive/2024/conaway-nj/home.txt",
+      "bytes": 388544,
+      "sha256_html": "cd6a2e0976b3ad476ea869b38f21f86312f6223560cdee0de66c504e6bf25b0d",
+      "sha256_text": "aa0c94a84047f3422df49de79139f14985e568de5126b552b7fc557b025b848f"
+    },
+    {
+      "original": "https://www.herbforcongress.com/issues",
+      "timestamp": "20241105113213",
+      "wayback": "https://web.archive.org/web/20241105113213/https://www.herbforcongress.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105113213id_/https://www.herbforcongress.com/issues",
+      "file": "archive/2024/conaway-nj/issues.html",
+      "text_file": "archive/2024/conaway-nj/issues.txt",
+      "bytes": 371470,
+      "sha256_html": "6b573cbcfa3fee1859843a2ff4e71093958ab313cde5be2d89fd2493414c5404",
+      "sha256_text": "051b695f1357bdfe5b54a5f5281f6217a8762106d36634ef217b8ba982359b39"
+    },
+    {
+      "original": "https://www.herbforcongress.com/media/issues",
+      "timestamp": "20241031224417",
+      "wayback": "https://web.archive.org/web/20241031224417/https://www.herbforcongress.com/media/issues",
+      "wayback_raw": "https://web.archive.org/web/20241031224417id_/https://www.herbforcongress.com/media/issues",
+      "file": "archive/2024/conaway-nj/media-issues.html",
+      "text_file": "archive/2024/conaway-nj/media-issues.txt",
+      "bytes": 661329,
+      "sha256_html": "8d4fd1fffe89b23d4ce6424641e4855a6b4a3e552f7bced0059117645685a3fe",
+      "sha256_text": "f7fcd79c5275a37e37f88874407add690d21be6cf7ea8764c4da429053e01e10"
+    },
+    {
+      "original": "https://www.herbforcongress.com/media/media/issues",
+      "timestamp": "20241101115933",
+      "wayback": "https://web.archive.org/web/20241101115933/https://www.herbforcongress.com/media/media/issues",
+      "wayback_raw": "https://web.archive.org/web/20241101115933id_/https://www.herbforcongress.com/media/media/issues",
+      "file": "archive/2024/conaway-nj/media-media-issues.html",
+      "text_file": "archive/2024/conaway-nj/media-media-issues.txt",
+      "bytes": 661383,
+      "sha256_html": "2a0e6e9222eda4fd82b15fbcf9bb108226ae172385654cbf26ef09e135b748c8",
+      "sha256_text": "f7fcd79c5275a37e37f88874407add690d21be6cf7ea8764c4da429053e01e10"
+    },
+    {
+      "original": "https://www.herbforcongress.com/media/wix-thunderbolt/dist/issues",
+      "timestamp": "20241101014452",
+      "wayback": "https://web.archive.org/web/20241101014452/https://www.herbforcongress.com/media/wix-thunderbolt/dist/issues",
+      "wayback_raw": "https://web.archive.org/web/20241101014452id_/https://www.herbforcongress.com/media/wix-thunderbolt/dist/issues",
+      "file": "archive/2024/conaway-nj/media-wix-thunderbolt-dist-issues.html",
+      "text_file": "archive/2024/conaway-nj/media-wix-thunderbolt-dist-issues.txt",
+      "bytes": 661509,
+      "sha256_html": "4f4ba2a9a5f04c023b1125952ff785d781cace1076b2283e442681bfaad25191",
+      "sha256_text": "f7fcd79c5275a37e37f88874407add690d21be6cf7ea8764c4da429053e01e10"
+    }
+  ],
+  "snapshots_found": {
+    "herbforcongress.com": 947
+  },
+  "generated_utc": "2026-11-14T16:56:27Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
