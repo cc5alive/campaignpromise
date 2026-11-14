@@ -1,0 +1,82 @@
+{
+  "name": "Kat Cammack",
+  "domains_tried": [
+    "katforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://katforcongress.com/",
+      "timestamp": "20241105100246",
+      "wayback": "https://web.archive.org/web/20241105100246/https://katforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105100246id_/https://katforcongress.com/",
+      "file": "archive/2024/cammack-fl/home.html",
+      "text_file": "archive/2024/cammack-fl/home.txt",
+      "bytes": 12414,
+      "sha256_html": "9f1fcf53e32b5ee607d28046fa17cce3962729782996e02c746abfc09f116db9",
+      "sha256_text": "a701662a625c87011b955a82ee30586fb6124f74e7ebc88dc8734d4ec22678f9"
+    },
+    {
+      "original": "https://katforcongress.com/accomplishments/",
+      "timestamp": "20241105100256",
+      "wayback": "https://web.archive.org/web/20241105100256/https://katforcongress.com/accomplishments/",
+      "wayback_raw": "https://web.archive.org/web/20241105100256id_/https://katforcongress.com/accomplishments/",
+      "file": "archive/2024/cammack-fl/accomplishments.html",
+      "text_file": "archive/2024/cammack-fl/accomplishments.txt",
+      "bytes": 19392,
+      "sha256_html": "8191a217d655028c795ad1421e77504a8cd94e49aca4182ba44205dae506ecd4",
+      "sha256_text": "5826e147989045273c88d737b35d590394ecf5bd86b088eb41c0fc76ca001af4"
+    },
+    {
+      "original": "https://katforcongress.com/policies/",
+      "timestamp": "20241105100301",
+      "wayback": "https://web.archive.org/web/20241105100301/https://katforcongress.com/policies/",
+      "wayback_raw": "https://web.archive.org/web/20241105100301id_/https://katforcongress.com/policies/",
+      "file": "archive/2024/cammack-fl/policies.html",
+      "text_file": "archive/2024/cammack-fl/policies.txt",
+      "bytes": 8120,
+      "sha256_html": "fe03459485a0886886c212fb58bca4965fa24332fc0088f1cc334c721f666160",
+      "sha256_text": "a871ca5b8049899f2e38af2f081b93ee38c8994c3fd353df99ffad58a262fa87"
+    },
+    {
+      "original": "https://katforcongress.com/updates/florida-republican-insists-prioritizing-border-security-over-foreign-aid-non-negotiable/",
+      "timestamp": "20241105100307",
+      "wayback": "https://web.archive.org/web/20241105100307/https://katforcongress.com/updates/florida-republican-insists-prioritizing-border-security-over-foreign-aid-non-negotiable/",
+      "wayback_raw": "https://web.archive.org/web/20241105100307id_/https://katforcongress.com/updates/florida-republican-insists-prioritizing-border-security-over-foreign-aid-non-negotiable/",
+      "file": "archive/2024/cammack-fl/updates-florida-republican-insists-prioritizing-border-security-over-foreign-aid-non-negotiable.html",
+      "text_file": "archive/2024/cammack-fl/updates-florida-republican-insists-prioritizing-border-security-over-foreign-aid-non-negotiable.txt",
+      "bytes": 9052,
+      "sha256_html": "4846cd8210822d0fed8176834be8488c3c12787dd49988f3d04406f1058d5219",
+      "sha256_text": "0677fbca6e6f0e8724cac3d5c52cf5abeef0cee4ae81d10fa5910e050e7520ef"
+    },
+    {
+      "original": "https://katforcongress.com/updates/gop-planning-bill-curb-silent-killer-american-dream-federal-regulations/",
+      "timestamp": "20241105100257",
+      "wayback": "https://web.archive.org/web/20241105100257/https://katforcongress.com/updates/gop-planning-bill-curb-silent-killer-american-dream-federal-regulations/",
+      "wayback_raw": "https://web.archive.org/web/20241105100257id_/https://katforcongress.com/updates/gop-planning-bill-curb-silent-killer-american-dream-federal-regulations/",
+      "file": "archive/2024/cammack-fl/updates-gop-planning-bill-curb-silent-killer-american-dream-federal-regulations.html",
+      "text_file": "archive/2024/cammack-fl/updates-gop-planning-bill-curb-silent-killer-american-dream-federal-regulations.txt",
+      "bytes": 6531,
+      "sha256_html": "95dc211a9a62e7097b28f8812571a8836679b0f3197454a460d0d1a570188b39",
+      "sha256_text": "cb0be5932a7ed9fc156b8d42a87d3ddf240f85f99eb41d3f47c18965c03fd2a0"
+    },
+    {
+      "original": "https://katforcongress.com/updates/rep-kat-cammack-recieves-outstanding-new-member-of-congress-award/",
+      "timestamp": "20241105100300",
+      "wayback": "https://web.archive.org/web/20241105100300/https://katforcongress.com/updates/rep-kat-cammack-recieves-outstanding-new-member-of-congress-award/",
+      "wayback_raw": "https://web.archive.org/web/20241105100300id_/https://katforcongress.com/updates/rep-kat-cammack-recieves-outstanding-new-member-of-congress-award/",
+      "file": "archive/2024/cammack-fl/updates-rep-kat-cammack-recieves-outstanding-new-member-of-congress-award.html",
+      "text_file": "archive/2024/cammack-fl/updates-rep-kat-cammack-recieves-outstanding-new-member-of-congress-award.txt",
+      "bytes": 6453,
+      "sha256_html": "dc4460dd9bdb732992598b8fc8e7ed918bbdf4feece5fa057e194cc79107aceb",
+      "sha256_text": "5e0677062ca6e262b06ba0ccb049c532c5da17071aaed29403fef1954e65ab17"
+    }
+  ],
+  "snapshots_found": {
+    "katforcongress.com": 49
+  },
+  "generated_utc": "2026-11-14T22:31:14Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
