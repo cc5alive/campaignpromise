@@ -1,0 +1,49 @@
+{
+  "name": "Juan Ciscomani",
+  "domains_tried": [
+    "juanciscomani.com"
+  ],
+  "pages": [
+    {
+      "original": "https://juanciscomani.com/",
+      "timestamp": "20241105072236",
+      "wayback": "https://web.archive.org/web/20241105072236/https://juanciscomani.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105072236id_/https://juanciscomani.com/",
+      "file": "archive/2024/ciscomani-az/home.html",
+      "text_file": "archive/2024/ciscomani-az/home.txt",
+      "bytes": 200976,
+      "sha256_html": "f30bf61764cef6d4f34ad297811c05ca156da13d95cb3d6d71f1478fe8be3496",
+      "sha256_text": "bdbdff2addfd9aae25cee6aca1cc975306507052b0b05c4f55cc5d91fd160e93"
+    },
+    {
+      "original": "https://juanciscomani.com/priorities",
+      "timestamp": "20241105155425",
+      "wayback": "https://web.archive.org/web/20241105155425/https://juanciscomani.com/priorities",
+      "wayback_raw": "https://web.archive.org/web/20241105155425id_/https://juanciscomani.com/priorities",
+      "file": "archive/2024/ciscomani-az/priorities.html",
+      "text_file": "archive/2024/ciscomani-az/priorities.txt",
+      "bytes": 150863,
+      "sha256_html": "9733ec76f8dd64361737d0caf44d4ab0b0f4cb25c410d0954bb26ac28725e6af",
+      "sha256_text": "f2c98020395c869f16fc87d9b913c244b1c6c1dd90d1151eac769b7e064c5350"
+    },
+    {
+      "original": "https://juanciscomani.com/news/new-ad-juan-ciscomani-is-fighting-to-make-dc-listen",
+      "timestamp": "20241105064335",
+      "wayback": "https://web.archive.org/web/20241105064335/https://juanciscomani.com/news/new-ad-juan-ciscomani-is-fighting-to-make-dc-listen",
+      "wayback_raw": "https://web.archive.org/web/20241105064335id_/https://juanciscomani.com/news/new-ad-juan-ciscomani-is-fighting-to-make-dc-listen",
+      "file": "archive/2024/ciscomani-az/news-new-ad-juan-ciscomani-is-fighting-to-make-dc-listen.html",
+      "text_file": "archive/2024/ciscomani-az/news-new-ad-juan-ciscomani-is-fighting-to-make-dc-listen.txt",
+      "bytes": 124030,
+      "sha256_html": "59de13738e85d693dffbbfbf612823f5a39c28ca245b706534e90a3c98b02f52",
+      "sha256_text": "2284ff0ef8f9031ed2f85958297cb0d132edbe3b97ff04f4b7de167abbba741b"
+    }
+  ],
+  "snapshots_found": {
+    "juanciscomani.com": 50
+  },
+  "generated_utc": "2026-11-14T15:59:40Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
