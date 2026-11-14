@@ -466,7 +466,7 @@
      "source": "https://clerk.house.gov/evs/2025/roll190.xml"
     }
    ],
-   "note": "",
+   "note": "Judgment needed: this line comes from a 2022 campaign press release that was still on his site in 2024. He did not vote on the House's first passage in May.",
    "status": "draft",
    "drafted_by": "Claude (AI)",
    "reviewed_by": null
@@ -507,7 +507,7 @@
      "source": "https://clerk.house.gov/evs/2025/roll190.xml"
     }
    ],
-   "note": "H.R.1 included funding for border wall construction.",
+   "note": "H.R.1 included funding for border wall construction. He did not vote on the House's first passage in May.",
    "status": "draft",
    "drafted_by": "Claude (AI)",
    "reviewed_by": null
@@ -1493,7 +1493,7 @@
      "source": "https://clerk.house.gov/evs/2025/roll190.xml"
     }
    ],
-   "note": "Issues-page bullet. Judgment needed: H.R.1 raised the child tax credit to $2,200 and made it permanent, but not the larger, fully refundable 2021 version.",
+   "note": "Bullet from her middle-class relief plan. Judgment needed: H.R.1 raised the child tax credit to $2,200 and made it permanent, but not the larger, fully refundable 2021 version.",
    "status": "draft",
    "drafted_by": "Claude (AI)",
    "reviewed_by": null
