@@ -1,0 +1,60 @@
+{
+  "name": "Harriet M. Hageman",
+  "domains_tried": [
+    "hagemanforwyoming.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.hagemanforwyoming.com/",
+      "timestamp": "20241105191246",
+      "wayback": "https://web.archive.org/web/20241105191246/https://www.hagemanforwyoming.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105191246id_/https://www.hagemanforwyoming.com/",
+      "file": "archive/2024/hageman-wy/home.html",
+      "text_file": "archive/2024/hageman-wy/home.txt",
+      "bytes": 649962,
+      "sha256_html": "4eeb9b53a448b67946c16adde46f04823d52fb3f4fd7df409d09f5cf51aaad2a",
+      "sha256_text": "86c42ea6c2c2ed9e3036734b4627e2e6d2cefb2a717c40e533039ed6cefc781a"
+    },
+    {
+      "original": "https://www.hagemanforwyoming.com/issues",
+      "timestamp": "20241105192306",
+      "wayback": "https://web.archive.org/web/20241105192306/https://www.hagemanforwyoming.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105192306id_/https://www.hagemanforwyoming.com/issues",
+      "file": "archive/2024/hageman-wy/issues.html",
+      "text_file": "archive/2024/hageman-wy/issues.txt",
+      "bytes": 701794,
+      "sha256_html": "a7139b7f230e7dd147d385190d097bd2762496b2e37a1e62326099c293e80932",
+      "sha256_text": "16f3916b14ec152de20f37fdaa2c1824fdd8aae9a796e88f3c6c6ecc8dd823eb"
+    },
+    {
+      "original": "https://www.hagemanforwyoming.com/post/hageman-wyoming-needs-a-representative-who-shares-our-values",
+      "timestamp": "20241105192222",
+      "wayback": "https://web.archive.org/web/20241105192222/https://www.hagemanforwyoming.com/post/hageman-wyoming-needs-a-representative-who-shares-our-values",
+      "wayback_raw": "https://web.archive.org/web/20241105192222id_/https://www.hagemanforwyoming.com/post/hageman-wyoming-needs-a-representative-who-shares-our-values",
+      "file": "archive/2024/hageman-wy/post-hageman-wyoming-needs-a-representative-who-shares-our-values.html",
+      "text_file": "archive/2024/hageman-wy/post-hageman-wyoming-needs-a-representative-who-shares-our-values.txt",
+      "bytes": 907636,
+      "sha256_html": "17a349f0c5ddc15d4decca30b57763437d53bb2924b96ac0b3c76f8904ca17a3",
+      "sha256_text": "a5f79e758a6a34b69f4a1e36d05b5e4cde42e7eff879f4fe16992964ddaf3a5e"
+    },
+    {
+      "original": "https://www.hagemanforwyoming.com/post/harriet-hageman-wins-will-fight-for-wyoming-and-america-first",
+      "timestamp": "20241105192233",
+      "wayback": "https://web.archive.org/web/20241105192233/https://www.hagemanforwyoming.com/post/harriet-hageman-wins-will-fight-for-wyoming-and-america-first",
+      "wayback_raw": "https://web.archive.org/web/20241105192233id_/https://www.hagemanforwyoming.com/post/harriet-hageman-wins-will-fight-for-wyoming-and-america-first",
+      "file": "archive/2024/hageman-wy/post-harriet-hageman-wins-will-fight-for-wyoming-and-america-first.html",
+      "text_file": "archive/2024/hageman-wy/post-harriet-hageman-wins-will-fight-for-wyoming-and-america-first.txt",
+      "bytes": 907538,
+      "sha256_html": "84e3016cdd9b277bca869e10324a03ebb7d6ec775367af9b81e608434aeb44d3",
+      "sha256_text": "21102858c883a24974ade0f9f416245cd3a14dafb410e8b528cb44439a4d5dd0"
+    }
+  ],
+  "snapshots_found": {
+    "hagemanforwyoming.com": 141
+  },
+  "generated_utc": "2026-11-14T22:30:01Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
