@@ -1239,7 +1239,7 @@
    "party": "D",
    "chamber": "House",
    "state": "CA",
-   "quote": "I will fight to make sure every family has economic opportunity, protect Social Security and Medicare, and reduce the threat of climate change.”",
+   "quote": "I will fight to make sure every family has economic opportunity, protect Social Security and Medicare, and reduce the threat of climate change.",
    "kind": "Pledge",
    "issue": "Social Security & Medicare",
    "source": {
@@ -1691,7 +1691,7 @@
    "party": "D",
    "chamber": "House",
    "state": "NY",
-   "quote": "Will always stand up to extremists trying to take away reproductive rights, including those attempting to restrict access to birth control, IVF, or mifepristone; and",
+   "quote": "Will always stand up to extremists trying to take away reproductive rights, including those attempting to restrict access to birth control, IVF, or mifepristone",
    "kind": "Pledge",
    "issue": "Abortion",
    "source": {
@@ -1712,7 +1712,7 @@
      "source": "https://clerk.house.gov/evs/2025/roll027.xml"
     }
    ],
-   "note": "Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading.",
+   "note": "Riley did not vote on this bill. Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading.",
    "status": "draft",
    "drafted_by": "Claude (AI)",
    "reviewed_by": null
@@ -1724,7 +1724,7 @@
    "party": "D",
    "chamber": "House",
    "state": "NY",
-   "quote": "Hire new border agents and ensure law enforcement has the resources they need to secure the border and stop and deter illegal immigration;",
+   "quote": "Hire new border agents and ensure law enforcement has the resources they need to secure the border and stop and deter illegal immigration",
    "kind": "Stated position",
    "issue": "Immigration",
    "source": {

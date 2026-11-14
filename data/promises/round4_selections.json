@@ -338,14 +338,15 @@
  },
  {
   "member": "rivas-ca",
-  "cand": 0,
   "kind": "Pledge",
   "issue": "Social Security & Medicare",
   "votes": [
    "house-2025-145",
    "house-2025-190"
   ],
-  "note": "Judgment needed: H.R.1 did not change Social Security or Medicare benefits directly; CBO said its deficit increase could trigger automatic Medicare cuts unless Congress waives them."
+  "note": "Judgment needed: H.R.1 did not change Social Security or Medicare benefits directly; CBO said its deficit increase could trigger automatic Medicare cuts unless Congress waives them.",
+  "quote": "I will fight to make sure every family has economic opportunity, protect Social Security and Medicare, and reduce the threat of climate change.",
+  "page": "https://www.luzforcongress.com/"
  },
  {
   "member": "tran-ca",
@@ -465,24 +466,26 @@
  },
  {
   "member": "riley-ny",
-  "cand": 1,
   "kind": "Pledge",
   "issue": "Abortion",
   "votes": [
    "house-2025-027"
   ],
-  "note": "Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading."
+  "note": "Riley did not vote on this bill. Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading.",
+  "quote": "Will always stand up to extremists trying to take away reproductive rights, including those attempting to restrict access to birth control, IVF, or mifepristone",
+  "page": "https://joshrileyforcongress.com/policy-positions/"
  },
  {
   "member": "riley-ny",
-  "cand": 13,
   "kind": "Stated position",
   "issue": "Immigration",
   "votes": [
    "house-2025-145",
    "house-2025-190"
   ],
-  "note": "Issues-page bullet. H.R.1 funded hiring of new Border Patrol agents; judgment needed on a vote on the whole bill."
+  "note": "Issues-page bullet. H.R.1 funded hiring of new Border Patrol agents; judgment needed on a vote on the whole bill.",
+  "quote": "Hire new border agents and ensure law enforcement has the resources they need to secure the border and stop and deter illegal immigration",
+  "page": "https://joshrileyforcongress.com/policy-positions/"
  },
  {
   "member": "mannion-ny",
