@@ -1,0 +1,49 @@
+{
+  "name": "Johnny Olszewski, Jr.",
+  "domains_tried": [
+    "gojohnnyo.com"
+  ],
+  "pages": [
+    {
+      "original": "https://gojohnnyo.com/",
+      "timestamp": "20241105073135",
+      "wayback": "https://web.archive.org/web/20241105073135/https://gojohnnyo.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105073135id_/https://gojohnnyo.com/",
+      "file": "archive/2024/olszewski-md/home.html",
+      "text_file": "archive/2024/olszewski-md/home.txt",
+      "bytes": 67917,
+      "sha256_html": "21a5e7aaf9b123e6ee87aa2c6b048051948117f623a5f10c936e2505dfb1048f",
+      "sha256_text": "94a76372d99a57fafbc6df78a8309b8f5b45a3f751135f65e303db6cffa07f8c"
+    },
+    {
+      "original": "https://gojohnnyo.com/priorities/",
+      "timestamp": "20241105073404",
+      "wayback": "https://web.archive.org/web/20241105073404/https://gojohnnyo.com/priorities/",
+      "wayback_raw": "https://web.archive.org/web/20241105073404id_/https://gojohnnyo.com/priorities/",
+      "file": "archive/2024/olszewski-md/priorities.html",
+      "text_file": "archive/2024/olszewski-md/priorities.txt",
+      "bytes": 60901,
+      "sha256_html": "9c2d591721467526bfa34a5221c3cd062869e8852663e50fb516beb09153ad86",
+      "sha256_text": "773b9dde9104b30383ac04c4c96a0698b1ac3622d0763c3f4cd1f7fbff5717ef"
+    },
+    {
+      "original": "https://gojohnnyo.com/priorities/embed/",
+      "timestamp": "20241101004033",
+      "wayback": "https://web.archive.org/web/20241101004033/https://gojohnnyo.com/priorities/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241101004033id_/https://gojohnnyo.com/priorities/embed/",
+      "file": "archive/2024/olszewski-md/priorities-embed.html",
+      "text_file": "archive/2024/olszewski-md/priorities-embed.txt",
+      "bytes": 19714,
+      "sha256_html": "7c6796ebdaac68fb85b44f476c42a04374a291dcc8f3154990cba5776cf0bd36",
+      "sha256_text": "c5179f57f60ff71c08ae4722d0429781f3c7a8b110995b7a29db87948d88cd7c"
+    }
+  ],
+  "snapshots_found": {
+    "gojohnnyo.com": 267
+  },
+  "generated_utc": "2026-11-14T16:54:43Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
