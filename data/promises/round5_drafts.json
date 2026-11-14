@@ -1,0 +1,1536 @@
+{
+ "round": "round5",
+ "promises": [
+  {
+   "id": "ROUND5-001",
+   "member": "hirono-hi",
+   "name": "Mazie K. Hirono",
+   "party": "D",
+   "chamber": "Senate",
+   "state": "HI",
+   "quote": "That’s why she’s fighting to block Republicans’ efforts to ban abortion nationwide and protect reproductive freedom across the country.",
+   "kind": "Stated position",
+   "issue": "Abortion",
+   "source": {
+    "original": "https://mazieforhawaii.com/",
+    "snapshot": "20241105042435",
+    "wayback": "https://web.archive.org/web/20241105042435/https://mazieforhawaii.com/",
+    "file": "archive/2024/hirono-hi/home.html",
+    "sha256_html": "cfe411971b655e64863a2ed6c5f89fbb39285c0f287e7ddebfb782d1f1f04445"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "senate-1-00011",
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "question": "vote to start debate (needed 60)",
+     "date": "2025-01-22",
+     "vote": "Nay",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00011.xml"
+    }
+   ],
+   "note": "Senate vote to start debate on the Born-Alive bill (failed, 52-47; needed 60). Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-002",
+   "member": "hirono-hi",
+   "name": "Mazie K. Hirono",
+   "party": "D",
+   "chamber": "Senate",
+   "state": "HI",
+   "quote": "She’s helped to protect the Affordable Care Act from Republicans’ nonstop attacks and she’ll continue fighting to make health care affordable and accessible to all Americans.",
+   "kind": "Pledge",
+   "issue": "Health care",
+   "source": {
+    "original": "https://mazieforhawaii.com/",
+    "snapshot": "20241105042435",
+    "wayback": "https://web.archive.org/web/20241105042435/https://mazieforhawaii.com/",
+    "file": "archive/2024/hirono-hi/home.html",
+    "sha256_html": "cfe411971b655e64863a2ed6c5f89fbb39285c0f287e7ddebfb782d1f1f04445"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "senate-1-00644",
+     "bill": "3-year ACA premium tax credit extension",
+     "question": "vote to start debate (needed 60)",
+     "date": "2025-12-11",
+     "vote": "Yea",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00644.xml"
+    }
+   ],
+   "note": "Senate vote to start debate on a 3-year extension of the enhanced ACA premium tax credits (failed, 51-48; needed 60).",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-003",
+   "member": "hirono-hi",
+   "name": "Mazie K. Hirono",
+   "party": "D",
+   "chamber": "Senate",
+   "state": "HI",
+   "quote": "While Republicans threaten to slash critical safety net programs, Mazie is fighting to protect and strengthen Social Security and Medicare, to help ensure our kupuna receive the support they deserve.",
+   "kind": "Stated position",
+   "issue": "Social Security & Medicare",
+   "source": {
+    "original": "https://mazieforhawaii.com/",
+    "snapshot": "20241105042435",
+    "wayback": "https://web.archive.org/web/20241105042435/https://mazieforhawaii.com/",
+    "file": "archive/2024/hirono-hi/home.html",
+    "sha256_html": "cfe411971b655e64863a2ed6c5f89fbb39285c0f287e7ddebfb782d1f1f04445"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "senate-1-00372",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "2025-07-01",
+     "vote": "Nay",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml"
+    }
+   ],
+   "note": "Judgment needed: H.R.1 did not change Social Security or Medicare benefits directly; CBO said its deficit increase could trigger automatic Medicare cuts unless Congress waives them.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-004",
+   "member": "heinrich-nm",
+   "name": "Martin Heinrich",
+   "party": "D",
+   "chamber": "Senate",
+   "state": "NM",
+   "quote": "Martin is deeply committed to ensuring that everyone has access to the full spectrum of reproductive health care",
+   "kind": "Stated position",
+   "issue": "Abortion",
+   "source": {
+    "original": "https://www.martinheinrich.com/",
+    "snapshot": "20241105120250",
+    "wayback": "https://web.archive.org/web/20241105120250/https://www.martinheinrich.com/",
+    "file": "archive/2024/heinrich-nm/home.html",
+    "sha256_html": "f7a5e1b462bd0f3a3e6cc520ba54ee5aac9a6f17b1263114f836968204ef708d"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "senate-1-00011",
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "question": "vote to start debate (needed 60)",
+     "date": "2025-01-22",
+     "vote": "Nay",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00011.xml"
+    }
+   ],
+   "note": "Senate vote to start debate on the Born-Alive bill (failed, 52-47; needed 60). Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-005",
+   "member": "heinrich-nm",
+   "name": "Martin Heinrich",
+   "party": "D",
+   "chamber": "Senate",
+   "state": "NM",
+   "quote": "Martin has also been a strong advocate for the child tax credit, which provides much-needed financial support to families across New Mexico.",
+   "kind": "Stated position",
+   "issue": "Taxes",
+   "source": {
+    "original": "https://martinheinrich.com/issues/economy/",
+    "snapshot": "20240928195534",
+    "wayback": "https://web.archive.org/web/20240928195534/https://martinheinrich.com/issues/economy/",
+    "file": "archive/2024/heinrich-nm/issues-economy.html",
+    "sha256_html": "76fdb909dcb67739f9c723a84792ea14e6ed1d14ee1f76f55ca4b3bf22e62b7c"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "senate-1-00372",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "2025-07-01",
+     "vote": "Nay",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml"
+    }
+   ],
+   "note": "Judgment needed: H.R.1 raised the child tax credit to $2,200 and made it permanent, but not the larger, fully refundable 2021 version.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-006",
+   "member": "gillibrand-ny",
+   "name": "Kirsten E. Gillibrand",
+   "party": "D",
+   "chamber": "Senate",
+   "state": "NY",
+   "quote": "We need to protect and expand Social Security, Medicare and Medicaid, and also refuse to allow politicians to cut lifelines for low-income families like CHIP, SNAP and WIC.",
+   "kind": "Stated position",
+   "issue": "Medicaid",
+   "source": {
+    "original": "https://kirstengillibrand.com/issues/economy/",
+    "snapshot": "20240811181012",
+    "wayback": "https://web.archive.org/web/20240811181012/https://kirstengillibrand.com/issues/economy/",
+    "file": "archive/2024/gillibrand-ny/issues-economy.html",
+    "sha256_html": "3a77f97968e60901d2f6801a38cd0b04b16c28ea89aecd6218e590767d9d4e4f"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "senate-1-00372",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "2025-07-01",
+     "vote": "Nay",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml"
+    }
+   ],
+   "note": "H.R.1 cut projected federal spending on Medicaid and SNAP.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-007",
+   "member": "cramer-nd",
+   "name": "Kevin Cramer",
+   "party": "R",
+   "chamber": "Senate",
+   "state": "ND",
+   "quote": "I will continue to champion Christian pro-life values and work towards a future where every individual's right to life is safeguarded and celebrated.",
+   "kind": "Pledge",
+   "issue": "Abortion",
+   "source": {
+    "original": "https://kevincramer.org/issues/",
+    "snapshot": "20241105112129",
+    "wayback": "https://web.archive.org/web/20241105112129/https://kevincramer.org/issues/",
+    "file": "archive/2024/cramer-nd/issues.html",
+    "sha256_html": "bafa51ec84ab9b840a785907294abefcbd2ecad5eb438de3d76625493976454b"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "senate-1-00011",
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "question": "vote to start debate (needed 60)",
+     "date": "2025-01-22",
+     "vote": "Yea",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00011.xml"
+    }
+   ],
+   "note": "Senate vote to start debate on the Born-Alive bill (failed, 52-47; needed 60).",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-008",
+   "member": "cramer-nd",
+   "name": "Kevin Cramer",
+   "party": "R",
+   "chamber": "Senate",
+   "state": "ND",
+   "quote": "We must secure our borders by immediately building a physical wall along our Southern border and hiring additional Border Patrol agents.",
+   "kind": "Stated position",
+   "issue": "Immigration",
+   "source": {
+    "original": "https://kevincramer.org/issues/",
+    "snapshot": "20241105112129",
+    "wayback": "https://web.archive.org/web/20241105112129/https://kevincramer.org/issues/",
+    "file": "archive/2024/cramer-nd/issues.html",
+    "sha256_html": "bafa51ec84ab9b840a785907294abefcbd2ecad5eb438de3d76625493976454b"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "senate-1-00372",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "2025-07-01",
+     "vote": "Yea",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml"
+    }
+   ],
+   "note": "H.R.1 included funding for border wall construction. It also funded hiring of Border Patrol agents.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-009",
+   "member": "whitehouse-ri",
+   "name": "Sheldon Whitehouse",
+   "party": "D",
+   "chamber": "Senate",
+   "state": "RI",
+   "quote": "I will defend the Affordable Care Act and the Inflation Reduction Act from Republican attempts to take us back to the bad old days when people could be denied coverage for pre-existing conditions and seniors had to ration their insulin to keep food on the table.",
+   "kind": "Pledge",
+   "issue": "Health care",
+   "source": {
+    "original": "https://whitehouseforsenate.com/issues/health-care/",
+    "snapshot": "20241105072630",
+    "wayback": "https://web.archive.org/web/20241105072630/https://whitehouseforsenate.com/issues/health-care/",
+    "file": "archive/2024/whitehouse-ri/issues-health-care.html",
+    "sha256_html": "1819cb6c5af7cd76fb2b51fef44267ee71968e0c06101b1d0cb23a7301c5780b"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "senate-1-00644",
+     "bill": "3-year ACA premium tax credit extension",
+     "question": "vote to start debate (needed 60)",
+     "date": "2025-12-11",
+     "vote": "Yea",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00644.xml"
+    }
+   ],
+   "note": "Senate vote to start debate on a 3-year extension of the enhanced ACA premium tax credits (failed, 51-48; needed 60).",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-010",
+   "member": "whitehouse-ri",
+   "name": "Sheldon Whitehouse",
+   "party": "D",
+   "chamber": "Senate",
+   "state": "RI",
+   "quote": "Let me be clear: I will fight with every available tool any attempt to roll back, slim down, or push further out of reach the Social Security and Medicare benefits that seniors have earned and paid for over a lifetime of hard work.",
+   "kind": "Pledge",
+   "issue": "Social Security & Medicare",
+   "source": {
+    "original": "https://whitehouseforsenate.com/issues/protecting-social-security-medicare/",
+    "snapshot": "20241105072629",
+    "wayback": "https://web.archive.org/web/20241105072629/https://whitehouseforsenate.com/issues/protecting-social-security-medicare/",
+    "file": "archive/2024/whitehouse-ri/issues-protecting-social-security-medicare.html",
+    "sha256_html": "87a5837b33734c5f08f6edfa7643f0c7302b6950b88e386fdef5b32e850b3d88"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "senate-1-00372",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "2025-07-01",
+     "vote": "Nay",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml"
+    }
+   ],
+   "note": "Judgment needed: H.R.1 did not change Social Security or Medicare benefits directly; CBO said its deficit increase could trigger automatic Medicare cuts unless Congress waives them.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-011",
+   "member": "whitehouse-ri",
+   "name": "Sheldon Whitehouse",
+   "party": "D",
+   "chamber": "Senate",
+   "state": "RI",
+   "quote": "With Republicans seeking a nationwide abortion ban – even in Rhode Island – and threatening access to IVF, I will continue defending women’s rights to make their own family planning decisions and determine the course of their own lives.",
+   "kind": "Pledge",
+   "issue": "Abortion",
+   "source": {
+    "original": "https://whitehouseforsenate.com/issues/reproductive-freedom/",
+    "snapshot": "20241105072633",
+    "wayback": "https://web.archive.org/web/20241105072633/https://whitehouseforsenate.com/issues/reproductive-freedom/",
+    "file": "archive/2024/whitehouse-ri/issues-reproductive-freedom.html",
+    "sha256_html": "c12fb8f7a7cb7e115eac494294ceb1854ddd61da303362004fb1ae7e7d34424a"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "senate-1-00011",
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "question": "vote to start debate (needed 60)",
+     "date": "2025-01-22",
+     "vote": "Nay",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00011.xml"
+    }
+   ],
+   "note": "Senate vote to start debate on the Born-Alive bill (failed, 52-47; needed 60). Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-012",
+   "member": "cantwell-wa",
+   "name": "Maria Cantwell",
+   "party": "D",
+   "chamber": "Senate",
+   "state": "WA",
+   "quote": "I will not allow Social Security to be eroded by those in Congress who are more interested in the health of financial industry profits than they are about the people of America.",
+   "kind": "Pledge",
+   "issue": "Social Security & Medicare",
+   "source": {
+    "original": "https://www.cantwell.com/issues/",
+    "snapshot": "20241101182946",
+    "wayback": "https://web.archive.org/web/20241101182946/https://www.cantwell.com/issues/",
+    "file": "archive/2024/cantwell-wa/issues.html",
+    "sha256_html": "5e3cd07b24eb4fd4a5f03a727f8525248c1b51dde1a978a7a5df9dda1372925f"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "senate-1-00372",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "2025-07-01",
+     "vote": "Nay",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml"
+    }
+   ],
+   "note": "Judgment needed: H.R.1 did not change Social Security or Medicare benefits directly; CBO said its deficit increase could trigger automatic Medicare cuts unless Congress waives them.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-013",
+   "member": "cantwell-wa",
+   "name": "Maria Cantwell",
+   "party": "D",
+   "chamber": "Senate",
+   "state": "WA",
+   "quote": "I also support improvements to the Affordable Care Act, like expansion of the Basic Health Plan, to lower premiums and out-of-pocket expenses.",
+   "kind": "Stated position",
+   "issue": "Health care",
+   "source": {
+    "original": "https://www.cantwell.com/healthcareissues",
+    "snapshot": "20241101181917",
+    "wayback": "https://web.archive.org/web/20241101181917/https://www.cantwell.com/healthcareissues",
+    "file": "archive/2024/cantwell-wa/healthcareissues.html",
+    "sha256_html": "0026df08cb9e18c57418ea2353b3a8b0dbd11003f35e7caa4b8e838e29a7eb14"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "senate-1-00644",
+     "bill": "3-year ACA premium tax credit extension",
+     "question": "vote to start debate (needed 60)",
+     "date": "2025-12-11",
+     "vote": "Yea",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00644.xml"
+    }
+   ],
+   "note": "Senate vote to start debate on a 3-year extension of the enhanced ACA premium tax credits (failed, 51-48; needed 60).",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-014",
+   "member": "garbarino-ny",
+   "name": "Andrew R. Garbarino",
+   "party": "R",
+   "chamber": "House",
+   "state": "NY",
+   "quote": "As a lifelong Long Islander, Andrew will continue to fight to lower taxes, defend the middle class, support small businesses, protect our environment, and stand up for our veterans.",
+   "kind": "Pledge",
+   "issue": "Taxes",
+   "source": {
+    "original": "https://garbarinoforny.com/garbarino-for-congress-releases-first-tv-ad-of-2022-re-election-campaign-fight-for-long-island/",
+    "snapshot": "20241105131039",
+    "wayback": "https://web.archive.org/web/20241105131039/https://garbarinoforny.com/garbarino-for-congress-releases-first-tv-ad-of-2022-re-election-campaign-fight-for-long-island/",
+    "file": "archive/2024/garbarino-ny/garbarino-for-congress-releases-first-tv-ad-of-2022-re-election-campaign-fight-for-long-island.html",
+    "sha256_html": "2ff2b40e2b9c97389c3120a11e47543290fd2f6966ba28ef6a7b5fff0bd6e7bd"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "2025-05-22",
+     "vote": "Not Voting",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "2025-07-03",
+     "vote": "Aye",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-015",
+   "member": "garbarino-ny",
+   "name": "Andrew R. Garbarino",
+   "party": "R",
+   "chamber": "House",
+   "state": "NY",
+   "quote": "In order to secure our border, we need to finish building our border wall, provide more resources to border patrol, and keep Title 42 and Remain in Mexico policies in place in order to stem the tide of illegal crossings.",
+   "kind": "Stated position",
+   "issue": "Immigration",
+   "source": {
+    "original": "https://garbarinoforny.com/issues/border-security/",
+    "snapshot": "20241105131017",
+    "wayback": "https://web.archive.org/web/20241105131017/https://garbarinoforny.com/issues/border-security/",
+    "file": "archive/2024/garbarino-ny/issues-border-security.html",
+    "sha256_html": "8d7fb8cf83a61f25ed54c498eb556418f2fc9f7705f4e7e4d5f47d94d2095288"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "2025-05-22",
+     "vote": "Not Voting",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "2025-07-03",
+     "vote": "Aye",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "H.R.1 included funding for border wall construction.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-016",
+   "member": "miller-oh",
+   "name": "Max L. Miller",
+   "party": "R",
+   "chamber": "House",
+   "state": "OH",
+   "quote": "Max believes our only way out of this mess is to curb spending, lower taxes and get Americans back to work.",
+   "kind": "Stated position",
+   "issue": "Federal spending",
+   "source": {
+    "original": "https://www.votemaxmiller.com/accomplishments",
+    "snapshot": "20241105200416",
+    "wayback": "https://web.archive.org/web/20241105200416/https://www.votemaxmiller.com/accomplishments",
+    "file": "archive/2024/miller-oh/accomplishments.html",
+    "sha256_html": "8344ab46f68f7de302f3ded2f904f481d5f822104c69b06e99b30644d6ae9dc7"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "2025-05-22",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "2025-07-03",
+     "vote": "Aye",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "Judgment needed: CBO estimated H.R.1 adds to the deficit over ten years, while supporters count its spending cuts. Whether it 'cuts spending' depends on the baseline.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-017",
+   "member": "miller-oh",
+   "name": "Max L. Miller",
+   "party": "R",
+   "chamber": "House",
+   "state": "OH",
+   "quote": "He’s steadfast in his push to secure the southern border, expand workforce development opportunities, and empower Ohio and America’s farmers and rural communities.",
+   "kind": "Stated position",
+   "issue": "Immigration",
+   "source": {
+    "original": "https://www.votemaxmiller.com/",
+    "snapshot": "20241105200414",
+    "wayback": "https://web.archive.org/web/20241105200414/https://www.votemaxmiller.com/",
+    "file": "archive/2024/miller-oh/home.html",
+    "sha256_html": "a2ee2e90ba3f0c7091621fc1e52e5426ae031e713ff56d597a89b39c5592a553"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-006",
+     "bill": "Laken Riley Act (House version)",
+     "question": "final passage",
+     "date": "2025-01-07",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll006.xml"
+    },
+    {
+     "id": "house-2025-023",
+     "bill": "Laken Riley Act",
+     "question": "final passage",
+     "date": "2025-01-22",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll023.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-018",
+   "member": "wittman-va",
+   "name": "Robert J. Wittman",
+   "party": "R",
+   "chamber": "House",
+   "state": "VA",
+   "quote": "We must hire additional immigration judges and support staff, hire additional Border Patrol agents, and increase Immigration and Customs Enforcement personnel",
+   "kind": "Stated position",
+   "issue": "Immigration",
+   "source": {
+    "original": "https://robwittman.com/issues/",
+    "snapshot": "20241105172358",
+    "wayback": "https://web.archive.org/web/20241105172358/https://robwittman.com/issues/",
+    "file": "archive/2024/wittman-va/issues.html",
+    "sha256_html": "52943b12393bc8063855f59da9dc1225d32e0c696dc75cc874aae3f28dcf8abc"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "2025-05-22",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "2025-07-03",
+     "vote": "Aye",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "H.R.1 funded hiring of Border Patrol agents and ICE personnel.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-019",
+   "member": "clyde-ga",
+   "name": "Andrew S. Clyde",
+   "party": "R",
+   "chamber": "House",
+   "state": "GA",
+   "quote": "As your Congressman, Andrew will always work to protect the lives of our nation's innocent unborn.",
+   "kind": "Pledge",
+   "issue": "Abortion",
+   "source": {
+    "original": "https://www.clyde4congress.com/",
+    "snapshot": "20241105152844",
+    "wayback": "https://web.archive.org/web/20241105152844/https://www.clyde4congress.com/",
+    "file": "archive/2024/clyde-ga/home.html",
+    "sha256_html": "f6674270d0eaec5130d587116e422f5598cf02a18f6dd6d9b50d0347d892e4c1"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-027",
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "question": "final passage",
+     "date": "2025-01-23",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll027.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-020",
+   "member": "clyde-ga",
+   "name": "Andrew S. Clyde",
+   "party": "R",
+   "chamber": "House",
+   "state": "GA",
+   "quote": "We must stop illegal immigration and illegal border crossings.",
+   "kind": "Stated position",
+   "issue": "Immigration",
+   "source": {
+    "original": "https://www.clyde4congress.com/",
+    "snapshot": "20241105152844",
+    "wayback": "https://web.archive.org/web/20241105152844/https://www.clyde4congress.com/",
+    "file": "archive/2024/clyde-ga/home.html",
+    "sha256_html": "f6674270d0eaec5130d587116e422f5598cf02a18f6dd6d9b50d0347d892e4c1"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-006",
+     "bill": "Laken Riley Act (House version)",
+     "question": "final passage",
+     "date": "2025-01-07",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll006.xml"
+    },
+    {
+     "id": "house-2025-023",
+     "bill": "Laken Riley Act",
+     "question": "final passage",
+     "date": "2025-01-22",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll023.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-021",
+   "member": "brecheen-ok",
+   "name": "Josh Brecheen",
+   "party": "R",
+   "chamber": "House",
+   "state": "OK",
+   "quote": "We must enforce the rule of law and we must build the wall at the Southern border.",
+   "kind": "Stated position",
+   "issue": "Immigration",
+   "source": {
+    "original": "https://joshbrecheen.com/issues/",
+    "snapshot": "20241105051741",
+    "wayback": "https://web.archive.org/web/20241105051741/https://joshbrecheen.com/issues/",
+    "file": "archive/2024/brecheen-ok/issues.html",
+    "sha256_html": "8649b796f6de22917d681e258710700a3c77bada2a976ec1c27edb5c16554f6c"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "2025-05-22",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "2025-07-03",
+     "vote": "Aye",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "H.R.1 included funding for border wall construction.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-022",
+   "member": "brecheen-ok",
+   "name": "Josh Brecheen",
+   "party": "R",
+   "chamber": "House",
+   "state": "OK",
+   "quote": "We must protect Social Security and Medicare.",
+   "kind": "Stated position",
+   "issue": "Social Security & Medicare",
+   "source": {
+    "original": "https://joshbrecheen.com/issues-2/",
+    "snapshot": "20241105051538",
+    "wayback": "https://web.archive.org/web/20241105051538/https://joshbrecheen.com/issues-2/",
+    "file": "archive/2024/brecheen-ok/issues-2.html",
+    "sha256_html": "3d5cb44f9588efbca07f7ea11d13398347aad84c2b5ff83ab0052c94636bd2b7"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "2025-05-22",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "2025-07-03",
+     "vote": "Aye",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "Judgment needed: H.R.1 did not change Social Security or Medicare benefits directly; CBO said its deficit increase could trigger automatic Medicare cuts unless Congress waives them.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-023",
+   "member": "hunt-tx",
+   "name": "Wesley Hunt",
+   "party": "R",
+   "chamber": "House",
+   "state": "TX",
+   "quote": "As your Congressman, I will protect the rights of the unborn.",
+   "kind": "Pledge",
+   "issue": "Abortion",
+   "source": {
+    "original": "https://wesleyfortexas.com/wesley-on-the-issues/",
+    "snapshot": "20241105145348",
+    "wayback": "https://web.archive.org/web/20241105145348/https://wesleyfortexas.com/wesley-on-the-issues/",
+    "file": "archive/2024/hunt-tx/wesley-on-the-issues.html",
+    "sha256_html": "9d375a63104370d91b6255423f3bea996dfe10d8e62e813a21b9b7eb9f5d6887"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-027",
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "question": "final passage",
+     "date": "2025-01-23",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll027.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-024",
+   "member": "hunt-tx",
+   "name": "Wesley Hunt",
+   "party": "R",
+   "chamber": "House",
+   "state": "TX",
+   "quote": "I have fought and will continue to fight to secure our border now.",
+   "kind": "Pledge",
+   "issue": "Immigration",
+   "source": {
+    "original": "https://wesleyfortexas.com/wesley-on-the-issues/",
+    "snapshot": "20241105145348",
+    "wayback": "https://web.archive.org/web/20241105145348/https://wesleyfortexas.com/wesley-on-the-issues/",
+    "file": "archive/2024/hunt-tx/wesley-on-the-issues.html",
+    "sha256_html": "9d375a63104370d91b6255423f3bea996dfe10d8e62e813a21b9b7eb9f5d6887"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-006",
+     "bill": "Laken Riley Act (House version)",
+     "question": "final passage",
+     "date": "2025-01-07",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll006.xml"
+    },
+    {
+     "id": "house-2025-023",
+     "bill": "Laken Riley Act",
+     "question": "final passage",
+     "date": "2025-01-22",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll023.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-025",
+   "member": "hageman-wy",
+   "name": "Harriet M. Hageman",
+   "party": "R",
+   "chamber": "House",
+   "state": "WY",
+   "quote": "In Congress, I will fight any effort to raise taxes and, instead, focus on ways to cut both federal spending and taxes.",
+   "kind": "Pledge",
+   "issue": "Taxes",
+   "source": {
+    "original": "https://www.hagemanforwyoming.com/issues",
+    "snapshot": "20241105192306",
+    "wayback": "https://web.archive.org/web/20241105192306/https://www.hagemanforwyoming.com/issues",
+    "file": "archive/2024/hageman-wy/issues.html",
+    "sha256_html": "a7139b7f230e7dd147d385190d097bd2762496b2e37a1e62326099c293e80932"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "2025-05-22",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "2025-07-03",
+     "vote": "Aye",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "Judgment needed on the spending half of this pledge: CBO estimated H.R.1 adds to the deficit over ten years, while supporters count its spending cuts. Whether it 'cuts spending' depends on the baseline.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-026",
+   "member": "cammack-fl",
+   "name": "Kat Cammack",
+   "party": "R",
+   "chamber": "House",
+   "state": "FL",
+   "quote": "She’ll always fight to cut our debt and deficit and ensure more hardworking Americans keep what they’ve earned.",
+   "kind": "Pledge",
+   "issue": "Federal spending",
+   "source": {
+    "original": "https://katforcongress.com/accomplishments/",
+    "snapshot": "20241105100256",
+    "wayback": "https://web.archive.org/web/20241105100256/https://katforcongress.com/accomplishments/",
+    "file": "archive/2024/cammack-fl/accomplishments.html",
+    "sha256_html": "8191a217d655028c795ad1421e77504a8cd94e49aca4182ba44205dae506ecd4"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "2025-05-22",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "2025-07-03",
+     "vote": "Aye",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "Judgment needed: CBO estimated H.R.1 adds to the deficit over ten years, while supporters count its spending cuts. Whether it 'cuts spending' depends on the baseline.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-027",
+   "member": "spartz-in",
+   "name": "Victoria Spartz",
+   "party": "R",
+   "chamber": "House",
+   "state": "IN",
+   "quote": "We must cut spending, reform welfare to empower, not suppress low income individuals, and balance the budget.",
+   "kind": "Stated position",
+   "issue": "Federal spending",
+   "source": {
+    "original": "https://www.spartzforcongress.com/issues/",
+    "snapshot": "20241105170108",
+    "wayback": "https://web.archive.org/web/20241105170108/https://www.spartzforcongress.com/issues/",
+    "file": "archive/2024/spartz-in/issues.html",
+    "sha256_html": "70a26064455193167ec3c12223883ff91648359f485ffb5282381af7fe2a3db4"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "2025-05-22",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "2025-07-03",
+     "vote": "Aye",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "Judgment needed: CBO estimated H.R.1 adds to the deficit over ten years, while supporters count its spending cuts. Whether it 'cuts spending' depends on the baseline.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-028",
+   "member": "steil-wi",
+   "name": "Bryan Steil",
+   "party": "R",
+   "chamber": "House",
+   "state": "WI",
+   "quote": "We need to build a wall, fund our border patrol officers, and finally secure our southern border.",
+   "kind": "Stated position",
+   "issue": "Immigration",
+   "source": {
+    "original": "https://steilforwisconsin.com/issues/",
+    "snapshot": "20241015055957",
+    "wayback": "https://web.archive.org/web/20241015055957/https://steilforwisconsin.com/issues/",
+    "file": "archive/2024/steil-wi/issues.html",
+    "sha256_html": "233427bc79c3b291387e71aeeb82e76e5967f68857e51a25d63f2c497a9bf179"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "2025-05-22",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "2025-07-03",
+     "vote": "Aye",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "H.R.1 included funding for border wall construction.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-029",
+   "member": "underwood-il",
+   "name": "Lauren Underwood",
+   "party": "D",
+   "chamber": "House",
+   "state": "IL",
+   "quote": "Lauren supports women’s rights to the full range of reproductive health services, without restrictions.",
+   "kind": "Stated position",
+   "issue": "Abortion",
+   "source": {
+    "original": "https://underwoodforcongress.com/",
+    "snapshot": "20241105203242",
+    "wayback": "https://web.archive.org/web/20241105203242/https://underwoodforcongress.com/",
+    "file": "archive/2024/underwood-il/home.html",
+    "sha256_html": "4d2ebc214dc1352851fd06f84c36352dd32d2c19f5a8a508ad536540018808bb"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-027",
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "question": "final passage",
+     "date": "2025-01-23",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll027.xml"
+    }
+   ],
+   "note": "Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-030",
+   "member": "craig-mn",
+   "name": "Angie Craig",
+   "party": "D",
+   "chamber": "House",
+   "state": "MN",
+   "quote": "Every American deserves to retire with dignity after a lifetime of hard work, and that’s why I will always oppose legislation that will privatize, jeopardize, or make any cuts to Social Security and Medicare.",
+   "kind": "Pledge",
+   "issue": "Social Security & Medicare",
+   "source": {
+    "original": "https://www.angiecraig.com/issues/",
+    "snapshot": "20241105200344",
+    "wayback": "https://web.archive.org/web/20241105200344/https://www.angiecraig.com/issues/",
+    "file": "archive/2024/craig-mn/issues.html",
+    "sha256_html": "d82e0eac1455b5eecc6a3db81a606042148daf244dd9b52ae5529e5de1d6829c"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "2025-05-22",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "2025-07-03",
+     "vote": "No",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "Judgment needed: H.R.1 did not change Social Security or Medicare benefits directly; CBO said its deficit increase could trigger automatic Medicare cuts unless Congress waives them.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-031",
+   "member": "craig-mn",
+   "name": "Angie Craig",
+   "party": "D",
+   "chamber": "House",
+   "state": "MN",
+   "quote": "I will not stop fighting until every woman's fundamental right to control her own body is protected and Roe is restored.",
+   "kind": "Pledge",
+   "issue": "Abortion",
+   "source": {
+    "original": "https://www.angiecraig.com/issues/",
+    "snapshot": "20241105200344",
+    "wayback": "https://web.archive.org/web/20241105200344/https://www.angiecraig.com/issues/",
+    "file": "archive/2024/craig-mn/issues.html",
+    "sha256_html": "d82e0eac1455b5eecc6a3db81a606042148daf244dd9b52ae5529e5de1d6829c"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-027",
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "question": "final passage",
+     "date": "2025-01-23",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll027.xml"
+    }
+   ],
+   "note": "Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-032",
+   "member": "pappas-nh",
+   "name": "Chris Pappas",
+   "party": "D",
+   "chamber": "House",
+   "state": "NH",
+   "quote": "I will continue to advocate for further action to ensure that our Southern and Northern borders are secure, deploy technology and crack down on the trafficking of deadly substances like fentanyl, and address the deficiencies in our laws.",
+   "kind": "Pledge",
+   "issue": "Fentanyl",
+   "source": {
+    "original": "https://www.chrispappas.org/issues",
+    "snapshot": "20241105165836",
+    "wayback": "https://web.archive.org/web/20241105165836/https://www.chrispappas.org/issues",
+    "file": "archive/2024/pappas-nh/issues.html",
+    "sha256_html": "9df25540fde516517e71080c42d34a574eda415e0c98ba118c3e5d8dca4a5047"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-166",
+     "bill": "HALT Fentanyl Act",
+     "question": "final passage",
+     "date": "2025-06-12",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll166.xml"
+    }
+   ],
+   "note": "The HALT Fentanyl Act permanently lists fentanyl-related substances as Schedule I drugs, which brings tougher trafficking penalties.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-033",
+   "member": "pappas-nh",
+   "name": "Chris Pappas",
+   "party": "D",
+   "chamber": "House",
+   "state": "NH",
+   "quote": "We must expand the Child Tax Credit to put more money back in the pockets of hard-working families and tackle the affordable housing crisis that New Hampshire is facing.",
+   "kind": "Stated position",
+   "issue": "Taxes",
+   "source": {
+    "original": "https://www.chrispappas.org/issues",
+    "snapshot": "20241105165836",
+    "wayback": "https://web.archive.org/web/20241105165836/https://www.chrispappas.org/issues",
+    "file": "archive/2024/pappas-nh/issues.html",
+    "sha256_html": "9df25540fde516517e71080c42d34a574eda415e0c98ba118c3e5d8dca4a5047"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "2025-05-22",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "2025-07-03",
+     "vote": "No",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "Judgment needed: H.R.1 raised the child tax credit to $2,200 and made it permanent, but not the larger, fully refundable 2021 version.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-034",
+   "member": "davids-ks",
+   "name": "Sharice Davids",
+   "party": "D",
+   "chamber": "House",
+   "state": "KS",
+   "quote": "I will always fight to make sure that we don’t have politicians interfering in our health care decisions, reproductive health care or otherwise",
+   "kind": "Pledge",
+   "issue": "Abortion",
+   "source": {
+    "original": "https://shariceforcongress.com/icymi-davids-champions-lower-costs-and-reproductive-rights-stands-up-to-her-party/",
+    "snapshot": "20241105070316",
+    "wayback": "https://web.archive.org/web/20241105070316/https://shariceforcongress.com/icymi-davids-champions-lower-costs-and-reproductive-rights-stands-up-to-her-party/",
+    "file": "archive/2024/davids-ks/icymi-davids-champions-lower-costs-and-reproductive-rights-stands-up-to-her-party.html",
+    "sha256_html": "de2c816c59ccd501adaade0a583194283dd46b374579476f94fc002b8f2b7877"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-027",
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "question": "final passage",
+     "date": "2025-01-23",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll027.xml"
+    }
+   ],
+   "note": "Quoted in a news story posted on her campaign site. Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-035",
+   "member": "dean-pa",
+   "name": "Madeleine Dean",
+   "party": "D",
+   "chamber": "House",
+   "state": "PA",
+   "quote": "She will work to protect and expand Social Security and Medicare and defend against attacks to these programs in the name of more tax cuts for the wealthy.",
+   "kind": "Pledge",
+   "issue": "Social Security & Medicare",
+   "source": {
+    "original": "https://mad4pa.com/issues/healthcare/",
+    "snapshot": "20241103001634",
+    "wayback": "https://web.archive.org/web/20241103001634/https://mad4pa.com/issues/healthcare/",
+    "file": "archive/2024/dean-pa/issues-healthcare.html",
+    "sha256_html": "680401e36e3bbe64c628ba77a62d9cc994d79c504df6887eadace86fe4169fe1"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "2025-05-22",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "2025-07-03",
+     "vote": "No",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "Judgment needed: H.R.1 did not change Social Security or Medicare benefits directly; CBO said its deficit increase could trigger automatic Medicare cuts unless Congress waives them.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-036",
+   "member": "levin-ca",
+   "name": "Mike Levin",
+   "party": "D",
+   "chamber": "House",
+   "state": "CA",
+   "quote": "He has consistently supported strong funding for CBP and Border Patrol in yearly appropriations, and will continue to advocate for improved border infrastructure and more personnel.",
+   "kind": "Pledge",
+   "issue": "Immigration",
+   "source": {
+    "original": "https://www.mikelevin.org/agenda/immigration/",
+    "snapshot": "20241105123458",
+    "wayback": "https://web.archive.org/web/20241105123458/https://www.mikelevin.org/agenda/immigration/",
+    "file": "archive/2024/levin-ca/agenda-immigration.html",
+    "sha256_html": "f16a793eb39fcadbb8ce81d6e9872f09c5d3360ddd0579dfc176d11d4303c6a8"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "2025-05-22",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "2025-07-03",
+     "vote": "No",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "H.R.1 funded more Border Patrol personnel and border infrastructure; judgment needed on a vote on the whole bill.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-037",
+   "member": "mcbath-ga",
+   "name": "Lucy McBath",
+   "party": "D",
+   "chamber": "House",
+   "state": "GA",
+   "quote": "She supports proposals making it easier for more Georgians to get covered and to expand upon the Affordable Care Act (ACA).",
+   "kind": "Stated position",
+   "issue": "Health care",
+   "source": {
+    "original": "https://lucyforcongress.com/issues/",
+    "snapshot": "20241105100656",
+    "wayback": "https://web.archive.org/web/20241105100656/https://lucyforcongress.com/issues/",
+    "file": "archive/2024/mcbath-ga/issues.html",
+    "sha256_html": "b5b5ca7c3fb2776023f3c55fedf446e34548b1fe7adf05241a88dc15ccf760f6"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-011",
+     "bill": "3-year ACA premium tax credit extension",
+     "question": "final passage",
+     "date": "2026-01-08",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2026/roll011.xml"
+    }
+   ],
+   "note": "The bill would have extended the enhanced ACA premium tax credits for three years.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-038",
+   "member": "landsman-oh",
+   "name": "Greg Landsman",
+   "party": "D",
+   "chamber": "House",
+   "state": "OH",
+   "quote": "Greg will continue fighting to protect the Affordable Care Act, lower premiums for families and seniors, hold big insurance companies accountable, drive down prescription drug costs, and cap insulin costs.",
+   "kind": "Pledge",
+   "issue": "Health care",
+   "source": {
+    "original": "https://www.landsmanforcongress.com/the-issues-1",
+    "snapshot": "20241105125622",
+    "wayback": "https://web.archive.org/web/20241105125622/https://www.landsmanforcongress.com/the-issues-1",
+    "file": "archive/2024/landsman-oh/the-issues-1.html",
+    "sha256_html": "8b4a640ab11e695cbb0dad01bbe7be1c03ad2a796b8401bc577addf668130b19"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-011",
+     "bill": "3-year ACA premium tax credit extension",
+     "question": "final passage",
+     "date": "2026-01-08",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2026/roll011.xml"
+    }
+   ],
+   "note": "The bill would have extended the enhanced ACA premium tax credits for three years.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-039",
+   "member": "landsman-oh",
+   "name": "Greg Landsman",
+   "party": "D",
+   "chamber": "House",
+   "state": "OH",
+   "quote": "Greg will always fight to protect reproductive freedoms.",
+   "kind": "Pledge",
+   "issue": "Abortion",
+   "source": {
+    "original": "https://www.landsmanforcongress.com/the-issues-1",
+    "snapshot": "20241105125622",
+    "wayback": "https://web.archive.org/web/20241105125622/https://www.landsmanforcongress.com/the-issues-1",
+    "file": "archive/2024/landsman-oh/the-issues-1.html",
+    "sha256_html": "8b4a640ab11e695cbb0dad01bbe7be1c03ad2a796b8401bc577addf668130b19"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-027",
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "question": "final passage",
+     "date": "2025-01-23",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll027.xml"
+    }
+   ],
+   "note": "Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-040",
+   "member": "scholten-mi",
+   "name": "Hillary J. Scholten",
+   "party": "D",
+   "chamber": "House",
+   "state": "MI",
+   "quote": "I vote to cap the cost of critical prescription drugs and insulin, and I defend the Affordable Care Act and work every day to expand on it.",
+   "kind": "Stated position",
+   "issue": "Health care",
+   "source": {
+    "original": "https://hillaryscholten.com/priorities/",
+    "snapshot": "20241105112425",
+    "wayback": "https://web.archive.org/web/20241105112425/https://hillaryscholten.com/priorities/",
+    "file": "archive/2024/scholten-mi/priorities.html",
+    "sha256_html": "a5c8e48df6dec3ae6b5dced77246a94ed9416e5905c6b4f116ba19afde9b2b3a"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-011",
+     "bill": "3-year ACA premium tax credit extension",
+     "question": "final passage",
+     "date": "2026-01-08",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2026/roll011.xml"
+    }
+   ],
+   "note": "The bill would have extended the enhanced ACA premium tax credits for three years.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-041",
+   "member": "budzinski-il",
+   "name": "Nikki Budzinski",
+   "party": "D",
+   "chamber": "House",
+   "state": "IL",
+   "quote": "Extend the child tax cut for working families",
+   "kind": "Stated position",
+   "issue": "Taxes",
+   "source": {
+    "original": "https://nikkiforcongress.com/budzinski-releases-plan-for-middle-class-relief-and-rising-costs/",
+    "snapshot": "20241103084709",
+    "wayback": "https://web.archive.org/web/20241103084709/https://nikkiforcongress.com/budzinski-releases-plan-for-middle-class-relief-and-rising-costs/",
+    "file": "archive/2024/budzinski-il/budzinski-releases-plan-for-middle-class-relief-and-rising-costs.html",
+    "sha256_html": "27e33e04d12ac25bd0e30bef1683cb5276960855a57ec720c9b2dcb6d14decac"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "2025-05-22",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "2025-07-03",
+     "vote": "No",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "Issues-page bullet. Judgment needed: H.R.1 raised the child tax credit to $2,200 and made it permanent, but not the larger, fully refundable 2021 version.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND5-042",
+   "member": "budzinski-il",
+   "name": "Nikki Budzinski",
+   "party": "D",
+   "chamber": "House",
+   "state": "IL",
+   "quote": "I will stand up for reproductive rights of women in my district and stand up against national abortion bans and other restrictive measures.",
+   "kind": "Pledge",
+   "issue": "Abortion",
+   "source": {
+    "original": "https://nikkiforcongress.com/pro-choice-champion-nikki-budzinski-stands-against-regan-deering/",
+    "snapshot": "20241102064746",
+    "wayback": "https://web.archive.org/web/20241102064746/https://nikkiforcongress.com/pro-choice-champion-nikki-budzinski-stands-against-regan-deering/",
+    "file": "archive/2024/budzinski-il/pro-choice-champion-nikki-budzinski-stands-against-regan-deering.html",
+    "sha256_html": "b8003b4d7b6554c5a3d77d8af7d15f2f4ac4ee0c847b5d074b85018b9f1edd3a"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-027",
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "question": "final passage",
+     "date": "2025-01-23",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll027.xml"
+    }
+   ],
+   "note": "Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  }
+ ],
+ "rejected": []
+}

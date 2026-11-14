@@ -1,0 +1,443 @@
+[
+ {
+  "member": "hirono-hi",
+  "cand": 1,
+  "kind": "Stated position",
+  "issue": "Abortion",
+  "votes": [
+   "senate-1-00011"
+  ],
+  "note": "Senate vote to start debate on the Born-Alive bill (failed, 52-47; needed 60). Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading."
+ },
+ {
+  "member": "hirono-hi",
+  "cand": 2,
+  "kind": "Pledge",
+  "issue": "Health care",
+  "votes": [
+   "senate-1-00644"
+  ],
+  "note": "Senate vote to start debate on a 3-year extension of the enhanced ACA premium tax credits (failed, 51-48; needed 60)."
+ },
+ {
+  "member": "hirono-hi",
+  "cand": 3,
+  "kind": "Stated position",
+  "issue": "Social Security & Medicare",
+  "votes": [
+   "senate-1-00372"
+  ],
+  "note": "Judgment needed: H.R.1 did not change Social Security or Medicare benefits directly; CBO said its deficit increase could trigger automatic Medicare cuts unless Congress waives them."
+ },
+ {
+  "member": "heinrich-nm",
+  "cand": 1,
+  "kind": "Stated position",
+  "issue": "Abortion",
+  "votes": [
+   "senate-1-00011"
+  ],
+  "note": "Senate vote to start debate on the Born-Alive bill (failed, 52-47; needed 60). Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading."
+ },
+ {
+  "member": "heinrich-nm",
+  "cand": 2,
+  "kind": "Stated position",
+  "issue": "Taxes",
+  "votes": [
+   "senate-1-00372"
+  ],
+  "note": "Judgment needed: H.R.1 raised the child tax credit to $2,200 and made it permanent, but not the larger, fully refundable 2021 version."
+ },
+ {
+  "member": "gillibrand-ny",
+  "cand": 0,
+  "kind": "Stated position",
+  "issue": "Medicaid",
+  "votes": [
+   "senate-1-00372"
+  ],
+  "note": "H.R.1 cut projected federal spending on Medicaid and SNAP."
+ },
+ {
+  "member": "cramer-nd",
+  "cand": 2,
+  "kind": "Pledge",
+  "issue": "Abortion",
+  "votes": [
+   "senate-1-00011"
+  ],
+  "note": "Senate vote to start debate on the Born-Alive bill (failed, 52-47; needed 60)."
+ },
+ {
+  "member": "cramer-nd",
+  "cand": 3,
+  "kind": "Stated position",
+  "issue": "Immigration",
+  "votes": [
+   "senate-1-00372"
+  ],
+  "note": "H.R.1 included funding for border wall construction. It also funded hiring of Border Patrol agents."
+ },
+ {
+  "member": "whitehouse-ri",
+  "cand": 1,
+  "kind": "Pledge",
+  "issue": "Health care",
+  "votes": [
+   "senate-1-00644"
+  ],
+  "note": "Senate vote to start debate on a 3-year extension of the enhanced ACA premium tax credits (failed, 51-48; needed 60)."
+ },
+ {
+  "member": "whitehouse-ri",
+  "cand": 2,
+  "kind": "Pledge",
+  "issue": "Social Security & Medicare",
+  "votes": [
+   "senate-1-00372"
+  ],
+  "note": "Judgment needed: H.R.1 did not change Social Security or Medicare benefits directly; CBO said its deficit increase could trigger automatic Medicare cuts unless Congress waives them."
+ },
+ {
+  "member": "whitehouse-ri",
+  "cand": 3,
+  "kind": "Pledge",
+  "issue": "Abortion",
+  "votes": [
+   "senate-1-00011"
+  ],
+  "note": "Senate vote to start debate on the Born-Alive bill (failed, 52-47; needed 60). Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading."
+ },
+ {
+  "member": "cantwell-wa",
+  "cand": 1,
+  "kind": "Pledge",
+  "issue": "Social Security & Medicare",
+  "votes": [
+   "senate-1-00372"
+  ],
+  "note": "Judgment needed: H.R.1 did not change Social Security or Medicare benefits directly; CBO said its deficit increase could trigger automatic Medicare cuts unless Congress waives them."
+ },
+ {
+  "member": "cantwell-wa",
+  "cand": 6,
+  "kind": "Stated position",
+  "issue": "Health care",
+  "votes": [
+   "senate-1-00644"
+  ],
+  "note": "Senate vote to start debate on a 3-year extension of the enhanced ACA premium tax credits (failed, 51-48; needed 60)."
+ },
+ {
+  "member": "garbarino-ny",
+  "cand": 0,
+  "kind": "Pledge",
+  "issue": "Taxes",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "garbarino-ny",
+  "cand": 4,
+  "kind": "Stated position",
+  "issue": "Immigration",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": "H.R.1 included funding for border wall construction."
+ },
+ {
+  "member": "miller-oh",
+  "cand": 0,
+  "kind": "Stated position",
+  "issue": "Federal spending",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": "Judgment needed: CBO estimated H.R.1 adds to the deficit over ten years, while supporters count its spending cuts. Whether it 'cuts spending' depends on the baseline."
+ },
+ {
+  "member": "miller-oh",
+  "cand": 2,
+  "kind": "Stated position",
+  "issue": "Immigration",
+  "votes": [
+   "house-2025-006",
+   "house-2025-023"
+  ],
+  "note": ""
+ },
+ {
+  "member": "wittman-va",
+  "cand": 6,
+  "kind": "Stated position",
+  "issue": "Immigration",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": "H.R.1 funded hiring of Border Patrol agents and ICE personnel."
+ },
+ {
+  "member": "clyde-ga",
+  "cand": 2,
+  "kind": "Pledge",
+  "issue": "Abortion",
+  "votes": [
+   "house-2025-027"
+  ],
+  "note": ""
+ },
+ {
+  "member": "clyde-ga",
+  "cand": 5,
+  "kind": "Stated position",
+  "issue": "Immigration",
+  "votes": [
+   "house-2025-006",
+   "house-2025-023"
+  ],
+  "note": ""
+ },
+ {
+  "member": "brecheen-ok",
+  "cand": 0,
+  "kind": "Stated position",
+  "issue": "Immigration",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": "H.R.1 included funding for border wall construction."
+ },
+ {
+  "member": "brecheen-ok",
+  "quote": "We must protect Social Security and Medicare.",
+  "page": "https://joshbrecheen.com/issues-2/",
+  "kind": "Stated position",
+  "issue": "Social Security & Medicare",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": "Judgment needed: H.R.1 did not change Social Security or Medicare benefits directly; CBO said its deficit increase could trigger automatic Medicare cuts unless Congress waives them."
+ },
+ {
+  "member": "hunt-tx",
+  "cand": 6,
+  "kind": "Pledge",
+  "issue": "Abortion",
+  "votes": [
+   "house-2025-027"
+  ],
+  "note": ""
+ },
+ {
+  "member": "hunt-tx",
+  "cand": 4,
+  "kind": "Pledge",
+  "issue": "Immigration",
+  "votes": [
+   "house-2025-006",
+   "house-2025-023"
+  ],
+  "note": ""
+ },
+ {
+  "member": "hageman-wy",
+  "cand": 0,
+  "kind": "Pledge",
+  "issue": "Taxes",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": "Judgment needed on the spending half of this pledge: CBO estimated H.R.1 adds to the deficit over ten years, while supporters count its spending cuts. Whether it 'cuts spending' depends on the baseline."
+ },
+ {
+  "member": "cammack-fl",
+  "cand": 4,
+  "kind": "Pledge",
+  "issue": "Federal spending",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": "Judgment needed: CBO estimated H.R.1 adds to the deficit over ten years, while supporters count its spending cuts. Whether it 'cuts spending' depends on the baseline."
+ },
+ {
+  "member": "spartz-in",
+  "cand": 0,
+  "kind": "Stated position",
+  "issue": "Federal spending",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": "Judgment needed: CBO estimated H.R.1 adds to the deficit over ten years, while supporters count its spending cuts. Whether it 'cuts spending' depends on the baseline."
+ },
+ {
+  "member": "steil-wi",
+  "cand": 4,
+  "kind": "Stated position",
+  "issue": "Immigration",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": "H.R.1 included funding for border wall construction."
+ },
+ {
+  "member": "underwood-il",
+  "cand": 0,
+  "kind": "Stated position",
+  "issue": "Abortion",
+  "votes": [
+   "house-2025-027"
+  ],
+  "note": "Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading."
+ },
+ {
+  "member": "craig-mn",
+  "cand": 1,
+  "kind": "Pledge",
+  "issue": "Social Security & Medicare",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": "Judgment needed: H.R.1 did not change Social Security or Medicare benefits directly; CBO said its deficit increase could trigger automatic Medicare cuts unless Congress waives them."
+ },
+ {
+  "member": "craig-mn",
+  "cand": 0,
+  "kind": "Pledge",
+  "issue": "Abortion",
+  "votes": [
+   "house-2025-027"
+  ],
+  "note": "Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading."
+ },
+ {
+  "member": "pappas-nh",
+  "cand": 0,
+  "kind": "Pledge",
+  "issue": "Fentanyl",
+  "votes": [
+   "house-2025-166"
+  ],
+  "note": "The HALT Fentanyl Act permanently lists fentanyl-related substances as Schedule I drugs, which brings tougher trafficking penalties."
+ },
+ {
+  "member": "pappas-nh",
+  "cand": 5,
+  "kind": "Stated position",
+  "issue": "Taxes",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": "Judgment needed: H.R.1 raised the child tax credit to $2,200 and made it permanent, but not the larger, fully refundable 2021 version."
+ },
+ {
+  "member": "davids-ks",
+  "quote": "I will always fight to make sure that we don\u2019t have politicians interfering in our health care decisions, reproductive health care or otherwise",
+  "page": "https://shariceforcongress.com/icymi-davids-champions-lower-costs-and-reproductive-rights-stands-up-to-her-party/",
+  "kind": "Pledge",
+  "issue": "Abortion",
+  "votes": [
+   "house-2025-027"
+  ],
+  "note": "Quoted in a news story posted on her campaign site. Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading."
+ },
+ {
+  "member": "dean-pa",
+  "cand": 0,
+  "kind": "Pledge",
+  "issue": "Social Security & Medicare",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": "Judgment needed: H.R.1 did not change Social Security or Medicare benefits directly; CBO said its deficit increase could trigger automatic Medicare cuts unless Congress waives them."
+ },
+ {
+  "member": "levin-ca",
+  "cand": 4,
+  "kind": "Pledge",
+  "issue": "Immigration",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": "H.R.1 funded more Border Patrol personnel and border infrastructure; judgment needed on a vote on the whole bill."
+ },
+ {
+  "member": "mcbath-ga",
+  "cand": 0,
+  "kind": "Stated position",
+  "issue": "Health care",
+  "votes": [
+   "house-2026-011"
+  ],
+  "note": "The bill would have extended the enhanced ACA premium tax credits for three years."
+ },
+ {
+  "member": "landsman-oh",
+  "cand": 1,
+  "kind": "Pledge",
+  "issue": "Health care",
+  "votes": [
+   "house-2026-011"
+  ],
+  "note": "The bill would have extended the enhanced ACA premium tax credits for three years."
+ },
+ {
+  "member": "landsman-oh",
+  "cand": 0,
+  "kind": "Pledge",
+  "issue": "Abortion",
+  "votes": [
+   "house-2025-027"
+  ],
+  "note": "Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading."
+ },
+ {
+  "member": "scholten-mi",
+  "cand": 2,
+  "kind": "Stated position",
+  "issue": "Health care",
+  "votes": [
+   "house-2026-011"
+  ],
+  "note": "The bill would have extended the enhanced ACA premium tax credits for three years."
+ },
+ {
+  "member": "budzinski-il",
+  "cand": 4,
+  "kind": "Stated position",
+  "issue": "Taxes",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": "Issues-page bullet. Judgment needed: H.R.1 raised the child tax credit to $2,200 and made it permanent, but not the larger, fully refundable 2021 version."
+ },
+ {
+  "member": "budzinski-il",
+  "quote": "I will stand up for reproductive rights of women in my district and stand up against national abortion bans and other restrictive measures.",
+  "page": "https://nikkiforcongress.com/pro-choice-champion-nikki-budzinski-stands-against-regan-deering/",
+  "kind": "Pledge",
+  "issue": "Abortion",
+  "votes": [
+   "house-2025-027"
+  ],
+  "note": "Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading."
+ }
+]

@@ -1,0 +1,415 @@
+{
+ "member": "sanders-vt",
+ "pages": 12,
+ "candidates": [
+  {
+   "score": 11,
+   "topics": [
+    "Immigration",
+    "Medicaid",
+    "Social Security & Medicare"
+   ],
+   "sentence": "The Centers for Medicare & Medicaid Services will receive all the federal funding necessary to ensure universal emergency health care coverage for all, regardless of income or immigration status.",
+   "page": "https://berniesanders.com/issues/emergency-response-coronavirus-pandemic/",
+   "file": "archive/2024/sanders-vt/issues-emergency-response-coronavirus-pandemic.html",
+   "snapshot": "20241105170405"
+  },
+  {
+   "score": 9,
+   "topics": [
+    "Social Security & Medicare",
+    "Abortion"
+   ],
+   "sentence": "Medicare coverage will be expanded and improved to include: include dental, hearing, vision, and home- and community-based long-term care, in-patient and out-patient services, mental health and substance abuse treatment, reproductive and maternity care, prescription drugs, and more.",
+   "page": "https://berniesanders.com/issues/",
+   "file": "archive/2024/sanders-vt/issues.html",
+   "snapshot": "20241105170538"
+  },
+  {
+   "score": 9,
+   "topics": [
+    "Social Security & Medicare",
+    "Taxes"
+   ],
+   "sentence": "Under this plan, the IRS, the Social Security Administration, the Treasury Department, credit unions, community banks and other financial institutions will work together to make sure this assistance reaches every American as quickly as possible.",
+   "page": "https://berniesanders.com/issues/emergency-response-coronavirus-pandemic/",
+   "file": "archive/2024/sanders-vt/issues-emergency-response-coronavirus-pandemic.html",
+   "snapshot": "20241105170405"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Social Security & Medicare",
+    "Abortion"
+   ],
+   "sentence": "Guarantee health care through Medicare for All, repeal the Hyde Amendment and fully fund Planned Parenthood, Title X, and other initiatives that protect women’s health, access to contraception, and the availability of a safe and legal abortion.",
+   "page": "https://berniesanders.com/issues/",
+   "file": "archive/2024/sanders-vt/issues.html",
+   "snapshot": "20241105170538"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "3) Cancel student debt, which will disproportionately help black doctors and nurses.",
+   "page": "https://berniesanders.com/sanders-plan-to-hire-more-black-health-care-professionals/",
+   "file": "archive/2024/sanders-vt/sanders-plan-to-hire-more-black-health-care-professionals.html",
+   "snapshot": "20241105171548"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "We will cancel the entire $1.6 trillion in outstanding student debt for the 45 million borrowers who are weighed down by the crushing burden of student debt.",
+   "page": "https://berniesanders.com/sanders-plan-to-hire-more-black-health-care-professionals/",
+   "file": "archive/2024/sanders-vt/sanders-plan-to-hire-more-black-health-care-professionals.html",
+   "snapshot": "20241105171548"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "Working together, a Bernie Sanders administration will end a rigged tax code and political system that allows large corporations to shift their profits to the Cayman Islands to avoid paying American taxes and to ship jobs to China and other low-wage countries to avoid paying American wages.",
+   "page": "https://berniesanders.com/issues/corporate-accountability-and-democracy/",
+   "file": "archive/2024/sanders-vt/issues-corporate-accountability-and-democracy.html",
+   "snapshot": "20241105170557"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "The reality is that we now have a tax code that has legalized tax dodging for large corporations and includes a myriad of tax breaks, deductions, credits, and tax avoidance loopholes that Bernie’s plan will end.",
+   "page": "https://berniesanders.com/issues/corporate-accountability-and-democracy/",
+   "file": "archive/2024/sanders-vt/issues-corporate-accountability-and-democracy.html",
+   "snapshot": "20241105170557"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "As president, Bernie will raise up to $3 trillion over 10 years by repealing all of the disastrous corporate tax breaks enacted under Trump, closing corporate tax loopholes, and demanding that large corporations pay their fair share of taxes.",
+   "page": "https://berniesanders.com/issues/corporate-accountability-and-democracy/",
+   "file": "archive/2024/sanders-vt/issues-corporate-accountability-and-democracy.html",
+   "snapshot": "20241105170557"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "Mental health care, under Medicare for All, will be free at the point of service, with no copayments or deductibles which can be a barrier to treatment.",
+   "page": "https://berniesanders.com/issues/criminal-justice-reform/",
+   "file": "archive/2024/sanders-vt/issues-criminal-justice-reform.html",
+   "snapshot": "20241105170850"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "This plan will expand the sustainable community school model which will fund trauma-informed care and services in schools, especially those schools which have been impacted by the War on Drugs, immigration raids, and shootings.",
+   "page": "https://berniesanders.com/issues/criminal-justice-reform/",
+   "file": "archive/2024/sanders-vt/issues-criminal-justice-reform.html",
+   "snapshot": "20241105170850"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "Bernie will end the institutional bias that forces people with disabilities out of their communities by passing the Disability Integration Act, of which he is proud to be a sponsor, and enacting Medicare for All, guaranteeing mental health care and home-and community-based services and assistive technologies to all who need them, without waitlists or asset or income restrictions.",
+   "page": "https://berniesanders.com/issues/disability-rights-old/",
+   "file": "archive/2024/sanders-vt/issues-disability-rights-old.html",
+   "snapshot": "20241105171535"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "We will eliminate all past due medical debt in this country.",
+   "page": "https://berniesanders.com/issues/eliminating-medical-debt/",
+   "file": "archive/2024/sanders-vt/issues-eliminating-medical-debt.html",
+   "snapshot": "20241105170949"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "When Bernie is in the White House, he will fight to make sure that no one in America goes bankrupt because of medical debt and will eliminate all past due medical debt in this country.",
+   "page": "https://berniesanders.com/issues/eliminating-medical-debt/",
+   "file": "archive/2024/sanders-vt/issues-eliminating-medical-debt.html",
+   "snapshot": "20241105170949"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "We will eliminate past-due medical debt, stop the predatory tactics of debt collectors, and ensure non-profit hospitals are serving their intended mission.",
+   "page": "https://berniesanders.com/issues/eliminating-medical-debt/",
+   "file": "archive/2024/sanders-vt/issues-eliminating-medical-debt.html",
+   "snapshot": "20241105170949"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "We will establish a public registry that will end racial biases in credit scores and ensure those with medical debt are not penalized for the “crime” of getting sick.",
+   "page": "https://berniesanders.com/issues/eliminating-medical-debt/",
+   "file": "archive/2024/sanders-vt/issues-eliminating-medical-debt.html",
+   "snapshot": "20241105170949"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "Under this proposal, Medicare will ensure that everyone in America, regardless of existing coverage, can receive the health care they need during this crisis.",
+   "page": "https://berniesanders.com/issues/emergency-response-coronavirus-pandemic/",
+   "file": "archive/2024/sanders-vt/issues-emergency-response-coronavirus-pandemic.html",
+   "snapshot": "20241105170405"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "We will provide all necessary assistance, including tax deferrals, utility payment suspension, rental assistance, affordable loans, and eviction protection for struggling businesses.",
+   "page": "https://berniesanders.com/issues/emergency-response-coronavirus-pandemic/",
+   "file": "archive/2024/sanders-vt/issues-emergency-response-coronavirus-pandemic.html",
+   "snapshot": "20241105170405"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "Through the power granted under section 14(2)(b) of the Federal Reserve Act, the Fed will buy short-term municipal debt securities.",
+   "page": "https://berniesanders.com/issues/emergency-response-coronavirus-pandemic/",
+   "file": "archive/2024/sanders-vt/issues-emergency-response-coronavirus-pandemic.html",
+   "snapshot": "20241105170405"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "Working together, we will provide debt relief to Puerto Rico, dissolve the disastrous fiscal control board, stop treating Puerto Rico like a colony, and give the people of Puerto Rico the fundamental right to determine their own future.",
+   "page": "https://berniesanders.com/issues/end-humanitarian-crisis-and-empower-people-puerto-rico/",
+   "file": "archive/2024/sanders-vt/issues-end-humanitarian-crisis-and-empower-people-puerto-rico.html",
+   "snapshot": "20241105171343"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "In addition to ensuring comprehensive coverage to every Puerto Rican through Medicare for All, he will invest in Puerto Rico’s health care infrastructure and workforce to ensure everyone can get the care they need in their communities.",
+   "page": "https://berniesanders.com/issues/end-humanitarian-crisis-and-empower-people-puerto-rico/",
+   "file": "archive/2024/sanders-vt/issues-end-humanitarian-crisis-and-empower-people-puerto-rico.html",
+   "snapshot": "20241105171343"
+  },
+  {
+   "score": 6,
+   "topics": [
+    "Medicaid",
+    "Social Security & Medicare",
+    "Food assistance"
+   ],
+   "sentence": "Bring parity to the treatment of Puerto Ricans in federal programs such as SNAP, Medicare, and Medicaid.",
+   "page": "https://berniesanders.com/issues/end-humanitarian-crisis-and-empower-people-puerto-rico/",
+   "file": "archive/2024/sanders-vt/issues-end-humanitarian-crisis-and-empower-people-puerto-rico.html",
+   "snapshot": "20241105171343"
+  },
+  {
+   "score": 6,
+   "topics": [
+    "Immigration",
+    "Taxes",
+    "Federal spending"
+   ],
+   "sentence": "would cancel all outstanding student debt, including for Puerto Ricans— both public and private loans; make all public colleges and universities, including the University of Puerto Rico, tuition and debt-free; and tax Wall Street to pay for it.",
+   "page": "https://berniesanders.com/issues/end-humanitarian-crisis-and-empower-people-puerto-rico/",
+   "file": "archive/2024/sanders-vt/issues-end-humanitarian-crisis-and-empower-people-puerto-rico.html",
+   "snapshot": "20241105171343"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "Expand Social Security benefits for all recipients and protect pensions.",
+   "page": "https://berniesanders.com/issues/",
+   "file": "archive/2024/sanders-vt/issues.html",
+   "snapshot": "20241105170538"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "Oppose all efforts to undermine or overturn Roe v.",
+   "page": "https://berniesanders.com/issues/",
+   "file": "archive/2024/sanders-vt/issues.html",
+   "snapshot": "20241105170538"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "End special tax breaks on capital gains and dividends for the top 1%.",
+   "page": "https://berniesanders.com/issues/",
+   "file": "archive/2024/sanders-vt/issues.html",
+   "snapshot": "20241105170538"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "They oppose an end to corporate political spending, and billionaires buying elections, under the disastrous",
+   "page": "https://berniesanders.com/issues/corporate-accountability-and-democracy/",
+   "file": "archive/2024/sanders-vt/issues-corporate-accountability-and-democracy.html",
+   "snapshot": "20241105170557"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "These large corporations are also able to create laws that benefit them, as we’ve seen with companies like Amazon fight to pay no taxes in the communities where they operate, while at the same time paying nothing in federal taxes.",
+   "page": "https://berniesanders.com/issues/corporate-accountability-and-democracy/",
+   "file": "archive/2024/sanders-vt/issues-corporate-accountability-and-democracy.html",
+   "snapshot": "20241105170557"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "End Corporate Tax Avoidance",
+   "page": "https://berniesanders.com/issues/corporate-accountability-and-democracy/",
+   "file": "archive/2024/sanders-vt/issues-corporate-accountability-and-democracy.html",
+   "snapshot": "20241105170557"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "According to the latest Gallup poll, 69 percent of the American people believe that corporations are paying too little in taxes.",
+   "page": "https://berniesanders.com/issues/corporate-accountability-and-democracy/",
+   "file": "archive/2024/sanders-vt/issues-corporate-accountability-and-democracy.html",
+   "snapshot": "20241105170557"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "If you cannot afford to pay fines and fees associated with criminal justice involvement, you can end up in a spiraling cycle of debt, with a suspended driver’s license, or even locked up in a modern debtor’s prison.",
+   "page": "https://berniesanders.com/issues/criminal-justice-reform/",
+   "file": "archive/2024/sanders-vt/issues-criminal-justice-reform.html",
+   "snapshot": "20241105170850"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "Guarantee tuition- and debt-free public colleges, universities, trade schools, and apprenticeship programs and the end equity gap in higher education attainment for people with disabilities by ensuring all our students get the help they need so they are ready for college and receive the support they need when they are in college.",
+   "page": "https://berniesanders.com/issues/criminal-justice-reform/",
+   "file": "archive/2024/sanders-vt/issues-criminal-justice-reform.html",
+   "snapshot": "20241105170850"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "Protect and expand the Social Security Disability Insurance program and Social Security Income Program.",
+   "page": "https://berniesanders.com/issues/disability-rights-old/",
+   "file": "archive/2024/sanders-vt/issues-disability-rights-old.html",
+   "snapshot": "20241105171535"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "Protect and expand the Social Security Disability Insurance program.",
+   "page": "https://berniesanders.com/issues/disability-rights-old/",
+   "file": "archive/2024/sanders-vt/issues-disability-rights-old.html",
+   "snapshot": "20241105171535"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "End abusive and harassing debt collection practices.",
+   "page": "https://berniesanders.com/issues/eliminating-medical-debt/",
+   "file": "archive/2024/sanders-vt/issues-eliminating-medical-debt.html",
+   "snapshot": "20241105170949"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "Not only must we eliminate past-due medical debt, we must also reform our corrupt bankruptcy system to make it easier to discharge medical bills put on credit cards and other forms of payment, and ensure this debt does not follow patients going forward.",
+   "page": "https://berniesanders.com/issues/eliminating-medical-debt/",
+   "file": "archive/2024/sanders-vt/issues-eliminating-medical-debt.html",
+   "snapshot": "20241105170949"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "End the onerous and regressive “credit counseling” required before filing to discharge medical debt.",
+   "page": "https://berniesanders.com/issues/eliminating-medical-debt/",
+   "file": "archive/2024/sanders-vt/issues-eliminating-medical-debt.html",
+   "snapshot": "20241105170949"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "We must begin thinking on a scale comparable to the threat, and make sure that we are protecting working people, low-income people, and the most vulnerable communities, not just giant corporations and Wall Street.",
+   "page": "https://berniesanders.com/issues/emergency-response-coronavirus-pandemic/",
+   "file": "archive/2024/sanders-vt/issues-emergency-response-coronavirus-pandemic.html",
+   "snapshot": "20241105170405"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "Long-term, we must cancel all student debt and make public colleges, universities, and trade schools tuition free and debt free.",
+   "page": "https://berniesanders.com/issues/emergency-response-coronavirus-pandemic/",
+   "file": "archive/2024/sanders-vt/issues-emergency-response-coronavirus-pandemic.html",
+   "snapshot": "20241105170405"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Food assistance"
+   ],
+   "sentence": "Suspend all Farm Service Agency loan payments to protect farmers during this crisis, extend crop insurance and emergency loans to all affected farmers, extend rural development loans, and expand the Emergency Food Assistance Program (TEFAP) to both help alleviate hunger throughout the country and support our farmers during this crisis.",
+   "page": "https://berniesanders.com/issues/emergency-response-coronavirus-pandemic/",
+   "file": "archive/2024/sanders-vt/issues-emergency-response-coronavirus-pandemic.html",
+   "snapshot": "20241105170405"
+  }
+ ]
+}

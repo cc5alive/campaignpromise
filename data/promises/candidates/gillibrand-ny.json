@@ -1,0 +1,48 @@
+{
+ "member": "gillibrand-ny",
+ "pages": 5,
+ "candidates": [
+  {
+   "score": 9,
+   "topics": [
+    "Medicaid",
+    "Social Security & Medicare",
+    "Food assistance"
+   ],
+   "sentence": "We need to protect and expand Social Security, Medicare and Medicaid, and also refuse to allow politicians to cut lifelines for low-income families like CHIP, SNAP and WIC.",
+   "page": "https://kirstengillibrand.com/issues/economy/",
+   "file": "archive/2024/gillibrand-ny/issues-economy.html",
+   "snapshot": "20240811181012"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "We need to rein in Wall Street risk and protect our financial system so unchecked greed can’t hurt families again.",
+   "page": "https://kirstengillibrand.com/issues/economy/",
+   "file": "archive/2024/gillibrand-ny/issues-economy.html",
+   "snapshot": "20240811181012"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "And we need to reverse the Trump tax plan’s massive corporate tax cut and make sure that wealthy Americans and companies pay their fair share in taxes—we should be looking out for middle-class families, not giving handouts to millionaires and corporations.",
+   "page": "https://kirstengillibrand.com/issues/economy/",
+   "file": "archive/2024/gillibrand-ny/issues-economy.html",
+   "snapshot": "20240811181012"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "She waged that uphill battle with commonsense ideas to reform congressional ethics, end the war in Iraq and introduce Medicare for All – and won.",
+   "page": "https://kirstengillibrand.com/about/",
+   "file": "archive/2024/gillibrand-ny/about.html",
+   "snapshot": "20241105080740"
+  }
+ ]
+}

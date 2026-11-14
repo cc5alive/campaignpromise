@@ -1,0 +1,36 @@
+{
+ "member": "malliotakis-ny",
+ "pages": 2,
+ "candidates": [
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "After years of persistent advocacy from Congress, organizations and animal lovers across the country, the Department of Veterans Affairs (VA) just confirmed, “We are no longer conducting any feline testing and are now bringing an end to animal research on sensitive species,” meaning cats, dogs, and non-human primates.",
+   "page": "https://nicolemalliotakis.com/",
+   "file": "archive/2024/malliotakis-ny/home.html",
+   "snapshot": "20241105221800"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "President Trump is the one who is going to secure our border, restore our economy, get this country back on track, and make our cities safe again.",
+   "page": "https://nicolemalliotakis.com/",
+   "file": "archive/2024/malliotakis-ny/home.html",
+   "snapshot": "20241105221800"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "President Trump is uniting Republicans AND Americans across the political spectrum who want secure borders, safe cities and economic prosperity.",
+   "page": "https://nicolemalliotakis.com/",
+   "file": "archive/2024/malliotakis-ny/home.html",
+   "snapshot": "20241105221800"
+  }
+ ]
+}
