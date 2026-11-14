@@ -1,0 +1,49 @@
+{
+  "name": "Marie Gluesenkamp Perez",
+  "domains_tried": [
+    "marieforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://marieforcongress.com/",
+      "timestamp": "20241105160059",
+      "wayback": "https://web.archive.org/web/20241105160059/https://marieforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105160059id_/https://marieforcongress.com/",
+      "file": "archive/2024/mgp/home.html",
+      "text_file": "archive/2024/mgp/home.txt",
+      "bytes": 221536,
+      "sha256_html": "d6ba644f316a2e58d4e99113b7846f5b06d4d90b4a6457e69921d4bb541c01b0",
+      "sha256_text": "fb57187dea475711869e02cf9eb53021963ae9e5450f7c58241e507970cd92e5"
+    },
+    {
+      "original": "https://marieforcongress.com/issues/",
+      "timestamp": "20241104225439",
+      "wayback": "https://web.archive.org/web/20241104225439/https://marieforcongress.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241104225439id_/https://marieforcongress.com/issues/",
+      "file": "archive/2024/mgp/issues.html",
+      "text_file": "archive/2024/mgp/issues.txt",
+      "bytes": 217389,
+      "sha256_html": "87268322347090d906c64c6c6c55e93b2fca77d2c25999741b24342883748be0",
+      "sha256_text": "1b071811eb0647f4e68af01a3fd2abd6a97754740b61b26b788ec2ab3d55ecb2"
+    },
+    {
+      "original": "https://marieforcongress.com/issues/embed/",
+      "timestamp": "20241103155412",
+      "wayback": "https://web.archive.org/web/20241103155412/https://marieforcongress.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241103155412id_/https://marieforcongress.com/issues/embed/",
+      "file": "archive/2024/mgp/issues-embed.html",
+      "text_file": "archive/2024/mgp/issues-embed.txt",
+      "bytes": 21408,
+      "sha256_html": "e49ac83681388d9e8b7e83821f0596e6529fec58674054d7acddb9bcf40c8a98",
+      "sha256_text": "acfe1355977edae11d260a8ad32228989ad4534b67688af68d527d6f8a36e16b"
+    }
+  ],
+  "snapshots_found": {
+    "marieforcongress.com": 25
+  },
+  "generated_utc": "2026-11-14T07:49:17Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
