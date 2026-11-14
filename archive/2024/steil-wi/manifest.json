@@ -1,0 +1,27 @@
+{
+  "name": "Bryan Steil",
+  "domains_tried": [
+    "steilforwisconsin.com"
+  ],
+  "pages": [
+    {
+      "original": "https://steilforwisconsin.com/issues/",
+      "timestamp": "20241015055957",
+      "wayback": "https://web.archive.org/web/20241015055957/https://steilforwisconsin.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241015055957id_/https://steilforwisconsin.com/issues/",
+      "file": "archive/2024/steil-wi/issues.html",
+      "text_file": "archive/2024/steil-wi/issues.txt",
+      "bytes": 144468,
+      "sha256_html": "233427bc79c3b291387e71aeeb82e76e5967f68857e51a25d63f2c497a9bf179",
+      "sha256_text": "b8150925c37d9048942a099f522aa7467a6fde20e3eb529c95234b8c1002a767"
+    }
+  ],
+  "snapshots_found": {
+    "steilforwisconsin.com": 1
+  },
+  "generated_utc": "2026-11-14T22:33:48Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
