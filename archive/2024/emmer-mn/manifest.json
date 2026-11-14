@@ -1,0 +1,148 @@
+{
+  "name": "Tom Emmer",
+  "domains_tried": [
+    "emmerforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://emmerforcongress.com/",
+      "timestamp": "20241105103050",
+      "wayback": "https://web.archive.org/web/20241105103050/https://emmerforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105103050id_/https://emmerforcongress.com/",
+      "file": "archive/2024/emmer-mn/home.html",
+      "text_file": "archive/2024/emmer-mn/home.txt",
+      "bytes": 139112,
+      "sha256_html": "37880a6c1714e7f01518ad83f3853734022b67a4155ddf3fe85dd11955120c11",
+      "sha256_text": "ec8cefbc2f2564efd0a7549a46b7368d2c6cba5fbc2acbcdc03cc761b635ad76"
+    },
+    {
+      "original": "https://emmerforcongress.com/05-02-20-issue-poll/",
+      "timestamp": "20241105083033",
+      "wayback": "https://web.archive.org/web/20241105083033/https://emmerforcongress.com/05-02-20-issue-poll/",
+      "wayback_raw": "https://web.archive.org/web/20241105083033id_/https://emmerforcongress.com/05-02-20-issue-poll/",
+      "file": "archive/2024/emmer-mn/05-02-20-issue-poll.html",
+      "text_file": "archive/2024/emmer-mn/05-02-20-issue-poll.txt",
+      "bytes": 124248,
+      "sha256_html": "fd651bbd577aa9fe0429391ca09d3a137ad9e108b869bb77b94de849878e68cd",
+      "sha256_text": "77d9c881c4445720e6f4ba040f9d2717e7539b1bda0fa6846e1293204697660d"
+    },
+    {
+      "original": "https://emmerforcongress.com/key-issues/",
+      "timestamp": "20241105081822",
+      "wayback": "https://web.archive.org/web/20241105081822/https://emmerforcongress.com/key-issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105081822id_/https://emmerforcongress.com/key-issues/",
+      "file": "archive/2024/emmer-mn/key-issues.html",
+      "text_file": "archive/2024/emmer-mn/key-issues.txt",
+      "bytes": 114218,
+      "sha256_html": "434d51338610d8a678b8f021c205ccece270936ab6cde77d2a8bbeb1ee4b56d3",
+      "sha256_text": "c0b52f1d93cf9f95ea5f68f598b159c714fab1054e21bc5b214f866e46620c09"
+    },
+    {
+      "original": "https://emmerforcongress.com/what-issues-are-important-to-you/",
+      "timestamp": "20241105083036",
+      "wayback": "https://web.archive.org/web/20241105083036/https://emmerforcongress.com/what-issues-are-important-to-you/",
+      "wayback_raw": "https://web.archive.org/web/20241105083036id_/https://emmerforcongress.com/what-issues-are-important-to-you/",
+      "file": "archive/2024/emmer-mn/what-issues-are-important-to-you.html",
+      "text_file": "archive/2024/emmer-mn/what-issues-are-important-to-you.txt",
+      "bytes": 124273,
+      "sha256_html": "ef40cdd9a1dfb6a16624b94efab910d4e97f44244ce924a6aefe188c15376ffe",
+      "sha256_text": "deb889b64dbb7214610e3562f071a6cad4140df6493ff5292b21c0bbd30dcfeb"
+    },
+    {
+      "original": "https://emmerforcongress.com/key-issues/embed/",
+      "timestamp": "20241102205202",
+      "wayback": "https://web.archive.org/web/20241102205202/https://emmerforcongress.com/key-issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241102205202id_/https://emmerforcongress.com/key-issues/embed/",
+      "file": "archive/2024/emmer-mn/key-issues-embed.html",
+      "text_file": "archive/2024/emmer-mn/key-issues-embed.txt",
+      "bytes": 19973,
+      "sha256_html": "665349a20ce5823e004f1b76c2cbb7e6178c3051bdf926bc96311dd9bd1de318",
+      "sha256_text": "998e92cecd4d7a8dfa329a81ea1bddd41a23942fd755025df45cf09e85bf0caf"
+    },
+    {
+      "original": "https://emmerforcongress.com/thankacop/crookston-mn-police-department/",
+      "timestamp": "20241105082537",
+      "wayback": "https://web.archive.org/web/20241105082537/https://emmerforcongress.com/thankacop/crookston-mn-police-department/",
+      "wayback_raw": "https://web.archive.org/web/20241105082537id_/https://emmerforcongress.com/thankacop/crookston-mn-police-department/",
+      "file": "archive/2024/emmer-mn/thankacop-crookston-mn-police-department.html",
+      "text_file": "archive/2024/emmer-mn/thankacop-crookston-mn-police-department.txt",
+      "bytes": 113716,
+      "sha256_html": "2846d46c4143260b299d29ad518a5806351f2f2364a04c2aa1356da489794cf2",
+      "sha256_text": "99b46139b13930a11b61126ebf19e009dcde0c2dcb84d4e1b1b88c981ff93454"
+    },
+    {
+      "original": "https://emmerforcongress.com/thankacop/crystal-police-department/",
+      "timestamp": "20241105082609",
+      "wayback": "https://web.archive.org/web/20241105082609/https://emmerforcongress.com/thankacop/crystal-police-department/",
+      "wayback_raw": "https://web.archive.org/web/20241105082609id_/https://emmerforcongress.com/thankacop/crystal-police-department/",
+      "file": "archive/2024/emmer-mn/thankacop-crystal-police-department.html",
+      "text_file": "archive/2024/emmer-mn/thankacop-crystal-police-department.txt",
+      "bytes": 113671,
+      "sha256_html": "7276c395cd68b6672f38c84c0e0882e8b62d96baea725a70eb0de97257a966eb",
+      "sha256_text": "bb64298353634a3c1bfdc57d2b00ad24605398cd4f2fc05a0b4a980066f0de97"
+    },
+    {
+      "original": "https://emmerforcongress.com/thankacop/eagan-police-department/",
+      "timestamp": "20241105082601",
+      "wayback": "https://web.archive.org/web/20241105082601/https://emmerforcongress.com/thankacop/eagan-police-department/",
+      "wayback_raw": "https://web.archive.org/web/20241105082601id_/https://emmerforcongress.com/thankacop/eagan-police-department/",
+      "file": "archive/2024/emmer-mn/thankacop-eagan-police-department.html",
+      "text_file": "archive/2024/emmer-mn/thankacop-eagan-police-department.txt",
+      "bytes": 113207,
+      "sha256_html": "e32915cd44550dd460b50cb393cb6d8219780cf1fa0279b29ddb615882efeb81",
+      "sha256_text": "c00228acdb80212b37f362667834faa7fe82f4dd2b92ca83e6d5b2339ec84d7a"
+    },
+    {
+      "original": "https://emmerforcongress.com/thankacop/elk-river-police-department/",
+      "timestamp": "20241105082458",
+      "wayback": "https://web.archive.org/web/20241105082458/https://emmerforcongress.com/thankacop/elk-river-police-department/",
+      "wayback_raw": "https://web.archive.org/web/20241105082458id_/https://emmerforcongress.com/thankacop/elk-river-police-department/",
+      "file": "archive/2024/emmer-mn/thankacop-elk-river-police-department.html",
+      "text_file": "archive/2024/emmer-mn/thankacop-elk-river-police-department.txt",
+      "bytes": 114411,
+      "sha256_html": "346531743bb55fc755ae6a790cbed5be95e9d19dd7fbd85ac24651e14362d19f",
+      "sha256_text": "ab7c11f066c59cf10e1538ab480cd5a762a7c368cbc060d496700f19096bc192"
+    },
+    {
+      "original": "https://emmerforcongress.com/thankacop/lakes-area-police-department/",
+      "timestamp": "20241105082756",
+      "wayback": "https://web.archive.org/web/20241105082756/https://emmerforcongress.com/thankacop/lakes-area-police-department/",
+      "wayback_raw": "https://web.archive.org/web/20241105082756id_/https://emmerforcongress.com/thankacop/lakes-area-police-department/",
+      "file": "archive/2024/emmer-mn/thankacop-lakes-area-police-department.html",
+      "text_file": "archive/2024/emmer-mn/thankacop-lakes-area-police-department.txt",
+      "bytes": 113139,
+      "sha256_html": "5d4faea8bfdc4e08e49e4d09c14f49141eebf46a93d86adcc222cc72da50fa3c",
+      "sha256_text": "237f8b380fcdd6d3ba9c246a520bc56943464dbad0404c95975c94f1cd5d4618"
+    },
+    {
+      "original": "https://emmerforcongress.com/thankacop/lino-lakes-police-department/",
+      "timestamp": "20241105082654",
+      "wayback": "https://web.archive.org/web/20241105082654/https://emmerforcongress.com/thankacop/lino-lakes-police-department/",
+      "wayback_raw": "https://web.archive.org/web/20241105082654id_/https://emmerforcongress.com/thankacop/lino-lakes-police-department/",
+      "file": "archive/2024/emmer-mn/thankacop-lino-lakes-police-department.html",
+      "text_file": "archive/2024/emmer-mn/thankacop-lino-lakes-police-department.txt",
+      "bytes": 112963,
+      "sha256_html": "4905f1cf634fbec3634c2ca16b58375659da87b1b55fe9cb81d5f565705b2252",
+      "sha256_text": "3f1920acb26709d4fbbba52392abc6fe815c33e4945b2c4e1b6663dffaa3bbf3"
+    },
+    {
+      "original": "https://emmerforcongress.com/thankacop/maple-grove-police-officer-tom-chaffin/",
+      "timestamp": "20241105082547",
+      "wayback": "https://web.archive.org/web/20241105082547/https://emmerforcongress.com/thankacop/maple-grove-police-officer-tom-chaffin/",
+      "wayback_raw": "https://web.archive.org/web/20241105082547id_/https://emmerforcongress.com/thankacop/maple-grove-police-officer-tom-chaffin/",
+      "file": "archive/2024/emmer-mn/thankacop-maple-grove-police-officer-tom-chaffin.html",
+      "text_file": "archive/2024/emmer-mn/thankacop-maple-grove-police-officer-tom-chaffin.txt",
+      "bytes": 114581,
+      "sha256_html": "77bd3c5b06c5f1da9407b53c5cabe5c99fda7c0680c4166e5a4b2548baa6c6b5",
+      "sha256_text": "e73445416e4a4a7327ce2a40c7e156fbefea4f1cea0f15f839f29108822946db"
+    }
+  ],
+  "snapshots_found": {
+    "emmerforcongress.com": 266
+  },
+  "generated_utc": "2026-11-14T08:40:54Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
