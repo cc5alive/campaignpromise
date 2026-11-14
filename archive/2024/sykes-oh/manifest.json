@@ -1,0 +1,38 @@
+{
+  "name": "Emilia Strong Sykes",
+  "domains_tried": [
+    "emiliasykesforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.emiliasykesforcongress.com/",
+      "timestamp": "20241105160056",
+      "wayback": "https://web.archive.org/web/20241105160056/https://www.emiliasykesforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105160056id_/https://www.emiliasykesforcongress.com/",
+      "file": "archive/2024/sykes-oh/home.html",
+      "text_file": "archive/2024/sykes-oh/home.txt",
+      "bytes": 590016,
+      "sha256_html": "6c059abcb911fa2cc899f608961b392c15fc472e911c73eca0ec8eafa87666f8",
+      "sha256_text": "ee16385c84d43be060b3512a8bd58df3273be06880f18167dc5beba96c0de4dd"
+    },
+    {
+      "original": "https://www.emiliasykesforcongress.com/issues",
+      "timestamp": "20241031143606",
+      "wayback": "https://web.archive.org/web/20241031143606/https://www.emiliasykesforcongress.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241031143606id_/https://www.emiliasykesforcongress.com/issues",
+      "file": "archive/2024/sykes-oh/issues.html",
+      "text_file": "archive/2024/sykes-oh/issues.txt",
+      "bytes": 449021,
+      "sha256_html": "fc637d2d2ea8e5a7b1910aff3398d7799df33575e76a7de6c56a1b4b087930fb",
+      "sha256_text": "6019a35e59ae1a54df169dd448bef8c6c24a50c87f37de57b82c4ec6a11df640"
+    }
+  ],
+  "snapshots_found": {
+    "emiliasykesforcongress.com": 9
+  },
+  "generated_utc": "2026-11-14T16:14:44Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
