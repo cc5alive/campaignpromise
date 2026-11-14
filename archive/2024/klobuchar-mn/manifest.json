@@ -1,0 +1,27 @@
+{
+  "name": "Amy Klobuchar",
+  "domains_tried": [
+    "amyklobuchar.com"
+  ],
+  "pages": [
+    {
+      "original": "https://amyklobuchar.com/",
+      "timestamp": "20241105201402",
+      "wayback": "https://web.archive.org/web/20241105201402/https://amyklobuchar.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105201402id_/https://amyklobuchar.com/",
+      "file": "archive/2024/klobuchar-mn/home.html",
+      "text_file": "archive/2024/klobuchar-mn/home.txt",
+      "bytes": 36697,
+      "sha256_html": "531c2ad61e64b6925ddc53a6e17739570ac46616d1749936d1032170fe1eb423",
+      "sha256_text": "8509144b09868e3c27c67295c215a5a38b70de9807ec8616dd4a3c5f36b41220"
+    }
+  ],
+  "snapshots_found": {
+    "amyklobuchar.com": 3
+  },
+  "generated_utc": "2026-11-14T15:47:05Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
