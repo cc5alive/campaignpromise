@@ -1,0 +1,49 @@
+{
+  "name": "Jefferson Shreve",
+  "domains_tried": [
+    "shreveforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.shreveforcongress.com/",
+      "timestamp": "20241105192826",
+      "wayback": "https://web.archive.org/web/20241105192826/https://www.shreveforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105192826id_/https://www.shreveforcongress.com/",
+      "file": "archive/2024/shreve-in/home.html",
+      "text_file": "archive/2024/shreve-in/home.txt",
+      "bytes": 95316,
+      "sha256_html": "b2db9df385ff712bb4593d4d9f038de36b95cdc8f08a9816e313f75f90f60378",
+      "sha256_text": "25085c525f8ba8e71b973a461ff1e1d383d4404b4f16e86e269bca3c038767f2"
+    },
+    {
+      "original": "https://www.shreveforcongress.com/issues/",
+      "timestamp": "20241105192831",
+      "wayback": "https://web.archive.org/web/20241105192831/https://www.shreveforcongress.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105192831id_/https://www.shreveforcongress.com/issues/",
+      "file": "archive/2024/shreve-in/issues.html",
+      "text_file": "archive/2024/shreve-in/issues.txt",
+      "bytes": 59363,
+      "sha256_html": "c2d29444a248296bef5c40be9ab5db0b03e19a3879e810911bcd477fd3d6a2fc",
+      "sha256_text": "3305b594000d31233e3942001b2a99b364913efd2ac2103d82dfd283b070ec4a"
+    },
+    {
+      "original": "https://www.shreveforcongress.com/issues/a-form_confirmation.html",
+      "timestamp": "20241105192829",
+      "wayback": "https://web.archive.org/web/20241105192829/https://www.shreveforcongress.com/issues/a-form_confirmation.html",
+      "wayback_raw": "https://web.archive.org/web/20241105192829id_/https://www.shreveforcongress.com/issues/a-form_confirmation.html",
+      "file": "archive/2024/shreve-in/issues-a-form-confirmation-html.html",
+      "text_file": "archive/2024/shreve-in/issues-a-form-confirmation-html.txt",
+      "bytes": 5486,
+      "sha256_html": "a05b1a7996cdf70da05fc785c80446a9b559da28799dea4eaba3fc4b6ccc17be",
+      "sha256_text": "28039f6516e9fafdcdb441e9757e7abba44d2dca7477eef68b59aa5611ab86cd"
+    }
+  ],
+  "snapshots_found": {
+    "shreveforcongress.com": 8
+  },
+  "generated_utc": "2026-11-14T16:36:20Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
