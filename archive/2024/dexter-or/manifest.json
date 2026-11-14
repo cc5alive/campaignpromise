@@ -1,0 +1,60 @@
+{
+  "name": "Maxine Dexter",
+  "domains_tried": [
+    "maxinefororegon.com"
+  ],
+  "pages": [
+    {
+      "original": "https://maxinefororegon.com/",
+      "timestamp": "20241105192909",
+      "wayback": "https://web.archive.org/web/20241105192909/https://maxinefororegon.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105192909id_/https://maxinefororegon.com/",
+      "file": "archive/2024/dexter-or/home.html",
+      "text_file": "archive/2024/dexter-or/home.txt",
+      "bytes": 385311,
+      "sha256_html": "682abda0022ed6d9e64be1b9cb25ef97d8d4afad2c32ccdefee60294e7f5071c",
+      "sha256_text": "c9140701bc895bf19becbb68a9d4e613a32ad2dd5b403099ce4fbeea3a0938c7"
+    },
+    {
+      "original": "https://maxinefororegon.com/issues",
+      "timestamp": "20241105045917",
+      "wayback": "https://web.archive.org/web/20241105045917/https://maxinefororegon.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105045917id_/https://maxinefororegon.com/issues",
+      "file": "archive/2024/dexter-or/issues.html",
+      "text_file": "archive/2024/dexter-or/issues.txt",
+      "bytes": 163166,
+      "sha256_html": "fdf538645963343934399982f9d77b8cadb989b52c5deaf531d305d40140a621",
+      "sha256_text": "6f74b2183baa80ac5fa4f9ccd8ce870d3b83b55a96ab4ba3c4a7a226955d5331"
+    },
+    {
+      "original": "https://maxinefororegon.com/press/opb-3-central-candidates-are-locked-in-a-fight-for-oregons-safest-democratic-seat",
+      "timestamp": "20241105050004",
+      "wayback": "https://web.archive.org/web/20241105050004/https://maxinefororegon.com/press/opb-3-central-candidates-are-locked-in-a-fight-for-oregons-safest-democratic-seat",
+      "wayback_raw": "https://web.archive.org/web/20241105050004id_/https://maxinefororegon.com/press/opb-3-central-candidates-are-locked-in-a-fight-for-oregons-safest-democratic-seat",
+      "file": "archive/2024/dexter-or/press-opb-3-central-candidates-are-locked-in-a-fight-for-oregons-safest-democratic-seat.html",
+      "text_file": "archive/2024/dexter-or/press-opb-3-central-candidates-are-locked-in-a-fight-for-oregons-safest-democratic-seat.txt",
+      "bytes": 94184,
+      "sha256_html": "78f79c6147f55ea7fc84cc053399f4bcd70f77bdef6c818d6cffb84f0af815dc",
+      "sha256_text": "2bf24425dc5b3dcf99e33a04dc1d7119fd47606400e478868a6bfb10e38b2532"
+    },
+    {
+      "original": "https://maxinefororegon.com/about",
+      "timestamp": "20241105045912",
+      "wayback": "https://web.archive.org/web/20241105045912/https://maxinefororegon.com/about",
+      "wayback_raw": "https://web.archive.org/web/20241105045912id_/https://maxinefororegon.com/about",
+      "file": "archive/2024/dexter-or/about.html",
+      "text_file": "archive/2024/dexter-or/about.txt",
+      "bytes": 108937,
+      "sha256_html": "72e8aa73a6bce9ef5a0b8bc1db7e231a59faba41589e8b6ed690150fe66ab849",
+      "sha256_text": "9053ffa9487aae12c85c111c06cd3522d81007d22c470f4ad5b4f81bc5384da2"
+    }
+  ],
+  "snapshots_found": {
+    "maxinefororegon.com": 50
+  },
+  "generated_utc": "2026-11-14T17:03:18Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
