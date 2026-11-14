@@ -1,0 +1,38 @@
+{
+  "name": "Mike Carey",
+  "domains_tried": [
+    "careyforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.careyforcongress.com/",
+      "timestamp": "20241105212430",
+      "wayback": "https://web.archive.org/web/20241105212430/https://www.careyforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105212430id_/https://www.careyforcongress.com/",
+      "file": "archive/2024/carey-oh/home.html",
+      "text_file": "archive/2024/carey-oh/home.txt",
+      "bytes": 24949,
+      "sha256_html": "188a2bd758f6fd57164ab699fadce3b427271101cc374ab48b1339179ff512d1",
+      "sha256_text": "3d035ad3b75bfcc52f918d96cbdd2e8d0d1d754be941993a94bdeb5175b69420"
+    },
+    {
+      "original": "https://www.careyforcongress.com/priorities",
+      "timestamp": "20241105212417",
+      "wayback": "https://web.archive.org/web/20241105212417/https://www.careyforcongress.com/priorities",
+      "wayback_raw": "https://web.archive.org/web/20241105212417id_/https://www.careyforcongress.com/priorities",
+      "file": "archive/2024/carey-oh/priorities.html",
+      "text_file": "archive/2024/carey-oh/priorities.txt",
+      "bytes": 24284,
+      "sha256_html": "92fe3e90fa73aede23b1213cac15df5ddc5e6d156bdaccd08d9e4ba27f53c8ad",
+      "sha256_text": "58bed58a30e9b7fd824eb456e67c64a9e162179756ca85b9dac2ff8c423f321c"
+    }
+  ],
+  "snapshots_found": {
+    "careyforcongress.com": 7
+  },
+  "generated_utc": "2026-11-14T22:22:40Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
