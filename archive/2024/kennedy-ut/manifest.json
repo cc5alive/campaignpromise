@@ -1,0 +1,72 @@
+{
+  "name": "Mike Kennedy",
+  "domains_tried": [
+    "mikekennedyforutah.com",
+    "kennedyforutah.com"
+  ],
+  "pages": [
+    {
+      "original": "https://mikekennedyforutah.com/",
+      "timestamp": "20241105164654",
+      "wayback": "https://web.archive.org/web/20241105164654/https://mikekennedyforutah.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105164654id_/https://mikekennedyforutah.com/",
+      "file": "archive/2024/kennedy-ut/home.html",
+      "text_file": "archive/2024/kennedy-ut/home.txt",
+      "bytes": 142991,
+      "sha256_html": "59531829887d2dbf6b94e0c4af693709993b8c125a97f94edbad1ac424bfa486",
+      "sha256_text": "7b13fce7dc6f15a9215120a2d1632bb7c3a2932d52cd6da23c04207c829eaa56"
+    },
+    {
+      "original": "https://mikekennedyforutah.com/issues/",
+      "timestamp": "20241105164910",
+      "wayback": "https://web.archive.org/web/20241105164910/https://mikekennedyforutah.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105164910id_/https://mikekennedyforutah.com/issues/",
+      "file": "archive/2024/kennedy-ut/issues.html",
+      "text_file": "archive/2024/kennedy-ut/issues.txt",
+      "bytes": 84329,
+      "sha256_html": "bc3e5531ee41d61152c6d06b84158eb21aaccbc598c212be695e61c60a0981e3",
+      "sha256_text": "abb758a94a34eb0685a3bd417b496c772897f7ff43ccd1f728248140b65eb9e7"
+    },
+    {
+      "original": "https://mikekennedyforutah.com/text-policy/",
+      "timestamp": "20241105164906",
+      "wayback": "https://web.archive.org/web/20241105164906/https://mikekennedyforutah.com/text-policy/",
+      "wayback_raw": "https://web.archive.org/web/20241105164906id_/https://mikekennedyforutah.com/text-policy/",
+      "file": "archive/2024/kennedy-ut/text-policy.html",
+      "text_file": "archive/2024/kennedy-ut/text-policy.txt",
+      "bytes": 49663,
+      "sha256_html": "31aabf1c73eca3b7062f092e1c27e24997ef779c953707e8efaaa5a1647f1469",
+      "sha256_text": "fdf6e2cb38029da6db5337455edebcc64f53aa0f4192cb8c939c785424b0e487"
+    },
+    {
+      "original": "https://mikekennedyforutah.com/issues/embed/",
+      "timestamp": "20241102193517",
+      "wayback": "https://web.archive.org/web/20241102193517/https://mikekennedyforutah.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241102193517id_/https://mikekennedyforutah.com/issues/embed/",
+      "file": "archive/2024/kennedy-ut/issues-embed.html",
+      "text_file": "archive/2024/kennedy-ut/issues-embed.txt",
+      "bytes": 20382,
+      "sha256_html": "6d9d1d0221cd8f8a1ad9d455d1faea8de4729f6e703bd3079b3e48ffa4a9c036",
+      "sha256_text": "e5afe82f3982acf28f8324991234fea12c9ef89a158c33c767e1663c8cf29784"
+    },
+    {
+      "original": "https://mikekennedyforutah.com/text-policy/embed/",
+      "timestamp": "20241104011326",
+      "wayback": "https://web.archive.org/web/20241104011326/https://mikekennedyforutah.com/text-policy/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241104011326id_/https://mikekennedyforutah.com/text-policy/embed/",
+      "file": "archive/2024/kennedy-ut/text-policy-embed.html",
+      "text_file": "archive/2024/kennedy-ut/text-policy-embed.txt",
+      "bytes": 20223,
+      "sha256_html": "852e99a6f5d0ac9a3ac7943db758d68e76bc05b93892edb2c7c3059da527e60c",
+      "sha256_text": "e9f5bf6bf8dcf3f05d035428b569428ec9b4534e99d9b18302b45608ee862385"
+    }
+  ],
+  "snapshots_found": {
+    "mikekennedyforutah.com": 42
+  },
+  "generated_utc": "2026-11-14T16:52:15Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
