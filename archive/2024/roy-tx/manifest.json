@@ -1,0 +1,82 @@
+{
+  "name": "Chip Roy",
+  "domains_tried": [
+    "chiproy.com"
+  ],
+  "pages": [
+    {
+      "original": "https://chiproy.com/",
+      "timestamp": "20241105182602",
+      "wayback": "https://web.archive.org/web/20241105182602/https://chiproy.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105182602id_/https://chiproy.com/",
+      "file": "archive/2024/roy-tx/home.html",
+      "text_file": "archive/2024/roy-tx/home.txt",
+      "bytes": 13059,
+      "sha256_html": "4737a540e1e9e5c387ca0770f7d400bd3052944bffe17f12afe0ac34d14b9d84",
+      "sha256_text": "f30967b48104d4e020c6fcc68c10c2228768fefe061a522c9de7b6da6de8ee75"
+    },
+    {
+      "original": "https://chiproy.com/issues/",
+      "timestamp": "20241105182606",
+      "wayback": "https://web.archive.org/web/20241105182606/https://chiproy.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105182606id_/https://chiproy.com/issues/",
+      "file": "archive/2024/roy-tx/issues.html",
+      "text_file": "archive/2024/roy-tx/issues.txt",
+      "bytes": 31621,
+      "sha256_html": "693854d5df4e06b4c4696c7453053e535655ceb597e87c0c03a733dfa758a6c4",
+      "sha256_text": "034b2e4d973ae985d257fd1944faac3932ade27fe1d7239db8dc17b8ca5c223f"
+    },
+    {
+      "original": "https://chiproy.com/news/chip-roy-slams-kamala-harris-border-policies/",
+      "timestamp": "20241105182624",
+      "wayback": "https://web.archive.org/web/20241105182624/https://chiproy.com/news/chip-roy-slams-kamala-harris-border-policies/",
+      "wayback_raw": "https://web.archive.org/web/20241105182624id_/https://chiproy.com/news/chip-roy-slams-kamala-harris-border-policies/",
+      "file": "archive/2024/roy-tx/news-chip-roy-slams-kamala-harris-border-policies.html",
+      "text_file": "archive/2024/roy-tx/news-chip-roy-slams-kamala-harris-border-policies.txt",
+      "bytes": 9137,
+      "sha256_html": "0b03a30dfaa73c18fcd72384cfdfa362f740162ab197585ab81f099158922962",
+      "sha256_text": "f2d82f5673f52ff8a3e1f62abefbeca552fb3c614338509bff3354d4682dd8c5"
+    },
+    {
+      "original": "https://chiproy.com/news/exclusive-rightly-concerned-chip-roy-demands-answers-on-migrant-shelter-crime-data-after-deadly-police-shootout/",
+      "timestamp": "20241105182619",
+      "wayback": "https://web.archive.org/web/20241105182619/https://chiproy.com/news/exclusive-rightly-concerned-chip-roy-demands-answers-on-migrant-shelter-crime-data-after-deadly-police-shootout/",
+      "wayback_raw": "https://web.archive.org/web/20241105182619id_/https://chiproy.com/news/exclusive-rightly-concerned-chip-roy-demands-answers-on-migrant-shelter-crime-data-after-deadly-police-shootout/",
+      "file": "archive/2024/roy-tx/news-exclusive-rightly-concerned-chip-roy-demands-answers-on-migrant-shelter-crime-data-after-deadly-police-shootout.html",
+      "text_file": "archive/2024/roy-tx/news-exclusive-rightly-concerned-chip-roy-demands-answers-on-migrant-shelter-crime-data-after-deadly-police-shootout.txt",
+      "bytes": 13445,
+      "sha256_html": "9b719c778734e78fd66d6a4a1ab98381d41c47d3d3bac200489cf1af00520020",
+      "sha256_text": "e42eea5121b06a7a12865512b057505cc17cf1400393460d7ab5e69f37a504d1"
+    },
+    {
+      "original": "https://chiproy.com/news/wall-street-journal-chip-roy-pivotal-in-house-speaker-talks-braces-for-fight-on-debt-ceiling/",
+      "timestamp": "20241105182615",
+      "wayback": "https://web.archive.org/web/20241105182615/https://chiproy.com/news/wall-street-journal-chip-roy-pivotal-in-house-speaker-talks-braces-for-fight-on-debt-ceiling/",
+      "wayback_raw": "https://web.archive.org/web/20241105182615id_/https://chiproy.com/news/wall-street-journal-chip-roy-pivotal-in-house-speaker-talks-braces-for-fight-on-debt-ceiling/",
+      "file": "archive/2024/roy-tx/news-wall-street-journal-chip-roy-pivotal-in-house-speaker-talks-braces-for-fight-on-debt-ceiling.html",
+      "text_file": "archive/2024/roy-tx/news-wall-street-journal-chip-roy-pivotal-in-house-speaker-talks-braces-for-fight-on-debt-ceiling.txt",
+      "bytes": 18103,
+      "sha256_html": "304ab7366b9139d191e11a94b5ad3b6ecd703d8f852267ce238757cc97fec9ad",
+      "sha256_text": "64e65ae8d134d29b3f394bed13a5c0a4b0f92348fdc4344b3eb44b4b809892f3"
+    },
+    {
+      "original": "https://chiproy.com/about/",
+      "timestamp": "20241105182613",
+      "wayback": "https://web.archive.org/web/20241105182613/https://chiproy.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105182613id_/https://chiproy.com/about/",
+      "file": "archive/2024/roy-tx/about.html",
+      "text_file": "archive/2024/roy-tx/about.txt",
+      "bytes": 15134,
+      "sha256_html": "75dc18fd55c3cb19f029be94136c8c0c1e1d2f1e03cf0e48c09db79d8433da98",
+      "sha256_text": "91a3dd4d5d084abc06db2fef974c541ce8dd2e1ad78be0e8bfb6b7b6a7a81a06"
+    }
+  ],
+  "snapshots_found": {
+    "chiproy.com": 27
+  },
+  "generated_utc": "2026-11-14T08:28:42Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
