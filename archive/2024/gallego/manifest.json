@@ -26,23 +26,12 @@
       "bytes": 96472,
       "sha256_html": "2d400feafa4b3879cf4a480b96384c4a32a4a1210bd970a859e3cfc5d2dabc4a",
       "sha256_text": "bfa1cb78ebf6c209769cccca30fb5b136d07776bf5e44a77b2fab34662d9a08f"
-    },
-    {
-      "original": "https://gallegoforarizona.com/about/",
-      "timestamp": "20241101194015",
-      "wayback": "https://web.archive.org/web/20241101194015/https://gallegoforarizona.com/about/",
-      "wayback_raw": "https://web.archive.org/web/20241101194015id_/https://gallegoforarizona.com/about/",
-      "file": "archive/2024/gallego/about.html",
-      "text_file": "archive/2024/gallego/about.txt",
-      "bytes": 81303,
-      "sha256_html": "1beed6e89362a40daa258bbe74322d9aa5e5291bcfe1e9aa5fb9bcf5f0b10741",
-      "sha256_text": "cd53cd501be5482eeaed4509aa3225dbcf7addd35c5a66f01ba96a0195f3d7f4"
     }
   ],
   "snapshots_found": {
     "gallegoforarizona.com": 1
   },
-  "generated_utc": "2026-11-14T07:56:45Z",
+  "generated_utc": "2026-11-14T08:18:59Z",
   "window": {
     "from": "20240801",
     "to": "20241105"
