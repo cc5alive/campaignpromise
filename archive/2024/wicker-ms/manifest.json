@@ -1,0 +1,27 @@
+{
+  "name": "Roger F. Wicker",
+  "domains_tried": [
+    "wickerforsenate.com"
+  ],
+  "pages": [
+    {
+      "original": "https://wickerforsenate.com/",
+      "timestamp": "20241105174022",
+      "wayback": "https://web.archive.org/web/20241105174022/https://wickerforsenate.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105174022id_/https://wickerforsenate.com/",
+      "file": "archive/2024/wicker-ms/home.html",
+      "text_file": "archive/2024/wicker-ms/home.txt",
+      "bytes": 71176,
+      "sha256_html": "6ca2c74caaebd7edb1d38acf506c89dc1e2a337547e137d2de4b5b8e11761eca",
+      "sha256_text": "f16b185e3a13ebd1cc1cbffb7c7df7f996d418453f93dc01aae12588e32dd59e"
+    }
+  ],
+  "snapshots_found": {
+    "wickerforsenate.com": 19
+  },
+  "generated_utc": "2026-11-14T22:17:33Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
