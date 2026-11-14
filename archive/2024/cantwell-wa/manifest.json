@@ -1,0 +1,83 @@
+{
+  "name": "Maria Cantwell",
+  "domains_tried": [
+    "cantwell.com",
+    "mariacantwell.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.cantwell.com/",
+      "timestamp": "20241103195647",
+      "wayback": "https://web.archive.org/web/20241103195647/https://www.cantwell.com/",
+      "wayback_raw": "https://web.archive.org/web/20241103195647id_/https://www.cantwell.com/",
+      "file": "archive/2024/cantwell-wa/home.html",
+      "text_file": "archive/2024/cantwell-wa/home.txt",
+      "bytes": 43804,
+      "sha256_html": "982ed70153241f85513ffd80d1ab7d4749bab910ce3c99894330f9d86bc65936",
+      "sha256_text": "3010bf3fd097989019ace61f1e0d678f3a929c8e1e575a609e4a179551ad4459"
+    },
+    {
+      "original": "https://www.cantwell.com/healthcareissues",
+      "timestamp": "20241101181917",
+      "wayback": "https://web.archive.org/web/20241101181917/https://www.cantwell.com/healthcareissues",
+      "wayback_raw": "https://web.archive.org/web/20241101181917id_/https://www.cantwell.com/healthcareissues",
+      "file": "archive/2024/cantwell-wa/healthcareissues.html",
+      "text_file": "archive/2024/cantwell-wa/healthcareissues.txt",
+      "bytes": 43310,
+      "sha256_html": "0026df08cb9e18c57418ea2353b3a8b0dbd11003f35e7caa4b8e838e29a7eb14",
+      "sha256_text": "6b72f2d43f4152f4f07163c42ecefb0a1d7abfb93935d0cff4444dcd7c293154"
+    },
+    {
+      "original": "https://www.cantwell.com/issues/",
+      "timestamp": "20241101182946",
+      "wayback": "https://web.archive.org/web/20241101182946/https://www.cantwell.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241101182946id_/https://www.cantwell.com/issues/",
+      "file": "archive/2024/cantwell-wa/issues.html",
+      "text_file": "archive/2024/cantwell-wa/issues.txt",
+      "bytes": 85895,
+      "sha256_html": "5e3cd07b24eb4fd4a5f03a727f8525248c1b51dde1a978a7a5df9dda1372925f",
+      "sha256_text": "2b034d8e5d6be1ca1b86500c35d5ab6b9fb212f0073d4f0a37064d6734c56000"
+    },
+    {
+      "original": "https://www.cantwell.com/issuestop",
+      "timestamp": "20241101183815",
+      "wayback": "https://web.archive.org/web/20241101183815/https://www.cantwell.com/issuestop",
+      "wayback_raw": "https://web.archive.org/web/20241101183815id_/https://www.cantwell.com/issuestop",
+      "file": "archive/2024/cantwell-wa/issuestop.html",
+      "text_file": "archive/2024/cantwell-wa/issuestop.txt",
+      "bytes": 42630,
+      "sha256_html": "83594eb182e910d40714f150b04c1c634758de2e8e41e4219c7a27fa5c373a5f",
+      "sha256_text": "e9a6f1ef707be9734fbbb8cfddd7bea05d75ef139a05cf562ac869162f12c6a0"
+    },
+    {
+      "original": "https://www.cantwell.com/planned-parenthood",
+      "timestamp": "20241014045518",
+      "wayback": "https://web.archive.org/web/20241014045518/https://www.cantwell.com/planned-parenthood",
+      "wayback_raw": "https://web.archive.org/web/20241014045518id_/https://www.cantwell.com/planned-parenthood",
+      "file": "archive/2024/cantwell-wa/planned-parenthood.html",
+      "text_file": "archive/2024/cantwell-wa/planned-parenthood.txt",
+      "bytes": 42080,
+      "sha256_html": "5bc824945aba55b66c11574858dfde7a635619b48d9f41fc3eb5c5599fa69d24",
+      "sha256_text": "326ea5344a1652617974696f138e1ba3db67ce8b72be12cb45b7768f834c1e50"
+    },
+    {
+      "original": "https://www.cantwell.com/100days/2018/7/30/where-things-stand-07302018",
+      "timestamp": "20241014045520",
+      "wayback": "https://web.archive.org/web/20241014045520/https://www.cantwell.com/100days/2018/7/30/where-things-stand-07302018",
+      "wayback_raw": "https://web.archive.org/web/20241014045520id_/https://www.cantwell.com/100days/2018/7/30/where-things-stand-07302018",
+      "file": "archive/2024/cantwell-wa/100days-2018-7-30-where-things-stand-07302018.html",
+      "text_file": "archive/2024/cantwell-wa/100days-2018-7-30-where-things-stand-07302018.txt",
+      "bytes": 48332,
+      "sha256_html": "dcc6ec564c6b2adbccee646ef261a995f079802837d37e01441e77b461cabe40",
+      "sha256_text": "afd40acaa64594041a9bb6b2c5bf7e7fa6f3349e572ec06219acc008d74a671f"
+    }
+  ],
+  "snapshots_found": {
+    "cantwell.com": 38
+  },
+  "generated_utc": "2026-11-14T22:19:44Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
