@@ -1,0 +1,71 @@
+{
+  "name": "Byron Donalds",
+  "domains_tried": [
+    "byrondonalds.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.byrondonalds.com/",
+      "timestamp": "20241104090952",
+      "wayback": "https://web.archive.org/web/20241104090952/https://www.byrondonalds.com/",
+      "wayback_raw": "https://web.archive.org/web/20241104090952id_/https://www.byrondonalds.com/",
+      "file": "archive/2024/donalds-fl/home.html",
+      "text_file": "archive/2024/donalds-fl/home.txt",
+      "bytes": 31754,
+      "sha256_html": "e8f5e2b3bb7f59d2cc69d7e0f90daaed10f3c7f3d5b9b6c9c369134be5828831",
+      "sha256_text": "8352c174f1b08f4c6eb76409d74c9d78aa03f3491b507dfee255d102f94b1f70"
+    },
+    {
+      "original": "https://www.byrondonalds.com/family_policy",
+      "timestamp": "20241104074850",
+      "wayback": "https://web.archive.org/web/20241104074850/https://www.byrondonalds.com/family_policy",
+      "wayback_raw": "https://web.archive.org/web/20241104074850id_/https://www.byrondonalds.com/family_policy",
+      "file": "archive/2024/donalds-fl/family-policy.html",
+      "text_file": "archive/2024/donalds-fl/family-policy.txt",
+      "bytes": 27328,
+      "sha256_html": "16c4b3b13e7c37b78073fe72b912fbfa563ad191523732242a1f1bc234e9edb4",
+      "sha256_text": "a9c177a6c2ec50d73cd5327df4f85fb51e531d6f11a3f787251a4e72c8bf9f9e"
+    },
+    {
+      "original": "https://www.byrondonalds.com/federal_policy",
+      "timestamp": "20241104091337",
+      "wayback": "https://web.archive.org/web/20241104091337/https://www.byrondonalds.com/federal_policy",
+      "wayback_raw": "https://web.archive.org/web/20241104091337id_/https://www.byrondonalds.com/federal_policy",
+      "file": "archive/2024/donalds-fl/federal-policy.html",
+      "text_file": "archive/2024/donalds-fl/federal-policy.txt",
+      "bytes": 24218,
+      "sha256_html": "ae589d3ac548cbf4bf3837ad58e3ea24e605ee3b88476046570d514461ffcd56",
+      "sha256_text": "0c5934fab8ec0e4c668149303316a9d2e97b0ed3fe6ddc849eade1e07f6d688b"
+    },
+    {
+      "original": "https://www.byrondonalds.com/foreign_policy",
+      "timestamp": "20241104075345",
+      "wayback": "https://web.archive.org/web/20241104075345/https://www.byrondonalds.com/foreign_policy",
+      "wayback_raw": "https://web.archive.org/web/20241104075345id_/https://www.byrondonalds.com/foreign_policy",
+      "file": "archive/2024/donalds-fl/foreign-policy.html",
+      "text_file": "archive/2024/donalds-fl/foreign-policy.txt",
+      "bytes": 24536,
+      "sha256_html": "f4df815cbe14212af919770f42ee133a7ca14eb308f04254dd3147c86a54ce3c",
+      "sha256_text": "64530b34d4f9678c7d924e219555d8e052ab11ac789b616add19bf369a87a649"
+    },
+    {
+      "original": "https://www.byrondonalds.com/about",
+      "timestamp": "20241104090017",
+      "wayback": "https://web.archive.org/web/20241104090017/https://www.byrondonalds.com/about",
+      "wayback_raw": "https://web.archive.org/web/20241104090017id_/https://www.byrondonalds.com/about",
+      "file": "archive/2024/donalds-fl/about.html",
+      "text_file": "archive/2024/donalds-fl/about.txt",
+      "bytes": 27147,
+      "sha256_html": "84aaaece1eb03884544e2d569b0f5e7359679cab84307ee7656cb1ec76e8b5c1",
+      "sha256_text": "fb500a3359bcc7ef3f791c640fab3b85f1799513b2bdaf1340ead95c404080af"
+    }
+  ],
+  "snapshots_found": {
+    "byrondonalds.com": 71
+  },
+  "generated_utc": "2026-11-14T08:31:50Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
