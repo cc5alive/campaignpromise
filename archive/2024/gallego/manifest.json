@@ -1,0 +1,28 @@
+{
+  "name": "Ruben Gallego",
+  "domains_tried": [
+    "gallegoforarizona.com",
+    "rubengallego.com"
+  ],
+  "pages": [
+    {
+      "original": "https://gallegoforarizona.com/",
+      "timestamp": "20241104230137",
+      "wayback": "https://web.archive.org/web/20241104230137/https://gallegoforarizona.com/",
+      "wayback_raw": "https://web.archive.org/web/20241104230137id_/https://gallegoforarizona.com/",
+      "file": "archive/2024/gallego/home.html",
+      "text_file": "archive/2024/gallego/home.txt",
+      "bytes": 150445,
+      "sha256_html": "1e00d2e3146c1f6d57eefd32f9197bbbd9c67a7cbbea0be7f45066fad4af4b85",
+      "sha256_text": "5c48c87136a08e9c6ad16307ac50eee4bd2ca043d3a097d57bfb09b58946e900"
+    }
+  ],
+  "snapshots_found": {
+    "gallegoforarizona.com": 1
+  },
+  "generated_utc": "2026-11-14T07:41:47Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
