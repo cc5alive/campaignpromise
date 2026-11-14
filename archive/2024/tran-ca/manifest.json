@@ -1,0 +1,49 @@
+{
+  "name": "Derek Tran",
+  "domains_tried": [
+    "derektranforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.derektranforcongress.com/",
+      "timestamp": "20241105185436",
+      "wayback": "https://web.archive.org/web/20241105185436/https://www.derektranforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105185436id_/https://www.derektranforcongress.com/",
+      "file": "archive/2024/tran-ca/home.html",
+      "text_file": "archive/2024/tran-ca/home.txt",
+      "bytes": 1631742,
+      "sha256_html": "1cba97e942d647fb09dc897b87b0f8ba0e585fe2fed25a7fa5e9d46df540a07a",
+      "sha256_text": "bcad2d79642f1f3ce5454785c68869e97260b34eb353c99257272545b135d3cc"
+    },
+    {
+      "original": "https://www.derektranforcongress.com/issues",
+      "timestamp": "20241105052204",
+      "wayback": "https://web.archive.org/web/20241105052204/https://www.derektranforcongress.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105052204id_/https://www.derektranforcongress.com/issues",
+      "file": "archive/2024/tran-ca/issues.html",
+      "text_file": "archive/2024/tran-ca/issues.txt",
+      "bytes": 1506468,
+      "sha256_html": "6be4311fabf5231c124fe229f86ce4dc4df17a3b946f5e1d5442fced1d4f9895",
+      "sha256_text": "699bf05fbaf36342dc0a5545d293bd6707b158be39723c98b82afd4586017c62"
+    },
+    {
+      "original": "https://www.derektranforcongress.com/about",
+      "timestamp": "20241105180314",
+      "wayback": "https://web.archive.org/web/20241105180314/https://www.derektranforcongress.com/about",
+      "wayback_raw": "https://web.archive.org/web/20241105180314id_/https://www.derektranforcongress.com/about",
+      "file": "archive/2024/tran-ca/about.html",
+      "text_file": "archive/2024/tran-ca/about.txt",
+      "bytes": 1556616,
+      "sha256_html": "0f393cd70aba974be96057a86b20f4ac6621d4d64808783214571eee8bef967d",
+      "sha256_text": "afb96d2f87693bbb0116dfe7d613dc1b0c901a75bdead39543d231ca967e34d5"
+    }
+  ],
+  "snapshots_found": {
+    "derektranforcongress.com": 35
+  },
+  "generated_utc": "2026-11-14T16:55:22Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
