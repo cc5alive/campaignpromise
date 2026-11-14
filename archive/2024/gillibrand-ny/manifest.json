@@ -1,0 +1,72 @@
+{
+  "name": "Kirsten E. Gillibrand",
+  "domains_tried": [
+    "kirstengillibrand.com",
+    "gillibrand.com"
+  ],
+  "pages": [
+    {
+      "original": "https://kirstengillibrand.com/",
+      "timestamp": "20241105080641",
+      "wayback": "https://web.archive.org/web/20241105080641/https://kirstengillibrand.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105080641id_/https://kirstengillibrand.com/",
+      "file": "archive/2024/gillibrand-ny/home.html",
+      "text_file": "archive/2024/gillibrand-ny/home.txt",
+      "bytes": 27647,
+      "sha256_html": "2a0a04ab881f153258915b6a06de3935da5c41c0fe96f078a1adbbf2ebe467ea",
+      "sha256_text": "9616b4749bfa213dc6cdc5f35ab13c13bcbe9ed183a0a5d095b4587d7fd7404e"
+    },
+    {
+      "original": "https://kirstengillibrand.com/issues/economy/",
+      "timestamp": "20240811181012",
+      "wayback": "https://web.archive.org/web/20240811181012/https://kirstengillibrand.com/issues/economy/",
+      "wayback_raw": "https://web.archive.org/web/20240811181012id_/https://kirstengillibrand.com/issues/economy/",
+      "file": "archive/2024/gillibrand-ny/issues-economy.html",
+      "text_file": "archive/2024/gillibrand-ny/issues-economy.txt",
+      "bytes": 32665,
+      "sha256_html": "3a77f97968e60901d2f6801a38cd0b04b16c28ea89aecd6218e590767d9d4e4f",
+      "sha256_text": "8fd000592c611af62b49314e8a141f1ed7d3506d62d0d5d9d2f400d7d201f4e2"
+    },
+    {
+      "original": "https://kirstengillibrand.com/news/as-the-first-black-woman-to-own-a-colorado-cannabis-dispensary-heres-why-im-supporting-sen-kirsten-gillibrands-marijuana-legalization-plan/",
+      "timestamp": "20241101212645",
+      "wayback": "https://web.archive.org/web/20241101212645/https://kirstengillibrand.com/news/as-the-first-black-woman-to-own-a-colorado-cannabis-dispensary-heres-why-im-supporting-sen-kirsten-gillibrands-marijuana-legalization-plan/",
+      "wayback_raw": "https://web.archive.org/web/20241101212645id_/https://kirstengillibrand.com/news/as-the-first-black-woman-to-own-a-colorado-cannabis-dispensary-heres-why-im-supporting-sen-kirsten-gillibrands-marijuana-legalization-plan/",
+      "file": "archive/2024/gillibrand-ny/news-as-the-first-black-woman-to-own-a-colorado-cannabis-dispensary-heres-why-im-supporting-sen-kirsten-gillibrands-marijuana-legalization-plan.html",
+      "text_file": "archive/2024/gillibrand-ny/news-as-the-first-black-woman-to-own-a-colorado-cannabis-dispensary-heres-why-im-supporting-sen-kirsten-gillibrands-marijuana-legalization-plan.txt",
+      "bytes": 24230,
+      "sha256_html": "ca64c92e82da3695ad500891cd43e517b9ba8eb555d3bbfc24b9d5173a33f104",
+      "sha256_text": "4690d6fe313ddca05039d34ff8b57538d81123431a5bd9a99e50c3b862099455"
+    },
+    {
+      "original": "https://kirstengillibrand.com/news/gillibrand-releases-sweeping-new-clean-elections-plan-to-attack-political-corruption/",
+      "timestamp": "20241008025928",
+      "wayback": "https://web.archive.org/web/20241008025928/https://kirstengillibrand.com/news/gillibrand-releases-sweeping-new-clean-elections-plan-to-attack-political-corruption/",
+      "wayback_raw": "https://web.archive.org/web/20241008025928id_/https://kirstengillibrand.com/news/gillibrand-releases-sweeping-new-clean-elections-plan-to-attack-political-corruption/",
+      "file": "archive/2024/gillibrand-ny/news-gillibrand-releases-sweeping-new-clean-elections-plan-to-attack-political-corruption.html",
+      "text_file": "archive/2024/gillibrand-ny/news-gillibrand-releases-sweeping-new-clean-elections-plan-to-attack-political-corruption.txt",
+      "bytes": 31831,
+      "sha256_html": "4a27fe9e94675135d530f08d148db0e56fff207873e5fce63f48b980533163a6",
+      "sha256_text": "b9300b7a2223c1faa0f5ef917e438fe726f2c2928079e9ff67da79230594de76"
+    },
+    {
+      "original": "https://kirstengillibrand.com/about/",
+      "timestamp": "20241105080740",
+      "wayback": "https://web.archive.org/web/20241105080740/https://kirstengillibrand.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105080740id_/https://kirstengillibrand.com/about/",
+      "file": "archive/2024/gillibrand-ny/about.html",
+      "text_file": "archive/2024/gillibrand-ny/about.txt",
+      "bytes": 26250,
+      "sha256_html": "b9e356b59c5df0ed42cdb0654a9a100af3d65aaa96239f8ea2cf002c0db0f88c",
+      "sha256_text": "ab9938f282b209d4356751a173e62ead08d4f3d82f5c7199aa18b41f6f5991e2"
+    }
+  ],
+  "snapshots_found": {
+    "kirstengillibrand.com": 19
+  },
+  "generated_utc": "2026-11-14T22:18:00Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
