@@ -14,12 +14,23 @@
       "bytes": 176337,
       "sha256_html": "5f73315ec0e3dd1ac6c72ff2c28dc27a763530649c8733e40b9f51badc08b8b0",
       "sha256_text": "66b2931ad4026e6b96b5ab18478c42ac5b72b029e03960bcf7085a268a50afa7"
+    },
+    {
+      "original": "https://elizabethwarren.com/plans",
+      "timestamp": "20241105114329",
+      "wayback": "https://web.archive.org/web/20241105114329/https://elizabethwarren.com/plans",
+      "wayback_raw": "https://web.archive.org/web/20241105114329id_/https://elizabethwarren.com/plans",
+      "file": "archive/2024/warren/plans.html",
+      "text_file": "archive/2024/warren/plans.txt",
+      "bytes": 659211,
+      "sha256_html": "462bbef8d5a38d28fa733a250862fed412e9189483110faabca4a0585f78eb59",
+      "sha256_text": "56f8f58138e7cd2a9cd9c057d02a6465ec151fec81fca1d88f6a63b342e1986e"
     }
   ],
   "snapshots_found": {
     "elizabethwarren.com": 1
   },
-  "generated_utc": "2026-11-14T07:42:52Z",
+  "generated_utc": "2026-11-14T08:04:16Z",
   "window": {
     "from": "20240801",
     "to": "20241105"
