@@ -1,0 +1,49 @@
+{
+  "name": "Wesley Bell",
+  "domains_tried": [
+    "bell4mo.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.bell4mo.com/",
+      "timestamp": "20241105084243",
+      "wayback": "https://web.archive.org/web/20241105084243/https://www.bell4mo.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105084243id_/https://www.bell4mo.com/",
+      "file": "archive/2024/bell-mo/home.html",
+      "text_file": "archive/2024/bell-mo/home.txt",
+      "bytes": 46516,
+      "sha256_html": "8e3ed35c1c420dfefca614607ad52d7040bcbbb5bfbe02e9a5046c6e4400b82b",
+      "sha256_text": "3afaaddf7f28f395359087074ace687683a11a6b6f265c6e48ce40cd131d9ec4"
+    },
+    {
+      "original": "https://www.bell4mo.com/issues/",
+      "timestamp": "20241105084241",
+      "wayback": "https://web.archive.org/web/20241105084241/https://www.bell4mo.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105084241id_/https://www.bell4mo.com/issues/",
+      "file": "archive/2024/bell-mo/issues.html",
+      "text_file": "archive/2024/bell-mo/issues.txt",
+      "bytes": 45378,
+      "sha256_html": "8d7d895d5d3f622895e3316d7e6b84164663fb6ed266e73fbb4ec154d285bee0",
+      "sha256_text": "94f5f78565536abed4aa5d2969dd749b99b6c15ba02681528aace7a73a73dc56"
+    },
+    {
+      "original": "https://www.bell4mo.com/about/",
+      "timestamp": "20241105084240",
+      "wayback": "https://web.archive.org/web/20241105084240/https://www.bell4mo.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105084240id_/https://www.bell4mo.com/about/",
+      "file": "archive/2024/bell-mo/about.html",
+      "text_file": "archive/2024/bell-mo/about.txt",
+      "bytes": 43297,
+      "sha256_html": "c5b12a268aecbfad63e7c19a4d0f87f35265c1e52e6ebfcc60528aac17cf11b5",
+      "sha256_text": "5245467427c37139b43208ba0be4213cec530ccb3799778f79a6baec733ea3a0"
+    }
+  ],
+  "snapshots_found": {
+    "bell4mo.com": 10
+  },
+  "generated_utc": "2026-11-14T08:44:33Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
