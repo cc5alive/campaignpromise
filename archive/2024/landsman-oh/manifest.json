@@ -1,0 +1,38 @@
+{
+  "name": "Greg Landsman",
+  "domains_tried": [
+    "landsmanforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.landsmanforcongress.com/",
+      "timestamp": "20241105125552",
+      "wayback": "https://web.archive.org/web/20241105125552/https://www.landsmanforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105125552id_/https://www.landsmanforcongress.com/",
+      "file": "archive/2024/landsman-oh/home.html",
+      "text_file": "archive/2024/landsman-oh/home.txt",
+      "bytes": 138715,
+      "sha256_html": "e9953fb02e67a80f274301917c779e37155dca0a8bcb6206978c423894077f94",
+      "sha256_text": "cde62cbfd540fed83d645ab9b2b2e6a73fcb695be3d389fec95a9c27b706146e"
+    },
+    {
+      "original": "https://www.landsmanforcongress.com/the-issues-1",
+      "timestamp": "20241105125622",
+      "wayback": "https://web.archive.org/web/20241105125622/https://www.landsmanforcongress.com/the-issues-1",
+      "wayback_raw": "https://web.archive.org/web/20241105125622id_/https://www.landsmanforcongress.com/the-issues-1",
+      "file": "archive/2024/landsman-oh/the-issues-1.html",
+      "text_file": "archive/2024/landsman-oh/the-issues-1.txt",
+      "bytes": 145832,
+      "sha256_html": "8b4a640ab11e695cbb0dad01bbe7be1c03ad2a796b8401bc577addf668130b19",
+      "sha256_text": "32dfe3932f0d8eddaccf3b7d1ededda4066fd1d59ca98b7918a60b04facaccb1"
+    }
+  ],
+  "snapshots_found": {
+    "landsmanforcongress.com": 26
+  },
+  "generated_utc": "2026-11-14T22:47:10Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
