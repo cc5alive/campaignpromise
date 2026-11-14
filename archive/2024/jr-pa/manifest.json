@@ -1,0 +1,27 @@
+{
+  "name": "Robert P. Bresnahan, Jr.",
+  "domains_tried": [
+    "robforpa.com"
+  ],
+  "pages": [
+    {
+      "original": "https://robforpa.com/",
+      "timestamp": "20241105225656",
+      "wayback": "https://web.archive.org/web/20241105225656/https://robforpa.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105225656id_/https://robforpa.com/",
+      "file": "archive/2024/jr-pa/home.html",
+      "text_file": "archive/2024/jr-pa/home.txt",
+      "bytes": 566731,
+      "sha256_html": "b0af165769d068649a04a2b6e58a8bf881368d330ca63c49a33735c27dc269b3",
+      "sha256_text": "254f3a0332ed7751e18094685da8fc234af54c6b4d67d778f4ac70a68ecf2012"
+    }
+  ],
+  "snapshots_found": {
+    "robforpa.com": 40
+  },
+  "generated_utc": "2026-11-14T08:38:01Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
