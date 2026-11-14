@@ -1,0 +1,150 @@
+{
+  "name": "Rick Scott",
+  "domains_tried": [
+    "rickscottforflorida.com",
+    "rickscott.com"
+  ],
+  "pages": [
+    {
+      "original": "https://rickscott.com/",
+      "timestamp": "20241105165924",
+      "wayback": "https://web.archive.org/web/20241105165924/https://rickscott.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105165924id_/https://rickscott.com/",
+      "file": "archive/2024/scott-fl/home.html",
+      "text_file": "archive/2024/scott-fl/home.txt",
+      "bytes": 109651,
+      "sha256_html": "16918e087d8ec7b176db7cb06cd3464349d21a3f81a74586b2e913a69fb56f65",
+      "sha256_text": "e1bf25cfb2b68cefaa855bd64a305f692aad3e3cba907b1fa155921c5e9a72ee"
+    },
+    {
+      "original": "https://rickscott.com/debates/el-plan-del-gobernador-scott-para-luchar-por-libertad-y-democracia-en-cuba-y-america-latina/",
+      "timestamp": "20241105170107",
+      "wayback": "https://web.archive.org/web/20241105170107/https://rickscott.com/debates/el-plan-del-gobernador-scott-para-luchar-por-libertad-y-democracia-en-cuba-y-america-latina/",
+      "wayback_raw": "https://web.archive.org/web/20241105170107id_/https://rickscott.com/debates/el-plan-del-gobernador-scott-para-luchar-por-libertad-y-democracia-en-cuba-y-america-latina/",
+      "file": "archive/2024/scott-fl/debates-el-plan-del-gobernador-scott-para-luchar-por-libertad-y-democracia-en-cuba-y-america-latina.html",
+      "text_file": "archive/2024/scott-fl/debates-el-plan-del-gobernador-scott-para-luchar-por-libertad-y-democracia-en-cuba-y-america-latina.txt",
+      "bytes": 61385,
+      "sha256_html": "98edb9b7908460d90969088dcbddb1ce04caac04232b6e9fb42e92a66cf9d9a9",
+      "sha256_text": "def30f59f7337b6ac720cb3fbf6e46349cf5d495f14d3ca9717e8834d02cd37f"
+    },
+    {
+      "original": "https://rickscott.com/debates/governor-scotts-plan-to-fight-for-freedom-and-democracy-in-cuba-and-latin-america/",
+      "timestamp": "20241105170015",
+      "wayback": "https://web.archive.org/web/20241105170015/https://rickscott.com/debates/governor-scotts-plan-to-fight-for-freedom-and-democracy-in-cuba-and-latin-america/",
+      "wayback_raw": "https://web.archive.org/web/20241105170015id_/https://rickscott.com/debates/governor-scotts-plan-to-fight-for-freedom-and-democracy-in-cuba-and-latin-america/",
+      "file": "archive/2024/scott-fl/debates-governor-scotts-plan-to-fight-for-freedom-and-democracy-in-cuba-and-latin-america.html",
+      "text_file": "archive/2024/scott-fl/debates-governor-scotts-plan-to-fight-for-freedom-and-democracy-in-cuba-and-latin-america.txt",
+      "bytes": 61138,
+      "sha256_html": "02f2c67eec48484bc03a47767bba8664eb8f4f6afd6314e8725d831e39dae56f",
+      "sha256_text": "de906ecff5f298335e6b34a2c437dfec10b458b7e73dda5d5df3e1e706d255c9"
+    },
+    {
+      "original": "https://rickscott.com/debates/senator-nelson-confused-by-the-reality-of-floridas-education-accomplishments/",
+      "timestamp": "20241105170135",
+      "wayback": "https://web.archive.org/web/20241105170135/https://rickscott.com/debates/senator-nelson-confused-by-the-reality-of-floridas-education-accomplishments/",
+      "wayback_raw": "https://web.archive.org/web/20241105170135id_/https://rickscott.com/debates/senator-nelson-confused-by-the-reality-of-floridas-education-accomplishments/",
+      "file": "archive/2024/scott-fl/debates-senator-nelson-confused-by-the-reality-of-floridas-education-accomplishments.html",
+      "text_file": "archive/2024/scott-fl/debates-senator-nelson-confused-by-the-reality-of-floridas-education-accomplishments.txt",
+      "bytes": 62407,
+      "sha256_html": "aead7d5aa8628e46c92037eaa36221838d20f4fbbb4061765a7235b5e302c364",
+      "sha256_text": "e67308b2a06afc24ddecdcf58ef58ec9ed7ade09bbdec57c8d82ea9f05c6683f"
+    },
+    {
+      "original": "https://rickscott.com/debates/senator-nelsons-flip-flopping-on-cuba-policy/",
+      "timestamp": "20241105170008",
+      "wayback": "https://web.archive.org/web/20241105170008/https://rickscott.com/debates/senator-nelsons-flip-flopping-on-cuba-policy/",
+      "wayback_raw": "https://web.archive.org/web/20241105170008id_/https://rickscott.com/debates/senator-nelsons-flip-flopping-on-cuba-policy/",
+      "file": "archive/2024/scott-fl/debates-senator-nelsons-flip-flopping-on-cuba-policy.html",
+      "text_file": "archive/2024/scott-fl/debates-senator-nelsons-flip-flopping-on-cuba-policy.txt",
+      "bytes": 65751,
+      "sha256_html": "b0a9ae67555e11ddc23ac7f857b809f11042ee2d77e8502852c77dd377cf7c1c",
+      "sha256_text": "75cb29be7e8ac888b637db6574828b969d85577884bf839c729153ec11cc68d1"
+    },
+    {
+      "original": "https://rickscott.com/endorsement/florida-fraternal-order-of-police/",
+      "timestamp": "20241105144802",
+      "wayback": "https://web.archive.org/web/20241105144802/https://rickscott.com/endorsement/florida-fraternal-order-of-police/",
+      "wayback_raw": "https://web.archive.org/web/20241105144802id_/https://rickscott.com/endorsement/florida-fraternal-order-of-police/",
+      "file": "archive/2024/scott-fl/endorsement-florida-fraternal-order-of-police.html",
+      "text_file": "archive/2024/scott-fl/endorsement-florida-fraternal-order-of-police.txt",
+      "bytes": 90166,
+      "sha256_html": "1bfafdf82a9a00e219aafee74f596a640ef29b2762bf9144165dd992e682ebdf",
+      "sha256_text": "87860d473c44c8343dd0f9e0366c6842687599b7ec147eebb197ef92290fc6c4"
+    },
+    {
+      "original": "https://rickscott.com/endorsement/florida-police-chiefs-association/",
+      "timestamp": "20241105163111",
+      "wayback": "https://web.archive.org/web/20241105163111/https://rickscott.com/endorsement/florida-police-chiefs-association/",
+      "wayback_raw": "https://web.archive.org/web/20241105163111id_/https://rickscott.com/endorsement/florida-police-chiefs-association/",
+      "file": "archive/2024/scott-fl/endorsement-florida-police-chiefs-association.html",
+      "text_file": "archive/2024/scott-fl/endorsement-florida-police-chiefs-association.txt",
+      "bytes": 87115,
+      "sha256_html": "9a548d15acde524d5b3e86b5a7fdcb6d5e4efbe3030e64c32874a5eeb94f0d1a",
+      "sha256_text": "b8d24b30b25f045525aa4cd2c1f88f49aa30b30ed30a3de2c3f9cf5e5956e705"
+    },
+    {
+      "original": "https://rickscott.com/endorsement/hispanic-police-officers-association/",
+      "timestamp": "20241105163121",
+      "wayback": "https://web.archive.org/web/20241105163121/https://rickscott.com/endorsement/hispanic-police-officers-association/",
+      "wayback_raw": "https://web.archive.org/web/20241105163121id_/https://rickscott.com/endorsement/hispanic-police-officers-association/",
+      "file": "archive/2024/scott-fl/endorsement-hispanic-police-officers-association.html",
+      "text_file": "archive/2024/scott-fl/endorsement-hispanic-police-officers-association.txt",
+      "bytes": 98647,
+      "sha256_html": "cb9e4950bd5e3a9c98b122a4b6cdba8b6293c84d7f9ab72c7db5022e81c4634c",
+      "sha256_text": "a0bc299a4add32417c0d81dc4741161d3771c6a40492dcd031e766701ba4258c"
+    },
+    {
+      "original": "https://rickscott.com/2023/01/13/sen-rick-scott-senate-republicans-must-stay-unified-against-dems-dangerous-agenda/",
+      "timestamp": "20241105162747",
+      "wayback": "https://web.archive.org/web/20241105162747/https://rickscott.com/2023/01/13/sen-rick-scott-senate-republicans-must-stay-unified-against-dems-dangerous-agenda/",
+      "wayback_raw": "https://web.archive.org/web/20241105162747id_/https://rickscott.com/2023/01/13/sen-rick-scott-senate-republicans-must-stay-unified-against-dems-dangerous-agenda/",
+      "file": "archive/2024/scott-fl/2023-01-13-sen-rick-scott-senate-republicans-must-stay-unified-against-dems-dangerous-agenda.html",
+      "text_file": "archive/2024/scott-fl/2023-01-13-sen-rick-scott-senate-republicans-must-stay-unified-against-dems-dangerous-agenda.txt",
+      "bytes": 87587,
+      "sha256_html": "5f0f4d3361b24580eab36b77e1016e26ceabd3161224c153395e7a2723688212",
+      "sha256_text": "64b148f77d06fd8b60cfc2b80e6991701dab3dc67630f1a9a736292ee1b31344"
+    },
+    {
+      "original": "https://rickscott.com/2023/01/24/sen-rick-scott-speaks-to-constituents-in-naples-about-his-plan-to-rescue-america/",
+      "timestamp": "20241105155242",
+      "wayback": "https://web.archive.org/web/20241105155242/https://rickscott.com/2023/01/24/sen-rick-scott-speaks-to-constituents-in-naples-about-his-plan-to-rescue-america/",
+      "wayback_raw": "https://web.archive.org/web/20241105155242id_/https://rickscott.com/2023/01/24/sen-rick-scott-speaks-to-constituents-in-naples-about-his-plan-to-rescue-america/",
+      "file": "archive/2024/scott-fl/2023-01-24-sen-rick-scott-speaks-to-constituents-in-naples-about-his-plan-to-rescue-america.html",
+      "text_file": "archive/2024/scott-fl/2023-01-24-sen-rick-scott-speaks-to-constituents-in-naples-about-his-plan-to-rescue-america.txt",
+      "bytes": 87265,
+      "sha256_html": "d14e68daeacd8b7d2afee931a2e260b3c241fb4cc7468ff3a72ef223864c0858",
+      "sha256_text": "f2b6bad58a73414b68b1a6858742512c251b0c050028f3814fb8aff6cc9c5379"
+    },
+    {
+      "original": "https://rickscott.com/2023/02/09/setting-the-record-straight-on-bidens-lies/",
+      "timestamp": "20241105162437",
+      "wayback": "https://web.archive.org/web/20241105162437/https://rickscott.com/2023/02/09/setting-the-record-straight-on-bidens-lies/",
+      "wayback_raw": "https://web.archive.org/web/20241105162437id_/https://rickscott.com/2023/02/09/setting-the-record-straight-on-bidens-lies/",
+      "file": "archive/2024/scott-fl/2023-02-09-setting-the-record-straight-on-bidens-lies.html",
+      "text_file": "archive/2024/scott-fl/2023-02-09-setting-the-record-straight-on-bidens-lies.txt",
+      "bytes": 86258,
+      "sha256_html": "9dc0688b551d903c97dd3d44411352657fd30e48e69a9059bde8b8bfa703d1f5",
+      "sha256_text": "22dd512b4fe2ca55bc0d8a0ae2b848dfdd500414105c15f617e3c2fa58d5eb9f"
+    },
+    {
+      "original": "https://rickscott.com/2023/05/11/democrats-dont-have-a-plan/",
+      "timestamp": "20241105162415",
+      "wayback": "https://web.archive.org/web/20241105162415/https://rickscott.com/2023/05/11/democrats-dont-have-a-plan/",
+      "wayback_raw": "https://web.archive.org/web/20241105162415id_/https://rickscott.com/2023/05/11/democrats-dont-have-a-plan/",
+      "file": "archive/2024/scott-fl/2023-05-11-democrats-dont-have-a-plan.html",
+      "text_file": "archive/2024/scott-fl/2023-05-11-democrats-dont-have-a-plan.txt",
+      "bytes": 87515,
+      "sha256_html": "9b7923634a59d7ac389147f5553d09e05e00d23db26a19e1ccfb4207dfd55a98",
+      "sha256_text": "8dd6167bca95b25ca8e4369c2557e3641b647589a3c48eb3f06033a387f7fc7f"
+    }
+  ],
+  "snapshots_found": {
+    "rickscottforflorida.com": 0,
+    "rickscott.com": 444
+  },
+  "generated_utc": "2026-11-14T15:53:20Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
