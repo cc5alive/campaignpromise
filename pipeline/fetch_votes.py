@@ -34,6 +34,8 @@ TARGETS = {
     "S331": "HALT Fentanyl Act",
     "HR21": "Born-Alive Abortion Survivors Protection Act",
     "S6": "Born-Alive Abortion Survivors Protection Act, Senate version",
+    "HR1834": "3-year extension of enhanced ACA premium tax credits (passed House Jan 8, 2026 under the title Breaking the Gridlock Act)",
+    "S3385": "3-year extension of enhanced ACA premium tax credits (Senate Democratic bill, Dec 11, 2025)",
 }
 # Every roll call seen (both chambers), without member positions: lets us find the
 # official record for any new issue without guessing roll numbers.
