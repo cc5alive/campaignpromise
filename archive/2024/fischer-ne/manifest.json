@@ -1,0 +1,105 @@
+{
+  "name": "Deb Fischer",
+  "domains_tried": [
+    "debfornebraska.com",
+    "debfischer.com"
+  ],
+  "pages": [
+    {
+      "original": "https://debfornebraska.com/",
+      "timestamp": "20241105070421",
+      "wayback": "https://web.archive.org/web/20241105070421/https://debfornebraska.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105070421id_/https://debfornebraska.com/",
+      "file": "archive/2024/fischer-ne/home.html",
+      "text_file": "archive/2024/fischer-ne/home.txt",
+      "bytes": 317873,
+      "sha256_html": "0ab7d78287f4d8b6f3c65bdfb6df89ea94d2c83894be43e21977016fb3b7e83c",
+      "sha256_text": "2b850f621e8b5d92ad20c74e586f4cced75439247d2a73d7e65158a7267ca828"
+    },
+    {
+      "original": "https://debfornebraska.com/2023/10/23/nebraska-examiner-fischer-ricketts-raise-record-funds-as-challengers-lag/",
+      "timestamp": "20241105070359",
+      "wayback": "https://web.archive.org/web/20241105070359/https://debfornebraska.com/2023/10/23/nebraska-examiner-fischer-ricketts-raise-record-funds-as-challengers-lag/",
+      "wayback_raw": "https://web.archive.org/web/20241105070359id_/https://debfornebraska.com/2023/10/23/nebraska-examiner-fischer-ricketts-raise-record-funds-as-challengers-lag/",
+      "file": "archive/2024/fischer-ne/2023-10-23-nebraska-examiner-fischer-ricketts-raise-record-funds-as-challengers-lag.html",
+      "text_file": "archive/2024/fischer-ne/2023-10-23-nebraska-examiner-fischer-ricketts-raise-record-funds-as-challengers-lag.txt",
+      "bytes": 135009,
+      "sha256_html": "6a14aef1f14a5fb81a98360f3c022f375c5ec72c648bf00b611250b1aa8bf405",
+      "sha256_text": "aa212d5694076b807557388dc520c3ad13c513373a767dac874956900ec485c0"
+    },
+    {
+      "original": "https://debfornebraska.com/2023/12/13/ncn-fischer-highlights-national-defense-priorities/",
+      "timestamp": "20241105065654",
+      "wayback": "https://web.archive.org/web/20241105065654/https://debfornebraska.com/2023/12/13/ncn-fischer-highlights-national-defense-priorities/",
+      "wayback_raw": "https://web.archive.org/web/20241105065654id_/https://debfornebraska.com/2023/12/13/ncn-fischer-highlights-national-defense-priorities/",
+      "file": "archive/2024/fischer-ne/2023-12-13-ncn-fischer-highlights-national-defense-priorities.html",
+      "text_file": "archive/2024/fischer-ne/2023-12-13-ncn-fischer-highlights-national-defense-priorities.txt",
+      "bytes": 121664,
+      "sha256_html": "16946ee7ddd04bf1b8d652923d368f7dae9bcdb6be5671af5680464795fe3b20",
+      "sha256_text": "c7729d4fb0ffc5dafea70a7b0e950bc5b79bcb926cb4459188a950903541e5f1"
+    },
+    {
+      "original": "https://debfornebraska.com/2024/02/10/breitbart-fischer-announces-opposition-lankford-plan/",
+      "timestamp": "20241105070101",
+      "wayback": "https://web.archive.org/web/20241105070101/https://debfornebraska.com/2024/02/10/breitbart-fischer-announces-opposition-lankford-plan/",
+      "wayback_raw": "https://web.archive.org/web/20241105070101id_/https://debfornebraska.com/2024/02/10/breitbart-fischer-announces-opposition-lankford-plan/",
+      "file": "archive/2024/fischer-ne/2024-02-10-breitbart-fischer-announces-opposition-lankford-plan.html",
+      "text_file": "archive/2024/fischer-ne/2024-02-10-breitbart-fischer-announces-opposition-lankford-plan.txt",
+      "bytes": 118568,
+      "sha256_html": "6ee5c30e5fcce6546b948b91f0facd2437b4d03361f9fda43f8f855e560263aa",
+      "sha256_text": "8a49f5c709e83116a0534faa019b5fe97ca0d9b2ad6dad524044c5758c9e4e20"
+    },
+    {
+      "original": "https://debfornebraska.com/2024/03/10/newsweek-border-union-issues-scathing-warning-biden/",
+      "timestamp": "20241105065635",
+      "wayback": "https://web.archive.org/web/20241105065635/https://debfornebraska.com/2024/03/10/newsweek-border-union-issues-scathing-warning-biden/",
+      "wayback_raw": "https://web.archive.org/web/20241105065635id_/https://debfornebraska.com/2024/03/10/newsweek-border-union-issues-scathing-warning-biden/",
+      "file": "archive/2024/fischer-ne/2024-03-10-newsweek-border-union-issues-scathing-warning-biden.html",
+      "text_file": "archive/2024/fischer-ne/2024-03-10-newsweek-border-union-issues-scathing-warning-biden.txt",
+      "bytes": 118160,
+      "sha256_html": "80e17b0e7f60a846dcdbbc936b90a4abea0a30c471ad0c2e4522dcdde1b58213",
+      "sha256_text": "2cc7a932fd7d22b30c16794280c4101aef9a07c375b0e44e5f7800e5632bae9b"
+    },
+    {
+      "original": "https://debfornebraska.com/2024/03/18/fox-business-public-safety-issue-different-fronts-fischer/",
+      "timestamp": "20241105065624",
+      "wayback": "https://web.archive.org/web/20241105065624/https://debfornebraska.com/2024/03/18/fox-business-public-safety-issue-different-fronts-fischer/",
+      "wayback_raw": "https://web.archive.org/web/20241105065624id_/https://debfornebraska.com/2024/03/18/fox-business-public-safety-issue-different-fronts-fischer/",
+      "file": "archive/2024/fischer-ne/2024-03-18-fox-business-public-safety-issue-different-fronts-fischer.html",
+      "text_file": "archive/2024/fischer-ne/2024-03-18-fox-business-public-safety-issue-different-fronts-fischer.txt",
+      "bytes": 114176,
+      "sha256_html": "eccc8a39b3774b1eee7c576e7ba5671d5d9c4d39e483baaf49ac23591860ad2c",
+      "sha256_text": "f0fdd27c2ef19c034c1dfca7d0d863a43256165b43d761f92dacdb7d64486447"
+    },
+    {
+      "original": "https://debfornebraska.com/2024/04/09/panhandle-post-nhapac-issues-statement-support-senator-fischer/",
+      "timestamp": "20241105070056",
+      "wayback": "https://web.archive.org/web/20241105070056/https://debfornebraska.com/2024/04/09/panhandle-post-nhapac-issues-statement-support-senator-fischer/",
+      "wayback_raw": "https://web.archive.org/web/20241105070056id_/https://debfornebraska.com/2024/04/09/panhandle-post-nhapac-issues-statement-support-senator-fischer/",
+      "file": "archive/2024/fischer-ne/2024-04-09-panhandle-post-nhapac-issues-statement-support-senator-fischer.html",
+      "text_file": "archive/2024/fischer-ne/2024-04-09-panhandle-post-nhapac-issues-statement-support-senator-fischer.txt",
+      "bytes": 115516,
+      "sha256_html": "412f489202bffe100210bbc9d127f6ef1a48936a685c16a90f2cb6e2858b1309",
+      "sha256_text": "ef1f2e20f7684f042e09b4f56be483d973d4d7e2befa263ecde4dfa06ac5c1ed"
+    },
+    {
+      "original": "https://debfornebraska.com/2024/05/06/chadron-radio-prioritizing-nebraskas-infrastructure/",
+      "timestamp": "20241105065813",
+      "wayback": "https://web.archive.org/web/20241105065813/https://debfornebraska.com/2024/05/06/chadron-radio-prioritizing-nebraskas-infrastructure/",
+      "wayback_raw": "https://web.archive.org/web/20241105065813id_/https://debfornebraska.com/2024/05/06/chadron-radio-prioritizing-nebraskas-infrastructure/",
+      "file": "archive/2024/fischer-ne/2024-05-06-chadron-radio-prioritizing-nebraskas-infrastructure.html",
+      "text_file": "archive/2024/fischer-ne/2024-05-06-chadron-radio-prioritizing-nebraskas-infrastructure.txt",
+      "bytes": 118017,
+      "sha256_html": "516ed8c126882f6c217b0d07853938f4f9a9cd6feacc67bb3ed46853c2a1e090",
+      "sha256_text": "d4c615be9f8a2c26faf005080d91898b3b0c6a9c4406194ddf08cd0fb1dd63b8"
+    }
+  ],
+  "snapshots_found": {
+    "debfornebraska.com": 222
+  },
+  "generated_utc": "2026-11-14T15:44:36Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
