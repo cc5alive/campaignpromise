@@ -1,0 +1,27 @@
+{
+  "name": "Nellie Pou",
+  "domains_tried": [
+    "nelliepoufornewjersey.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.nelliepoufornewjersey.com/",
+      "timestamp": "20241105141825",
+      "wayback": "https://web.archive.org/web/20241105141825/https://www.nelliepoufornewjersey.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105141825id_/https://www.nelliepoufornewjersey.com/",
+      "file": "archive/2024/pou-nj/home.html",
+      "text_file": "archive/2024/pou-nj/home.txt",
+      "bytes": 28862,
+      "sha256_html": "268733d1c940e27150db70488dbb8be80af1ca0b4e8093be3dea9155851f02ce",
+      "sha256_text": "edb66d7d04e028ae5e94a14ee937959f639b8cfad1ea0aa14327bc1b3472b4da"
+    }
+  ],
+  "snapshots_found": {
+    "nelliepoufornewjersey.com": 6
+  },
+  "generated_utc": "2026-11-14T16:56:05Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
