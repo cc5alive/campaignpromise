@@ -1,0 +1,40 @@
+{
+  "name": "Julie Johnson",
+  "domains_tried": [
+    "juliejohnsonforcongress.com",
+    "juliejohnson.com",
+    "juliefortexas.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.juliejohnsonforcongress.com/",
+      "timestamp": "20240809182532",
+      "wayback": "https://web.archive.org/web/20240809182532/https://www.juliejohnsonforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20240809182532id_/https://www.juliejohnsonforcongress.com/",
+      "file": "archive/2024/johnson-tx/home.html",
+      "text_file": "archive/2024/johnson-tx/home.txt",
+      "bytes": 3492,
+      "sha256_html": "9b06281c11d443849a5a45922c001d458c65554272a26838ded70efe643909fe",
+      "sha256_text": "94563b661e3b555046522490a30110b6c56d952704d3f043b5cf094ecbd437d4"
+    },
+    {
+      "original": "https://juliejohnson.com/issues/",
+      "timestamp": "20241105051406",
+      "wayback": "https://web.archive.org/web/20241105051406/https://juliejohnson.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105051406id_/https://juliejohnson.com/issues/",
+      "file": "archive/2024/johnson-tx/issues.html",
+      "text_file": "archive/2024/johnson-tx/issues.txt",
+      "bytes": 276994,
+      "sha256_html": "1dd3b31fc8a4da9596ce3f64121abfb9aa5b5708869c04cb1d61873b774362bd",
+      "sha256_text": "90aee380845752419b114ec8ba47ca878ebfbe921a95821240e15fdc13f61ad3"
+    }
+  ],
+  "snapshots_found": {
+    "juliejohnsonforcongress.com": 1
+  },
+  "generated_utc": "2026-11-14T17:00:47Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
