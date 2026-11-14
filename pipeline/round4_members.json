@@ -1,0 +1,669 @@
+{
+ "_note": "Round 4: 50 more House members (mostly first elected in 2024, plus swing-seat incumbents). Domains from each campaign committee's FEC registration, plus alternates where it had none.",
+ "window": {
+  "from": "20240801",
+  "to": "20241105"
+ },
+ "members": [
+  {
+   "key": "begich-ak",
+   "bioguide": "B001323",
+   "name": "Nicholas J. Begich III",
+   "last": "Begich",
+   "party": "R",
+   "chamber": "House",
+   "state": "AK",
+   "campaign_committee": "C00792341",
+   "domains": [
+    "alaskansfornickbegich.com"
+   ]
+  },
+  {
+   "key": "hurd-co",
+   "bioguide": "H001100",
+   "name": "Jeff Hurd",
+   "last": "Hurd",
+   "party": "R",
+   "chamber": "House",
+   "state": "CO",
+   "campaign_committee": "C00848333",
+   "domains": [
+    "jeffhurdforcolorado.com"
+   ]
+  },
+  {
+   "key": "crank-co",
+   "bioguide": "C001137",
+   "name": "Jeff Crank",
+   "last": "Crank",
+   "party": "R",
+   "chamber": "House",
+   "state": "CO",
+   "campaign_committee": "C00865592",
+   "domains": [
+    "jeffcrank.com",
+    "crankforcongress.com"
+   ]
+  },
+  {
+   "key": "haridopolos-fl",
+   "bioguide": "H001099",
+   "name": "Mike Haridopolos",
+   "last": "Haridopolos",
+   "party": "R",
+   "chamber": "House",
+   "state": "FL",
+   "campaign_committee": "C00877324",
+   "domains": [
+    "mike4congress.com"
+   ]
+  },
+  {
+   "key": "jack-ga",
+   "bioguide": "J000311",
+   "name": "Brian Jack",
+   "last": "Jack",
+   "party": "R",
+   "chamber": "House",
+   "state": "GA",
+   "campaign_committee": "C00872473",
+   "domains": [
+    "brianjack.com"
+   ]
+  },
+  {
+   "key": "shreve-in",
+   "bioguide": "S001229",
+   "name": "Jefferson Shreve",
+   "last": "Shreve",
+   "party": "R",
+   "chamber": "House",
+   "state": "IN",
+   "campaign_committee": "C00870949",
+   "domains": [
+    "shreveforcongress.com"
+   ]
+  },
+  {
+   "key": "messmer-in",
+   "bioguide": "M001233",
+   "name": "Mark B. Messmer",
+   "last": "Messmer",
+   "party": "R",
+   "chamber": "House",
+   "state": "IN",
+   "campaign_committee": "C00867218",
+   "domains": [
+    "markmessmer.com"
+   ]
+  },
+  {
+   "key": "schmidt-ks",
+   "bioguide": "S001228",
+   "name": "Derek Schmidt",
+   "last": "Schmidt",
+   "party": "R",
+   "chamber": "House",
+   "state": "KS",
+   "campaign_committee": "C00877373",
+   "domains": [
+    "derekschmidt.com"
+   ]
+  },
+  {
+   "key": "onder-mo",
+   "bioguide": "O000177",
+   "name": "Robert F. Onder, Jr.",
+   "last": "Onder",
+   "party": "R",
+   "chamber": "House",
+   "state": "MO",
+   "campaign_committee": "C00870238",
+   "domains": [
+    "onderforcongress.com",
+    "bobonder.com"
+   ]
+  },
+  {
+   "key": "downing-mt",
+   "bioguide": "D000634",
+   "name": "Troy Downing",
+   "last": "Downing",
+   "party": "R",
+   "chamber": "House",
+   "state": "MT",
+   "campaign_committee": "C00855288",
+   "domains": [
+    "troydowning.com",
+    "downingformontana.com"
+   ]
+  },
+  {
+   "key": "mcdowell-nc",
+   "bioguide": "M001240",
+   "name": "Addison P. McDowell",
+   "last": "McDowell",
+   "party": "R",
+   "chamber": "House",
+   "state": "NC",
+   "campaign_committee": "C00860064",
+   "domains": [
+    "mcdowellfornc.com"
+   ]
+  },
+  {
+   "key": "harris-nc",
+   "bioguide": "H001102",
+   "name": "Mark Harris",
+   "last": "Harris",
+   "party": "R",
+   "chamber": "House",
+   "state": "NC",
+   "campaign_committee": "C00850404",
+   "domains": [
+    "markharrisforcongress.org"
+   ]
+  },
+  {
+   "key": "harrigan-nc",
+   "bioguide": "H001101",
+   "name": "Pat Harrigan",
+   "last": "Harrigan",
+   "party": "R",
+   "chamber": "House",
+   "state": "NC",
+   "campaign_committee": "C00802298",
+   "domains": [
+    "harriganforcongress.com"
+   ]
+  },
+  {
+   "key": "knott-nc",
+   "bioguide": "K000405",
+   "name": "Brad Knott",
+   "last": "Knott",
+   "party": "R",
+   "chamber": "House",
+   "state": "NC",
+   "campaign_committee": "C00855361",
+   "domains": [
+    "bradknottforcongress.com"
+   ]
+  },
+  {
+   "key": "moore-nc",
+   "bioguide": "M001236",
+   "name": "Tim Moore",
+   "last": "Moore",
+   "party": "R",
+   "chamber": "House",
+   "state": "NC",
+   "campaign_committee": "C00856005",
+   "domains": [
+    "timmoorenc.com"
+   ]
+  },
+  {
+   "key": "fedorchak-nd",
+   "bioguide": "F000482",
+   "name": "Julie Fedorchak",
+   "last": "Fedorchak",
+   "party": "R",
+   "chamber": "House",
+   "state": "ND",
+   "campaign_committee": "C00869370",
+   "domains": [
+    "fedorchaknd.com"
+   ]
+  },
+  {
+   "key": "biggs-sc",
+   "bioguide": "B001325",
+   "name": "Sheri Biggs",
+   "last": "Biggs",
+   "party": "R",
+   "chamber": "House",
+   "state": "SC",
+   "campaign_committee": "C00866426",
+   "domains": [
+    "sheribiggs.com",
+    "sheribiggsforcongress.com"
+   ]
+  },
+  {
+   "key": "goldman-tx",
+   "bioguide": "G000601",
+   "name": "Craig A. Goldman",
+   "last": "Goldman",
+   "party": "R",
+   "chamber": "House",
+   "state": "TX",
+   "campaign_committee": "C00855528",
+   "domains": [
+    "craiggoldman.org"
+   ]
+  },
+  {
+   "key": "kennedy-ut",
+   "bioguide": "K000403",
+   "name": "Mike Kennedy",
+   "last": "Kennedy",
+   "party": "R",
+   "chamber": "House",
+   "state": "UT",
+   "campaign_committee": "C00864488",
+   "domains": [
+    "mikekennedyforutah.com",
+    "kennedyforutah.com"
+   ]
+  },
+  {
+   "key": "mcguire-va",
+   "bioguide": "M001239",
+   "name": "John J. McGuire III",
+   "last": "McGuire",
+   "party": "R",
+   "chamber": "House",
+   "state": "VA",
+   "campaign_committee": "C00856831",
+   "domains": [
+    "johnmcguire.com",
+    "mcguireforvirginia.com"
+   ]
+  },
+  {
+   "key": "baumgartner-wa",
+   "bioguide": "B001322",
+   "name": "Michael Baumgartner",
+   "last": "Baumgartner",
+   "party": "R",
+   "chamber": "House",
+   "state": "WA",
+   "campaign_committee": "C00870758",
+   "domains": [
+    "votebaumgartner.com"
+   ]
+  },
+  {
+   "key": "moore-wv",
+   "bioguide": "M001235",
+   "name": "Riley M. Moore",
+   "last": "Moore",
+   "party": "R",
+   "chamber": "House",
+   "state": "WV",
+   "campaign_committee": "C00828947",
+   "domains": [
+    "mooreforwv.com"
+   ]
+  },
+  {
+   "key": "kean-nj",
+   "bioguide": "K000398",
+   "name": "Thomas H. Kean, Jr.",
+   "last": "Kean",
+   "party": "R",
+   "chamber": "House",
+   "state": "NJ",
+   "campaign_committee": "C00703058",
+   "domains": [
+    "tomkean.com"
+   ]
+  },
+  {
+   "key": "millermeeks-ia",
+   "bioguide": "M001215",
+   "name": "Mariannette Miller-Meeks",
+   "last": "Miller-Meeks",
+   "party": "R",
+   "chamber": "House",
+   "state": "IA",
+   "campaign_committee": "C00558825",
+   "domains": [
+    "drmillermeeks.com"
+   ]
+  },
+  {
+   "key": "james-mi",
+   "bioguide": "J000307",
+   "name": "John James",
+   "last": "James",
+   "party": "R",
+   "chamber": "House",
+   "state": "MI",
+   "campaign_committee": "C00803502",
+   "domains": [
+    "johnjamesmi.com"
+   ]
+  },
+  {
+   "key": "simon-ca",
+   "bioguide": "S001231",
+   "name": "Lateefah Simon",
+   "last": "Simon",
+   "party": "D",
+   "chamber": "House",
+   "state": "CA",
+   "campaign_committee": "C00834291",
+   "domains": [
+    "lateefahsimon.com"
+   ]
+  },
+  {
+   "key": "liccardo-ca",
+   "bioguide": "L000607",
+   "name": "Sam T. Liccardo",
+   "last": "Liccardo",
+   "party": "D",
+   "chamber": "House",
+   "state": "CA",
+   "campaign_committee": "C00858688",
+   "domains": [
+    "samliccardo.com"
+   ]
+  },
+  {
+   "key": "whitesides-ca",
+   "bioguide": "W000830",
+   "name": "George Whitesides",
+   "last": "Whitesides",
+   "party": "D",
+   "chamber": "House",
+   "state": "CA",
+   "campaign_committee": "C00834028",
+   "domains": [
+    "georgewhitesides.com"
+   ]
+  },
+  {
+   "key": "rivas-ca",
+   "bioguide": "R000620",
+   "name": "Luz M. Rivas",
+   "last": "Rivas",
+   "party": "D",
+   "chamber": "House",
+   "state": "CA",
+   "campaign_committee": "C00857417",
+   "domains": [
+    "luzforcongress.com"
+   ]
+  },
+  {
+   "key": "friedman-ca",
+   "bioguide": "F000483",
+   "name": "Laura Friedman",
+   "last": "Friedman",
+   "party": "D",
+   "chamber": "House",
+   "state": "CA",
+   "campaign_committee": "C00831321",
+   "domains": [
+    "lauraforcongress.org"
+   ]
+  },
+  {
+   "key": "tran-ca",
+   "bioguide": "T000491",
+   "name": "Derek Tran",
+   "last": "Tran",
+   "party": "D",
+   "chamber": "House",
+   "state": "CA",
+   "campaign_committee": "C00851790",
+   "domains": [
+    "derektranforcongress.com"
+   ]
+  },
+  {
+   "key": "min-ca",
+   "bioguide": "M001241",
+   "name": "Dave Min",
+   "last": "Min",
+   "party": "D",
+   "chamber": "House",
+   "state": "CA",
+   "campaign_committee": "C00831537",
+   "domains": [
+    "davemin.com"
+   ]
+  },
+  {
+   "key": "olszewski-md",
+   "bioguide": "O000176",
+   "name": "Johnny Olszewski, Jr.",
+   "last": "Olszewski",
+   "party": "D",
+   "chamber": "House",
+   "state": "MD",
+   "campaign_committee": "C00867747",
+   "domains": [
+    "gojohnnyo.com"
+   ]
+  },
+  {
+   "key": "elfreth-md",
+   "bioguide": "E000301",
+   "name": "Sarah Elfreth",
+   "last": "Elfreth",
+   "party": "D",
+   "chamber": "House",
+   "state": "MD",
+   "campaign_committee": "C00855353",
+   "domains": [
+    "elfrethformaryland.com"
+   ]
+  },
+  {
+   "key": "mcclaindelaney-md",
+   "bioguide": "M001232",
+   "name": "April McClain Delaney",
+   "last": "McClain Delaney",
+   "party": "D",
+   "chamber": "House",
+   "state": "MD",
+   "campaign_committee": "C00854471",
+   "domains": [
+    "aprilmcclaindelaneyforcongress.com"
+   ]
+  },
+  {
+   "key": "morrison-mn",
+   "bioguide": "M001234",
+   "name": "Kelly Morrison",
+   "last": "Morrison",
+   "party": "D",
+   "chamber": "House",
+   "state": "MN",
+   "campaign_committee": "C00856062",
+   "domains": [
+    "kellyforcongress.org"
+   ]
+  },
+  {
+   "key": "goodlander-nh",
+   "bioguide": "G000604",
+   "name": "Maggie Goodlander",
+   "last": "Goodlander",
+   "party": "D",
+   "chamber": "House",
+   "state": "NH",
+   "campaign_committee": "C00878454",
+   "domains": [
+    "maggieforcongress.com",
+    "maggiegoodlander.com"
+   ]
+  },
+  {
+   "key": "conaway-nj",
+   "bioguide": "C001136",
+   "name": "Herbert C. Conaway, Jr.",
+   "last": "Conaway",
+   "party": "D",
+   "chamber": "House",
+   "state": "NJ",
+   "campaign_committee": "C00859496",
+   "domains": [
+    "herbforcongress.com"
+   ]
+  },
+  {
+   "key": "pou-nj",
+   "bioguide": "P000621",
+   "name": "Nellie Pou",
+   "last": "Pou",
+   "party": "D",
+   "chamber": "House",
+   "state": "NJ",
+   "campaign_committee": "C00887547",
+   "domains": [
+    "nelliepoufornewjersey.com"
+   ]
+  },
+  {
+   "key": "riley-ny",
+   "bioguide": "R000622",
+   "name": "Josh Riley",
+   "last": "Riley",
+   "party": "D",
+   "chamber": "House",
+   "state": "NY",
+   "campaign_committee": "C00793760",
+   "domains": [
+    "joshrileyforcongress.com"
+   ]
+  },
+  {
+   "key": "mannion-ny",
+   "bioguide": "M001231",
+   "name": "John W. Mannion",
+   "last": "Mannion",
+   "party": "D",
+   "chamber": "House",
+   "state": "NY",
+   "campaign_committee": "C00845461",
+   "domains": [
+    "mannionforny.com"
+   ]
+  },
+  {
+   "key": "dexter-or",
+   "bioguide": "D000635",
+   "name": "Maxine Dexter",
+   "last": "Dexter",
+   "party": "D",
+   "chamber": "House",
+   "state": "OR",
+   "campaign_committee": "C00859108",
+   "domains": [
+    "maxinefororegon.com"
+   ]
+  },
+  {
+   "key": "bynum-or",
+   "bioguide": "B001326",
+   "name": "Janelle S. Bynum",
+   "last": "Bynum",
+   "party": "D",
+   "chamber": "House",
+   "state": "OR",
+   "campaign_committee": "C00843425",
+   "domains": [
+    "janellebynum.com",
+    "bynumforcongress.com"
+   ]
+  },
+  {
+   "key": "johnson-tx",
+   "bioguide": "J000310",
+   "name": "Julie Johnson",
+   "last": "Johnson",
+   "party": "D",
+   "chamber": "House",
+   "state": "TX",
+   "campaign_committee": null,
+   "domains": [
+    "juliejohnsonforcongress.com",
+    "juliejohnson.com",
+    "juliefortexas.com"
+   ]
+  },
+  {
+   "key": "vindman-va",
+   "bioguide": "V000138",
+   "name": "Eugene Simon Vindman",
+   "last": "Vindman",
+   "party": "D",
+   "chamber": "House",
+   "state": "VA",
+   "campaign_committee": "C00856955",
+   "domains": [
+    "vindmanforcongress.com"
+   ]
+  },
+  {
+   "key": "subramanyam-va",
+   "bioguide": "S001230",
+   "name": "Suhas Subramanyam",
+   "last": "Subramanyam",
+   "party": "D",
+   "chamber": "House",
+   "state": "VA",
+   "campaign_committee": "C00856963",
+   "domains": [
+    "suhasforvirginia.com"
+   ]
+  },
+  {
+   "key": "randall-wa",
+   "bioguide": "R000621",
+   "name": "Emily Randall",
+   "last": "Randall",
+   "party": "D",
+   "chamber": "House",
+   "state": "WA",
+   "campaign_committee": "C00857094",
+   "domains": [
+    "electemilyrandall.com"
+   ]
+  },
+  {
+   "key": "kennedy-ny",
+   "bioguide": "K000402",
+   "name": "Timothy M. Kennedy",
+   "last": "Kennedy",
+   "party": "D",
+   "chamber": "House",
+   "state": "NY",
+   "campaign_committee": "C00856526",
+   "domains": [
+    "kennedyforuscongress.com"
+   ]
+  },
+  {
+   "key": "gonzalez-tx",
+   "bioguide": "G000581",
+   "name": "Vicente Gonzalez",
+   "last": "Gonzalez",
+   "party": "D",
+   "chamber": "House",
+   "state": "TX",
+   "campaign_committee": "C00592659",
+   "domains": [
+    "vicentegonzalez.com"
+   ]
+  },
+  {
+   "key": "schrier-wa",
+   "bioguide": "S001216",
+   "name": "Kim Schrier",
+   "last": "Schrier",
+   "party": "D",
+   "chamber": "House",
+   "state": "WA",
+   "campaign_committee": "C00652628",
+   "domains": [
+    "drkimschrier.com"
+   ]
+  }
+ ]
+}
