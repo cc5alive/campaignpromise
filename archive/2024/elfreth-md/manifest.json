@@ -1,0 +1,38 @@
+{
+  "name": "Sarah Elfreth",
+  "domains_tried": [
+    "elfrethformaryland.com"
+  ],
+  "pages": [
+    {
+      "original": "https://elfrethformaryland.com/",
+      "timestamp": "20241105163935",
+      "wayback": "https://web.archive.org/web/20241105163935/https://elfrethformaryland.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105163935id_/https://elfrethformaryland.com/",
+      "file": "archive/2024/elfreth-md/home.html",
+      "text_file": "archive/2024/elfreth-md/home.txt",
+      "bytes": 63140,
+      "sha256_html": "e57007f85d8c4e29cfc64cd3ed69db40144c1d240306cbda70c5828e0a8be5d1",
+      "sha256_text": "2c00366cf1619c1bbd10d50369815b089c9bf9e4021ea76b039c37ca8e5489e8"
+    },
+    {
+      "original": "https://elfrethformaryland.com/issues/",
+      "timestamp": "20241105163939",
+      "wayback": "https://web.archive.org/web/20241105163939/https://elfrethformaryland.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105163939id_/https://elfrethformaryland.com/issues/",
+      "file": "archive/2024/elfreth-md/issues.html",
+      "text_file": "archive/2024/elfreth-md/issues.txt",
+      "bytes": 66191,
+      "sha256_html": "5542c7c5c144b6534e9c74e0a5c4c7aaf867e1eefca5fe6280e5bafaa4771ed2",
+      "sha256_text": "a52046b36ac99c22af8c7373c3f25afcccbeb644384b78bce98bd678957a0e60"
+    }
+  ],
+  "snapshots_found": {
+    "elfrethformaryland.com": 8
+  },
+  "generated_utc": "2026-11-14T16:54:22Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
