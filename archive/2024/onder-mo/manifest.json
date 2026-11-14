@@ -1,0 +1,29 @@
+{
+  "name": "Robert F. Onder, Jr.",
+  "domains_tried": [
+    "onderforcongress.com",
+    "bobonder.com"
+  ],
+  "pages": [
+    {
+      "original": "http://bobonder.com/",
+      "timestamp": "20241013224509",
+      "wayback": "https://web.archive.org/web/20241013224509/http://bobonder.com/",
+      "wayback_raw": "https://web.archive.org/web/20241013224509id_/http://bobonder.com/",
+      "file": "archive/2024/onder-mo/home.html",
+      "text_file": "archive/2024/onder-mo/home.txt",
+      "bytes": 14088,
+      "sha256_html": "7ad0601cd1c3ff1c90407e5763e49862a2c9f3a9a8e94b7f1810651873156916",
+      "sha256_text": "0345bb80d73a9eea370c69ac79cd82e5e816d92133f4900321d71f8cdd15bb69"
+    }
+  ],
+  "snapshots_found": {
+    "onderforcongress.com": 0,
+    "bobonder.com": 1
+  },
+  "generated_utc": "2026-11-14T16:44:32Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
