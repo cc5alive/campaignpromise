@@ -1,0 +1,26 @@
+{
+ "member": "emmer-mn",
+ "pages": 12,
+ "candidates": [
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "supported legislation to expand the use of 529 Education Savings plans to include costs associated with a child’s elementary and secondary education, and pushed for the preservation of the teacher tax deduction to support our educators.",
+   "page": "https://emmerforcongress.com/key-issues/",
+   "file": "archive/2024/emmer-mn/key-issues.html",
+   "snapshot": "20241105081822"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "Tom is, and always has been, dedicated to reducing Washington’s runaway spending.",
+   "page": "https://emmerforcongress.com/key-issues/",
+   "file": "archive/2024/emmer-mn/key-issues.html",
+   "snapshot": "20241105081822"
+  }
+ ]
+}

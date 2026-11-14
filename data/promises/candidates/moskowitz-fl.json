@@ -1,0 +1,36 @@
+{
+ "member": "moskowitz-fl",
+ "pages": 3,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "In Congress, Jared will fight to expand Medicare and protect Social Security.",
+   "page": "https://jaredforflorida.com/",
+   "file": "archive/2024/moskowitz-fl/home.html",
+   "snapshot": "20241105141533"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Crypto"
+   ],
+   "sentence": "A more secure and competitive digital marketplace that incorporates cryptocurrencies and blockchain technologies will secure America’s economy for the next generation.",
+   "page": "https://jaredforflorida.com/issues/",
+   "file": "archive/2024/moskowitz-fl/issues.html",
+   "snapshot": "20241105141803"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "In Congress, he is fighting to expand Medicare, protect Social Security, and reduce prescription drug costs.",
+   "page": "https://jaredforflorida.com/issues/",
+   "file": "archive/2024/moskowitz-fl/issues.html",
+   "snapshot": "20241105141803"
+  }
+ ]
+}

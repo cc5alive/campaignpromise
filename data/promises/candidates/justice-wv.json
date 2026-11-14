@@ -1,0 +1,57 @@
+{
+ "member": "justice-wv",
+ "pages": 12,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Taxes",
+    "Abortion funding"
+   ],
+   "sentence": "As Governor, Jim Justice has fought for bold conservative results – from the largest tax cut in state history to ending nearly all abortions in West Virginia to defending our Second Amendment freedoms.",
+   "page": "https://jimjusticewv.com/",
+   "file": "archive/2024/justice-wv/home.html",
+   "snapshot": "20241105130853"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "Enacted the largest state tax cut in state history, which will return over $750 million to hardworking West Virginians through income tax cuts, car tax rebates, and small business property tax rebates.",
+   "page": "https://jimjusticewv.com/accomplishment/largest-tax-cut/",
+   "file": "archive/2024/justice-wv/accomplishment-largest-tax-cut.html",
+   "snapshot": "20241102211318"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "Largest Tax Cut in State History - Jim Justice",
+   "page": "https://jimjusticewv.com/accomplishment/largest-tax-cut/",
+   "file": "archive/2024/justice-wv/accomplishment-largest-tax-cut.html",
+   "snapshot": "20241102211318"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "Largest Tax Cut in State History",
+   "page": "https://jimjusticewv.com/accomplishment/largest-tax-cut/",
+   "file": "archive/2024/justice-wv/accomplishment-largest-tax-cut.html",
+   "snapshot": "20241102211318"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "Cut the severance tax on coal, oil, and natural gas in West Virginia to encourage the development and utilization of more natural resources in West Virginia.",
+   "page": "https://jimjusticewv.com/accomplishment/supporting-coal-oil-and-natural-gas/",
+   "file": "archive/2024/justice-wv/accomplishment-supporting-coal-oil-and-natural-gas.html",
+   "snapshot": "20241102213814"
+  }
+ ]
+}

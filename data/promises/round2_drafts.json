@@ -1,0 +1,1696 @@
+{
+ "round": "round2",
+ "promises": [
+  {
+   "id": "ROUND2-001",
+   "member": "fitzpatrick-pa",
+   "name": "Brian K. Fitzpatrick",
+   "party": "R",
+   "chamber": "House",
+   "state": "PA",
+   "quote": "And I will continue to protect Medicaid and the Children’s Health Insurance Program.",
+   "kind": "Pledge",
+   "issue": "Medicaid",
+   "source": {
+    "original": "https://www.brianfitzpatrick.com/issues/a-health-care-system-that-works-for-everyone/",
+    "snapshot": "20241105210250",
+    "wayback": "https://web.archive.org/web/20241105210250/https://www.brianfitzpatrick.com/issues/a-health-care-system-that-works-for-everyone/",
+    "file": "archive/2024/fitzpatrick-pa/issues-a-health-care-system-that-works-for-everyone.html",
+    "sha256_html": "711aea294f0adf6df9067ddc7c0d5da8fb9bf3c87a9213885e38a359eda2cb3e"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "22-May-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "3-Jul-2025",
+     "vote": "No",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-002",
+   "member": "fitzpatrick-pa",
+   "name": "Brian K. Fitzpatrick",
+   "party": "R",
+   "chamber": "House",
+   "state": "PA",
+   "quote": "Congress must act now to secure our borders, respect the rule of law, and show compassion for those legitimately fleeing gang violence and drug cartels.",
+   "kind": "Stated position",
+   "issue": "Immigration",
+   "source": {
+    "original": "https://www.brianfitzpatrick.com/issues/immigration-that-works-for-everyone/",
+    "snapshot": "20241105210319",
+    "wayback": "https://web.archive.org/web/20241105210319/https://www.brianfitzpatrick.com/issues/immigration-that-works-for-everyone/",
+    "file": "archive/2024/fitzpatrick-pa/issues-immigration-that-works-for-everyone.html",
+    "sha256_html": "dbf366822b6c420ad55d4cf0de310210fbe354c48cc933d596d9c4567ade277e"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-006",
+     "bill": "Laken Riley Act (House version)",
+     "question": "final passage",
+     "date": "7-Jan-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll006.xml"
+    },
+    {
+     "id": "house-2025-023",
+     "bill": "Laken Riley Act",
+     "question": "final passage",
+     "date": "22-Jan-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll023.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-003",
+   "member": "mccormick-pa",
+   "name": "David McCormick",
+   "party": "R",
+   "chamber": "Senate",
+   "state": "PA",
+   "quote": "He knows what it’s like to be responsible for the bottom line, and in the Senate he’ll work to rein in government spending, oppose tax increases, and exercise fiscal responsibility to lessen the burden on the people of the commonwealth.",
+   "kind": "Pledge",
+   "issue": "Federal spending",
+   "source": {
+    "original": "https://www.davemccormickpa.com/issues/",
+    "snapshot": "20241104153058",
+    "wayback": "https://web.archive.org/web/20241104153058/https://www.davemccormickpa.com/issues/",
+    "file": "archive/2024/mccormick-pa/issues.html",
+    "sha256_html": "d069ef03f43a68835aa4f048dbed02b7c01877e2a212880cfeb25bd687dd847e"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "senate-1-00372",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "July 1, 2025,  11:56",
+     "vote": "Yea",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml"
+    }
+   ],
+   "note": "Judgment needed: whether the 2025 reconciliation bill counts as cutting spending depends on which baseline you use.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-004",
+   "member": "mccormick-pa",
+   "name": "David McCormick",
+   "party": "R",
+   "chamber": "Senate",
+   "state": "PA",
+   "quote": "As Senator, Dave will fight to secure the border, put an end to drug and human trafficking, and support our border patrol agents with the resources they need to do their jobs.",
+   "kind": "Pledge",
+   "issue": "Immigration",
+   "source": {
+    "original": "https://www.davemccormickpa.com/issues/",
+    "snapshot": "20241104153058",
+    "wayback": "https://web.archive.org/web/20241104153058/https://www.davemccormickpa.com/issues/",
+    "file": "archive/2024/mccormick-pa/issues.html",
+    "sha256_html": "d069ef03f43a68835aa4f048dbed02b7c01877e2a212880cfeb25bd687dd847e"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "senate-1-00007",
+     "bill": "Laken Riley Act",
+     "question": "final passage",
+     "date": "January 20, 2025,  0",
+     "vote": "Yea",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00007.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-005",
+   "member": "mccormick-pa",
+   "name": "David McCormick",
+   "party": "R",
+   "chamber": "Senate",
+   "state": "PA",
+   "quote": "Dave believes we should do even more: he supports increasing the child tax credit to $4,200 per child under the age of 5 and $3,000 for children ages 6 to 17 and giving families the option to receive the credit in monthly installments, from mid-pregnancy to a child’s seventeenth birthday.",
+   "kind": "Stated position",
+   "issue": "Taxes (Child Tax Credit)",
+   "source": {
+    "original": "https://www.davemccormickpa.com/daves-keystone-agenda/",
+    "snapshot": "20241105204936",
+    "wayback": "https://web.archive.org/web/20241105204936/https://www.davemccormickpa.com/daves-keystone-agenda/",
+    "file": "archive/2024/mccormick-pa/daves-keystone-agenda.html",
+    "sha256_html": "3cc434af9c73e8dc3912b62b6b42d06f352060f313fe462c891a2d942f045a3c"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "senate-1-00372",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "July 1, 2025,  11:56",
+     "vote": "Yea",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml"
+    }
+   ],
+   "note": "Judgment needed: the reconciliation bill raised the credit, but by less than the amounts named here.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-006",
+   "member": "sheehy-mt",
+   "name": "Tim Sheehy",
+   "party": "R",
+   "chamber": "Senate",
+   "state": "MT",
+   "quote": "I will work to end the out-of-control spending and the disastrous economic policies that are crushing Montana families and small businesses.",
+   "kind": "Pledge",
+   "issue": "Federal spending",
+   "source": {
+    "original": "https://timformt.com/on-the-issues/",
+    "snapshot": "20241105215948",
+    "wayback": "https://web.archive.org/web/20241105215948/https://timformt.com/on-the-issues/",
+    "file": "archive/2024/sheehy-mt/on-the-issues.html",
+    "sha256_html": "e720902bfd3955b5d47168f3b1a7163beccff2c7e22f0d981bedef5857b3a5ee"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "senate-1-00372",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "July 1, 2025,  11:56",
+     "vote": "Yea",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml"
+    }
+   ],
+   "note": "Judgment needed: whether the 2025 reconciliation bill counts as cutting spending depends on which baseline you use.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-007",
+   "member": "sheehy-mt",
+   "name": "Tim Sheehy",
+   "party": "R",
+   "chamber": "Senate",
+   "state": "MT",
+   "quote": "We need to take a strong stand and secure our border, finish the wall, and finally put an end to illegal immigration once and for all.",
+   "kind": "Stated position",
+   "issue": "Immigration",
+   "source": {
+    "original": "https://timformt.com/on-the-issues/",
+    "snapshot": "20241105215948",
+    "wayback": "https://web.archive.org/web/20241105215948/https://timformt.com/on-the-issues/",
+    "file": "archive/2024/sheehy-mt/on-the-issues.html",
+    "sha256_html": "e720902bfd3955b5d47168f3b1a7163beccff2c7e22f0d981bedef5857b3a5ee"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "senate-1-00007",
+     "bill": "Laken Riley Act",
+     "question": "final passage",
+     "date": "January 20, 2025,  0",
+     "vote": "Yea",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00007.xml"
+    },
+    {
+     "id": "senate-1-00372",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "July 1, 2025,  11:56",
+     "vote": "Yea",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml"
+    }
+   ],
+   "note": "The reconciliation bill included border wall funding.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-008",
+   "member": "sheehy-mt",
+   "name": "Tim Sheehy",
+   "party": "R",
+   "chamber": "Senate",
+   "state": "MT",
+   "quote": "We must keep our commitment to every Montana senior to protect their Social Security and Medicare benefits.",
+   "kind": "Pledge",
+   "issue": "Social Security & Medicare",
+   "source": {
+    "original": "https://timformt.com/on-the-issues/",
+    "snapshot": "20241105215948",
+    "wayback": "https://web.archive.org/web/20241105215948/https://timformt.com/on-the-issues/",
+    "file": "archive/2024/sheehy-mt/on-the-issues.html",
+    "sha256_html": "e720902bfd3955b5d47168f3b1a7163beccff2c7e22f0d981bedef5857b3a5ee"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "senate-1-00372",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "July 1, 2025,  11:56",
+     "vote": "Yea",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml"
+    }
+   ],
+   "note": "Judgment needed: which provisions of the reconciliation bill affect these benefits.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-009",
+   "member": "salazar",
+   "name": "Maria Elvira Salazar",
+   "party": "R",
+   "chamber": "House",
+   "state": "FL",
+   "quote": "There must be protections for people with pre-existing conditions, we must take care of our seniors and protect Medicare, and young adults should be allowed to stay on their parents’ plan up to the age of 26.",
+   "kind": "Stated position",
+   "issue": "Social Security & Medicare",
+   "source": {
+    "original": "https://mariaelvirasalazar.com/issues/",
+    "snapshot": "20241105123458",
+    "wayback": "https://web.archive.org/web/20241105123458/https://mariaelvirasalazar.com/issues/",
+    "file": "archive/2024/salazar/issues.html",
+    "sha256_html": "687c0b861f89c3ea7e5dd0aa41ea744f385ca87fe7c61c180608b0ac20fc5b83"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "22-May-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "3-Jul-2025",
+     "vote": "Aye",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "Judgment needed: which provisions of the reconciliation bill affect these benefits.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-010",
+   "member": "kiggans-va",
+   "name": "Jennifer A. Kiggans",
+   "party": "R",
+   "chamber": "House",
+   "state": "VA",
+   "quote": "In Congress, Jen is a fierce advocate for seniors and fights to protect and preserve Medicare and Social Security.",
+   "kind": "Stated position",
+   "issue": "Social Security & Medicare",
+   "source": {
+    "original": "https://jenforcongress.com/issues/",
+    "snapshot": "20241105201933",
+    "wayback": "https://web.archive.org/web/20241105201933/https://jenforcongress.com/issues/",
+    "file": "archive/2024/kiggans-va/issues.html",
+    "sha256_html": "ad30cfc70a4ad43513063411cad598aee11b9561f01858c8ec50b3104b93c8a3"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "22-May-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "3-Jul-2025",
+     "vote": "Aye",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "Judgment needed: which provisions of the reconciliation bill affect these benefits.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-011",
+   "member": "kiggans-va",
+   "name": "Jennifer A. Kiggans",
+   "party": "R",
+   "chamber": "House",
+   "state": "VA",
+   "quote": "A secure border is a more secure Virginia and a more secure America.",
+   "kind": "Stated position",
+   "issue": "Immigration",
+   "source": {
+    "original": "https://jenforcongress.com/issues/",
+    "snapshot": "20241105201933",
+    "wayback": "https://web.archive.org/web/20241105201933/https://jenforcongress.com/issues/",
+    "file": "archive/2024/kiggans-va/issues.html",
+    "sha256_html": "ad30cfc70a4ad43513063411cad598aee11b9561f01858c8ec50b3104b93c8a3"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-006",
+     "bill": "Laken Riley Act (House version)",
+     "question": "final passage",
+     "date": "7-Jan-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll006.xml"
+    },
+    {
+     "id": "house-2025-023",
+     "bill": "Laken Riley Act",
+     "question": "final passage",
+     "date": "22-Jan-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll023.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-012",
+   "member": "ogles-tn",
+   "name": "Andrew Ogles",
+   "party": "R",
+   "chamber": "House",
+   "state": "TN",
+   "quote": "America is a nation that recognizes and honors the intrinsic value of all human life; therefore, I will commit to protecting the rights of the unborn from the point of conception, block taxpayer funding of abortions everywhere, and defund Planned Parenthood.",
+   "kind": "Pledge",
+   "issue": "Abortion funding",
+   "source": {
+    "original": "https://andyogles.com/issues/",
+    "snapshot": "20241105054606",
+    "wayback": "https://web.archive.org/web/20241105054606/https://andyogles.com/issues/",
+    "file": "archive/2024/ogles-tn/issues.html",
+    "sha256_html": "237396f75d714dc49a3cd89d3e3fb44c179c76005dc01a02ffe0598bab207d64"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "22-May-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "3-Jul-2025",
+     "vote": "Aye",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "The reconciliation bill included a one-year Medicaid funding ban for Planned Parenthood (bundled vote).",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-013",
+   "member": "ogles-tn",
+   "name": "Andrew Ogles",
+   "party": "R",
+   "chamber": "House",
+   "state": "TN",
+   "quote": "First and foremost, we must secure our physical border.",
+   "kind": "Stated position",
+   "issue": "Immigration",
+   "source": {
+    "original": "https://andyogles.com/issues/",
+    "snapshot": "20241105054606",
+    "wayback": "https://web.archive.org/web/20241105054606/https://andyogles.com/issues/",
+    "file": "archive/2024/ogles-tn/issues.html",
+    "sha256_html": "237396f75d714dc49a3cd89d3e3fb44c179c76005dc01a02ffe0598bab207d64"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-006",
+     "bill": "Laken Riley Act (House version)",
+     "question": "final passage",
+     "date": "7-Jan-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll006.xml"
+    },
+    {
+     "id": "house-2025-023",
+     "bill": "Laken Riley Act",
+     "question": "final passage",
+     "date": "22-Jan-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll023.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-014",
+   "member": "roy-tx",
+   "name": "Chip Roy",
+   "party": "R",
+   "chamber": "House",
+   "state": "TX",
+   "quote": "I’m also strongly opposed to any taxpayer funding for Planned Parenthood and will fight to stop those resources used to support killing babies.",
+   "kind": "Pledge",
+   "issue": "Abortion funding",
+   "source": {
+    "original": "https://chiproy.com/issues/",
+    "snapshot": "20241105182606",
+    "wayback": "https://web.archive.org/web/20241105182606/https://chiproy.com/issues/",
+    "file": "archive/2024/roy-tx/issues.html",
+    "sha256_html": "693854d5df4e06b4c4696c7453053e535655ceb597e87c0c03a733dfa758a6c4"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "22-May-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "3-Jul-2025",
+     "vote": "Aye",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "The reconciliation bill included a one-year Medicaid funding ban for Planned Parenthood (bundled vote).",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-015",
+   "member": "roy-tx",
+   "name": "Chip Roy",
+   "party": "R",
+   "chamber": "House",
+   "state": "TX",
+   "quote": "With over $26 trillion in debt eclipsing our economy, we can and must reduce spending, which hasn’t slowed down regardless of the party in power.",
+   "kind": "Stated position",
+   "issue": "Federal spending",
+   "source": {
+    "original": "https://chiproy.com/issues/",
+    "snapshot": "20241105182606",
+    "wayback": "https://web.archive.org/web/20241105182606/https://chiproy.com/issues/",
+    "file": "archive/2024/roy-tx/issues.html",
+    "sha256_html": "693854d5df4e06b4c4696c7453053e535655ceb597e87c0c03a733dfa758a6c4"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "22-May-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "3-Jul-2025",
+     "vote": "Aye",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "Judgment needed: whether the 2025 reconciliation bill counts as cutting spending depends on which baseline you use.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-016",
+   "member": "van-orden-wi",
+   "name": "Derrick Van Orden",
+   "party": "R",
+   "chamber": "House",
+   "state": "WI",
+   "quote": "Derrick will work tirelessly to stop Democrat tax hikes and make sure more of your hard earned money remains where it should be: in your pocket.",
+   "kind": "Pledge",
+   "issue": "Taxes",
+   "source": {
+    "original": "https://www.vanordenforcongress.com/issues/",
+    "snapshot": "20241105075029",
+    "wayback": "https://web.archive.org/web/20241105075029/https://www.vanordenforcongress.com/issues/",
+    "file": "archive/2024/van-orden-wi/issues.html",
+    "sha256_html": "05555b3c61f9ba6e65d64de727800f55ae89f40a3003d06becbc68c50cf3d9c1"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "22-May-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "3-Jul-2025",
+     "vote": "Aye",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "The reconciliation bill extended the 2017 tax cuts.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-017",
+   "member": "van-orden-wi",
+   "name": "Derrick Van Orden",
+   "party": "R",
+   "chamber": "House",
+   "state": "WI",
+   "quote": "We must regain control of our borders to keep our nation safe.",
+   "kind": "Stated position",
+   "issue": "Immigration",
+   "source": {
+    "original": "https://www.vanordenforcongress.com/issues/",
+    "snapshot": "20241105075029",
+    "wayback": "https://web.archive.org/web/20241105075029/https://www.vanordenforcongress.com/issues/",
+    "file": "archive/2024/van-orden-wi/issues.html",
+    "sha256_html": "05555b3c61f9ba6e65d64de727800f55ae89f40a3003d06becbc68c50cf3d9c1"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-006",
+     "bill": "Laken Riley Act (House version)",
+     "question": "final passage",
+     "date": "7-Jan-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll006.xml"
+    },
+    {
+     "id": "house-2025-023",
+     "bill": "Laken Riley Act",
+     "question": "final passage",
+     "date": "22-Jan-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll023.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-018",
+   "member": "bacon-ne",
+   "name": "Don Bacon",
+   "party": "R",
+   "chamber": "House",
+   "state": "NE",
+   "quote": "In Congress, I am backing legislation to secure the border and reform our broken immigration system.",
+   "kind": "Stated position",
+   "issue": "Immigration",
+   "source": {
+    "original": "https://donjbacon.com/",
+    "snapshot": "20241105160007",
+    "wayback": "https://web.archive.org/web/20241105160007/https://donjbacon.com/",
+    "file": "archive/2024/bacon-ne/home.html",
+    "sha256_html": "f35411cdd9da15c1cdd58758db7f2a7ff22036e7d5cf55834acc38c8c072b269"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-006",
+     "bill": "Laken Riley Act (House version)",
+     "question": "final passage",
+     "date": "7-Jan-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll006.xml"
+    },
+    {
+     "id": "house-2025-023",
+     "bill": "Laken Riley Act",
+     "question": "final passage",
+     "date": "22-Jan-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll023.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-019",
+   "member": "johnson-la",
+   "name": "Mike Johnson",
+   "party": "R",
+   "chamber": "House",
+   "state": "LA",
+   "quote": "We will secure the border on day one with a President Trump executive order and then legislation to follow, and we will turn immediately to the economy.",
+   "kind": "Pledge",
+   "issue": "Immigration",
+   "source": {
+    "original": "https://www.mikejohnsonforlouisiana.com/news/speaker-johnson-discusses-2024-election-and-the-house-gop-agenda-on-mornings-with-marianbsp",
+    "snapshot": "20241105104232",
+    "wayback": "https://web.archive.org/web/20241105104232/https://www.mikejohnsonforlouisiana.com/news/speaker-johnson-discusses-2024-election-and-the-house-gop-agenda-on-mornings-with-marianbsp",
+    "file": "archive/2024/johnson-la/news-speaker-johnson-discusses-2024-election-and-the-house-gop-agenda-on-mornings-with-marianbsp.html",
+    "sha256_html": "f32af5af9867f6151a3ec4e934e53b3702d3ecb14ee992e310c768847fa5ef0a"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-006",
+     "bill": "Laken Riley Act (House version)",
+     "question": "final passage",
+     "date": "7-Jan-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll006.xml"
+    },
+    {
+     "id": "house-2025-023",
+     "bill": "Laken Riley Act",
+     "question": "final passage",
+     "date": "22-Jan-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll023.xml"
+    }
+   ],
+   "note": "From a news item on his campaign site quoting him. As Speaker he may not vote on every bill.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-020",
+   "member": "hamadeh-az",
+   "name": "Abraham J. Hamadeh",
+   "party": "R",
+   "chamber": "House",
+   "state": "AZ",
+   "quote": "I will work with President Trump to build the wall and will work to pass a bill classifying drug cartels as the terrorist organizations they are.",
+   "kind": "Pledge",
+   "issue": "Immigration",
+   "source": {
+    "original": "https://www.abeforaz.com/our-issues",
+    "snapshot": "20241105202611",
+    "wayback": "https://web.archive.org/web/20241105202611/https://www.abeforaz.com/our-issues",
+    "file": "archive/2024/hamadeh-az/our-issues.html",
+    "sha256_html": "621a9a24ef6e871fa5d79b6aa8c9a9890d5e0302a100df98b8dc3c0c940f9cc2"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-006",
+     "bill": "Laken Riley Act (House version)",
+     "question": "final passage",
+     "date": "7-Jan-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll006.xml"
+    },
+    {
+     "id": "house-2025-023",
+     "bill": "Laken Riley Act",
+     "question": "final passage",
+     "date": "22-Jan-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll023.xml"
+    },
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "22-May-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "3-Jul-2025",
+     "vote": "Aye",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "The reconciliation bill included border wall funding.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-021",
+   "member": "hamadeh-az",
+   "name": "Abraham J. Hamadeh",
+   "party": "R",
+   "chamber": "House",
+   "state": "AZ",
+   "quote": "At a time when Americans are hurting and seeing the value of their dollar devalued, we must do everything we can to preserve Social Security for our seniors.",
+   "kind": "Stated position",
+   "issue": "Social Security & Medicare",
+   "source": {
+    "original": "https://www.abeforaz.com/our-issues",
+    "snapshot": "20241105202611",
+    "wayback": "https://web.archive.org/web/20241105202611/https://www.abeforaz.com/our-issues",
+    "file": "archive/2024/hamadeh-az/our-issues.html",
+    "sha256_html": "621a9a24ef6e871fa5d79b6aa8c9a9890d5e0302a100df98b8dc3c0c940f9cc2"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "22-May-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "3-Jul-2025",
+     "vote": "Aye",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "Judgment needed: which provisions of the reconciliation bill affect these benefits.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-022",
+   "member": "kim-ca",
+   "name": "Young Kim",
+   "party": "R",
+   "chamber": "House",
+   "state": "CA",
+   "quote": "Californians face the heaviest tax burden of any state in the nation, which is why Young will always fight to lower our taxes.",
+   "kind": "Pledge",
+   "issue": "Taxes",
+   "source": {
+    "original": "https://youngkimforcongress.com/on-the-issues/",
+    "snapshot": "20241105073210",
+    "wayback": "https://web.archive.org/web/20241105073210/https://youngkimforcongress.com/on-the-issues/",
+    "file": "archive/2024/kim-ca/on-the-issues.html",
+    "sha256_html": "a475988399d90abd803704562af4a03b6341b07bc90c48b4801084572b8582d9"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "22-May-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "3-Jul-2025",
+     "vote": "Aye",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "Judgment needed: the reconciliation bill cut some taxes and changed many others.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-023",
+   "member": "kim-ca",
+   "name": "Young Kim",
+   "party": "R",
+   "chamber": "House",
+   "state": "CA",
+   "quote": "Young will work with anyone who is willing to fix our immigration system while increasing border security.",
+   "kind": "Pledge",
+   "issue": "Immigration",
+   "source": {
+    "original": "https://youngkimforcongress.com/on-the-issues/",
+    "snapshot": "20241105073210",
+    "wayback": "https://web.archive.org/web/20241105073210/https://youngkimforcongress.com/on-the-issues/",
+    "file": "archive/2024/kim-ca/on-the-issues.html",
+    "sha256_html": "a475988399d90abd803704562af4a03b6341b07bc90c48b4801084572b8582d9"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-006",
+     "bill": "Laken Riley Act (House version)",
+     "question": "final passage",
+     "date": "7-Jan-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll006.xml"
+    },
+    {
+     "id": "house-2025-023",
+     "bill": "Laken Riley Act",
+     "question": "final passage",
+     "date": "22-Jan-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll023.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-024",
+   "member": "emmer-mn",
+   "name": "Tom Emmer",
+   "party": "R",
+   "chamber": "House",
+   "state": "MN",
+   "quote": "Tom is, and always has been, dedicated to reducing Washington’s runaway spending.",
+   "kind": "Stated position",
+   "issue": "Federal spending",
+   "source": {
+    "original": "https://emmerforcongress.com/key-issues/",
+    "snapshot": "20241105081822",
+    "wayback": "https://web.archive.org/web/20241105081822/https://emmerforcongress.com/key-issues/",
+    "file": "archive/2024/emmer-mn/key-issues.html",
+    "sha256_html": "434d51338610d8a678b8f021c205ccece270936ab6cde77d2a8bbeb1ee4b56d3"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "22-May-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "3-Jul-2025",
+     "vote": "Aye",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "Judgment needed: whether the 2025 reconciliation bill counts as cutting spending depends on which baseline you use.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-025",
+   "member": "scalise-la",
+   "name": "Steve Scalise",
+   "party": "R",
+   "chamber": "House",
+   "state": "LA",
+   "quote": "\"Defend our liberty, right to life, freedom rights, protect the border and stop illegal immigration!",
+   "kind": "Stated position",
+   "issue": "Immigration",
+   "source": {
+    "original": "https://stevescalise.com/",
+    "snapshot": "20241031202706",
+    "wayback": "https://web.archive.org/web/20241031202706/https://stevescalise.com/",
+    "file": "archive/2024/scalise-la/home.html",
+    "sha256_html": "de908fb7cb936544472e416adf9b4c1d558ad80e30017d1a6ea31a885a32a539"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-006",
+     "bill": "Laken Riley Act (House version)",
+     "question": "final passage",
+     "date": "7-Jan-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll006.xml"
+    },
+    {
+     "id": "house-2025-023",
+     "bill": "Laken Riley Act",
+     "question": "final passage",
+     "date": "22-Jan-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll023.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-026",
+   "member": "alsobrooks-md",
+   "name": "Angela D. Alsobrooks",
+   "party": "D",
+   "chamber": "Senate",
+   "state": "MD",
+   "quote": "She believes it’s time for Congress to act to expand Medicaid for millions of Americans that should be covered by the ACA Medicaid expansion but live in the 10 states whose Republican legislators refuse to expand coverage in their states.",
+   "kind": "Stated position",
+   "issue": "Medicaid",
+   "source": {
+    "original": "https://www.angelaalsobrooks.com/priority/health-care",
+    "snapshot": "20241105143213",
+    "wayback": "https://web.archive.org/web/20241105143213/https://www.angelaalsobrooks.com/priority/health-care",
+    "file": "archive/2024/alsobrooks-md/priority-health-care.html",
+    "sha256_html": "c0370a67decfeef5625d1cba8a5e72904de08fbd6e4e277c50b60ddd2938dd80"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "senate-1-00372",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "July 1, 2025,  11:56",
+     "vote": "Nay",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml"
+    }
+   ],
+   "note": "The reconciliation bill reduced federal Medicaid spending.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-027",
+   "member": "schiff-ca",
+   "name": "Adam B. Schiff",
+   "party": "D",
+   "chamber": "Senate",
+   "state": "CA",
+   "quote": "Let’s face it – corporations or billionaires should never, ever, pay less taxes than a construction worker.",
+   "kind": "Stated position",
+   "issue": "Taxes",
+   "source": {
+    "original": "https://www.adamschiff.com/issue/our-economy/",
+    "snapshot": "20241105155833",
+    "wayback": "https://web.archive.org/web/20241105155833/https://www.adamschiff.com/issue/our-economy/",
+    "file": "archive/2024/schiff-ca/issue-our-economy.html",
+    "sha256_html": "3116e1161daf8e341a4e10ee8130313bf41bf15da1a3355b3080479eaae82b93"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "senate-1-00372",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "July 1, 2025,  11:56",
+     "vote": "Nay",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml"
+    }
+   ],
+   "note": "Judgment needed: the reconciliation bill cut some taxes and changed many others.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-028",
+   "member": "jeffries-ny",
+   "name": "Hakeem S. Jeffries",
+   "party": "D",
+   "chamber": "House",
+   "state": "NY",
+   "quote": "Hakeem will keep fighting to expand the Child Tax Credit to provide direct relief to working families with kids.",
+   "kind": "Pledge",
+   "issue": "Taxes (Child Tax Credit)",
+   "source": {
+    "original": "https://hakeemjeffries.com/issues/",
+    "snapshot": "20241105093439",
+    "wayback": "https://web.archive.org/web/20241105093439/https://hakeemjeffries.com/issues/",
+    "file": "archive/2024/jeffries-ny/issues.html",
+    "sha256_html": "9dcbc188c50c748d9072206779398ae75184fa7c92a5f98097713450720ccc85"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "22-May-2025",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "3-Jul-2025",
+     "vote": "No",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "Likely mixed: the reconciliation bill raised the Child Tax Credit, and the member's vote was on the bill as a whole.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-029",
+   "member": "golden-me",
+   "name": "Jared F. Golden",
+   "party": "D",
+   "chamber": "House",
+   "state": "ME",
+   "quote": "Promised to protect Social Security and increase benefits so that no senior retires in poverty.",
+   "kind": "Pledge",
+   "issue": "Social Security & Medicare",
+   "source": {
+    "original": "https://jaredgoldenforcongress.com/issues/",
+    "snapshot": "20241104091814",
+    "wayback": "https://web.archive.org/web/20241104091814/https://jaredgoldenforcongress.com/issues/",
+    "file": "archive/2024/golden-me/issues.html",
+    "sha256_html": "c8af9c80385292b9868ad12b0156e194d4f1aabb5061ea3516a1ba66baf80fc4"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "22-May-2025",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "3-Jul-2025",
+     "vote": "No",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "Judgment needed: which provisions of the reconciliation bill affect these benefits.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-030",
+   "member": "gottheimer-nj",
+   "name": "Josh Gottheimer",
+   "party": "D",
+   "chamber": "House",
+   "state": "NJ",
+   "quote": "From leading the fight to kill the Congestion Tax, and defending abortion rights, to expanding the Child Tax Credit, I’ll always do what it takes to get things done for Jersey, solve problems, and put your family first.",
+   "kind": "Stated position",
+   "issue": "Taxes (Child Tax Credit)",
+   "source": {
+    "original": "https://www.josh4jersey.com/",
+    "snapshot": "20241105235836",
+    "wayback": "https://web.archive.org/web/20241105235836/https://www.josh4jersey.com/",
+    "file": "archive/2024/gottheimer-nj/home.html",
+    "sha256_html": "50a90fe70b86b563ec06b27c5771707f55463355acd8a2a987c0a20d695d3c76"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "22-May-2025",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "3-Jul-2025",
+     "vote": "No",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "Likely mixed: the reconciliation bill raised the Child Tax Credit, and the member's vote was on the bill as a whole.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-031",
+   "member": "omar-mn",
+   "name": "Ilhan Omar",
+   "party": "D",
+   "chamber": "House",
+   "state": "MN",
+   "quote": "Repeal the Republican’s 2017 tax scheme that cut taxes for the nation’s highest earners while driving down revenue for important federal programs that support everyday Americans",
+   "kind": "Stated position",
+   "issue": "Taxes",
+   "source": {
+    "original": "https://ilhanomar.com/issue/economicjustice/",
+    "snapshot": "20241105072425",
+    "wayback": "https://web.archive.org/web/20241105072425/https://ilhanomar.com/issue/economicjustice/",
+    "file": "archive/2024/omar-mn/issue-economicjustice.html",
+    "sha256_html": "a69e6034d9566523045f440f2fa1b961d2e76c4003aaacfc33c6f7d5291e7f2f"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "22-May-2025",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "3-Jul-2025",
+     "vote": "No",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "The reconciliation bill made most of the 2017 tax cuts permanent.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-032",
+   "member": "omar-mn",
+   "name": "Ilhan Omar",
+   "party": "D",
+   "chamber": "House",
+   "state": "MN",
+   "quote": "Strengthen and protect critical Social Security benefits",
+   "kind": "Stated position",
+   "issue": "Social Security & Medicare",
+   "source": {
+    "original": "https://ilhanomar.com/issue/disability-accessibility-advocacy/",
+    "snapshot": "20241105072428",
+    "wayback": "https://web.archive.org/web/20241105072428/https://ilhanomar.com/issue/disability-accessibility-advocacy/",
+    "file": "archive/2024/omar-mn/issue-disability-accessibility-advocacy.html",
+    "sha256_html": "b276f462b326bcf295f9e27e7bc67df7f51e3eeec455c94e0f030606a17a797f"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "22-May-2025",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "3-Jul-2025",
+     "vote": "No",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "Judgment needed: which provisions of the reconciliation bill affect these benefits.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-033",
+   "member": "ansari-az",
+   "name": "Yassamin Ansari",
+   "party": "D",
+   "chamber": "House",
+   "state": "AZ",
+   "quote": "In Congress, I will pursue legislation that helps address asylum processing, visa backlogs and a path to legal status for millions of undocumented immigrants, including essential farmworkers, temporary protected status recipients and Dreamers.",
+   "kind": "Pledge",
+   "issue": "Immigration",
+   "source": {
+    "original": "https://yassaminforcongress.com/news/arizona-republic-arizona-3rd-congressional-district-candidates-where-ansari-zink-aversa-stand-on-issues/",
+    "snapshot": "20241105212331",
+    "wayback": "https://web.archive.org/web/20241105212331/https://yassaminforcongress.com/news/arizona-republic-arizona-3rd-congressional-district-candidates-where-ansari-zink-aversa-stand-on-issues/",
+    "file": "archive/2024/ansari-az/news-arizona-republic-arizona-3rd-congressional-district-candidates-where-ansari-zink-aversa-stand-on-issues.html",
+    "sha256_html": "9b11f8c8fb84d953af566022e09c0829ccec0f69e758eb07c54dfd4dead0dc2e"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-006",
+     "bill": "Laken Riley Act (House version)",
+     "question": "final passage",
+     "date": "7-Jan-2025",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll006.xml"
+    },
+    {
+     "id": "house-2025-023",
+     "bill": "Laken Riley Act",
+     "question": "final passage",
+     "date": "22-Jan-2025",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll023.xml"
+    }
+   ],
+   "note": "Judgment needed: the Laken Riley Act expanded detention; it did not address legal status.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-034",
+   "member": "mcbride-de",
+   "name": "Sarah McBride",
+   "party": "D",
+   "chamber": "House",
+   "state": "DE",
+   "quote": "In Congress, I will be a staunch advocate for coverage, including through Medicaid, for the full range of reproductive health care patients need and to end draconian policies like the global gag rule that limit funds internationally in reproductive health care.",
+   "kind": "Pledge",
+   "issue": "Medicaid",
+   "source": {
+    "original": "https://www.sarahmcbride.com/priorities",
+    "snapshot": "20241105043249",
+    "wayback": "https://web.archive.org/web/20241105043249/https://www.sarahmcbride.com/priorities",
+    "file": "archive/2024/mcbride-de/priorities.html",
+    "sha256_html": "8e6068a95756d37986c6e2d8a432c575e0a72fa1126b9fab8d8f3b0190a81996"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "22-May-2025",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "3-Jul-2025",
+     "vote": "No",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "Judgment needed: which reconciliation-bill Medicaid changes bear on reproductive health coverage.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-035",
+   "member": "crockett-tx",
+   "name": "Jasmine Crockett",
+   "party": "D",
+   "chamber": "House",
+   "state": "TX",
+   "quote": "We are a nation of immigrants and that will not change but it is time our laws do.",
+   "kind": "Stated position",
+   "issue": "Immigration",
+   "source": {
+    "original": "https://www.jasmineforus.com/issues/",
+    "snapshot": "20241105210206",
+    "wayback": "https://web.archive.org/web/20241105210206/https://www.jasmineforus.com/issues/",
+    "file": "archive/2024/crockett-tx/issues.html",
+    "sha256_html": "b38457579765046bcc6dee4451725b0d2766e94670ba2abcc90d3d2b3cc78d5c"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-006",
+     "bill": "Laken Riley Act (House version)",
+     "question": "final passage",
+     "date": "7-Jan-2025",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll006.xml"
+    },
+    {
+     "id": "house-2025-023",
+     "bill": "Laken Riley Act",
+     "question": "final passage",
+     "date": "22-Jan-2025",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll023.xml"
+    }
+   ],
+   "note": "Judgment needed: broad statement; the Laken Riley Act is one narrow test.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-036",
+   "member": "moskowitz-fl",
+   "name": "Jared Moskowitz",
+   "party": "D",
+   "chamber": "House",
+   "state": "FL",
+   "quote": "In Congress, Jared will fight to expand Medicare and protect Social Security.",
+   "kind": "Pledge",
+   "issue": "Social Security & Medicare",
+   "source": {
+    "original": "https://jaredforflorida.com/",
+    "snapshot": "20241105141533",
+    "wayback": "https://web.archive.org/web/20241105141533/https://jaredforflorida.com/",
+    "file": "archive/2024/moskowitz-fl/home.html",
+    "sha256_html": "c9a3b6bb2248c97e04ee239cb498722a215d5497769333383c019134b2a07444"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "22-May-2025",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "3-Jul-2025",
+     "vote": "No",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "Judgment needed: which provisions of the reconciliation bill affect these benefits.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-037",
+   "member": "moskowitz-fl",
+   "name": "Jared Moskowitz",
+   "party": "D",
+   "chamber": "House",
+   "state": "FL",
+   "quote": "A more secure and competitive digital marketplace that incorporates cryptocurrencies and blockchain technologies will secure America’s economy for the next generation.",
+   "kind": "Stated position",
+   "issue": "Crypto",
+   "source": {
+    "original": "https://jaredforflorida.com/issues/",
+    "snapshot": "20241105141803",
+    "wayback": "https://web.archive.org/web/20241105141803/https://jaredforflorida.com/issues/",
+    "file": "archive/2024/moskowitz-fl/issues.html",
+    "sha256_html": "a10cec158284752a79684fd5b0f4cf0a5ba9ca7c69050deeb49cbeb3a9b50340"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-199",
+     "bill": "CLARITY Act",
+     "question": "final passage",
+     "date": "17-Jul-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll199.xml"
+    },
+    {
+     "id": "house-2025-200",
+     "bill": "GENIUS Act",
+     "question": "final passage",
+     "date": "17-Jul-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll200.xml"
+    },
+    {
+     "id": "house-2025-201",
+     "bill": "Anti-CBDC Act",
+     "question": "final passage",
+     "date": "17-Jul-2025",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll201.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-038",
+   "member": "ryan-ny",
+   "name": "Patrick Ryan",
+   "party": "D",
+   "chamber": "House",
+   "state": "NY",
+   "quote": "In Congress, Pat's fighting inflation by going after price-gougers who are harming customers, guaranteeing middle-class voters get a tax cut, and making sure billionaires and big corporations pay their fair share.",
+   "kind": "Stated position",
+   "issue": "Taxes",
+   "source": {
+    "original": "https://www.patryanforcongress.com/priorities",
+    "snapshot": "20241105191624",
+    "wayback": "https://web.archive.org/web/20241105191624/https://www.patryanforcongress.com/priorities",
+    "file": "archive/2024/ryan-ny/priorities.html",
+    "sha256_html": "14c4c204628d7d6c693882f1b87a07031f2224001f5edd3148af9981eaa98ee2"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "22-May-2025",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "3-Jul-2025",
+     "vote": "No",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "Judgment needed: the reconciliation bill cut some taxes and changed many others.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-039",
+   "member": "deluzio-pa",
+   "name": "Christopher R. Deluzio",
+   "party": "D",
+   "chamber": "House",
+   "state": "PA",
+   "quote": "That's why in Congress Chris is fighting to protect and expand Social Security.",
+   "kind": "Stated position",
+   "issue": "Social Security & Medicare",
+   "source": {
+    "original": "https://chrisforpa.com/core-values/",
+    "snapshot": "20241105041504",
+    "wayback": "https://web.archive.org/web/20241105041504/https://chrisforpa.com/core-values/",
+    "file": "archive/2024/deluzio-pa/core-values.html",
+    "sha256_html": "fab3f4aa9b454adb2c0b9a589a2515d51c92ef077ebc19be135321506a1980d1"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "22-May-2025",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "3-Jul-2025",
+     "vote": "No",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "Judgment needed: which provisions of the reconciliation bill affect these benefits.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-040",
+   "member": "deluzio-pa",
+   "name": "Christopher R. Deluzio",
+   "party": "D",
+   "chamber": "House",
+   "state": "PA",
+   "quote": "Chris will work hard to expand Medicare to achieve coverage for all Americans.",
+   "kind": "Pledge",
+   "issue": "Health care",
+   "source": {
+    "original": "https://chrisforpa.com/core-values/good-healthcare/",
+    "snapshot": "20240918192733",
+    "wayback": "https://web.archive.org/web/20240918192733/https://chrisforpa.com/core-values/good-healthcare/",
+    "file": "archive/2024/deluzio-pa/core-values-good-healthcare.html",
+    "sha256_html": "211f8d4b907a46eac8e0b7333cf818ff74804595819d60bd67c0454666b340aa"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "22-May-2025",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "3-Jul-2025",
+     "vote": "No",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "Judgment needed: the reconciliation bill did not change Medicare eligibility.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-041",
+   "member": "khanna-ca",
+   "name": "Ro Khanna",
+   "party": "D",
+   "chamber": "House",
+   "state": "CA",
+   "quote": "Fighting for Immigration Reform",
+   "kind": "Stated position",
+   "issue": "Immigration",
+   "source": {
+    "original": "https://www.rokhanna.com/issues",
+    "snapshot": "20241105044033",
+    "wayback": "https://web.archive.org/web/20241105044033/https://www.rokhanna.com/issues",
+    "file": "archive/2024/khanna-ca/issues.html",
+    "sha256_html": "c2b67109f85ed37f96a9f225cd058017393463384c428b9785b38995c293d65c"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-006",
+     "bill": "Laken Riley Act (House version)",
+     "question": "final passage",
+     "date": "7-Jan-2025",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll006.xml"
+    },
+    {
+     "id": "house-2025-023",
+     "bill": "Laken Riley Act",
+     "question": "final passage",
+     "date": "22-Jan-2025",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll023.xml"
+    }
+   ],
+   "note": "Section heading on the issues page. Judgment needed: broad statement.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND2-042",
+   "member": "jayapal-wa",
+   "name": "Pramila Jayapal",
+   "party": "D",
+   "chamber": "House",
+   "state": "WA",
+   "quote": "Our people-first campaign is counting on grassroots supporters like you to keep Pramila in Congress, where she’ll continue boldly fighting to pass Medicare for All, achieve humane immigration reform, protect workers’ rights, end Big Money's influence in our government, and secure racial, economic, social, and environmental justice.",
+   "kind": "Stated position",
+   "issue": "Immigration",
+   "source": {
+    "original": "https://www.pramilaforcongress.com/",
+    "snapshot": "20241104235038",
+    "wayback": "https://web.archive.org/web/20241104235038/https://www.pramilaforcongress.com/",
+    "file": "archive/2024/jayapal-wa/home.html",
+    "sha256_html": "930f1b6c71f1263eff83c80733cb0bfe6f550bc2f4188aa9602b65e55ef6a6f9"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-006",
+     "bill": "Laken Riley Act (House version)",
+     "question": "final passage",
+     "date": "7-Jan-2025",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll006.xml"
+    },
+    {
+     "id": "house-2025-023",
+     "bill": "Laken Riley Act",
+     "question": "final passage",
+     "date": "22-Jan-2025",
+     "vote": "Not Voting",
+     "source": "https://clerk.house.gov/evs/2025/roll023.xml"
+    }
+   ],
+   "note": "From a fundraising message on her homepage. Judgment needed: broad statement.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  }
+ ],
+ "rejected": []
+}
