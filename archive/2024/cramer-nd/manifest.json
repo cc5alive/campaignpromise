@@ -1,0 +1,148 @@
+{
+  "name": "Kevin Cramer",
+  "domains_tried": [
+    "kevincramer.org"
+  ],
+  "pages": [
+    {
+      "original": "https://kevincramer.org/",
+      "timestamp": "20241105153548",
+      "wayback": "https://web.archive.org/web/20241105153548/https://kevincramer.org/",
+      "wayback_raw": "https://web.archive.org/web/20241105153548id_/https://kevincramer.org/",
+      "file": "archive/2024/cramer-nd/home.html",
+      "text_file": "archive/2024/cramer-nd/home.txt",
+      "bytes": 135889,
+      "sha256_html": "bbbc8eacc93e0231eb9a873a42ca6f452446fec157402dbf7df90b755d0e3849",
+      "sha256_text": "28c2de8273c1b8dd926ac4253ccd571ba1c7b8bd1cb35206843ad772cacbbd19"
+    },
+    {
+      "original": "https://kevincramer.org/issues/",
+      "timestamp": "20241105112129",
+      "wayback": "https://web.archive.org/web/20241105112129/https://kevincramer.org/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105112129id_/https://kevincramer.org/issues/",
+      "file": "archive/2024/cramer-nd/issues.html",
+      "text_file": "archive/2024/cramer-nd/issues.txt",
+      "bytes": 220962,
+      "sha256_html": "bafa51ec84ab9b840a785907294abefcbd2ecad5eb438de3d76625493976454b",
+      "sha256_text": "865d073aa069e3937b6becc9f79d75c2959b98f8dffe94fa1aa6215cbfe5e825"
+    },
+    {
+      "original": "https://kevincramer.org/issue/economy/",
+      "timestamp": "20241105112316",
+      "wayback": "https://web.archive.org/web/20241105112316/https://kevincramer.org/issue/economy/",
+      "wayback_raw": "https://web.archive.org/web/20241105112316id_/https://kevincramer.org/issue/economy/",
+      "file": "archive/2024/cramer-nd/issue-economy.html",
+      "text_file": "archive/2024/cramer-nd/issue-economy.txt",
+      "bytes": 100789,
+      "sha256_html": "901741f90ea20154696965fc934626c42d2c69813e5b340fb95f3ca98750da4e",
+      "sha256_text": "7600fb84c561122836fe90fef6e2346350c144cf05b5983fbdb1b50066d7598f"
+    },
+    {
+      "original": "https://kevincramer.org/issue/energy/",
+      "timestamp": "20241105112314",
+      "wayback": "https://web.archive.org/web/20241105112314/https://kevincramer.org/issue/energy/",
+      "wayback_raw": "https://web.archive.org/web/20241105112314id_/https://kevincramer.org/issue/energy/",
+      "file": "archive/2024/cramer-nd/issue-energy.html",
+      "text_file": "archive/2024/cramer-nd/issue-energy.txt",
+      "bytes": 101215,
+      "sha256_html": "f25a80cc93b8b9b562f51573711747fa946420020892a1891e3eaee2a9bcb216",
+      "sha256_text": "5b6157354e9390a4cc772e468e10a019ccadcd17e060b4f592521389d99b9a51"
+    },
+    {
+      "original": "https://kevincramer.org/issue/farm-bill/",
+      "timestamp": "20241105112323",
+      "wayback": "https://web.archive.org/web/20241105112323/https://kevincramer.org/issue/farm-bill/",
+      "wayback_raw": "https://web.archive.org/web/20241105112323id_/https://kevincramer.org/issue/farm-bill/",
+      "file": "archive/2024/cramer-nd/issue-farm-bill.html",
+      "text_file": "archive/2024/cramer-nd/issue-farm-bill.txt",
+      "bytes": 100939,
+      "sha256_html": "300540c13d326d51242977709190eec6795f8a53bf675a93e802106f199c5ba6",
+      "sha256_text": "d19cdeaabc0ca3df04f1bdc4b6310a974ec299b7f5fc73c78bc35ee919565dd7"
+    },
+    {
+      "original": "https://kevincramer.org/issue/healthcare/",
+      "timestamp": "20241105112308",
+      "wayback": "https://web.archive.org/web/20241105112308/https://kevincramer.org/issue/healthcare/",
+      "wayback_raw": "https://web.archive.org/web/20241105112308id_/https://kevincramer.org/issue/healthcare/",
+      "file": "archive/2024/cramer-nd/issue-healthcare.html",
+      "text_file": "archive/2024/cramer-nd/issue-healthcare.txt",
+      "bytes": 100440,
+      "sha256_html": "8f5779aa90b8429eaff6deb9970a24bcf1e3fd12107b26d7ecf0b702b80b18dc",
+      "sha256_text": "4c1f3c77d4630b6647b46eeef1f0219efa55d64f57ffd5d736e2d35547fe4caa"
+    },
+    {
+      "original": "https://kevincramer.org/issue/immigration/",
+      "timestamp": "20241105112313",
+      "wayback": "https://web.archive.org/web/20241105112313/https://kevincramer.org/issue/immigration/",
+      "wayback_raw": "https://web.archive.org/web/20241105112313id_/https://kevincramer.org/issue/immigration/",
+      "file": "archive/2024/cramer-nd/issue-immigration.html",
+      "text_file": "archive/2024/cramer-nd/issue-immigration.txt",
+      "bytes": 100755,
+      "sha256_html": "7f8cb24f96fee1c43752971e9f561595d7bd6f63303bfb3098aa57629daa6424",
+      "sha256_text": "7d9ac535fe80540440446462c7e549c85eaf33c4e90df2f080c46aa618e4d891"
+    },
+    {
+      "original": "https://kevincramer.org/issue/military-veterans/",
+      "timestamp": "20241105112302",
+      "wayback": "https://web.archive.org/web/20241105112302/https://kevincramer.org/issue/military-veterans/",
+      "wayback_raw": "https://web.archive.org/web/20241105112302id_/https://kevincramer.org/issue/military-veterans/",
+      "file": "archive/2024/cramer-nd/issue-military-veterans.html",
+      "text_file": "archive/2024/cramer-nd/issue-military-veterans.txt",
+      "bytes": 101273,
+      "sha256_html": "c89f33292c6490d3aa04b78807bd127d2a76ebf6c2b8d89f5c7a104772679291",
+      "sha256_text": "ae23f502fd4ce78e37db93b02ae85ee2435de5248bbae1436c745002631ccbf3"
+    },
+    {
+      "original": "https://kevincramer.org/issue/national-security/",
+      "timestamp": "20241105112305",
+      "wayback": "https://web.archive.org/web/20241105112305/https://kevincramer.org/issue/national-security/",
+      "wayback_raw": "https://web.archive.org/web/20241105112305id_/https://kevincramer.org/issue/national-security/",
+      "file": "archive/2024/cramer-nd/issue-national-security.html",
+      "text_file": "archive/2024/cramer-nd/issue-national-security.txt",
+      "bytes": 101352,
+      "sha256_html": "ad725d46a35c5f16465e164b1fe4a52646756fa7577237096971bbe3b7e022aa",
+      "sha256_text": "8ab1f78e498e9610fd7af014fbd8a0cd5d0989e1911e1c6c08374c6abb49c7c3"
+    },
+    {
+      "original": "https://kevincramer.org/issue/pro-life/",
+      "timestamp": "20241105112304",
+      "wayback": "https://web.archive.org/web/20241105112304/https://kevincramer.org/issue/pro-life/",
+      "wayback_raw": "https://web.archive.org/web/20241105112304id_/https://kevincramer.org/issue/pro-life/",
+      "file": "archive/2024/cramer-nd/issue-pro-life.html",
+      "text_file": "archive/2024/cramer-nd/issue-pro-life.txt",
+      "bytes": 100936,
+      "sha256_html": "86aad8a9349154c1c673d663784a4bcc0ede1d3a6e161af3e0c52dc9f7f33cfd",
+      "sha256_text": "2836ac757f32b4c0bad26923744ee889e2cca9e51fce35b5606a894f59cb5a07"
+    },
+    {
+      "original": "https://kevincramer.org/issue/second-amendment/",
+      "timestamp": "20241105112310",
+      "wayback": "https://web.archive.org/web/20241105112310/https://kevincramer.org/issue/second-amendment/",
+      "wayback_raw": "https://web.archive.org/web/20241105112310id_/https://kevincramer.org/issue/second-amendment/",
+      "file": "archive/2024/cramer-nd/issue-second-amendment.html",
+      "text_file": "archive/2024/cramer-nd/issue-second-amendment.txt",
+      "bytes": 100689,
+      "sha256_html": "662f10928ef93f5b31c978d5339b8af0e3b6f0d1909f730e13c784060eed3ff4",
+      "sha256_text": "d371e0e65690da9731398dfa807b69e5e56e724703d6bc32cc70ce44e00e9d78"
+    },
+    {
+      "original": "https://kevincramer.org/issue/social-security/",
+      "timestamp": "20241105112319",
+      "wayback": "https://web.archive.org/web/20241105112319/https://kevincramer.org/issue/social-security/",
+      "wayback_raw": "https://web.archive.org/web/20241105112319id_/https://kevincramer.org/issue/social-security/",
+      "file": "archive/2024/cramer-nd/issue-social-security.html",
+      "text_file": "archive/2024/cramer-nd/issue-social-security.txt",
+      "bytes": 101225,
+      "sha256_html": "d96cf6b9abeea3c3a39984e776adb3681f76e513cbf2f9f5cdda6f5100404aa6",
+      "sha256_text": "90cfed9794a93b42d45876ec09bdf7c165b94710891bf2e434f377cd1f0fd39f"
+    }
+  ],
+  "snapshots_found": {
+    "kevincramer.org": 931
+  },
+  "generated_utc": "2026-11-14T22:17:29Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
