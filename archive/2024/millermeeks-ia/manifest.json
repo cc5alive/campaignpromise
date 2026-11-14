@@ -1,0 +1,27 @@
+{
+  "name": "Mariannette Miller-Meeks",
+  "domains_tried": [
+    "drmillermeeks.com"
+  ],
+  "pages": [
+    {
+      "original": "https://drmillermeeks.com/",
+      "timestamp": "20241105202341",
+      "wayback": "https://web.archive.org/web/20241105202341/https://drmillermeeks.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105202341id_/https://drmillermeeks.com/",
+      "file": "archive/2024/millermeeks-ia/home.html",
+      "text_file": "archive/2024/millermeeks-ia/home.txt",
+      "bytes": 85442,
+      "sha256_html": "008fe8a04dd9a60d8190a19c040ef82f37227939dc3ac93c4874e6e5bf3717ee",
+      "sha256_text": "2e425cff1388358b60d0df7f9280317e08c67f3064b2bc2a282a016da1efb6f3"
+    }
+  ],
+  "snapshots_found": {
+    "drmillermeeks.com": 20
+  },
+  "generated_utc": "2026-11-14T16:52:17Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
