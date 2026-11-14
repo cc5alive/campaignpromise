@@ -1,0 +1,82 @@
+{
+  "name": "Ralph Norman",
+  "domains_tried": [
+    "electralphnorman.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.electralphnorman.com/",
+      "timestamp": "20241105093455",
+      "wayback": "https://web.archive.org/web/20241105093455/https://www.electralphnorman.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105093455id_/https://www.electralphnorman.com/",
+      "file": "archive/2024/norman-sc/home.html",
+      "text_file": "archive/2024/norman-sc/home.txt",
+      "bytes": 285904,
+      "sha256_html": "84a60054fffaf523f648a3e32b6b8b1d0786f4bf7ddaed7e09ca393dfd4c145c",
+      "sha256_text": "1b2339350009b614747d22fa32f1be2c977fb8afd85502b29b35087abf348b4d"
+    },
+    {
+      "original": "https://www.electralphnorman.com/freedom-fighter-award/",
+      "timestamp": "20241105094233",
+      "wayback": "https://web.archive.org/web/20241105094233/https://www.electralphnorman.com/freedom-fighter-award/",
+      "wayback_raw": "https://web.archive.org/web/20241105094233id_/https://www.electralphnorman.com/freedom-fighter-award/",
+      "file": "archive/2024/norman-sc/freedom-fighter-award.html",
+      "text_file": "archive/2024/norman-sc/freedom-fighter-award.txt",
+      "bytes": 276569,
+      "sha256_html": "a6e669f03703aa76384fa00b7b1d9778fb9a9ddc44496914d8a0b5703e0a179c",
+      "sha256_text": "39b879f3b8bb7c3b43e77345bb411a571b8e864c6b81f78dfc003f558bab77e7"
+    },
+    {
+      "original": "https://www.electralphnorman.com/heritage-action-police-pledge/",
+      "timestamp": "20241105094500",
+      "wayback": "https://web.archive.org/web/20241105094500/https://www.electralphnorman.com/heritage-action-police-pledge/",
+      "wayback_raw": "https://web.archive.org/web/20241105094500id_/https://www.electralphnorman.com/heritage-action-police-pledge/",
+      "file": "archive/2024/norman-sc/heritage-action-police-pledge.html",
+      "text_file": "archive/2024/norman-sc/heritage-action-police-pledge.txt",
+      "bytes": 277182,
+      "sha256_html": "09f912990cb7b6614ceea34030f98bb74ecba5b63c01ec681260e2056bacc3e6",
+      "sha256_text": "323ebabc58c45f5f5b50518845cc2f8aab3c7c411485396b10f54545b4b78f18"
+    },
+    {
+      "original": "https://www.electralphnorman.com/issues/",
+      "timestamp": "20241105093637",
+      "wayback": "https://web.archive.org/web/20241105093637/https://www.electralphnorman.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105093637id_/https://www.electralphnorman.com/issues/",
+      "file": "archive/2024/norman-sc/issues.html",
+      "text_file": "archive/2024/norman-sc/issues.txt",
+      "bytes": 314406,
+      "sha256_html": "86606d4511cae665c139616cbcab52253ad2f8fd0db3ff0149021652fd1b11ce",
+      "sha256_text": "bac16fb1823a5a5d13d35351d92e94c1753459f5d7c86a03f6f8076c90931442"
+    },
+    {
+      "original": "https://www.electralphnorman.com/issues/embed/",
+      "timestamp": "20241104011100",
+      "wayback": "https://web.archive.org/web/20241104011100/https://www.electralphnorman.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241104011100id_/https://www.electralphnorman.com/issues/embed/",
+      "file": "archive/2024/norman-sc/issues-embed.html",
+      "text_file": "archive/2024/norman-sc/issues-embed.txt",
+      "bytes": 65868,
+      "sha256_html": "dd74b4833d25f22735656311eed55083d60c4a58ba0111932b49996850fb9305",
+      "sha256_text": "35dd993f9cff268a8186babbfc3e5e480d1c55c6349b6ce837ee2d95beaed22c"
+    },
+    {
+      "original": "https://www.electralphnorman.com/issues/inflation/",
+      "timestamp": "20241105101343",
+      "wayback": "https://web.archive.org/web/20241105101343/https://www.electralphnorman.com/issues/inflation/",
+      "wayback_raw": "https://web.archive.org/web/20241105101343id_/https://www.electralphnorman.com/issues/inflation/",
+      "file": "archive/2024/norman-sc/issues-inflation.html",
+      "text_file": "archive/2024/norman-sc/issues-inflation.txt",
+      "bytes": 242851,
+      "sha256_html": "18cae28de7ac4ce05df8eefc2ef971cac00eb22a919599decce6d5660d5eee85",
+      "sha256_text": "8b5373376e08c9d0a49e1b45a56c9ff292609ae44ba6801776c1464bde0907c7"
+    }
+  ],
+  "snapshots_found": {
+    "electralphnorman.com": 125
+  },
+  "generated_utc": "2026-11-14T15:57:26Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
