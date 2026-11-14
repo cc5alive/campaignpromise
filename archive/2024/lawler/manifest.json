@@ -1,0 +1,151 @@
+{
+  "name": "Mike Lawler",
+  "domains_tried": [
+    "mikelawler.com",
+    "lawlerforcongress.com",
+    "lawlerforny.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.lawlerforcongress.com/",
+      "timestamp": "20241105160000",
+      "wayback": "https://web.archive.org/web/20241105160000/https://www.lawlerforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105160000id_/https://www.lawlerforcongress.com/",
+      "file": "archive/2024/lawler/home.html",
+      "text_file": "archive/2024/lawler/home.txt",
+      "bytes": 65714,
+      "sha256_html": "ed8bcc13e717b71726fe52e86bedb9001a920333ac10fc3cded0da67de876050",
+      "sha256_text": "6197f671e2ee5fe7f77b3575c8021fb56280f8a56cf8953013d03fab63ebf1f1"
+    },
+    {
+      "original": "https://www.lawlerforcongress.com/issues/",
+      "timestamp": "20241105043448",
+      "wayback": "https://web.archive.org/web/20241105043448/https://www.lawlerforcongress.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105043448id_/https://www.lawlerforcongress.com/issues/",
+      "file": "archive/2024/lawler/issues.html",
+      "text_file": "archive/2024/lawler/issues.txt",
+      "bytes": 48437,
+      "sha256_html": "1f264b0cb6e94032286585671572da47d33744df68d6f6831513ac638234cde6",
+      "sha256_text": "8db8f79add2e1da5025f08a9c4438b5071d13dcba7c625586cd65735bed345e4"
+    },
+    {
+      "original": "https://www.lawlerforcongress.com/issues/draft/",
+      "timestamp": "20241105044031",
+      "wayback": "https://web.archive.org/web/20241105044031/https://www.lawlerforcongress.com/issues/draft/",
+      "wayback_raw": "https://web.archive.org/web/20241105044031id_/https://www.lawlerforcongress.com/issues/draft/",
+      "file": "archive/2024/lawler/issues-draft.html",
+      "text_file": "archive/2024/lawler/issues-draft.txt",
+      "bytes": 27304,
+      "sha256_html": "1824b1c0116c1e03f17c858ca41e460a7d2da5c1aa27719c4667bb044830ef84",
+      "sha256_text": "8a6998391313389ddac3331714921a597674f27c98645190540a59bc1db9e498"
+    },
+    {
+      "original": "https://www.lawlerforcongress.com/issues/embed/",
+      "timestamp": "20241101101109",
+      "wayback": "https://web.archive.org/web/20241101101109/https://www.lawlerforcongress.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241101101109id_/https://www.lawlerforcongress.com/issues/embed/",
+      "file": "archive/2024/lawler/issues-embed.html",
+      "text_file": "archive/2024/lawler/issues-embed.txt",
+      "bytes": 20902,
+      "sha256_html": "a413da8ace3eb30d04a475433540403d5e4fd06dead31ca5b2669460b67c9f23",
+      "sha256_text": "ff7c2463b7f79a63f6e78519c2de2170b69a7d0655ee689dddcac8aa08bcbc1e"
+    },
+    {
+      "original": "https://www.lawlerforcongress.com/issues/issues-web-copy/",
+      "timestamp": "20241102010032",
+      "wayback": "https://web.archive.org/web/20241102010032/https://www.lawlerforcongress.com/issues/issues-web-copy/",
+      "wayback_raw": "https://web.archive.org/web/20241102010032id_/https://www.lawlerforcongress.com/issues/issues-web-copy/",
+      "file": "archive/2024/lawler/issues-issues-web-copy.html",
+      "text_file": "archive/2024/lawler/issues-issues-web-copy.txt",
+      "bytes": 29111,
+      "sha256_html": "98b5750b5c79d48db4a341e437ee228586674f2aa08ef861914ee06dbc25384c",
+      "sha256_text": "b5bf643d2c5852148ef9dceb3ca91b94c00c158c14275c6cc7d30c3f3c077129"
+    },
+    {
+      "original": "https://www.lawlerforcongress.com/2022/04/26/fight-to-rename-gov-mario-m-cuomo-bridge-back-to-tappan-zee-moves-forward-in-albany/",
+      "timestamp": "20241105044115",
+      "wayback": "https://web.archive.org/web/20241105044115/https://www.lawlerforcongress.com/2022/04/26/fight-to-rename-gov-mario-m-cuomo-bridge-back-to-tappan-zee-moves-forward-in-albany/",
+      "wayback_raw": "https://web.archive.org/web/20241105044115id_/https://www.lawlerforcongress.com/2022/04/26/fight-to-rename-gov-mario-m-cuomo-bridge-back-to-tappan-zee-moves-forward-in-albany/",
+      "file": "archive/2024/lawler/2022-04-26-fight-to-rename-gov-mario-m-cuomo-bridge-back-to-tappan-zee-moves-forward-in-albany.html",
+      "text_file": "archive/2024/lawler/2022-04-26-fight-to-rename-gov-mario-m-cuomo-bridge-back-to-tappan-zee-moves-forward-in-albany.txt",
+      "bytes": 29963,
+      "sha256_html": "217e2a53e4c415b799698c8b528af3001a80eea8a00997263b88b34597672910",
+      "sha256_text": "99e590fb6a330b32545d8c8611dcb4f7b95e1cd389594528036f20e100a0d867"
+    },
+    {
+      "original": "https://www.lawlerforcongress.com/2022/08/10/rockland-officials-upset-with-mtas-congestion-pricing-plan/",
+      "timestamp": "20241105044340",
+      "wayback": "https://web.archive.org/web/20241105044340/https://www.lawlerforcongress.com/2022/08/10/rockland-officials-upset-with-mtas-congestion-pricing-plan/",
+      "wayback_raw": "https://web.archive.org/web/20241105044340id_/https://www.lawlerforcongress.com/2022/08/10/rockland-officials-upset-with-mtas-congestion-pricing-plan/",
+      "file": "archive/2024/lawler/2022-08-10-rockland-officials-upset-with-mtas-congestion-pricing-plan.html",
+      "text_file": "archive/2024/lawler/2022-08-10-rockland-officials-upset-with-mtas-congestion-pricing-plan.txt",
+      "bytes": 29207,
+      "sha256_html": "64e836b99f01543622b27241b3a384673d1fdefa7552b313bb310b5eea1ddc18",
+      "sha256_text": "36041cc7430471ef67fabd8839524e35adbad83af322498dd3d871994ec7e8ff"
+    },
+    {
+      "original": "https://www.lawlerforcongress.com/2022/09/04/ny-republicans-campaigning-against-midtown-congestion-toll-plan/",
+      "timestamp": "20241105044100",
+      "wayback": "https://web.archive.org/web/20241105044100/https://www.lawlerforcongress.com/2022/09/04/ny-republicans-campaigning-against-midtown-congestion-toll-plan/",
+      "wayback_raw": "https://web.archive.org/web/20241105044100id_/https://www.lawlerforcongress.com/2022/09/04/ny-republicans-campaigning-against-midtown-congestion-toll-plan/",
+      "file": "archive/2024/lawler/2022-09-04-ny-republicans-campaigning-against-midtown-congestion-toll-plan.html",
+      "text_file": "archive/2024/lawler/2022-09-04-ny-republicans-campaigning-against-midtown-congestion-toll-plan.txt",
+      "bytes": 36189,
+      "sha256_html": "09f48b3ba5d4c6d7cf5057ea899349928adbe0a3db3cde72da1c364e4e0ed255",
+      "sha256_text": "ca607755fe050737ff094ac10b5d0e9d52a68215ea8b6e6ad0c54be418a6d819"
+    },
+    {
+      "original": "https://www.lawlerforcongress.com/2022/09/25/power-politics-full-show-discussing-the-issues-with-assemblyman-congressional-candidate-mike-lawler/",
+      "timestamp": "20241105044233",
+      "wayback": "https://web.archive.org/web/20241105044233/https://www.lawlerforcongress.com/2022/09/25/power-politics-full-show-discussing-the-issues-with-assemblyman-congressional-candidate-mike-lawler/",
+      "wayback_raw": "https://web.archive.org/web/20241105044233id_/https://www.lawlerforcongress.com/2022/09/25/power-politics-full-show-discussing-the-issues-with-assemblyman-congressional-candidate-mike-lawler/",
+      "file": "archive/2024/lawler/2022-09-25-power-politics-full-show-discussing-the-issues-with-assemblyman-congressional-candidate-mike-lawler.html",
+      "text_file": "archive/2024/lawler/2022-09-25-power-politics-full-show-discussing-the-issues-with-assemblyman-congressional-candidate-mike-lawler.txt",
+      "bytes": 29040,
+      "sha256_html": "17cb5505231475a000248e86d63744b8deb0b1e4969c7db135d2a2fb63c8244a",
+      "sha256_text": "c379a1f49775a83b97e57e54c18c87c526aabf4efb25650b98877f6a231c8c9f"
+    },
+    {
+      "original": "https://www.lawlerforcongress.com/2022/12/20/how-2-new-house-members-plan-to-work-across-the-aisle-in-the-next-congress/",
+      "timestamp": "20241105044320",
+      "wayback": "https://web.archive.org/web/20241105044320/https://www.lawlerforcongress.com/2022/12/20/how-2-new-house-members-plan-to-work-across-the-aisle-in-the-next-congress/",
+      "wayback_raw": "https://web.archive.org/web/20241105044320id_/https://www.lawlerforcongress.com/2022/12/20/how-2-new-house-members-plan-to-work-across-the-aisle-in-the-next-congress/",
+      "file": "archive/2024/lawler/2022-12-20-how-2-new-house-members-plan-to-work-across-the-aisle-in-the-next-congress.html",
+      "text_file": "archive/2024/lawler/2022-12-20-how-2-new-house-members-plan-to-work-across-the-aisle-in-the-next-congress.txt",
+      "bytes": 34634,
+      "sha256_html": "517a2ef5b51a889e311960377b86bb8865191629a3eba4085a33f077005c1114",
+      "sha256_text": "ece0fb931c4d5781ceeb73ee79b9cd0e0922c59458039d3b7b7070fac09834f5"
+    },
+    {
+      "original": "https://www.lawlerforcongress.com/2023/01/08/newly-sworn-in-rep-lawler-says-hes-ready-to-move-agenda-forward-following-house-gop-inter-party-fight/",
+      "timestamp": "20241105044106",
+      "wayback": "https://web.archive.org/web/20241105044106/https://www.lawlerforcongress.com/2023/01/08/newly-sworn-in-rep-lawler-says-hes-ready-to-move-agenda-forward-following-house-gop-inter-party-fight/",
+      "wayback_raw": "https://web.archive.org/web/20241105044106id_/https://www.lawlerforcongress.com/2023/01/08/newly-sworn-in-rep-lawler-says-hes-ready-to-move-agenda-forward-following-house-gop-inter-party-fight/",
+      "file": "archive/2024/lawler/2023-01-08-newly-sworn-in-rep-lawler-says-hes-ready-to-move-agenda-forward-following-house-gop-inter-party-fight.html",
+      "text_file": "archive/2024/lawler/2023-01-08-newly-sworn-in-rep-lawler-says-hes-ready-to-move-agenda-forward-following-house-gop-inter-party-fight.txt",
+      "bytes": 30227,
+      "sha256_html": "11ff3589f180fa295e09056fc57b52ac7fe40822048c5ae0fcd0a0ead84ee954",
+      "sha256_text": "323dfcd65df062a2abdf6d914a36b528b5a2309c03c60be0ae33fec92ac82cd8"
+    },
+    {
+      "original": "https://www.lawlerforcongress.com/2023/01/19/new-york-new-jersey-lawmakers-teaming-up-in-fight-against-congestion-pricing/",
+      "timestamp": "20241105044235",
+      "wayback": "https://web.archive.org/web/20241105044235/https://www.lawlerforcongress.com/2023/01/19/new-york-new-jersey-lawmakers-teaming-up-in-fight-against-congestion-pricing/",
+      "wayback_raw": "https://web.archive.org/web/20241105044235id_/https://www.lawlerforcongress.com/2023/01/19/new-york-new-jersey-lawmakers-teaming-up-in-fight-against-congestion-pricing/",
+      "file": "archive/2024/lawler/2023-01-19-new-york-new-jersey-lawmakers-teaming-up-in-fight-against-congestion-pricing.html",
+      "text_file": "archive/2024/lawler/2023-01-19-new-york-new-jersey-lawmakers-teaming-up-in-fight-against-congestion-pricing.txt",
+      "bytes": 32619,
+      "sha256_html": "acff5ef411e3529748664be9f5c0e3429e7152ddc47fe8e906dd48daa94e4e30",
+      "sha256_text": "a06559dea337c469587a5fea37c9727c586747d6a8d6318d665afa9e26ed4a80"
+    }
+  ],
+  "snapshots_found": {
+    "mikelawler.com": 0,
+    "lawlerforcongress.com": 237
+  },
+  "generated_utc": "2026-11-14T07:47:09Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
