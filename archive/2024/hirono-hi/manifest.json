@@ -1,0 +1,49 @@
+{
+  "name": "Mazie K. Hirono",
+  "domains_tried": [
+    "mazieforhawaii.com"
+  ],
+  "pages": [
+    {
+      "original": "https://mazieforhawaii.com/",
+      "timestamp": "20241105042435",
+      "wayback": "https://web.archive.org/web/20241105042435/https://mazieforhawaii.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105042435id_/https://mazieforhawaii.com/",
+      "file": "archive/2024/hirono-hi/home.html",
+      "text_file": "archive/2024/hirono-hi/home.txt",
+      "bytes": 1753350,
+      "sha256_html": "cfe411971b655e64863a2ed6c5f89fbb39285c0f287e7ddebfb782d1f1f04445",
+      "sha256_text": "25ec9475e46668d4fc25f39bbbcbf42af0c76ac3874fb6a4adbe433b58f98ade"
+    },
+    {
+      "original": "https://mazieforhawaii.com/issues/",
+      "timestamp": "20241105042902",
+      "wayback": "https://web.archive.org/web/20241105042902/https://mazieforhawaii.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105042902id_/https://mazieforhawaii.com/issues/",
+      "file": "archive/2024/hirono-hi/issues.html",
+      "text_file": "archive/2024/hirono-hi/issues.txt",
+      "bytes": 1750049,
+      "sha256_html": "57a352089f2c90810699ef3589e1e3adecf2e53f7ec3106eb296c1fa32c69644",
+      "sha256_text": "2376e74182a3196bfd37d8c6a92da98da713c101473ba7e1fd726f139ecb8106"
+    },
+    {
+      "original": "https://mazieforhawaii.com/about/",
+      "timestamp": "20241105042900",
+      "wayback": "https://web.archive.org/web/20241105042900/https://mazieforhawaii.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105042900id_/https://mazieforhawaii.com/about/",
+      "file": "archive/2024/hirono-hi/about.html",
+      "text_file": "archive/2024/hirono-hi/about.txt",
+      "bytes": 1749465,
+      "sha256_html": "dd419d16d1e6e90f244485f359a720de6eb2f749b0b31e15c67c06ca4cd72000",
+      "sha256_text": "e42b8e9d9a34e14aff4f38ac3ef0ef3a7162053c93bfadc2df572a4458a74f4f"
+    }
+  ],
+  "snapshots_found": {
+    "mazieforhawaii.com": 1
+  },
+  "generated_utc": "2026-11-14T22:20:55Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
