@@ -1,0 +1,148 @@
+{
+  "name": "Dave Min",
+  "domains_tried": [
+    "davemin.com"
+  ],
+  "pages": [
+    {
+      "original": "https://davemin.com/",
+      "timestamp": "20241105115819",
+      "wayback": "https://web.archive.org/web/20241105115819/https://davemin.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105115819id_/https://davemin.com/",
+      "file": "archive/2024/min-ca/home.html",
+      "text_file": "archive/2024/min-ca/home.txt",
+      "bytes": 203798,
+      "sha256_html": "97499f3a9fd07bc8202e0ff03ca304925980dc49b53fb7aff96dc8d852225eaa",
+      "sha256_text": "efbf4ddffecc2e2cb25803922c6b2324f59cd5fd1560480180b2de2770a68767"
+    },
+    {
+      "original": "https://davemin.com/accomplishments",
+      "timestamp": "20241105115831",
+      "wayback": "https://web.archive.org/web/20241105115831/https://davemin.com/accomplishments",
+      "wayback_raw": "https://web.archive.org/web/20241105115831id_/https://davemin.com/accomplishments",
+      "file": "archive/2024/min-ca/accomplishments.html",
+      "text_file": "archive/2024/min-ca/accomplishments.txt",
+      "bytes": 148919,
+      "sha256_html": "50f36218576958e48ab744c20827b1af91ed475894d672e7bfa03ce902709208",
+      "sha256_text": "d6c05fef94ec537c93704b49f1f7bd0fac938311501792526425d285eba375aa"
+    },
+    {
+      "original": "https://davemin.com/issues",
+      "timestamp": "20241105115821",
+      "wayback": "https://web.archive.org/web/20241105115821/https://davemin.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105115821id_/https://davemin.com/issues",
+      "file": "archive/2024/min-ca/issues.html",
+      "text_file": "archive/2024/min-ca/issues.txt",
+      "bytes": 148463,
+      "sha256_html": "0df3fde5b455edd705b71c3101ee2cb5f3aa22308d6b3a2dc41c715dd36e4683",
+      "sha256_text": "710f0e6863f7137276d890fd0e56602c19daf062ab10df484601846967b9436f"
+    },
+    {
+      "original": "https://davemin.com/news/as-baugh-takes-nra-money-min-stands-with-law-enforcement",
+      "timestamp": "20241105115906",
+      "wayback": "https://web.archive.org/web/20241105115906/https://davemin.com/news/as-baugh-takes-nra-money-min-stands-with-law-enforcement",
+      "wayback_raw": "https://web.archive.org/web/20241105115906id_/https://davemin.com/news/as-baugh-takes-nra-money-min-stands-with-law-enforcement",
+      "file": "archive/2024/min-ca/news-as-baugh-takes-nra-money-min-stands-with-law-enforcement.html",
+      "text_file": "archive/2024/min-ca/news-as-baugh-takes-nra-money-min-stands-with-law-enforcement.txt",
+      "bytes": 113247,
+      "sha256_html": "e6a237c2093ac1ba8f3a99900f22739cf82ae8ec5cec42623dacefcd061efada",
+      "sha256_text": "fa32d2ee9f8fc62963f7a538df4749245d3bba96441184ac41049c2be18facf5"
+    },
+    {
+      "original": "https://davemin.com/news/baugh-stands-by-corrupt-andrew-do",
+      "timestamp": "20241105115912",
+      "wayback": "https://web.archive.org/web/20241105115912/https://davemin.com/news/baugh-stands-by-corrupt-andrew-do",
+      "wayback_raw": "https://web.archive.org/web/20241105115912id_/https://davemin.com/news/baugh-stands-by-corrupt-andrew-do",
+      "file": "archive/2024/min-ca/news-baugh-stands-by-corrupt-andrew-do.html",
+      "text_file": "archive/2024/min-ca/news-baugh-stands-by-corrupt-andrew-do.txt",
+      "bytes": 112009,
+      "sha256_html": "93b54318b46612572d06c1ec972c5906b94970201e59c78df2cb119ea02a392b",
+      "sha256_text": "60be38a6a1e3e8e2ce9a95c2904ed70dbb22bee8dae32a8ce28c894b1e4f5ba4"
+    },
+    {
+      "original": "https://davemin.com/news/californias-largest-police-union-endorses-dave-min-for-congress",
+      "timestamp": "20241105115908",
+      "wayback": "https://web.archive.org/web/20241105115908/https://davemin.com/news/californias-largest-police-union-endorses-dave-min-for-congress",
+      "wayback_raw": "https://web.archive.org/web/20241105115908id_/https://davemin.com/news/californias-largest-police-union-endorses-dave-min-for-congress",
+      "file": "archive/2024/min-ca/news-californias-largest-police-union-endorses-dave-min-for-congress.html",
+      "text_file": "archive/2024/min-ca/news-californias-largest-police-union-endorses-dave-min-for-congress.txt",
+      "bytes": 112632,
+      "sha256_html": "777c7c3c976b27e0beceabd33051f08c8e3181d2a4f07cee892680098840d53d",
+      "sha256_text": "75a00d4f7a1a749497a43dd01f4d15fdb2f7b3e76a634969c031c74ff5cc0bfd"
+    },
+    {
+      "original": "https://davemin.com/news/daily-kos-committee-kills-bill-to-end-offshore-oil-drilling-in-ca-as-big-oil-sets-new-lobbying-spending-record",
+      "timestamp": "20241105115921",
+      "wayback": "https://web.archive.org/web/20241105115921/https://davemin.com/news/daily-kos-committee-kills-bill-to-end-offshore-oil-drilling-in-ca-as-big-oil-sets-new-lobbying-spending-record",
+      "wayback_raw": "https://web.archive.org/web/20241105115921id_/https://davemin.com/news/daily-kos-committee-kills-bill-to-end-offshore-oil-drilling-in-ca-as-big-oil-sets-new-lobbying-spending-record",
+      "file": "archive/2024/min-ca/news-daily-kos-committee-kills-bill-to-end-offshore-oil-drilling-in-ca-as-big-oil-sets-new-lobbying-spending-record.html",
+      "text_file": "archive/2024/min-ca/news-daily-kos-committee-kills-bill-to-end-offshore-oil-drilling-in-ca-as-big-oil-sets-new-lobbying-spending-record.txt",
+      "bytes": 111475,
+      "sha256_html": "f34d3ba04febaa999e68db1cf48d61fecc8b2018c12131fd6f6f4875cb7e8679",
+      "sha256_text": "4a6dc910d6847d5d452bd75e3ea34b0a52a43b9e911fbfbb971c7c231c698167"
+    },
+    {
+      "original": "https://davemin.com/news/dave-min-backs-proposition-47-reform-initiative",
+      "timestamp": "20241105115858",
+      "wayback": "https://web.archive.org/web/20241105115858/https://davemin.com/news/dave-min-backs-proposition-47-reform-initiative",
+      "wayback_raw": "https://web.archive.org/web/20241105115858id_/https://davemin.com/news/dave-min-backs-proposition-47-reform-initiative",
+      "file": "archive/2024/min-ca/news-dave-min-backs-proposition-47-reform-initiative.html",
+      "text_file": "archive/2024/min-ca/news-dave-min-backs-proposition-47-reform-initiative.txt",
+      "bytes": 113799,
+      "sha256_html": "80e5b40bf824a673cd2488da7fe5f66393b79af728498b767a95a16361ec3475",
+      "sha256_text": "0666deb5cf674bcab63a702e541fdce785f9893e0cffb43e90a7b91849afa54e"
+    },
+    {
+      "original": "https://davemin.com/news/dave-min-stands-with-israel-strongly-condemns-hamas-attacks-as-war-crimes",
+      "timestamp": "20241105115924",
+      "wayback": "https://web.archive.org/web/20241105115924/https://davemin.com/news/dave-min-stands-with-israel-strongly-condemns-hamas-attacks-as-war-crimes",
+      "wayback_raw": "https://web.archive.org/web/20241105115924id_/https://davemin.com/news/dave-min-stands-with-israel-strongly-condemns-hamas-attacks-as-war-crimes",
+      "file": "archive/2024/min-ca/news-dave-min-stands-with-israel-strongly-condemns-hamas-attacks-as-war-crimes.html",
+      "text_file": "archive/2024/min-ca/news-dave-min-stands-with-israel-strongly-condemns-hamas-attacks-as-war-crimes.txt",
+      "bytes": 110384,
+      "sha256_html": "6bf679b458c33db5f3a951c0116b89fe27ebe90955da97ccd87947690028f079",
+      "sha256_text": "8e00ac781364ed0945f437b3e088db9bcdd7cc109fc0b3c98bf01edc353c10ab"
+    },
+    {
+      "original": "https://davemin.com/news/firefighters-endorse-senator-min",
+      "timestamp": "20241105115906",
+      "wayback": "https://web.archive.org/web/20241105115906/https://davemin.com/news/firefighters-endorse-senator-min",
+      "wayback_raw": "https://web.archive.org/web/20241105115906id_/https://davemin.com/news/firefighters-endorse-senator-min",
+      "file": "archive/2024/min-ca/news-firefighters-endorse-senator-min.html",
+      "text_file": "archive/2024/min-ca/news-firefighters-endorse-senator-min.txt",
+      "bytes": 111533,
+      "sha256_html": "209cf64247b258a5a72a36cef0cbce5e8340a02110e57b189234789d254b6ed0",
+      "sha256_text": "6da9b38ea3bbeac6cd88f393a3e67715128c11ecbbc72c49a42f574865fd594e"
+    },
+    {
+      "original": "https://davemin.com/news/fox-news-blue-state-dems-look-to-buck-partys-crime-policies-get-major-backing-from-police-groups-in-swing-races",
+      "timestamp": "20241105115920",
+      "wayback": "https://web.archive.org/web/20241105115920/https://davemin.com/news/fox-news-blue-state-dems-look-to-buck-partys-crime-policies-get-major-backing-from-police-groups-in-swing-races",
+      "wayback_raw": "https://web.archive.org/web/20241105115920id_/https://davemin.com/news/fox-news-blue-state-dems-look-to-buck-partys-crime-policies-get-major-backing-from-police-groups-in-swing-races",
+      "file": "archive/2024/min-ca/news-fox-news-blue-state-dems-look-to-buck-partys-crime-policies-get-major-backing-from-police-groups-in-swing-races.html",
+      "text_file": "archive/2024/min-ca/news-fox-news-blue-state-dems-look-to-buck-partys-crime-policies-get-major-backing-from-police-groups-in-swing-races.txt",
+      "bytes": 113222,
+      "sha256_html": "f1a5315d890bc64f22b71ef839183e03af2859de5b7bac7d7b5801864638b135",
+      "sha256_text": "a9ab95ea180c90dd19f63fd238d1c20235722524178ec7ab03b890cdcbd6e631"
+    },
+    {
+      "original": "https://davemin.com/news/la-times-california-lawmakers-ok-bill-to-fine-school-boards-that-ban-books-over-race-lgbtq-issues",
+      "timestamp": "20241105115910",
+      "wayback": "https://web.archive.org/web/20241105115910/https://davemin.com/news/la-times-california-lawmakers-ok-bill-to-fine-school-boards-that-ban-books-over-race-lgbtq-issues",
+      "wayback_raw": "https://web.archive.org/web/20241105115910id_/https://davemin.com/news/la-times-california-lawmakers-ok-bill-to-fine-school-boards-that-ban-books-over-race-lgbtq-issues",
+      "file": "archive/2024/min-ca/news-la-times-california-lawmakers-ok-bill-to-fine-school-boards-that-ban-books-over-race-lgbtq-issues.html",
+      "text_file": "archive/2024/min-ca/news-la-times-california-lawmakers-ok-bill-to-fine-school-boards-that-ban-books-over-race-lgbtq-issues.txt",
+      "bytes": 115790,
+      "sha256_html": "da62eb6d8074225e55abfad524883fe2cf2c59044286559d68a8acb81b8eace7",
+      "sha256_text": "17e31615edf107ed65093e9136ac3425ae544da82132beeb896538f2c339763b"
+    }
+  ],
+  "snapshots_found": {
+    "davemin.com": 132
+  },
+  "generated_utc": "2026-11-14T16:52:31Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
