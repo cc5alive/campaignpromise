@@ -1,0 +1,36 @@
+{
+ "member": "crockett-tx",
+ "pages": 9,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "We are a nation of immigrants and that will not change but it is time our laws do.",
+   "page": "https://www.jasmineforus.com/issues/",
+   "file": "archive/2024/crockett-tx/issues.html",
+   "snapshot": "20241105210206"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "Jasmine also believes we should cover the full spectrum of healthcare including dental, vision, mental health, and reproductive freedom.",
+   "page": "https://www.jasmineforus.com/issues/",
+   "file": "archive/2024/crockett-tx/issues.html",
+   "snapshot": "20241105210206"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "Jasmine supports codifying Roe and ending the Hyde Amendment as first steps to secure the right to abortion.",
+   "page": "https://www.jasmineforus.com/issues/",
+   "file": "archive/2024/crockett-tx/issues.html",
+   "snapshot": "20241105210206"
+  }
+ ]
+}

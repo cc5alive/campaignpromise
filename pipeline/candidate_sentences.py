@@ -6,18 +6,21 @@ data/promises/candidates/<member>.json. This is a reading aid only: nothing
 here is a promise until a drafter picks it and a reviewer approves it.
 """
 import json
+import os
 import re
 import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 TOPICS = {
-    "Immigration": r"\bborder|immigra|illegal alien|illegal immigra|\bICE\b|deport|asylum|sanctuary|fentanyl|\bwall\b|cartel",
+    "Immigration": r"\bborder|immigra|illegal alien|illegal immigra|\bICE\b|deport|asylum|sanctuary|\bwall\b|cartel",
+    "Fentanyl": r"fentanyl|opioid|drug traffick",
+    "Health care": r"affordable care act|\bACA\b|obamacare|health insurance|premiums|health care costs|cost of health care|pre-existing condition",
     "Medicaid": r"medicaid",
     "Social Security & Medicare": r"social security|medicare",
     "Taxes": r"\btax|\bSALT\b|child tax credit|tariff|IRS\b",
     "Federal spending": r"spending|deficit|national debt|balanced budget|\bdebt\b|wasteful",
-    "Abortion funding": r"planned parenthood|abortion",
+    "Abortion": r"planned parenthood|abortion|reproductive|\bRoe\b|pro-life|unborn",
     "Crypto": r"crypto|digital asset|stablecoin|bitcoin|blockchain|\bCBDC\b|central bank digital",
     "Food assistance": r"\bSNAP\b|food stamp|food assistance",
 }
@@ -64,9 +67,11 @@ def run(key):
             if sc >= 5 and topics:
                 cands.append({"score": sc, "topics": topics, "sentence": s, "page": p["original"], "file": p["file"], "snapshot": p["timestamp"]})
     cands.sort(key=lambda c: -c["score"])
-    out = ROOT / "data" / "promises" / "candidates"
+    # CAND_DIR lets a rescan write elsewhere so earlier selections (which point at
+    # candidate indexes) keep resolving to the same sentences.
+    out = ROOT / "data" / "promises" / os.environ.get("CAND_DIR", "candidates")
     out.mkdir(parents=True, exist_ok=True)
-    (out / f"{key}.json").write_text(json.dumps({"member": key, "pages": len(man["pages"]), "candidates": cands[:25]}, indent=1, ensure_ascii=False), encoding="utf-8")
+    (out / f"{key}.json").write_text(json.dumps({"member": key, "pages": len(man["pages"]), "candidates": cands[:int(os.environ.get("CAND_TOP", "25"))]}, indent=1, ensure_ascii=False), encoding="utf-8")
     return len(man["pages"]), len(cands)
 
 

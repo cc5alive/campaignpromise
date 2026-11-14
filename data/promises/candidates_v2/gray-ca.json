@@ -1,0 +1,26 @@
+{
+ "member": "gray-ca",
+ "pages": 4,
+ "candidates": [
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "Wrote a bill to eliminate the Ticket Tax – a 20% surcharge on traffic fines that goes entirely into the General Fund and does not support any specific program.",
+   "page": "https://www.adamgrayforcongress.com/issues",
+   "file": "archive/2024/gray-ca/issues.html",
+   "snapshot": "20241105104817"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "Wrote legislation to protect property tax exemption for veterans’ halls that serve alcohol.",
+   "page": "https://www.adamgrayforcongress.com/issues",
+   "file": "archive/2024/gray-ca/issues.html",
+   "snapshot": "20241105104817"
+  }
+ ]
+}

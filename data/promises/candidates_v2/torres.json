@@ -1,0 +1,110 @@
+{
+ "member": "torres",
+ "pages": 8,
+ "candidates": [
+  {
+   "score": 6,
+   "topics": [
+    "Medicaid",
+    "Social Security & Medicare",
+    "Taxes"
+   ],
+   "sentence": "in health programs, such as Medicaid and Medicare; exempting Puerto Rico from federal cabotage regulations; and fully extending the Earned Income Tax Credit and the Child Tax Credit to those living on the island.",
+   "page": "https://torres.nyc/issues/puerto-rico",
+   "file": "archive/2024/torres/issues-puerto-rico.html",
+   "snapshot": "20241105075815"
+  },
+  {
+   "score": 6,
+   "topics": [
+    "Health care",
+    "Medicaid",
+    "Abortion"
+   ],
+   "sentence": "Forty-three percent of adults in NY-15 rely on Medicaid for health insurance, meaning that they are ineligible for abortion coverage due to federal law.",
+   "page": "https://torres.nyc/issues/realizing-justice",
+   "file": "archive/2024/torres/issues-realizing-justice.html",
+   "snapshot": "20241105075821"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "Whether it’s raising the minimum wage to $15 so that all Americans have access to better paying jobs or reforming our federal tax code to reach the needs of the lowest-income Americans, Ritchie supports key measures to help eradicate poverty nationwide.",
+   "page": "https://torres.nyc/",
+   "file": "archive/2024/torres/home.html",
+   "snapshot": "20241105075808"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "Data for Progress Oped, “Why We Must Expand the Child Tax Credit”",
+   "page": "https://torres.nyc/issues/access-to-opportunity-for-all",
+   "file": "archive/2024/torres/issues-access-to-opportunity-for-all.html",
+   "snapshot": "20241105075822"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Medicaid"
+   ],
+   "sentence": "Ritchie is committed to increased funding for our safety-net hospitals and facilities,like NYC’s Health + Hospitals, which serve Medicaid beneficiaries, undocumented individuals, and the uninsured.",
+   "page": "https://torres.nyc/issues/access-to-opportunity-for-all",
+   "file": "archive/2024/torres/issues-access-to-opportunity-for-all.html",
+   "snapshot": "20241105075822"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "He also supports alleviating the $1.7 billion student debt burden held by millions of Americans.",
+   "page": "https://torres.nyc/issues/access-to-opportunity-for-all",
+   "file": "archive/2024/torres/issues-access-to-opportunity-for-all.html",
+   "snapshot": "20241105075822"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "Ritchie believes we need to repeal PROMESA, abolish the Financial Control Board, and implement a public debt restructuring mechanism that",
+   "page": "https://torres.nyc/issues/puerto-rico",
+   "file": "archive/2024/torres/issues-puerto-rico.html",
+   "snapshot": "20241105075815"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": ", and Ritchie remains committed to fighting for reproductive justice and the right to choose as essential elements of gender equality.",
+   "page": "https://torres.nyc/issues/realizing-justice",
+   "file": "archive/2024/torres/issues-realizing-justice.html",
+   "snapshot": "20241105075821"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "After years of Donald Trump’s racist and xenophobic immigration policy, Ritchie is ready to fight for an agenda that",
+   "page": "https://torres.nyc/issues/realizing-justice",
+   "file": "archive/2024/torres/issues-realizing-justice.html",
+   "snapshot": "20241105075821"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "I'll stand up for immigrants, seniors, and youth.",
+   "page": "https://torres.nyc/about",
+   "file": "archive/2024/torres/about.html",
+   "snapshot": "20241105075813"
+  }
+ ]
+}

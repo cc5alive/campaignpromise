@@ -1,0 +1,46 @@
+{
+ "member": "frost-fl",
+ "pages": 2,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": ", I will fight to end gun violence, win Medicare For All, transform our racist criminal justice system, and end the climate crisis.",
+   "page": "https://www.frostforcongress.com/",
+   "file": "archive/2024/frost-fl/home.html",
+   "snapshot": "20241105202124"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "I will explore opportunities to replace regressive and inefficient taxes like payroll taxes, with economically efficient and anti-speculative taxes like a land value tax",
+   "page": "https://www.frostforcongress.com/issues",
+   "file": "archive/2024/frost-fl/issues.html",
+   "snapshot": "20241105201545"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "I will support incentives to get folks out of cars and into more sustainable, safer forms of transportation, such as an e-bike tax credit that was incorporated into President Biden’s Build Back Better legislation.",
+   "page": "https://www.frostforcongress.com/issues",
+   "file": "archive/2024/frost-fl/issues.html",
+   "snapshot": "20241105201545"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Health care"
+   ],
+   "sentence": "Ensure that every person in America has comprehensive healthcare, with no co-pays, deductibles, or premiums -- we must abolish the illness industry.",
+   "page": "https://www.frostforcongress.com/issues",
+   "file": "archive/2024/frost-fl/issues.html",
+   "snapshot": "20241105201545"
+  }
+ ]
+}

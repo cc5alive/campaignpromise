@@ -1,0 +1,27 @@
+{
+ "member": "salazar",
+ "pages": 12,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Health care",
+    "Social Security & Medicare"
+   ],
+   "sentence": "There must be protections for people with pre-existing conditions, we must take care of our seniors and protect Medicare, and young adults should be allowed to stay on their parents’ plan up to the age of 26.",
+   "page": "https://mariaelvirasalazar.com/issues/",
+   "file": "archive/2024/salazar/issues.html",
+   "snapshot": "20241105123458"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "that Latinos and Hispanics share the Republicans’ beliefs in wanting a country that’s full of God-fearing, law-abiding and family-oriented citizens who also want lower taxes, smaller government, and free-market opportunities to support the American dream.",
+   "page": "https://mariaelvirasalazar.com/in-the-news-rep-salazar-hispanic-voters-are-waking-up-embracing-gop-platform/",
+   "file": "archive/2024/salazar/in-the-news-rep-salazar-hispanic-voters-are-waking-up-embracing-gop-platform.html",
+   "snapshot": "20241105143527"
+  }
+ ]
+}

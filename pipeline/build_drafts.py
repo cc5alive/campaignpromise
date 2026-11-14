@@ -33,7 +33,9 @@ def iso_date(raw):
 
 V = {Path(v["file"]).stem: v for v in json.loads((ROOT / "votes/119/index.json").read_text())["votes"]}
 LABEL = {"S1582": "GENIUS Act", "S5": "Laken Riley Act", "HR29": "Laken Riley Act (House version)",
-         "HR1": "2025 reconciliation bill", "HR3633": "CLARITY Act", "HR1919": "Anti-CBDC Act"}
+         "HR1": "2025 reconciliation bill", "HR3633": "CLARITY Act", "HR1919": "Anti-CBDC Act",
+         "S331": "HALT Fentanyl Act", "HR21": "Born-Alive Abortion Survivors Protection Act",
+         "S6": "Born-Alive Abortion Survivors Protection Act"}
 cache = {}
 
 def page_text(path):
@@ -47,7 +49,8 @@ def page_text(path):
 out, rejected = [], []
 for i, p in enumerate(picks, 1):
     if "cand" in p:  # resolve a shortlist index into its exact sentence and page
-        c = json.loads((ROOT / f"data/promises/candidates/{p['member']}.json").read_text())["candidates"][p["cand"]]
+        cdir = p.get("cand_dir", "candidates")
+        c = json.loads((ROOT / f"data/promises/{cdir}/{p['member']}.json").read_text())["candidates"][p["cand"]]
         p["quote"], p["page"] = c["sentence"], c["page"]
     m = M[p["member"]]
     man = json.loads((ROOT / f"archive/2024/{p['member']}/manifest.json").read_text())
@@ -60,8 +63,9 @@ for i, p in enumerate(picks, 1):
     for vid in p.get("votes", []):
         v = V[vid]
         q = v["question"] or ""
-        short = "final passage" if "Passage" in q else ("final passage (Senate version)" if "Concur" in q else q)
-        votes.append({"id": vid, "bill": LABEL[v["bill"]], "question": short, "date": iso_date(v["date"]),
+        short = ("final passage" if "Passage" in q else "final passage (Senate version)" if "Concur" in q
+                 else "vote to start debate (needed 60)" if "Cloture" in q else q)
+        votes.append({"id": vid, "bill": LABEL.get(v["bill"], v.get("bill_label", v["bill"])), "question": short, "date": iso_date(v["date"]),
                       "vote": v["positions"].get(who, {}).get("vote", "not found"), "source": v["source"]})
     out.append({"id": f"{rnd.upper()}-{len(out)+1:03d}", "member": p["member"], "name": m["name"], "party": m["party"],
                 "chamber": m["chamber"], "state": m["state"], "quote": p["quote"], "kind": p["kind"], "issue": p["issue"],

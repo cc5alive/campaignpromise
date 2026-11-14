@@ -1,0 +1,46 @@
+{
+ "member": "pressley-ma",
+ "pages": 12,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "Following the damage to diplomatic relations caused by the Trump Administration, Ayanna will continue to advance people-centered approaches to global affairs, re-establishing America as a compassionate leader in the international community, prioritizing diplomacy, and promoting peace.",
+   "page": "https://ayannapressley.com/issues/protecting-the-rights-of-cisgender-and-transgender-women-and-girls/",
+   "file": "archive/2024/pressley-ma/issues-protecting-the-rights-of-cisgender-and-transgender-women-and-girls.html",
+   "snapshot": "20241105044125"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "Ayanna believes we need Medicare For All to ensure that every person in our country has consistent access to essential care.",
+   "page": "https://ayannapressley.com/issues/climate-crisis/",
+   "file": "archive/2024/pressley-ma/issues-climate-crisis.html",
+   "snapshot": "20241105044120"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "We must continue to advocate for an immigration system that centers compassion and empathy, and support for our immigrant communities that goes beyond immigration status – including more inclusive and accessible public institutions, healthcare and education systems to foster safer and healthier communities, and greater opportunity for all.",
+   "page": "https://ayannapressley.com/issues/immigration/",
+   "file": "archive/2024/pressley-ma/issues-immigration.html",
+   "snapshot": "20241105044123"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "She has also successfully expanded access to abortion medications and birth control and worked closely with the Secretary of Health and Human services to use every tool available to protect families and providers who need abortion care.",
+   "page": "https://ayannapressley.com/issues/lgbtq/",
+   "file": "archive/2024/pressley-ma/issues-lgbtq.html",
+   "snapshot": "20241105044124"
+  }
+ ]
+}

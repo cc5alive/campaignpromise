@@ -1,0 +1,26 @@
+{
+ "member": "smith-wa",
+ "pages": 12,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "Criminal justice reform will not only make our justice system more fair and end the cycle over over-incarceration in communities of color, but it would also save taxpayers money.",
+   "page": "https://electadamsmith.com/issues/criminal-justice-reform/",
+   "file": "archive/2024/smith-wa/issues-criminal-justice-reform.html",
+   "snapshot": "20241105000336"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "In Congress, I'll continue to work on behalf of refugee and immigrant communities — from supporting small businesses to providing world-class constituent services.",
+   "page": "https://electadamsmith.com/",
+   "file": "archive/2024/smith-wa/home.html",
+   "snapshot": "20241105001859"
+  }
+ ]
+}

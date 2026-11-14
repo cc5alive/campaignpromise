@@ -1,0 +1,76 @@
+{
+ "member": "rosen-nv",
+ "pages": 12,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "Passing immigration reform will improve public safety, grow our workforce, and strengthen Nevada’s economy – which is why Jacky has continued to push her colleagues on both sides of the aisle to come to the negotiating table and find common ground.",
+   "page": "https://www.rosenfornevada.com/issue/immigration/",
+   "file": "archive/2024/rosen-nv/issue-immigration.html",
+   "snapshot": "20241027184707"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "She has taken on both parties to fight against retroactive tariffs that would kill American solar jobs, raise energy costs, and undermine our path to clean energy independence.",
+   "page": "https://www.rosenfornevada.com/issue/climate-change/",
+   "file": "archive/2024/rosen-nv/issue-climate-change.html",
+   "snapshot": "20241028092428"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "She is working to lower costs for family caregivers and standing strong to protect Medicare benefits for our seniors.",
+   "page": "https://www.rosenfornevada.com/issue/healthcare/",
+   "file": "archive/2024/rosen-nv/issue-healthcare.html",
+   "snapshot": "20241027184657"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "She helped introduce a new plan to lower costs and cut taxes for first-time homebuyers who need down payment assistance.",
+   "page": "https://www.rosenfornevada.com/issue/housing/",
+   "file": "archive/2024/rosen-nv/issue-housing.html",
+   "snapshot": "20241008021127"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "Jacky strongly believes in the need for comprehensive, bipartisan immigration reform that secures our borders, protects DACA and TPS recipients, provides pathways to citizenship, fixes our broken immigration system, and overhauls our backlogged asylum process.",
+   "page": "https://www.rosenfornevada.com/issue/immigration/",
+   "file": "archive/2024/rosen-nv/issue-immigration.html",
+   "snapshot": "20241027184707"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "This year, she worked with both parties to support a bipartisan border security deal that would make historic investments to secure the border, including funding new security and screening technology, hiring more Border Patrol agents, and increasing resources for Customs and Border Protection officers.",
+   "page": "https://www.rosenfornevada.com/issue/immigration/",
+   "file": "archive/2024/rosen-nv/issue-immigration.html",
+   "snapshot": "20241027184707"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "Nevada’s immigrant families are part of the fabric of our communities, and Jacky won’t stop fighting to find a solution that provides permanent relief for the thousands of Dreamers and TPS recipients who call Nevada home.",
+   "page": "https://www.rosenfornevada.com/issue/immigration/",
+   "file": "archive/2024/rosen-nv/issue-immigration.html",
+   "snapshot": "20241027184707"
+  }
+ ]
+}

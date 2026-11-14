@@ -1,0 +1,48 @@
+{
+ "member": "curtis",
+ "pages": 3,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Immigration",
+    "Fentanyl"
+   ],
+   "sentence": "John is committed to stopping the cartels’ deadly flow of fentanyl, human trafficking, and illegal immigrants into the U.S.",
+   "page": "https://www.johncurtis.org/issues/",
+   "file": "archive/2024/curtis/issues.html",
+   "snapshot": "20241105071509"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "In the Senate, John will work to secure the border and fix our broken immigration system.",
+   "page": "https://www.johncurtis.org/issues/",
+   "file": "archive/2024/curtis/issues.html",
+   "snapshot": "20241105071509"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "In the Senate, John will push for a tariff on China, forcing them to pay for their pollution and level the playing field for Utah businesses that are doing things the right way.",
+   "page": "https://www.johncurtis.org/issues/",
+   "file": "archive/2024/curtis/issues.html",
+   "snapshot": "20241105071509"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Federal spending",
+    "Abortion"
+   ],
+   "sentence": "John is a pro-life, pro-Second Amendment, fiscal conservative who is committed to cutting Biden’s reckless spending.",
+   "page": "https://www.johncurtis.org/issues/",
+   "file": "archive/2024/curtis/issues.html",
+   "snapshot": "20241105071509"
+  }
+ ]
+}
