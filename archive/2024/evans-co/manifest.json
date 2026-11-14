@@ -1,0 +1,104 @@
+{
+  "name": "Gabe Evans",
+  "domains_tried": [
+    "electgabeevans.com"
+  ],
+  "pages": [
+    {
+      "original": "https://electgabeevans.com/",
+      "timestamp": "20241105212630",
+      "wayback": "https://web.archive.org/web/20241105212630/https://electgabeevans.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105212630id_/https://electgabeevans.com/",
+      "file": "archive/2024/evans-co/home.html",
+      "text_file": "archive/2024/evans-co/home.txt",
+      "bytes": 180242,
+      "sha256_html": "31c0ae7485ac8f6c8f2af92f501d94290d48982eb335aa57d54b4636607b3893",
+      "sha256_text": "cf34592ec62676ef1113fcbf3f0aa55333b971363ea6be95ca94d1e8a45f351f"
+    },
+    {
+      "original": "https://electgabeevans.com/issues/",
+      "timestamp": "20241105204130",
+      "wayback": "https://web.archive.org/web/20241105204130/https://electgabeevans.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105204130id_/https://electgabeevans.com/issues/",
+      "file": "archive/2024/evans-co/issues.html",
+      "text_file": "archive/2024/evans-co/issues.txt",
+      "bytes": 141986,
+      "sha256_html": "4f2760ef8093462548aafa62254ac8f6785e80dbc67d4484b3a59ba6b4d21da0",
+      "sha256_text": "4a788a07d185cd2dfa495c560fa20adc8ac08f6a53a3a419b4a45a0f6bc10e06"
+    },
+    {
+      "original": "https://electgabeevans.com/issues/american-education/",
+      "timestamp": "20241105204605",
+      "wayback": "https://web.archive.org/web/20241105204605/https://electgabeevans.com/issues/american-education/",
+      "wayback_raw": "https://web.archive.org/web/20241105204605id_/https://electgabeevans.com/issues/american-education/",
+      "file": "archive/2024/evans-co/issues-american-education.html",
+      "text_file": "archive/2024/evans-co/issues-american-education.txt",
+      "bytes": 133224,
+      "sha256_html": "83f3f9334070d3576d1514767a1fb02e31219aa20382ffe3e6d25a6fb396e78f",
+      "sha256_text": "7ce88c7bcca3a0f6f1914c72adc1517b7d683296a48ddc5b98fe4d94e364c311"
+    },
+    {
+      "original": "https://electgabeevans.com/issues/american-prosperity/",
+      "timestamp": "20241105204602",
+      "wayback": "https://web.archive.org/web/20241105204602/https://electgabeevans.com/issues/american-prosperity/",
+      "wayback_raw": "https://web.archive.org/web/20241105204602id_/https://electgabeevans.com/issues/american-prosperity/",
+      "file": "archive/2024/evans-co/issues-american-prosperity.html",
+      "text_file": "archive/2024/evans-co/issues-american-prosperity.txt",
+      "bytes": 138278,
+      "sha256_html": "7bf74e3822ad086a6ffc29ece1582e1f23bb0e2155e403cac036f9d5cf3ca025",
+      "sha256_text": "8d6ea71b734d3c863dc9b4d8f6c1a9219882ce142b8d2b9e5f2e01f2b9f38b46"
+    },
+    {
+      "original": "https://electgabeevans.com/issues/american-security/",
+      "timestamp": "20241105204607",
+      "wayback": "https://web.archive.org/web/20241105204607/https://electgabeevans.com/issues/american-security/",
+      "wayback_raw": "https://web.archive.org/web/20241105204607id_/https://electgabeevans.com/issues/american-security/",
+      "file": "archive/2024/evans-co/issues-american-security.html",
+      "text_file": "archive/2024/evans-co/issues-american-security.txt",
+      "bytes": 137497,
+      "sha256_html": "e4ac8f6964d9d04afdcf8d9dbc4b505e598705fa6824e9b7f2ff9bab6a8c73ae",
+      "sha256_text": "43de7e35f3665d312daccd635ec19562cc16b64086cb10d9785b789be88161c8"
+    },
+    {
+      "original": "https://electgabeevans.com/issues/american-values/",
+      "timestamp": "20241105204609",
+      "wayback": "https://web.archive.org/web/20241105204609/https://electgabeevans.com/issues/american-values/",
+      "wayback_raw": "https://web.archive.org/web/20241105204609id_/https://electgabeevans.com/issues/american-values/",
+      "file": "archive/2024/evans-co/issues-american-values.html",
+      "text_file": "archive/2024/evans-co/issues-american-values.txt",
+      "bytes": 134790,
+      "sha256_html": "42bf2c6b042248525119a0db236983fadf15c824fdcdaecf82153667e1417317",
+      "sha256_text": "104ac7e2e5844640da2a2decb328debafe5ec807ff99c04fa4780c19795bd540"
+    },
+    {
+      "original": "https://electgabeevans.com/issues/embed/",
+      "timestamp": "20241104144019",
+      "wayback": "https://web.archive.org/web/20241104144019/https://electgabeevans.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241104144019id_/https://electgabeevans.com/issues/embed/",
+      "file": "archive/2024/evans-co/issues-embed.html",
+      "text_file": "archive/2024/evans-co/issues-embed.txt",
+      "bytes": 19959,
+      "sha256_html": "f5f12aa8cabbcfe39112e03ee2fd3c0c1ce1db7f8e220d8da57e6aa659db0cef",
+      "sha256_text": "2b29ebecd4716fe254a63c8362380c5dfaf4a9ea2e8037143eca24a7ca9c58a2"
+    },
+    {
+      "original": "https://electgabeevans.com/about/",
+      "timestamp": "20241105204110",
+      "wayback": "https://web.archive.org/web/20241105204110/https://electgabeevans.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105204110id_/https://electgabeevans.com/about/",
+      "file": "archive/2024/evans-co/about.html",
+      "text_file": "archive/2024/evans-co/about.txt",
+      "bytes": 137759,
+      "sha256_html": "383ba845ad5af609471f2a96ef84bed6ad7d45b37d766ecbb88b806e89f2befa",
+      "sha256_text": "fc36ec70b1033452a0559b2d3773f446f246e2a22dbb0e20ab2f2bf12e91188e"
+    }
+  ],
+  "snapshots_found": {
+    "electgabeevans.com": 35
+  },
+  "generated_utc": "2026-11-14T16:03:22Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
