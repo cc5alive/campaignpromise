@@ -1,0 +1,38 @@
+{
+  "name": "Patrick Ryan",
+  "domains_tried": [
+    "patryanforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.patryanforcongress.com/",
+      "timestamp": "20241105191646",
+      "wayback": "https://web.archive.org/web/20241105191646/https://www.patryanforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105191646id_/https://www.patryanforcongress.com/",
+      "file": "archive/2024/ryan-ny/home.html",
+      "text_file": "archive/2024/ryan-ny/home.txt",
+      "bytes": 535735,
+      "sha256_html": "84d7d1a3eb5e8463230a9c84f7e733c8a55427a271c17784231065f099c48269",
+      "sha256_text": "b8b7a2e2196e933677a01b668e259f1eb430df2c3848e2e68c285d67ad2ae502"
+    },
+    {
+      "original": "https://www.patryanforcongress.com/priorities",
+      "timestamp": "20241105191624",
+      "wayback": "https://web.archive.org/web/20241105191624/https://www.patryanforcongress.com/priorities",
+      "wayback_raw": "https://web.archive.org/web/20241105191624id_/https://www.patryanforcongress.com/priorities",
+      "file": "archive/2024/ryan-ny/priorities.html",
+      "text_file": "archive/2024/ryan-ny/priorities.txt",
+      "bytes": 468179,
+      "sha256_html": "14c4c204628d7d6c693882f1b87a07031f2224001f5edd3148af9981eaa98ee2",
+      "sha256_text": "c32ef80afeacca44c05f60c6f6fc062d5b6d84ee83dfa6a7ae26f43ca6df3d4b"
+    }
+  ],
+  "snapshots_found": {
+    "patryanforcongress.com": 6
+  },
+  "generated_utc": "2026-11-14T08:49:48Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
