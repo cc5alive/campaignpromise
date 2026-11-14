@@ -1,0 +1,39 @@
+{
+  "name": "Nancy Pelosi",
+  "domains_tried": [
+    "pelosiforcongress.org",
+    "nancypelosi.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.pelosiforcongress.org/",
+      "timestamp": "20241105153423",
+      "wayback": "https://web.archive.org/web/20241105153423/https://www.pelosiforcongress.org/",
+      "wayback_raw": "https://web.archive.org/web/20241105153423id_/https://www.pelosiforcongress.org/",
+      "file": "archive/2024/pelosi-ca/home.html",
+      "text_file": "archive/2024/pelosi-ca/home.txt",
+      "bytes": 33577,
+      "sha256_html": "af89afd2a14c67e03eeacc3f6ee078402f3befca44d57b2c4f2c6a854647d415",
+      "sha256_text": "b4d49214ef7dd56dce92ecd9f585591c8b79772101464ee57b0fcfe9bb33c407"
+    },
+    {
+      "original": "https://www.pelosiforcongress.org/landing/stand-with-nancy/",
+      "timestamp": "20241105154934",
+      "wayback": "https://web.archive.org/web/20241105154934/https://www.pelosiforcongress.org/landing/stand-with-nancy/",
+      "wayback_raw": "https://web.archive.org/web/20241105154934id_/https://www.pelosiforcongress.org/landing/stand-with-nancy/",
+      "file": "archive/2024/pelosi-ca/landing-stand-with-nancy.html",
+      "text_file": "archive/2024/pelosi-ca/landing-stand-with-nancy.txt",
+      "bytes": 31160,
+      "sha256_html": "03eea8dbc3c32c0a06de18fcb09fd3cf9a35afc971d22c465a28f32d0e086603",
+      "sha256_text": "d8bcd82910c437d26a74e6120758708a39877d3d1596bfab187f621fc0c70667"
+    }
+  ],
+  "snapshots_found": {
+    "pelosiforcongress.org": 781
+  },
+  "generated_utc": "2026-11-14T16:05:58Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
