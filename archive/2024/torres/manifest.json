@@ -1,0 +1,96 @@
+{
+  "name": "Ritchie Torres",
+  "domains_tried": [
+    "ritchietorres.com",
+    "torres.nyc",
+    "ritchietorresforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://torres.nyc/",
+      "timestamp": "20241105075808",
+      "wayback": "https://web.archive.org/web/20241105075808/https://torres.nyc/",
+      "wayback_raw": "https://web.archive.org/web/20241105075808id_/https://torres.nyc/",
+      "file": "archive/2024/torres/home.html",
+      "text_file": "archive/2024/torres/home.txt",
+      "bytes": 41192,
+      "sha256_html": "decd3a388ed568b00d1cb0da0704f76861efb004d9626eafac2c25a29c3c9302",
+      "sha256_text": "26275e8099f671ce359ae672a3ef86e882098c0db448e8beaf413e3a1eb6e0ac"
+    },
+    {
+      "original": "https://torres.nyc/issues",
+      "timestamp": "20241105075815",
+      "wayback": "https://web.archive.org/web/20241105075815/https://torres.nyc/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105075815id_/https://torres.nyc/issues",
+      "file": "archive/2024/torres/issues.html",
+      "text_file": "archive/2024/torres/issues.txt",
+      "bytes": 35035,
+      "sha256_html": "5face8a22bae41b7eb8e4e450a8afee8465db178034f06a2c3882d006be8c0b3",
+      "sha256_text": "969314766bc938152d7bd64b9c100c7f0e638b2d1debde5222295ddb0a7bb2b2"
+    },
+    {
+      "original": "https://torres.nyc/issues/access-to-opportunity-for-all",
+      "timestamp": "20241105075822",
+      "wayback": "https://web.archive.org/web/20241105075822/https://torres.nyc/issues/access-to-opportunity-for-all",
+      "wayback_raw": "https://web.archive.org/web/20241105075822id_/https://torres.nyc/issues/access-to-opportunity-for-all",
+      "file": "archive/2024/torres/issues-access-to-opportunity-for-all.html",
+      "text_file": "archive/2024/torres/issues-access-to-opportunity-for-all.txt",
+      "bytes": 35369,
+      "sha256_html": "b8f6d1af14ffbf708d5c028ed3cab9edec4f187672c680bb288ea46f6f93cf1e",
+      "sha256_text": "c76e6999d0a7b9a8f48c8e5d69fb986258cf778c5d157d7188c956cdb2517a40"
+    },
+    {
+      "original": "https://torres.nyc/issues/housing",
+      "timestamp": "20241105075822",
+      "wayback": "https://web.archive.org/web/20241105075822/https://torres.nyc/issues/housing",
+      "wayback_raw": "https://web.archive.org/web/20241105075822id_/https://torres.nyc/issues/housing",
+      "file": "archive/2024/torres/issues-housing.html",
+      "text_file": "archive/2024/torres/issues-housing.txt",
+      "bytes": 34838,
+      "sha256_html": "04cf1f041f3903e0e0702bbbad4ae71d83aee5cd88e2d743b4c9182fcbfde2bf",
+      "sha256_text": "578a0d3ede9515e0ac5e041ef17d00956d5ad66f6e0799b0888ce315f48be613"
+    },
+    {
+      "original": "https://torres.nyc/issues/lgbtq-rights-equality-under-the-law",
+      "timestamp": "20241105075817",
+      "wayback": "https://web.archive.org/web/20241105075817/https://torres.nyc/issues/lgbtq-rights-equality-under-the-law",
+      "wayback_raw": "https://web.archive.org/web/20241105075817id_/https://torres.nyc/issues/lgbtq-rights-equality-under-the-law",
+      "file": "archive/2024/torres/issues-lgbtq-rights-equality-under-the-law.html",
+      "text_file": "archive/2024/torres/issues-lgbtq-rights-equality-under-the-law.txt",
+      "bytes": 34045,
+      "sha256_html": "e40d4ffce861399a1997d15d0377751dd37cadd8d9ad60d23a831d4c31a07b2b",
+      "sha256_text": "110c80b9e5972b40cddc30a9993cfc404f0d50876d511f420ea35e34fac9648c"
+    },
+    {
+      "original": "https://torres.nyc/issues/puerto-rico",
+      "timestamp": "20241105075815",
+      "wayback": "https://web.archive.org/web/20241105075815/https://torres.nyc/issues/puerto-rico",
+      "wayback_raw": "https://web.archive.org/web/20241105075815id_/https://torres.nyc/issues/puerto-rico",
+      "file": "archive/2024/torres/issues-puerto-rico.html",
+      "text_file": "archive/2024/torres/issues-puerto-rico.txt",
+      "bytes": 33585,
+      "sha256_html": "0d31a661f11d5e82871cafd3e968dd83f2f31afc2e7b41250ce1aa47b9d22913",
+      "sha256_text": "fba0b4f7b4372512ac00a7d332963f54fb1c9474f0aa7322127d51f3960c3674"
+    },
+    {
+      "original": "https://torres.nyc/issues/realizing-justice",
+      "timestamp": "20241105075821",
+      "wayback": "https://web.archive.org/web/20241105075821/https://torres.nyc/issues/realizing-justice",
+      "wayback_raw": "https://web.archive.org/web/20241105075821id_/https://torres.nyc/issues/realizing-justice",
+      "file": "archive/2024/torres/issues-realizing-justice.html",
+      "text_file": "archive/2024/torres/issues-realizing-justice.txt",
+      "bytes": 33135,
+      "sha256_html": "a20bc5f9d57c5feefefa57482fcc245df1819095188c1f394225de731cd9ab08",
+      "sha256_text": "f2bf8087e401a586974997a30952cd4839f11b87a2c99a8789a8cee8a0c0b732"
+    }
+  ],
+  "snapshots_found": {
+    "ritchietorres.com": 0,
+    "torres.nyc": 29
+  },
+  "generated_utc": "2026-11-14T07:53:35Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
