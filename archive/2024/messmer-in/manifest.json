@@ -1,0 +1,49 @@
+{
+  "name": "Mark B. Messmer",
+  "domains_tried": [
+    "markmessmer.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.markmessmer.com/",
+      "timestamp": "20241105154036",
+      "wayback": "https://web.archive.org/web/20241105154036/https://www.markmessmer.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105154036id_/https://www.markmessmer.com/",
+      "file": "archive/2024/messmer-in/home.html",
+      "text_file": "archive/2024/messmer-in/home.txt",
+      "bytes": 60046,
+      "sha256_html": "254bb3b4ed7dd3aa80e83af84ebfb8e1f0a2600de781da653c0eb5b35adcf255",
+      "sha256_text": "1711927ba0296ddda98b07f725538735918942f65106687db604539161450c4a"
+    },
+    {
+      "original": "https://www.markmessmer.com/issues/",
+      "timestamp": "20241105154033",
+      "wayback": "https://web.archive.org/web/20241105154033/https://www.markmessmer.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105154033id_/https://www.markmessmer.com/issues/",
+      "file": "archive/2024/messmer-in/issues.html",
+      "text_file": "archive/2024/messmer-in/issues.txt",
+      "bytes": 33113,
+      "sha256_html": "cd01827a9d1ab66bf5ad4b562385e08956d08c4637a20396e6aea1c335c8db49",
+      "sha256_text": "b1a0eef69ffdb7684185fe09d1ab7661d444b58351e1227a18b8fca915bf99e5"
+    },
+    {
+      "original": "https://www.markmessmer.com/about/",
+      "timestamp": "20241105154031",
+      "wayback": "https://web.archive.org/web/20241105154031/https://www.markmessmer.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105154031id_/https://www.markmessmer.com/about/",
+      "file": "archive/2024/messmer-in/about.html",
+      "text_file": "archive/2024/messmer-in/about.txt",
+      "bytes": 36680,
+      "sha256_html": "bab191fa4066085890f4a27fab33c38e916e8d7c25e909ee1e466e5193fa9bce",
+      "sha256_text": "58d6caa0c21737cd41654b6669aedad8c96e095d2ead49d6358d3ca2267d2da5"
+    }
+  ],
+  "snapshots_found": {
+    "markmessmer.com": 5
+  },
+  "generated_utc": "2026-11-14T16:37:17Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
