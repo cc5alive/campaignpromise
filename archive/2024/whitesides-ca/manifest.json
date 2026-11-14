@@ -1,0 +1,71 @@
+{
+  "name": "George Whitesides",
+  "domains_tried": [
+    "georgewhitesides.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.georgewhitesides.com/",
+      "timestamp": "20241101224820",
+      "wayback": "https://web.archive.org/web/20241101224820/https://www.georgewhitesides.com/",
+      "wayback_raw": "https://web.archive.org/web/20241101224820id_/https://www.georgewhitesides.com/",
+      "file": "archive/2024/whitesides-ca/home.html",
+      "text_file": "archive/2024/whitesides-ca/home.txt",
+      "bytes": 74483,
+      "sha256_html": "f40ed8b0aab80175cf1a7706658a1bd08d8ab651ba670b09a9f2c1f6007b0c50",
+      "sha256_text": "7ef7ffc7fdfc3ef97bdf0a014ae5f8e87ed624c69ac5d8371a15294ddef57fb1"
+    },
+    {
+      "original": "https://www.georgewhitesides.com/policies/",
+      "timestamp": "20241031053851",
+      "wayback": "https://web.archive.org/web/20241031053851/https://www.georgewhitesides.com/policies/",
+      "wayback_raw": "https://web.archive.org/web/20241031053851id_/https://www.georgewhitesides.com/policies/",
+      "file": "archive/2024/whitesides-ca/policies.html",
+      "text_file": "archive/2024/whitesides-ca/policies.txt",
+      "bytes": 54475,
+      "sha256_html": "22f48b9845849d8264f0ceb62161bc74831de79ae6bcb92a0676268ad7570307",
+      "sha256_text": "9f7e3dd3fd71b13426a7c44f46cfa7d12c416013bdb3573ee4e69386c93f3bd2"
+    },
+    {
+      "original": "https://www.georgewhitesides.com/2024/08/28/icymi-new-york-times-features-george-whitesides-candidacy-at-heart-of-fight-for-house-control-in-ca-27/",
+      "timestamp": "20241031130944",
+      "wayback": "https://web.archive.org/web/20241031130944/https://www.georgewhitesides.com/2024/08/28/icymi-new-york-times-features-george-whitesides-candidacy-at-heart-of-fight-for-house-control-in-ca-27/",
+      "wayback_raw": "https://web.archive.org/web/20241031130944id_/https://www.georgewhitesides.com/2024/08/28/icymi-new-york-times-features-george-whitesides-candidacy-at-heart-of-fight-for-house-control-in-ca-27/",
+      "file": "archive/2024/whitesides-ca/2024-08-28-icymi-new-york-times-features-george-whitesides-candidacy-at-heart-of-fight-for-house-control-in-ca-27.html",
+      "text_file": "archive/2024/whitesides-ca/2024-08-28-icymi-new-york-times-features-george-whitesides-candidacy-at-heart-of-fight-for-house-control-in-ca-27.txt",
+      "bytes": 47215,
+      "sha256_html": "2bee499753ed35e597f5dd8d927d7dc70aa9ea686698fb34c1f2c717235be906",
+      "sha256_text": "aa23b9079c30d8c78652f5755f47255eea34fccb9f99bd219a42019ace0bc281"
+    },
+    {
+      "original": "https://www.georgewhitesides.com/2024/10/11/george-whitesides-statement-on-rep-mike-garcias-anti-choice-track-record/",
+      "timestamp": "20241103010946",
+      "wayback": "https://web.archive.org/web/20241103010946/https://www.georgewhitesides.com/2024/10/11/george-whitesides-statement-on-rep-mike-garcias-anti-choice-track-record/",
+      "wayback_raw": "https://web.archive.org/web/20241103010946id_/https://www.georgewhitesides.com/2024/10/11/george-whitesides-statement-on-rep-mike-garcias-anti-choice-track-record/",
+      "file": "archive/2024/whitesides-ca/2024-10-11-george-whitesides-statement-on-rep-mike-garcias-anti-choice-track-record.html",
+      "text_file": "archive/2024/whitesides-ca/2024-10-11-george-whitesides-statement-on-rep-mike-garcias-anti-choice-track-record.txt",
+      "bytes": 44209,
+      "sha256_html": "a2aa05f6a27192948ed680c964ac2c936828153e0eaba4860364c0470f14b28d",
+      "sha256_text": "641c87eabfbb1235db42baa0b8aaf73c1036158d2280ea2f6d43228554756e44"
+    },
+    {
+      "original": "https://www.georgewhitesides.com/2024/10/15/whitesides-urges-epa-to-conduct-assessment-to-add-chiquita-canyon-landfill-to-superfund-national-priorities-list/",
+      "timestamp": "20241103002219",
+      "wayback": "https://web.archive.org/web/20241103002219/https://www.georgewhitesides.com/2024/10/15/whitesides-urges-epa-to-conduct-assessment-to-add-chiquita-canyon-landfill-to-superfund-national-priorities-list/",
+      "wayback_raw": "https://web.archive.org/web/20241103002219id_/https://www.georgewhitesides.com/2024/10/15/whitesides-urges-epa-to-conduct-assessment-to-add-chiquita-canyon-landfill-to-superfund-national-priorities-list/",
+      "file": "archive/2024/whitesides-ca/2024-10-15-whitesides-urges-epa-to-conduct-assessment-to-add-chiquita-canyon-landfill-to-superfund-national-priorities-list.html",
+      "text_file": "archive/2024/whitesides-ca/2024-10-15-whitesides-urges-epa-to-conduct-assessment-to-add-chiquita-canyon-landfill-to-superfund-national-priorities-list.txt",
+      "bytes": 44882,
+      "sha256_html": "dc31963c4b24acc15019bc0b816986056ff8985218dc29ab95d858cce5d82e91",
+      "sha256_text": "0de3a9592bf16eb5ff3ccfed0eedc893d3c1980fa01ef85b0b4ae4d72a3f0c36"
+    }
+  ],
+  "snapshots_found": {
+    "georgewhitesides.com": 26
+  },
+  "generated_utc": "2026-11-14T16:50:10Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
