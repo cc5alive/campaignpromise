@@ -1,0 +1,60 @@
+{
+  "name": "Andrew Ogles",
+  "domains_tried": [
+    "andyogles.com"
+  ],
+  "pages": [
+    {
+      "original": "https://andyogles.com/",
+      "timestamp": "20241105055223",
+      "wayback": "https://web.archive.org/web/20241105055223/https://andyogles.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105055223id_/https://andyogles.com/",
+      "file": "archive/2024/ogles-tn/home.html",
+      "text_file": "archive/2024/ogles-tn/home.txt",
+      "bytes": 186283,
+      "sha256_html": "e3f3fc9baa3473e5c6b34b6ab2ea3c3fc5e83e93b57a1a28eb6ab6703eb966ec",
+      "sha256_text": "b4439baab1334a3e553e57b2949d3779ea8ab6684677d44d56e453d0be3cd622"
+    },
+    {
+      "original": "https://andyogles.com/issues/",
+      "timestamp": "20241105054606",
+      "wayback": "https://web.archive.org/web/20241105054606/https://andyogles.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105054606id_/https://andyogles.com/issues/",
+      "file": "archive/2024/ogles-tn/issues.html",
+      "text_file": "archive/2024/ogles-tn/issues.txt",
+      "bytes": 152814,
+      "sha256_html": "237396f75d714dc49a3cd89d3e3fb44c179c76005dc01a02ffe0598bab207d64",
+      "sha256_text": "0e6863ac5297773178aaf5c8e8d1a750dfc6bbae502953f7caabd9e7c6b2e677"
+    },
+    {
+      "original": "https://andyogles.com/issues/embed/",
+      "timestamp": "20241102182238",
+      "wayback": "https://web.archive.org/web/20241102182238/https://andyogles.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241102182238id_/https://andyogles.com/issues/embed/",
+      "file": "archive/2024/ogles-tn/issues-embed.html",
+      "text_file": "archive/2024/ogles-tn/issues-embed.txt",
+      "bytes": 20752,
+      "sha256_html": "dff35df879933e5db3a4ecf3eb990a812707012a280c2e6b9c3d25959fd73fde",
+      "sha256_text": "3bfa751a0d795948e2017d223c834a1447f61db2f73217c670e514697a0d70f9"
+    },
+    {
+      "original": "https://andyogles.com/about/",
+      "timestamp": "20241105054547",
+      "wayback": "https://web.archive.org/web/20241105054547/https://andyogles.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105054547id_/https://andyogles.com/about/",
+      "file": "archive/2024/ogles-tn/about.html",
+      "text_file": "archive/2024/ogles-tn/about.txt",
+      "bytes": 135637,
+      "sha256_html": "88bb8db7d629bcfa5dd229c998cca7b2cdae418fa030c9616bd3ff6919a01f30",
+      "sha256_text": "a06bab64aa8ec56411dd0cd864810561888327c73843ce13d2e0b84acbcba950"
+    }
+  ],
+  "snapshots_found": {
+    "andyogles.com": 45
+  },
+  "generated_utc": "2026-11-14T08:31:03Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
