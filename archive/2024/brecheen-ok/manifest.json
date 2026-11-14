@@ -1,0 +1,71 @@
+{
+  "name": "Josh Brecheen",
+  "domains_tried": [
+    "joshbrecheen.com"
+  ],
+  "pages": [
+    {
+      "original": "https://joshbrecheen.com/",
+      "timestamp": "20241105125838",
+      "wayback": "https://web.archive.org/web/20241105125838/https://joshbrecheen.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105125838id_/https://joshbrecheen.com/",
+      "file": "archive/2024/brecheen-ok/home.html",
+      "text_file": "archive/2024/brecheen-ok/home.txt",
+      "bytes": 35303,
+      "sha256_html": "97d3e760e30bbacda06420809ef6bed38c6cd84d627a8b52ac8c89739d5bd359",
+      "sha256_text": "5afca1326d91cb5fc62e2c3911bfdec86b7ea37b7ed62f95fecd73b287b54aa2"
+    },
+    {
+      "original": "https://joshbrecheen.com/issues/",
+      "timestamp": "20241105051741",
+      "wayback": "https://web.archive.org/web/20241105051741/https://joshbrecheen.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105051741id_/https://joshbrecheen.com/issues/",
+      "file": "archive/2024/brecheen-ok/issues.html",
+      "text_file": "archive/2024/brecheen-ok/issues.txt",
+      "bytes": 86468,
+      "sha256_html": "8649b796f6de22917d681e258710700a3c77bada2a976ec1c27edb5c16554f6c",
+      "sha256_text": "6ad6359b7a3c7645c4445f29927a009c28a2e4e5bb5af03d6889d697bb55d75e"
+    },
+    {
+      "original": "https://joshbrecheen.com/issues-2/",
+      "timestamp": "20241105051538",
+      "wayback": "https://web.archive.org/web/20241105051538/https://joshbrecheen.com/issues-2/",
+      "wayback_raw": "https://web.archive.org/web/20241105051538id_/https://joshbrecheen.com/issues-2/",
+      "file": "archive/2024/brecheen-ok/issues-2.html",
+      "text_file": "archive/2024/brecheen-ok/issues-2.txt",
+      "bytes": 67278,
+      "sha256_html": "3d5cb44f9588efbca07f7ea11d13398347aad84c2b5ff83ab0052c94636bd2b7",
+      "sha256_text": "56bfa014c4c25d22cbadc234aed4e01acdc21202a3de4f43f95de203ae4f501c"
+    },
+    {
+      "original": "https://joshbrecheen.com/issues-2/embed/",
+      "timestamp": "20241101004843",
+      "wayback": "https://web.archive.org/web/20241101004843/https://joshbrecheen.com/issues-2/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241101004843id_/https://joshbrecheen.com/issues-2/embed/",
+      "file": "archive/2024/brecheen-ok/issues-2-embed.html",
+      "text_file": "archive/2024/brecheen-ok/issues-2-embed.txt",
+      "bytes": 20245,
+      "sha256_html": "be3f485eef835238e75fde49871cec2f95320fda46470d75bc7e6b3ceca7a2f9",
+      "sha256_text": "11e2ca70a76a31c75017fed5a97d190a3f767ffd8376298fb7759497626e93fa"
+    },
+    {
+      "original": "https://joshbrecheen.com/issues/embed/",
+      "timestamp": "20241103115647",
+      "wayback": "https://web.archive.org/web/20241103115647/https://joshbrecheen.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241103115647id_/https://joshbrecheen.com/issues/embed/",
+      "file": "archive/2024/brecheen-ok/issues-embed.html",
+      "text_file": "archive/2024/brecheen-ok/issues-embed.txt",
+      "bytes": 19747,
+      "sha256_html": "8a7d193925f89801da6776f40b203d620b5e5d29698e810354c50db371063e78",
+      "sha256_text": "e5f2aed7d4f57a22cca7e35a4c8de37c92c4aaa6a3af6bcb95dd7e9217e62f44"
+    }
+  ],
+  "snapshots_found": {
+    "joshbrecheen.com": 62
+  },
+  "generated_utc": "2026-11-14T22:29:16Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
