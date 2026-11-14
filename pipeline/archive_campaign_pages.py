@@ -82,6 +82,20 @@ def snapshots(domain, start, end):
     return list(latest.items())
 
 
+def nearest(url, start, end):
+    """Latest snapshot at or before the window end, via the availability API."""
+    r = get(f"https://archive.org/wayback/available?url={url}&timestamp={end}", tries=3, timeout=60)
+    try:
+        snap = r.json()["archived_snapshots"]["closest"]
+    except Exception:
+        return None
+    ts = snap.get("timestamp", "")
+    if snap.get("status") != "200" or not (start <= ts[:8] <= end):
+        return None
+    orig = re.sub(r"^https?://web\.archive\.org/web/\d+/", "", snap["url"])
+    return (ts, orig)
+
+
 def pick(snaps):
     home = [s for s in snaps if s[0].split("/", 1)[1] == ""]
     issues = [s for s in snaps if ISSUE_RE.search(s[0].split("/", 1)[1])]
@@ -117,6 +131,31 @@ def slug(key):
     return s or "home"
 
 
+def save_page(m, entry, key, ts, orig):
+    wb = f"https://web.archive.org/web/{ts}id_/{orig}"
+    r = get(wb)
+    time.sleep(3)
+    if not r or r.status_code != 200 or not r.content:
+        entry["pages"].append({"original": orig, "timestamp": ts, "error": getattr(r, "status_code", "no response")})
+        return
+    folder = OUT / m["key"]
+    folder.mkdir(parents=True, exist_ok=True)
+    name = slug(key)
+    (folder / f"{name}.html").write_bytes(r.content)
+    txt = extract_text(r.content)
+    (folder / f"{name}.txt").write_text(txt, encoding="utf-8")
+    entry["pages"].append({
+        "original": orig, "timestamp": ts,
+        "wayback": f"https://web.archive.org/web/{ts}/{orig}",
+        "wayback_raw": wb,
+        "file": f"archive/2024/{m['key']}/{name}.html",
+        "text_file": f"archive/2024/{m['key']}/{name}.txt",
+        "bytes": len(r.content),
+        "sha256_html": hashlib.sha256(r.content).hexdigest(),
+        "sha256_text": hashlib.sha256(txt.encode("utf-8")).hexdigest(),
+    })
+
+
 def main():
     import sys
     only = sys.argv[1] if len(sys.argv) > 1 else None
@@ -132,30 +171,20 @@ def main():
             if not snaps:
                 continue
             for key, (ts, orig) in pick(snaps):
-                wb = f"https://web.archive.org/web/{ts}id_/{orig}"
-                r = get(wb)
-                time.sleep(3)
-                if not r or r.status_code != 200 or not r.content:
-                    entry["pages"].append({"original": orig, "timestamp": ts, "error": getattr(r, "status_code", "no response")})
-                    continue
-                folder = OUT / m["key"]
-                folder.mkdir(parents=True, exist_ok=True)
-                name = slug(key)
-                (folder / f"{name}.html").write_bytes(r.content)
-                txt = extract_text(r.content)
-                (folder / f"{name}.txt").write_text(txt, encoding="utf-8")
-                entry["pages"].append({
-                    "original": orig, "timestamp": ts,
-                    "wayback": f"https://web.archive.org/web/{ts}/{orig}",
-                    "wayback_raw": wb,
-                    "file": f"archive/2024/{m['key']}/{name}.html",
-                    "text_file": f"archive/2024/{m['key']}/{name}.txt",
-                    "bytes": len(r.content),
-                    "sha256_html": hashlib.sha256(r.content).hexdigest(),
-                    "sha256_text": hashlib.sha256(txt.encode("utf-8")).hexdigest(),
-                })
+                save_page(m, entry, key, ts, orig)
             if entry["pages"]:
                 break  # first domain with snapshots wins
+        have = {norm(p["original"]) for p in entry["pages"] if "error" not in p}
+        for seed in m.get("seed_urls", []):
+            if norm(seed) in have or len(entry["pages"]) >= MAX_PAGES:
+                continue
+            hit = nearest(seed, start, end)
+            time.sleep(2)
+            if not hit or norm(hit[1]) in have:
+                continue
+            ts, orig = hit
+            have.add(norm(orig))
+            save_page(m, entry, norm(orig), ts, orig)
         entry["generated_utc"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
         entry["window"] = CFG["window"]
         folder = OUT / m["key"]
