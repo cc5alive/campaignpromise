@@ -1,0 +1,38 @@
+{
+  "name": "Mary E. Miller",
+  "domains_tried": [
+    "marymillerforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.marymillerforcongress.com/",
+      "timestamp": "20241105193456",
+      "wayback": "https://web.archive.org/web/20241105193456/https://www.marymillerforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105193456id_/https://www.marymillerforcongress.com/",
+      "file": "archive/2024/miller-il/home.html",
+      "text_file": "archive/2024/miller-il/home.txt",
+      "bytes": 425388,
+      "sha256_html": "520674ee69485b3dffd0a698b92712c375eeb53b47d19158932d5ca90f55ed0c",
+      "sha256_text": "262d0d0268ce833d76857abb855893b633970ba4c5b072625d61cef60b896fa4"
+    },
+    {
+      "original": "https://www.marymillerforcongress.com/about/",
+      "timestamp": "20241105061657",
+      "wayback": "https://web.archive.org/web/20241105061657/https://www.marymillerforcongress.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105061657id_/https://www.marymillerforcongress.com/about/",
+      "file": "archive/2024/miller-il/about.html",
+      "text_file": "archive/2024/miller-il/about.txt",
+      "bytes": 413304,
+      "sha256_html": "6c05a7d0ccbec408be2e2c253add6d46b4a69d02d3167c32cb22c6aed72c7193",
+      "sha256_text": "f347c6622730981aa3426c601452f4e3d8926177b5abefd68db2025e26ab63cb"
+    }
+  ],
+  "snapshots_found": {
+    "marymillerforcongress.com": 413
+  },
+  "generated_utc": "2026-11-14T22:33:10Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
