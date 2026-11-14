@@ -1,0 +1,49 @@
+{
+  "name": "Hillary J. Scholten",
+  "domains_tried": [
+    "hillaryscholten.com"
+  ],
+  "pages": [
+    {
+      "original": "https://hillaryscholten.com/",
+      "timestamp": "20241105112147",
+      "wayback": "https://web.archive.org/web/20241105112147/https://hillaryscholten.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105112147id_/https://hillaryscholten.com/",
+      "file": "archive/2024/scholten-mi/home.html",
+      "text_file": "archive/2024/scholten-mi/home.txt",
+      "bytes": 59281,
+      "sha256_html": "26e4e1944eccbad5f20d4b89c63901465953269fe6ad7d6c42254d380686d45c",
+      "sha256_text": "fabb52a16ddf54738a4eabb8c4625568cbb6cd149e111f10d4b5f32a69558616"
+    },
+    {
+      "original": "https://hillaryscholten.com/priorities/",
+      "timestamp": "20241105112425",
+      "wayback": "https://web.archive.org/web/20241105112425/https://hillaryscholten.com/priorities/",
+      "wayback_raw": "https://web.archive.org/web/20241105112425id_/https://hillaryscholten.com/priorities/",
+      "file": "archive/2024/scholten-mi/priorities.html",
+      "text_file": "archive/2024/scholten-mi/priorities.txt",
+      "bytes": 59309,
+      "sha256_html": "a5c8e48df6dec3ae6b5dced77246a94ed9416e5905c6b4f116ba19afde9b2b3a",
+      "sha256_text": "fe7693ee885ddc0f6dba79555f864ca074972993c0fef58d80752e297127c5c0"
+    },
+    {
+      "original": "https://hillaryscholten.com/priorities/embed/",
+      "timestamp": "20241101014356",
+      "wayback": "https://web.archive.org/web/20241101014356/https://hillaryscholten.com/priorities/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241101014356id_/https://hillaryscholten.com/priorities/embed/",
+      "file": "archive/2024/scholten-mi/priorities-embed.html",
+      "text_file": "archive/2024/scholten-mi/priorities-embed.txt",
+      "bytes": 20036,
+      "sha256_html": "a64eea63ade33cfd60d0b254b8f303aec801b902e6af4d0a733548aa3c15169d",
+      "sha256_text": "b043a9865b072e707ca764cb3aaa2f77b6e1ca6b8d5840e90cbb320cccf817d7"
+    }
+  ],
+  "snapshots_found": {
+    "hillaryscholten.com": 75
+  },
+  "generated_utc": "2026-11-14T22:44:33Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
