@@ -1,0 +1,50 @@
+{
+  "name": "Shomari Figures",
+  "domains_tried": [
+    "figuresforcongress.com",
+    "shomarifigures.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.figuresforcongress.com/",
+      "timestamp": "20241105152238",
+      "wayback": "https://web.archive.org/web/20241105152238/https://www.figuresforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105152238id_/https://www.figuresforcongress.com/",
+      "file": "archive/2024/figures-al/home.html",
+      "text_file": "archive/2024/figures-al/home.txt",
+      "bytes": 1204163,
+      "sha256_html": "4e54213151b999b31622e39706b68e6ddc89e62258d3391ea7fbda87523d42fd",
+      "sha256_text": "269826137d46de4875ee6e53d901d2d5a7cd9e0c29be3628c601bd25125aa4be"
+    },
+    {
+      "original": "https://www.figuresforcongress.com/issues",
+      "timestamp": "20241105064916",
+      "wayback": "https://web.archive.org/web/20241105064916/https://www.figuresforcongress.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105064916id_/https://www.figuresforcongress.com/issues",
+      "file": "archive/2024/figures-al/issues.html",
+      "text_file": "archive/2024/figures-al/issues.txt",
+      "bytes": 738741,
+      "sha256_html": "162c74d90f982a32043e3bd41d741d5f779c730d78f01a67ec9677b46a1a5bb6",
+      "sha256_text": "dad7900db4e05891f3ddbaf8780a1b97c415a085cb714cb8ccc726069a998250"
+    },
+    {
+      "original": "https://www.figuresforcongress.com/post/his-father-bankrupted-the-klan-he-wants-to-keep-fighting-for-justice-in-congress",
+      "timestamp": "20241105065107",
+      "wayback": "https://web.archive.org/web/20241105065107/https://www.figuresforcongress.com/post/his-father-bankrupted-the-klan-he-wants-to-keep-fighting-for-justice-in-congress",
+      "wayback_raw": "https://web.archive.org/web/20241105065107id_/https://www.figuresforcongress.com/post/his-father-bankrupted-the-klan-he-wants-to-keep-fighting-for-justice-in-congress",
+      "file": "archive/2024/figures-al/post-his-father-bankrupted-the-klan-he-wants-to-keep-fighting-for-justice-in-congress.html",
+      "text_file": "archive/2024/figures-al/post-his-father-bankrupted-the-klan-he-wants-to-keep-fighting-for-justice-in-congress.txt",
+      "bytes": 1448052,
+      "sha256_html": "3f8b5f22ed1bd89e92dbfd237ea480444d0757782cf30448aa075a8c2d1cef44",
+      "sha256_text": "5913435ea6cf4d360c2ac78532df3fc33c629248290a1559718978c91da29dd5"
+    }
+  ],
+  "snapshots_found": {
+    "figuresforcongress.com": 199
+  },
+  "generated_utc": "2026-11-14T16:17:40Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
