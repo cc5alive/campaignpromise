@@ -1,0 +1,49 @@
+{
+  "name": "David P. Joyce",
+  "domains_tried": [
+    "joyceforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://joyceforcongress.com/",
+      "timestamp": "20241105071940",
+      "wayback": "https://web.archive.org/web/20241105071940/https://joyceforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105071940id_/https://joyceforcongress.com/",
+      "file": "archive/2024/joyce-oh/home.html",
+      "text_file": "archive/2024/joyce-oh/home.txt",
+      "bytes": 61255,
+      "sha256_html": "e940f326c69c1ced8c88fd2ac4823d198f932768e95e380b59281a6809dd27e0",
+      "sha256_text": "ae9beb1bbddf864812d7936bf31a9d2d2339913c1e081fc235c60024e9936386"
+    },
+    {
+      "original": "https://joyceforcongress.com/news/joyce-highlights-endorsement-from-lake-county-sheriff-amid-national-calls-to-defund-police/",
+      "timestamp": "20241105043550",
+      "wayback": "https://web.archive.org/web/20241105043550/https://joyceforcongress.com/news/joyce-highlights-endorsement-from-lake-county-sheriff-amid-national-calls-to-defund-police/",
+      "wayback_raw": "https://web.archive.org/web/20241105043550id_/https://joyceforcongress.com/news/joyce-highlights-endorsement-from-lake-county-sheriff-amid-national-calls-to-defund-police/",
+      "file": "archive/2024/joyce-oh/news-joyce-highlights-endorsement-from-lake-county-sheriff-amid-national-calls-to-defund-police.html",
+      "text_file": "archive/2024/joyce-oh/news-joyce-highlights-endorsement-from-lake-county-sheriff-amid-national-calls-to-defund-police.txt",
+      "bytes": 32769,
+      "sha256_html": "7beaef3706b313bc090c69014d180451bf0e1a9efabc16c4e36646f4fb2b1971",
+      "sha256_text": "02c330c0d66339edae7bc0891f6545fe40594571ca152fdad87bf766f7e9d5eb"
+    },
+    {
+      "original": "https://joyceforcongress.com/news/joyce-highlights-endorsement-from-lake-county-sheriff-amid-national-calls-to-defund-police/embed/",
+      "timestamp": "20241102143321",
+      "wayback": "https://web.archive.org/web/20241102143321/https://joyceforcongress.com/news/joyce-highlights-endorsement-from-lake-county-sheriff-amid-national-calls-to-defund-police/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241102143321id_/https://joyceforcongress.com/news/joyce-highlights-endorsement-from-lake-county-sheriff-amid-national-calls-to-defund-police/embed/",
+      "file": "archive/2024/joyce-oh/news-joyce-highlights-endorsement-from-lake-county-sheriff-amid-national-calls-to-defund-police-embed.html",
+      "text_file": "archive/2024/joyce-oh/news-joyce-highlights-endorsement-from-lake-county-sheriff-amid-national-calls-to-defund-police-embed.txt",
+      "bytes": 20374,
+      "sha256_html": "e51e0a97b47f95686107b9f231d0122b9691ccb0bfd8f6dad222ceb3ca851749",
+      "sha256_text": "f058d551be3852423dc981d94c322984354ffa945ac35622c71a299d227a693e"
+    }
+  ],
+  "snapshots_found": {
+    "joyceforcongress.com": 54
+  },
+  "generated_utc": "2026-11-14T22:28:35Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
