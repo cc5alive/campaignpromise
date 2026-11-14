@@ -1,0 +1,148 @@
+{
+  "name": "John W. Mannion",
+  "domains_tried": [
+    "mannionforny.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.mannionforny.com/",
+      "timestamp": "20241105155300",
+      "wayback": "https://web.archive.org/web/20241105155300/https://www.mannionforny.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105155300id_/https://www.mannionforny.com/",
+      "file": "archive/2024/mannion-ny/home.html",
+      "text_file": "archive/2024/mannion-ny/home.txt",
+      "bytes": 73843,
+      "sha256_html": "1c154f56c3fd6d2dee441a156486070655ef80233e250de0a7646baebae48920",
+      "sha256_text": "ac603a82c24923ba296a956dcf463976fa47a6f145e20f57e9bd3dbcf09bb3e5"
+    },
+    {
+      "original": "https://www.mannionforny.com/on-the-issues/",
+      "timestamp": "20241105155317",
+      "wayback": "https://web.archive.org/web/20241105155317/https://www.mannionforny.com/on-the-issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105155317id_/https://www.mannionforny.com/on-the-issues/",
+      "file": "archive/2024/mannion-ny/on-the-issues.html",
+      "text_file": "archive/2024/mannion-ny/on-the-issues.txt",
+      "bytes": 63318,
+      "sha256_html": "ba8ef2240b979a53aca879aa6c03f2aa92145f3655848ab3eea469af7fd10d72",
+      "sha256_text": "667ad277caf9e302b28a73f7d13d74d79325367d465fc397c82251cedde3c4cd"
+    },
+    {
+      "original": "https://www.mannionforny.com/on-the-issues/addiction/",
+      "timestamp": "20241105155305",
+      "wayback": "https://web.archive.org/web/20241105155305/https://www.mannionforny.com/on-the-issues/addiction/",
+      "wayback_raw": "https://web.archive.org/web/20241105155305id_/https://www.mannionforny.com/on-the-issues/addiction/",
+      "file": "archive/2024/mannion-ny/on-the-issues-addiction.html",
+      "text_file": "archive/2024/mannion-ny/on-the-issues-addiction.txt",
+      "bytes": 62235,
+      "sha256_html": "64f5d24134c2e6b78cdd69f81ccb33bc2055b15768ac2729b44b29db2d431c6e",
+      "sha256_text": "2a5d730be2cc08e2317fd120228d20a71480c82226c5008dafd3821510384225"
+    },
+    {
+      "original": "https://www.mannionforny.com/on-the-issues/affordability/",
+      "timestamp": "20241105155322",
+      "wayback": "https://web.archive.org/web/20241105155322/https://www.mannionforny.com/on-the-issues/affordability/",
+      "wayback_raw": "https://web.archive.org/web/20241105155322id_/https://www.mannionforny.com/on-the-issues/affordability/",
+      "file": "archive/2024/mannion-ny/on-the-issues-affordability.html",
+      "text_file": "archive/2024/mannion-ny/on-the-issues-affordability.txt",
+      "bytes": 63003,
+      "sha256_html": "0555ae68a739150f5f4842bfa2c74d6541507e80adca274903518299fb0bf8ae",
+      "sha256_text": "8b1153dcab4637c2468a0581497e3292a2e04eed835b29816ac8e2a3ec1183ef"
+    },
+    {
+      "original": "https://www.mannionforny.com/on-the-issues/education/",
+      "timestamp": "20241105155318",
+      "wayback": "https://web.archive.org/web/20241105155318/https://www.mannionforny.com/on-the-issues/education/",
+      "wayback_raw": "https://web.archive.org/web/20241105155318id_/https://www.mannionforny.com/on-the-issues/education/",
+      "file": "archive/2024/mannion-ny/on-the-issues-education.html",
+      "text_file": "archive/2024/mannion-ny/on-the-issues-education.txt",
+      "bytes": 62842,
+      "sha256_html": "c7f5f52d62346b6a67cc9eb045f9887892c6f1fc7be30c797074c2761ca42085",
+      "sha256_text": "beaa7db5dccfe0b9f2d6dce85128238d0c45f40600db4495ed8d3a3a720405ee"
+    },
+    {
+      "original": "https://www.mannionforny.com/on-the-issues/healthcare/",
+      "timestamp": "20241105155316",
+      "wayback": "https://web.archive.org/web/20241105155316/https://www.mannionforny.com/on-the-issues/healthcare/",
+      "wayback_raw": "https://web.archive.org/web/20241105155316id_/https://www.mannionforny.com/on-the-issues/healthcare/",
+      "file": "archive/2024/mannion-ny/on-the-issues-healthcare.html",
+      "text_file": "archive/2024/mannion-ny/on-the-issues-healthcare.txt",
+      "bytes": 62423,
+      "sha256_html": "39865e135f14f2a61af502932e74363581537476501745dcf9dedb0c27bf256a",
+      "sha256_text": "a7932398d2c66414ea5b1308f6ad1cb100c78a47836eefab95fd032ad4ade708"
+    },
+    {
+      "original": "https://www.mannionforny.com/on-the-issues/immigration/",
+      "timestamp": "20241105155305",
+      "wayback": "https://web.archive.org/web/20241105155305/https://www.mannionforny.com/on-the-issues/immigration/",
+      "wayback_raw": "https://web.archive.org/web/20241105155305id_/https://www.mannionforny.com/on-the-issues/immigration/",
+      "file": "archive/2024/mannion-ny/on-the-issues-immigration.html",
+      "text_file": "archive/2024/mannion-ny/on-the-issues-immigration.txt",
+      "bytes": 62330,
+      "sha256_html": "9766dedb3088dc6b9f69c405d72c49de9a8e0627828317e3591dff321c36dfd9",
+      "sha256_text": "3f33ebfac5594c2ba7c3cb0c81eb95bb2ec2b539d47e6f77af40e44b2c89fbc0"
+    },
+    {
+      "original": "https://www.mannionforny.com/on-the-issues/public-safety/",
+      "timestamp": "20241105155313",
+      "wayback": "https://web.archive.org/web/20241105155313/https://www.mannionforny.com/on-the-issues/public-safety/",
+      "wayback_raw": "https://web.archive.org/web/20241105155313id_/https://www.mannionforny.com/on-the-issues/public-safety/",
+      "file": "archive/2024/mannion-ny/on-the-issues-public-safety.html",
+      "text_file": "archive/2024/mannion-ny/on-the-issues-public-safety.txt",
+      "bytes": 62297,
+      "sha256_html": "a9e124cf94c81946c2d69051fbc9563d621d04c0b1a6c1e5d2c78c8fc962280e",
+      "sha256_text": "e933669add85b132ce01d6a13667754e03e803bef65af4ae0daf8912b9f435a4"
+    },
+    {
+      "original": "https://www.mannionforny.com/on-the-issues/reproductive-rights-freedoms/",
+      "timestamp": "20241105155312",
+      "wayback": "https://web.archive.org/web/20241105155312/https://www.mannionforny.com/on-the-issues/reproductive-rights-freedoms/",
+      "wayback_raw": "https://web.archive.org/web/20241105155312id_/https://www.mannionforny.com/on-the-issues/reproductive-rights-freedoms/",
+      "file": "archive/2024/mannion-ny/on-the-issues-reproductive-rights-freedoms.html",
+      "text_file": "archive/2024/mannion-ny/on-the-issues-reproductive-rights-freedoms.txt",
+      "bytes": 62474,
+      "sha256_html": "8fcccf2454f0fc8d3789622e164ec36b0e5a1ddb120c932fb8135a195a454924",
+      "sha256_text": "a5beaabff9cbc6bc1be1046e4e30738d464c81e9b8523e3487e57dd12884e7d2"
+    },
+    {
+      "original": "https://www.mannionforny.com/on-the-issues/social-security/",
+      "timestamp": "20241105155324",
+      "wayback": "https://web.archive.org/web/20241105155324/https://www.mannionforny.com/on-the-issues/social-security/",
+      "wayback_raw": "https://web.archive.org/web/20241105155324id_/https://www.mannionforny.com/on-the-issues/social-security/",
+      "file": "archive/2024/mannion-ny/on-the-issues-social-security.html",
+      "text_file": "archive/2024/mannion-ny/on-the-issues-social-security.txt",
+      "bytes": 61660,
+      "sha256_html": "70fd382c0530a5be4ae28cab98ffa363e52a563b9475183bf4e29069494620c4",
+      "sha256_text": "91ac0161cba8e0ec20afd36652f44cccbfafcdea96e2fc6bd060d4c824964240"
+    },
+    {
+      "original": "https://www.mannionforny.com/on-the-issues/the-environment/",
+      "timestamp": "20241105155322",
+      "wayback": "https://web.archive.org/web/20241105155322/https://www.mannionforny.com/on-the-issues/the-environment/",
+      "wayback_raw": "https://web.archive.org/web/20241105155322id_/https://www.mannionforny.com/on-the-issues/the-environment/",
+      "file": "archive/2024/mannion-ny/on-the-issues-the-environment.html",
+      "text_file": "archive/2024/mannion-ny/on-the-issues-the-environment.txt",
+      "bytes": 62574,
+      "sha256_html": "39c838b0446a8455aa8dad7f458d0c7ea4457525f6477a3fa8e761612e6c8ffe",
+      "sha256_text": "2fa1f63089280180154bef4a7c72784e3bc0bdaaf64a243ba56dffd962b214aa"
+    },
+    {
+      "original": "https://www.mannionforny.com/on-the-issues/veterans/",
+      "timestamp": "20241105155306",
+      "wayback": "https://web.archive.org/web/20241105155306/https://www.mannionforny.com/on-the-issues/veterans/",
+      "wayback_raw": "https://web.archive.org/web/20241105155306id_/https://www.mannionforny.com/on-the-issues/veterans/",
+      "file": "archive/2024/mannion-ny/on-the-issues-veterans.html",
+      "text_file": "archive/2024/mannion-ny/on-the-issues-veterans.txt",
+      "bytes": 61941,
+      "sha256_html": "d52e46bf80f47e729f1b50ec2e5ffddeb4abbeba22a8bbcf54bb24b81e39677a",
+      "sha256_text": "cc5d529719fcfe9f555e901c0524d700a1a36e5e6c222978410f06cd6b11290b"
+    }
+  ],
+  "snapshots_found": {
+    "mannionforny.com": 24
+  },
+  "generated_utc": "2026-11-14T16:57:27Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
