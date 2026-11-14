@@ -1,0 +1,61 @@
+{
+  "name": "David G. Valadao",
+  "domains_tried": [
+    "valadaoforcongress.com",
+    "davidvaladao.com"
+  ],
+  "pages": [
+    {
+      "original": "https://valadaoforcongress.com/",
+      "timestamp": "20241105110223",
+      "wayback": "https://web.archive.org/web/20241105110223/https://valadaoforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105110223id_/https://valadaoforcongress.com/",
+      "file": "archive/2024/valadao-ca/home.html",
+      "text_file": "archive/2024/valadao-ca/home.txt",
+      "bytes": 92301,
+      "sha256_html": "650db6399ef9c33ca126baf671697877e10893168e5297423820219d9d718a1c",
+      "sha256_text": "37191060a1fdc415db4e6b5b4c462375f35e2e6293fd134b03290e32e57d1c70"
+    },
+    {
+      "original": "https://valadaoforcongress.com/issues/",
+      "timestamp": "20241105155936",
+      "wayback": "https://web.archive.org/web/20241105155936/https://valadaoforcongress.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105155936id_/https://valadaoforcongress.com/issues/",
+      "file": "archive/2024/valadao-ca/issues.html",
+      "text_file": "archive/2024/valadao-ca/issues.txt",
+      "bytes": 83287,
+      "sha256_html": "c6002bedf1ec54096bd6ed02e1732eb6ee898a32e54f5f47ff68820ab64f073a",
+      "sha256_text": "4bcb077182648e17c09b74b67471be514a0baf6696f36e70782cfbdc97ad048f"
+    },
+    {
+      "original": "https://valadaoforcongress.com/valadao-campaign-releases-first-ad-highlighting-independent-bipartisan-record/",
+      "timestamp": "20241105110303",
+      "wayback": "https://web.archive.org/web/20241105110303/https://valadaoforcongress.com/valadao-campaign-releases-first-ad-highlighting-independent-bipartisan-record/",
+      "wayback_raw": "https://web.archive.org/web/20241105110303id_/https://valadaoforcongress.com/valadao-campaign-releases-first-ad-highlighting-independent-bipartisan-record/",
+      "file": "archive/2024/valadao-ca/valadao-campaign-releases-first-ad-highlighting-independent-bipartisan-record.html",
+      "text_file": "archive/2024/valadao-ca/valadao-campaign-releases-first-ad-highlighting-independent-bipartisan-record.txt",
+      "bytes": 60172,
+      "sha256_html": "a5fa80b61f36c1a573f2cb7f1d6fff6a725cefcdc6b679328a17cb0630bc9640",
+      "sha256_text": "e5f32379108cf8a4aa8bc01c95d053cda9f7d0c9e0150bd05584cf4c36b32c0c"
+    },
+    {
+      "original": "https://valadaoforcongress.com/issues/embed/",
+      "timestamp": "20241102183952",
+      "wayback": "https://web.archive.org/web/20241102183952/https://valadaoforcongress.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241102183952id_/https://valadaoforcongress.com/issues/embed/",
+      "file": "archive/2024/valadao-ca/issues-embed.html",
+      "text_file": "archive/2024/valadao-ca/issues-embed.txt",
+      "bytes": 19499,
+      "sha256_html": "3483aef75ca0007d3fd8261936529e782185780ee7107c0b039ba11d2714aad7",
+      "sha256_text": "8aa4fe0566a86373ad20e43ea979590e4c3daacd070a163567fc3e8da8a650c0"
+    }
+  ],
+  "snapshots_found": {
+    "valadaoforcongress.com": 77
+  },
+  "generated_utc": "2026-11-14T08:32:55Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
