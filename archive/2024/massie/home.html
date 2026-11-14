@@ -1,0 +1,1809 @@
+<!doctype html >
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"
+      class="">
+<head>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    window._currentDevice = 'desktop';
+    window.Parameters = window.Parameters || {
+        HomeUrl: 'https://www.thomasmassie.com/',
+        AccountUUID: '131070f83aa040cea979d5d6ed3b23e8',
+        SystemID: 'US_DIRECT_PRODUCTION',
+        SiteAlias: 'cff1c88f',
+        SiteType: atob('RFVEQU9ORQ=='),
+        PublicationDate: 'Thu May 09 16:48:41 UTC 2024',
+        ExternalUid: null,
+        IsSiteMultilingual: false,
+        InitialPostAlias: '',
+        InitialDynamicItem: '',
+        DynamicPageInfo: {
+            isDynamicPage: false,
+            base64JsonRowData: 'null',
+        },
+        InitialPageAlias: 'home',
+        InitialPageUuid: '7b17b92e83b74be08657dd43b7056966',
+        InitialPageId: '25266853',
+        InitialEncodedPageAlias: 'aG9tZQ==',
+        CurrentPageUrl: '',
+        IsCurrentHomePage: true,
+        AllowAjax: false,
+        AfterAjaxCommand: null,
+        HomeLinkText: 'Back To Home',
+        UseGalleryModule: false,
+        CurrentThemeName: 'Layout Theme',
+        ThemeVersion: '44130',
+        DefaultPageAlias: '',
+        RemoveDID: true,
+        WidgetStyleID: null,
+        IsHeaderFixed: false,
+        IsHeaderSkinny: false,
+        IsBfs: true,
+        StorePageAlias: 'null',
+        StorePagesUrls: 'e30=',
+        IsNewStore: 'false',
+        StorePath: '',
+        StoreId: 'null',
+        StoreVersion: 0,
+        StoreBaseUrl: '',
+        StoreCleanUrl: true,
+        StoreDisableScrolling: true,
+        IsStoreSuspended: false,
+        NotificationSubDomain: 'thomasmassie',
+        HasCustomDomain: true,
+        SimpleSite: false,
+        showCookieNotification: false,
+        cookiesNotificationMarkup: 'null',
+        translatedPageUrl: '',
+        isFastMigrationSite: false,
+        sidebarPosition: 'NA',
+        currentLanguage: 'en',
+        currentLocale: 'en',
+        NavItems: '{}',
+        errors: {
+            general: 'There was an error connecting to the page.<br/> Make sure you are not offline.',
+            password: 'Incorrect name/password combination',
+            tryAgain: 'Try again'
+        },
+        NavigationAreaParams: {
+            ShowBackToHomeOnInnerPages: true,
+            NavbarSize: 4,
+            NavbarLiveHomePage: 'https://www.thomasmassie.com/',
+            BlockContainerSelector: '.dmBody',
+            NavbarSelector: '#dmNav:has(a)',
+            SubNavbarSelector: '#subnav_main'
+        },
+        hasCustomCode: true,
+        planID: '7',
+        customTemplateId: 'null',
+        siteTemplateId: 'null',
+        productId: 'DM_DIRECT',
+        disableTracking: false,
+        pageType: 'FROM_SCRATCH',
+        isRuntimeServer: true,
+        isInEditor: false,
+        hasNativeStore: false,
+        defaultLang: 'en',
+    };
+
+    window.Parameters.LayoutID = {};
+    window.Parameters.LayoutID[window._currentDevice] = 6;
+    window.Parameters.LayoutVariationID = {};
+    window.Parameters.LayoutVariationID[window._currentDevice] = 5;
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Injecting site-wide to the head -->
+
+
+
+
+<!-- End Injecting site-wide to the head -->
+
+<!-- Inject secured cdn script -->
+
+
+<!-- ========= Meta Tags ========= -->
+<script>
+    try {
+    if (
+        navigator.serviceWorker &&
+        navigator.serviceWorker.getRegistrations &&
+        location.protocol === 'https:'
+    ) {
+        // remove all service workers
+        navigator.serviceWorker
+            .getRegistrations()
+            .then(function (registrations) {
+                if (registrations && registrations.length) {
+                    console.log('unregistering service workers');
+                    registrations.forEach(function (registration) {
+                        registration.unregister();
+                    });
+                }
+            });
+        // clear caches
+        if (caches) {
+            caches.keys().then(function (keyList) {
+                if (keyList && keyList.length) {
+                    console.log('deleting caches');
+                    keyList.forEach(function (key) {
+                        if (key && key.indexOf('druntime') === 0) {
+                            caches.delete(key);
+                        }
+                    });
+                }
+            });
+        }
+    }
+} catch (err) {
+    // not a secured location
+}
+</script>
+
+
+<meta http-equiv="Content-type" content="text/html;charset=utf-8">
+<meta charset="utf-8">
+
+<link rel="canonical" href="https://www.thomasmassie.com/">
+
+<meta id="view" name="viewport" content="initial-scale=1, minimum-scale=1, maximum-scale=5, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+<!--Add favorites icons-->
+
+<link rel="apple-touch-icon" href="https://irp-cdn.multiscreensite.com/cff1c88f/dms3rep/multi/massie_logo_tp.png"/>
+
+<link rel="icon" type="image/x-icon" href="https://irp-cdn.multiscreensite.com/cff1c88f/site_favicon_16_1579883732533.ico"/>
+
+<!-- End favorite icons -->
+<link rel="preconnect" href="https://lirp.cdn-website.com/"/>
+
+
+
+<!-- render the required CSS and JS in the head section -->
+<script>
+    window.SystemID = 'US_DIRECT_PRODUCTION';
+
+    if (!window.dmAPI) {
+        window.dmAPI = {
+            registerExternalRuntimeComponent: function () {
+            },
+            getCurrentDeviceType: function () {
+                return window._currentDevice;
+            },
+            runOnReady: (ns, fn) => {
+                const safeFn = dmAPI.toSafeFn(fn);
+                ns = ns || 'global_' + Math.random().toString(36).slice(2, 11);
+                const eventName = 'afterAjax.' + ns;
+
+                if (document.readyState === 'complete') {
+                    $.DM.events.off(eventName).on(eventName, safeFn);
+                    setTimeout(function () {
+                        safeFn({
+                            isAjax: false,
+                        });
+                    }, 0);
+                } else {
+                    window?.waitForDeferred?.('dmAjax', () => {
+                        $.DM.events.off(eventName).on(eventName, safeFn);
+                        safeFn({
+                            isAjax: false,
+                        });
+                    });
+                }
+            },
+            toSafeFn: (fn) => {
+                if (fn?.safe) {
+                    return fn;
+                }
+                const safeFn = function (...args) {
+                    try {
+                        return fn?.apply(null, args);
+                    } catch (e) {
+                        console.log('function failed ' + e.message);
+                    }
+                };
+                safeFn.safe = true;
+                return safeFn;
+            }
+        };
+    }
+
+    if (!window.requestIdleCallback) {
+        window.requestIdleCallback = function (fn) {
+            setTimeout(fn, 0);
+        }
+    }
+</script>
+
+<!-- loadCSS function header.jsp-->
+
+
+
+
+
+
+<script id="d-js-load-css">
+/**
+ * There are a few <link> tags with CSS resource in them that are preloaded in the page
+ * in each of those there is a "onload" handler which invokes the loadCSS callback
+ * defined here.
+ * We are monitoring 3 main CSS files - the runtime, the global and the page.
+ * When each load we check to see if we can append them all in a batch. If threre
+ * is no page css (which may happen on inner pages) then we do not wait for it
+ */
+(function () {
+  let cssLinks = {};
+  function loadCssLink(link) {
+    link.onload = null;
+    link.rel = "stylesheet";
+    link.type = "text/css";
+  }
+  
+    function checkCss() {
+      const pageCssLink = document.querySelector("[id*='CssLink']");
+      const widgetCssLink = document.querySelector("[id*='widgetCSS']");
+
+        if (cssLinks && cssLinks.runtime && cssLinks.global && (!pageCssLink || cssLinks.page) && (!widgetCssLink || cssLinks.widget)) {
+            const storedRuntimeCssLink = cssLinks.runtime;
+            const storedPageCssLink = cssLinks.page;
+            const storedGlobalCssLink = cssLinks.global;
+            const storedWidgetCssLink = cssLinks.widget;
+
+            storedGlobalCssLink.disabled = true;
+            loadCssLink(storedGlobalCssLink);
+
+            if (storedPageCssLink) {
+                storedPageCssLink.disabled = true;
+                loadCssLink(storedPageCssLink);
+            }
+
+            if(storedWidgetCssLink) {
+                storedWidgetCssLink.disabled = true;
+                loadCssLink(storedWidgetCssLink);
+            }
+
+            storedRuntimeCssLink.disabled = true;
+            loadCssLink(storedRuntimeCssLink);
+
+            requestAnimationFrame(() => {
+                setTimeout(() => {
+                    storedRuntimeCssLink.disabled = false;
+                    storedGlobalCssLink.disabled = false;
+                    if (storedPageCssLink) {
+                      storedPageCssLink.disabled = false;
+                    }
+                    if (storedWidgetCssLink) {
+                      storedWidgetCssLink.disabled = false;
+                    }
+                    // (SUP-4179) Clear the accumulated cssLinks only when we're
+                    // sure that the document has finished loading and the document 
+                    // has been parsed.
+                    if(document.readyState === 'interactive') {
+                      cssLinks = null;
+                    }
+                }, 0);
+            });
+        }
+    }
+  
+
+  function loadCSS(link) {
+    try {
+      var urlParams = new URLSearchParams(window.location.search);
+      var noCSS = !!urlParams.get("nocss");
+      var cssTimeout = urlParams.get("cssTimeout") || 0;
+
+      if (noCSS) {
+        return;
+      }
+      if (link.href && link.href.includes("d-css-runtime")) {
+        cssLinks.runtime = link;
+        checkCss();
+      } else if (link.id === "siteGlobalCss") {
+        cssLinks.global = link;
+        checkCss();
+      } 
+      
+      else if (link.id && link.id.includes("CssLink")) {
+        cssLinks.page = link;
+        checkCss();
+      } else if (link.id && link.id.includes("widgetCSS")) {
+        cssLinks.widget = link;
+        checkCss();
+      }
+      
+      else {
+        requestIdleCallback(function () {
+          window.setTimeout(function () {
+            loadCssLink(link);
+          }, parseInt(cssTimeout, 10));
+        });
+      }
+    } catch (e) {
+      throw e
+    }
+  }
+  window.loadCSS = window.loadCSS || loadCSS;
+})();
+</script>
+
+
+
+<script data-role="deferred-init" type="text/javascript">
+    /* usage: window.getDeferred(<deferred name>).resolve() or window.getDeferred(<deferred name>).promise.then(...)*/
+    function Def() {
+        this.promise = new Promise((function (a, b) {
+            this.resolve = a, this.reject = b
+        }).bind(this))
+    }
+
+    const defs = {};
+    window.getDeferred = function (a) {
+        return null == defs[a] && (defs[a] = new Def), defs[a]
+    }
+    window.waitForDeferred = function (b, a, c) {
+        let d = window?.getDeferred?.(b);
+        d
+            ? d.promise.then(a)
+            : c && ["complete", "interactive"].includes(document.readyState)
+                ? setTimeout(a, 1)
+                : c
+                    ? document.addEventListener("DOMContentLoaded", a)
+                    : console.error(`Deferred  does not exist`);
+    };
+</script>
+<style id="forceCssIncludes">
+    /* This file is auto-generated from a `scss` file with the same name */
+
+.videobgwrapper{overflow:hidden;position:absolute;z-index:0;width:100%;height:100%;top:0;left:0;pointer-events:none;border-radius:inherit}.videobgframe{position:absolute;width:101%;height:100%;top:50%;left:50%;transform:translateY(-50%) translateX(-50%);object-fit:fill}#dm video.videobgframe{margin:0}@media (max-width:767px){.dmRoot .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:80vh}}@media (min-width:1025px){.dmRoot .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:45vh}}@media (min-width:768px) and (max-width:1024px){.responsiveTablet .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:45vh}}#dm [data-show-on-page-only]{display:none!important}#dmRoot div.stickyHeaderFix div.site_content{margin-top:0!important}#dmRoot div.stickyHeaderFix div.hamburger-header-container{position:relative}
+    
+
+</style>
+<style id="cssVariables" type="text/css">
+    
+</style>
+
+
+<style id="hideAnimFix">
+    .dmDesktopBody:not(.editGrid) [data-anim-desktop]:not([data-anim-desktop='none']), .dmDesktopBody:not(.editGrid) [data-anim-extended] {
+        visibility: hidden;
+    }
+
+    .dmDesktopBody:not(.editGrid) .dmNewParagraph[data-anim-desktop]:not([data-anim-desktop='none']), .dmDesktopBody:not(.editGrid) .dmNewParagraph[data-anim-extended] {
+        visibility: hidden !important;
+    }
+</style>
+
+
+
+<style id="criticalCss">
+    @charset "UTF-8";.display_None,.dmPopupMask{display:none}#dm .dmInner .dmWidget,.clearfix:after,.dmRespRow .dmRespRow:after,.dmRespRow:after,.dmSocialHub,DIV.dmBody{clear:both}@font-face{font-family:'Source Sans Pro';font-style:normal;font-weight:400;font-display:swap;src:url(https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Source Sans Pro';font-style:italic;font-weight:400;font-display:swap;src:url(https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7nsDI.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:Merriweather;font-style:normal;font-weight:400;font-display:swap;src:url(https://irp.cdn-website.com/fonts/s/merriweather/v30/u-440qyriQwlOrhSvowK_l5-fCZM.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Source Sans Pro';font-style:normal;font-weight:700;font-display:swap;src:url(https://irp.cdn-website.com/fonts/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:Merriweather;font-style:normal;font-weight:700;font-display:swap;src:url(https://irp.cdn-website.com/fonts/s/merriweather/v30/u-4n0qyriQwlOrhSvowK_l52xwNZWMf6.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}.dmInner{min-height:100vh!important;position:relative;min-width:768px!important}.dmPopup,.dmPopupMask{position:fixed;left:0}.dmDisplay_None{display:none!important}.clearfix:after{visibility:hidden;line-height:0;height:0}.clearfix:after,.clearfix:before{content:' ';display:table}.clearfix{display:inline-block}.dmDesktopBody .shadowEffectToChildren li{box-shadow:none!important}#dm .dmWidget .icon{font-size:26px}body.dmRoot #dm .dmOuter .dmInner .dmWidget .icon.hasFontIcon{height:26px;margin-top:-13px;line-height:normal;text-align:center;background-image:none}.dmRoot .hasFontIcon{background-image:none!important}.dmPopupMask{margin:0;width:10px;z-index:1000000999;top:0}#dmRoot .dmPopup,.dmPopup,.dmPopupClose:before,[data-display-type=block]{display:block}.dmPopup{text-align:left;top:10px;width:93%;z-index:1000009999!important;box-sizing:border-box;background:#f5f5f5;overflow-y:auto;height:100%}.dmPopup .dmPopupTitle{text-align:left;font:700 19px Helvetica,Arial;margin:20px 20px 35px;color:#999}.lh-1,button,input{line-height:normal}#dmPopup{opacity:0}.dmPopupClose,.dmPopupClose:before{position:absolute;visibility:visible}.dmPopupClose{border-radius:25px;width:27px;height:27px;z-index:1;background-color:rgba(255,255,255,.4);top:12px;right:12px}.dmPopupClose:before{font-size:20px;color:#000;top:3px;right:3px}body.dmDesktopBody:not(.mac) .data::-webkit-scrollbar{width:5px;height:5px}body.dmDesktopBody:not(.mac) .data::-webkit-scrollbar-track{background:rgba(0,0,0,.1)}body.dmDesktopBody:not(.mac) .data::-webkit-scrollbar-thumb{background:#c8c8c8;box-shadow:inset 0 1px 2px #454545;border-radius:45px}.dmDesktopBody #dm .dmInner .dmRespRow.desktop-no-padding{padding-left:0!important;padding-right:0!important}.dmRespRow.fullBleedMode>.dmRespColsWrapper{width:100%!important;max-width:100%!important}.dmRespRow.fullBleedMode{padding-left:0!important;padding-right:0!important}#dm .dmRespRow .dmRespColsWrapper{display:flex}.pswp{z-index:9999999999!important}#dm .hasBackgroundOverlay:not(.dmPopupPage):not(.layout-drawer){position:relative!important}#dm .hasBackgroundOverlay:not(.hasExtraLayerOverlay):before{display:block!important;position:absolute!important;top:0!important;left:0!important;width:100%!important;height:100%!important;content:' '!important;border-radius:inherit}#dm .dmInner .dmWidget.align-center,.align-center{margin-left:auto;margin-right:auto}.text-align-center{text-align:center}body.fix-mobile-scrolling{overflow:initial}#dmRoot{text-decoration-skip-ink:none}.dmform-title{padding-right:15px;padding-left:15px}.contact-checkable-img{width:auto;height:100px;display:none;margin:5px}.dmform .checkboxwrapper .for-checkable img.contact-checkable-img{height:100px}body{-webkit-overflow-scrolling:touch}@media (min-width:1025px){:root{--btn-text-font-size:16px}}@media (min-width:768px) and (max-width:1024px){:root{--btn-text-font-size:16px}}nav{display:block}html{font-family:Source Sans Pro;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}h1{font-size:2em;margin:.67em 0}b{font-weight:700}hr{box-sizing:content-box;height:0}img{border:0;max-width:100%;-ms-interpolation-mode:bicubic;display:inline-block}button,input{font-family:inherit;font-size:100%;margin:0}button{text-transform:none;-webkit-appearance:button}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}*,:after,:before{box-sizing:border-box}.dmRespRow.dmRespRowNoPadding{padding:0}.dmRespRow{padding-top:15px;padding-bottom:15px}.dmRespRow .dmRespRow:after,.dmRespRow .dmRespRow:before,.dmRespRow:after,.dmRespRow:before{content:' ';display:table}.dmRespRow,.dmRespRow .dmRespColsWrapper{max-width:960px;position:relative;margin:0 auto;width:100%}.dmRespRow .dmRespCol{position:relative;width:100%;display:inline-block;vertical-align:top;float:left}.dmRespRow .dmRespCol>*{max-width:100%}.dmRespRow .dmRespRow{width:auto;margin-top:0;margin-bottom:0;max-width:none}.dmDesktopBody .dmRespRow .large-1{position:relative;width:8.33333%}.dmDesktopBody .dmRespRow .large-2{position:relative;width:16.66667%}.dmDesktopBody .dmRespRow .large-7{position:relative;width:58.33333%}.dmDesktopBody .dmRespRow .large-12{position:relative;width:100%}.socialHubIcon,[class*=' dm-common-icons-'],[class*=' dm-social-icons-']{font-family:dm-social-icons!important;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.dm-social-icons-facebook:before{content:'\ea90'}.dm-social-icons-twitter:before{content:'\ea96'}[class*=' dm-common-icons-']{font-family:dm-common-icons!important}.dm-common-icons-close:before{content:'\e901'}#dm div.dmContent [class*=' icon-'],[class*=' icon-']{font-family:FontAwesome!important;font-weight:400;font-style:normal;text-decoration:inherit;-webkit-font-smoothing:antialiased}[class*=' icon-']:before{text-decoration:none;display:inline-block;speak:none}a [class*=' icon-']{display:inline}[class*=' icon-']{display:inline;width:auto;height:auto;line-height:normal;vertical-align:baseline;background-image:none;background-position:0 0;background-repeat:repeat;margin-top:0}.icon-star:before{content:'\f005'}.icon-angle-down:before{content:'\f107'}#dm .dmRespRow .dmRespCol>.dmWidget{overflow:initial}.pswp,.pswp__item,.pswp__scroll-wrap{overflow:hidden}@media (min-width:768px){#dm .dmRespRow .dmRespCol>.dmWidget{width:280px;max-width:100%}#dm .dmRespRow .dmRespCol.large-2>.dmWidget{width:100%}}@media (max-width:767px){#dm .dmInner .dmWidget{width:100%}}#dm .dmInner .dmWidget:not(.displayNone){display:inline-block}#dm .dmInner .dmWidget:not(.flexButton):not(.displayNone)[data-display-type=block]{display:block}#dm .dmInner .dmWidget{text-decoration:none;margin:10px 0;position:relative;text-align:center;line-height:22px;box-shadow:none;background-image:none;padding:0;height:auto;border-style:solid;white-space:nowrap}.pswp,.pswp__bg,.pswp__scroll-wrap{height:100%;width:100%}#dm .dmInner .dmWidget:after{content:'';display:inline-block;height:100%;vertical-align:middle;width:0;margin-right:-.25em}#dm .dmInner .dmWidget .iconBg{position:absolute;left:0;width:50px;top:50%;margin-top:-13px}#dm .dmWidget .text{display:inline-block;vertical-align:middle;font-size:1.125em;line-height:normal;white-space:normal;padding:10px 7px;max-width:98%}#dm .dmPhotoGallery .dmPhotoGalleryHolder .photoGalleryThumbs img,body:not(.responsiveTablet) #dm .dmInner .dmBody .hide-for-large,body:not(.responsiveTablet) .hide-for-large{display:none!important}p.rteBlock{margin:0}html:not(.ios-preview) #dm .hasStickyHeader .dmInner div.dmHeaderContainer{position:fixed!important;z-index:101;width:100%;min-width:768px}.pswp,.pswp__bg,.pswp__container,.pswp__item,.pswp__scroll-wrap{position:absolute;top:0;left:0}#dm div.dmInner .dmform[data-layout=layout-1] .dmforminput>:not(label):not(div):not(small):not(.frc-banner){background:0;border:2px solid #000;display:inline-block}#dm div.dmInner .native-inputs .contact-checkable-container .contact-checkable-img{margin-left:0;margin-bottom:0}#dm .socialHubInnerDiv a:not(:last-child){margin-right:5px}.socialHubIcon{display:flex!important;align-items:center;justify-content:center}.pswp,.pswp__button--fs,.pswp__button--zoom{display:none}.pswp{-ms-touch-action:none;touch-action:none;-webkit-text-size-adjust:100%;-webkit-backface-visibility:hidden;outline:0}.pswp *{-webkit-box-sizing:border-box;box-sizing:border-box}.pswp__bg{background:#000;opacity:0;-webkit-backface-visibility:hidden;will-change:opacity}.pswp__container{-webkit-touch-callout:none;-ms-touch-action:none;touch-action:none;right:0;bottom:0;-webkit-backface-visibility:hidden;will-change:transform}.pswp__item{right:0;bottom:0}.pswp__button{position:relative;overflow:visible;-webkit-appearance:none;display:block;border:0;padding:0;margin:0;float:right;opacity:.75;-webkit-box-shadow:none;box-shadow:none}.pswp__button::-moz-focus-inner{padding:0;border:0}.pswp__button,.pswp__button--arrow--left:before,.pswp__button--arrow--right:before{background:url(/_dm/s/rt/scripts/vendor/photoswipe4/icons/default-skin.png) no-repeat;background-size:264px 88px;width:44px;height:44px}.pswp__button--close{background-position:0 -44px}.pswp__button--share{background-position:-44px -44px}.pswp__button--zoom{background-position:-88px 0}.pswp__button--arrow--left,.pswp__button--arrow--right{background:0 0;top:50%;margin-top:-50px;width:70px;height:100px;position:absolute}.pswp__button--arrow--left{left:0}.pswp__button--arrow--right{right:0}.pswp__button--arrow--left:before,.pswp__button--arrow--right:before{content:'';top:35px;background-color:rgba(0,0,0,.3);height:30px;width:32px;position:absolute}.pswp__button--arrow--left:before{left:6px;background-position:-138px -44px}.pswp__button--arrow--right:before{right:6px;background-position:-94px -44px}.pswp__share-modal{display:block;background:rgba(0,0,0,.5);width:100%;height:100%;top:0;left:0;padding:10px;position:absolute;z-index:1600;opacity:0;-webkit-backface-visibility:hidden;will-change:opacity}.pswp__counter,.pswp__preloader{height:44px;position:absolute;top:0}.pswp__share-modal--hidden{display:none}.pswp__share-tooltip{z-index:1620;position:absolute;background:#FFF;top:56px;border-radius:2px;display:block;width:auto;right:44px;-webkit-box-shadow:0 2px 5px rgba(0,0,0,.25);box-shadow:0 2px 5px rgba(0,0,0,.25);-webkit-transform:translateY(6px);-ms-transform:translateY(6px);transform:translateY(6px);-webkit-backface-visibility:hidden;will-change:transform}.pswp__counter{left:0;font-size:13px;line-height:44px;color:#FFF;opacity:.75;padding:0 10px}.pswp__caption{position:absolute;left:0;bottom:0;width:100%;min-height:44px}.pswp__caption__center{max-width:95%;margin:0 auto;font-size:16px;padding:10px;line-height:20px;color:#CCC;width:960px;font-weight:700;text-align:center}.pswp__preloader{width:44px;left:50%;margin-left:-22px;opacity:0;will-change:opacity}.pswp__preloader__icn{width:20px;height:20px;margin:12px}@media screen and (max-width:1024px){.pswp__preloader{position:relative;left:auto;top:auto;margin:0;float:right}}.pswp__ui{-webkit-font-smoothing:auto;visibility:visible;opacity:1;z-index:1550}.pswp__top-bar{position:absolute;left:0;top:0;height:44px;width:100%}.pswp__caption,.pswp__top-bar{-webkit-backface-visibility:hidden;will-change:opacity;background-color:rgba(0,0,0,.5)}.pswp__ui--hidden .pswp__button--arrow--left,.pswp__ui--hidden .pswp__button--arrow--right,.pswp__ui--hidden .pswp__caption,.pswp__ui--hidden .pswp__top-bar{opacity:.001}.dmPhotoGallery .dmPhotoGalleryHolder .photoGalleryThumbs .image-container{height:100%}.dmPhotoGallery .dmPhotoGalleryHolder .photoGalleryThumbs{width:58px;height:58px;margin:2px;display:inline-block;vertical-align:middle;text-align:center;overflow:hidden}.dmPhotoGalleryResp.dmPhotoGallery .dmPhotoGalleryHolder .photoGalleryThumbs img{box-shadow:0 0 3px #888}.dmPhotoGalleryResp.dmPhotoGallery .dmPhotoGalleryHolder .photoGalleryThumbs{margin:0;padding:10px}.dmPhotoGalleryHolder{text-align:center}.dmPhotoGallery .dmPhotoGalleryHolder .photoGalleryThumbs img{display:inline!important;margin:0!important;vertical-align:middle;text-align:center;position:relative}.dmPhotoGallery .image-container{position:relative}.dmPhotoGallery.newPhotoGallery .photoGalleryThumbs .caption-container .caption-inner h3,.dmPhotoGallery.newPhotoGallery .photoGalleryThumbs .caption-container .caption-inner p{margin:0;line-height:normal;text-align:center}.dmPhotoGallery.newPhotoGallery .photoGalleryThumbs .caption-container .caption-inner h3{font-size:21px}.dmPhotoGallery.newPhotoGallery .photoGalleryThumbs .caption-container .caption-inner div{text-align:center}.dmPhotoGallery.newPhotoGallery .photoGalleryThumbs .caption-container .caption-inner p{font-size:14px}.dmPhotoGallery.newPhotoGallery .photoGalleryThumbs .caption-container .caption-inner .caption-text,.dmPhotoGallery.newPhotoGallery .photoGalleryThumbs .caption-container .caption-inner .caption-title{max-width:100%}#dm .dmPhotoGallery.newPhotoGallery li{list-style:none}#dm .dmPhotoGallery.newPhotoGallery li.photoGalleryThumbs .caption-container .caption-inner div,#dm .dmPhotoGallery.newPhotoGallery li.photoGalleryThumbs .caption-container .caption-inner h3,#dm .dmPhotoGallery.newPhotoGallery li.photoGalleryThumbs .caption-container .caption-inner p{text-align:center}#dm .dmPhotoGallery.newPhotoGallery .photoGalleryViewAll{box-shadow:0 0!important;font-size:inherit!important;margin:0!important}#dm .dmPhotoGallery.newPhotoGallery .dmPhotoGalleryHolder{width:100%;padding:0;display:none}#dm .dmPhotoGallery.newPhotoGallery li.photoGalleryThumbs{position:relative}#dm .dmPhotoGallery.newPhotoGallery li.photoGalleryThumbs .image-container{overflow:hidden}#dm .dmPhotoGallery.newPhotoGallery li.photoGalleryThumbs .image-container a{background-repeat:no-repeat;background-position:center}#dm .dmPhotoGallery.newPhotoGallery li.photoGalleryThumbs .caption-container .caption-inner{align-items:center;display:flex;flex-direction:column;justify-content:center;position:relative;overflow:hidden;z-index:1;background-color:rgba(255,255,255,.9);color:#333;padding:15px;height:100%;box-sizing:border-box}#dm .dmPhotoGallery.newPhotoGallery li.photoGalleryThumbs .caption-container .caption-inner .caption-button.displayNone,.displayNone{display:none}#dm .dmPhotoGallery.newPhotoGallery li.photoGalleryThumbs .caption-container .caption-inner .rteBlock{font-size:14px}#dm .dmPhotoGallery.newPhotoGallery li.photoGalleryThumbs .caption-container .caption-inner .caption-button{margin:10px auto;max-width:100%}#dm .dmPhotoGallery.newPhotoGallery li.photoGalleryThumbs .caption-container .caption-inner .caption-button .text{padding:10px 20px!important}#dm .dmRespRow.dmRespRowNoPadding,.dmContent,.dmInner ul:not(.defaultList),DIV.dmBody{padding:0}#dm .dmPhotoGallery.newPhotoGallery[data-image-hover-effect=shine] .photoGalleryThumbs .image-container a{position:relative}#dm .dmPhotoGallery.newPhotoGallery[data-image-hover-effect=shine] .photoGalleryThumbs .image-container a::after{content:'';position:absolute;top:0;left:0;width:200%;height:200%;opacity:0;transform:translate(-50%,-50%);background:rgba(255,255,255,.13);background:linear-gradient(135deg,rgba(255,255,255,0) 0,rgba(255,255,255,.13) 48%,rgba(255,255,255,.5) 57%,rgba(255,255,255,0) 64%,rgba(255,255,255,0) 100%)}#dm .dmPhotoGallery.newPhotoGallery[data-link-gallery=true] .image-container a.has-link{z-index:1px}.imageWidget{position:relative}*{border:0 solid #333;scrollbar-arrow-color:#fff;scrollbar-track-color:#F2F2F2;scrollbar-face-color:silver;scrollbar-highlight-color:silver;scrollbar-3dlight-color:silver;scrollbar-shadow-color:silver;scrollbar-darkshadow-color:silver;scrollbar-width:12px}body{width:100%;overflow:hidden;-webkit-text-size-adjust:100%!important;-ms-text-size-adjust:100%!important}A IMG{border:none}h1,h3,ul{margin-left:0;margin-right:0}.dmInner *{-webkit-font-smoothing:antialiased}span.oneIcon:before{display:inline-block}.clearfix,a,iframe,img,li,ul{vertical-align:top}#iscrollBody,#site_content{position:relative}.dmOuter{word-wrap:break-word}.dmInner{font-size:16px;background:#fff;color:#666}.dmDesktopBody .dmInner{min-width:960px}.dmInner a{color:#463939}.dmHeader{background:#68ccd1;color:#666;text-align:center;position:relative;width:100%;max-width:100%}.dmContent{margin:0}#site_content ul:not(.defaultList){-webkit-padding-start:0;-moz-padding-start:0;list-style-position:inside}#innerBar{position:relative;height:36px;width:100%;font-size:20px;margin:0;z-index:80}.dmRespRowsWrapper{max-width:960px;margin:0 auto}.dmRespCol>[dmle_extension]:not(:first-child){margin-top:10px}.dmLargeBody .imageWidget:not(.displayNone){display:inline-block;max-width:100%}.imageWidget:not(.displayNone) img{width:100%}h3{font-weight:400;font-size:23px}#dm .dmRespColsWrapper{display:block}.dmNewParagraph{text-align:left;margin:8px 0;padding:2px 0}.dmLargeBody .dmRespRowsWrapper>.dmRespRow .dmRespCol,.dmLargeBody .fHeader .dmRespRow .dmRespCol{padding-left:.75%;padding-right:.75%}.dmLargeBody .dmRespRowsWrapper>.dmRespRow .dmRespCol:first-child,.dmLargeBody .fHeader .dmRespRow .dmRespCol:first-child{padding-left:0;padding-right:1.5%}.dmLargeBody .dmRespRowsWrapper>.dmRespRow .dmRespCol:last-child,.dmLargeBody .fHeader .dmRespRow .dmRespCol:last-child{padding-right:0;padding-left:1.5%}.dmLargeBody .dmRespRowsWrapper>.dmRespRow .dmRespCol:only-child,.dmLargeBody .fHeader .dmRespRow .dmRespCol:only-child{padding-left:0;padding-right:0}#innerBar.lineInnerBar{display:table;width:100%;box-shadow:none;-webkit-box-shadow:none;-moz-box-shadow:none;font-size:20px;margin-top:30px;margin-bottom:30px;background-color:transparent;color:#666}#innerBar .titleLine{display:table-cell;vertical-align:middle;width:50%}.dmPageTitleRow:not(#innerBar){display:none}.titleLine hr{min-height:1px;background-color:rgba(102,102,102,.2)}.dmStandardDesktop{display:block}#dmFirstContainer .dmRespRowsWrapper:after,#dmFirstContainer .dmRespRowsWrapper:before{content:"";display:table}.dmInner a{outline:0;vertical-align:inherit}.dmLinksMenu>ul{display:block;margin:0;font-size:inherit}.standardHeaderLayout .dmHeader{float:none;display:block;height:auto}#dm h3.dmwidget-title[hide=true],div[layout=layoutA] span.link span.itemName{display:none}.dmStandardDesktop{margin:0 auto}#dm .dmInner .dmWidget{color:#f7f7f7;background-color:#68ccd1}#dm .dmwidget-title{margin:10px 0;font-size:23px;text-shadow:none;text-align:left;text-transform:capitalize;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;word-wrap:normal}.dmPhotoGalleryHolder{font-size:medium!important;margin:0;list-style:none}#dm .dmPhotoGallery .dmPhotoGalleryHolder,#dm .dmPhotoGallery .dmPhotoGalleryHolder>li{width:100%;padding:0}#dm .dmPhotoGallery .dmPhotoGalleryHolder .photoGalleryThumbs{background:url(https://dd-cdn.multiscreensite.com/runtime-img/galleryLoader.gif) 50% 50% no-repeat #eee;float:left;clear:none;padding:0;margin:0;width:100%}.dmDesktopBody .dmPhotoGallery .photoGalleryViewAll{background:0 0;border:none;padding:3px 0;font-size:16px;width:auto;height:auto;line-height:normal;box-shadow:0 -2px 0 0;display:block;margin:40px 0;text-align:left}ul.listWidgetContainer li.listItem *{max-height:100%;max-width:100%;display:block;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box}ul.listWidgetContainer span.link{font-size:14px;text-decoration:none;text-align:center;line-height:.8em;white-space:nowrap;text-overflow:ellipsis;overflow:hidden}.dmLargeBody .listItem span.link{height:auto;float:none;text-align:left;background:0 0;line-height:normal;font-size:16px}.dmDesktopBody .listWidgetContainer span.link span.buttonText{padding:0;font-size:16px;white-space:normal}.dmDesktopBody div[layout=layoutA] span.link{padding-left:230px;margin-top:10px}.dmDesktopBody div[layout=layoutA] span.link span.buttonText:after{content:'>>';margin-left:10px;font-size:14px}#dm .dmSocialHub a{display:inline-block;text-decoration:none;margin:0;vertical-align:bottom}.dmSocialHub>div{text-align:inherit}a span.socialHubIcon{width:36px;height:36px;font-size:31px;display:inline-block;text-align:center;margin-right:0;margin-bottom:5px;line-height:36px;box-sizing:content-box;background-image:none!important}.socialHubIcon.style9{color:#333}#dm .dmSocialHub .socialHubWrapper{display:inline-block;max-width:100%}body{background-color:#eee}.dmPhotoGallery:not(.dmFacebookGallery) .dmPhotoGalleryHolder:not(.ready) li.photoGalleryThumbs{display:inline!important;visibility:hidden}div.dmPrettyList.ed-version h3{line-height:normal}.dmDesktopBody div.dmPrettyList.ed-version ul.listWidgetContainer li.listItem span.link:not(.dmWidget){width:100%}div.dmPrettyList.ed-version[layout^=layoutA] span.link span.itemName{display:none}.dmDesktopBody div.dmPrettyList.ed-version[layout^=layoutA] span.link:not(.dmWidget){padding:0 15px 0 230px}.dmDesktopBody div.dmPrettyList.ed-version[layout^=layoutA] span.link{padding-left:230px;margin-top:10px}.dmDesktopBody div.dmPrettyList.ed-version[layout^=layoutA] span.link span.buttonText:after{content:'>>';margin-left:10px;font-size:14px}.dmPrettyList.ed-version[link-element=none] ul li a span.link{display:none!important}.dmDesktopBody div.dmPrettyList.ed-version[layout^=layoutA] ul.listWidgetContainer li.listItem a.biglink span.link{margin:10px 0 0}.dmPhotoGallery li.photoGalleryThumbs .caption-container .caption-inner p{white-space:pre-line}.main-navigation.unifiednav{display:flex;justify-content:flex-start;align-items:stretch;overflow:visible}.main-navigation.unifiednav ul{list-style:none;padding:0;margin:0;font-size:1rem}.main-navigation.unifiednav .unifiednav__container{display:flex;justify-content:flex-start;list-style:none}.main-navigation.unifiednav .unifiednav__container>.unifiednav__item-wrap{display:flex;justify-content:flex-start;position:relative;font-weight:400}.main-navigation.unifiednav .unifiednav__container:not([data-depth])>.unifiednav__item-wrap::after,.main-navigation.unifiednav .unifiednav__container:not([data-depth])>.unifiednav__item-wrap::before{content:'';-ms-grid-row-align:center;align-self:center;font-weight:700}.main-navigation.unifiednav .unifiednav__container>.unifiednav__item-wrap>.unifiednav__item{display:flex;justify-content:flex-start;align-items:center;flex-direction:row;color:inherit;text-decoration:none;position:relative;padding:12px 15px;margin:0;font-weight:inherit;letter-spacing:.03em}.main-navigation.unifiednav .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item{padding:0 15px}.main-navigation.unifiednav .unifiednav__container>.unifiednav__item-wrap>.unifiednav__item .nav-item-text{white-space:nowrap}.main-navigation.unifiednav .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item .nav-item-text::after,.main-navigation.unifiednav .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item .nav-item-text::before{content:'';width:100%;height:0;border:0 solid transparent;border-top-color:currentColor;display:block;opacity:0}#dm .dmWidget:not([data-buttonstyle]) .iconBg,.main-navigation.unifiednav .unifiednav__container .unifiednav__item:not(.unifiednav__item_has-sub-nav) .icon{display:none}.main-navigation.unifiednav .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item.dmNavItemSelected .nav-item-text::after,.main-navigation.unifiednav .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item.dmNavItemSelected .nav-item-text::before{opacity:1}.main-navigation.unifiednav.effect-text-color{padding:12px 15px}.main-navigation.unifiednav.effect-text-color .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item.dmNavItemSelected{color:#9a9a9a}.main-navigation.unifiednav:not(.unifiednav_vertical)>.unifiednav__container{justify-content:inherit}#dm .p_hfcontainer nav.main-navigation.unifiednav{min-width:9em!important;text-align:initial!important}#dm .main-navigation.unifiednav:not([data-nav-structure=VERTICAL])>.unifiednav__container{flex-wrap:wrap;justify-content:inherit}#dm .main-navigation.unifiednav:not([data-nav-structure=VERTICAL])>.unifiednav__container .nav-item-text::before{text-align:left}#dm .main-navigation.unifiednav:not([data-nav-structure=VERTICAL]) .unifiednav__container:not([data-depth])>.unifiednav__item-wrap:not(:last-child)::after,#dm .main-navigation.unifiednav:not([data-nav-structure=VERTICAL]) .unifiednav__container:not([data-depth])>.unifiednav__item-wrap:not(:last-child)::before,#dm .main-navigation.unifiednav:not([data-nav-structure=VERTICAL])[data-divider]:not([data-direction=RIGHT]) .unifiednav__container:not([data-depth])>.unifiednav__item-wrap:not(:last-child)::before{content:''}#dm .main-navigation.unifiednav:not([data-nav-structure=VERTICAL])[data-divider=PIPE] .unifiednav__container:not([data-depth])>.unifiednav__item-wrap:not(:last-child)::after{content:'|'}#dm .dmBody .dmRespRowsWrapper{max-width:none;background-color:transparent}.dmLargeBody .dmRespRow{width:100%;max-width:none;margin-left:0;margin-right:0;padding-left:40px;padding-right:40px}.dm-bfs.dm-layout-home div.dmInner{background-color:#fff}.dmStandardDesktop .dmHeader{background-color:#68ccd1;max-width:100%}#dm div.dmContent h1{color:#666;font-family:Merriweather,"Merriweather Fallback";font-weight:400}#dm div.dmRespCol>*{line-height:1.5}#dm div.dmContent h3{color:#666}.dmLargeBody .dmBody .dmRespRowsWrapper{background-color:transparent}#dm div.dmInner,#dm div.dmInner .dmRespCol,.dmPrettyList .itemName{font-family:'Source Sans Pro';color:rgba(68,68,68,1);font-weight:400;font-size:18px}#dm div.dmContent h3,#dm div.dmContent h3 *{font-family:'Source Sans Pro'}.dmPrettyList .link:not(.dmWidget){color:rgba(153,153,153,1)}#dm div.dmContent h1,#dm div.dmContent h3{color:rgba(38,44,92,1)}#dm DIV.dmOuter DIV.dmInner{background-color:rgba(255,255,255,1)}#dm div.dmContent h1{font-size:60px}#dm div.dmContent h3{font-size:20px}#dm div.dmInner,#dm div.dmInner .dmRespCol,.dmPhotoGallery .caption-text.caption-text,.dmPrettyList .itemName{font-size:18px}@media all{:root{--btn-text-direction:ltr;--btn-border-r-color:var(--btn-border-color);--btn-border-l-color:var(--btn-border-color);--btn-border-b-width:var(--btn-border-width);--btn-border-width:1px;--btn-border-radius:0px;--btn-border-t-width:var(--btn-border-width);--btn-border-tl-radius:var(--btn-border-radius);--btn-border-br-radius:var(--btn-border-radius);--btn-border-bl-radius:var(--btn-border-radius);--btn-bg-color:rgb(242, 56, 39);--btn-border-color:rgba(0, 0, 0, 0);--btn-border-tr-radius:var(--btn-border-radius);--btn-border-r-width:var(--btn-border-width);--btn-bg-image:none;--btn-border-b-color:var(--btn-border-color);--btn-border-l-width:var(--btn-border-width);--btn-border-t-color:var(--btn-border-color);--btn-text-align:center;--btn-text-color:rgb(255, 255, 255);--btn-text-decoration:none;--btn-text-font-weight:700;--btn-icon-color:rgb(247, 247, 247);--btn-icon-fill:rgb(247, 247, 247);--btn-icon-wrpr-display:none;--btn-hover-border-b-color:var(--btn-hover-border-color);--btn-hover-bg:rgb(255, 255, 255);--btn-hover-border-t-color:var(--btn-hover-border-color);--btn-hover-border-r-color:var(--btn-hover-border-color);--btn-hover-border-l-color:var(--btn-hover-border-color);--btn-hover-border-color:rgb(242, 56, 39);--btn-hover-text-color:rgb(242, 56, 39);--btn-hover-text-font-weight:700;--btn-hover-text-decoration:var(--btn-text-decoration);--btn-hover-text-font-style:var(--btn-text-font-style)}}@media (min-width:0px) and (max-width:767px){:root{--btn-text-font-size:16px}}#dm .dmWidget:not([data-buttonstyle]){overflow:initial;background-clip:border-box;border-radius:1px}#dm .dmWidget:not([data-buttonstyle]) .text{padding:16px 0}@media (min-width:768px){#dm .dmRespRow .dmRespCol>.dmWidget{width:222px}}#dm div.dmInner #site_content .dmWidget,#dm div.dmInner .dmHeader .dmWidget{background-color:var(--btn-bg-color);background-image:var(--btn-bg-image);border-color:var(--btn-border-color);border-bottom-color:var(--btn-border-b-color);border-left-color:var(--btn-border-l-color);border-right-color:var(--btn-border-r-color);border-top-color:var(--btn-border-t-color);border-radius:var(--btn-border-radius);border-bottom-left-radius:var(--btn-border-bl-radius);border-bottom-right-radius:var(--btn-border-br-radius);border-top-left-radius:var(--btn-border-tl-radius);border-top-right-radius:var(--btn-border-tr-radius);border-width:var(--btn-border-width);border-bottom-width:var(--btn-border-b-width);border-left-width:var(--btn-border-l-width);border-right-width:var(--btn-border-r-width);border-top-width:var(--btn-border-t-width);direction:var(--btn-text-direction);text-align:var(--btn-text-align)}#dm div.dmInner #site_content .dmWidget span.text{color:var(--btn-text-color);font-size:var(--btn-text-font-size);font-weight:var(--btn-text-font-weight);text-decoration:var(--btn-text-decoration)}#dm div.dmInner #site_content .dmWidget span.icon,#dm div.dmInner .dmHeader .dmWidget span.icon{color:var(--btn-icon-color);fill:var(--btn-icon-fill)}#dm div.dmInner #site_content .dmWidget:not([data-buttonstyle]) .iconBg,#dm div.dmInner .dmHeader .dmWidget:not([data-buttonstyle]) .iconBg{display:var(--btn-icon-wrpr-display)}#dm .dmInner div.dmHeader{background-color:rgba(255,255,255,.8)!important;border-style:solid!important;border-width:0!important}#dm .dmInner div.dmHeader.u_hcontainer,#dm .dmInner div.u_hcontainer{background-color:rgba(255,255,255,1)!important;border-style:solid!important;border-width:0!important}#dm .p_hfcontainer nav.u_1800247147.main-navigation.unifiednav .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item{color:rgba(68,68,68,1)!important}#dm .p_hfcontainer nav.u_1800247147.main-navigation.unifiednav .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item.dmNavItemSelected{color:rgba(153,153,153,1)!important}#dm .p_hfcontainer div.u_1410375487 .socialHubIcon{color:rgba(98,149,216,1)!important;border-color:rgba(98,149,216,1)!important}#dm .dmBody div.u_1525247259 .dmforminput input,#dm .dmBody div.u_1961793970 .dmforminput input{color:rgba(38,44,92,1)!important}#dm .p_hfcontainer .u_1800247147.main-navigation.unifiednav .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item{margin:0!important;padding:0 10px!important}#dm .p_hfcontainer .u_1800247147.main-navigation.unifiednav:not([data-nav-structure=VERTICAL]) .unifiednav__container:not([data-depth])>.unifiednav__item-wrap:not(:last-child)::after,#dm .p_hfcontainer .u_1800247147.main-navigation.unifiednav:not([data-nav-structure=VERTICAL]) .unifiednav__container:not([data-depth])>.unifiednav__item-wrap:not(:last-child)::before{font-size:15px!important}#dm .dmInner div.fHeader .dmHeader[freeheader=true]{padding-top:8px!important;padding-bottom:8px!important}#dm .dmInner div.dmHeader.u_hcontainer,#dm .dmInner div.u_hcontainer{padding-top:10px!important}#dm .p_hfcontainer .u_1410375487 .socialHubIcon{width:30px!important;height:30px!important;font-size:20px!important;line-height:30px!important}#dm .p_hfcontainer .u_1410375487 .socialHubIcon:after{width:38px!important;height:30px!important}#dm .p_hfcontainer div.u_1329664038{padding:10px!important}#dm .p_hfcontainer div.u_1257416696{padding-left:0!important;padding-top:0!important;padding-right:0!important}#dm .p_hfcontainer div.u_1048429937{width:auto!important;padding:15px 0!important;margin:-1px 0 0!important}#dm .p_hfcontainer div.u_1299366573{width:auto!important;padding:10px 20px!important;margin:-1px 0 0!important}#dm .p_hfcontainer div.u_1410375487,#dm .p_hfcontainer nav.u_1800247147{float:none!important;top:0!important;left:0!important;width:calc(100% - 0px)!important;position:relative!important;height:auto!important;max-width:100%!important;min-width:25px!important}#dm .p_hfcontainer div.u_1340268182{padding:0!important;margin:0!important}#dm .p_hfcontainer div.u_1410375487{text-align:center!important;padding:0!important;margin:22px auto 0!important}#dm .p_hfcontainer nav.u_1800247147{justify-content:center!important;align-items:stretch!important;text-align:start!important;padding:6px 0!important;margin:0 auto!important}#dm .p_hfcontainer a.u_1623301977,#dm .p_hfcontainer div.u_1515562196{display:block!important;float:none!important;top:0!important;left:0!important;position:relative!important;max-width:100%!important;min-width:0!important;text-align:center!important;padding:0!important}#dm .p_hfcontainer nav.u_1800247147.main-navigation.unifiednav .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item{font-size:15px!important}.stickyHeaderSpacer{height:118.5px!important}#dm .p_hfcontainer a.u_1623301977{background-color:rgba(98,149,216,1)!important;width:133px!important;height:54px!important;margin:10px auto!important}#dm .p_hfcontainer div.u_1515562196{width:135.27px!important;height:auto!important;margin:0 auto!important}#dm .dmBody .u_1292418622:before,#dm .dmBody .u_1340759176:before{opacity:.5!important;background-color:#1e1306!important}#dm .dmBody h1.u_1281974650,#dm .dmBody h1.u_1836112545{line-height:normal!important}#dm .dmBody div.u_1340759176:before{background-color:rgba(0,0,0,1)!important;opacity:.2!important}#dm .dmBody .u_1677601659,#dm .dmBody .u_1978438994{display:none!important}#dm .dmBody div.u_1292418622:before{background-color:rgba(0,0,0,1)!important;opacity:.5!important}#dm .dmBody div.u_1292418622,#dm .dmBody div.u_1340759176{background-image:url(https://lirp.cdn-website.com/cff1c88f/dms3rep/multi/opt/2015_massie_010-1920w.jpg),url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAABhGlDQ1BJQ0MgcHJvZmlsZQAAKJF9kT1Iw0AcxV9TpUUqHSwo4pChOlkQFemoVShChVArtOpgcukXNGlIUlwcBdeCgx+LVQcXZ10dXAVB8APEzc1J0UVK/F9aaBHjwXE/3t173L0DhEaFaVbPBKDptplOJsRsblUMvEJAGEEMIi4zy5iTpBQ8x9c9fHy9i/Es73N/jn41bzHAJxLPMsO0iTeIZzZtg/M+cYSVZJX4nHjcpAsSP3JdafEb56LLAs+MmJn0PHGEWCx2sdLFrGRqxNPEUVXTKV/ItljlvMVZq9RY+578haG8vrLMdZojSGIRS5AgQkENZVRgI0arToqFNO0nPPzDrl8il0KuMhg5FlCFBtn1g//B726twtRkKymUAHpfHOdjFAjsAs2643wfO07zBPA/A1d6x19tAPFP0usdLXoEhLeBi+uOpuwBlzvA0JMhm7Ir+WkKhQLwfkbflAMGboG+tVZv7X2cPgAZ6ip1AxwcAmNFyl73eHewu7d/z7T7+wFwJnKmZ9+MiwAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAAuIwAALiMBeKU/dgAAAAd0SU1FB+UCDwksLkLIPkkAAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAAAC0lEQVQI12NgAAIAAAUAAeImBZsAAAAASUVORK5CYII=)!important;background-color:rgba(0,0,0,0)!important}#dm .dmBody a.u_1647166163{background-color:rgba(38,44,92,1)!important}#dm .dmBody a.u_1355968486{background-color:rgba(98,149,216,1)!important}#dm .dmBody a.u_1281887350{background-color:rgba(38,44,92,1)!important}#dm .dmBody div.u_1525247259 input:not([type=submit]){border-color:rgba(38,44,92,1)!important;border-style:solid!important;border-width:1px!important}#dm .dmBody div.u_1961793970 input:not([type=submit]){border-color:rgba(38,44,92,1)!important;border-style:solid!important;border-width:1px!important}#dm .dmBody .u_1256322449 .photoGalleryThumbs .image-container a{background-size:contain!important}#dm .dmBody div.u_1256322449 .photoGalleryThumbs .image-container{border-radius:0!important;-moz-border-radius:0!important;-webkit-border-radius:0!important}#dm .dmBody .u_1536295097{background-position:50% 50%!important}#dm .dmBody .u_1938721691{display:block!important}#dm .dmBody .u_1957339043{display:none!important}#dm .dmBody .u_1402703495{display:block!important}#dm .dmBody .u_1576919294{display:none!important}#dm .dmBody .u_1127158123{display:block!important}#dm .dmBody .u_1906451977{display:none!important}#dm .dmBody .u_1664242876{display:block!important}#dm .dmBody .u_1197501238{display:none!important}#dm .dmBody .u_1949783035{display:block!important}#dm .dmBody .u_1454626304{display:none!important}#dm .dmBody .u_1802872581{display:block!important}#dm .dmBody .u_1951136019{display:none!important}#dm .dmBody a.u_1457166901,#dm .dmBody a.u_1647166163{display:block!important;top:0!important;left:0!important;height:54px!important;text-align:center!important;padding:0!important;max-width:100%!important;min-width:0!important;float:none!important;position:relative!important}#dm .dmBody a.u_1457166901{background-color:rgba(98,149,216,1)!important;width:280px!important;margin:10px auto 10px 0!important}#dm .dmBody a.u_1647166163{width:280px!important;margin:30px auto 10px 0!important}#dm .dmBody h1.u_1836112545,#dm .dmBody h3.u_1286800580{top:0!important;left:0!important;height:auto!important;padding:2px 0!important;display:block!important}#dm .dmBody h1.u_1836112545{float:none!important;width:454px!important;position:relative!important;max-width:100%!important;min-width:0!important;text-align:left!important;margin:0 auto 8px 0!important}#dm .dmBody h3.u_1286800580{float:none!important;width:404px!important;position:relative!important;max-width:calc(100% - 0px)!important;min-width:25px!important;text-align:left!important;margin:7px 556px 8px 0!important}#dm .dmBody a.u_1281887350,#dm .dmBody a.u_1355968486{width:280px!important;height:54px!important;max-width:100%!important;padding:0!important;float:none!important;position:relative!important;min-width:0!important;text-align:center!important;top:0!important;left:0!important}#dm .dmBody a.u_1355968486{display:block!important;margin:10px auto 10px 0!important}#dm .dmBody a.u_1281887350{display:block!important;margin:30px auto 10px 0!important}#dm .dmBody div.u_1958314210{padding-left:60px!important;padding-right:60px!important;margin-top:0!important}#dm .dmBody div.u_1292418622{float:none!important;top:0!important;max-width:none!important;left:0!important;width:100%!important;position:relative!important;min-width:0!important;text-align:center!important;height:auto!important;background-attachment:initial!important;background-size:cover!important;background-repeat:no-repeat!important;background-position:0 0!important;padding:150px 0!important}#dm .dmBody h1.u_1281974650,#dm .dmBody h3.u_1603490095{min-width:25px!important;text-align:left!important;float:none!important;position:relative!important;height:auto!important}#dm .dmBody h1.u_1281974650{display:block!important;top:0!important;left:0!important;width:563px!important;max-width:calc(100% - 0px)!important;padding:2px 0!important;margin:0 0 8px!important}#dm .dmBody div.u_1441874533{padding-left:60px!important;padding-right:60px!important;margin-top:0!important;padding-top:0!important}#dm .dmBody .u_1101130562 .photoGalleryViewAll{padding:0 10px!important}#dm .dmBody h3.u_1603490095{display:block!important;top:0!important;left:0!important;width:calc(100% - 0px)!important;max-width:528px!important;padding:2px 0!important;margin:50px 556px 8px 0!important}#dm .dmBody div.u_1340759176{float:none!important;top:0!important;max-width:none!important;left:0!important;width:100%!important;position:relative!important;min-width:0!important;text-align:center!important;height:auto!important;background-attachment:initial!important;background-size:cover!important;background-repeat:no-repeat!important;background-position:50% 0!important;padding:150px 0!important;margin:0 auto 0 0!important}#dm .dmBody div.u_1525247259 .dmforminput input,#dm .dmBody div.u_1961793970 .dmforminput input{font-size:18px!important}#dm .dmBody div.u_1256322449 .caption-container .caption-title{font-weight:700!important;font-size:36px!important}#dm .dmBody div.u_1256322449 .caption-container .caption-text,#dm .dmBody div.u_1256322449 .caption-container .caption-text .rteBlock{font-size:18px!important}#dm .dmBody .u_1256322449 .photoGalleryThumbs .image-container a{padding-top:75px!important}#dm .dmBody .u_1256322449 .photoGalleryThumbs{padding:10px!important}#dm .dmBody .u_1256322449 .photoGalleryViewAll{padding:0 20px!important}.font-size-60{font-size:60px!important}.font-size-72{font-size:72px!important}.font-size-48{font-size:48px!important}
+    .dmDesktopBody [data-anim-desktop]:not([data-anim-desktop='none']) {
+        visibility: hidden;
+    }
+
+    
+</style>
+
+
+
+<style id="fontFallbacks">
+    @font-face {
+  font-family: "Cardo Fallback";
+  src: local('Arial');
+  ascent-override: 103.8482%;
+  descent-override: 38.1494%;
+  size-adjust: 95.354%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Roboto Fallback";
+  src: local('Arial');
+  ascent-override: 92.6709%;
+  descent-override: 24.3871%;
+  size-adjust: 100.1106%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Merriweather Fallback";
+  src: local('Arial');
+  ascent-override: 88.6416%;
+  descent-override: 24.5926%;
+  size-adjust: 111.0088%;
+  line-gap-override: 0%;
+ }
+</style>
+
+
+<!-- End render the required css and JS in the head section -->
+
+
+
+
+
+
+<meta property="og:type" content="website">
+
+  <title>
+    Thomas Massie - U.S. Congressman
+  </title>
+  <meta name="keywords" content="thomas massie, us congressman, congressman, house of representatives, kentucky, massie, thomas"/>
+  <meta name="description" content="Let's keep Kentucky's most conservative congressman on the job!"/>
+  <!-- Google Tag Manager -->  <script>
+
+
+
+
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NBFP8M4');
+  
+  
+  
+
+  
+
+  </script>
+  <!-- End Google Tag Manager -->
+  <meta name="twitter:card" content="summary"/>
+  <meta name="twitter:title" content="Thomas Massie - U.S. Congressman"/>
+  <meta name="twitter:description" content="Let's keep Kentucky's most conservative congressman on the job!"/>
+  <meta name="twitter:image" content="https://lirp.cdn-website.com/cff1c88f/dms3rep/multi/opt/thumbnail_massie-1920w.jpg"/>
+  <meta property="og:description" content="Let's keep Kentucky's most conservative congressman on the job!"/>
+  <meta property="og:title" content="Thomas Massie - U.S. Congressman"/>
+  <meta property="og:image" content="https://lirp.cdn-website.com/cff1c88f/dms3rep/multi/opt/thumbnail_massie-1920w.jpg"/>
+
+
+
+
+<!-- SYS- VVNfRElSRUNUX1BST0RVQ1RJT04= -->
+</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body id="dmRoot" data-page-alias="home"  class="dmRoot dmDesktopBody fix-mobile-scrolling addCanvasBorder dmResellerSite dmLargeBody "
+      style="padding:0;margin:0;"
+      
+    >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ========= Site Content ========= -->
+<div id="dm" class='dmwr'>
+    
+    <div class="dm_wrapper standard-var5 widgetStyle-3 standard">
+         <div dmwrapped="true" id="1901957768" class="dm-home-page" themewaschanged="true"> <div dmtemplateid="StandardLayoutMultiD" class="standardHeaderLayout dm-bfs dm-layout-home hasAnimations hasStickyHeader dmPageBody d-page-1716942098 dmFreeHeader" id="dm-outer-wrapper" data-page-class="1716942098" data-soch="true" data-background-parallax-selector=".dmHomeSection1, .dmSectionParallex"> <div id="dmStyle_outerContainer" class="dmOuter"> <div id="dmStyle_innerContainer" class="dmInner"> <div class="dmLayoutWrapper standard-var dmStandardDesktop"> <div> <div id="iscrollBody"> <div id="site_content"> <div class="dmHeaderContainer fHeader d-header-wrapper"> <div id="hcontainer" class="dmHeader p_hfcontainer u_hcontainer" freeheader="true"> <div dm:templateorder="85" class="dmHeaderResp dmHeaderStack noSwitch" id="1709005236"> <div class="u_1299366573 dmRespRow fullBleedChanged fullBleedMode" style="text-align: center;" id="1299366573"> <div class="dmRespColsWrapper" id="1999612160"> <div class="u_1759652927 dmRespCol small-12 large-2 medium-2" id="1759652927"> <span id="1229988889"></span> 
+ <div class="u_1515562196 imageWidget align-center" data-widget-type="image" id="1515562196" data-element-type="image"><img src="https://lirp.cdn-website.com/cff1c88f/dms3rep/multi/opt/massie_logo_tp-162w.png" id="1357507410" class="" data-dm-image-path="https://irp-cdn.multiscreensite.com/cff1c88f/dms3rep/multi/massie_logo_tp.png" onerror="handleImageLoadError(this)" height="62.953125" width="135.265625"/></div> 
+</div> 
+ <div class="u_1329664038 dmRespCol small-12 large-7 medium-7" id="1329664038"> <span id="1763778294"></span> 
+ <div class="dmRespRow u_1048429937" id="1048429937"> <div class="dmRespColsWrapper" id="1592992547"> <div class="u_1513256084 dmRespCol small-12 medium-12 large-12" id="1513256084"> <nav class="u_1800247147 effect-text-color main-navigation unifiednav dmLinksMenu" role="navigation" layout-main="horizontal_nav_layout_2" layout-sub="submenu_horizontal_1" data-show-vertical-sub-items="HOVER" data-divider="PIPE" id="1800247147" dmle_extension="onelinksmenu" data-element-type="onelinksmenu" navigation_id="" data-nav-structure="HORIZONTAL" wr="true" icon="true" surround="true" adwords="" navigation-id="unifiedNav"> <ul role="menubar" class="unifiednav__container  " data-auto="navigation-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/" class="unifiednav__item  dmNavItemSelected  dmUDNavigationItem_00  " target="" data-target-page-alias="" data-auto="selected-page"> <span class="nav-item-text " data-link-text="
+         HOME
+        " data-auto="page-text-style">HOME<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/#ABOUT" class="unifiednav__item  dmUDNavigationItem_010101874542  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         ABOUT
+        " data-auto="page-text-style">ABOUT<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/#ISSUES" class="unifiednav__item  dmUDNavigationItem_010101454893  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         ISSUES
+        " data-auto="page-text-style">ISSUES<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/#VOLUNTEER" class="unifiednav__item  dmUDNavigationItem_010101899639  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         VOLUNTEER
+        " data-auto="page-text-style">VOLUNTEER<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="https://secure.winred.com/thomas-massie-for-congress/storefront" class="unifiednav__item  dmUDNavigationItem_010101777961  " target="_blank" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         VISIT STORE
+        " data-auto="page-text-style">VISIT STORE<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</nav> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1257416696 dmRespCol small-12 large-1 medium-1" id="1257416696"> <span id="1041564319"></span> 
+ <div class="u_1410375487 align-center text-align-center dmSocialHub" id="1410375487" dmle_extension="social_hub" data-element-type="social_hub" wr="true" networks="" icon="true" surround="true" adwords=""> <div class="socialHubWrapper"> <div class="socialHubInnerDiv "> <a href="https://facebook.com/ThomasMassieforCongress" target="_blank" dm_dont_rewrite_url="true" aria-label="facebook" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event(&apos;socialLink&apos;, &apos;click&apos;, &apos;Facebook&apos;)"> <span class="dmSocialFacebook dm-social-icons-facebook oneIcon socialHubIcon style9" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+ <a href="https://twitter.com/massieforky" target="_blank" dm_dont_rewrite_url="true" aria-label="twitter" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event(&apos;socialLink&apos;, &apos;click&apos;, &apos;Twitter&apos;)"> <span class="dmSocialTwitter dm-social-icons-twitter oneIcon socialHubIcon style9" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1340268182 dmRespCol small-12 large-2 medium-2" id="1340268182"> <a data-display-type="block" class="u_1623301977 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="https://secure.thomasmassie.com/donate" id="1623301977" data-element-type="dButtonLinkId" target="_blank"> <span class="iconBg" id="1522284967"> <span class="icon hasFontIcon icon-star" id="1001989228"></span> 
+</span> 
+ <span class="text" id="1710396451">DONATE</span> 
+</a> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="stickyHeaderSpacer" id="stickyHeaderSpacer" data-new="true"></div> 
+ <div class="dmRespRow dmRespRowStable dmRespRowNoPadding dmPageTitleRow "> <div class="dmRespColsWrapper"> <div class="large-12 dmRespCol"> <div id="innerBar" class="innerBar lineInnerBar dmDisplay_None"> <div class="titleLine display_None"><hr/></div> 
+<!-- Page title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts --> <div id="pageTitleText"></div> 
+ <div class="titleLine display_None"><hr/></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div dmwrapped="true" id="dmFirstContainer" class="dmBody u_dmStyle_template_home dm-home-page" themewaschanged="true"> <div id="allWrapper" class="allWrapper"><!-- navigation placeholders --> <div id="dm_content" class="dmContent"> <div dm:templateorder="170" class="dmHomeRespTmpl mainBorder dmRespRowsWrapper dmFullRowRespTmpl" id="1716942098"> <div class="u_1292418622 dmRespRow desktop-no-padding hasBackgroundOverlay dmSectionNoParallax fullBleedChanged fullBleedMode hide-for-large hide-for-medium" style="text-align: center;" id="1292418622"> <div class="dmRespColsWrapper" id="1933495977"> <div class="dmRespCol small-12 medium-12 large-12 u_1958314210" id="1958314210"> <h1 class="u_1836112545 dmNewParagraph" id="1836112545" data-element-type="paragraph" style="transition: none 0s ease 0s; display: block;"><div style="text-align: center;"><span style="color: rgb(255, 255, 255);" class="m-specific lh-1 m-font-size-30">Conservative.&nbsp;</span></div><div style="text-align: center;"><span style="color: rgb(255, 255, 255);" class="m-specific lh-1 m-font-size-30">Active.&nbsp;</span></div><div style="text-align: center;"><span style="color: rgb(255, 255, 255);" class="m-specific lh-1 m-font-size-30">In your corner.</span></div></h1> <h3 class="u_1286800580 dmNewParagraph" id="1286800580" style="transition: opacity 1s ease-in-out; display: block;" data-element-type="paragraph"><div style="text-align: center;"><font color="#ffffff" style="" class="m-specific lh-1 m-font-size-24"></font></div><span style="font-weight: 700;" class="m-specific lh-1 m-font-size-48"><div style="text-align: center;"><font color="#ffffff" style="" class="m-specific lh-1">Thomas Massie</font></div><div style="text-align: center;"></div></span><div style="text-align: center;"><font color="#ffffff"><span style="font-weight: 700;" class="m-specific m-font-size-30 lh-1">for U.S. Congress&nbsp;</span></font></div></h3> <a data-display-type="block" class="u_1281887350 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="/#VOLUNTEER" id="1281887350" data-element-type="dButtonLinkId"> <span class="iconBg" id="1218181153"> <span class="icon hasFontIcon icon-star" id="1704523663"></span> 
+</span> 
+ <span class="text" id="1488752357">GET UPDATES</span> 
+</a> 
+ <a data-display-type="block" class="u_1355968486 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="https://secure.thomasmassie.com/donate" id="1355968486" data-element-type="dButtonLinkId"> <span class="iconBg" id="1708064708"> <span class="icon hasFontIcon icon-star" id="1653089929"></span> 
+</span> 
+ <span class="text" id="1745798892">DONATE TODAY</span> 
+</a> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1340759176 dmRespRow desktop-no-padding hasBackgroundOverlay dmSectionNoParallax fullBleedChanged fullBleedMode hide-for-small" style="text-align: center;" id="1340759176"> <div class="dmRespColsWrapper" id="1385763953"> <div class="dmRespCol small-12 medium-12 large-12 u_1441874533" id="1441874533"> <h1 class="u_1281974650 dmNewParagraph" id="1281974650" data-element-type="paragraph"><div style="text-align: left;"><font style="color: rgb(255, 255, 255);"><span style="font-weight: 700;" class="m-font-size-36 lh-1 font-size-60"><b><font style="">Conservative.&nbsp;<br/></font></b></span></font></div><div style="text-align: left;"><font style="color: rgb(255, 255, 255);"><span style="font-weight: 700;" class="m-font-size-36 lh-1 font-size-60"><b><font style="">Active.&nbsp;<br/></font></b></span></font></div><div style="text-align: left;"><font style="color: rgb(255, 255, 255);"><span style="font-weight: 700;" class="m-font-size-36 lh-1 font-size-60"><b><font style="">In your corner.</font></b></span></font><br/></div></h1> <h3 class="u_1603490095 dmNewParagraph" id="1603490095" style="transition: none 0s ease 0s ; display: block;" data-element-type="paragraph"><div style="text-align: left;"><font style="color: rgb(255, 255, 255);"><font style="color: rgb(255, 255, 255);"><b><span style="font-weight: 700;"><font class="lh-1 m-font-size-36 font-size-72">Thomas Massie</font></span></b></font></font></div><div style="text-align: left;"><span style="color: rgb(255, 255, 255); text-align: center; background-color: rgba(0, 0, 0, 0);" class="m-font-size-36 lh-1 font-size-48">for U.S. Congress</span></div></h3> <a data-display-type="block" class="u_1647166163 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="/#VOLUNTEER" id="1647166163" data-element-type="dButtonLinkId"> <span class="iconBg" id="1071496403"> <span class="icon hasFontIcon icon-star" id="1202895327"></span> 
+</span> 
+ <span class="text" id="1113134085">GET UPDATES</span> 
+</a> 
+ <a data-display-type="block" class="u_1457166901 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="https://secure.thomasmassie.com/donate" id="1457166901" data-element-type="dButtonLinkId" target="_blank"> <span class="iconBg" id="1347841893"> <span class="icon hasFontIcon icon-star" id="1453607505"></span> 
+</span> 
+ <span class="text" id="1932624436">DONATE TODAY</span> 
+</a> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1465400721 dmRespRow dmSectionNoParallax" style="text-align: center;" id="1465400721"> <div class="dmRespColsWrapper" id="1029654108"> <div class="u_1772005016 dmRespCol small-12 medium-12 large-12 content-removed" id="1772005016"> <div data-element-type="html" class="dmCustomHtml u_1610847230" id="1610847230"> <iframe src="https://stoneridgegroup.com/ticker/" height="50" width="100%" scrolling="no"></iframe> 
+</div> 
+ <div class="u_1077880057 imageWidget align-center" data-widget-type="image" id="1077880057" data-element-type="image"> <a id="1605388713" class=""><img src="https://lirp.cdn-website.com/cff1c88f/dms3rep/multi/opt/massie+091-600w.jpg" id="1717467466" class="" data-dm-image-path="https://irp-cdn.multiscreensite.com/cff1c88f/dms3rep/multi/massie+091.jpg" onerror="handleImageLoadError(this)" height="332.03125" width="500.0"/></a> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_ABOUT" style="text-align: center;" id="ABOUT" data-anchor="ABOUT"> <div class="dmRespColsWrapper" id="1962110711"> <div class="dmRespCol small-12 medium-12 large-12" id="1718005127"> <h2 class="u_1219625860 dmNewParagraph" id="1219625860" style="transition: opacity 1s ease-in-out;" data-element-type="paragraph"><div style="text-align: center;">Let&rsquo;s Keep Kentucky&rsquo;s Most Conservative Congressman on the Job!</div></h2></div> 
+</div> 
+</div> 
+ <div class="dmRespRow" id="1287230533"> <div class="dmRespColsWrapper" id="1810605745"> <div class="dmRespCol large-12 medium-12 small-12" id="1526271343"> <div class="u_1101130562 dmPhotoGallery newPhotoGallery dmPhotoGalleryResp" galleryoptionsparams="{thumbnailsPerRow: 3, rowsToShow: 3, imageScaleMethod: true}" data-desktop-layout="square" data-desktop-columns="1" data-element-type="dPhotoGalleryId" data-desktop-text-layout="bottom" id="1101130562" data-desktop-caption-alignment="center_center" data-rows-to-show="100" data-mobile-columns="1"> <ul class="dmPhotoGalleryHolder clearfix gallery shadowEffectToChildren gallery4inArow" id="1772348110"></ul> 
+ <div class="photoGalleryViewAll link" isall="true" data-viewall="View more" data-viewless="View less" style="display:none;" id="1955206654"></div> 
+ <li index="1" class="photoGalleryThumbs" id="1689549947"> <div class="image-container" id="1737495843"> <a data-dm-multisize-attr="href" data-image-url="https://irp-cdn.multiscreensite.com/cff1c88f/dms3rep/multi/christmaspic3.jpg" id="1442272933" class="u_1442272933"><img data-src="https://lirp.cdn-website.com/cff1c88f/dms3rep/multi/opt/christmaspic3-1920w.jpg" irh="2" irw="3" id="1346316420" class="" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container  u_1263148334" id="1263148334"> <span class="caption-inner" id="1433034921"> <h3 class="caption-title u_1978438994" id="1978438994">Birthday Sparks</h3> 
+ <div class="caption-text u_1297263514" id="1297263514"><p class="rteBlock">Thomas and his wife Rhonda have 4 children and live in Lewis County.</p></div> <a class="caption-button dmWidget   clearfix u_1677601659" href="" id="1677601659"> <span class="iconBg" id="1201241206"> <span class="icon hasFontIcon icon-star" id="1314133875"></span> 
+</span> 
+ <span class="text" id="1447688535">Button</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_ISSUES" style="text-align: center;" id="ISSUES" data-anchor="ISSUES"> <div class="dmRespColsWrapper" id="1373191290"> <div class="dmRespCol small-12 medium-12 large-12" id="1779600918"> <h2 class="dmNewParagraph" id="1627803297" data-element-type="paragraph"><div style="text-align: center;"><font style="">Thomas Massie On The Issues</font><br/></div></h2></div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1242088159" style="text-align: center;" id="1242088159"> <div class="dmRespColsWrapper" id="1382268524"> <div class="dmRespCol small-12 medium-6 large-6 u_1187584622" id="1187584622"> <div class="u_1970402557 graphicWidget" data-widget-type="graphic" id="1970402557" data-anim-desktop="fadeInUp" data-element-type="graphic"> <a href="/" id="1262033582"> <svg version="1.1" id="1524222443" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve" class="svg u_1524222443" data-icon-custom="true" data-icon-name="maternity.svg"> <g id="1909539218"> <g id="1935610496"> <path d="M396.439,494.006l-53.706-53.713c-1.876-1.875-4.419-2.929-7.071-2.929c-0.005,0-0.01,0-0.014,0l-28.815,0.041
+			c-0.063,0-0.126,0-0.189,0c-15.906,0-31.84-2.925-46.753-8.506l17.291-11.595c7.078-4.746,11.837-11.973,13.402-20.35
+			c1.564-8.378-0.266-16.836-5.154-23.818c-6.078-8.68-15.866-13.392-25.832-13.392c-0.162,0-0.324,0.001-0.487,0.004l39.829-39.829
+			c12.083-12.084,12.083-31.746,0-43.83c-2.94-2.94-6.367-5.215-10.099-6.753c2.766-4.702,4.245-10.073,4.245-15.672
+			c0-8.278-3.224-16.062-9.077-21.916c-5.854-5.854-13.637-9.078-21.916-9.078c-5.599,0-10.969,1.48-15.672,4.246
+			c-1.538-3.732-3.813-7.159-6.753-10.1c-5.854-5.854-13.637-9.078-21.916-9.078s-16.062,3.224-21.916,9.078l-14.301,14.301
+			c-1.521-3.351-3.642-6.439-6.322-9.12c-5.854-5.854-13.637-9.077-21.916-9.077c-8.279,0-16.062,3.224-21.916,9.077l-6.339,6.339
+			L99.271,202.71c-7.486-7.486-7.486-19.667,0-27.153c7.013-7.013,18.145-7.455,25.678-1.33l24.958,24.959
+			c1.953,1.953,4.512,2.929,7.071,2.929s5.119-0.977,7.071-2.929c3.905-3.905,3.905-10.237,0-14.142l-43.056-43.056
+			c-7.486-7.487-7.486-19.668,0-27.154c7.486-7.487,19.668-7.486,27.154,0l75.437,75.582c1.953,1.953,4.512,2.929,7.071,2.929
+			c2.559,0,5.119-0.977,7.071-2.929c3.905-3.905,3.905-10.237,0-14.142l-57.339-57.485c-6.125-7.534-5.682-18.665,1.33-25.677
+			c7.487-7.486,19.669-7.486,27.154,0l21.008,21.009c3.906,3.906,10.238,3.906,14.142,0c3.905-3.905,3.906-10.237,0-14.142
+			L223.013,78.97c-15.285-15.284-40.154-15.283-55.438,0c-5.051,5.051-8.421,11.151-10.134,17.604
+			c-6.621-4.778-14.545-7.363-22.871-7.363c-10.471,0-20.315,4.078-27.719,11.481c-13.758,13.758-15.124,35.279-4.114,50.589
+			c-6.454,1.712-12.556,5.083-17.608,10.135c-14.424,14.425-15.228,37.382-2.427,52.767c-6.311,1.743-12.27,5.08-17.221,10.031
+			c-15.283,15.284-15.283,40.153,0,55.438l4.463,4.463c-16.875,20.262-26.046,45.543-26.008,72.24l0.024,16.564L2.929,413.953
+			c-3.905,3.905-3.905,10.237,0,14.143c1.953,1.952,4.512,2.929,7.071,2.929s5.119-0.977,7.071-2.929l43.966-43.967
+			c1.879-1.879,2.933-4.429,2.929-7.086l-0.03-20.715c-0.036-24.854,9.625-48.223,27.2-65.798l49.626-49.627
+			c0,0,0-0.001,0.001-0.001l4.76-4.76c2.076-2.077,4.836-3.22,7.773-3.22c2.937,0,5.697,1.143,7.773,3.22
+			c2.077,2.076,3.22,4.836,3.22,7.773c0,2.521-0.848,4.91-2.402,6.85l-13.219,13.219c-3.905,3.905-3.905,10.237,0,14.143
+			c0.009,0.009,0.019,0.016,0.027,0.025c0.009,0.009,0.016,0.018,0.025,0.027c1.953,1.952,4.512,2.929,7.071,2.929
+			c2.559,0,5.119-0.977,7.071-2.929l47.114-47.219c2.076-2.077,4.836-3.22,7.773-3.22c2.937,0,5.697,1.144,7.773,3.22
+			c3.99,3.99,4.261,10.308,0.821,14.62l-47.988,48.093c-3.905,3.905-3.905,10.237,0,14.143c1.953,1.952,4.512,2.929,7.071,2.929
+			c2.559,0,5.119-0.977,7.071-2.929l61.819-61.924c2.076-2.077,4.836-3.22,7.773-3.22s5.697,1.144,7.773,3.22
+			c4.286,4.286,4.286,11.26,0,15.546l-61.923,61.818c-3.905,3.905-3.906,10.237,0,14.143c3.906,3.904,10.238,3.905,14.142,0
+			l48.094-47.988c4.311-3.441,10.629-3.17,14.619,0.822c4.286,4.285,4.286,11.26,0,15.545l-67.515,67.517
+			c-4.756,4.755-5.196,12.047-1.045,17.339c4.15,5.292,11.338,6.603,17.09,3.116l20.397-12.365
+			c5.142-3.119,11.872-1.702,15.321,3.225c1.781,2.543,2.447,5.623,1.877,8.675c-0.57,3.05-2.303,5.682-4.88,7.41l-47.189,31.644
+			c-15.355,10.297-33.236,15.736-51.722,15.736c-0.043,0-0.088,0-0.131,0l-32.051-0.046c-0.005,0-0.009,0-0.014,0
+			c-2.652,0-5.196,1.054-7.071,2.929l-43.967,43.967c-3.905,3.905-3.905,10.237,0,14.143c1.953,1.952,4.512,2.929,7.071,2.929
+			c2.559,0,5.119-0.977,7.071-2.929l41.032-41.032l27.901,0.04c0.053,0,0.104,0,0.158,0c22.465,0,44.201-6.612,62.861-19.125
+			l10.105-6.776c20.649,9.964,43.623,15.233,66.546,15.233c0.071,0,0.146,0,0.218,0l24.664-0.035l50.776,50.776
+			c1.953,1.952,4.512,2.929,7.071,2.929s5.119-0.977,7.071-2.929C400.344,504.244,400.344,497.912,396.439,494.006z
+			 M104.355,249.027c-0.001,0.001-0.001,0.001-0.002,0.002l-20.606,20.606l-4.123-4.123c-7.486-7.487-7.486-19.668,0-27.154
+			c7.013-7.013,18.145-7.455,25.678-1.33l5.526,5.526L104.355,249.027z" id="1265389494"></path> 
+</g> 
+</g> 
+ <g id="1031776471"> <g id="1300037324"> <path d="M509.07,381.382c-1.86-1.87-4.44-2.93-7.07-2.93s-5.21,1.06-7.07,2.93c-1.86,1.86-2.93,4.43-2.93,7.07
+			c0,2.63,1.07,5.21,2.93,7.069c1.86,1.86,4.44,2.931,7.07,2.931s5.21-1.07,7.07-2.931c1.86-1.87,2.93-4.439,2.93-7.069
+			C512,385.811,510.93,383.242,509.07,381.382z" id="1654430893"></path> 
+</g> 
+</g> 
+ <g id="1621029651"> <g id="1132199509"> <path d="M482.18,354.488l-23.886-23.886l0.058-40.432c0.043-30.548-8.926-60.105-25.94-85.477l-44.015-65.638
+			c-6.012-8.966-15.167-14.995-25.778-16.977c-10.612-1.982-21.325,0.337-30.167,6.529c-14.488,10.145-20.249,28.449-15.126,44.675
+			l-26.135-26.136c-3.905-3.904-10.237-3.904-14.143,0c-3.905,3.905-3.905,10.237,0,14.143l56.144,56.144
+			c5.194,5.194,13.161,5.675,18.941,1.14c5.78-4.534,7.212-12.385,3.403-18.668l-17.2-28.372c-5.4-8.908-2.946-20.567,5.587-26.542
+			c4.404-3.083,9.743-4.238,15.024-3.251c5.285,0.987,9.844,3.99,12.838,8.455l44.015,65.638
+			c14.791,22.058,22.589,47.753,22.551,74.309l-0.063,44.582c-0.004,2.657,1.05,5.207,2.929,7.086l26.821,26.821
+			c1.953,1.952,4.512,2.929,7.071,2.929s5.119-0.977,7.071-2.929C486.085,364.726,486.085,358.394,482.18,354.488z" id="1182979403"></path> 
+</g> 
+</g> 
+ <g id="1004477527"> <g id="1368170360"> <path d="M267.68,123.642c-1.85-1.86-4.43-2.93-7.06-2.93c-2.64,0-5.21,1.07-7.08,2.93c-1.86,1.86-2.93,4.44-2.93,7.07
+			c0,2.64,1.07,5.21,2.93,7.07c1.87,1.86,4.44,2.93,7.08,2.93c2.63,0,5.2-1.07,7.06-2.93c1.87-1.86,2.94-4.44,2.94-7.07
+			S269.55,125.502,267.68,123.642z" id="1547831364"></path> 
+</g> 
+</g> 
+ <g id="1957373586"> <g id="1182571837"> <path d="M360.485,278.824c3.905-3.905,3.905-10.237,0-14.143c-3.905-3.904-10.237-3.904-14.143,0l-4.362,4.362
+			c-18.674,18.675-18.674,49.061,0,67.735c1.953,1.952,4.512,2.929,7.071,2.929c2.559,0,5.119-0.977,7.071-2.929
+			c3.905-3.905,3.906-10.237,0-14.143c-10.876-10.876-10.876-28.574,0-39.45L360.485,278.824z" id="1154322354"></path> 
+</g> 
+</g> 
+ <g id="1470118204"> <g id="1266655256"> <path d="M477.299,54.002c-6.357,0-12.571,1.804-17.944,5.103c-5.373-3.299-11.587-5.103-17.944-5.103
+			c-19.134,0-34.701,15.852-34.701,35.335c0,11.042,7.939,24.303,24.271,40.543c10.996,10.934,21.843,19.256,22.3,19.605
+			c1.792,1.371,3.933,2.056,6.074,2.056s4.281-0.685,6.074-2.056c0.457-0.349,11.304-8.672,22.3-19.605
+			C504.061,113.641,512,100.379,512,89.337C512,69.853,496.433,54.002,477.299,54.002z M459.352,128.748
+			c-16.712-13.88-32.642-31.59-32.642-39.411c0-8.456,6.595-15.335,14.701-15.335c4.032,0,7.794,1.671,10.594,4.707
+			c1.894,2.052,4.558,3.219,7.35,3.219s5.457-1.167,7.35-3.219c2.8-3.035,6.562-4.707,10.594-4.707
+			c8.106,0,14.701,6.879,14.701,15.335C492,97.138,476.065,114.853,459.352,128.748z" id="1158546029"></path> 
+</g> 
+</g> 
+ <g id="1003215462"> <g id="1370907589"> <path d="M70.589,0.003c-6.357,0-12.571,1.804-17.944,5.103c-5.373-3.299-11.587-5.103-17.944-5.103
+			C15.567,0.002,0,15.853,0,35.337C0,46.379,7.939,59.64,24.271,75.88c10.996,10.934,21.844,19.257,22.3,19.606
+			c1.792,1.371,3.933,2.056,6.074,2.056s4.281-0.685,6.074-2.056c0.457-0.349,11.304-8.672,22.3-19.605
+			c16.332-16.24,24.271-29.501,24.271-40.543C105.29,15.854,89.723,0.003,70.589,0.003z M52.642,74.748
+			C35.929,60.868,20,43.159,20,35.337c0-8.456,6.595-15.335,14.701-15.335c4.032,0,7.794,1.671,10.594,4.707
+			c1.894,2.052,4.558,3.219,7.35,3.219s5.457-1.167,7.35-3.219c2.8-3.035,6.562-4.707,10.594-4.707
+			c8.106,0,14.701,6.879,14.701,15.335C85.29,43.137,69.355,60.853,52.642,74.748z" id="1201893145"></path> 
+</g> 
+</g> 
+ <g id="1061340995"></g> 
+ <g id="1411974719"></g> 
+ <g id="1435525271"></g> 
+ <g id="1926924630"></g> 
+ <g id="1846470545"></g> 
+ <g id="1802896578"></g> 
+ <g id="1808148148"></g> 
+ <g id="1690248885"></g> 
+ <g id="1465097389"></g> 
+ <g id="1931626970"></g> 
+ <g id="1009114883"></g> 
+ <g id="1707181746"></g> 
+ <g id="1326903426"></g> 
+ <g id="1689741280"></g> 
+ <g id="1047495895"></g> 
+</svg> 
+</a> 
+</div> 
+ <h3 class="u_1547264770 dmNewParagraph" data-element-type="paragraph" id="1547264770" style="text-align: center; transition: opacity 1s ease-in-out 0s;"><b>Pro-Life</b></h3> <div class="dmNewParagraph" data-element-type="paragraph" id="1726848889" style="transition: opacity 1s ease-in-out 0s;">I believe that life begins at conception. I will vote against government funding of abortion services and will vote to defund Planned Parenthood. I believe no public money should ever be spent on abortion procedures, abortion pills, or embryonic stem cell research.</div></div> 
+ <div class="dmRespCol small-12 medium-6 large-6 u_1337372261" id="1337372261"> <div class="u_1901122261 graphicWidget" data-widget-type="graphic" id="1901122261" data-anim-desktop="fadeInUp" data-element-type="graphic"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="1370780550" x="0px" y="0px" viewbox="0 0 502.792 502.792" style="enable-background:new 0 0 502.792 502.792;" xml:space="preserve" width="512" height="512" class="svg u_1370780550" data-icon-custom="true" data-icon-name="gun.svg"> <g id="1135952148"> <g id="1879233855"> <path d="M58.571,314.116c-5.057,18.435-10.114,36.87-15.132,55.316c-0.817,3.006-0.188,6.222,1.704,8.697    c1.893,2.475,4.83,3.927,7.945,3.927h45.595c4.373,0,8.238-2.841,9.544-7.015l51.754-165.459c0.95-3.037,0.398-6.344-1.486-8.908    c-1.884-2.563-4.876-4.078-8.058-4.078h-64.42c-3.294,0-6.376,1.622-8.241,4.336s-2.274,6.173-1.095,9.248    c3.91,10.188,4.172,22.241,0.757,34.859C71.203,268.074,64.781,291.481,58.571,314.116z M96.743,250.266    c3.144-11.611,3.875-23.031,2.212-33.668h37.877L91.333,362.057H66.178c3.881-14.22,7.78-28.434,11.681-42.649    C84.073,296.756,90.499,273.333,96.743,250.266z" id="1232129091"></path> 
+ <path d="M502.758,164.526l-4.5-54.611c-1.37-16.635-14.253-29.179-29.966-29.179H113.768c-5.522,0-10,4.477-10,10s4.478,10,10,10    h354.524c6.002,0,9.591,5.444,10.034,10.821l3.608,43.79H23.768v-44.611c0-5.514,4.486-10,10-10c5.522,0,10-4.477,10-10    s-4.478-10-10-10c-16.542,0-30,13.458-30,30v72.114c0,20.575,14.637,28.188,24.321,33.226    c10.584,5.505,13.778,7.167,10.744,18.494c-6.691,24.532-12.49,45.739-18.29,66.946c-5.801,21.211-11.602,42.423-18.306,67.003    c-5.326,19.878-0.146,32.26,5.139,39.146c5.038,6.565,15.009,14.391,33.9,14.391h71.75c22.977,0,28.129-17.451,32.675-32.847    c0.553-1.869,1.126-3.811,1.738-5.788l26.473-84.457h7.865c5.522,0,10-4.477,10-10s-4.478-10-10-10h-15.211    c-4.371,0-8.235,2.838-9.542,7.009l-28.678,91.495c-0.65,2.095-1.25,4.125-1.826,6.077c-4.904,16.608-6.291,18.511-13.494,18.511    h-71.75c-5.928,0-13.869-1.139-18.033-6.566c-3.598-4.688-4.197-12.429-1.699-21.752c6.69-24.532,12.49-45.739,18.29-66.946    c5.801-21.211,11.602-42.423,18.306-67.003c7.202-26.88-10.34-36.005-20.821-41.457c-10.038-5.221-13.551-7.739-13.551-15.482    v-7.502h435.235v9.624c0,6.411-5.216,11.626-11.626,11.626h-130.84c-5.522,0-10,4.477-10,10v42.81    c0,16.298-13.259,29.557-29.557,29.557h-15.203c-5.522,0-10,4.477-10,10s4.478,10,10,10h15.203    c27.325,0,49.557-22.231,49.557-49.557v-32.81h120.84c17.438,0,31.626-14.188,31.626-31.626v-9.624h13.789    c2.795,0,5.462-1.169,7.355-3.226C502.041,170.066,502.988,167.312,502.758,164.526z" id="1075294588"></path> 
+ <path d="M229.17,258.966c0.013,0,0.026-0.002,0.039-0.002h47.328c5.522,0,10-4.477,10-10v-42.367c0-5.523-4.478-10-10-10h-55.951    c-0.025,0-0.05,0-0.075,0h-28.686c-4.638,0-8.667,3.189-9.732,7.703l-10.001,42.367c-0.702,2.975-0.006,6.107,1.891,8.503    c1.897,2.396,4.785,3.794,7.842,3.794h47.302C229.141,258.964,229.155,258.966,229.17,258.966z M266.538,238.964h-29.191    l-4.565-22.367h33.757V238.964z M199.739,216.597h12.63l4.565,22.367h-22.475L199.739,216.597z" id="1077347017"></path> 
+ <path d="M82.303,146.261c1.575,0.909,3.294,1.342,4.99,1.342c3.456,0,6.817-1.794,8.67-5.002l11.039-19.12    c2.762-4.783,1.123-10.899-3.66-13.66c-4.784-2.762-10.898-1.122-13.66,3.66l-11.039,19.12    C75.881,137.384,77.52,143.5,82.303,146.261z" id="1392934680"></path> 
+ <path d="M127.295,147.603c3.456,0,6.818-1.794,8.67-5.002l11.038-19.12c2.762-4.783,1.123-10.899-3.66-13.661    c-4.784-2.762-10.899-1.122-13.66,3.661l-11.038,19.12c-2.762,4.783-1.123,10.899,3.66,13.661    C123.88,147.171,125.599,147.603,127.295,147.603z" id="1448170501"></path> 
+ <path d="M167.296,147.603c3.456,0,6.818-1.794,8.67-5.002l11.038-19.12c2.762-4.783,1.123-10.899-3.66-13.661    c-4.785-2.762-10.899-1.122-13.66,3.661l-11.038,19.12c-2.762,4.783-1.123,10.899,3.66,13.661    C163.881,147.171,165.6,147.603,167.296,147.603z" id="1947352809"></path> 
+ <path d="M207.297,147.603c3.456,0,6.817-1.794,8.67-5.002l11.039-19.12c2.762-4.783,1.123-10.899-3.66-13.66    c-4.784-2.762-10.898-1.122-13.66,3.66l-11.039,19.12c-2.762,4.783-1.123,10.899,3.66,13.66    C203.882,147.17,205.601,147.603,207.297,147.603z" id="1293993217"></path> 
+ <path d="M73.772,100.736c5.522,0,10-4.477,10-10s-4.478-10-10-10h-0.008c-5.522,0-9.996,4.477-9.996,10    S68.249,100.736,73.772,100.736z" id="1856504616"></path> 
+ <path d="M221.781,278.964h-0.007c-5.522,0-9.996,4.477-9.996,10s4.48,10,10.003,10s10-4.477,10-10    S227.303,278.964,221.781,278.964z" id="1814491143"></path> 
+</g> 
+</g> 
+</svg> 
+</div> 
+ <h3 class="u_1595738859 dmNewParagraph" data-element-type="paragraph" id="1595738859" style="text-align: center; transition: opacity 1s ease-in-out 0s;"><b>Defend Your Second Amendment Rights</b></h3> <div class="dmNewParagraph" data-element-type="paragraph" id="1930159806" style="transition: opacity 1s ease-in-out 0s;">Weapons bans and gun-free zones are unconstitutional. In speeches, legislation, and through my votes in Congress I continuously make the point that gun-free zones make law-abiding citizens less safe.</div></div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1555306550" style="text-align: center;" id="1555306550"> <div class="dmRespColsWrapper" id="1826495375"> <div class="dmRespCol small-12 medium-6 large-6 u_1389873463" id="1389873463"> <div class="u_1150697363 graphicWidget" data-widget-type="graphic" id="1150697363" data-anim-desktop="fadeInUp" data-element-type="graphic"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="1725210714" x="0px" y="0px" viewbox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve" width="512" height="512" class="svg u_1725210714" data-icon-custom="true" data-icon-name="government.svg"> <g id="XMLID_1000_"> <g id="XMLID_144_"> <path id="XMLID_149_" d="M176,189.5c-5.523,0-10,4.478-10,10v20.667c0,5.522,4.477,10,10,10s10-4.478,10-10V199.5    C186,193.978,181.523,189.5,176,189.5z"></path> 
+ <path id="XMLID_666_" d="M216,189.5c-5.523,0-10,4.478-10,10v20.667c0,5.522,4.477,10,10,10s10-4.478,10-10V199.5    C226,193.978,221.523,189.5,216,189.5z"></path> 
+ <path id="XMLID_1082_" d="M256,189.5c-5.523,0-10,4.478-10,10v20.667c0,5.522,4.477,10,10,10s10-4.478,10-10V199.5    C266,193.978,261.523,189.5,256,189.5z"></path> 
+ <path id="XMLID_1380_" d="M296,189.5c-5.523,0-10,4.478-10,10v20.667c0,5.522,4.477,10,10,10s10-4.478,10-10V199.5    C306,193.978,301.523,189.5,296,189.5z"></path> 
+ <path id="XMLID_1437_" d="M336,189.5c-5.523,0-10,4.478-10,10v20.667c0,5.522,4.477,10,10,10s10-4.478,10-10V199.5    C346,193.978,341.523,189.5,336,189.5z"></path> 
+ <path id="XMLID_1438_" d="M116,452.166c-2.63,0-5.21,1.07-7.07,2.931c-1.86,1.859-2.93,4.439-2.93,7.069    c0,2.631,1.07,5.21,2.93,7.07c1.86,1.86,4.44,2.93,7.07,2.93c2.63,0,5.21-1.069,7.07-2.93s2.93-4.439,2.93-7.07    c0-2.63-1.07-5.21-2.93-7.069C121.21,453.236,118.63,452.166,116,452.166z"></path> 
+ <path id="XMLID_1439_" d="M116,369.5c-5.523,0-10,4.478-10,10v43.316c0,5.522,4.477,10,10,10s10-4.478,10-10V379.5    C126,373.978,121.523,369.5,116,369.5z"></path> 
+ <path id="XMLID_1455_" d="M172,369.5c-5.523,0-10,4.478-10,10v82.667c0,5.522,4.477,10,10,10s10-4.478,10-10V379.5    C182,373.978,177.523,369.5,172,369.5z"></path> 
+ <path id="XMLID_1456_" d="M228,369.5c-5.523,0-10,4.478-10,10v82.667c0,5.522,4.477,10,10,10s10-4.478,10-10V379.5    C238,373.978,233.523,369.5,228,369.5z"></path> 
+ <path id="XMLID_1471_" d="M284,369.5c-5.523,0-10,4.478-10,10v82.667c0,5.522,4.477,10,10,10s10-4.478,10-10V379.5    C294,373.978,289.523,369.5,284,369.5z"></path> 
+ <path id="XMLID_1480_" d="M340,369.5c-5.523,0-10,4.478-10,10v82.667c0,5.522,4.477,10,10,10s10-4.478,10-10V379.5    C350,373.978,345.523,369.5,340,369.5z"></path> 
+ <path id="XMLID_1584_" d="M396,369.496c-2.63,0-5.21,1.07-7.07,2.931c-1.86,1.87-2.93,4.439-2.93,7.069    c0,2.641,1.07,5.21,2.93,7.07c1.86,1.87,4.44,2.93,7.07,2.93c2.63,0,5.21-1.06,7.07-2.93c1.86-1.86,2.93-4.43,2.93-7.07    c0-2.63-1.07-5.199-2.93-7.069C401.21,370.566,398.63,369.496,396,369.496z"></path> 
+ <path id="XMLID_1585_" d="M396,409.5c-5.523,0-10,4.478-10,10v42.667c0,5.522,4.477,10,10,10s10-4.478,10-10V419.5    C406,413.978,401.523,409.5,396,409.5z"></path> 
+ <path id="XMLID_1598_" d="M156,273c-5.523,0-10,4.478-10,10v20.667c0,5.522,4.477,10,10,10s10-4.478,10-10V283    C166,277.478,161.523,273,156,273z"></path> 
+ <path id="XMLID_1599_" d="M196,273c-5.523,0-10,4.478-10,10v20.667c0,5.522,4.477,10,10,10s10-4.478,10-10V283    C206,277.478,201.523,273,196,273z"></path> 
+ <path id="XMLID_1600_" d="M236,273c-5.523,0-10,4.478-10,10v20.667c0,5.522,4.477,10,10,10s10-4.478,10-10V283    C246,277.478,241.523,273,236,273z"></path> 
+ <path id="XMLID_1601_" d="M276,273c-5.523,0-10,4.478-10,10v20.667c0,5.522,4.477,10,10,10s10-4.478,10-10V283    C286,277.478,281.523,273,276,273z"></path> 
+ <path id="XMLID_1602_" d="M316,273c-5.523,0-10,4.478-10,10v20.667c0,5.522,4.477,10,10,10s10-4.478,10-10V283    C326,277.478,321.523,273,316,273z"></path> 
+ <path id="XMLID_1604_" d="M356,273c-5.523,0-10,4.478-10,10v20.667c0,5.522,4.477,10,10,10s10-4.478,10-10V283    C366,277.478,361.523,273,356,273z"></path> 
+ <path id="XMLID_1608_" d="M502,355.833h-40v-22c0-5.522-4.477-10-10-10h-46v-68h7c5.523,0,10-4.478,10-10s-4.477-10-10-10h-28    v-52.051c5.053-0.502,9-4.765,9-9.949c0-5.522-4.477-10-10-10h-9h-15.667v-8.666c0-53.605-41.03-97.802-93.333-102.849V10.167    c0-5.522-4.477-10-10-10s-10,4.478-10,10v42.151c-52.304,5.047-93.333,49.244-93.333,102.849v8.666H137h-9    c-5.523,0-10,4.478-10,10c0,5.185,3.947,9.448,9,9.949v52.051H99c-5.523,0-10,4.478-10,10s4.477,10,10,10h7v68H60    c-5.523,0-10,4.478-10,10v22H10c-5.523,0-10,4.478-10,10v136c0,5.522,4.477,10,10,10h492c5.523,0,10-4.478,10-10v-136    C512,360.311,507.523,355.833,502,355.833z M172.667,155.167c0-45.95,37.383-83.334,83.333-83.334s83.333,37.384,83.333,83.334    v8.666H172.667V155.167z M147,183.833h15.667h186.667H365v52H147V183.833z M126,255.833h260v68H126V255.833z M20,375.833h30v116    H20V375.833z M70,365.833v-22h372v22v126H70V365.833z M492,491.833h-30v-116h30V491.833z"></path> 
+</g> 
+</g> 
+</svg> 
+</div> 
+ <h3 class="u_1411438291 dmNewParagraph" data-element-type="paragraph" id="1411438291" style="text-align: center; transition: opacity 1s ease-in-out 0s;"><b>Defend the Constitution</b></h3> <div class="dmNewParagraph" data-element-type="paragraph" id="1813154841" style="transition: opacity 1s ease-in-out 0s;"><div><div>The Government has no right to be snooping without a warrant through your digital records and communications any more than they do through your filing cabinet at home. I&rsquo;ve also sought to protect American technology companies from being forced to create &ldquo;backdoors&rdquo; or introduce vulnerabilities to their security systems.</div></div></div></div> 
+ <div class="dmRespCol small-12 medium-6 large-6 u_1297302295" id="1297302295"> <div class="u_1282960276 graphicWidget" data-widget-type="graphic" id="1282960276" data-anim-desktop="fadeInUp" data-element-type="graphic"> <svg version="1.1" id="1571087804" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve" class="svg u_1571087804" data-icon-custom="true" data-icon-name="tax.svg"> <g id="1142342594"> <g id="1664391468"> <path d="M427.023,0H84.977C71.126,0,59.858,11.268,59.858,25.119v461.762c0,13.851,11.268,25.119,25.119,25.119h265.086
+			c2.126,0,4.166-0.844,5.668-2.348l94.063-94.063c1.504-1.503,2.348-3.542,2.348-5.668V25.119C452.142,11.268,440.874,0,427.023,0z
+			 M358.079,484.63v-57.607c0-5.01,4.076-9.086,9.086-9.086h57.607L358.079,484.63z M436.109,401.904h-68.944
+			c-13.851,0-25.119,11.268-25.119,25.119v68.944H84.977c-5.01,0-9.086-4.076-9.086-9.086V25.119c0-5.01,4.076-9.086,9.086-9.086
+			h342.046c5.01,0,9.086,4.076,9.086,9.086V401.904z" id="1280847221"></path> 
+</g> 
+</g> 
+ <g id="1959206791"> <g id="1888351358"> <path d="M204.693,68.409h-68.409c-4.427,0-8.017,3.589-8.017,8.017s3.589,8.017,8.017,8.017h26.188v77.495
+			c0,4.427,3.589,8.017,8.017,8.017s8.017-3.589,8.017-8.017V84.443h26.188c4.427,0,8.017-3.589,8.017-8.017
+			S209.12,68.409,204.693,68.409z" id="1469514972"></path> 
+</g> 
+</g> 
+ <g id="1052803027"> <g id="1091814621"> <path d="M289.332,159.634l-23.826-79.418c-2.119-7.062-8.496-11.807-15.869-11.807h-4.378c-7.373,0-13.75,4.745-15.869,11.807
+			l-23.826,79.418c-1.272,4.241,1.134,8.71,5.375,9.982c4.241,1.275,8.71-1.134,9.982-5.374l3.416-11.39h46.219l3.417,11.389
+			c1.042,3.473,4.227,5.715,7.676,5.715c0.762,0,1.538-0.11,2.307-0.34C288.198,168.344,290.605,163.875,289.332,159.634z
+			 M229.149,136.818l15.598-51.995c0.067-0.224,0.278-0.381,0.512-0.381h4.378c0.234,0,0.445,0.156,0.512,0.381l15.598,51.995
+			H229.149z" id="1833943048"></path> 
+</g> 
+</g> 
+ <g id="1968912708"> <g id="1623799446"> <path d="M373.732,157.34l-26.712-38.158l26.712-38.158c2.539-3.627,1.657-8.626-1.97-11.165c-3.627-2.539-8.626-1.658-11.165,1.97
+			l-23.362,33.374l-23.362-33.374c-2.539-3.628-7.539-4.51-11.165-1.97c-3.628,2.539-4.51,7.538-1.97,11.165l26.712,38.158
+			L300.74,157.34c-2.539,3.627-1.657,8.626,1.97,11.165c1.399,0.98,3.003,1.449,4.59,1.449c2.527,0,5.015-1.192,6.574-3.42
+			l23.362-33.374l23.362,33.374c1.56,2.228,4.047,3.42,6.574,3.42c1.587,0,3.192-0.47,4.59-1.449
+			C375.389,165.966,376.272,160.967,373.732,157.34z" id="1889656116"></path> 
+</g> 
+</g> 
+ <g id="1977634644"> <g id="1831495251"> <path d="M136.284,213.779h-17.102c-4.427,0-8.017,3.589-8.017,8.017s3.589,8.017,8.017,8.017h17.102
+			c4.427,0,8.017-3.589,8.017-8.017S140.711,213.779,136.284,213.779z" id="1470234866"></path> 
+</g> 
+</g> 
+ <g id="1473300801"> <g id="1545804613"> <path d="M136.284,247.983h-17.102c-4.427,0-8.017,3.589-8.017,8.017s3.589,8.017,8.017,8.017h17.102
+			c4.427,0,8.017-3.589,8.017-8.017S140.711,247.983,136.284,247.983z" id="1891517681"></path> 
+</g> 
+</g> 
+ <g id="1649551109"> <g id="1544234688"> <path d="M136.284,282.188h-17.102c-4.427,0-8.017,3.589-8.017,8.017s3.589,8.017,8.017,8.017h17.102
+			c4.427,0,8.017-3.589,8.017-8.017S140.711,282.188,136.284,282.188z" id="1883376570"></path> 
+</g> 
+</g> 
+ <g id="1493438266"> <g id="1358109992"> <path d="M392.818,213.779h-17.102c-4.427,0-8.017,3.589-8.017,8.017s3.589,8.017,8.017,8.017h17.102
+			c4.427,0,8.017-3.589,8.017-8.017S397.246,213.779,392.818,213.779z" id="1006973922"></path> 
+</g> 
+</g> 
+ <g id="1708280646"> <g id="1127473560"> <path d="M392.818,247.983h-17.102c-4.427,0-8.017,3.589-8.017,8.017s3.589,8.017,8.017,8.017h17.102
+			c4.427,0,8.017-3.589,8.017-8.017S397.246,247.983,392.818,247.983z" id="1521945410"></path> 
+</g> 
+</g> 
+ <g id="1417445639"> <g id="1453641383"> <path d="M392.818,282.188h-17.102c-4.427,0-8.017,3.589-8.017,8.017s3.589,8.017,8.017,8.017h17.102
+			c4.427,0,8.017-3.589,8.017-8.017S397.246,282.188,392.818,282.188z" id="1448040635"></path> 
+</g> 
+</g> 
+ <g id="1582278103"> <g id="1828552098"> <path d="M273.102,213.779H170.489c-4.427,0-8.017,3.589-8.017,8.017s3.589,8.017,8.017,8.017h102.614
+			c4.427,0,8.017-3.589,8.017-8.017S277.53,213.779,273.102,213.779z" id="1111214917"></path> 
+</g> 
+</g> 
+ <g id="1547919047"> <g id="1588128316"> <path d="M238.898,247.983h-68.409c-4.427,0-8.017,3.589-8.017,8.017s3.589,8.017,8.017,8.017h68.409
+			c4.427,0,8.017-3.589,8.017-8.017S243.325,247.983,238.898,247.983z" id="1554324569"></path> 
+</g> 
+</g> 
+ <g id="1837386488"> <g id="1002777514"> <path d="M273.102,282.188H170.489c-4.427,0-8.017,3.589-8.017,8.017s3.589,8.017,8.017,8.017h102.614
+			c4.427,0,8.017-3.589,8.017-8.017S277.53,282.188,273.102,282.188z" id="1607453107"></path> 
+</g> 
+</g> 
+ <g id="1123378154"> <g id="1686187317"> <path d="M152.852,387.18v-27.859c5.907,1.936,9.62,5.833,9.62,9.447c0,4.427,3.589,8.017,8.017,8.017s8.017-3.589,8.017-8.017
+			c0-12.784-10.768-23.198-25.653-25.984v-1.273c0-4.427-3.589-8.017-8.017-8.017s-8.017,3.589-8.017,8.017v1.273
+			c-14.885,2.786-25.653,13.2-25.653,25.984c0,17.862,14.265,25.369,25.653,29.69v27.859c-5.907-1.936-9.62-5.834-9.62-9.447
+			c0-4.427-3.589-8.017-8.017-8.017s-8.017,3.589-8.017,8.017c0,12.784,10.768,23.198,25.653,25.984v1.273
+			c0,4.427,3.589,8.017,8.017,8.017s8.017-3.589,8.017-8.017v-1.273c14.885-2.786,25.653-13.2,25.653-25.984
+			C178.505,399.007,164.24,391.5,152.852,387.18z M136.818,380.966c-7.992-3.916-9.62-7.337-9.62-12.198
+			c0-3.614,3.713-7.511,9.62-9.447V380.966z M152.852,426.315V404.67c7.992,3.916,9.62,7.337,9.62,12.198
+			C162.472,420.482,158.758,424.38,152.852,426.315z" id="1461671006"></path> 
+</g> 
+</g> 
+ <g id="1780090181"> <g id="1980525145"> <path d="M264.551,350.597h-59.858c-4.427,0-8.017,3.589-8.017,8.017s3.589,8.017,8.017,8.017h59.858
+			c4.427,0,8.017-3.589,8.017-8.017S268.979,350.597,264.551,350.597z" id="1674916927"></path> 
+</g> 
+</g> 
+ <g id="1288261135"> <g id="1606735193"> <path d="M238.898,419.006h-34.205c-4.427,0-8.017,3.589-8.017,8.017c0,4.427,3.589,8.017,8.017,8.017h34.205
+			c4.427,0,8.017-3.589,8.017-8.017C246.914,422.596,243.325,419.006,238.898,419.006z" id="1932562241"></path> 
+</g> 
+</g> 
+ <g id="1438727891"> <g id="1186704927"> <path d="M290.205,419.006h-17.102c-4.427,0-8.017,3.589-8.017,8.017c0,4.427,3.589,8.017,8.017,8.017h17.102
+			c4.427,0,8.017-3.589,8.017-8.017C298.221,422.596,294.632,419.006,290.205,419.006z" id="1762026485"></path> 
+</g> 
+</g> 
+ <g id="1918606756"> <g id="1852421758"> <path d="M315.858,384.802H204.693c-4.427,0-8.017,3.589-8.017,8.017c0,4.427,3.589,8.017,8.017,8.017h111.165
+			c4.427,0,8.017-3.589,8.017-8.017C323.875,388.391,320.285,384.802,315.858,384.802z" id="1580017113"></path> 
+</g> 
+</g> 
+ <g id="1362887107"> <g id="1940980835"> <circle cx="273.102" cy="256" r="8.017" id="1078001051"></circle> 
+</g> 
+</g> 
+ <g id="1245295611"> <g id="1496197475"> <circle cx="307.307" cy="256" r="8.017" id="1675283734"></circle> 
+</g> 
+</g> 
+ <g id="1180481212"> <g id="1291515632"> <circle cx="341.511" cy="256" r="8.017" id="1353178754"></circle> 
+</g> 
+</g> 
+ <g id="1031611628"> <g id="1792197610"> <circle cx="307.307" cy="221.795" r="8.017" id="1742476784"></circle> 
+</g> 
+</g> 
+ <g id="1694198172"> <g id="1919644964"> <circle cx="341.511" cy="221.795" r="8.017" id="1635415653"></circle> 
+</g> 
+</g> 
+ <g id="1804047778"> <g id="1779885205"> <circle cx="307.307" cy="290.205" r="8.017" id="1661255754"></circle> 
+</g> 
+</g> 
+ <g id="1091607359"> <g id="1172553467"> <circle cx="341.511" cy="290.205" r="8.017" id="1493284935"></circle> 
+</g> 
+</g> 
+ <g id="1467683617"></g> 
+ <g id="1953088740"></g> 
+ <g id="1753808067"></g> 
+ <g id="1800086386"></g> 
+ <g id="1280958919"></g> 
+ <g id="1598685354"></g> 
+ <g id="1639115362"></g> 
+ <g id="1839284203"></g> 
+ <g id="1105577093"></g> 
+ <g id="1658652336"></g> 
+ <g id="1189616463"></g> 
+ <g id="1952249788"></g> 
+ <g id="1530786006"></g> 
+ <g id="1000209325"></g> 
+ <g id="1342733521"></g> 
+</svg> 
+</div> 
+ <div class="u_1962295595 dmNewParagraph text-align-center" data-element-type="paragraph" id="1962295595" style="transition: opacity 1s ease-in-out 0s; text-align: center;" data-version="5"> <h3 class="m-text-align-left"><span style="font-weight: bold; display: initial;">Fix the Broken Appropriations Process</span></h3> 
+</div> <div class="dmNewParagraph" data-element-type="paragraph" id="1316949746" style="transition: opacity 1s ease-in-out 0s;" data-version="5"><p><span class="" style="display: initial;"><span style="display: initial;">Congress has recklessly given up its Constitutionally delegated &ldquo;power of the purse.&rdquo; I&rsquo;ve urged Speakers Boehner, Ryan, and Pelosi to return to regular order, and I have voted against every single one of their Omnibus funding bills they have passed.&nbsp;</span> 
+</span></p></div></div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1574472545" style="text-align: center;" id="1574472545"> <div class="dmRespColsWrapper" id="1340261053"> <div class="dmRespCol small-12 u_1518159875 medium-12 large-12" id="1518159875"> <div class="u_1358028255 graphicWidget" data-widget-type="graphic" id="1358028255" data-anim-desktop="fadeInUp" data-element-type="graphic"> <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="0 0 100 92.7" style="enable-background:new 0 0 100 92.7;" xml:space="preserve" id="1269763548" class="svg u_1269763548" data-icon-custom="true" data-icon-name="noun_Handcuffs_651700 (1).svg"> <g id="Layer_1"></g> 
+ <g id="Layer_2"> <path d="M92.5,21.7c-2.7-2.7-6.3-4.1-10.1-4.3c0.1-1.4-0.4-2.8-1.4-3.9c-2-2-5.1-2-7.1,0h0l-1.3,1.3l-4.9-4.9
+		c-0.8-0.8-2.1-0.8-2.8,0l-5.1,5.1l-3.2-2.5c0.3-2.1-0.9-4.3-3.1-5.2l-2.1-0.9c-0.6-0.3-1.3-0.4-2-0.4c-1.6,0-3.1,0.8-3.9,2
+		l-3.8-0.3c-0.9-1.3-2.3-2-4-2c-0.7,0-1.3,0.1-2,0.4l-2.1,0.9c-1.2,0.5-2.2,1.4-2.7,2.6c-0.5,1.1-0.5,2.2-0.2,3.3l-2.2,2.5
+		c-0.2,0-0.5-0.1-0.7-0.1c-2,0-3.8,1.2-4.6,3.1l-0.9,2.1c-0.9,2.2-0.2,4.6,1.5,5.9l-0.5,4.1h-6.9c-1.1,0-2,0.9-2,2v9.5
+		C7.6,45.2,3.1,51.3,3.1,58.4c0,10.3,9.7,18.7,21.7,19c2,2.9,4.5,5.4,7.5,7c2.6,1.4,5.3,2.1,8,2.1c1.9,0,3.8-0.4,5.6-1.1
+		c8.6-3.6,12.2-14.9,8-25.2c-0.4-1-1.6-4-1.6-4l-5.6,2.3c0,0,1.2,3,1.6,4c3,7.3,0.9,15.1-4.7,17.4c-2.6,1.1-5.6,0.8-8.5-0.7
+		c-2-1.1-3.8-2.8-5.2-4.8c0.2-0.6,0.4-1.2,0.4-1.9c0-2.8-2.2-5-5-5c-6.6,0-12.2-4.1-12.2-9s5.6-9,12.2-9h9c2.8,0,5-2.2,5-5
+		c0-2.1-1.2-3.8-3-4.6v-7.4c0-1.1-0.9-2-2-2H27l0.4-3.2c1.6-0.3,3-1.5,3.7-3l0.9-2.1c0.7-1.6,0.5-3.3-0.4-4.6l1.5-1.8
+		c0.6,0.3,1.4,0.5,2.1,0.5c0.7,0,1.3-0.1,2-0.4l2.1-0.9c1.2-0.5,2.2-1.4,2.7-2.6c0.1-0.3,0.2-0.5,0.3-0.8l2.4,0.2
+		c0.3,1.5,1.4,2.9,3,3.5l2.1,0.9c0.6,0.3,1.3,0.4,2,0.4c1,0,2-0.3,2.8-0.8l2.5,2l-5,5c-0.8,0.8-0.8,2,0,2.8l6.7,6.7
+		c-2.4,7-1.3,14.6,3.7,19.6c3.3,3.3,7.8,4.9,12.5,4.9c5.8,0,11.9-2.5,16.7-7.2c1.3-1.3,1.7-3.1,1.3-4.7c2.1-3.1,3.5-6.5,3.9-10.1
+		C97.3,29.6,95.8,25,92.5,21.7z M25.3,70.8c0.8,0,1.5,0.7,1.5,1.5s-0.7,1.5-1.5,1.5c-0.8,0-1.5-0.7-1.5-1.5S24.5,70.8,25.3,70.8z
+		 M27.3,37.3v2.1v1.2c0,1.1-0.9,2-2,2s-2-0.9-2-2v-1.1v-2.2c0-1.1,0.9-2,2-2S27.3,36.2,27.3,37.3z M28.5,20.6l-0.9,2.1
+		c-0.1,0.1-0.1,0.2-0.2,0.3c-0.3-0.4-0.7-0.7-1.3-0.7c-0.2,0-0.3,0-0.5,0c0-0.1,0-0.3,0.1-0.4l0.9-2.1c0-0.1,0.1-0.2,0.2-0.3
+		c0.1,0.1,0.2,0.2,0.3,0.3c0.4,0.3,0.8,0.5,1.2,0.5c0.1,0,0.2,0,0.3,0C28.5,20.4,28.5,20.5,28.5,20.6z M37.8,11.4l-2.1,0.9
+		c-0.1,0-0.2,0-0.3,0.1c0-0.6-0.2-1.1-0.6-1.5c-0.1-0.1-0.2-0.1-0.2-0.2c0.1-0.1,0.2-0.2,0.4-0.2L37,9.5c0.2-0.1,0.4-0.1,0.5-0.1
+		c0,0,0.1,0,0.1,0c0,0.6,0.3,1.1,0.7,1.5C38.3,11.1,38.1,11.3,37.8,11.4z M52,11.3c-0.3,0.4-0.4,0.9-0.4,1.4c-0.1,0-0.3,0-0.4-0.1
+		l-2.1-0.9c-0.1,0-0.2-0.1-0.3-0.2c0.4-0.3,0.7-0.8,0.8-1.4c0-0.1,0-0.3,0-0.4c0.1,0,0.2,0,0.3,0.1l2.1,0.9c0.1,0.1,0.3,0.1,0.4,0.2
+		C52.2,11,52.1,11.2,52,11.3z M65.6,25.4c-0.5,0-1-0.2-1.4-0.6L63.4,24l-1.5-1.5c-0.8-0.8-0.8-2,0-2.8c0.8-0.8,2-0.8,2.8,0l1.5,1.5
+		L67,22c0.8,0.8,0.8,2,0,2.8C66.6,25.2,66.1,25.4,65.6,25.4z M89.1,46.9c-0.6,0.6-1.5,0.6-2.1,0s-0.6-1.5,0-2.1s1.5-0.6,2.1,0
+		C89.7,45.4,89.7,46.3,89.1,46.9z M90.8,34c-0.2,2.4-1.1,4.7-2.5,6.8c-1.3-0.1-2.7,0.4-3.7,1.4c-4.7,4.7-11.6,5.7-15,2.3
+		c-3.4-3.4-2.4-10.3,2.3-15l5.8-5.8c4-1.2,8-0.6,10.6,2.1C90.2,27.9,91.2,30.8,90.8,34z" id="1979321690"></path> 
+</g> 
+</svg> 
+</div> 
+ <h3 class="u_1792274514 dmNewParagraph" data-element-type="paragraph" id="1792274514" style="text-align: center; transition: opacity 1s ease-in-out 0s;"><b>Secure our Border and Build the Wall</b></h3> <div class="dmNewParagraph" data-element-type="paragraph" id="1215852755" style="transition: opacity 1s ease-in-out 0s;">I support President Trump&rsquo;s efforts to stop illegal immigration and voted to fund the wall for the full amount requested by the President.</div></div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1942273886" id="1942273886"> <div class="dmRespColsWrapper" id="1023146492"> <div class="dmRespCol large-12 medium-12 small-12" id="1325941402"> <div class="u_1485282810 dmNewParagraph" id="1485282810" style="transition: opacity 1s ease-in-out 0s; text-align: center;" data-element-type="paragraph" data-version="5"> <h2><span style="display: initial;">Thomas Massie: A True Conservative</span></h2> 
+</div> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1229785036"> <h3><span class="" style="display: unset;"><span style="display: unset;">Congressman Massie holds the most conservative lifetime rating of any Kentucky congressman from Freedomworks, the American Conservative Union, Club for Growth, Conservative Review, Gun Owners of America, and the National Taxpayers Union.</span> 
+</span><span style="display: unset; text-transform: none; font-weight: 400; font-style: normal;"><br/></span><span style="display: unset;"><span class="ql-cursor">﻿</span></span></h3> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1308634197" id="1308634197"> <div class="dmRespColsWrapper" id="1922270011"> <div class="dmRespCol large-12 medium-12 small-12" id="1006974725"> <div class="dmPhotoGallery newPhotoGallery dmPhotoGalleryResp u_1256322449 hasFullWidth hasFullWidthMobile" galleryoptionsparams="{thumbnailsPerRow: 3, rowsToShow: 3, imageScaleMethod: true}" data-desktop-layout="square" data-desktop-columns="3" data-element-type="dPhotoGalleryId" data-desktop-text-layout="bottom" id="1256322449" data-link-gallery="true" data-desktop-caption-alignment="center_center" data-placeholder="false" data-rows-to-show="100" data-image-hover-effect="shine" data-image-animation="fadeInUp" data-mobile-columns="2"> <ul class="dmPhotoGalleryHolder clearfix gallery shadowEffectToChildren gallery4inArow" id="1487322384"> <li index="0" class="photoGalleryThumbs" id="1687728784"> <div class="image-container" id="1789627985"> <a data-dm-multisize-attr="href" data-image-url="https://irp.cdn-website.com/cff1c88f/dms3rep/multi/NRTL.png" id="1769299412" class="u_1769299412 has-link" target="_blank" href="https://cqrcengage.com/nrlc/file/RsvC7m4cqNE/117th%20Scorecard%20House%202022.pdf" file="false" data-link-url="https://cqrcengage.com/nrlc/file/RsvC7m4cqNE/117th%20Scorecard%20House%202022.pdf"><img data-src="https://lirp.cdn-website.com/cff1c88f/dms3rep/multi/opt/NRTL-1920w.png" irh="1" irw="2" alt="" id="1687147700" class="" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container " id="1200475902"> <span class="caption-inner" id="1100416687"> <h3 class="caption-title" id="1139898225">100%</h3> 
+ <div class="caption-text" id="1675872685"><p class="rteBlock">117th Congress</p></div> 
+ <a class="caption-button dmWidget  displayNone  clearfix" href="https://cqrcengage.com/nrlc/file/RsvC7m4cqNE/117th%20Scorecard%20House%202022.pdf" id="1933459441" file="false"> <span class="iconBg" id="1888076298"> <span class="icon hasFontIcon icon-star" id="1376994406"></span> 
+</span> 
+ <span class="text" id="1674699733">Button</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li index="1" class="photoGalleryThumbs" id="1067493484"> <div class="image-container" id="1256192907"> <a data-dm-multisize-attr="href" data-image-url="https://irp.cdn-website.com/cff1c88f/dms3rep/multi/SusanB.png" id="1536295097" class="u_1536295097 has-link" target="_blank" href="https://www.sba-list.org/representative/thomas-massie" file="false" data-link-url="https://www.sba-list.org/representative/thomas-massie"><img data-src="https://lirp.cdn-website.com/cff1c88f/dms3rep/multi/opt/SusanB-1920w.png" irh="2" irw="3" alt="" id="1182697134" class="" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container " id="1296345548"> <span class="caption-inner" id="1625245204"> <h3 class="caption-title" id="1696970093">A+</h3> 
+ <div class="caption-text" id="1910826516" style=""><p class="rteBlock">117th Congress</p></div> 
+ <a class="caption-button dmWidget  displayNone  clearfix" href="https://www.sba-list.org/representative/thomas-massie" id="1442665335" file="false"> <span class="iconBg" id="1052886834"> <span class="icon hasFontIcon icon-star" id="1388399828"></span> 
+</span> 
+ <span class="text" id="1435953719">Button</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li index="2" class="photoGalleryThumbs" id="1761616411"> <div class="image-container" id="1321583180"> <a data-dm-multisize-attr="href" data-image-url="https://irp.cdn-website.com/cff1c88f/dms3rep/multi/GunOwners.svg" id="1016364671" class="u_1016364671 has-link" target="_blank" href="https://www.gunowners.org/congressional-ratings/" file="false" data-link-url="https://www.gunowners.org/congressional-ratings/"><img data-src="https://irp.cdn-website.com/cff1c88f/dms3rep/multi/GunOwners.svg" irh="3" irw="4" alt="" id="1806702205" class="" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container " id="1460907356"> <span class="caption-inner" id="1017623065"> <h3 class="caption-title" id="1037298177">A+</h3> 
+ <div class="caption-text" id="1246651223" style=""><p class="rteBlock">Lifetime Score</p></div> 
+ <a class="caption-button dmWidget  displayNone  clearfix" href="https://www.gunowners.org/congressional-ratings/" id="1918113548" file="false"> <span class="iconBg" id="1616882171"> <span class="icon hasFontIcon icon-star" id="1514205020"></span> 
+</span> 
+ <span class="text" id="1218151452">Button</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li class="photoGalleryThumbs" id="1057124935"> <div class="image-container" id="1942466587"> <a data-dm-multisize-attr="href" data-image-url="https://irp.cdn-website.com/cff1c88f/dms3rep/multi/RLC_Logo_2021.png" id="1262214184" class="has-link" target="_blank" href="https://rlc.org/the-republican-liberty-caucus-publishes-2021-legislative-scorecard-for-congress/" file="false" data-link-url="https://rlc.org/the-republican-liberty-caucus-publishes-2021-legislative-scorecard-for-congress/"><img irh="" irw="" data-src="https://lirp.cdn-website.com/cff1c88f/dms3rep/multi/opt/RLC_Logo_2021-1920w.png" id="1595783239" class="" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container u_1802872581" style="display:none" id="1802872581"> <span class="caption-inner" id="1329268292"> <h3 class="caption-title u_1946438307" id="1946438307">100%</h3> 
+ <div class="caption-text u_1971577355" id="1971577355"><p class="rteBlock">117th Congress Score</p></div> 
+ <a class="caption-button dmWidget clearfix u_1951136019" id="1951136019" href="https://rlc.org/the-republican-liberty-caucus-publishes-2021-legislative-scorecard-for-congress/" file="false"> <span class="iconBg" id="1836044599"> <span class="icon hasFontIcon icon-star" id="1398597174"></span> 
+</span> 
+ <span class="text" id="1985285324">Button</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li index="3" class="photoGalleryThumbs" id="1868756965"> <div class="image-container" id="1362566611"> <a data-dm-multisize-attr="href" data-image-url="https://irp.cdn-website.com/cff1c88f/dms3rep/multi/FreedomWorks.png" id="1403395654" class="u_1403395654 has-link" target="_blank" href="http://congress.freedomworks.org/legislators/thomas-massie" file="false"><img data-src="https://lirp.cdn-website.com/cff1c88f/dms3rep/multi/opt/FreedomWorks-1920w.png" irh="4" irw="5" alt="" id="1394545316" class="" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container " id="1828071483"> <span class="caption-inner" id="1868012048"> <h3 class="caption-title" id="1862542089">97%</h3> 
+ <div class="caption-text" id="1864681555" style=""><p class="rteBlock">Lifetime Score</p></div> 
+ <a class="caption-button dmWidget  displayNone  clearfix" href="http://congress.freedomworks.org/legislators/thomas-massie" id="1300561586" file="false"> <span class="iconBg" id="1856858982"> <span class="icon hasFontIcon icon-star" id="1022281160"></span> 
+</span> 
+ <span class="text" id="1315456547">Button</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li class="photoGalleryThumbs" id="1635021791"> <div class="image-container" id="1490888467"> <a data-dm-multisize-attr="href" data-image-url="https://irp.cdn-website.com/cff1c88f/dms3rep/multi/Screen+Shot+2022-03-16+at+12.03.28+PM.png" id="1644375677" class="has-link" target="_blank" href="https://www.ntu.org/ratecongress/legislator/thomas-massie" file="false" data-link-url="https://www.ntu.org/ratecongress/legislator/thomas-massie"><img irh="" irw="" alt="" data-src="https://lirp.cdn-website.com/cff1c88f/dms3rep/multi/opt/Screen+Shot+2022-03-16+at+12.03.28+PM-1920w.png" id="1697303932" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container u_1938721691" style="display:none" id="1938721691"> <span class="caption-inner" id="1741047118"> <h3 class="caption-title u_1252701376" id="1252701376">96%</h3> 
+ <div class="caption-text u_1635777450" id="1635777450"><p class="rteBlock">2020 Score</p></div> 
+ <a class="caption-button dmWidget clearfix u_1957339043" id="1957339043" href="https://www.ntu.org/ratecongress/legislator/thomas-massie" file="false"> <span class="iconBg" id="1552073617"> <span class="icon hasFontIcon icon-star" id="1659563573"></span> 
+</span> 
+ <span class="text" id="1831428631">Button</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li class="photoGalleryThumbs" id="1321617868"> <div class="image-container" id="1133575059"> <a data-dm-multisize-attr="href" data-image-url="https://irp.cdn-website.com/cff1c88f/dms3rep/multi/LibertyScore.svg" id="1799969169" class="has-link" target="_blank" href="https://libertyscore.conservativereview.com/thomas-massie" file="false" data-link-url="https://libertyscore.conservativereview.com/thomas-massie"><img irh="" irw="" alt="" data-src="https://irp.cdn-website.com/cff1c88f/dms3rep/multi/LibertyScore.svg" id="1049257660" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container u_1402703495" style="display:none" id="1402703495"> <span class="caption-inner" id="1591784369"> <h3 class="caption-title u_1749715418" id="1749715418">96%</h3> 
+ <div class="caption-text u_1532940086" id="1532940086"><p class="rteBlock">Lifetime Score</p></div> 
+ <a class="caption-button dmWidget clearfix u_1576919294" id="1576919294" href="https://libertyscore.conservativereview.com/thomas-massie" file="false"> <span class="iconBg" id="1019487704"> <span class="icon hasFontIcon icon-star" id="1752781166"></span> 
+</span> 
+ <span class="text" id="1104673068">Button</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li class="photoGalleryThumbs" id="1953804088"> <div class="image-container" id="1453128858"> <a data-dm-multisize-attr="href" data-image-url="https://irp.cdn-website.com/cff1c88f/dms3rep/multi/ClubForGrowth2.png" id="1519724823" class="has-link" target="_blank" href="https://www.clubforgrowth.org/scorecards/legislator/M001184/Thomas-Massie" file="false" data-link-url="https://www.clubforgrowth.org/scorecards/legislator/M001184/Thomas-Massie"><img irh="" irw="" alt="" data-src="https://lirp.cdn-website.com/cff1c88f/dms3rep/multi/opt/ClubForGrowth2-1920w.png" id="1788734769" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container u_1127158123" style="display:none" id="1127158123"> <span class="caption-inner" id="1638750835"> <h3 class="caption-title u_1023876585" id="1023876585">94%</h3> 
+ <div class="caption-text u_1343162481" id="1343162481"><p class="rteBlock">Lifetime Score</p></div> 
+ <a class="caption-button dmWidget clearfix u_1906451977" id="1906451977" href="https://www.clubforgrowth.org/scorecards/legislator/M001184/Thomas-Massie" file="false"> <span class="iconBg" id="1783437310"> <span class="icon hasFontIcon icon-star" id="1460251725"></span> 
+</span> 
+ <span class="text" id="1621264337">Button</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li class="photoGalleryThumbs" id="1311604503"> <div class="image-container" id="1703946606"> <a data-dm-multisize-attr="href" data-image-url="https://irp.cdn-website.com/cff1c88f/dms3rep/multi/Americans+for+Prosperity.png" id="1429334441" class="has-link" target="_blank" href="https://americansforprosperity.org/national-scorecard/#/legislator/17063" file="false" data-link-url="https://americansforprosperity.org/national-scorecard/#/legislator/17063"><img irh="" irw="" alt="" data-src="https://lirp.cdn-website.com/cff1c88f/dms3rep/multi/opt/Americans+for+Prosperity-1920w.png" id="1257032924" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container u_1664242876" style="display:none" id="1664242876"> <span class="caption-inner" id="1898804472"> <h3 class="caption-title u_1003885712" id="1003885712">93%</h3> 
+ <div class="caption-text u_1398103774" id="1398103774"><p class="rteBlock">Lifetime Score</p></div> 
+ <a class="caption-button dmWidget clearfix u_1197501238" id="1197501238" href="https://americansforprosperity.org/national-scorecard/#/legislator/17063" file="false"> <span class="iconBg" id="1006557804"> <span class="icon hasFontIcon icon-star" id="1608230954"></span> 
+</span> 
+ <span class="text" id="1948092180">Button</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li class="photoGalleryThumbs" id="1727682101"> <div class="image-container" id="1683811114"> <a data-dm-multisize-attr="href" data-image-url="https://irp.cdn-website.com/cff1c88f/dms3rep/multi/cpac_acu_logo.svg" id="1688578043" class="has-link" target="_blank" href="http://ratings.conservative.org/people/M001184" file="false" data-link-url="http://ratings.conservative.org/people/M001184"><img irh="" irw="" alt="" data-src="https://irp.cdn-website.com/cff1c88f/dms3rep/multi/cpac_acu_logo.svg" id="1359404717" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container u_1949783035" style="display:none" id="1949783035"> <span class="caption-inner" id="1353039979"> <h3 class="caption-title u_1472790758" id="1472790758">92%</h3> 
+ <div class="caption-text u_1073199203" id="1073199203"><p class="rteBlock">Lifetime Score</p></div> 
+ <a class="caption-button dmWidget clearfix u_1454626304" id="1454626304" href="http://ratings.conservative.org/people/M001184" file="false"> <span class="iconBg" id="1504009276"> <span class="icon hasFontIcon icon-star" id="1463267813"></span> 
+</span> 
+ <span class="text" id="1096754615">Button</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+</ul> 
+ <div class="photoGalleryViewAll link" isall="true" data-viewall="View more" data-viewless="View less" style="display:none;" id="1191034714"></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow" id="1438748461"> <div class="dmRespColsWrapper" id="1439070936"> <div class="dmRespCol large-12 medium-12 small-12" id="1886666817"> <div class="u_1162286321 imageWidget align-center" data-element-type="image" data-widget-type="image" id="1162286321"><img src="https://lirp.cdn-website.com/cff1c88f/dms3rep/multi/opt/RTL-1152w.jpg" alt="" id="1420745613" class="" data-dm-image-path="https://irp.cdn-website.com/cff1c88f/dms3rep/multi/RTL.jpg" width="600" height="600" onerror="handleImageLoadError(this)"/></div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1416259213" id="1416259213"> <div class="dmRespColsWrapper" id="1482393425"> <div class="dmRespCol large-12 medium-12 small-12" id="1563712412"> <div class="u_1365718956 dmPrettyList ed-version" data-element-type="dListId" layout="layoutA" id="1365718956" link-element="none"> <h3 class="dmwidget-title" hide="true" id="1762733557">List of Services</h3> 
+ <ul class="listWidgetContainer" id="1645016466"> <li class="listItem" id="1368663447"> <a class="biglink clearfix" href="" id="1061947854"> <div class="listImage u_1559840344" id="1559840344"></div> 
+ <div class="listText" id="1080704742"> <span class="itemName" id="1723387017" style="">Senator Rand Paul</span> 
+ <div class="itemText" id="1279084859" style=""><p class="rteBlock">&ldquo;It is my pleasure to endorse my friend Thomas Massie as he runs for re-election in Kentucky&rsquo;s Fourth Congressional District,&rdquo; Paul said. &ldquo;Thomas continues to be one of our nation&rsquo;s leading voices in exposing the lies propagated by Dr. Fauci and the CDC. 4th District voters could not ask for a stronger defender of the Constitution and liberty than Thomas Massie.&rdquo;</p><br/><br/></div> 
+</div> 
+ <span class="link" id="1834351034"> <span class="buttonText" id="1625631689">Item Link</span> 
+ <span class="itemName" id="1365112254">List Item  1</span> 
+</span> 
+</a> 
+</li> 
+ <li class="listItem" id="1741025959"> <a class="biglink clearfix" href="" id="1389929284"> <div class="listImage u_1801181583" id="1801181583"></div> 
+ <div class="listText" id="1905094130"> <span class="itemName" id="1274958685" style="">Rep. Jim Jordan</span> 
+ <div class="itemText" id="1645773730" style=""><p class="rteBlock">&ldquo;Throughout my time in Congress, Thomas Massie has never shied away from defending the Constitution. He stood up against the Left&rsquo;s outrageous impeachment of President Trump, and will stand with us to rein in the Biden administration and take back the majority in 2022.&quot;</p><br/><br/></div> 
+</div> 
+ <span class="link" id="1439557749"> <span class="buttonText" id="1307516193">Item Link</span> 
+ <span class="itemName" id="1160811302">List Item  2</span> 
+</span> 
+</a> 
+</li> 
+ <li class="listItem" id="1442858494"> <a class="biglink clearfix" href="" id="1452248335"> <div class="listImage u_1400574992" id="1400574992"></div> 
+ <div class="listText" id="1015157282"> <span class="itemName" id="1354322827" style="">Rep. Matt Gaetz</span> 
+ <div class="itemText" id="1817131756" style=""><p class="rteBlock">&quot;I&rsquo;m proud to endorse my friend Thomas Massie, a true patriot who always puts America First. Thomas stood up to Liz Cheney and the RINOs after they tried to take him out in 2020. They weren&rsquo;t successful in 2020, and they won&rsquo;t be in 2022 either.&quot;</p><br/><br/></div> 
+</div> 
+ <span class="link" id="1341373708"> <span class="buttonText" id="1824223207">Item Link</span> 
+ <span class="itemName" id="1652057271">List Item  3</span> 
+</span> 
+</a> 
+</li> 
+ <li class="listItem" id="1809969119"> <a class="biglink clearfix" href="" id="1337854574"> <div class="listImage u_1000177233" id="1000177233"></div> 
+ <div class="listText" id="1342141857"> <span class="itemName" id="1052933935" style="">Rep. Lauren Boebert</span> 
+ <div class="itemText" id="1153889628" style=""><p class="rteBlock">&quot;There is no stronger defender of the 2nd Amendment in Congress than Thomas Massie, and he absolutely has my endorsement in 2022. While many Republicans are quick to seek &ldquo;compromise&rdquo; that only leads to weakening constitutional gun rights, Thomas is resolute in calling out the gun grabbers in both parties. Thomas and I co-chair the 2nd Amendment Caucus in Washington, and I ask Kentucky voters to support Thomas so we can continue our work defending your right to bear arms.&quot;</p><br/><br/></div> 
+</div> 
+ <span class="link" id="1254566108"> <span class="buttonText" id="1940410278">Item Link</span> 
+ <span class="itemName" id="1288563184">List Item  4</span> 
+</span> 
+</a> 
+</li> 
+ <li class="listItem" id="1020435625"> <a class="biglink clearfix" href="" id="1283805721"> <div class="listImage u_1124406036" id="1124406036"></div> 
+ <div class="listText" id="1650342145"> <span class="itemName" id="1792167547">Rep. Marjorie Taylor Greene</span> 
+ <div class="itemText" id="1936147465" style=""><p class="rteBlock">&quot;I know what it&rsquo;s like to be the most hated person in Washington. Thomas was that person in March of 2020 when he bravely stood up and demanded that if nurses, truckers, and grocery store workers had to work, then members of Congress shouldn&rsquo;t be able to pass the biggest spending bill ever at home in their pajamas. Thomas is an unwavering defender of life, liberty, and the Constitution, and has my complete and total endorsement in his primary and general election!&quot;</p><br/><br/></div> 
+</div> 
+ <span class="link" id="1638473539"> <span class="buttonText" id="1033343419">Item Link</span> 
+ <span class="itemName" id="1803413975"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1064642957 dmSectionNoParallax hasBackgroundOverlay" style="text-align: center;" id="1064642957"> <div class="dmRespColsWrapper" id="1872596626"> <div class="dmRespCol small-12 medium-12 large-12" id="VOLUNTEER" data-anchor="VOLUNTEER"> <h2 class="dmNewParagraph u_1174978181" id="1174978181" style="transition-duration: 1s; transition-timing-function: ease-in-out; transition-delay: initial; transition-property: opacity;" data-element-type="paragraph"><div style="text-align: center;"><font color="#ffffff">Get Involved</font></div></h2> <div class="dmRespRow u_1169095672" id="1169095672"> <div class="dmRespColsWrapper" id="1380489150"> <div class="dmRespCol large-6 medium-6 small-12" id="1238136108"> <h3 class="dmNewParagraph u_1538539142" data-element-type="paragraph" id="1538539142" style="transition: none 0s ease 0s; display: block;"><span style="font-weight: 700;" class="font-size-30 lh-1">STAY UPDATED</span></h3> <div class="u_1525247259 dmform default native-inputs" id="1525247259" data-layout="layout-1" data-element-type="dContactUsRespId"> <h3 class="dmform-title dmwidget-title" id="1417171421" hide="true">Join Trey</h3> 
+ <div class="dmform-wrapper" id="1017536958" captcha-lang="en"> <form method="post" class="dmRespDesignRow" locale="ENGLISH" id="1538898710"> <div class="dmforminput required  small-12 dmRespDesignCol medium-12 large-12" id="1364302415"> <label for="1121797125" id="1417369956" class="" data-dm-for="dmform-0">Name:</label> 
+<input type="text" class="" name="dmform-0" id="1121797125"/><input type="hidden" name="label-dmform-0" value="Name:" id="1609528041" class=""/></div> 
+ <div class="dmforminput required  small-12 dmRespDesignCol medium-12 large-12" id="1305768110"> <label for="1908873752" id="1283279437" class="" data-dm-for="dmform-1">Email:</label> 
+<input type="email" class="" name="dmform-1" id="1908873752"/><input type="hidden" name="label-dmform-1" value="Email:" id="1792432320" class=""/></div> 
+ <div class="dmforminput required  small-12 dmRespDesignCol medium-12 large-12" id="1442942257"> <label for="1311185453" id="1121519443" class="" data-dm-for="dmform-2">Zip Code:</label> 
+<input type="text" name="dmform-2" id="1311185453" class=""/><input type="hidden" name="label-dmform-2" value="Zip Code:" id="1973066703" class=""/></div> 
+ <div class="dmformsubmit dmWidget R" id="1699597667"><input class="" name="submit" type="submit" value="SUBMIT" id="1508314741"/></div> 
+<input name="dmformsendto" type="hidden" value="O0wrseIfFLsCndmRamRlGU3Pk39aMCAqstq5ZIG/uuURCaXW7H8UqwMQkJKWsy8EcjEvAE+lsFvZlpjuz5UWIQ==" id="1739186943" class="" data-dec="true"/><input class="dmActionInput" type="hidden" name="action" value="/_dm/s/rt/widgets/dmform.submit.jsp" id="1811517588"/><input name="dmformsubject" type="hidden" value="Signups Message" id="1110880582" class=""/><input type="hidden" name="spreadsheetId" value="1d9If_iuzb0L3PQT46yQqg1zi43WW9ebynvjxN1i_hDE" id="1308291132"/><input type="hidden" name="googleIntegrationUUID" value="326d9e3996634409ad0bdf63843d6e7e" id="1324445656"/><input name="dmformsubmitparams" type="hidden" value="8mpKnCSiNQXK/d9M7IDrSxJJnhBlHGKy1fPhZQ2pJUb8M1zdLznT5QuZI1UZA3q0E1UB7Gx8A1muGlTalhYUFwkfiVj6GBC3cve3X0YQRacXgdxjiPFzcQkfRA/T+TdOFBrw0HaOW+flrPk0dwXvH03G65C+/Gue9sUsCP6+/NWshAgdwtpkXZ0ObxTNP7sZLTXWAQuRvVYJhl4lhOap+aQ5OjP8JzdS" data-dec="true"/><input type="hidden" name="page_uuid" value="7b17b92e83b74be08657dd43b7056966"/></form> 
+</div> 
+ <div class="dmform-success" style="display:none" id="1209368519">Thank you for your support</div> 
+ <div class="dmform-error" style="display:none" id="1104252853">Oops, there was an error sending your message.<br id="1945370663"/>Please try again later</div> 
+</div> 
+</div> 
+ <div class="dmRespCol large-6 medium-6 small-12 u_1154834327" id="1154834327"> <h3 class="dmNewParagraph u_1856469391" data-element-type="paragraph" id="1856469391" style="transition: none 0s ease 0s; display: block;"><span style="font-weight: 700;" class="font-size-30 lh-1">VOLUNTEER</span></h3> <div class="u_1961793970 dmform default native-inputs" id="1961793970" data-layout="layout-1" data-element-type="dContactUsRespId"> <h3 class="dmform-title dmwidget-title" id="1898483028" hide="true">Join Trey</h3> 
+ <div class="dmform-wrapper" id="1551872901" captcha-lang="en"> <form method="post" class="dmRespDesignRow" locale="ENGLISH" id="1674627232"> <div class="dmforminput required  small-12 dmRespDesignCol medium-12 large-12" id="1495013432"> <label for="1821086654" id="1287790013" class="" data-dm-for="dmform-0">Name:</label> 
+<input type="text" class="" name="dmform-0" id="1821086654"/><input type="hidden" name="label-dmform-0" value="Name:" id="1428663482" class=""/></div> 
+ <div class="dmforminput required  small-12 dmRespDesignCol medium-12 large-12" id="1258525542"> <label for="1927613488" id="1608704568" class="" data-dm-for="dmform-1">Email:</label> 
+<input type="email" class="" name="dmform-1" id="1927613488"/><input type="hidden" name="label-dmform-1" value="Email:" id="1384762040" class=""/></div> 
+ <div class="dmforminput small-12 dmRespDesignCol medium-12 large-12" id="1723430720"> <label for="1259785842" id="1230908786" data-dm-for="dmform-4">Phone:</label> 
+<input type="text" name="dmform-4" id="1259785842" class=""/><input type="hidden" name="label-dmform-4" value="Phone:" id="1698897214" class=""/></div> 
+ <div class="dmforminput small-12 dmRespDesignCol medium-12 large-12" id="1966419259"> <label for="1709574857" id="1275977767" data-dm-for="dmform-5">Street Address:</label> 
+<input type="text" name="dmform-5" id="1709574857"/><input type="hidden" name="label-dmform-5" value="Street Address:" id="1468857421" class=""/></div> 
+ <div class="dmforminput small-12 dmRespDesignCol medium-6 large-6" id="1936292192"> <label for="1739781391" id="1161209127" data-dm-for="dmform-6">City:</label> 
+<input type="text" name="dmform-6" id="1739781391"/><input type="hidden" name="label-dmform-6" value="City:" id="1118551004" class=""/></div> 
+ <div class="dmforminput required  small-12 dmRespDesignCol medium-6 large-6" id="1779043417"> <label for="1342171257" id="1869049887" class="" data-dm-for="dmform-2">Zip Code:</label> 
+<input type="text" name="dmform-2" id="1342171257" class=""/><input type="hidden" name="label-dmform-2" value="Zip Code:" id="1053878356" class=""/></div> 
+ <div class="dmforminput small-12 dmRespDesignCol medium-12 large-12" id="1129273234"> <label for="1029948552" id="1866203818" data-dm-for="dmform-7">County:</label> 
+<input type="text" name="dmform-7" id="1029948552"/><input type="hidden" name="label-dmform-7" value="County:" id="1527657709" class=""/></div> 
+ <div class="dmforminput small-12 dmRespDesignCol medium-12 large-12" id="1709414355"> <label for="14620" id="1164359285" data-dm-for="dmform-3">I volunteer to (check all that apply)</label> 
+ <div class="checkboxwrapper" id="1272107107"> <div id="11063" class="contact-checkable-container"> <label for="14620" class="for-checkable" id="1009496870"><input type="checkbox" value="Display a yard sign" name="dmform-3" id="14620" class="checkable-input"/> <span id="78636">Display a yard sign</span> 
+ <span class="img-wrapper"><img alt="" id="33780" class="contact-checkable-img" onerror="handleImageLoadError(this)"/></span> 
+</label> 
+</div> 
+ <div id="91058" class="contact-checkable-container"> <label for="90998" class="for-checkable" id="1570580260"><input type="checkbox" value="Canvass door-to-door" name="dmform-3" id="90998" class="checkable-input"/> <span id="7807">Canvass door-to-door</span> 
+ <span class="img-wrapper"><img alt="" id="21367" class="contact-checkable-img" onerror="handleImageLoadError(this)"/></span> 
+</label> 
+</div> 
+ <div id="89089" class="contact-checkable-container"> <label for="82640" class="for-checkable" id="1041830908"><input type="checkbox" value="Make phone calls at office" name="dmform-3" id="82640" class="checkable-input"/> <span id="52938">Make phone calls at office</span> 
+ <span class="img-wrapper"><img alt="" id="99583" class="contact-checkable-img" onerror="handleImageLoadError(this)"/></span> 
+</label> 
+</div> 
+ <div id="45562" class="contact-checkable-container"> <label for="38547" class="for-checkable" id="1160682791"><input type="checkbox" value="Phone from Home" name="dmform-3" id="38547" class="checkable-input"/> <span id="17563">Phone from Home</span> 
+ <span class="img-wrapper"><img alt="" id="41168" class="contact-checkable-img" onerror="handleImageLoadError(this)"/></span> 
+</label> 
+</div> 
+ <div id="56152" class="contact-checkable-container"> <label for="35072" class="for-checkable" id="1268958876"><input type="checkbox" value="Deliver a yard sign" name="dmform-3" id="35072" class="checkable-input"/> <span id="75897">Deliver a yard sign</span> 
+ <span class="img-wrapper"><img alt="" id="85718" class="contact-checkable-img" onerror="handleImageLoadError(this)"/></span> 
+</label> 
+</div> 
+ <div id="26481" class="contact-checkable-container"> <label for="2698" class="for-checkable" id="1095339321"><input type="checkbox" value="Write a letter to the editor" name="dmform-3" id="2698" class="checkable-input"/> <span id="48035">Write a letter to the editor</span> 
+ <span class="img-wrapper"><img alt="" id="84871" class="contact-checkable-img" onerror="handleImageLoadError(this)"/></span> 
+</label> 
+</div> 
+ <div id="89869" class="contact-checkable-container"> <label for="60616" class="for-checkable" id="1821637633"><input type="checkbox" value="Write postcards to friends" name="dmform-3" id="60616" class="checkable-input"/> <span id="67220">Write postcards to friends</span> 
+ <span class="img-wrapper"><img alt="" id="91995" class="contact-checkable-img" onerror="handleImageLoadError(this)"/></span> 
+</label> 
+</div> 
+</div> 
+<input type="hidden" name="label-dmform-3" value="I volunteer to (check all that apply)" id="1892398875" class=""/></div> 
+ <span id="1208264088" class="dmWidgetClear"></span> 
+ <div class="dmformsubmit dmWidget R" id="1694320111"><input class="" name="submit" type="submit" value="SUBMIT" id="1552034389"/></div> 
+<input name="dmformsendto" type="hidden" value="O0wrseIfFLsCndmRamRlGU3Pk39aMCAqstq5ZIG/uuURCaXW7H8UqwMQkJKWsy8EcjEvAE+lsFvZlpjuz5UWIQ==" id="1922642153" class="" data-dec="true"/><input class="dmActionInput" type="hidden" name="action" value="/_dm/s/rt/widgets/dmform.submit.jsp" id="1537881984"/><input name="dmformsubject" type="hidden" value="Volunteer Form Message" id="1615209556" class=""/><input type="hidden" name="spreadsheetId" value="11w2aFRbZKsW-dLKslM-sOZdyj56bsmAuTcJaHtVGEkA" id="1837105371"/><input type="hidden" name="googleIntegrationUUID" value="326d9e3996634409ad0bdf63843d6e7e" id="1775807355"/><input name="dmformsubmitparams" type="hidden" value="8mpKnCSiNQXK/d9M7IDrSxJJnhBlHGKy1fPhZQ2pJUb8M1zdLznT5QuZI1UZA3q0E1UB7Gx8A1muGlTalhYUFwkfiVj6GBC379N4sUoE1EoMlUnWQ8HA5/3LtL92mqn+8Zsh2FQbEx8ZE+Hkb8maAxhrLNNt5i5Yc12wD5CWX2djbAV7UbfklWH91Sf+SOJHFEAeDWfQpi/KuZt1CSyPIgiZION08AmknckUBWKGIWw=" data-dec="true"/><input type="hidden" name="page_uuid" value="7b17b92e83b74be08657dd43b7056966"/></form> 
+</div> 
+ <div class="dmform-success" style="display:none" id="1230436225">Thank you for your support</div> 
+ <div class="dmform-error" style="display:none" id="1514669211">Oops, there was an error sending your message.<br id="1533706610"/>Please try again later</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmFooterContainer"> <div id="fcontainer" class="u_fcontainer f_hcontainer dmFooter p_hfcontainer"> <div dm:templateorder="250" class="dmFooterResp generalFooter" id="1943048428"> <div class="u_1686005289 dmRespRow" style="text-align: center;" id="1686005289"> <div class="dmRespColsWrapper" id="1837856251"> <div class="u_1188157081 dmRespCol small-12 large-4 medium-4" id="1188157081"> <span id="1211928279"></span> 
+ <div class="u_1166480836 imageWidget align-center" data-widget-type="image" id="1166480836" data-element-type="image"><img src="https://lirp.cdn-website.com/cff1c88f/dms3rep/multi/opt/massie_logo_tp-288w.png" id="1476355726" class="" data-dm-image-path="https://irp-cdn.multiscreensite.com/cff1c88f/dms3rep/multi/massie_logo_tp.png" onerror="handleImageLoadError(this)" height="111.71875" width="240.0"/></div> 
+ <a data-display-type="block" class="u_1166186534 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="https://secure.thomasmassie.com/donate" id="1166186534" data-element-type="dButtonLinkId" target="_blank"> <span class="iconBg" id="1099367015"> <span class="icon hasFontIcon icon-star" id="1736637912"></span> 
+</span> 
+ <span class="text" id="1218706718">DONATE TODAY</span> 
+</a> 
+</div> 
+ <div class="u_1738521024 dmRespCol small-12 large-8 medium-8" id="1738521024"> <nav class="u_1076100564 effect-text-color main-navigation unifiednav dmLinksMenu" role="navigation" layout-main="horizontal_nav_layout_2" layout-sub="submenu_horizontal_1" data-show-vertical-sub-items="HOVER" id="1076100564" dmle_extension="onelinksmenu" data-element-type="onelinksmenu" data-logo-src="" alt="" wr="true" icon="true" surround="true" adwords="" navigation-id="unifiedNav"> <ul role="menubar" class="unifiednav__container  " data-auto="navigation-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/" class="unifiednav__item  dmNavItemSelected  dmUDNavigationItem_00  " target="" data-target-page-alias="" data-auto="selected-page"> <span class="nav-item-text " data-link-text="
+         HOME
+        " data-auto="page-text-style">HOME<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/#ABOUT" class="unifiednav__item  dmUDNavigationItem_010101874542  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         ABOUT
+        " data-auto="page-text-style">ABOUT<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/#ISSUES" class="unifiednav__item  dmUDNavigationItem_010101454893  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         ISSUES
+        " data-auto="page-text-style">ISSUES<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/#VOLUNTEER" class="unifiednav__item  dmUDNavigationItem_010101899639  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         VOLUNTEER
+        " data-auto="page-text-style">VOLUNTEER<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="https://secure.winred.com/thomas-massie-for-congress/storefront" class="unifiednav__item  dmUDNavigationItem_010101777961  " target="_blank" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         VISIT STORE
+        " data-auto="page-text-style">VISIT STORE<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</nav> 
+ <div class="u_1544004307 align-center text-align-center dmSocialHub" id="1544004307" dmle_extension="social_hub" data-element-type="social_hub" wr="true" networks="" icon="true" surround="true" adwords=""> <div class="socialHubWrapper"> <div class="socialHubInnerDiv "> <a href="https://www.facebook.com/ThomasMassieforCongress/" target="_blank" dm_dont_rewrite_url="true" aria-label="facebook" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event(&apos;socialLink&apos;, &apos;click&apos;, &apos;Facebook&apos;)"> <span class="dmSocialFacebook dm-social-icons-facebook oneIcon socialHubIcon style5" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+ <a href="https://twitter.com/massieforky" target="_blank" dm_dont_rewrite_url="true" aria-label="twitter" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event(&apos;socialLink&apos;, &apos;click&apos;, &apos;Twitter&apos;)"> <span class="dmSocialTwitter dm-social-icons-twitter oneIcon socialHubIcon style5" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+</div> 
+</div> 
+</div> 
+ <div class="dmNewParagraph u_1955836782" data-element-type="paragraph" id="1955836782" style="transition: opacity 1s ease-in-out 0s;"><div style="text-align: center;"><span style="" class="lh-1 font-size-12">Call my office anytime: (859) 363-5836</span></div><div style="text-align: center;"><span style="" class="lh-1 font-size-12">Please direct press inquiries to <a href="mailto:press@thomasmassie.com" runtime_url="mailto:press@thomasmassie.com"><font style="color: rgb(38, 44, 92);">press@thomasmassie.com</font></a>.&nbsp;</span></div><div style="text-align: center;"><span style="" class="lh-1 font-size-12"><b><a href="/photo-gallery" runtime_url="/photo-gallery">Media P</a><a href="/photo-gallery" runtime_url="/photo-gallery">age</a>:</b> 
+ <a href="/photo-gallery" runtime_url="/photo-gallery">www.thomasmassie.com/photo-gallery</a></span></div><div style="text-align: center;"><span style="" class="lh-1 font-size-12">To contribute by mail, please send a personal check made payable to &ldquo;Thomas Massie for Congress&rdquo; to:</span></div><div style="text-align: center;"><span style="font-size: 12px;">Thomas Massie for Congress</span><br/></div><div style="text-align: center;"><span style="" class="lh-1 font-size-12">PO Box 821</span></div><div style="text-align: center;"><span style="" class="lh-1 font-size-12">Newport, KY 41072</span></div></div></div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1010527505" id="1010527505"> <div class="dmRespColsWrapper" id="1038635799"> <div class="dmRespCol large-12 medium-12 small-12" id="1921632036"> <div class="u_1413053689 dmNewParagraph" data-element-type="paragraph" id="1413053689" style="text-align: center; transition: opacity 1s ease-in-out 0s;"><font style="color: rgb(255, 255, 255);" class="font-size-12 lh-1">Paid for by Thomas Massie for Congress</font></div></div> 
+</div> 
+</div> 
+</div> 
+ <div id="1236746004" dmle_extension="powered_by" data-element-type="powered_by" icon="true" surround="false"></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+
+    </div>
+</div>
+<!--  Add full CSS and Javascript before the close tag of the body if needed -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Google Fonts Include -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- loadCSS function fonts.jsp-->
+
+
+
+<link rel="preload" href="https://irp.cdn-website.com/fonts/css2?family=Cardo:ital,wght@0,400;0,700;1,400&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&amp;subset=latin-ext&amp;display=swap"  as="style" fetchpriority="low" onload="loadCSS(this)" />
+
+
+
+
+
+<!-- RT CSS Include d-css-runtime-desktop-one-package-structured-global-->
+<link rel="preload" as="style" fetchpriority="low" onload="loadCSS(this)" href="https://static.cdn-website.com/mnlt/production/4869/_dm/s/rt/dist/css/d-css-runtime-desktop-one-package-structured-global.min.css" />
+
+<!-- End of RT CSS Include -->
+
+<link rel="preload" href="https://irp.cdn-website.com/WIDGET_CSS/01e753c30c8ca96259ef56ab3c5d4813.css" id="widgetCSS" as="style" fetchpriority="low" onload="loadCSS(this)" />
+
+<!-- Support `img` size attributes -->
+<style>img[width][height] {
+    height: auto;
+}</style>
+
+<!-- Support showing sticky element on page only -->
+<style>
+    body[data-page-alias="home"] #dm [data-show-on-page-only="home"] {
+        display: block !important;
+    }
+</style>
+
+<!-- This is populated in Ajax navigation -->
+<style id="pageAdditionalWidgetsCss" type="text/css">
+</style>
+
+
+
+
+<!-- Site CSS -->
+<link rel="preload" href="https://irp.cdn-website.com/cff1c88f/files/cff1c88f_withFlex_1.min.css?v=204" id="siteGlobalCss" as="style" fetchpriority="low" onload="loadCSS(this)" />
+
+
+
+<style id="customWidgetStyle" type="text/css">
+    
+</style>
+<style id="innerPagesStyle" type="text/css">
+    
+</style>
+
+
+<style
+        id="additionalGlobalCss" type="text/css"
+>
+</style>
+
+<!-- Page CSS -->
+<link rel="preload" href="https://irp.cdn-website.com/cff1c88f/files/cff1c88f_home_withFlex_1.min.css?v=204" id="homeCssLink" as="style" fetchpriority="low" onload="loadCSS(this)" />
+
+<style id="pagestyle" type="text/css">
+    
+</style>
+
+<style id="pagestyleDevice" type="text/css">
+    
+</style>
+
+<!-- Flex Sections CSS -->
+
+
+
+
+
+<style id="globalFontSizeStyle" type="text/css">
+    .font-size-60, .size-60, .size-60 > font { font-size: 60px !important; }.font-size-72, .size-72, .size-72 > font { font-size: 72px !important; }.font-size-48, .size-48, .size-48 > font { font-size: 48px !important; }.font-size-30, .size-30, .size-30 > font { font-size: 30px !important; }.font-size-12, .size-12, .size-12 > font { font-size: 12px !important; }
+</style>
+<style id="pageFontSizeStyle" type="text/css">
+</style>
+
+<!-- ========= JS Section ========= -->
+<script>
+    var isWLR = true;
+
+    window.customWidgetsFunctions = {};
+    window.customWidgetsStrings = {};
+    window.collections = {};
+    window.currentLanguage = "ENGLISH"
+    window.isSitePreview = false;
+</script>
+<script type="text/javascript">
+
+    var d_version = "production_4869";
+    var build = "2024-10-28T11_48_33";
+    window['v' + 'ersion'] = d_version;
+
+    function buildEditorParent() {
+        window.isMultiScreen = true;
+        window.editorParent = {};
+        window.previewParent = {};
+        window.assetsCacheQueryParam = "?version=2024-10-28T11_48_33";
+        try {
+            var _p = window.parent;
+            if (_p && _p.document && _p.$ && _p.$.dmfw) {
+                window.editorParent = _p;
+            } else if (_p.isSitePreview) {
+                window.previewParent = _p;
+            }
+        } catch (e) {
+
+        }
+    }
+
+    buildEditorParent();
+</script>
+
+<!-- Load jQuery -->
+<script type="text/javascript" id='d-js-jquery'
+        src="https://static.cdn-website.com/libs/jquery/jquery-3.7.0.min.js"></script>
+<!-- End Load jQuery -->
+<!-- Injecting site-wide before scripts -->
+<!-- End Injecting site-wide to the head -->
+
+
+<script>
+    var _jquery = window.$;
+
+    var jqueryAliases = ['$', 'jquery', 'jQuery'];
+
+    jqueryAliases.forEach((alias) => {
+        Object.defineProperty(window, alias, {
+            get() {
+                return _jquery;
+            },
+            set() {
+                console.warn("Trying to over-write the global jquery object!");
+            }
+        });
+    });
+    window.jQuery.migrateMute = true;
+</script>
+<script>
+    window.cookiesNotificationMarkupPreview = 'null';
+</script>
+
+<!-- HEAD RT JS Include -->
+<script id='d-js-params'>
+    window.INSITE = window.INSITE || {};
+    window.INSITE.device = "desktop";
+
+    window.rtCommonProps = {};
+    rtCommonProps["rt.ajax.ajaxScriptsFix"] =true;
+    rtCommonProps["rt.pushnotifs.sslframe.encoded"] = 'aHR0cHM6Ly97c3ViZG9tYWlufS5wdXNoLW5vdGlmcy5jb20=';
+    rtCommonProps["runtimecollector.url"] = 'https://rtc.multiscreensite.com';
+    rtCommonProps["performance.tabletPreview.removeScroll"] = 'false';
+    rtCommonProps["inlineEditGrid.snap"] =true;
+    rtCommonProps["popup.insite.cookie.ttl"] = '0.5';
+    rtCommonProps["rt.pushnotifs.force.button"] =true;
+    rtCommonProps["common.mapbox.token"] = 'pk.eyJ1IjoiZGFubnliMTIzIiwiYSI6ImNqMGljZ256dzAwMDAycXBkdWxwbDgzeXYifQ.Ck5P-0NKPVKAZ6SH98gxxw';
+    rtCommonProps["common.mapbox.js.override"] =false;
+    rtCommonProps["common.here.appId"] = 'iYvDjIQ2quyEu0rg0hLo';
+    rtCommonProps["common.here.appCode"] = '1hcIxLJcbybmtBYTD9Z1UA';
+    rtCommonProps["isCoverage.test"] =false;
+    rtCommonProps["ecommerce.ecwid.script"] = 'https://app.multiscreenstore.com/script.js';
+    rtCommonProps["feature.flag.mappy.kml"] =false;
+    rtCommonProps["common.resources.dist.cdn"] =true;
+    rtCommonProps["common.build.dist.folder"] = 'production/4869';
+    rtCommonProps["common.resources.cdn.host"] = 'https://static.cdn-website.com';
+    rtCommonProps["common.resources.folder"] = 'https://static.cdn-website.com/mnlt/production/4869';
+    rtCommonProps["feature.flag.runtime.backgroundSlider.preload.slowly"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.enabled"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.respectCssAnimationProps.enabled"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.jitAnimation.enabled"] =true;
+    rtCommonProps["feature.flag.sites.google.analytics.gtag"] =true;
+    rtCommonProps["feature.flag.runOnReadyNewTask"] =true;
+    rtCommonProps["isAutomation.test"] =false;
+
+    
+    rtCommonProps['common.mapsProvider'] = 'mapbox';
+    
+    rtCommonProps['common.mapsProvider.version'] = '0.52.0';
+    rtCommonProps['common.geocodeProvider'] = 'mapbox';
+    rtCommonProps['common.map.defaults.radiusSize'] = '1500';
+    rtCommonProps['common.map.defaults.radiusBg'] = 'rgba(255, 255, 255, 0.4)';
+    rtCommonProps['common.map.defaults.strokeColor'] = 'rgba(255, 255, 255, 1)';
+    rtCommonProps['common.map.defaults.strokeSize'] = '2';
+    rtCommonProps['server.for.resources'] = '';
+    rtCommonProps['feature.flag.lazy.widgets'] = true;
+    rtCommonProps['feature.flag.single.wow'] = false;
+    rtCommonProps['feature.flag.disallowPopupsInEditor'] = true;
+    rtCommonProps['feature.flag.mark.anchors'] = true;
+    rtCommonProps['captcha.public.key'] = '6LffcBsUAAAAAMU-MYacU-6QHY4iDtUEYv_Ppwlz';
+    rtCommonProps['captcha.invisible.public.key'] = '6LeiWB8UAAAAAHYnVJM7_-7ap6bXCUNGiv7bBPME';
+    rtCommonProps["images.sizes.small"] =160;
+    rtCommonProps["images.sizes.mobile"] =640;
+    rtCommonProps["images.sizes.tablet"] =1280;
+    rtCommonProps["images.sizes.desktop"] =1920;
+    rtCommonProps["modules.resources.cdn"] =true;
+    rtCommonProps["import.images.storage.imageCDN"] = 'https://lirp.cdn-website.com/';
+    rtCommonProps["facebook.api.version"] = '7.0';
+    rtCommonProps["feature.flag.runtime.inp.threshold"] =150;
+    rtCommonProps["feature.flag.performance.logs"] =true;
+    rtCommonProps["site.widget.form.captcha.type"] = 'g_recaptcha';
+    rtCommonProps["friendly.captcha.site.key"] = 'FCMGSQG9GVNMFS8K';
+    rtCommonProps["cookiebot.mapbox.consent.category"] = 'marketing';
+    rtCommonProps["platform.monolith.personalization.dateTimeCondition.popupMsgAction.moveToclient.enabled"] =false;
+
+    // feature flags that's used out of runtime module (in  legacy files)
+    rtCommonProps["site.runtime.video.background.ssr"] =true;
+
+    window.rtFlags = {};
+    rtFlags["unsuspendEcwidStoreOnRuntime.enabled"] =true;
+    rtFlags["scripts.widgetCount.enabled"] =true;
+    rtFlags["ecom.ecwid.categoryPage.modifyLinks"] = true;
+    rtFlags["ecom.ecwid.delegateNavigationToEcwid.enabled"] = false;
+    rtFlags["ecom.ecwidNewUrlStructure.enabled"] = false;
+    rtFlags["ecom.ecwid.old.store.fix.scrolling.enabled"] = true;
+    rtFlags["ecom.ecwid.old.store.fix.facebook.share"] = true;
+    rtFlags["ecom.ecwid.fallBackInCaseLinksNotFound.enabled"] = true;
+    rtFlags["feature.flag.photo.gallery.exact.size"] =true;
+    rtFlags["new.store.fix.ecwid.back.bug"] =true;
+    rtFlags["facebook.runtime.widgets.upgrade"] =true;
+    rtFlags["ecom.ecwid.solve.url.modifications"] = true;
+    rtFlags["ecom.ecwid.configOptions"] = true;
+    rtFlags["geocode.search.localize"] =false;
+    rtFlags["feature.flag.runtime.newAnimation.asyncInit.setTimeout.enabled"] =false;
+    rtFlags["site.contact.form.fix.for.attribute"] =true;
+    rtFlags["contact.form.date.format.enabled"] = true;
+    rtFlags["twitter.heightLimit.enabled"] = true;
+    rtFlags["ecom.ecwid.fixTranslations.enabled"] = true;
+    rtFlags["runtime.load.script.native"] =true;
+    rtFlags["editor.classicHybrid.photogallery.fix"] =true;
+    rtFlags["runtime.lottieOverflow"] =false;
+    rtFlags["runtime.monitoring.sentry.ignoreErrors"] = "";
+    rtFlags["ecom.ecwid.old.store.fix.scrolling.detect.enable"] =true;
+    rtFlags["contact.form.browserValidation.enabled"] =true;
+</script>
+<script src="https://static.cdn-website.com/mnlt/production/4869/_dm/s/rt/dist/scripts/d-js-one-runtime-unified-desktop.min.js"  id="d-js-core"></script>
+<!-- End of HEAD RT JS Include -->
+<script src="https://static.cdn-website.com/mnlt/production/4869/_dm/s/rt/dist/scripts/d-js-jquery-migrate.min.js" ></script>
+<script>
+    
+    $(window).bind("orientationchange", function (e) {
+        $.layoutManager.initLayout();
+        
+    });
+    $(document).resize(function () {
+        
+    });
+</script>
+<script type="text/javascript" id="d_track_campaign">
+(function() {
+ 	var campaign = (/utm_campaign=([^&]*)/).exec(window.location.search);
+
+ 	if (campaign && campaign != null && campaign.length > 1) {
+ 		campaign = campaign[1];
+ 		document.cookie = "_dm_rt_campaign=" + campaign + ";expires=" + new Date().getTime() + 24*60*60*1000 + ";domain=" + window.location.hostname + ";path=/";
+ 	}
+}());
+</script>
+<script type="text/javascript" >
+  var _dm_gaq = {};
+  var _gaq = _gaq || [];
+  var _dm_insite = [];
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-148998083-23"></script>
+<script type="text/javascript" id="d_track_ga">
+  _dm_gaq.siteAlias = 'cff1c88f';
+  _dm_gaq.systemAggregatedGaqID = '';
+  _dm_gaq.externalGaqID = 'UA-148998083-23';
+  _dm_gaq.gaAggregatedEventAttributes = {
+	  'site_alias':  _dm_gaq.siteAlias,
+	  'product': 'DM_DIRECT',
+	  'plan': 'BUSINESS_PLUS',
+	  'dfooter': 'false',
+	  'sitetype': '1',
+	  'pwaEnabled': 'false'
+  }
+
+  _dm_gaq.pushEvent = function(trackingId, event, category, label, value, additionalParams = {}) {
+	  const eventProps = {
+		  send_to: trackingId,
+		  event_category: category,
+		  event_label: label,
+		  value,
+		  ...additionalParams,
+		  ...(trackingId === _dm_gaq.systemAggregatedGaqID
+				  ? _dm_gaq.gaAggregatedEventAttributes : {})
+	  };
+	  gtag('event', event, eventProps);
+  }
+
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+  function pushInsiteImpressions(id) {
+	  _dm_insite.forEach((rule) => {
+		  _dm_gaq.pushEvent(id, 'insite_impression', 'insite', rule.ruleType + '__' + rule.ruleId);
+	  });
+  }
+
+if(_dm_gaq.systemAggregatedGaqID){
+	// track aggregated account
+	gtag('config', '', {
+		'send_page_view': false,
+		'anonymize_ip': true,
+		'transport_type': 'beacon',
+		'custom_map': {'dimension1': 'site_alias', 'dimension2': 'product', 'dimension3': 'dFooter', 'dimension4': 'sitetype'}
+	});
+	gtag('set', 'developer_id.dMDU5Nj', true);
+
+	_dm_gaq.pushEvent('', 'page_view');
+	pushInsiteImpressions(_dm_gaq.systemAggregatedGaqID);
+}
+
+if(_dm_gaq.externalGaqID && _dm_gaq.externalGaqID!= '') {
+	gtag('config', 'UA-148998083-23', {
+		'send_page_view': false,
+		'anonymize_ip': true,
+		'transport_type': 'beacon',
+		'linker': {
+			'domains': ['thomasmassie.com']
+		}
+	});
+	_dm_gaq.pushEvent('UA-148998083-23', 'page_view');
+	pushInsiteImpressions(_dm_gaq.externalGaqID);
+}
+</script>
+<script type="text/javascript" id="d_track_sp">
+;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
+p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script","//d32hwlnfiv2gyn.cloudfront.net/sp-2.0.0-dm-0.1.min.js","snowplow"));
+window.dmsnowplow  = window.snowplow;
+
+dmsnowplow('newTracker', 'cf', 'd32hwlnfiv2gyn.cloudfront.net', { // Initialise a tracker
+  appId: 'cff1c88f'
+});
+
+// snowplow queries element styles so we wait until CSS calculations are done.
+requestAnimationFrame(() => {
+	dmsnowplow('trackPageView');
+	_dm_insite.forEach((rule) => {
+		// Specifically in popup only the client knows if it is shown or not so we don't always want to track its impression here
+		// the tracking is in popup.js
+		if (rule.actionName !== "popup") {
+			dmsnowplow('trackStructEvent', 'insite', 'impression', rule.ruleType, rule.ruleId);
+		}
+		window?.waitForDeferred?.('dmAjax', () => {
+			$.DM.events.trigger('event-ruleTriggered', {value: rule});
+		});
+	});
+});
+</script>
+   <div style="display:none;" id="P6iryBW0Wu"></div>
+
+<!-- photoswipe markup -->
+
+
+
+
+
+
+
+
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    <!-- Background of PhotoSwipe. 
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. 
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                <!--  Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+<div id="fb-root"
+        data-locale="en"></div>
+<!-- Alias: cff1c88f -->
+<div class="dmPopupMask" id="dmPopupMask"></div>
+<div id="dmPopup" class="dmPopup">
+	<div class="dmPopupCloseWrapper"> <div class="dmPopupClose dm-common-icons-close oneIcon" onclick="dmHidePopup(event);"></div> </div>
+ 	<div class="dmPopupTitle"> <span></span> Share by:</div> 
+	<div class="data"></div>
+</div><script id="d_track_personalization">
+	window?.waitForDeferred?.('dmAjax', () => {
+		// Collects client data and updates cookies used by smart sites
+		window.expireDays = 365;
+		window.visitLength = 30 * 60000;
+		$.setCookie("dm_timezone_offset", (new Date()).getTimezoneOffset(), window.expireDays);
+			setSmartSiteCookiesInternal("dm_this_page_view","dm_last_page_view","dm_total_visits","dm_last_visit");
+	});
+</script>
+<script type="text/javascript">
+    
+    Parameters.NavigationAreaParams.MoreButtonText = 'MORE';
+    
+    Parameters.NavigationAreaParams.LessButtonText = 'LESS';
+    Parameters.HomeLinkText = 'Home';
+    </script>
+<!--  End Script tags -->
+
+<!--  Begin Body End Markup -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NBFP8M4"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><!--  End Body End Markup -->
+
+<!--  Site Wide Html Markup -->
+<!--  Site Wide Html Markup -->
+</body>
+</html>

@@ -1,0 +1,28 @@
+{
+  "name": "Thomas Massie",
+  "domains_tried": [
+    "thomasmassie.com",
+    "massieforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.thomasmassie.com/",
+      "timestamp": "20241105102016",
+      "wayback": "https://web.archive.org/web/20241105102016/https://www.thomasmassie.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105102016id_/https://www.thomasmassie.com/",
+      "file": "archive/2024/massie/home.html",
+      "text_file": "archive/2024/massie/home.txt",
+      "bytes": 161787,
+      "sha256_html": "3f9f2a6c50774a427e6b6a4c2f812e4d52e2207d969d993e145b1b03047b2c5f",
+      "sha256_text": "6be21903d03ca6a5b464d0233e7acb6389b62ca592c81983c570c82078624fc7"
+    }
+  ],
+  "snapshots_found": {
+    "thomasmassie.com": 10
+  },
+  "generated_utc": "2026-11-14T07:46:47Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
