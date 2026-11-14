@@ -1,0 +1,27 @@
+{
+  "name": "Nicholas J. Begich III",
+  "domains_tried": [
+    "alaskansfornickbegich.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.alaskansfornickbegich.com/",
+      "timestamp": "20241105160015",
+      "wayback": "https://web.archive.org/web/20241105160015/https://www.alaskansfornickbegich.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105160015id_/https://www.alaskansfornickbegich.com/",
+      "file": "archive/2024/begich-ak/home.html",
+      "text_file": "archive/2024/begich-ak/home.txt",
+      "bytes": 765232,
+      "sha256_html": "3ac2361b0bf0788bea144d6f1f2cf26ab1aeb1275ce0ba69dead56da841b5352",
+      "sha256_text": "9be02487449f1bab331432ea3b77e78257c05a98d235e87c2ca35c35faea7571"
+    }
+  ],
+  "snapshots_found": {
+    "alaskansfornickbegich.com": 36
+  },
+  "generated_utc": "2026-11-14T16:35:43Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
