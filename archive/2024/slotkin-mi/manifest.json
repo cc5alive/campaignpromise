@@ -1,0 +1,49 @@
+{
+  "name": "Elissa Slotkin",
+  "domains_tried": [
+    "elissaslotkin.org"
+  ],
+  "pages": [
+    {
+      "original": "https://elissaslotkin.org/",
+      "timestamp": "20241104213328",
+      "wayback": "https://web.archive.org/web/20241104213328/https://elissaslotkin.org/",
+      "wayback_raw": "https://web.archive.org/web/20241104213328id_/https://elissaslotkin.org/",
+      "file": "archive/2024/slotkin-mi/home.html",
+      "text_file": "archive/2024/slotkin-mi/home.txt",
+      "bytes": 181366,
+      "sha256_html": "e3348ba4c8dcee04c038d89d6ec9a520541a820224748da656714989f5cc8832",
+      "sha256_text": "45148b70d5a02a48d82beda568d5aedb507432200ac0fb5f6752d3618798b5da"
+    },
+    {
+      "original": "https://elissaslotkin.org/opportunity-agenda/",
+      "timestamp": "20241029014418",
+      "wayback": "https://web.archive.org/web/20241029014418/https://elissaslotkin.org/opportunity-agenda/",
+      "wayback_raw": "https://web.archive.org/web/20241029014418id_/https://elissaslotkin.org/opportunity-agenda/",
+      "file": "archive/2024/slotkin-mi/opportunity-agenda.html",
+      "text_file": "archive/2024/slotkin-mi/opportunity-agenda.txt",
+      "bytes": 119768,
+      "sha256_html": "519f5efed61d28f643f080afcf706ca2603a62aa360ed840245013689801d7e9",
+      "sha256_text": "ade1186285690db712c7d129cbd536435a21d4c781cbe510073c496fec2f306e"
+    },
+    {
+      "original": "https://elissaslotkin.org/priorities/",
+      "timestamp": "20241027183232",
+      "wayback": "https://web.archive.org/web/20241027183232/https://elissaslotkin.org/priorities/",
+      "wayback_raw": "https://web.archive.org/web/20241027183232id_/https://elissaslotkin.org/priorities/",
+      "file": "archive/2024/slotkin-mi/priorities.html",
+      "text_file": "archive/2024/slotkin-mi/priorities.txt",
+      "bytes": 132491,
+      "sha256_html": "33277b34cb5f24323387a31edb7044b3def7530e70e79cf1931c173ed1793dab",
+      "sha256_text": "22930992ada8409217349477d9125d810a47492d33c79b0baf75985af21cab49"
+    }
+  ],
+  "snapshots_found": {
+    "elissaslotkin.org": 14
+  },
+  "generated_utc": "2026-11-14T08:19:58Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
