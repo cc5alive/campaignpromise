@@ -1,0 +1,142 @@
+{
+  "name": "Ilhan Omar",
+  "domains_tried": [
+    "ilhanomar.com"
+  ],
+  "pages": [
+    {
+      "original": "https://ilhanomar.com/",
+      "timestamp": "20241105072058",
+      "wayback": "https://web.archive.org/web/20241105072058/https://ilhanomar.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105072058id_/https://ilhanomar.com/",
+      "file": "archive/2024/omar-mn/home.html",
+      "text_file": "archive/2024/omar-mn/home.txt",
+      "bytes": 64989,
+      "sha256_html": "50cb3bb6d9094271814113614a972fd4b89a3e4afb82fde55c3fddc01c40b674",
+      "sha256_text": "ae67eae6fe2c11ac901a69982054ebc6cab84de3d6a5aa39bcda80f4e62a85cd"
+    },
+    {
+      "original": "https://ilhanomar.com/my-record/",
+      "timestamp": "20241105072816",
+      "wayback": "https://web.archive.org/web/20241105072816/https://ilhanomar.com/my-record/",
+      "wayback_raw": "https://web.archive.org/web/20241105072816id_/https://ilhanomar.com/my-record/",
+      "file": "archive/2024/omar-mn/my-record.html",
+      "text_file": "archive/2024/omar-mn/my-record.txt",
+      "bytes": 76102,
+      "sha256_html": "bdeaa8c698db7019a61f038d8364e1e672d6bd327e69282205ba3b9ecd3667cb",
+      "sha256_text": "f65bfae93433640055febd7a0177d411c7005e3c7888ec884215b2fff9b0b5a9"
+    },
+    {
+      "original": "https://ilhanomar.com/visions/",
+      "timestamp": "20241105072104",
+      "wayback": "https://web.archive.org/web/20241105072104/https://ilhanomar.com/visions/",
+      "wayback_raw": "https://web.archive.org/web/20241105072104id_/https://ilhanomar.com/visions/",
+      "file": "archive/2024/omar-mn/visions.html",
+      "text_file": "archive/2024/omar-mn/visions.txt",
+      "bytes": 65324,
+      "sha256_html": "cc1620dfc9dd3bde2b078e9b69c8e1525323b7428ed2ca4373d8d9560de1efae",
+      "sha256_text": "6227f89fbd70bd6d20c45d6d1bd051a5eb6630a9c786eddd203259bfc166ee96"
+    },
+    {
+      "original": "https://ilhanomar.com/issue/arts/",
+      "timestamp": "20241105072438",
+      "wayback": "https://web.archive.org/web/20241105072438/https://ilhanomar.com/issue/arts/",
+      "wayback_raw": "https://web.archive.org/web/20241105072438id_/https://ilhanomar.com/issue/arts/",
+      "file": "archive/2024/omar-mn/issue-arts.html",
+      "text_file": "archive/2024/omar-mn/issue-arts.txt",
+      "bytes": 48958,
+      "sha256_html": "e2e21da2ec4bc8c1c7198916be72b17fc45a2382467736fa9650e0a59bc75329",
+      "sha256_text": "638aaa623ee7b496b593fd8b40703810ea1d3c16c3f8d0cf11dd2ba99cba013c"
+    },
+    {
+      "original": "https://ilhanomar.com/issue/criminal-justice/",
+      "timestamp": "20241105072424",
+      "wayback": "https://web.archive.org/web/20241105072424/https://ilhanomar.com/issue/criminal-justice/",
+      "wayback_raw": "https://web.archive.org/web/20241105072424id_/https://ilhanomar.com/issue/criminal-justice/",
+      "file": "archive/2024/omar-mn/issue-criminal-justice.html",
+      "text_file": "archive/2024/omar-mn/issue-criminal-justice.txt",
+      "bytes": 50406,
+      "sha256_html": "53095cfdc5547e21c0588da70d2f4768151afbecfb10b1506bb0654f226dd918",
+      "sha256_text": "4ab05f90dd3eebc3cca7faef78e44f1fe18ecbe2fd63fe14191ad93c3ff12a21"
+    },
+    {
+      "original": "https://ilhanomar.com/issue/disability-accessibility-advocacy/",
+      "timestamp": "20241105072428",
+      "wayback": "https://web.archive.org/web/20241105072428/https://ilhanomar.com/issue/disability-accessibility-advocacy/",
+      "wayback_raw": "https://web.archive.org/web/20241105072428id_/https://ilhanomar.com/issue/disability-accessibility-advocacy/",
+      "file": "archive/2024/omar-mn/issue-disability-accessibility-advocacy.html",
+      "text_file": "archive/2024/omar-mn/issue-disability-accessibility-advocacy.txt",
+      "bytes": 52235,
+      "sha256_html": "b276f462b326bcf295f9e27e7bc67df7f51e3eeec455c94e0f030606a17a797f",
+      "sha256_text": "8c2d9d5527a2285e350a697d2620420a050275d7f1f39723b07c247f1f473227"
+    },
+    {
+      "original": "https://ilhanomar.com/issue/economicjustice/",
+      "timestamp": "20241105072425",
+      "wayback": "https://web.archive.org/web/20241105072425/https://ilhanomar.com/issue/economicjustice/",
+      "wayback_raw": "https://web.archive.org/web/20241105072425id_/https://ilhanomar.com/issue/economicjustice/",
+      "file": "archive/2024/omar-mn/issue-economicjustice.html",
+      "text_file": "archive/2024/omar-mn/issue-economicjustice.txt",
+      "bytes": 53589,
+      "sha256_html": "a69e6034d9566523045f440f2fa1b961d2e76c4003aaacfc33c6f7d5291e7f2f",
+      "sha256_text": "29382b04adbd2a5e75752102c302e93419d3471c8007bc0875738803af0622d8"
+    },
+    {
+      "original": "https://ilhanomar.com/issue/education/",
+      "timestamp": "20241105072434",
+      "wayback": "https://web.archive.org/web/20241105072434/https://ilhanomar.com/issue/education/",
+      "wayback_raw": "https://web.archive.org/web/20241105072434id_/https://ilhanomar.com/issue/education/",
+      "file": "archive/2024/omar-mn/issue-education.html",
+      "text_file": "archive/2024/omar-mn/issue-education.txt",
+      "bytes": 52125,
+      "sha256_html": "08123c5238aaa5f67a1654751bf846f423ee6adf34daf9b3737e8c7cf57134e8",
+      "sha256_text": "59bda40315985a890e1dc555c6cfc0356e32da06b21f98af542356dcb1a309c1"
+    },
+    {
+      "original": "https://ilhanomar.com/issue/elections/",
+      "timestamp": "20241105072432",
+      "error": "no response"
+    },
+    {
+      "original": "https://ilhanomar.com/issue/environment/",
+      "timestamp": "20241105072431",
+      "wayback": "https://web.archive.org/web/20241105072431/https://ilhanomar.com/issue/environment/",
+      "wayback_raw": "https://web.archive.org/web/20241105072431id_/https://ilhanomar.com/issue/environment/",
+      "file": "archive/2024/omar-mn/issue-environment.html",
+      "text_file": "archive/2024/omar-mn/issue-environment.txt",
+      "bytes": 53366,
+      "sha256_html": "4eb3d340ac6201c3aa47f27b5a35a155d08543618719a529fe00b137dc5ef921",
+      "sha256_text": "4d73bdc33f6a19feba93c4faa1a0953afb2daa59091cf8b2abcbbfc4b264985e"
+    },
+    {
+      "original": "https://ilhanomar.com/issue/equality/",
+      "timestamp": "20241105072425",
+      "wayback": "https://web.archive.org/web/20241105072425/https://ilhanomar.com/issue/equality/",
+      "wayback_raw": "https://web.archive.org/web/20241105072425id_/https://ilhanomar.com/issue/equality/",
+      "file": "archive/2024/omar-mn/issue-equality.html",
+      "text_file": "archive/2024/omar-mn/issue-equality.txt",
+      "bytes": 50014,
+      "sha256_html": "6c31bde3788958bebe918b6c4120d1728be295c281185da4be84a02f1724bb72",
+      "sha256_text": "665ec02310139b6e0026df4506dd0aae3062b1b0ec4a3222c07163b388c119f6"
+    },
+    {
+      "original": "https://ilhanomar.com/issue/foreign-policy/",
+      "timestamp": "20241105072436",
+      "wayback": "https://web.archive.org/web/20241105072436/https://ilhanomar.com/issue/foreign-policy/",
+      "wayback_raw": "https://web.archive.org/web/20241105072436id_/https://ilhanomar.com/issue/foreign-policy/",
+      "file": "archive/2024/omar-mn/issue-foreign-policy.html",
+      "text_file": "archive/2024/omar-mn/issue-foreign-policy.txt",
+      "bytes": 56208,
+      "sha256_html": "476aa1886eac73cdf752df6e60f616b3ae16c3c3932b9cf2faddfe3c240c0595",
+      "sha256_text": "7cd2ffc0a51273ec73cb376c3b4538c6767bfaace4ceb5599d4ec62db5fc1d53"
+    }
+  ],
+  "snapshots_found": {
+    "ilhanomar.com": 210
+  },
+  "generated_utc": "2026-11-14T08:46:06Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
