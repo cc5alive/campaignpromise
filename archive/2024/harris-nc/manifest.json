@@ -1,0 +1,38 @@
+{
+  "name": "Mark Harris",
+  "domains_tried": [
+    "markharrisforcongress.org"
+  ],
+  "pages": [
+    {
+      "original": "https://markharrisforcongress.org/",
+      "timestamp": "20241105115811",
+      "wayback": "https://web.archive.org/web/20241105115811/https://markharrisforcongress.org/",
+      "wayback_raw": "https://web.archive.org/web/20241105115811id_/https://markharrisforcongress.org/",
+      "file": "archive/2024/harris-nc/home.html",
+      "text_file": "archive/2024/harris-nc/home.txt",
+      "bytes": 63,
+      "sha256_html": "89cb327af2fbfb4340f374a2ae7c38900f517346b831c07292919e494d3d944b",
+      "sha256_text": "19421840869dfe681df0e1daea3e60f4a970c497b17874c02a7e150163daed2b"
+    },
+    {
+      "original": "https://markharrisforcongress.org/issues",
+      "timestamp": "20241105115812",
+      "wayback": "https://web.archive.org/web/20241105115812/https://markharrisforcongress.org/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105115812id_/https://markharrisforcongress.org/issues",
+      "file": "archive/2024/harris-nc/issues.html",
+      "text_file": "archive/2024/harris-nc/issues.txt",
+      "bytes": 206,
+      "sha256_html": "01e0218170b03a5311e3855a559f5918b5ae7bcd6be430eccb6a41a6ff541e0d",
+      "sha256_text": "e91055a8cd1b190f7c516552d4ffcc95bdc7b9d0a1925f85f66903948888821a"
+    }
+  ],
+  "snapshots_found": {
+    "markharrisforcongress.org": 7
+  },
+  "generated_utc": "2026-11-14T16:42:11Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
