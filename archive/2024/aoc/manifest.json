@@ -1,0 +1,60 @@
+{
+  "name": "Alexandria Ocasio-Cortez",
+  "domains_tried": [
+    "ocasiocortez.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.ocasiocortez.com/",
+      "timestamp": "20241105205924",
+      "wayback": "https://web.archive.org/web/20241105205924/https://www.ocasiocortez.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105205924id_/https://www.ocasiocortez.com/",
+      "file": "archive/2024/aoc/home.html",
+      "text_file": "archive/2024/aoc/home.txt",
+      "bytes": 43771,
+      "sha256_html": "f42e9d2aa146402481ba17867e8a98ddefaac463eca35a4b8bc0579d62f337bc",
+      "sha256_text": "1247f3afa0d0326693e4b2f0190f7d22c768da4b2b7685be3a3f5e6e74cb622d"
+    },
+    {
+      "original": "https://www.ocasiocortez.com/issues",
+      "timestamp": "20241105205624",
+      "wayback": "https://web.archive.org/web/20241105205624/https://www.ocasiocortez.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105205624id_/https://www.ocasiocortez.com/issues",
+      "file": "archive/2024/aoc/issues.html",
+      "text_file": "archive/2024/aoc/issues.txt",
+      "bytes": 128690,
+      "sha256_html": "eefd4c74c1e1c9cff11a0061f5befd7f570dfcb03bbec42554c116d587bc0a30",
+      "sha256_text": "e474dde6fa6105fda33d09e7b742c003fca8ab7a30a18ab0379752108b3aad56"
+    },
+    {
+      "original": "https://www.ocasiocortez.com/platform",
+      "timestamp": "20241105205728",
+      "wayback": "https://web.archive.org/web/20241105205728/https://www.ocasiocortez.com/platform",
+      "wayback_raw": "https://web.archive.org/web/20241105205728id_/https://www.ocasiocortez.com/platform",
+      "file": "archive/2024/aoc/platform.html",
+      "text_file": "archive/2024/aoc/platform.txt",
+      "bytes": 128684,
+      "sha256_html": "81d4d9ac6f526b3e047f6e6219f700e0149aa9820b6a5df2fb940cbed3509faf",
+      "sha256_text": "e474dde6fa6105fda33d09e7b742c003fca8ab7a30a18ab0379752108b3aad56"
+    },
+    {
+      "original": "https://www.ocasiocortez.com/positions",
+      "timestamp": "20241105205619",
+      "wayback": "https://web.archive.org/web/20241105205619/https://www.ocasiocortez.com/positions",
+      "wayback_raw": "https://web.archive.org/web/20241105205619id_/https://www.ocasiocortez.com/positions",
+      "file": "archive/2024/aoc/positions.html",
+      "text_file": "archive/2024/aoc/positions.txt",
+      "bytes": 19133,
+      "sha256_html": "f99b7d9636d6ddf13ef3757f1a924664b928f72fc02de9b9a26af50ad63ec8a4",
+      "sha256_text": "95428eb10deff5994b86ec3f3156491859804bf2be61678f5f8988e1b5495442"
+    }
+  ],
+  "snapshots_found": {
+    "ocasiocortez.com": 26
+  },
+  "generated_utc": "2026-11-14T07:48:05Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
