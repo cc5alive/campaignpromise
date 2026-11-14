@@ -1,0 +1,38 @@
+{
+  "name": "James Comer",
+  "domains_tried": [
+    "jamescomer.com"
+  ],
+  "pages": [
+    {
+      "original": "https://jamescomer.com/",
+      "timestamp": "20241105115405",
+      "wayback": "https://web.archive.org/web/20241105115405/https://jamescomer.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105115405id_/https://jamescomer.com/",
+      "file": "archive/2024/comer-ky/home.html",
+      "text_file": "archive/2024/comer-ky/home.txt",
+      "bytes": 29418,
+      "sha256_html": "111b6fd33ee4d4e5f169855dcead4ecfbab1b036f4950c9a53d0807fe408f4da",
+      "sha256_text": "d69c629fb4bc2881437b36df8b1f64d8b671b85aa2ef73a866d1547046a17930"
+    },
+    {
+      "original": "https://jamescomer.com/about/",
+      "timestamp": "20241105115428",
+      "wayback": "https://web.archive.org/web/20241105115428/https://jamescomer.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105115428id_/https://jamescomer.com/about/",
+      "file": "archive/2024/comer-ky/about.html",
+      "text_file": "archive/2024/comer-ky/about.txt",
+      "bytes": 29750,
+      "sha256_html": "66401ba06f57bf252ccdd2c8b98b844b2e087906f31fd4cb4cd1ec69e4f36968",
+      "sha256_text": "3279d77bdb89e715267841a7de587ed0a245a0a2d37011cd41f8be3820aa8ba2"
+    }
+  ],
+  "snapshots_found": {
+    "jamescomer.com": 38
+  },
+  "generated_utc": "2026-11-14T15:55:31Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
