@@ -1,0 +1,1463 @@
+<!doctype html >
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"
+      class="">
+<head>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    window._currentDevice = 'desktop';
+    window.Parameters = window.Parameters || {
+        HomeUrl: 'https://www.bradknottforcongress.com/',
+        AccountUUID: '131070f83aa040cea979d5d6ed3b23e8',
+        SystemID: 'US_DIRECT_PRODUCTION',
+        SiteAlias: 'bffac84e',
+        SiteType: atob('RFVEQU9ORQ=='),
+        PublicationDate: 'Mon Nov 04 19:13:43 UTC 2024',
+        ExternalUid: null,
+        IsSiteMultilingual: false,
+        InitialPostAlias: '',
+        InitialDynamicItem: '',
+        DynamicPageInfo: {
+            isDynamicPage: false,
+            base64JsonRowData: 'null',
+        },
+        InitialPageAlias: 'home',
+        InitialPageUuid: '277da95219434938993350dd8f37aeeb',
+        InitialPageId: '30693637',
+        InitialEncodedPageAlias: 'aG9tZQ==',
+        CurrentPageUrl: '',
+        IsCurrentHomePage: true,
+        AllowAjax: false,
+        AfterAjaxCommand: null,
+        HomeLinkText: 'Back To Home',
+        UseGalleryModule: false,
+        CurrentThemeName: 'Layout Theme',
+        ThemeVersion: '48940',
+        DefaultPageAlias: '',
+        RemoveDID: true,
+        WidgetStyleID: null,
+        IsHeaderFixed: false,
+        IsHeaderSkinny: false,
+        IsBfs: true,
+        StorePageAlias: 'null',
+        StorePagesUrls: 'e30=',
+        IsNewStore: 'false',
+        StorePath: '',
+        StoreId: 'null',
+        StoreVersion: 0,
+        StoreBaseUrl: '',
+        StoreCleanUrl: true,
+        StoreDisableScrolling: true,
+        IsStoreSuspended: false,
+        NotificationSubDomain: 'bradknottforcongress',
+        HasCustomDomain: true,
+        SimpleSite: false,
+        showCookieNotification: false,
+        cookiesNotificationMarkup: 'null',
+        translatedPageUrl: '',
+        isFastMigrationSite: false,
+        sidebarPosition: 'NA',
+        currentLanguage: 'en',
+        currentLocale: 'en',
+        NavItems: '{}',
+        errors: {
+            general: 'There was an error connecting to the page.<br/> Make sure you are not offline.',
+            password: 'Incorrect name/password combination',
+            tryAgain: 'Try again'
+        },
+        NavigationAreaParams: {
+            ShowBackToHomeOnInnerPages: true,
+            NavbarSize: -1,
+            NavbarLiveHomePage: 'https://www.bradknottforcongress.com/',
+            BlockContainerSelector: '.dmBody',
+            NavbarSelector: '#dmNav:has(a)',
+            SubNavbarSelector: '#subnav_main'
+        },
+        hasCustomCode: false,
+        planID: '7',
+        customTemplateId: 'null',
+        siteTemplateId: 'null',
+        productId: 'DM_DIRECT',
+        disableTracking: false,
+        pageType: 'FROM_SCRATCH',
+        isRuntimeServer: true,
+        isInEditor: false,
+        hasNativeStore: false,
+        defaultLang: 'en',
+        hamburgerMigration: null
+    };
+
+    window.Parameters.LayoutID = {};
+    window.Parameters.LayoutID[window._currentDevice] = 6;
+    window.Parameters.LayoutVariationID = {};
+    window.Parameters.LayoutVariationID[window._currentDevice] = 5;
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Injecting site-wide to the head -->
+
+
+
+
+<!-- End Injecting site-wide to the head -->
+
+<!-- Inject secured cdn script -->
+
+
+<!-- ========= Meta Tags ========= -->
+<!-- PWA settings -->
+<script>
+    function toHash(str) {
+        var hash = 5381, i = str.length;
+        while (i) {
+            hash = hash * 33 ^ str.charCodeAt(--i)
+        }
+        return hash >>> 0
+    }
+</script>
+<script>
+    (function (global) {
+    //const cacheKey = global.cacheKey;
+    const isOffline = 'onLine' in navigator && navigator.onLine === false;
+    const hasServiceWorkerSupport = 'serviceWorker' in navigator;
+    if (isOffline) {
+        console.log('offline mode');
+    }
+    if (!hasServiceWorkerSupport) {
+        console.log('service worker is not supported');
+    }
+    if (hasServiceWorkerSupport && !isOffline) {
+        window.addEventListener('load', function () {
+            const serviceWorkerPath = '/runtime-service-worker.js?v=3';
+            navigator.serviceWorker
+                .register(serviceWorkerPath, { scope: './' })
+                .then(
+                    function (registration) {
+                        // Registration was successful
+                        console.log(
+                            'ServiceWorker registration successful with scope: ',
+                            registration.scope
+                        );
+                    },
+                    function (err) {
+                        // registration failed :(
+                        console.log('ServiceWorker registration failed: ', err);
+                    }
+                )
+                .catch(function (err) {
+                    console.log(err);
+                });
+        });
+
+        // helper function to refresh the page
+        var refreshPage = (function () {
+            var refreshing;
+            return function () {
+                if (refreshing) return;
+                // prevent multiple refreshes
+                var refreshkey = 'refreshed' + location.href;
+                var prevRefresh = localStorage.getItem(refreshkey);
+                if (prevRefresh) {
+                    localStorage.removeItem(refreshkey);
+                    if (Date.now() - prevRefresh < 30000) {
+                        return; // dont go into a refresh loop
+                    }
+                }
+                refreshing = true;
+                localStorage.setItem(refreshkey, Date.now());
+                console.log('refereshing page');
+                window.location.reload();
+            };
+        })();
+
+        function messageServiceWorker(data) {
+            return new Promise(function (resolve, reject) {
+                if (navigator.serviceWorker.controller) {
+                    var worker = navigator.serviceWorker.controller;
+                    var messageChannel = new MessageChannel();
+                    messageChannel.port1.onmessage = replyHandler;
+                    worker.postMessage(data, [messageChannel.port2]);
+                    function replyHandler(event) {
+                        resolve(event.data);
+                    }
+                } else {
+                    resolve();
+                }
+            });
+        }
+    }
+})(window);
+</script>
+<!-- Add manifest -->
+<!-- End PWA settings -->
+
+
+<meta http-equiv="Content-type" content="text/html;charset=utf-8">
+<meta charset="utf-8">
+
+<link rel="canonical" href="https://www.bradknottforcongress.com/">
+
+<meta id="view" name="viewport" content="initial-scale=1, minimum-scale=1, maximum-scale=5, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+<!--Add favorites icons-->
+
+<link rel="icon" type="image/x-icon" href="https://irp.cdn-website.com/bffac84e/site_favicon_16_1700603069772.ico"/>
+
+<!-- End favorite icons -->
+<link rel="preconnect" href="https://lirp.cdn-website.com/"/>
+
+
+
+<!-- render the required CSS and JS in the head section -->
+<script>
+    window.SystemID = 'US_DIRECT_PRODUCTION';
+
+    if (!window.dmAPI) {
+        window.dmAPI = {
+            registerExternalRuntimeComponent: function () {
+            },
+            getCurrentDeviceType: function () {
+                return window._currentDevice;
+            },
+            runOnReady: (ns, fn) => {
+                const safeFn = dmAPI.toSafeFn(fn);
+                ns = ns || 'global_' + Math.random().toString(36).slice(2, 11);
+                const eventName = 'afterAjax.' + ns;
+
+                if (document.readyState === 'complete') {
+                    $.DM.events.off(eventName).on(eventName, safeFn);
+                    setTimeout(function () {
+                        safeFn({
+                            isAjax: false,
+                        });
+                    }, 0);
+                } else {
+                    window?.waitForDeferred?.('dmAjax', () => {
+                        $.DM.events.off(eventName).on(eventName, safeFn);
+                        safeFn({
+                            isAjax: false,
+                        });
+                    });
+                }
+            },
+            toSafeFn: (fn) => {
+                if (fn?.safe) {
+                    return fn;
+                }
+                const safeFn = function (...args) {
+                    try {
+                        return fn?.apply(null, args);
+                    } catch (e) {
+                        console.log('function failed ' + e.message);
+                    }
+                };
+                safeFn.safe = true;
+                return safeFn;
+            }
+        };
+    }
+
+    if (!window.requestIdleCallback) {
+        window.requestIdleCallback = function (fn) {
+            setTimeout(fn, 0);
+        }
+    }
+</script>
+
+<!-- loadCSS function header.jsp-->
+
+
+
+
+
+
+<script id="d-js-load-css">
+/**
+ * There are a few <link> tags with CSS resource in them that are preloaded in the page
+ * in each of those there is a "onload" handler which invokes the loadCSS callback
+ * defined here.
+ * We are monitoring 3 main CSS files - the runtime, the global and the page.
+ * When each load we check to see if we can append them all in a batch. If threre
+ * is no page css (which may happen on inner pages) then we do not wait for it
+ */
+(function () {
+  let cssLinks = {};
+  function loadCssLink(link) {
+    link.onload = null;
+    link.rel = "stylesheet";
+    link.type = "text/css";
+  }
+  
+    function checkCss() {
+      const pageCssLink = document.querySelector("[id*='CssLink']");
+      const widgetCssLink = document.querySelector("[id*='widgetCSS']");
+
+        if (cssLinks && cssLinks.runtime && cssLinks.global && (!pageCssLink || cssLinks.page) && (!widgetCssLink || cssLinks.widget)) {
+            const storedRuntimeCssLink = cssLinks.runtime;
+            const storedPageCssLink = cssLinks.page;
+            const storedGlobalCssLink = cssLinks.global;
+            const storedWidgetCssLink = cssLinks.widget;
+
+            storedGlobalCssLink.disabled = true;
+            loadCssLink(storedGlobalCssLink);
+
+            if (storedPageCssLink) {
+                storedPageCssLink.disabled = true;
+                loadCssLink(storedPageCssLink);
+            }
+
+            if(storedWidgetCssLink) {
+                storedWidgetCssLink.disabled = true;
+                loadCssLink(storedWidgetCssLink);
+            }
+
+            storedRuntimeCssLink.disabled = true;
+            loadCssLink(storedRuntimeCssLink);
+
+            requestAnimationFrame(() => {
+                setTimeout(() => {
+                    storedRuntimeCssLink.disabled = false;
+                    storedGlobalCssLink.disabled = false;
+                    if (storedPageCssLink) {
+                      storedPageCssLink.disabled = false;
+                    }
+                    if (storedWidgetCssLink) {
+                      storedWidgetCssLink.disabled = false;
+                    }
+                    // (SUP-4179) Clear the accumulated cssLinks only when we're
+                    // sure that the document has finished loading and the document 
+                    // has been parsed.
+                    if(document.readyState === 'interactive') {
+                      cssLinks = null;
+                    }
+                }, 0);
+            });
+        }
+    }
+  
+
+  function loadCSS(link) {
+    try {
+      var urlParams = new URLSearchParams(window.location.search);
+      var noCSS = !!urlParams.get("nocss");
+      var cssTimeout = urlParams.get("cssTimeout") || 0;
+
+      if (noCSS) {
+        return;
+      }
+      if (link.href && link.href.includes("d-css-runtime")) {
+        cssLinks.runtime = link;
+        checkCss();
+      } else if (link.id === "siteGlobalCss") {
+        cssLinks.global = link;
+        checkCss();
+      } 
+      
+      else if (link.id && link.id.includes("CssLink")) {
+        cssLinks.page = link;
+        checkCss();
+      } else if (link.id && link.id.includes("widgetCSS")) {
+        cssLinks.widget = link;
+        checkCss();
+      }
+      
+      else {
+        requestIdleCallback(function () {
+          window.setTimeout(function () {
+            loadCssLink(link);
+          }, parseInt(cssTimeout, 10));
+        });
+      }
+    } catch (e) {
+      throw e
+    }
+  }
+  window.loadCSS = window.loadCSS || loadCSS;
+})();
+</script>
+
+
+
+<script data-role="deferred-init" type="text/javascript">
+    /* usage: window.getDeferred(<deferred name>).resolve() or window.getDeferred(<deferred name>).promise.then(...)*/
+    function Def() {
+        this.promise = new Promise((function (a, b) {
+            this.resolve = a, this.reject = b
+        }).bind(this))
+    }
+
+    const defs = {};
+    window.getDeferred = function (a) {
+        return null == defs[a] && (defs[a] = new Def), defs[a]
+    }
+    window.waitForDeferred = function (b, a, c) {
+        let d = window?.getDeferred?.(b);
+        d
+            ? d.promise.then(a)
+            : c && ["complete", "interactive"].includes(document.readyState)
+                ? setTimeout(a, 1)
+                : c
+                    ? document.addEventListener("DOMContentLoaded", a)
+                    : console.error(`Deferred  does not exist`);
+    };
+</script>
+<style id="forceCssIncludes">
+    /* This file is auto-generated from a `scss` file with the same name */
+
+.videobgwrapper{overflow:hidden;position:absolute;z-index:0;width:100%;height:100%;top:0;left:0;pointer-events:none;border-radius:inherit}.videobgframe{position:absolute;width:101%;height:100%;top:50%;left:50%;transform:translateY(-50%) translateX(-50%);object-fit:fill}#dm video.videobgframe{margin:0}@media (max-width:767px){.dmRoot .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:80vh}}@media (min-width:1025px){.dmRoot .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:45vh}}@media (min-width:768px) and (max-width:1024px){.responsiveTablet .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:45vh}}#dm [data-show-on-page-only]{display:none!important}#dmRoot div.stickyHeaderFix div.site_content{margin-top:0!important}#dmRoot div.stickyHeaderFix div.hamburger-header-container{position:relative}
+    
+body #dm #\31 379965613:not(.photo-gallery-done):not([data-widget-initialized]) { height: 639.984375px !important; min-height: initial;}
+</style>
+<style id="cssVariables" type="text/css">
+    :root {
+  --color_1: rgba(136, 183, 232, 1);
+  --color_2: rgba(13, 29, 65, 1);
+  --color_3: rgba(249, 249, 249, 1);
+  --color_4: rgba(172, 178, 191, 1);
+}
+</style>
+
+
+<style id="hideAnimFix">
+    .dmDesktopBody:not(.editGrid) [data-anim-desktop]:not([data-anim-desktop='none']), .dmDesktopBody:not(.editGrid) [data-anim-extended] {
+        visibility: hidden;
+    }
+
+    .dmDesktopBody:not(.editGrid) .dmNewParagraph[data-anim-desktop]:not([data-anim-desktop='none']), .dmDesktopBody:not(.editGrid) .dmNewParagraph[data-anim-extended] {
+        visibility: hidden !important;
+    }
+</style>
+
+
+
+<style id="criticalCss">
+    @charset "UTF-8";.display_None,.dmPopupMask{display:none}@font-face{font-family:Poppins;font-style:normal;font-weight:400;font-display:swap;src:url(https://irp.cdn-website.com/fonts/s/poppins/v21/pxiEyp8kv8JHgFVrJJfecg.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Roboto Slab';font-style:normal;font-weight:100 900;font-display:swap;src:url(https://irp.cdn-website.com/fonts/s/robotoslab/v34/BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:Inter;font-style:normal;font-weight:100 900;font-display:swap;src:url(https://irp.cdn-website.com/fonts/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:Inter;font-style:italic;font-weight:100 900;font-display:swap;src:url(https://irp.cdn-website.com/fonts/s/inter/v18/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L5UUM.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:Heebo;font-style:normal;font-weight:100 900;font-display:swap;src:url(https://irp.cdn-website.com/fonts/s/heebo/v26/NGS6v5_NC0k9P9H2TbE.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@media (max-width:767px){.dmRoot .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:80vh}}@media (min-width:1025px){.dmRoot .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:45vh}:root{--btn-text-font-size:18px}}@media (min-width:768px) and (max-width:1024px){.responsiveTablet .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:45vh}:root{--btn-text-font-size:18px}.button_2{--btn-text-font-size:15px}}:root{--color_1:rgba(136, 183, 232, 1);--color_2:rgba(13, 29, 65, 1);--color_3:rgba(249, 249, 249, 1);--color_4:rgba(172, 178, 191, 1)}.dmInner{min-height:100vh!important;position:relative}.dmPopup,.dmPopupMask{position:fixed;left:0}.dmDisplay_None{display:none!important}.clearfix:after{clear:both;visibility:hidden;line-height:0;height:0}.clearfix:after,.clearfix:before{content:' ';display:table}.clearfix{display:inline-block}.dmDesktopBody .shadowEffectToChildren li{box-shadow:none!important}#dm .dmWidget .icon{font-size:26px}body.dmRoot #dm .dmOuter .dmInner .dmWidget .icon.hasFontIcon{height:26px;margin-top:-13px;line-height:normal;text-align:center;background-image:none}.dmRoot .hasFontIcon{background-image:none!important}.dmPopupMask{margin:0;width:10px;z-index:1000000999;top:0}#dmRoot .dmPopup,.dmPopup,.dmPopupClose:before,[data-display-type=block]{display:block}.dmPopup{text-align:left;top:10px;width:93%;z-index:1000009999!important;box-sizing:border-box;background:#f5f5f5;overflow-y:auto;height:100%}.dmPopup .dmPopupTitle{text-align:left;font:700 19px Helvetica,Arial;margin:20px 20px 35px;color:#999}#dmPopup{opacity:0}.dmPopupClose,.dmPopupClose:before{position:absolute;visibility:visible}.dmPopupClose{border-radius:25px;width:27px;height:27px;z-index:1;background-color:rgba(255,255,255,.4);top:12px;right:12px}.dmPopupClose:before{font-size:20px;color:#000;top:3px;right:3px}body.dmDesktopBody:not(.mac) .data::-webkit-scrollbar{width:5px;height:5px}body.dmDesktopBody:not(.mac) .data::-webkit-scrollbar-track{background:rgba(0,0,0,.1)}body.dmDesktopBody:not(.mac) .data::-webkit-scrollbar-thumb{background:#c8c8c8;box-shadow:inset 0 1px 2px #454545;border-radius:45px}.dmRespRow.fullBleedMode>.dmRespColsWrapper{width:100%!important;max-width:100%!important}.dmRespRow.fullBleedMode{padding-left:0!important;padding-right:0!important}#dm .dmRespRow .dmRespColsWrapper{display:flex}#dm .dmInner .dmWidget.align-center,.align-center{margin-left:auto;margin-right:auto}.text-align-center{text-align:center}body.fix-mobile-scrolling{overflow:initial}#dmRoot{text-decoration-skip-ink:none}.contact-checkable-container input[type=checkbox].checkable-input{display:none}.dmform-title{padding-right:15px;padding-left:15px}.contact-checkable-container{align-items:flex-end;word-break:break-word}.contact-checkable-img{width:auto;height:100px;display:none;margin:5px}.dmform .checkboxwrapper .for-checkable img.contact-checkable-img{height:100px}.for-checkable{display:flex}[data-flex-id]{position:relative}[data-flex-id][data-layout-section]{min-height:32px}.flex-widgets-container{display:none}[data-layout-grid]{display:-ms-grid;display:grid;justify-content:start;align-items:start;-ms-grid-columns:minmax(0,1fr);grid-template-columns:minmax(0,1fr);-ms-grid-rows:minmax(8px,max-content);grid-template-rows:minmax(8px,-webkit-max-content);grid-template-rows:minmax(8px,max-content)}[data-layout-grid]>.flex-element.group{display:flex;flex-direction:row;justify-content:flex-start;align-items:center;justify-self:center;align-self:start;order:0;max-width:1200px}[data-layout-grid],[data-layout-grid]>.flex-element.group,[data-layout-grid]>.flex-element.group>.flex-element.group{background-size:cover;background-repeat:no-repeat;background-position:50% 50%;position:relative}[data-layout-grid]>.flex-element.group>.flex-element.group{display:flex;flex-direction:column;max-width:100%;align-self:stretch;justify-content:center;align-items:flex-start}.flex-element.widget-wrapper{position:relative;min-width:10px;min-height:10px}#dm [data-flex-id] .widget-wrapper>[data-element-type]{width:100%;height:100%;margin:0;padding:0}[data-flex-id] .flex-element.grid>.flex-element{-ms-grid-column:1;grid-column-start:1;-ms-grid-column-span:1;grid-column-end:span 1;-ms-grid-row:1;grid-row-start:1;-ms-grid-row-span:1;grid-row-end:span 1}body{-webkit-overflow-scrolling:touch}nav,section{display:block}html{font-family:Source Sans Pro;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}h1{font-size:2em;margin:.67em 0}hr{box-sizing:content-box;height:0}img{border:0;max-width:100%;-ms-interpolation-mode:bicubic;display:inline-block}button,input,textarea{font-family:inherit;font-size:100%;margin:0}button,input{line-height:normal}button{text-transform:none}button,input[type=submit]{-webkit-appearance:button}input[type=checkbox]{box-sizing:border-box;padding:0}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}textarea{overflow:auto;vertical-align:top;height:auto;min-height:50px}*,:after,:before{box-sizing:border-box}.dmRespRow.dmRespRowNoPadding{padding:0}.dmRespDesignRow,.dmRespRow{padding-top:15px;padding-bottom:15px}.dmRespDesignRow:after,.dmRespDesignRow:before,.dmRespRow:after,.dmRespRow:before{content:' ';display:table}.dmRespDesignRow:after,.dmRespRow:after{clear:both}.dmRespDesignRow,.dmRespRow,.dmRespRow .dmRespColsWrapper{max-width:960px;position:relative;margin:0 auto;width:100%}@media screen and (min-width:1200px){.rows-1200 .dmRespDesignRow,.rows-1200 .dmRespRow:not(.fullBleedMode) .dmRespColsWrapper{max-width:1200px}}.dmRespDesignRow .dmRespDesignCol,.dmRespRow .dmRespCol{position:relative;width:100%;display:inline-block;vertical-align:top;float:left}.dmRespRow .dmRespCol>*{max-width:100%}.dmDesktopBody .dmRespRow .large-2{position:relative;width:16.66667%}.dmDesktopBody .dmRespDesignRow .large-4{position:relative;width:33.33333%}.dmDesktopBody .dmRespRow .large-8{position:relative;width:66.66667%}.dmDesktopBody .dmRespDesignRow .large-12,.dmDesktopBody .dmRespRow .large-12{position:relative;width:100%}[class*=' dm-common-icons-']{speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-family:dm-common-icons!important}.dm-common-icons-close:before{content:'\e901'}#dm div.dmContent [class*=' icon-'],[class*=' icon-']{font-family:FontAwesome!important;font-weight:400;font-style:normal;text-decoration:inherit;-webkit-font-smoothing:antialiased}[class*=' icon-']:before{text-decoration:none;display:inline-block;speak:none}a [class*=' icon-']{display:inline}[class*=' icon-']{display:inline;width:auto;height:auto;line-height:normal;vertical-align:baseline;background-image:none;background-position:0 0;background-repeat:repeat;margin-top:0}.icon-star:before{content:'\f005'}.icon-angle-down:before{content:'\f107'}#dm .dmRespRow .dmRespCol>.dmWidget{overflow:initial}@media (min-width:768px){#dm .dmRespRow .dmRespCol>.dmWidget{width:280px;max-width:100%}#dm .dmRespRow .dmRespCol.large-2>.dmWidget{width:100%}}@media (max-width:767px){#dm .dmInner .dmWidget{width:100%}}#dm .dmInner .dmWidget:not(.displayNone){display:inline-block}#dm .dmInner .dmWidget:not(.flexButton):not(.displayNone)[data-display-type=block]{display:block}#dm .dmInner .dmWidget{text-decoration:none;margin:10px 0;clear:both;position:relative;text-align:center;line-height:22px;box-shadow:none;background-image:none;padding:0;height:auto;border-style:solid;white-space:nowrap}#dm .dmInner .dmWidget:after{content:'';display:inline-block;height:100%;vertical-align:middle;width:0;margin-right:-.25em}.dmWidget.R{float:right}#dm .dmInner .dmWidget input{width:98%;margin:auto;font-size:1.125em;padding:10px!important;background-color:transparent}#dm .dmInner .dmWidget .iconBg{position:absolute;left:0;width:50px;top:50%;margin-top:-13px}#dm .dmWidget .text{display:inline-block;vertical-align:middle;font-size:1.125em;line-height:normal;white-space:normal;padding:10px 7px;max-width:98%}p.rteBlock{margin:0}.dmInner{min-width:768px!important}html:not(.ios-preview) #dm .hasStickyHeader .dmInner div.dmHeaderContainer{position:fixed!important;z-index:101;width:100%;min-width:768px}.dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:30vh}#dm .dmformsubmit input[type=submit]{text-align:inherit}#dm div.dmInner .dmform[data-layout=layout-3] .dmforminput{margin-top:20px}#dm div.dmInner .dmform[data-layout=layout-3] .dmforminput>:not(label):not(div):not(small):not(.frc-banner){background:0;border:0;border-radius:0;-webkit-appearance:none;border-bottom:1px solid;height:30px}#dm div.dmInner .dmform .dmforminput .checkboxwrapper span{vertical-align:text-bottom;line-height:normal;display:inline}#dm div.dmInner .dmform .dmforminput .horizontal.checkboxwrapper span{margin:0 15px 0 3px}#dm div.dmInner .dmform .dmforminput .horizontal{-js-display:flex;display:flex;flex-wrap:wrap}#dm div.dmInner .dmform .dmforminput .horizontal div{-js-display:flex;display:flex}#dm div.dmInner .dmform .dmforminput .horizontal input{flex-shrink:0;margin-top:.2em}.dmform .dmforminput label{display:block;overflow:hidden;text-overflow:ellipsis}.dmforminput.newLine{clear:both}.dmform .dmWidgetClear{clear:both;display:block}#dmRoot.dmLargeBody #dm .dmWidget.dmformsubmit{max-width:100%;padding:0}#dm div.dmInner .native-inputs .contact-checkable-container label.for-checkable{display:flex;flex-direction:row;flex-wrap:wrap;align-items:center;overflow:visible}#dm div.dmInner .native-inputs .contact-checkable-container .contact-checkable-img{margin-left:0;margin-bottom:0}#dm div.dmInner .native-inputs .contact-checkable-container input[type=checkbox].checkable-input{display:initial;width:1em;height:1em;margin:8px .3em 8px 0;order:1}#dm div.dmInner .native-inputs .contact-checkable-container span:not(.img-wrapper){order:2}#dm div.dmInner .native-inputs .contact-checkable-container span.img-wrapper{order:0;width:100%}.dmPhotoGallery{margin:10px 0;width:100%;overflow:hidden;min-height:1px;clear:both}.dmPhotoGallery .dmPhotoGalleryHolder .photoGalleryThumbs .image-container{height:100%}.dmPhotoGallery .dmPhotoGalleryHolder .photoGalleryThumbs{width:58px;height:58px;margin:2px;display:inline-block;vertical-align:middle;text-align:center;overflow:hidden}.dmPhotoGalleryResp.dmPhotoGallery .dmPhotoGalleryHolder .photoGalleryThumbs img{box-shadow:0 0 3px #888}.dmPhotoGalleryResp.dmPhotoGallery .dmPhotoGalleryHolder .photoGalleryThumbs{margin:0;padding:10px}.dmPhotoGalleryHolder{text-align:center}.dmPhotoGallery .dmPhotoGalleryHolder .photoGalleryThumbs img{display:inline!important;margin:0!important;vertical-align:middle;text-align:center;position:relative}.dmPhotoGallery .image-container{position:relative}.dmPhotoGallery.newPhotoGallery .photoGalleryThumbs .caption-container .caption-inner h3{margin:0;line-height:normal;text-align:center;font-size:21px}#dm .dmPhotoGallery.newPhotoGallery li.photoGalleryThumbs .caption-container .caption-inner div,#dm .dmPhotoGallery.newPhotoGallery li.photoGalleryThumbs .caption-container .caption-inner h3,.dmPhotoGallery.newPhotoGallery .photoGalleryThumbs .caption-container .caption-inner div{text-align:center}.dmPhotoGallery.newPhotoGallery .photoGalleryThumbs .caption-container .caption-inner .caption-text,.dmPhotoGallery.newPhotoGallery .photoGalleryThumbs .caption-container .caption-inner .caption-title{max-width:100%}#dm .dmPhotoGallery.newPhotoGallery li{list-style:none}#dm .dmPhotoGallery.newPhotoGallery li.photoGalleryThumbs .caption-container .caption-inner{align-items:center;display:flex;flex-direction:column;justify-content:center;position:relative;overflow:hidden;z-index:1;background-color:rgba(255,255,255,.9);color:#333;padding:15px;height:100%;box-sizing:border-box}#dm .dmPhotoGallery.newPhotoGallery .photoGalleryViewAll{box-shadow:0 0!important;font-size:inherit!important;margin:0!important}#dm .dmPhotoGallery.newPhotoGallery .dmPhotoGalleryHolder{width:100%;padding:0;display:none}#dm .dmPhotoGallery.newPhotoGallery li.photoGalleryThumbs{position:relative}#dm .dmPhotoGallery.newPhotoGallery li.photoGalleryThumbs .image-container{overflow:hidden}#dm .dmPhotoGallery.newPhotoGallery li.photoGalleryThumbs .image-container a{background-repeat:no-repeat;background-position:center}#dm .dmPhotoGallery.newPhotoGallery li.photoGalleryThumbs .caption-container .caption-inner .caption-button{margin:10px auto;max-width:100%}#dm .dmPhotoGallery.newPhotoGallery li.photoGalleryThumbs .caption-container .caption-inner .caption-button .text{padding:10px 20px!important}#dm .dmRespRow.dmRespRowNoPadding,.dmContent,.dmInner ul:not(.defaultList),DIV.dmBody{padding:0}.dmNewParagraph[data-version]{line-height:initial}.dmNewParagraph[data-version] .text-align-center{text-align:center!important}.dmNewParagraph[data-version] h1,.dmNewParagraph[data-version] h2,.dmNewParagraph[data-version] h3,.dmNewParagraph[data-version] h5,.dmNewParagraph[data-version] p{margin-top:0;margin-bottom:0}.dmNewParagraph[data-version] a{vertical-align:initial}@media (min-width:768px) and (max-width:1024px){.dmNewParagraph[data-version] .t-text-align-center{text-align:center!important}}@media (max-width:767px){.dmRoot .dmNewParagraph[data-version] .m-text-align-center{text-align:center!important}}.imageWidget{position:relative}.imageWidget img[width][height],img[width][height]{height:auto}*{border:0 solid #333;scrollbar-arrow-color:#fff;scrollbar-track-color:#F2F2F2;scrollbar-face-color:silver;scrollbar-highlight-color:silver;scrollbar-3dlight-color:silver;scrollbar-shadow-color:silver;scrollbar-darkshadow-color:silver;scrollbar-width:12px}body{width:100%;overflow:hidden;-webkit-text-size-adjust:100%!important;-ms-text-size-adjust:100%!important}A IMG{border:none}h1,h2,h3,h5,ul{margin-left:0;margin-right:0}.dmInner *{-webkit-font-smoothing:antialiased}.clearfix,a,img,li,ul{vertical-align:top}#iscrollBody,#site_content{position:relative}.dmOuter{word-wrap:break-word}.dmInner{font-size:16px;background:#fff;color:#666}.dmDesktopBody .dmInner{min-width:960px}.dmInner a{color:#463939}.dmHeader{background:#68ccd1;color:#666;text-align:center;position:relative;width:100%;max-width:100%}DIV.dmBody{clear:both}.dmContent{margin:0}#site_content ul:not(.defaultList){-webkit-padding-start:0;-moz-padding-start:0;list-style-position:inside}#innerBar{position:relative;height:36px;width:100%;font-size:20px;margin:0;z-index:80}.dmRespRowsWrapper{max-width:960px;margin:0 auto}.dmRespCol>[dmle_extension]:not(:first-child){margin-top:10px}.dmLargeBody .imageWidget:not(.displayNone){display:inline-block;max-width:100%}.imageWidget:not(.displayNone) img{width:100%}h3{font-weight:400;font-size:23px}#dm .dmRespColsWrapper{display:block}.dmNewParagraph{text-align:left;margin:8px 0;padding:2px 0}.dmLargeBody .fHeader .dmRespRow .dmRespCol{padding-left:.75%;padding-right:.75%}.dmLargeBody .fHeader .dmRespRow .dmRespCol:first-child{padding-left:0;padding-right:1.5%}.dmLargeBody .fHeader .dmRespRow .dmRespCol:last-child{padding-right:0;padding-left:1.5%}#innerBar.lineInnerBar{display:table;width:100%;box-shadow:none;-webkit-box-shadow:none;-moz-box-shadow:none;font-size:20px;margin-top:30px;margin-bottom:30px;background-color:transparent;color:#666}#innerBar .titleLine{display:table-cell;vertical-align:middle;width:50%}.dmPageTitleRow:not(#innerBar){display:none}.titleLine hr{min-height:1px;background-color:rgba(102,102,102,.2)}.dmStandardDesktop{display:block}.standardHeaderLayout .dmHeader{float:none}#dmFirstContainer .dmRespRowsWrapper:after,#dmFirstContainer .dmRespRowsWrapper:before{content:"";display:table}.dmInner a{outline:0;vertical-align:inherit}.dmLinksMenu>ul{display:block;margin:0;font-size:inherit}.dmStandardDesktop{margin:0 auto}#dm h3.dmwidget-title[hide=true]{display:none}#dm .dmwidget-title{margin:10px 0;font-size:23px;text-shadow:none;text-align:left;text-transform:capitalize;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;word-wrap:normal}.dmform{clear:both}div.dmInner input[type=email],div.dmInner input[type=tel],div.dmInner input[type=text]{font-size:16px;background-color:rgba(102,102,102,.15);border:2px solid #fff;width:100%;margin:3px 0;height:40px;padding:0 10px}div.dmInner textarea{height:80px;width:100%;margin:3px 0;padding:10px;min-height:50px;font-size:16px;background-color:rgba(102,102,102,.15);border:2px solid #fff}div.dmInner input[type=submit]{margin:5px auto;width:100%;border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px;height:30px!important;color:#f7f7f7;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;font-size:16px;border:none;outline:0}.dmforminput{margin-top:10px;text-align:left;padding-left:.9375em;padding-right:.9375em}#dm .dmform .dmformsubmit{margin:20px 15px}div.dmInner .dmformsubmit input[type=submit]{height:auto!important}#dm .dmDivider{display:block;margin:10px 0}.dmPhotoGalleryHolder{font-size:medium!important;margin:0;list-style:none}#dm .dmPhotoGallery .dmPhotoGalleryHolder,#dm .dmPhotoGallery .dmPhotoGalleryHolder>li{width:100%;padding:0}#dm .dmPhotoGallery .dmPhotoGalleryHolder .photoGalleryThumbs{background:url(https://dd-cdn.multiscreensite.com/runtime-img/galleryLoader.gif) 50% 50% no-repeat #eee;float:left;clear:none;padding:0;margin:0;width:100%}#dm .dmPhotoGallery .dmPhotoGalleryHolder .photoGalleryThumbs img{display:none!important}.dmDesktopBody .dmPhotoGallery .photoGalleryViewAll{background:0 0;border:none;padding:3px 0;font-size:16px;width:auto;height:auto;line-height:normal;box-shadow:0 -2px 0 0;display:block;margin:40px 0;text-align:left}body{background-color:#eee}.dmDivider{min-height:2px;border:currentColor;color:grey;background:0 0}#dm .dmDividerWrapper{display:block}.dmPhotoGallery:not(.dmFacebookGallery) .dmPhotoGalleryHolder:not(.ready) li.photoGalleryThumbs{display:inline!important;visibility:hidden}.main-navigation.unifiednav{-js-display:flex;display:flex;justify-content:flex-start;align-items:stretch;overflow:visible}.main-navigation.unifiednav ul{list-style:none;padding:0;margin:0;font-size:1rem}.main-navigation.unifiednav .unifiednav__container{-js-display:flex;display:flex;justify-content:flex-start;list-style:none}.main-navigation.unifiednav .unifiednav__container>.unifiednav__item-wrap{-js-display:flex;display:flex;justify-content:flex-start;position:relative;font-weight:400}.main-navigation.unifiednav .unifiednav__container:not([data-depth])>.unifiednav__item-wrap::after,.main-navigation.unifiednav .unifiednav__container:not([data-depth])>.unifiednav__item-wrap::before{content:'';align-self:center;font-weight:700}.main-navigation.unifiednav .unifiednav__container>.unifiednav__item-wrap>.unifiednav__item{-js-display:flex;display:flex;justify-content:flex-start;align-items:center;flex-direction:row;color:inherit;text-decoration:none;position:relative;padding:12px 15px;margin:0;font-weight:inherit;letter-spacing:.03em}.main-navigation.unifiednav .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item{padding:0 15px}.main-navigation.unifiednav .unifiednav__container>.unifiednav__item-wrap>.unifiednav__item .nav-item-text{white-space:nowrap}.main-navigation.unifiednav .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item .nav-item-text::after,.main-navigation.unifiednav .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item .nav-item-text::before{content:'';width:100%;height:0;border:0 solid transparent;border-top-color:currentColor;display:block;opacity:0}.main-navigation.unifiednav .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item.dmNavItemSelected .nav-item-text::after,.main-navigation.unifiednav .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item.dmNavItemSelected .nav-item-text::before{opacity:1}.main-navigation.unifiednav.effect-bottom2{padding:calc(12px - .2em - 2px) 15px}.main-navigation.unifiednav.effect-bottom2 .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item .nav-item-text::after,.main-navigation.unifiednav.effect-bottom2 .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item .nav-item-text::before{transform:scaleX(0);border-top-width:2px}.main-navigation.unifiednav.effect-bottom2 .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item .nav-item-text::after{margin-top:.2em}.main-navigation.unifiednav.effect-bottom2 .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item .nav-item-text::before{margin-bottom:.2em;border-top-color:transparent}.main-navigation.unifiednav.effect-bottom2 .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item.dmNavItemSelected .nav-item-text::after,.main-navigation.unifiednav.effect-bottom2 .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item.dmNavItemSelected .nav-item-text::before{transform:scaleX(1)}.main-navigation.unifiednav.effect-bottom2 .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item .nav-item-text::after,.main-navigation.unifiednav.effect-bottom2 .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item .nav-item-text::before{transform-origin:left}.main-navigation.unifiednav .unifiednav__container .unifiednav__item:not(.unifiednav__item_has-sub-nav) .icon{display:none}.main-navigation.unifiednav:not(.unifiednav_vertical)>.unifiednav__container{justify-content:inherit}#dm .p_hfcontainer nav.main-navigation.unifiednav{min-width:9em!important;text-align:initial!important}#dm .main-navigation.unifiednav:not([data-nav-structure=VERTICAL])>.unifiednav__container{flex-wrap:wrap;justify-content:inherit}#dm .main-navigation.unifiednav:not([data-nav-structure=VERTICAL])>.unifiednav__container .nav-item-text::before{text-align:left}#dm .main-navigation.unifiednav:not([data-nav-structure=VERTICAL]) .unifiednav__container:not([data-depth])>.unifiednav__item-wrap:not(:last-child)::after,#dm .main-navigation.unifiednav:not([data-nav-structure=VERTICAL]) .unifiednav__container:not([data-depth])>.unifiednav__item-wrap:not(:last-child)::before{content:''}#dm .dmBody .dmRespRowsWrapper{max-width:none;background-color:transparent}.dmLargeBody .dmRespRow{width:100%;max-width:none;margin-left:0;margin-right:0;padding-left:40px;padding-right:40px}.dm-bfs.dm-layout-home div.dmInner{background-color:#fff}.dmStandardDesktop .dmHeader{background-color:#68ccd1;max-width:100%}.standardHeaderLayout .dmHeader{display:block;height:auto}#dm div.dmRespCol>*{line-height:normal}#dm div.dmContent h1,#dm div.dmContent h2,#dm div.dmContent h3,#dm div.dmContent h5,#dm div.dmFooter h3,#dm div.dmInner{line-height:initial}#dm div.dmInner h1,#dm div.dmInner h2,#dm div.dmInner h3{font-family:Montserrat,"Montserrat Fallback"}#dm div.dmInner h5{font-family:Roboto,"Roboto Fallback"}#dm DIV.dmInner{background-repeat:no-repeat;background-image:url(https://irt-cdn.multiscreensite.com/ce0bb35f932b47bb809d0e37905542ba/dms3rep/multi/site_background_education-2087x1173.jpg);background-size:cover;background-position:50% 0}#dm div.dmOuter div.dmInner{background-position:center center;background-repeat:repeat;background-size:auto}#dm .dmNewParagraph a,#dm div.dmNewParagraph a{text-decoration:underline}#dm .dmform .dmforminput label,#dm div.dmInner,#dm div.dmInner .dmRespCol{color:rgba(147,147,147,1);font-family:Roboto,"Roboto Fallback";font-size:16px}.dmLargeBody .dmBody .dmRespRowsWrapper{background-color:transparent}#dm .dmNewParagraph a,#dm div.dmNewParagraph a,.newPhotoGallery .photoGalleryViewAll.link{color:rgba(147,147,147,1)}#dm .dmform .dmforminput label,#dm div.dmInner,#dm div.dmInner .dmRespCol,.dmPhotoGallery .caption-text.caption-text{color:var(--color_2);font-family:Inter,"Inter Fallback";font-weight:300;font-size:18px}#dm div.dmContent h1,#dm div.dmContent h2,#dm div.dmContent h3,#dm div.dmContent h5,#dm div.dmFooter h3,#dm div.p_hfcontainer h3{color:#000}#dm div.dmNewParagraph p{font-weight:300;line-height:1.5;color:#2d2e32;direction:ltr;font-family:Inter,"Inter Fallback";font-style:normal;text-decoration:none}#dm div.dmContent h1,#dm div.dmContent h2,#dm div.dmContent h3,#dm div.dmFooter h3,#dm div.p_hfcontainer h3{font-family:Inter,"Inter Fallback";font-weight:800;text-transform:uppercase}#dm div.dmContent h1,#dm div.dmContent h2,#dm div.dmContent h3,#dm div.dmContent h5,#dm div.dmFooter h3,#dm div.p_hfcontainer h3{color:var(--color_2);direction:ltr;font-style:normal}#dm div.dmContent h1{text-decoration:none}#dm div.dmContent .dmNewParagraph[data-version] h1{text-decoration:inherit}#dm div.dmContent .dmNewParagraph[data-version] h1 *,#dm div.dmContent h2{text-decoration:none}#dm div.dmContent .dmNewParagraph[data-version] h2{text-decoration:inherit}#dm div.dmContent .dmNewParagraph[data-version] h2 *,#dm div.dmContent h3,#dm div.dmFooter h3,#dm div.p_hfcontainer h3{text-decoration:none}#dm div.dmContent .dmNewParagraph[data-version] h3{text-decoration:inherit}#dm div.dmContent .dmNewParagraph[data-version] h3 *,#dm div.dmContent h5{text-decoration:none}#dm div.dmContent h5{font-family:"Roboto Slab","Roboto Slab Fallback";font-weight:700}#dm div.dmContent .dmNewParagraph[data-version] h5{text-decoration:inherit}#dm div.dmContent .dmNewParagraph[data-version] h5 *{text-decoration:none}#dm DIV.dmOuter DIV.dmInner{background-image:none;background-color:rgba(255,255,255,1)}#dm div.dmContent h1{font-size:48px;line-height:normal}#dm div.dmContent h2{font-size:36px;line-height:normal}#dm div.dmContent h3,#dm div.dmFooter h3,#dm div.p_hfcontainer h3{font-size:30px;line-height:normal}#dm div.dmContent h5{font-size:18px}@media (min-width:0px) and (max-width:767px){.button_2,:root{--btn-text-font-size:15px}}#dm .button_2 .dmWidget:not([data-buttonstyle]),#dm .dmWidget:not([data-buttonstyle]){overflow:initial;background-clip:border-box;border-radius:1px}#dm .button_2 .dmWidget:not([data-buttonstyle]) input,#dm .dmWidget:not([data-buttonstyle]) .text,#dm .dmWidget:not([data-buttonstyle]) input{padding:16px 0}#dm .dmWidget:not([data-buttonstyle]) .iconBg{display:none}@media (min-width:768px){#dm .dmRespRow .dmRespCol>.dmWidget{width:222px}}#dm div.dmInner #site_content .dmWidget,#dm div.dmInner .dmHeader .dmWidget{background-color:var(--btn-bg-color);background-image:var(--btn-bg-image);border-color:var(--btn-border-color);border-bottom-color:var(--btn-border-b-color);border-left-color:var(--btn-border-l-color);border-right-color:var(--btn-border-r-color);border-top-color:var(--btn-border-t-color);border-radius:var(--btn-border-radius);border-bottom-left-radius:var(--btn-border-bl-radius);border-bottom-right-radius:var(--btn-border-br-radius);border-top-left-radius:var(--btn-border-tl-radius);border-top-right-radius:var(--btn-border-tr-radius);border-width:var(--btn-border-width);border-bottom-width:var(--btn-border-b-width);border-left-width:var(--btn-border-l-width);border-right-width:var(--btn-border-r-width);border-top-width:var(--btn-border-t-width);direction:var(--btn-text-direction);text-align:var(--btn-text-align)}#dm div.dmInner #site_content .dmWidget span.text,#dm div.dmInner #site_content .dmformsubmit input{color:var(--btn-text-color);font-family:var(--btn-text-font-family);font-size:var(--btn-text-font-size);font-weight:var(--btn-text-font-weight);text-decoration:var(--btn-text-decoration)}#dm div.dmInner #site_content .dmWidget span.icon,#dm div.dmInner .dmHeader .dmWidget span.icon{color:var(--btn-icon-color);fill:var(--btn-icon-fill)}#dm div.dmInner #site_content .dmWidget:not([data-buttonstyle]) .iconBg,#dm div.dmInner .dmHeader .dmWidget:not([data-buttonstyle]) .iconBg{display:var(--btn-icon-wrpr-display)}#dm .p_hfcontainer .main-navigation.unifiednav:not(.unifiednav_vertical) .unifiednav__container:not([data-depth])>.unifiednav__item-wrap:not(:last-child)::after,#dm .p_hfcontainer .main-navigation.unifiednav:not(.unifiednav_vertical) .unifiednav__container:not([data-depth])>.unifiednav__item-wrap:not(:last-child)::before{font-size:14px!important}#dm .p_hfcontainer div.u_1269590167 img{border-radius:0!important;-moz-border-radius:0!important;-webkit-border-radius:0!important}#dm .p_hfcontainer .u_1038058583.main-navigation.unifiednav:not(.unifiednav_vertical) .unifiednav__container:not([data-depth])>.unifiednav__item-wrap:not(:last-child)::after,#dm .p_hfcontainer .u_1038058583.main-navigation.unifiednav:not(.unifiednav_vertical) .unifiednav__container:not([data-depth])>.unifiednav__item-wrap:not(:last-child)::before{font-size:14px!important}#dm .p_hfcontainer nav.u_1038058583.main-navigation.unifiednav.effect-bottom2 .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item .nav-item-text::after{border-top-color:var(--color_1)!important}#dm .dmInner div.dmHeader,#dm .dmInner div.dmHeader.u_hcontainer,#dm .dmInner div.u_hcontainer{background-color:var(--color_3)!important;box-shadow:none!important;-moz-box-shadow:none!important;-webkit-box-shadow:none!important;border-bottom-style:solid!important;border-bottom-color:rgba(239,239,239,1)!important;border-bottom-width:0!important}#dm .p_hfcontainer .u_1076588264 .dmforminput input{text-align:LEFT!important}#dm .p_hfcontainer div.u_1076588264 .dmforminput input{color:var(--color_3)!important}#dm .p_hfcontainer div.u_1076588264 input:not([type=submit]){border-bottom-color:var(--color_1)!important}#dm .p_hfcontainer nav.u_1038058583.main-navigation.unifiednav .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item{font-family:Heebo!important;font-weight:600!important;color:var(--color_2)!important;font-size:14px!important}#dm .dmBody div.u_1327867577 .checkboxwrapper span,#dm .dmBody div.u_1327867577 .dmforminput input,#dm .dmBody div.u_1327867577 .dmforminput label:not(.for-checkable):not(.custom-contact-checkable),#dm .dmBody div.u_1327867577 .dmforminput textarea,#dm .p_hfcontainer div.u_1076588264 .dmforminput input{font-size:16px!important}#dm .p_hfcontainer .u_1269590167{width:100%!important}#dm .p_hfcontainer div.dmform-error,#dm .p_hfcontainer div.u_1076588264 .dmform-success,#dm .p_hfcontainer div.u_1076588264 .dmform-success .rteBlock{color:var(--color_3)!important}#dm .dmInner div.u_hcontainer{float:none!important;top:0!important;left:0!important;width:100%!important;position:relative!important;height:auto!important;max-width:100%!important;min-width:0!important;text-align:center!important;padding:25px 0 20px!important;margin:0 auto!important}#dm .dmInner div.dmHeader.u_hcontainer{padding-bottom:20px!important;padding-top:25px!important}.stickyHeaderSpacer{height:111.97px!important}@media (min-width:1025px){.responsiveTablet .stickyHeaderSpacer{height:105px!important}}#dm .dmInner div.fHeader.dmHeaderContainer #hcontainer.dmHeader[freeheader=true]{margin:0!important;padding:0!important}@media (min-width:768px) and (max-width:1024px){.responsiveTablet .stickyHeaderSpacer{height:105px!important}}#dm .dmInner div.fHeader .dmHeader[freeheader=true]{padding-top:12px!important;padding-bottom:12px!important}.fHeader #hcontainer.dmHeader[freeheader=true]{padding-top:initial!important;padding-bottom:initial!important}#dm .p_hfcontainer div.u_1346488810{background-color:var(--color_1)!important;padding-left:0!important}#dm .p_hfcontainer div.u_1412636203{padding-left:10px!important}#dm .p_hfcontainer div.u_1250776507{padding:15px 0!important;margin:0!important}#dm .p_hfcontainer div.u_1693561036{width:auto!important;padding:0!important;margin:0!important}#dm .p_hfcontainer nav.u_1038058583{float:none!important;top:0!important;left:0!important;width:1013.69px!important;position:relative!important;height:auto!important;max-width:100%!important;justify-content:center!important;align-items:stretch!important;min-width:0!important;text-align:center!important;padding:6.8px 15px!important;margin:35px auto 0!important}#dm .p_hfcontainer a.u_1150562172,#dm .p_hfcontainer div.u_1269590167{top:0!important;left:0!important;position:relative!important;min-width:25px!important;text-align:center!important;float:none!important}#dm .p_hfcontainer a.u_1150562172{width:calc(100% - 0px)!important;height:58px!important;max-width:100%!important;padding:0!important;margin:20.69px auto 10px!important}#dm .p_hfcontainer div.u_1269590167{width:150px!important;max-width:calc(100% - 36px)!important;display:block!important;height:76px!important;padding:0!important;margin:-1px auto 0!important}@media all{#\36 ffc889b,#ce22b012{height:auto;min-width:10px;min-height:10px;max-width:100%;justify-self:auto;grid-area:auto/auto/auto/auto}#\36 ffc889b,#a3a999fe{position:relative;order:0}#\33 6d0c7ef,#\36 ffc889b,#ce22b012{grid-area:auto/auto/auto/auto}#\33 6d0c7ef,#\36 3738aa0{width:99.99441131368205%;margin-right:0;margin-bottom:0;margin-left:0}:root{--btn-text-direction:ltr;--btn-border-r-color:var(--btn-border-color);--btn-border-l-color:var(--btn-border-color);--btn-border-b-width:var(--btn-border-width);--btn-border-width:1px;--btn-border-radius:0px;--btn-border-t-width:var(--btn-border-width);--btn-border-tl-radius:var(--btn-border-radius);--btn-border-br-radius:var(--btn-border-radius);--btn-border-bl-radius:var(--btn-border-radius);--btn-bg-color:var(--color_1);--btn-border-color:rgba(0, 0, 0, 0);--btn-border-tr-radius:var(--btn-border-radius);--btn-border-r-width:var(--btn-border-width);--btn-bg-image:none;--btn-border-b-color:var(--btn-border-color);--btn-border-l-width:var(--btn-border-width);--btn-border-t-color:var(--btn-border-color);--btn-text-align:center;--btn-text-color:var(--color_2);--btn-text-decoration:none;--btn-text-font-weight:bold;--btn-text-font-family:"Roboto Slab","Roboto Slab Fallback";--btn-icon-color:rgb(247, 247, 247);--btn-icon-fill:rgb(247, 247, 247);--btn-icon-wrpr-display:none;--btn-hover-border-b-color:var(--btn-hover-border-color);--btn-hover-bg:var(--color_1);--btn-hover-border-t-color:var(--btn-hover-border-color);--btn-hover-border-r-color:var(--btn-hover-border-color);--btn-hover-border-l-color:var(--btn-hover-border-color);--btn-hover-border-color:var(--color_1);--btn-hover-text-color:rgba(255, 255, 255, 1);--btn-hover-text-font-weight:var(--btn-text-font-weight);--btn-hover-text-decoration:var(--btn-text-decoration);--btn-hover-text-font-style:var(--btn-text-font-style)}.button_2{--btn-text-direction:ltr;--btn-border-r-color:var(--btn-border-color);--btn-border-l-color:var(--btn-border-color);--btn-border-b-width:var(--btn-border-width);--btn-border-width:3px;--btn-border-radius:1px;--btn-border-t-width:var(--btn-border-width);--btn-border-tl-radius:var(--btn-border-radius);--btn-border-br-radius:var(--btn-border-radius);--btn-border-bl-radius:var(--btn-border-radius);--btn-bg-color:rgba(255, 255, 255, 1);--btn-border-color:var(--color_1);--btn-border-tr-radius:var(--btn-border-radius);--btn-border-r-width:var(--btn-border-width);--btn-bg-image:none;--btn-border-b-color:var(--btn-border-color);--btn-border-l-width:var(--btn-border-width);--btn-border-t-color:var(--btn-border-color);--btn-text-align:center;--btn-text-color:var(--color_2);--btn-text-decoration:none;--btn-text-font-weight:bold;--btn-icon-color:rgb(247, 247, 247);--btn-icon-fill:rgb(247, 247, 247);--btn-icon-wrpr-display:none;--btn-hover-border-b-color:var(--btn-hover-border-color);--btn-hover-bg:var(--color_1);--btn-hover-border-t-color:var(--btn-hover-border-color);--btn-hover-border-r-color:var(--btn-hover-border-color);--btn-hover-border-l-color:var(--btn-hover-border-color);--btn-hover-border-color:var(--color_2);--btn-hover-text-color:var(--color_2);--btn-hover-text-font-weight:var(--btn-text-font-weight);--btn-hover-text-decoration:var(--btn-text-decoration);--btn-hover-text-font-style:var(--btn-text-font-style)}#ce22b012{position:relative;width:99.93%;align-self:auto;order:2;margin:0}#a3a999fe{align-self:start;background-size:cover;min-height:320px;background-repeat:no-repeat;flex-direction:row;display:flex;background-position:50% 50%;column-gap:4%;row-gap:24px;max-width:1200px;width:100%;justify-content:flex-start;align-items:center;justify-self:center;flex-wrap:nowrap;padding:50px 2% 0;margin:0;grid-area:1/1/span 1/span 1}#\36 ffc889b{width:99.99766323641755%;align-self:auto}#\33 6d0c7ef,#\39 f82f59e{position:relative;height:auto;min-width:10px;min-height:10px;max-width:100%;justify-self:auto;align-self:auto}#\33 6d0c7ef{order:1}#\39 f82f59e{width:99.99766323641755%;order:4;margin-top:20px;grid-area:auto/auto/auto/auto}#\36 3738aa0,#widget_24l{justify-self:auto;position:relative;height:auto;min-width:10px;min-height:10px;max-width:100%;grid-area:auto/auto/auto/auto}#widget_24l{width:auto;order:5;align-self:flex-start}#\36 3738aa0{align-self:auto;order:3}#ba0c81a0{position:relative;width:99.99723057715225%;height:auto;min-width:10px;min-height:10px;max-width:100%;justify-self:auto;align-self:auto;order:2;margin-top:20px;grid-area:auto/auto/auto/auto}#fa243b79{align-self:start;background-size:cover;min-height:10px;background-repeat:no-repeat;flex-direction:row;order:0;display:flex;background-position:50% 50%;column-gap:4%;row-gap:24px;max-width:1200px;width:100%;justify-content:flex-start;align-items:center;position:relative;justify-self:center;padding:20px 2% 30px;margin:0;grid-area:1/1/span 1/span 1}}@media (max-width:766px){#a3a999fe,#fa243b79{grid-area:1/1/span 1/span 1}}#dm .dmBody div.dmform-error{font-style:normal!important}#dm .dmBody div.checkboxwrapper span,#dm .dmBody div.dmforminput textarea{font-style:italic!important}#dm .dmBody .u_1080542657,#dm .dmBody .u_1225172565,#dm .dmBody .u_1277395955,#dm .dmBody .u_1315193779,#dm .dmBody .u_1437235228,#dm .dmBody .u_1465482455,#dm .dmBody .u_1471307771,#dm .dmBody .u_1575194844,#dm .dmBody .u_1595340880,#dm .dmBody .u_1650936513,#dm .dmBody .u_1723109466,#dm .dmBody .u_1866877442{display:none!important}#dm .dmBody div.u_1379965613 .caption-inner{background-color:rgba(0,0,0,0)!important}#dm .dmBody div.u_1327867577 .dmforminput label:not(.for-checkable):not(.custom-contact-checkable){font-weight:500!important;color:var(--color_2)!important}#dm .dmBody div.u_1327867577 .checkboxwrapper span,#dm .dmBody div.u_1327867577 .dmforminput input,#dm .dmBody div.u_1327867577 .dmforminput textarea{color:var(--color_2)!important}#dm .dmBody .u_1327867577 .dmformsubmit{float:none!important;display:block!important;margin-left:auto!important;margin-right:auto!important}#dm .dmBody div.u_1994130561 hr{border-top-width:3px!important;border-top-style:solid!important;color:var(--color_4)!important}#dm .dmBody .u_1033099010{background-position:50% 100%!important}#dm .dmBody div.u_1435602937{background-color:var(--color_1)!important;background-image:initial!important}#dm .d-page-1716942098 DIV.dmInner{background-repeat:no-repeat!important;background-size:cover!important;background-attachment:fixed!important;background-position:50% 50%!important}#dm .dmBody div.u_1327867577 .dmformsubmit{width:250px!important;height:60px!important}#dm .dmBody .u_1379965613 .photoGalleryThumbs,#dm .dmBody .u_1379965613 .photoGalleryViewAll{padding:0!important}#dm .dmBody .u_1379965613 .caption-inner{-webkit-border-top-right-radius:0!important;-webkit-border-bottom-right-radius:0!important;-webkit-border-bottom-left-radius:0!important;-webkit-border-top-left-radius:0!important;border-radius:0!important;-moz-border-radius:0!important;-webkit-border-radius:0!important}@media all{#\31 608f09a,#\32 49cb794{display:flex;column-gap:4%}#\31 608f09a,#\32 49cb794,#\33 d640a4d{background-size:cover;background-position:50% 50%;background-repeat:no-repeat}#\31 608f09a,#widget_hrb{position:relative;width:100%;max-width:100%;align-self:stretch}#\33 d640a4d{grid-template-columns:minmax(0,1fr);grid-template-rows:minmax(8px,max-content);display:grid;justify-content:start;align-items:start;position:relative}#\31 608f09a{min-height:8px;row-gap:0;flex-direction:column;justify-content:flex-start;align-items:flex-start;min-width:4%;background-color:var(--color_3)}#\32 49cb794{align-self:start;min-height:360px;row-gap:24px;flex-direction:row;max-width:none;width:100%;justify-content:flex-start;align-items:center;position:relative;justify-self:center;order:0}#widget_hrb{height:auto;min-width:10px;min-height:10px}}@media (min-width:768px) and (max-width:1024px){#\32 49cb794{min-height:300px;padding:0}#fada7d2b{margin:0}#\31 608f09a{background-color:var(--color_3)}#widget_hrb{width:100%}}@media (max-width:767px){#\31 608f09a{width:100%;min-height:240px;align-items:center;background-color:var(--color_3)}#\32 49cb794{min-height:unset;flex-direction:column;padding:0}#fada7d2b{margin:0}}@media all{#\33 26d61d1,#\35 ae738b9{display:flex;column-gap:4%;width:100%}#\30 cef6dad,#\33 26d61d1,#\35 ae738b9{background-size:cover;background-position:50% 50%;background-repeat:no-repeat}#\33 26d61d1{align-self:start;min-height:300px;row-gap:24px;flex-direction:row;max-width:1200px;justify-content:flex-start;align-items:center;position:relative;justify-self:center;order:0;padding:40px 5% 75px}#\30 cef6dad{grid-template-columns:minmax(0,1fr);grid-template-rows:minmax(8px,max-content);display:grid;justify-content:start;align-items:start;position:relative;background-color:var(--color_3)}#\35 ae738b9{align-self:stretch;min-height:8px;row-gap:15px;flex-direction:column;max-width:100%;justify-content:center;align-items:center;position:relative;min-width:4%}#widget_ose,#widget_uev{justify-self:auto;position:relative;height:auto;min-width:10px;min-height:10px;max-width:100%;align-self:auto;grid-area:auto/auto/auto/auto}#widget_uev{width:99.99916556567693%;order:0}#widget_ose.flex-element.widget-wrapper>[data-element-type]{padding-top:6px;padding-bottom:6px}#widget_ose{width:74.99886935964642%;order:3}#widget_7q3{position:relative;width:25%;height:auto;min-width:10px;min-height:10px;max-width:100%;order:2}#\30 f5ee851{position:relative;width:100%;height:auto;min-width:10px;min-height:10px;max-width:100%;order:1;justify-self:auto;align-self:auto;margin:-9px 0 0;grid-area:auto/auto/auto/auto}}@media (min-width:768px) and (max-width:1024px){#\33 26d61d1{padding-left:2%;padding-right:2%;padding-top:40px}#\30 cef6dad,#\38 40527fd{background-color:var(--color_3)}#widget_uev{justify-self:auto;align-self:auto;width:99.9990515803645%;order:0;margin:0;grid-area:auto/auto/auto/auto}#widget_7q3{order:1}#widget_ose{order:2;width:90%}#\36 c2ce4e7{padding-left:5%;padding-right:5%}#\34 e1ebdd2{border-color:rgba(229,229,229,1);border-width:5px;border-style:solid;background-color:rgba(255,255,255,1)}}@media (min-width:1400px){#\30 cef6dad,#\31 608f09a,#\38 40527fd{background-color:var(--color_3)}#\33 26d61d1{padding-left:5%;padding-right:5%}#\34 e1ebdd2{border-color:rgba(229,229,229,1);border-width:5px;border-style:solid;background-color:rgba(255,255,255,1)}}@media (max-width:767px){#\33 26d61d1{min-height:unset;flex-direction:column;padding-left:2%;padding-right:2%;padding-bottom:40px}#\35 ae738b9{width:100%;min-height:240px;align-items:center}#\30 cef6dad{background-color:var(--color_3)}#widget_7q3{width:50%}}@media all{#\34 e1ebdd2,#\36 c2ce4e7{display:flex;column-gap:4%}#\34 e1ebdd2,#\36 c2ce4e7,#\38 40527fd{background-size:cover;background-position:50% 50%;background-repeat:no-repeat}#\36 c2ce4e7,#widget_r5f{order:0;width:100%}#widget_5br,#widget_b28,#widget_gej,#widget_r5f{height:auto;min-width:10px;min-height:10px}#\34 e1ebdd2,#widget_5br,#widget_b28,#widget_gej,#widget_r5f{position:relative;max-width:100%}#\36 c2ce4e7{align-self:start;padding-bottom:100px;min-height:460px;row-gap:24px;flex-direction:row;max-width:1200px;justify-content:flex-start;align-items:center;position:relative;justify-self:center;padding-left:5%;padding-right:5%}#\38 40527fd{grid-template-columns:minmax(0,1fr);grid-template-rows:minmax(8px,max-content);display:grid;justify-content:start;align-items:start;position:relative;background-color:var(--color_3)}#\34 e1ebdd2{align-self:stretch;min-height:8px;row-gap:10px;flex-direction:column;width:100%;justify-content:center;align-items:flex-start;min-width:4%;border-color:rgba(229,229,229,1);border-width:5px;border-style:solid;background-color:rgba(255,255,255,1);margin-top:-50px;padding:25px}#widget_5br{width:100%;order:1}#widget_gej{width:99.9987572236376%;align-self:auto;justify-self:auto;order:2;grid-area:auto/auto/auto/auto}#widget_b28{width:100%;order:3}}@media (max-width:767px){#\36 c2ce4e7{min-height:unset;flex-direction:column;padding-left:4%;padding-right:4%;padding-bottom:40px}#\34 e1ebdd2{width:100%;min-height:240px;align-items:center;border-color:rgba(229,229,229,1);border-width:5px;border-style:solid;background-color:rgba(255,255,255,1);margin-top:-75px;padding-right:12px;padding-bottom:25px;padding-left:12px}#\38 40527fd{background-color:var(--color_3)}}@media all{#widget_42d,#widget_tjf{position:relative;min-width:10px;min-height:10px;max-width:100%;align-self:auto;grid-area:auto/auto/auto/auto}#widget_tjf{width:99.99836075752873%;height:480px;justify-self:auto;order:0}#widget_42d{width:99.9985764908065%;height:auto;order:2;justify-self:auto}#widget_64e{position:relative;width:100%;height:auto;min-width:10px;min-height:10px;max-width:100%;order:1;justify-self:auto;align-self:auto;grid-area:auto/auto/auto/auto}}@media (min-width:1400px){#widget_jh4{justify-self:auto;align-self:auto;width:99.99891547652825%;order:0;margin:0;grid-area:auto/auto/auto/auto}}@media all{#\39 5f84762{position:relative;width:100%;height:auto;min-width:10px;min-height:10px;max-width:100%;order:0;justify-self:auto;align-self:auto;margin:0;grid-area:auto/auto/auto/auto}}@media (min-width:1400px){#\39 5f84762{justify-self:auto;align-self:auto;width:100%;order:0;margin:0;grid-area:auto/auto/auto/auto}}@media all{#\31 2e049b9,#a54f2d13,#ac7854ee,#b74e19b6,#bcab6cc0,#e38d28f9{order:2;margin-top:20px}#\32 d3842ce,#\33 2734730,#\36 792aaaa,#a9067ecb{width:99.99754583987072%}#\31 9f06c07,#\32 d3842ce,#a9067ecb,#b86d422a{max-width:100%;order:0;margin:0}#\31 2e049b9,#\31 9f06c07,#\32 d3842ce,#\32 f4e9a02,#\33 2734730,#\36 792aaaa,#a54f2d13,#a9067ecb,#ac7854ee,#b74e19b6,#b86d422a,#bcab6cc0,#e38d28f9,#ec6e2ee9,#fdbc6780{position:relative;height:auto;min-width:10px;min-height:10px;align-self:auto;grid-area:auto/auto/auto/auto}#\33 2734730,#\36 792aaaa{max-width:100%;justify-self:auto;order:1}#\31 9f06c07,#\32 f4e9a02,#b86d422a{width:100%}#a54f2d13,#b74e19b6,#e38d28f9{width:99.99785135531633%;max-width:none}#\31 2e049b9,#ac7854ee{width:99.99544762663044%;max-width:100%;justify-self:auto}#\32 f4e9a02,#fdbc6780{order:0;margin:0}#ec6e2ee9,#fdbc6780{width:99.99754583987072%;max-width:100%}#\32 f4e9a02,#bcab6cc0,#ec6e2ee9,#fdbc6780{max-width:100%}#ec6e2ee9{justify-self:auto;order:1}#bcab6cc0{width:99.99544762663044%;justify-self:auto}}@media (min-width:1400px){#bfaca43f{justify-self:auto;align-self:auto;width:100%;order:1;margin:0;grid-area:auto/auto/auto/auto}}@media all{#\39 7b523c2,#d9a6d1c3{width:99.99754583987072%}#\35 fb8a0c9,#d9a6d1c3{max-width:100%;order:0;margin:0}#\35 11848e0,#\35 fb8a0c9,#\36 abc1940,#\39 7b523c2,#d9a6d1c3{position:relative;height:auto;min-width:10px;min-height:10px;align-self:auto;grid-area:auto/auto/auto/auto}#\36 abc1940{width:99.99785135531633%;max-width:none;order:2;margin-top:20px}#\39 7b523c2{max-width:100%;justify-self:auto;order:1}#\35 11848e0{width:99.99544762663044%;max-width:100%;order:2;justify-self:auto;margin-top:20px}#\35 fb8a0c9{width:100%}}@media (min-width:1400px){#cef2cc95{justify-self:auto;align-self:auto;width:100%;order:1;margin:0;grid-area:auto/auto/auto/auto}}@media all{#\33 5f96b4a,#d61fcff9{display:flex;column-gap:4%;row-gap:24px}#\33 5f96b4a,#d61fcff9,#d7786d00{background-size:cover;background-position:50% 50%;background-repeat:no-repeat}#d61fcff9,#widget_dfc{position:relative;width:100%;max-width:100%}#d61fcff9{align-self:stretch;min-height:8px;flex-direction:column;justify-content:center;align-items:center;min-width:4%;padding:16px}#d7786d00{grid-template-columns:minmax(0,1fr);grid-template-rows:minmax(8px,max-content);display:grid;justify-content:start;align-items:start;position:relative;background-color:var(--color_2)}#\33 5f96b4a{align-self:start;padding-top:1%;padding-bottom:1%;min-height:120px;flex-direction:row;max-width:1200px;width:100%;justify-content:flex-start;align-items:center;position:relative;justify-self:center;order:0;flex-wrap:nowrap}#widget_dfc{height:auto;min-width:10px;min-height:10px}}@media (min-width:768px) and (max-width:1024px){#\33 5f96b4a{padding-left:2%;padding-right:2%;flex-direction:row;flex-wrap:nowrap;min-height:120px}#d61fcff9{width:100%;min-height:8px;align-items:center}}@media (min-width:1400px){#\33 5f96b4a{flex-direction:row;flex-wrap:nowrap;min-height:120px}#d61fcff9{width:100%;min-height:8px;align-items:center}}@media (max-width:767px){#d61fcff9{width:100%;min-height:80px;align-items:center}#\33 5f96b4a{min-height:0;flex-direction:column;padding-left:4%;padding-right:4%;flex-wrap:nowrap}}@media (min-width:468px) and (max-width:767px){#\30 cef6dad,#\31 608f09a,#\38 40527fd{background-color:var(--color_3)}#widget_ose{width:85%}#\34 e1ebdd2{border-color:rgba(229,229,229,1);border-width:5px;border-style:solid;background-color:rgba(255,255,255,1)}#\33 5f96b4a{flex-direction:column;flex-wrap:nowrap;min-height:0}#d61fcff9{width:100%;min-height:80px}}.font-size-24,.size-24{font-size:24px!important}.font-size-60,.size-60{font-size:60px!important}.font-size-12,.size-12{font-size:12px!important}#\31 038058583,#\31 057741339,#\31 095345632,#\31 263108490,#\31 331410523,#\31 385946020,#\31 989207428,#\33 26d61d1,#\33 5f96b4a,#\33 9fef075,#\35 4ab5705,#\35 61735ae,#\37 e9cf73a,#\38 318,#\38 e1871b4,#\39 7825,#\39 8231,#a3a999fe,#bf7bb9bd,#fa243b79{order:0;flex-direction:row}#\31 033099010,#\31 227115702,#\31 36c928d,#\31 429958877,#\31 538018776,#\31 608f09a,#\31 863162091,#\31 947151894,#\31 9725e9b,#\32 49cb794,#\33 9aefeed,#\34 2e823c4,#\34 e1ebdd2,#\35 5a9915f,#\35 ae738b9,#\36 c2ce4e7,#\37 511ee28,#\37 dbe5591,#\38 f2faeee,#\39 0b575f0,#\39 8735b4a,#abbd142b,#b2fb0a08,#b50fb29e,#b671d1c1,#bb074c50,#c4a6205d,#d61fcff9,#db83d53c,#f20a6ac1,#f98aba88,#group_ulp{order:0}#\30 f5ee851,#\31 6201,#\33 2734730,#\33 6d0c7ef,#\36 792aaaa,#\36 8537,#\37 2049,#\37 5651,#\39 36980fc,#\39 7b523c2,#bfaca43f,#cef2cc95,#ec6e2ee9,#ef1b651c,#widget_12v,#widget_2bf,#widget_5br,#widget_64e,#widget_f3e,#widget_oq3{order:1}#\31 2e049b9,#\32 133,#\35 11848e0,#\36 6479,#\36 abc1940,#\38 9438,#\39 8853,#a54f2d13,#ac7854ee,#b74e19b6,#ba0c81a0,#bcab6cc0,#ce22b012,#e38d28f9,#widget_42d,#widget_7q3,#widget_gej,#widget_o9d{order:2}#\36 3738aa0,#widget_b28,#widget_ose{order:3}#\32 49cb794,#\36 c2ce4e7,#c4a6205d{flex-direction:row}#\39 f82f59e{order:4}#widget_24l{order:5} #dm .dmPhotoGallery.newPhotoGallery .dmPhotoGalleryHolder {display: none;} @media (max-width:767px){ [data-hidden-on-mobile] {display:none!important}}
+    .dmDesktopBody [data-anim-desktop]:not([data-anim-desktop='none']) {
+        visibility: hidden;
+    }
+
+    
+</style>
+
+
+
+<style id="fontFallbacks">
+    @font-face {
+  font-family: "Roboto Slab Fallback";
+  src: local('Arial');
+  ascent-override: 97.7562%;
+  descent-override: 25.2818%;
+  size-adjust: 107.1903%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Roboto Fallback";
+  src: local('Arial');
+  ascent-override: 92.6709%;
+  descent-override: 24.3871%;
+  size-adjust: 100.1106%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Heebo Fallback";
+  src: local('Arial');
+  ascent-override: 104.5538%;
+  descent-override: 41.9969%;
+  size-adjust: 100.2212%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Montserrat Fallback";
+  src: local('Arial');
+  ascent-override: 84.9466%;
+  descent-override: 22.0264%;
+  size-adjust: 113.954%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Inter Fallback";
+  src: local('Arial');
+  ascent-override: 90.199%;
+  descent-override: 22.4836%;
+  size-adjust: 107.4014%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Poppins Fallback";
+  src: local('Arial');
+  ascent-override: 92.326%;
+  descent-override: 30.7753%;
+  line-gap-override: 8.793%;
+  size-adjust: 113.7274%;
+}@font-face {
+  font-family: "Epilogue Fallback";
+  src: local('Arial');
+  ascent-override: 70.2338%;
+  descent-override: 20.8923%;
+  size-adjust: 112.4814%;
+  line-gap-override: 0%;
+ }
+</style>
+
+
+<!-- End render the required css and JS in the head section -->
+
+
+
+
+
+
+
+
+
+  <link type="application/rss+xml" rel="alternate" href="https://www.bradknottforcongress.com//feed/rss2"/>
+  <link type="application/atom+xml" rel="alternate" href="https://www.bradknottforcongress.com//feed/atom"/>
+  <meta property="og:type" content="website"/>
+  <title>
+    
+    Brad Knott for Congress
+  
+  </title>
+  <meta name="description" content="Conservative Republican Brad Knott is running to represent North Carolina's 13th Congressional District."/>
+
+  <meta name="twitter:card" content="summary"/>
+  <meta name="twitter:title" content="Brad Knott for Congress"/>
+  <meta name="twitter:description" content="Conservative Republican Brad Knott is running to represent North Carolina's 13th Congressional District."/>
+  <meta name="twitter:image" content="https://lirp.cdn-website.com/bffac84e/dms3rep/multi/opt/social-share-knott-1920w.png"/>
+  <meta property="og:description" content="Conservative Republican Brad Knott is running to represent North Carolina's 13th Congressional District."/>
+  <meta property="og:title" content="Brad Knott for Congress"/>
+  <meta property="og:image" content="https://lirp.cdn-website.com/bffac84e/dms3rep/multi/opt/social-share-knott-1920w.png"/>
+
+
+
+
+<!-- SYS- VVNfRElSRUNUX1BST0RVQ1RJT04= -->
+</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body id="dmRoot" data-page-alias="home"  class="dmRoot dmDesktopBody fix-mobile-scrolling addCanvasBorder dmResellerSite dmLargeBody responsiveTablet "
+      style="padding:0;margin:0;"
+      
+    >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ========= Site Content ========= -->
+<div id="dm" class='dmwr'>
+    
+    <div class="dm_wrapper standard-var5 widgetStyle-3 standard">
+         <div dmwrapped="true" id="1901957768" class="dm-home-page" themewaschanged="true" desktop-global-classes="" tablet-global-classes=""> <div dmtemplateid="StandardLayoutMultiD" class="standardHeaderLayout dm-bfs dm-layout-home hasAnimations rows-1200 hasStickyHeader hamburger-reverse hasStickyHeader dmPageBody d-page-1716942098 dmFreeHeader" id="dm-outer-wrapper" data-page-class="1716942098" data-soch="true" data-background-parallax-selector=".dmHomeSection1, .dmSectionParallex"> <div id="dmStyle_outerContainer" class="dmOuter"> <div id="dmStyle_innerContainer" class="dmInner"> <div class="dmLayoutWrapper standard-var dmStandardDesktop"> <div> <div id="iscrollBody"> <div id="site_content"> <div class="dmHeaderContainer fHeader d-header-wrapper"> <div id="hcontainer" class="u_hcontainer dmHeader p_hfcontainer" freeheader="true" headerlayout="b58ba5b5703b4cd7b5f5f7951565dc87===horizontal-layout-5" layout="SHARD278f5c343822e4eb3aac27f4ad5d13812===header"> <div dm:templateorder="85" class="dmHeaderResp dmHeaderStack noSwitch" id="1709005236"> <div class="dmRespRow dmDefaultListContentRow u_1693561036 fullBleedChanged fullBleedMode" style="text-align:center" id="1693561036"> <div class="dmRespColsWrapper" id="1263108490"> <div class="u_1250776507 small-12 dmRespCol large-2 medium-2" id="1250776507"> <div class="u_1269590167 imageWidget align-center" data-widget-type="image" id="1269590167" data-element-type="image"><img src="https://irp.cdn-website.com/bffac84e/dms3rep/multi/Brad_Knott_Logo.svg" id="1712475146" class="" data-dm-image-path="https://irp.cdn-website.com/bffac84e/dms3rep/multi/Brad_Knott_Logo.svg" width="295" height="150" onerror="handleImageLoadError(this)"/></div> 
+</div> 
+ <div class="u_1412636203 dmRespCol small-12 large-8 medium-8" id="1412636203"> <span id="1363463309"></span> 
+ <nav class="u_1038058583 effect-bottom2 main-navigation unifiednav dmLinksMenu" role="navigation" layout-main="horizontal_nav_layout_1" layout-sub="submenu_horizontal_1" data-show-vertical-sub-items="HOVER" id="1038058583" dmle_extension="onelinksmenu" data-element-type="onelinksmenu" wr="true" icon="true" surround="true" adwords="" navigation-id="unifiedNav"> <ul role="menubar" class="unifiednav__container  " data-auto="navigation-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/" class="unifiednav__item  dmNavItemSelected  dmUDNavigationItem_00  " target="" data-target-page-alias="" data-auto="selected-page"> <span class="nav-item-text " data-link-text="
+         Home
+        " data-auto="page-text-style">Home<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/#About" class="unifiednav__item  dmUDNavigationItem_010101559346  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="About" data-auto="page-text-style">About<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/#Issues" class="unifiednav__item  dmUDNavigationItem_010101673072  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="Priorities" data-auto="page-text-style">Priorities<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/endorsements" class="unifiednav__item  dmUDNavigationItem_010101970050  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="Endorsements" data-auto="page-text-style">Endorsements<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</nav> 
+</div> 
+ <div class="u_1346488810 dmRespCol small-12 large-2 medium-2" id="1346488810"> <span id="1009307604"></span> 
+ <a data-display-type="block" class="u_1150562172 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="https://secure.anedot.com/brad-knott-for-congress/ec941413-87c5-42d6-8cba-331fc9051855" data-element-type="dButtonLinkId" id="1150562172" target="_blank"> <span class="iconBg" aria-hidden="true" id="1243285392"> <span class="icon hasFontIcon icon-star" id="1014193060"></span> 
+</span> 
+ <span class="text" id="1374244533">DONATE &rarr;</span> 
+</a> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="stickyHeaderSpacer" id="stickyHeaderSpacer" data-new="true"></div> 
+ <div class="dmRespRow dmRespRowStable dmRespRowNoPadding dmPageTitleRow "> <div class="dmRespColsWrapper"> <div class="large-12 dmRespCol"> <div id="innerBar" class="innerBar lineInnerBar dmDisplay_None"> <div class="titleLine display_None"><hr/></div> 
+<!-- Page title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts --> <div id="pageTitleText"></div> 
+ <div class="titleLine display_None"><hr/></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div dmwrapped="true" id="dmFirstContainer" class="dmBody u_dmStyle_template_home dm-home-page" themewaschanged="true" desktop-global-classes="" tablet-global-classes=""> <div id="allWrapper" class="allWrapper"><!-- navigation placeholders --> <div id="dm_content" class="dmContent"> <div dm:templateorder="170" class="dmHomeRespTmpl mainBorder dmRespRowsWrapper dmFullRowRespTmpl" id="1716942098"> <div data-auto="flex-section" id="1397476059" data-flex-id="e402a1bc" data-layout-section=""> <div class="flex-widgets-container" id="1136762398"></div> 
+ <section id="bf3e5821" class="flex-element section" data-auto="flex-element-section"> <div id="0cef6dad" class="flex-element grid" data-auto="flex-element-grid" data-layout-grid=""> <div id="326d61d1" class="flex-element group" data-auto="flex-element-group"> <div id="5ae738b9" class="flex-element group" data-auto="flex-element-group"> <div id="widget_uev" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1784400315"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1784400315" style=""> <h1 class="text-align-center"><span style="display: initial;">Brad Knott for Congress</span></h1> 
+</div> 
+</div> 
+ <div id="0f5ee851" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1134391943"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1134391943" style=""> <h3 class="m-size-19 text-align-center size-24"><span class="m-font-size-19 font-size-24" style="display: unset;">North Carolina&rsquo;s 13th Congressional District</span></h3> 
+</div> 
+</div> 
+ <div id="widget_7q3" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="divider" data-external-id="1994130561"> <div class="dmDividerWrapper clearfix u_1994130561" data-element-type="dDividerId" data-layout="divider-style-1" data-widget-version="2" id="1994130561"><hr class="dmDivider" style="border-width:2px; border-top-style:solid; color:grey;" id="1982834431"/></div> 
+</div> 
+ <div id="widget_ose" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1435602937"> <div class="dmNewParagraph u_1435602937" data-element-type="paragraph" data-version="5" id="1435602937" style=""> <h2 class="text-align-center"><span style="display: unset; color: var(--color_2);">Endorsed by President Trump</span></h2> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</section> 
+</div> 
+ <div data-layout-section="" data-auto="flex-section" id="1798993877" data-flex-id="2927bb6b"> <div class="flex-widgets-container" id="1613707974"></div> 
+ <section id="a1c68694" class="flex-element section" data-auto="flex-element-section"> <div id="d7786d00" class="flex-element grid" data-auto="flex-element-grid" data-layout-grid=""> <div id="35f96b4a" class="flex-element group" data-auto="flex-element-group"> <div id="d61fcff9" class="flex-element group" data-auto="flex-element-group"> <div id="widget_dfc" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1750384007"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1750384007" style=""> <h1 class="t-text-align-center text-align-center m-size-42 size-60"><span class="font-size-60 m-font-size-42" m-font-size-set="true" style="color: rgb(240, 193, 57); display: unset;">Brad Backs Trump</span></h1> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</section> 
+</div> 
+ <div data-auto="flex-section" id="1248796078" data-flex-id="79e4e100" data-layout-section=""> <div class="flex-widgets-container" id="1352922942"></div> 
+ <section id="fada7d2b" class="flex-element section" data-auto="flex-element-section"> <div id="3d640a4d" class="flex-element grid" data-auto="flex-element-grid" data-layout-grid=""> <div id="249cb794" class="flex-element group" data-auto="flex-element-group"> <div id="1608f09a" class="flex-element group" data-auto="flex-element-group"> <div id="widget_hrb" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="photoGallery" data-external-id="1379965613"> <div class="dmPhotoGallery newPhotoGallery dmPhotoGalleryResp u_1379965613" galleryoptionsparams="{thumbnailsPerRow: 3, rowsToShow: 3, imageScaleMethod: true}" data-desktop-layout="square" data-desktop-columns="4" data-element-type="dPhotoGalleryId" data-desktop-text-layout="over" id="1379965613" data-link-gallery="true" data-rows-to-show="100" data-auto-adjust-columns="true"> <ul class="dmPhotoGalleryHolder clearfix gallery shadowEffectToChildren gallery4inArow" id="1122868622"> <li index="0" class="photoGalleryThumbs" id="1985775134"> <div class="image-container" id="1339496531"> <a data-dm-multisize-attr="href" data-image-url="https://irp.cdn-website.com/bffac84e/dms3rep/multi/Knott-daughter-desk.jpg" id="1429958877" class="u_1429958877"><img data-src="https://lirp.cdn-website.com/bffac84e/dms3rep/multi/opt/Knott-daughter-desk-1920w.jpg" irh="1" irw="2" alt="" id="1759425430" class="" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container  u_1225172565" id="1225172565"> <span class="caption-inner" id="1863162091"> <h3 class="caption-title u_1471307771" id="1471307771">City skyline</h3> 
+ <div class="caption-text u_1465482455" id="1465482455">Photo By: John Doe</div> 
+ <a class="caption-button dmWidget   clearfix u_1575194844" href="" id="1575194844"> <span class="iconBg" id="1021258887"> <span class="icon hasFontIcon icon-star" id="1841442076"></span> 
+</span> 
+ <span class="text" id="1034144505">Button</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li index="2" class="photoGalleryThumbs" id="1466698999"> <div class="image-container" id="1360192103"> <a data-dm-multisize-attr="href" data-image-url="https://irp.cdn-website.com/bffac84e/dms3rep/multi/Knott-family2.jpg" id="1033099010" class="u_1033099010"><img data-src="https://lirp.cdn-website.com/bffac84e/dms3rep/multi/opt/Knott-family2-1920w.jpg" irh="3" irw="4" alt="" id="1274175573" class="" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container  u_1650936513" id="1650936513"> <span class="caption-inner" id="1947151894"> <h3 class="caption-title u_1866877442" id="1866877442">Fashion Magazine</h3> 
+ <div class="caption-text u_1437235228" id="1437235228">Photo By: John Doe</div> 
+ <a class="caption-button dmWidget   clearfix u_1080542657" href="" id="1080542657"> <span class="iconBg" id="1704401462"> <span class="icon hasFontIcon icon-star" id="1014229955"></span> 
+</span> 
+ <span class="text" id="1948811601">Button</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+ <li index="1" class="photoGalleryThumbs" id="1793686199"> <div class="image-container" id="1499053832"> <a data-dm-multisize-attr="href" data-image-url="https://irp.cdn-website.com/bffac84e/dms3rep/multi/Knott-hunting.jpg" id="1227115702" class="u_1227115702"><img data-src="https://lirp.cdn-website.com/bffac84e/dms3rep/multi/opt/Knott-hunting-1920w.jpg" irh="2" irw="3" alt="" id="1687061344" class="" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="caption-container  u_1723109466" id="1723109466"> <span class="caption-inner" id="1538018776"> <h3 class="caption-title u_1277395955" id="1277395955">Birthday Sparks</h3> 
+ <div class="caption-text u_1315193779" id="1315193779">Photo By: John Doe</div> 
+ <a class="caption-button dmWidget   clearfix u_1595340880" href="" id="1595340880"> <span class="iconBg" id="1185950886"> <span class="icon hasFontIcon icon-star" id="1607241329"></span> 
+</span> 
+ <span class="text" id="1358518973">Button</span> 
+</a> 
+</span> 
+</div> 
+</li> 
+</ul> 
+ <div class="photoGalleryViewAll link" isall="true" data-viewall="View more" data-viewless="View less" style="display:none;" id="1908098703"></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</section> 
+</div> 
+ <div data-auto="flex-section" id="1668637879" data-flex-id="fd50d8e7" data-layout-section=""> <div class="flex-widgets-container" id="1417951812"></div> 
+ <section id="ebf22bab" class="flex-element section" data-auto="flex-element-section"> <div id="840527fd" class="flex-element grid" data-auto="flex-element-grid" data-layout-grid=""> <div id="6c2ce4e7" class="flex-element group" data-auto="flex-element-group"> <div id="4e1ebdd2" class="flex-element group" data-auto="flex-element-group"> <div id="widget_r5f" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="Support"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="Support" style="" data-anchor="Support"> <h3 class="text-align-center"><span style="display: unset; color: var(--color_1);">Support the Campaign!</span></h3> 
+</div> 
+</div> 
+ <div id="widget_5br" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1176875127"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1176875127" style=""> <h5 class="text-align-center"><span style="color: var(--color_2); display: unset;">Sign up to receive updates, support Brad, and get involved.</span></h5> 
+</div> 
+</div> 
+ <div id="widget_gej" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="form" data-external-id="1327867577"> <div class="dmform default native-inputs u_1327867577 button_2" data-element-type="dContactUsRespId" captcha="true" data-require-captcha="true" data-captcha-position="bottomleft" id="1327867577" data-layout="layout-3"> <h3 class="dmform-title dmwidget-title" id="1221865373" hide="true">Contact Us</h3> 
+ <div class="dmform-wrapper" id="1538051405" captcha-lang="en"> <form method="post" class="dmRespDesignRow" locale="ENGLISH" id="1528123013"> <div class="dmforminput required  small-12 dmRespDesignCol medium-4 large-4" id="1218226736"> <label for="1874830081" id="1546769031" data-dm-for="dmform-0">Name:</label> 
+<input type="text" class="" name="dmform-0" id="1874830081" placeholder="John Doe" data-placeholder-original="John Doe"/><input type="hidden" name="label-dmform-0" value="Name" id="1330697203"/></div> 
+ <div class="dmforminput required  small-12 dmRespDesignCol medium-4 large-4" id="1698820545"> <label for="1836642551" id="1758928168" data-dm-for="dmform-1">Email:</label> 
+<input type="email" class="" name="dmform-1" id="1836642551" placeholder="john@gmail.com" data-placeholder-original="john@gmail.com"/><input type="hidden" name="label-dmform-1" value="Email" id="1159062814"/></div> 
+ <div class="dmforminput required  small-12 dmRespDesignCol medium-4 large-4" id="1005244170"> <label for="1955186609" id="1417892368" data-dm-for="dmform-2">Phone:</label> 
+<input type="tel" class="" name="dmform-2" id="1955186609" placeholder="555-555-5555" data-placeholder-original="555-555-5555"/><input type="hidden" name="label-dmform-2" value="Phone" id="1448702457"/></div> 
+ <div class="dmforminput large-12 medium-12 dmRespDesignCol small-12" id="1741913930"> <label for="1609221671" id="1588147631" data-dm-for="dmform-3">Message:</label> 
+ <textarea name="dmform-3" id="1609221671" class="" placeholder="Type message here" data-placeholder-original="Type message here"></textarea> 
+<input type="hidden" name="label-dmform-3" value="Message" id="1480204740"/></div> 
+ <div class="dmforminput small-12 dmRespDesignCol medium-12 large-12" id="1408347711"> <label for="16201" id="1915281443" data-dm-for="dmform-4">Get Involved:</label> 
+ <div class="checkboxwrapper horizontal" id="1989207428"> <div id="98231" class="contact-checkable-container"> <label for="16201" class="for-checkable" id="1385946020"><input type="checkbox" value="Request a yard sign" name="dmform-4" id="16201" class="checkable-input"/> <span id="89438">Request a yard sign</span> 
+ <span class="img-wrapper" id="1806299740"></span> 
+ <span class="img-wrapper"><img alt="" id="37136" class="contact-checkable-img" onerror="handleImageLoadError(this)"/></span> 
+</label> 
+</div> 
+ <div id="97825" class="contact-checkable-container"> <label for="68537" class="for-checkable" id="1057741339"><input type="checkbox" value="Become a volunteer" name="dmform-4" id="68537" class="checkable-input"/> <span id="98853">Become a volunteer</span> 
+ <span class="img-wrapper" id="1540228519"></span> 
+ <span class="img-wrapper"><img alt="" id="35884" class="contact-checkable-img" onerror="handleImageLoadError(this)"/></span> 
+</label> 
+</div> 
+ <div id="8318" class="contact-checkable-container"> <label for="75651" class="for-checkable" id="1095345632"><input type="checkbox" value="Donate" name="dmform-4" id="75651" class="checkable-input"/> <span id="66479">Donate</span> 
+ <span class="img-wrapper" id="1872468466"></span> 
+ <span class="img-wrapper"><img alt="" id="29198" class="contact-checkable-img" onerror="handleImageLoadError(this)"/></span> 
+</label> 
+</div> 
+</div> 
+<input type="hidden" name="label-dmform-4" value="Get Involved:" id="1095037966" class=""/></div> 
+ <div class="dmforminput small-12 dmRespDesignCol newLine medium-12 large-12" id="1540104014"> <label for="72049" id="1198674092" data-dm-for="dmform-97959">Receive Updates</label> 
+ <div class="checkboxwrapper " id="1825168363"> <div id="57589" class="contact-checkable-container"> <label for="72049" class="for-checkable" id="1331410523"><input type="checkbox" value="By checking the box above, you are opting in to receive campaign alerts, updates, and news messages via text from Brad Knott for Congress. Additional text and data rates may apply. Text STOP to opt-out. Text HELP for assistance. Message Frequency may vary/month. See our Privacy Policy below.                                                                    " name="dmform-97959" id="72049" class="checkable-input"/> <span id="2133">By checking the box above, you are opting in to receive campaign alerts, updates, and news messages via text from Brad Knott for Congress. Additional text and data rates may apply. Text STOP to opt-out. Text HELP for assistance. Message Frequency may vary/month. See our Privacy Policy below.</span> 
+ <span class="img-wrapper" id="1597243032"></span> 
+ <span class="img-wrapper"><img alt="" id="94911" class="contact-checkable-img" onerror="handleImageLoadError(this)"/></span> 
+</label> 
+</div> 
+</div> 
+<input type="hidden" name="label-dmform-97959" value="Receive Updates" id="1399833955" class=""/></div> 
+ <span id="undefined_clear" class="dmWidgetClear"></span> 
+ <div class="dmformsubmit dmWidget R" id="1563974415"><input class="" name="submit" type="submit" value="I SUPPORT BRAD" id="1512237764"/></div> 
+<input name="dmformsendto" type="hidden" id="1097117303" class="" value="O0wrseIfFLuVw/983F3puH0eHGxlJ+HvKTphSyDmu6/su9iZ5DqieL6ePo558nzjfR4cbGUn4e8pOmFLIOa7r+y72JnkOqJ45V8r21ulqcBojm9zAx3jZ9mWmO7PlRYh" data-dec="true"/><input class="dmActionInput" type="hidden" name="action" value="/_dm/s/rt/widgets/dmform.submit.jsp" id="1555314760"/><input name="dmformsubject" type="hidden" value="Website Form Submission" id="1561523683" class="" data-email-subject="Website Form Submission"/><input name="dmformfrom" type="hidden" id="1355560603" class="" value="bradknottforcongress.com"/><input name="dmformautoreplyenabled" type="hidden" value="false" id="1134449593" class=""/><input name="dmformautoreplyfrom" type="hidden" value="form-processor" id="1279802613"/><input name="dmformautoreplysubject" type="hidden" value="Thank you for your submission" id="1768014629"/><input name="dmformautoreplymsg" type="hidden" value="V2UndmUgcmVjZWl2ZWQgeW91ciBtZXNzYWdlIC0gdGhhbmsgeW91LiBPbmUgb2Ygb3VyIHRlYW0gbWVtYmVycyB3aWxsIGdldCBiYWNrIHRvIHlvdSBzb29uLg==" id="1897654224"/><input name="dmformautoreplyincludeformcopy" type="hidden" value="true" id="1950540927"/><input type="hidden" name="spreadsheetId" value="1zuvS1p9A9gngsZJkmIUCmAfm5-FLZ-HoRVVEC3DkHns" [object="" object]="" id="1780917385"/><input type="hidden" name="googleIntegrationUUID" value="dea227923a3142908b5b1457ade18094" [object="" object]="" id="1597830217"/><input name="dmformsubmitparams" type="hidden" value="8mpKnCSiNQXK/d9M7IDrSxJJnhBlHGKyDGVX6PPeo4wQk3JweBZ2SXQjPqQ9leG0Y2nS/vhMma1byC0gycxJnxCTcnB4FnZJdCM+pD2V4bR3+8qOX9sNxJiTOFLtspCzVuYjB2dkjqx9HhxsZSfh7yk6YUsg5ruv7LvYmeQ6oni9vC+QSQ7V7RVjbV/xtITSdoO+CtxIFOSGotLhbpAbo15cf4ikIzHHdtakUhydJ2s+MS3YYKwf/lVIuwhQr9TOfLWvTWW0+Dbsm/C5zvGBhDRuD0/SpwfGyGvO2suzSrtPR+B2sz4O4k/EtVoCDIXHHHfUsRoPHeYCqylFFaSJTqULfQnlEiNdW0DaAF2DMI3I3P1cLEQp6gvmHSDA/Tx+AYcuOPN7E5LccDdxjTwFLQHsfXlRHwMzNra7AEOwuicy3HcTf+BbPQbpre49FVxdzJS1nnEU7gL2dQKtARuRZuufRWgRmY7cIMjQRg5Tg8sTg05Jxa0Zw8xc7hXLQ0e2lokKNFVAKBKuGlTalhYUF/GbIdhUGxMfGRPh5G/JmgMYayzTbeYuWHNdsA+Qll9nY2wFe1G35JVh/dUn/kjiRwMOa1hVy4ibVYYP23kUY1W5Z1gOZ7eCfULUsHKRjKOV" data-dec="true"/><input type="hidden" name="page_uuid" value="277da95219434938993350dd8f37aeeb"/></form> 
+</div> 
+ <div class="dmform-success" style="display:none" id="1537593719" data-success-page="home"><p class="rteBlock">We appreciate your support and look forward to reaching out soon with more information about the campaign!</p></div> 
+ <div class="dmform-error" style="display:none" id="1509010540">Oops, there was an error sending your message.<br id="1393096678"/>Please try again later.</div> 
+</div> 
+</div> 
+ <div id="widget_b28" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1972207784"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1972207784" style=""><p class="m-text-align-center text-align-center size-12 m-size-10"><a href="/privacy-policy" runtime_url="/privacy-policy" type="page" style="display: unset; color: var(--color_1);" class="font-size-12 m-font-size-10">Privacy Policy</a></p></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</section> 
+</div> 
+ <div data-auto="flex-section" id="About" data-flex-id="bdb4f4ac" data-layout-section="" class="" data-anchor="About"> <div class="flex-widgets-container" id="1626291884"></div> 
+ <section id="e34c0b73" class="flex-element section" data-auto="flex-element-section"> <div id="e320ebd8" class="flex-element grid" data-auto="flex-element-grid" data-layout-grid=""> <div id="561735ae" class="flex-element group" data-auto="flex-element-group"> <div id="98735b4a" class="flex-element group" data-auto="flex-element-group"> <div id="widget_tjf" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="image" data-external-id="AboutRyan"> <div class="imageWidget align-center u_AboutRyan" data-element-type="image" data-widget-type="image" id="AboutRyan" data-anchor="About Ryan"><img src="https://lirp.cdn-website.com/bffac84e/dms3rep/multi/opt/Knott-family-648h.jpg" alt="" id="1371705228" class="" data-dm-image-path="https://irp.cdn-website.com/bffac84e/dms3rep/multi/Knott-family.jpg" width="878" height="1203" onerror="handleImageLoadError(this)"/></div> 
+</div> 
+ <div id="widget_12v" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1284121757"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1284121757" style=""> <h6 class="text-align-center"><span style="display: unset;">Brad and his wife, Joanna, have two daughters.</span></h6> 
+</div> 
+</div> 
+</div> 
+ <div id="bb074c50" class="flex-element group" data-auto="flex-element-group"> <div id="widget_oq3" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1227429204"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1227429204" style=""> <h3 style="line-height: 1.1;"><span style="display: unset;">Tough on Crime Prosecutor</span></h3> 
+</div> 
+</div> 
+ <div id="widget_hlp" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1462608834"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1462608834" style=""> <h4><span style="text-transform:uppercase;color:var(--color_1);font-weight:900;display:unset;font-family:'Roboto Slab', 'Roboto Slab Fallback';">Brad Knott</span></h4> 
+</div> 
+</div> 
+ <div id="widget_42d" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1344593316"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1344593316" style=""><p><span style="display: unset;">I recently resigned as a federal prosecutor to run for Congress in the 13</span><sup style="display: unset;">th</sup><span class="" style="display: unset;"> <span style="display: unset;">Congressional District in North Carolina. While working in law enforcement, I became familiar with issues important to every North Carolinian, and I look forward to discussing these issues in this campaign.</span></span></p><p><span style="display: initial;"><br/></span></p><p><span style="display: unset;">I grew up in Raleigh. My parents grew up in small towns, Wilson and Knightdale. My grandfather, now 97 years old, fought in the Battle of the Bulge during World War II. My parents taught Bible Study, and now, so do I. My wife, Joanna, and I have been blessed with two daughters.</span><span style="display: initial;"><br/></span></p></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</section> 
+</div> 
+ <div data-auto="flex-section" id="1255346438" data-flex-id="23d5bcee" data-layout-section=""> <div class="flex-widgets-container" id="1100292325"></div> 
+ <section id="e8aae4a1" class="flex-element section" data-auto="flex-element-section"> <div id="b4e854cc" class="flex-element grid" data-auto="flex-element-grid" data-layout-grid=""> <div id="8e1871b4" class="flex-element group" data-auto="flex-element-group"> <div id="ef1b651c" class="flex-element group" data-auto="flex-element-group"> <div id="widget_jh4" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1493349634"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1493349634" style=""><p><span style="display: initial;">During law school &ndash; at Wake Forest University &ndash; I worked as a clerk for Supreme Court Justice Paul Newby. After graduating, I became a prosecutor in the U.S. Attorney&rsquo;s Office for Eastern North Carolina. For seven and a half years, I worked with numerous sheriffs and police departments to prosecute and convict drug kingpins, members of drug cartels, gangs, human traffickers, and criminal illegal immigrants.</span></p><p><span style="display: initial;"><br/></span></p><p><span style="display: initial;">As I traveled eastern North Carolina, working on investigations and preparing for trials, I saw firsthand the devastating harm serious crime does to our communities. The open border policies now in place allow a catastrophic flow of crime that wreaks havoc across our state and country. In the last three years alone, it is estimated that nearly ten million illegal immigrants have crossed our Southern Border. The laws need to be stronger and more rigid to protect law-abiding Americans. I believe when an illegal immigrant commits a felony, they should be sent to prison for a minimum of five years and then deported.<br/></span></p></div> 
+</div> 
+</div> 
+ <div id="19725e9b" class="flex-element group" data-auto="flex-element-group" data-anim-extended="eyJkZXNrdG9wIjp7InRyaWdnZXIiOiJ2aWV3cG9ydCIsImFuaW1hdGlvbiI6ImZhZGVJbkNvbWJvIiwicmV2ZXJzZSI6ZmFsc2UsImludGVuc2l0eSI6MC41LCJ2aWV3cG9ydFRocmVzaG9sZHMiOnsidG9wIjoiMzAlIiwiYm90dG9tIjoiMCUifSwiZGlyIjoibGVmdCJ9fQ=="> <div id="widget_64e" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1486396745"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1486396745" style=""><p class="size-24 m-size-19"><span style="font-style: italic; font-weight: 500; display: initial;" class="font-size-24 m-font-size-19">Brad&rsquo;s a conservative. He teaches Bible Study, puts principle above politics, and he&rsquo;s not a politician.&quot;</span></p></div> 
+</div> 
+ <div id="widget_6p5" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="graphic" data-keep-proportion="true" data-external-id="1549824724"> <div class="graphicWidget graphicWidgetV2 u_1549824724" data-element-type="graphic" data-widget-type="graphic" id="1549824724"> <svg id="1013784610" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 76.41 60.81" class="svg u_1013784610" data-icon-custom="true" data-icon-name="quote.svg"> <g id="Layer_1-2" data-name="Layer 1"> <g> <polygon points="34.33 0 0 0 0 34.34 18.43 60.81 31.55 51.05 20.03 34.34 34.33 34.34 34.33 0"></polygon> 
+ <polygon points="76.41 0 42.07 0 42.07 34.34 60.5 60.81 73.63 51.05 62.11 34.34 76.41 34.34 76.41 0"></polygon> 
+</g> 
+</g> 
+</svg> 
+</div> 
+</div> 
+ <div id="widget_o9d" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1380981718"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1380981718" style=""> <h3 class="size-24 m-size-19"><span style="display: unset; color: var(--color_1);" class="font-size-24 m-font-size-19">Former Congressman George Holding</span></h3> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</section> 
+</div> 
+ <div data-auto="flex-section" id="Issues" data-flex-id="e670f49d" data-layout-section="" class="" data-anchor="Issues"> <div class="flex-widgets-container" id="1166166535"></div> 
+ <section id="41062007" class="flex-element section" data-auto="flex-element-section"> <div id="babb71b3" class="flex-element grid" data-auto="flex-element-grid" data-layout-grid=""> <div id="7e9cf73a" class="flex-element group" data-auto="flex-element-group"> <div id="b671d1c1" class="flex-element group" data-auto="flex-element-group"> <div id="95f84762" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1406990694"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1406990694" style=""> <h3 class="text-align-center" style="line-height: 1.1;"><span style="display: unset;">Brad Knott's Priorities</span></h3> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</section> 
+</div> 
+ <div data-auto="flex-section" id="1902287677" data-flex-id="a01c23a1" data-layout-section=""> <div class="flex-widgets-container" id="1560066827"></div> 
+ <section id="9bd13726" class="flex-element section" data-auto="flex-element-section"> <div id="6cef6e42" class="flex-element grid" data-auto="flex-element-grid" data-layout-grid=""> <div id="c4a6205d" class="flex-element group" data-auto="flex-element-group"> <div id="db83d53c" class="flex-element group" data-auto="flex-element-group" data-anim-extended="eyJkZXNrdG9wIjp7InRyaWdnZXIiOiJ2aWV3cG9ydCIsImFuaW1hdGlvbiI6ImZhZGVJbkNvbWJvIiwicmV2ZXJzZSI6ZmFsc2UsImludGVuc2l0eSI6MC41LCJ2aWV3cG9ydFRocmVzaG9sZHMiOnsidG9wIjoiMjglIiwiYm90dG9tIjoiMzIlIn0sImRpciI6ImxlZnQifX0="></div> 
+ <div id="group_ulp" class="flex-element group" data-auto="flex-element-group"> <div id="2d3842ce" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1335718663"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1335718663" style=""> <h5 style="letter-spacing: 0.2em;" class="m-size-14 size-18"><span style="display: unset; text-transform: uppercase; color: var(--color_1);" class="m-font-size-14 font-size-18">Immigration</span></h5> 
+</div> 
+</div> 
+ <div id="widget_2bf" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1587147932"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1587147932" style=""> <h4><span style="color: var(--color_2); display: unset;">Secure Our Border</span></h4> 
+</div> 
+</div> 
+ <div id="12e049b9" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1684259452"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1684259452" style=""><p style="line-height: 1.3;"><span style="display: unset;">Joe Biden has unleashed a flood of illegal immigrants into our country. His administration must be held accountable. Our border must be secured. The wall must be finished. An illegal immigrant who commits a felony should be sent to prison for a minimum of five years and then deported.</span></p></div> 
+</div> 
+</div> 
+ <div id="90b575f0" class="flex-element group" data-auto="flex-element-group"> <div id="b86d422a" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1226587151"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1226587151" style=""> <h5 class="m-size-14 size-18" style="letter-spacing: 0.2em;"><span style="color: var(--color_1); display: unset; text-transform: uppercase;" class="m-font-size-14 font-size-18">Israel</span></h5> 
+</div> 
+</div> 
+ <div id="32734730" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1760968877"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1760968877" style=""> <h4><span style="color: var(--color_2); display: unset;">Stand with Israel</span></h4> 
+</div> 
+</div> 
+ <div id="b74e19b6" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1032482835"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1032482835" style=""><p class="m-text-align-left" style="line-height: 1.3;"><span style="display: unset;">Israel, a loyal ally, is the only nation in the Middle East that is free and democratic. Israel is the ancestral home of the Jewish people. Hamas and Hezbollah&mdash;and their ally Iran&mdash;openly proclaim their desire to destroy Israel and America. We must stand by Israel. And we need a strong foreign policy that holds Iran in check. Any refugees from Gaza must go to Arab countries, not the USA.</span></p></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</section> 
+</div> 
+ <div data-auto="flex-section" id="1707896245" data-flex-id="f8db15c9" data-layout-section=""> <div class="flex-widgets-container" id="1447442429"></div> 
+ <section id="28f26eab" class="flex-element section" data-auto="flex-element-section"> <div id="fca2a99d" class="flex-element grid" data-auto="flex-element-grid" data-layout-grid=""> <div id="54ab5705" class="flex-element group" data-auto="flex-element-group"> <div id="39aefeed" class="flex-element group" data-auto="flex-element-group" data-anim-extended="eyJkZXNrdG9wIjp7InRyaWdnZXIiOiJ2aWV3cG9ydCIsImFuaW1hdGlvbiI6ImZhZGVJbkNvbWJvIiwicmV2ZXJzZSI6ZmFsc2UsImludGVuc2l0eSI6MC41LCJ2aWV3cG9ydFRocmVzaG9sZHMiOnsidG9wIjoiMjglIiwiYm90dG9tIjoiMzIlIn0sImRpciI6ImxlZnQifX0="></div> 
+ <div id="b50fb29e" class="flex-element group" data-auto="flex-element-group"> <div id="fdbc6780" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1313201089"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1313201089" style=""> <h5 class="m-size-14 size-18" style="letter-spacing: 0.2em;"><span style="text-transform: uppercase; color: var(--color_1); display: unset;" class="font-size-18 m-font-size-14">Abortion</span></h5> 
+</div> 
+</div> 
+ <div id="936980fc" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1508615595"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1508615595" style=""> <h4><span style="color: var(--color_2); display: unset;">Protect the Unborn</span></h4> 
+</div> 
+</div> 
+ <div id="bcab6cc0" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1678851867"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1678851867" style=""><p style="line-height: 1.3;"><span style="display: unset;">I oppose the Democrats&rsquo; efforts to legalize abortion up to the moment of birth. The Dobbs decision properly overruled Roe v. Wade, returning authority over abortion to the states, as our Constitution provides. I&rsquo;m pro-life. I support state laws protecting the unborn. Faith-based crisis pregnancy centers, which provide help to women and promote alternatives to abortion, are under attack from pro-abortion extremists and left-wing politicians. I will fight to protect them.</span></p></div> 
+</div> 
+</div> 
+ <div id="136c928d" class="flex-element group" data-auto="flex-element-group"> <div id="2f4e9a02" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1740098279"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1740098279" style=""> <h5 class="m-size-14 size-18" style="letter-spacing: 0.2em;"><span style="text-transform: uppercase; display: unset; color: var(--color_1);" class="font-size-18 m-font-size-14">Crime</span></h5> 
+</div> 
+</div> 
+ <div id="ec6e2ee9" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1656614304"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1656614304" style=""> <h4><span style="color: var(--color_2); display: unset;">Back the Blue</span></h4> 
+</div> 
+</div> 
+ <div id="e38d28f9" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1189512608"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1189512608" style=""><p class="m-text-align-left" style="line-height: 1.3;"><span style="display: unset;">The Democrats&rsquo; defunding of the police and soft-on-crime policies have brought us deadly violence, along with rampant addiction and death from illegal drugs. As a prosecutor, after working with sheriffs and police departments investigating and convicting drug dealers, I &lsquo;Back the Blue&rsquo; 100%. I will fight for common-sense, tough-on-crime policies.</span></p></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</section> 
+</div> 
+ <div data-auto="flex-section" id="1025544524" data-flex-id="90d74ad9" data-layout-section=""> <div class="flex-widgets-container" id="1938036325"></div> 
+ <section id="721b7d31" class="flex-element section" data-auto="flex-element-section"> <div id="574d42fd" class="flex-element grid" data-auto="flex-element-grid" data-layout-grid=""> <div id="39fef075" class="flex-element group" data-auto="flex-element-group"> <div id="f98aba88" class="flex-element group" data-auto="flex-element-group" data-anim-extended="eyJkZXNrdG9wIjp7InRyaWdnZXIiOiJ2aWV3cG9ydCIsImFuaW1hdGlvbiI6ImZhZGVJbkNvbWJvIiwicmV2ZXJzZSI6ZmFsc2UsImludGVuc2l0eSI6MC41LCJ2aWV3cG9ydFRocmVzaG9sZHMiOnsidG9wIjoiMjglIiwiYm90dG9tIjoiMzIlIn0sImRpciI6ImxlZnQifX0="></div> 
+ <div id="42e823c4" class="flex-element group" data-auto="flex-element-group"> <div id="a9067ecb" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1875418673"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1875418673" style=""> <h5 class="m-size-14 size-18" style="letter-spacing: 0.2em;"><span style="text-transform: uppercase; color: var(--color_1); display: unset;" class="font-size-18 m-font-size-14">Education</span></h5> 
+</div> 
+</div> 
+ <div id="bfaca43f" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1209036651"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1209036651" style=""> <h4><span style="color: var(--color_2); display: unset;">Support School Choice</span></h4> 
+</div> 
+</div> 
+ <div id="ac7854ee" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1694862681"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1694862681" style=""><p style="line-height: 1.3;"><span style="display: unset;">Public schools are failing our children; students are not educated in the basics needed to succeed in life. Instead, public schools push woke ideologies like critical race theory and even transgenderism. Parents must have a voice in school curriculums and policies. I support school choice so parents can get their children out of failing schools and into schools that will provide the education their children need.</span></p></div> 
+</div> 
+</div> 
+ <div id="7dbe5591" class="flex-element group" data-auto="flex-element-group"> <div id="19f06c07" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1193023205"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1193023205" style=""> <h5 class="m-size-14 size-18" style="letter-spacing: 0.2em;"><span style="text-transform: uppercase; display: unset; color: var(--color_1);" class="font-size-18 m-font-size-14">First Amendment</span></h5> 
+</div> 
+</div> 
+ <div id="6792aaaa" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1268325439"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1268325439" style=""> <h4><span style="color: var(--color_2); display: unset;">Protect Free Speech</span></h4> 
+</div> 
+</div> 
+ <div id="a54f2d13" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1019393672"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1019393672" style=""><p class="m-text-align-left" style="line-height: 1.3;"><span style="display: unset;">Freedom of speech and the free exercise of religious faith form the bedrock of American liberty. Today, both of those freedoms are under assault from the Left. I will fight the cancel culture, protect freedom of speech, and work to stop the Biden Administration&rsquo;s targeting of Christian conservatives.</span></p></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</section> 
+</div> 
+ <div data-auto="flex-section" id="1927801438" data-flex-id="9888a293" data-layout-section=""> <div class="flex-widgets-container" id="1561132863"></div> 
+ <section id="f50ec7a5" class="flex-element section" data-auto="flex-element-section"> <div id="464594f3" class="flex-element grid" data-auto="flex-element-grid" data-layout-grid=""> <div id="bf7bb9bd" class="flex-element group" data-auto="flex-element-group"> <div id="55a9915f" class="flex-element group" data-auto="flex-element-group" data-anim-extended="eyJkZXNrdG9wIjp7InRyaWdnZXIiOiJ2aWV3cG9ydCIsImFuaW1hdGlvbiI6ImZhZGVJbkNvbWJvIiwicmV2ZXJzZSI6ZmFsc2UsImludGVuc2l0eSI6MC41LCJ2aWV3cG9ydFRocmVzaG9sZHMiOnsidG9wIjoiMjglIiwiYm90dG9tIjoiMzIlIn0sImRpciI6ImxlZnQifX0="></div> 
+ <div id="f20a6ac1" class="flex-element group" data-auto="flex-element-group"> <div id="d9a6d1c3" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1606858269"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1606858269" style=""> <h5 class="m-size-14 size-18" style="letter-spacing: 0.2em;"><span style="display: unset; color: var(--color_1); text-transform: uppercase;" class="m-font-size-14 font-size-18">Second Amendment</span></h5> 
+</div> 
+</div> 
+ <div id="cef2cc95" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1330652724"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1330652724" style=""> <h4><span style="display: unset; color: var(--color_2);">Defend Gun Rights</span></h4> 
+</div> 
+</div> 
+ <div id="511848e0" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1429093904"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1429093904" style=""><p style="line-height: 1.3;"><span style="display: unset;">I will work to protect our right to keep and bear arms, as guaranteed by the Second Amendment. I was introduced to hunting by my grandfather, who taught me about responsible gun ownership and safety. As a prosecutor, I repeatedly saw the need of every citizen to protect themselves and their families. We already have numerous laws regulating firearms, including a background check system and prohibitions on the possession of guns by felons and drug addicts. We need to enforce the gun laws we have, not pass new ones that target the law-abiding rather than criminals.</span></p></div> 
+</div> 
+</div> 
+ <div id="8f2faeee" class="flex-element group" data-auto="flex-element-group"> <div id="5fb8a0c9" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1444010035"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1444010035" style=""> <h5 class="m-size-14 size-18" style="letter-spacing: 0.2em;"><span style="color: var(--color_1); display: unset; text-transform: uppercase;" class="m-font-size-14 font-size-18">Inflation</span></h5> 
+</div> 
+</div> 
+ <div id="97b523c2" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1700491475"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1700491475" style=""> <h4><span style="display: unset; color: var(--color_2);">End Wasteful Spending</span></h4> 
+</div> 
+</div> 
+ <div id="6abc1940" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1705801393"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1705801393" style=""><p class="m-text-align-left" style="line-height: 1.3;"><span style="display: unset;">Joe Biden has walloped the poor and the middle class with devastating inflation. His torrent of wasteful spending has given us two trillion-dollar deficits, undercut the value of the dollar, and brought on high-interest rates. It makes no sense for Washington politicians to print money to pay for their wasteful spending. It&rsquo;s time to cut spending, put an end to omnibus spending bills, and carefully scrutinize every spending bill to make cuts. I support a balanced budget amendment to the Constitution.</span></p></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</section> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmFooterContainer"> <div id="fcontainer" class="u_fcontainer f_hcontainer dmFooter p_hfcontainer"> <div dm:templateorder="250" class="dmFooterResp generalFooter" id="1943048428"> <div data-flex-id="6615f0db" data-auto="flex-section" id="1109741552" data-layout-section=""> <div class="flex-widgets-container" id="1727694155"></div> 
+ <section id="3c6a5276" class="flex-element section" data-auto="flex-element-section"> <div id="8f3b92fe" class="flex-element grid" data-auto="flex-element-grid" data-layout-grid=""> <div id="a3a999fe" class="flex-element group" data-auto="flex-element-group"> <div id="b2fb0a08" class="flex-element group" data-auto="flex-element-group"> <div id="6ffc889b" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1215737307"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1215737307" style=""><p class="m-text-align-left m-size-13 size-16"><span style="color:var(--color_3);font-weight:400;display:unset;font-family:Poppins, 'Poppins Fallback';" class="font-size-16 m-font-size-13">Contact Us</span></p></div> 
+</div> 
+ <div id="ba0c81a0" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1980645704"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1980645704" style=""><p class="m-size-13 m-text-align-left size-16"><span style="color:var(--color_3);font-weight:400;display:unset;font-family:Poppins, 'Poppins Fallback';" class="m-font-size-13 font-size-16">Employment Inquiries</span></p></div> 
+</div> 
+ <div id="9f82f59e" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1273795881"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1273795881" style=""><p class="m-text-align-left m-size-13 size-16"><span style="color:var(--color_3);font-weight:400;display:unset;font-family:Poppins, 'Poppins Fallback';" class="m-font-size-13 font-size-16">Follow Brad</span></p></div> 
+</div> 
+ <div id="36d0c7ef" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1677704167"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1677704167" style=""> <h5><a href="mailto:info@bradknottforcongress.com" target="_blank" type="email" style="color: rgb(255, 255, 255); display: initial;">info@bradknottforcongress.com</a></h5> 
+</div> 
+</div> 
+ <div id="63738aa0" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1688389823"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1688389823" style=""> <h5><a href="mailto:resume@bradknottforcongress.com" target="_blank" type="email" style="color: rgb(255, 255, 255); display: initial;">resume@bradknottforcongress.com</a></h5> 
+</div> 
+</div> 
+ <div id="widget_24l" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="socialhub" data-external-id="1291219854"> <div class="align-center text-align-center u_1291219854 dmSocialHub" id="1291219854" dmle_extension="social_hub" data-element-type="social_hub" wr="true" networks="" icon="true" surround="true" adwords=""> <div class="socialHubWrapper"> <div class="socialHubInnerDiv "> <a href="https://www.facebook.com/bradknottforcongress" target="_blank" dm_dont_rewrite_url="true" aria-label="facebook" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event(&apos;socialLink&apos;, &apos;click&apos;, &apos;Facebook&apos;)"> <span class="dmSocialFacebook dm-social-icons-facebook oneIcon socialHubIcon style8" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+ <a href="https://twitter.com/bradknottfornc" target="_blank" dm_dont_rewrite_url="true" aria-label="twitter" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event(&apos;socialLink&apos;, &apos;click&apos;, &apos;Twitter&apos;)"> <span class="dmSocialTwitter dm-social-icons-twitter oneIcon socialHubIcon style8" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+ <a href="https://www.instagram.com/bradknottforcongress/" target="_blank" dm_dont_rewrite_url="true" aria-label="instagram" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event(&apos;socialLink&apos;, &apos;click&apos;, &apos;Instagram&apos;)"> <span class="dmSocialInstagram dm-social-icons-instagram oneIcon socialHubIcon style8" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+ <a href="https://www.youtube.com/@BradKnottForCongress" target="_blank" dm_dont_rewrite_url="true" aria-label="youtube" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event(&apos;socialLink&apos;, &apos;click&apos;, &apos;Youtube&apos;)"> <span class="dmSocialYoutube dm-social-icons-youtube oneIcon socialHubIcon style8" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div id="7511ee28" class="flex-element group" data-auto="flex-element-group"> <div id="widget_f3e" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1391350653"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1391350653" style=""> <h5><span style="color: var(--color_3); display: initial;">Sign up to get updates from Brad</span></h5> 
+</div> 
+</div> 
+ <div id="widget_l3g" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1422015539"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1422015539" style=""> <h4><span style="display: unset; color: var(--color_1);">Stay Updated</span></h4> 
+</div> 
+</div> 
+ <div id="ce22b012" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="form" data-external-id="1076588264"> <div class="dmform default u_1076588264 native-inputs" data-element-type="dContactUsRespId" captcha="true" data-require-captcha="true" data-captcha-position="bottomleft" id="1076588264" data-layout="layout-3"> <h3 class="dmform-title dmwidget-title" id="1059729061" hide="true">Subscribe to our newsletter</h3> 
+ <div class="dmform-wrapper" id="1579622255" captcha-lang="en"> <form method="post" class="dmRespDesignRow" locale="ENGLISH" id="1668260586"> <div class="dmforminput small-12 dmRespDesignCol required medium-6 large-6" id="1800189842"> <label for="1157582341" id="1935553083" data-dm-for="dmform-2">Name</label> 
+<input type="text" name="dmform-2" id="1157582341"/><input type="hidden" name="label-dmform-2" value="Name" id="1620205892" class=""/></div> 
+ <div class="dmforminput small-12 dmRespDesignCol required medium-6 large-6" id="1644551099"> <label for="1578480179" id="1905536506" data-dm-for="dmform-3">Email</label> 
+<input type="email" name="dmform-3" placeholder="" id="1578480179"/><input type="hidden" name="label-dmform-3" value="Email" id="1078188673" class=""/></div> 
+ <span id="1838781286" class="dmWidgetClear"></span> 
+ <div class="dmformsubmit dmWidget R" id="1448746126"><input class="" name="submit" type="submit" value="SIGN ME UP" id="1026363884"/></div> 
+<input name="dmformsendto" type="hidden" id="1416812671" class="" value="O0wrseIfFLv34AntwI6++X0eHGxlJ+HvKTphSyDmu6/su9iZ5DqieOVfK9tbpanAaI5vcwMd42fZlpjuz5UWIQ==" data-dec="true"/><input class="dmActionInput" type="hidden" name="action" value="/_dm/s/rt/widgets/dmform.submit.jsp" id="1553987239"/><input name="dmformsubject" type="hidden" value="Website Endorsement" id="1361419571" class="" data-email-subject="Website Endorsement"/><input name="dmformfrom" type="hidden" id="1670248414" class="" value="bradknottforcongress.com"/><input type="hidden" name="spreadsheetId" value="1zuvS1p9A9gngsZJkmIUCmAfm5-FLZ-HoRVVEC3DkHns" [object="" object]="" id="1273780849"/><input type="hidden" name="googleIntegrationUUID" value="6f0ca25b65eb4b70ac6db4d33e7f26cb" [object="" object]="" id="1586269365"/><input name="dmformsubmitparams" type="hidden" value="8mpKnCSiNQXK/d9M7IDrS6fTKG1wJZxMhXKGcelovvAQk3JweBZ2SXQjPqQ9leG0d/vKjl/bDcSYkzhS7bKQs1bmIwdnZI6sfR4cbGUn4e8pOmFLIOa7r+y72JnkOqJ4vbwvkEkO1e0VY21f8bSE0naDvgrcSBTk+MWP03+1Ze6GkPvkNv1CDeks57Jn3xvtbny5XCrQQZFvEwMLMVnFPBHCaxL/vryTOHmmaXmXVPPk16vWh5+LdMVuNw+84UY9cMRbxCCEV8H/2iZ+cXjCLiEHvb1Mqu0u" data-dec="true"/><input type="hidden" name="page_uuid" value="ad7e652c3ff640c5b7af1a32de8baa8f"/></form> 
+</div> 
+ <div class="dmform-success" style="display: none;" id="1482122674"><p class="rteBlock">Thank you!&nbsp;</p></div> 
+ <div class="dmform-error" style="display:none" id="1635741253">Oops, there was an error sending your message.Please try again later.</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</section> 
+</div> 
+ <div data-flex-id="3252aa85" data-auto="flex-section" id="1294649034" data-layout-section=""> <div class="flex-widgets-container" id="1464791634"></div> 
+ <section id="e51488c8" class="flex-element section" data-auto="flex-element-section"> <div id="88341c0f" class="flex-element grid" data-auto="flex-element-grid" data-layout-grid=""> <div id="fa243b79" class="flex-element group" data-auto="flex-element-group"> <div id="abbd142b" class="flex-element group" data-auto="flex-element-group"> <div id="widget_vj8" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1632507409"> <div class="dmNewParagraph u_1632507409" data-element-type="paragraph" data-version="5" id="1632507409" style=""> <h6 class="text-align-center"><span style="display: unset; color: var(--color_3); text-transform: uppercase;">Paid for by Brad Knott for Congress</span></h6> 
+</div> 
+</div> 
+ <div id="widget_e0i" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1684490741"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1684490741" style=""><p class="m-size-10 text-align-center m-text-align-center size-12"><a href="/privacy-policy" runtime_url="/privacy-policy" type="page" class="m-font-size-10 font-size-12" style="display: unset; color: var(--color_3);">Privacy Policy</a></p></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</section> 
+</div> 
+</div> 
+ <div id="1236746004" dmle_extension="powered_by" data-element-type="powered_by" icon="true" surround="false"></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+
+    </div>
+</div>
+<!--  Add full CSS and Javascript before the close tag of the body if needed -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Google Fonts Include -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- loadCSS function fonts.jsp-->
+
+
+
+<link rel="preload" href="https://irp.cdn-website.com/fonts/css2?family=Roboto+Slab:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Heebo:ital,wght@0,100..900;1,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Inter:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Epilogue:ital,wght@0,100..900;1,100..900&amp;subset=latin-ext&amp;display=swap"  as="style" fetchpriority="low" onload="loadCSS(this)" />
+
+
+
+
+
+<!-- RT CSS Include d-css-runtime-desktop-one-package-structured-global-->
+<link rel="preload" as="style" fetchpriority="low" onload="loadCSS(this)" href="https://static.cdn-website.com/mnlt/production/4894/_dm/s/rt/dist/css/d-css-runtime-desktop-one-package-structured-global.min.css" />
+
+<!-- End of RT CSS Include -->
+
+<link rel="preload" href="https://irp.cdn-website.com/WIDGET_CSS/6122a6810c483a477cbd4e52f28c45b3.css" id="widgetCSS" as="style" fetchpriority="low" onload="loadCSS(this)" />
+
+<!-- Support `img` size attributes -->
+<style>img[width][height] {
+    height: auto;
+}</style>
+
+<!-- Support showing sticky element on page only -->
+<style>
+    body[data-page-alias="home"] #dm [data-show-on-page-only="home"] {
+        display: block !important;
+    }
+</style>
+
+<!-- This is populated in Ajax navigation -->
+<style id="pageAdditionalWidgetsCss" type="text/css">
+</style>
+
+
+
+
+<!-- Site CSS -->
+<link rel="preload" href="https://irp.cdn-website.com/bffac84e/files/bffac84e_withFlex_1.min.css?v=150" id="siteGlobalCss" as="style" fetchpriority="low" onload="loadCSS(this)" />
+
+
+
+<style id="customWidgetStyle" type="text/css">
+    
+</style>
+<style id="innerPagesStyle" type="text/css">
+    
+</style>
+
+
+<style
+        id="additionalGlobalCss" type="text/css"
+>
+</style>
+
+<!-- Page CSS -->
+<link rel="preload" href="https://irp.cdn-website.com/bffac84e/files/bffac84e_home_withFlex_1.min.css?v=150" id="homeCssLink" as="style" fetchpriority="low" onload="loadCSS(this)" />
+
+<style id="pagestyle" type="text/css">
+    
+</style>
+
+<style id="pagestyleDevice" type="text/css">
+    
+</style>
+
+<!-- Flex Sections CSS -->
+
+
+
+
+
+<style id="globalFontSizeStyle" type="text/css">
+    .font-size-24, .size-24, .size-24 > font { font-size: 24px !important; }.font-size-60, .size-60, .size-60 > font { font-size: 60px !important; }.font-size-12, .size-12, .size-12 > font { font-size: 12px !important; }.font-size-18, .size-18, .size-18 > font { font-size: 18px !important; }.font-size-16, .size-16, .size-16 > font { font-size: 16px !important; }
+</style>
+<style id="pageFontSizeStyle" type="text/css">
+</style>
+
+<!-- ========= JS Section ========= -->
+<script>
+    var isWLR = true;
+
+    window.customWidgetsFunctions = {};
+    window.customWidgetsStrings = {};
+    window.collections = {};
+    window.currentLanguage = "ENGLISH"
+    window.isSitePreview = false;
+</script>
+<script type="text/javascript">
+
+    var d_version = "production_4894";
+    var build = "2024-11-04T15_31_02";
+    window['v' + 'ersion'] = d_version;
+
+    function buildEditorParent() {
+        window.isMultiScreen = true;
+        window.editorParent = {};
+        window.previewParent = {};
+        window.assetsCacheQueryParam = "?version=2024-11-04T15_31_02";
+        try {
+            var _p = window.parent;
+            if (_p && _p.document && _p.$ && _p.$.dmfw) {
+                window.editorParent = _p;
+            } else if (_p.isSitePreview) {
+                window.previewParent = _p;
+            }
+        } catch (e) {
+
+        }
+    }
+
+    buildEditorParent();
+</script>
+
+<!-- Load jQuery -->
+<script type="text/javascript" id='d-js-jquery'
+        src="https://static.cdn-website.com/libs/jquery/jquery-3.7.0.min.js"></script>
+<!-- End Load jQuery -->
+<!-- Injecting site-wide before scripts -->
+<!-- End Injecting site-wide to the head -->
+
+
+<script>
+    var _jquery = window.$;
+
+    var jqueryAliases = ['$', 'jquery', 'jQuery'];
+
+    jqueryAliases.forEach((alias) => {
+        Object.defineProperty(window, alias, {
+            get() {
+                return _jquery;
+            },
+            set() {
+                console.warn("Trying to over-write the global jquery object!");
+            }
+        });
+    });
+    window.jQuery.migrateMute = true;
+</script>
+<script>
+    window.cookiesNotificationMarkupPreview = 'null';
+</script>
+
+<!-- HEAD RT JS Include -->
+<script id='d-js-params'>
+    window.INSITE = window.INSITE || {};
+    window.INSITE.device = "desktop";
+
+    window.rtCommonProps = {};
+    rtCommonProps["rt.ajax.ajaxScriptsFix"] =true;
+    rtCommonProps["rt.pushnotifs.sslframe.encoded"] = 'aHR0cHM6Ly97c3ViZG9tYWlufS5wdXNoLW5vdGlmcy5jb20=';
+    rtCommonProps["runtimecollector.url"] = 'https://rtc.multiscreensite.com';
+    rtCommonProps["performance.tabletPreview.removeScroll"] = 'false';
+    rtCommonProps["inlineEditGrid.snap"] =true;
+    rtCommonProps["popup.insite.cookie.ttl"] = '0.5';
+    rtCommonProps["rt.pushnotifs.force.button"] =true;
+    rtCommonProps["common.mapbox.token"] = 'pk.eyJ1IjoiZGFubnliMTIzIiwiYSI6ImNqMGljZ256dzAwMDAycXBkdWxwbDgzeXYifQ.Ck5P-0NKPVKAZ6SH98gxxw';
+    rtCommonProps["common.mapbox.js.override"] =false;
+    rtCommonProps["common.here.appId"] = 'iYvDjIQ2quyEu0rg0hLo';
+    rtCommonProps["common.here.appCode"] = '1hcIxLJcbybmtBYTD9Z1UA';
+    rtCommonProps["isCoverage.test"] =false;
+    rtCommonProps["ecommerce.ecwid.script"] = 'https://app.multiscreenstore.com/script.js';
+    rtCommonProps["feature.flag.mappy.kml"] =false;
+    rtCommonProps["common.resources.dist.cdn"] =true;
+    rtCommonProps["common.build.dist.folder"] = 'production/4894';
+    rtCommonProps["common.resources.cdn.host"] = 'https://static.cdn-website.com';
+    rtCommonProps["common.resources.folder"] = 'https://static.cdn-website.com/mnlt/production/4894';
+    rtCommonProps["feature.flag.runtime.backgroundSlider.preload.slowly"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.enabled"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.respectCssAnimationProps.enabled"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.jitAnimation.enabled"] =true;
+    rtCommonProps["feature.flag.sites.google.analytics.gtag"] =true;
+    rtCommonProps["feature.flag.runOnReadyNewTask"] =true;
+    rtCommonProps["isAutomation.test"] =false;
+
+    
+    rtCommonProps['common.mapsProvider'] = 'mapbox';
+    
+    rtCommonProps['common.mapsProvider.version'] = '0.52.0';
+    rtCommonProps['common.geocodeProvider'] = 'mapbox';
+    rtCommonProps['common.map.defaults.radiusSize'] = '1500';
+    rtCommonProps['common.map.defaults.radiusBg'] = 'rgba(255, 255, 255, 0.4)';
+    rtCommonProps['common.map.defaults.strokeColor'] = 'rgba(255, 255, 255, 1)';
+    rtCommonProps['common.map.defaults.strokeSize'] = '2';
+    rtCommonProps['server.for.resources'] = '';
+    rtCommonProps['feature.flag.lazy.widgets'] = true;
+    rtCommonProps['feature.flag.single.wow'] = false;
+    rtCommonProps['feature.flag.disallowPopupsInEditor'] = true;
+    rtCommonProps['feature.flag.mark.anchors'] = true;
+    rtCommonProps['captcha.public.key'] = '6LffcBsUAAAAAMU-MYacU-6QHY4iDtUEYv_Ppwlz';
+    rtCommonProps['captcha.invisible.public.key'] = '6LeiWB8UAAAAAHYnVJM7_-7ap6bXCUNGiv7bBPME';
+    rtCommonProps["images.sizes.small"] =160;
+    rtCommonProps["images.sizes.mobile"] =640;
+    rtCommonProps["images.sizes.tablet"] =1280;
+    rtCommonProps["images.sizes.desktop"] =1920;
+    rtCommonProps["modules.resources.cdn"] =true;
+    rtCommonProps["import.images.storage.imageCDN"] = 'https://lirp.cdn-website.com/';
+    rtCommonProps["facebook.api.version"] = '7.0';
+    rtCommonProps["feature.flag.runtime.inp.threshold"] =150;
+    rtCommonProps["feature.flag.performance.logs"] =true;
+    rtCommonProps["site.widget.form.captcha.type"] = 'g_recaptcha';
+    rtCommonProps["friendly.captcha.site.key"] = 'FCMGSQG9GVNMFS8K';
+    rtCommonProps["cookiebot.mapbox.consent.category"] = 'marketing';
+    rtCommonProps["platform.monolith.personalization.dateTimeCondition.popupMsgAction.moveToclient.enabled"] =false;
+
+    // feature flags that's used out of runtime module (in  legacy files)
+    rtCommonProps["site.runtime.video.background.ssr"] =true;
+
+    window.rtFlags = {};
+    rtFlags["unsuspendEcwidStoreOnRuntime.enabled"] =true;
+    rtFlags["scripts.widgetCount.enabled"] =true;
+    rtFlags["ecom.ecwid.categoryPage.modifyLinks"] = true;
+    rtFlags["ecom.ecwid.delegateNavigationToEcwid.enabled"] = false;
+    rtFlags["ecom.ecwidNewUrlStructure.enabled"] = false;
+    rtFlags["ecom.ecwid.old.store.fix.scrolling.enabled"] = true;
+    rtFlags["ecom.ecwid.old.store.fix.facebook.share"] = true;
+    rtFlags["ecom.ecwid.fallBackInCaseLinksNotFound.enabled"] = true;
+    rtFlags["feature.flag.photo.gallery.exact.size"] =true;
+    rtFlags["new.store.fix.ecwid.back.bug"] =true;
+    rtFlags["facebook.runtime.widgets.upgrade"] =true;
+    rtFlags["ecom.ecwid.solve.url.modifications"] = true;
+    rtFlags["ecom.ecwid.configOptions"] = true;
+    rtFlags["geocode.search.localize"] =false;
+    rtFlags["feature.flag.runtime.newAnimation.asyncInit.setTimeout.enabled"] =false;
+    rtFlags["site.contact.form.fix.for.attribute"] =true;
+    rtFlags["contact.form.date.format.enabled"] = true;
+    rtFlags["twitter.heightLimit.enabled"] = true;
+    rtFlags["ecom.ecwid.fixTranslations.enabled"] = true;
+    rtFlags["runtime.load.script.native"] =true;
+    rtFlags["editor.classicHybrid.photogallery.fix"] =true;
+    rtFlags["runtime.lottieOverflow"] =false;
+    rtFlags["runtime.monitoring.sentry.ignoreErrors"] = "";
+    rtFlags["ecom.ecwid.old.store.fix.scrolling.detect.enable"] =true;
+    rtFlags["contact.form.browserValidation.enabled"] =true;
+</script>
+<script src="https://static.cdn-website.com/mnlt/production/4894/_dm/s/rt/dist/scripts/d-js-one-runtime-unified-desktop.min.js"  id="d-js-core"></script>
+<!-- End of HEAD RT JS Include -->
+<script src="https://static.cdn-website.com/mnlt/production/4894/_dm/s/rt/dist/scripts/d-js-jquery-migrate.min.js" ></script>
+<script>
+    
+    $(window).bind("orientationchange", function (e) {
+        $.layoutManager.initLayout();
+        
+    });
+    $(document).resize(function () {
+        
+    });
+</script>
+<script type="text/javascript" id="d_track_campaign">
+(function() {
+ 	var campaign = (/utm_campaign=([^&]*)/).exec(window.location.search);
+
+ 	if (campaign && campaign != null && campaign.length > 1) {
+ 		campaign = campaign[1];
+ 		document.cookie = "_dm_rt_campaign=" + campaign + ";expires=" + new Date().getTime() + 24*60*60*1000 + ";domain=" + window.location.hostname + ";path=/";
+ 	}
+}());
+</script>
+<script type="text/javascript" >
+  var _dm_gaq = {};
+  var _gaq = _gaq || [];
+  var _dm_insite = [];
+</script>
+
+<script type="text/javascript" id="d_track_sp">
+;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
+p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script","//d32hwlnfiv2gyn.cloudfront.net/sp-2.0.0-dm-0.1.min.js","snowplow"));
+window.dmsnowplow  = window.snowplow;
+
+dmsnowplow('newTracker', 'cf', 'd32hwlnfiv2gyn.cloudfront.net', { // Initialise a tracker
+  appId: 'bffac84e'
+});
+
+// snowplow queries element styles so we wait until CSS calculations are done.
+requestAnimationFrame(() => {
+	dmsnowplow('trackPageView');
+	_dm_insite.forEach((rule) => {
+		// Specifically in popup only the client knows if it is shown or not so we don't always want to track its impression here
+		// the tracking is in popup.js
+		if (rule.actionName !== "popup") {
+			dmsnowplow('trackStructEvent', 'insite', 'impression', rule.ruleType, rule.ruleId);
+		}
+		window?.waitForDeferred?.('dmAjax', () => {
+			$.DM.events.trigger('event-ruleTriggered', {value: rule});
+		});
+	});
+});
+</script>
+   <div style="display:none;" id="P6iryBW0Wu"></div>
+
+<!-- photoswipe markup -->
+
+
+
+
+
+
+
+
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    <!-- Background of PhotoSwipe. 
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. 
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                <!--  Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+<div id="fb-root"
+        data-locale="en"></div>
+<!-- Alias: bffac84e -->
+<div class="dmPopupMask" id="dmPopupMask"></div>
+<div id="dmPopup" class="dmPopup">
+	<div class="dmPopupCloseWrapper"> <div class="dmPopupClose dm-common-icons-close oneIcon" onclick="dmHidePopup(event);"></div> </div>
+ 	<div class="dmPopupTitle"> <span></span> Share by:</div> 
+	<div class="data"></div>
+</div><script id="d_track_personalization">
+	window?.waitForDeferred?.('dmAjax', () => {
+		// Collects client data and updates cookies used by smart sites
+		window.expireDays = 365;
+		window.visitLength = 30 * 60000;
+		$.setCookie("dm_timezone_offset", (new Date()).getTimezoneOffset(), window.expireDays);
+			setSmartSiteCookiesInternal("dm_this_page_view","dm_last_page_view","dm_total_visits","dm_last_visit");
+	});
+</script>
+<script type="text/javascript">
+    
+    Parameters.NavigationAreaParams.MoreButtonText = 'MORE';
+    
+    Parameters.NavigationAreaParams.LessButtonText = 'LESS';
+    Parameters.HomeLinkText = 'Home';
+    </script>
+<!--  End Script tags -->
+
+<!--  Site Wide Html Markup -->
+<!--  Site Wide Html Markup -->
+</body>
+</html>

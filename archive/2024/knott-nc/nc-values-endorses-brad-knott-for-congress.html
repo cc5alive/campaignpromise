@@ -1,0 +1,2331 @@
+<!doctype html >
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"
+      class="">
+<head>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    window._currentDevice = 'desktop';
+    window.Parameters = window.Parameters || {
+        HomeUrl: 'https://www.bradknottforcongress.com/',
+        AccountUUID: '131070f83aa040cea979d5d6ed3b23e8',
+        SystemID: 'US_DIRECT_PRODUCTION',
+        SiteAlias: 'bffac84e',
+        SiteType: atob('RFVEQU9ORQ=='),
+        PublicationDate: 'Mon Nov 04 19:13:43 UTC 2024',
+        ExternalUid: null,
+        IsSiteMultilingual: false,
+        InitialPostAlias: 'blog/nc-values-endorses-brad-knott-for-congress',
+        InitialDynamicItem: '',
+        DynamicPageInfo: {
+            isDynamicPage: false,
+            base64JsonRowData: 'null',
+        },
+        InitialPageAlias: 'd1-internal-blog-post',
+        InitialPageUuid: '1842c0a10bc04db7b4df73d9645c4efe',
+        InitialPageId: '28775954',
+        InitialEncodedPageAlias: 'ZDEtaW50ZXJuYWwtYmxvZy1wb3N0',
+        CurrentPageUrl: '',
+        IsCurrentHomePage: false,
+        AllowAjax: false,
+        AfterAjaxCommand: null,
+        HomeLinkText: 'Back To Home',
+        UseGalleryModule: false,
+        CurrentThemeName: 'Layout Theme',
+        ThemeVersion: '48940',
+        DefaultPageAlias: '',
+        RemoveDID: true,
+        WidgetStyleID: null,
+        IsHeaderFixed: false,
+        IsHeaderSkinny: false,
+        IsBfs: true,
+        StorePageAlias: 'null',
+        StorePagesUrls: 'e30=',
+        IsNewStore: 'false',
+        StorePath: '',
+        StoreId: 'null',
+        StoreVersion: 0,
+        StoreBaseUrl: '',
+        StoreCleanUrl: true,
+        StoreDisableScrolling: true,
+        IsStoreSuspended: false,
+        NotificationSubDomain: 'bradknottforcongress',
+        HasCustomDomain: true,
+        SimpleSite: false,
+        showCookieNotification: false,
+        cookiesNotificationMarkup: 'null',
+        translatedPageUrl: '',
+        isFastMigrationSite: false,
+        sidebarPosition: 'NA',
+        currentLanguage: 'en',
+        currentLocale: 'en',
+        NavItems: '{}',
+        errors: {
+            general: 'There was an error connecting to the page.<br/> Make sure you are not offline.',
+            password: 'Incorrect name/password combination',
+            tryAgain: 'Try again'
+        },
+        NavigationAreaParams: {
+            ShowBackToHomeOnInnerPages: true,
+            NavbarSize: -1,
+            NavbarLiveHomePage: 'https://www.bradknottforcongress.com/',
+            BlockContainerSelector: '.dmBody',
+            NavbarSelector: '#dmNav:has(a)',
+            SubNavbarSelector: '#subnav_main'
+        },
+        hasCustomCode: true,
+        planID: '7',
+        customTemplateId: 'null',
+        siteTemplateId: 'null',
+        productId: 'DM_DIRECT',
+        disableTracking: false,
+        pageType: 'BLOG_LAYOUT',
+        isRuntimeServer: true,
+        isInEditor: false,
+        hasNativeStore: false,
+        defaultLang: 'en',
+        hamburgerMigration: null
+    };
+
+    window.Parameters.LayoutID = {};
+    window.Parameters.LayoutID[window._currentDevice] = 6;
+    window.Parameters.LayoutVariationID = {};
+    window.Parameters.LayoutVariationID[window._currentDevice] = 5;
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Injecting site-wide to the head -->
+
+
+
+
+<!-- End Injecting site-wide to the head -->
+
+<!-- Inject secured cdn script -->
+
+
+<!-- ========= Meta Tags ========= -->
+<!-- PWA settings -->
+<script>
+    function toHash(str) {
+        var hash = 5381, i = str.length;
+        while (i) {
+            hash = hash * 33 ^ str.charCodeAt(--i)
+        }
+        return hash >>> 0
+    }
+</script>
+<script>
+    (function (global) {
+    //const cacheKey = global.cacheKey;
+    const isOffline = 'onLine' in navigator && navigator.onLine === false;
+    const hasServiceWorkerSupport = 'serviceWorker' in navigator;
+    if (isOffline) {
+        console.log('offline mode');
+    }
+    if (!hasServiceWorkerSupport) {
+        console.log('service worker is not supported');
+    }
+    if (hasServiceWorkerSupport && !isOffline) {
+        window.addEventListener('load', function () {
+            const serviceWorkerPath = '/runtime-service-worker.js?v=3';
+            navigator.serviceWorker
+                .register(serviceWorkerPath, { scope: './' })
+                .then(
+                    function (registration) {
+                        // Registration was successful
+                        console.log(
+                            'ServiceWorker registration successful with scope: ',
+                            registration.scope
+                        );
+                    },
+                    function (err) {
+                        // registration failed :(
+                        console.log('ServiceWorker registration failed: ', err);
+                    }
+                )
+                .catch(function (err) {
+                    console.log(err);
+                });
+        });
+
+        // helper function to refresh the page
+        var refreshPage = (function () {
+            var refreshing;
+            return function () {
+                if (refreshing) return;
+                // prevent multiple refreshes
+                var refreshkey = 'refreshed' + location.href;
+                var prevRefresh = localStorage.getItem(refreshkey);
+                if (prevRefresh) {
+                    localStorage.removeItem(refreshkey);
+                    if (Date.now() - prevRefresh < 30000) {
+                        return; // dont go into a refresh loop
+                    }
+                }
+                refreshing = true;
+                localStorage.setItem(refreshkey, Date.now());
+                console.log('refereshing page');
+                window.location.reload();
+            };
+        })();
+
+        function messageServiceWorker(data) {
+            return new Promise(function (resolve, reject) {
+                if (navigator.serviceWorker.controller) {
+                    var worker = navigator.serviceWorker.controller;
+                    var messageChannel = new MessageChannel();
+                    messageChannel.port1.onmessage = replyHandler;
+                    worker.postMessage(data, [messageChannel.port2]);
+                    function replyHandler(event) {
+                        resolve(event.data);
+                    }
+                } else {
+                    resolve();
+                }
+            });
+        }
+    }
+})(window);
+</script>
+<!-- Add manifest -->
+<!-- End PWA settings -->
+
+
+<meta http-equiv="Content-type" content="text/html;charset=utf-8">
+<meta charset="utf-8">
+
+<link rel="canonical" href="https://www.bradknottforcongress.com/nc-values-endorses-brad-knott-for-congress">
+
+<meta id="view" name="viewport" content="initial-scale=1, minimum-scale=1, maximum-scale=5, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+<!--Add favorites icons-->
+
+<link rel="icon" type="image/x-icon" href="https://irp.cdn-website.com/bffac84e/site_favicon_16_1700603069772.ico"/>
+
+<!-- End favorite icons -->
+<link rel="preconnect" href="https://lirp.cdn-website.com/"/>
+
+
+
+<!-- render the required CSS and JS in the head section -->
+<script>
+    window.SystemID = 'US_DIRECT_PRODUCTION';
+
+    if (!window.dmAPI) {
+        window.dmAPI = {
+            registerExternalRuntimeComponent: function () {
+            },
+            getCurrentDeviceType: function () {
+                return window._currentDevice;
+            },
+            runOnReady: (ns, fn) => {
+                const safeFn = dmAPI.toSafeFn(fn);
+                ns = ns || 'global_' + Math.random().toString(36).slice(2, 11);
+                const eventName = 'afterAjax.' + ns;
+
+                if (document.readyState === 'complete') {
+                    $.DM.events.off(eventName).on(eventName, safeFn);
+                    setTimeout(function () {
+                        safeFn({
+                            isAjax: false,
+                        });
+                    }, 0);
+                } else {
+                    window?.waitForDeferred?.('dmAjax', () => {
+                        $.DM.events.off(eventName).on(eventName, safeFn);
+                        safeFn({
+                            isAjax: false,
+                        });
+                    });
+                }
+            },
+            toSafeFn: (fn) => {
+                if (fn?.safe) {
+                    return fn;
+                }
+                const safeFn = function (...args) {
+                    try {
+                        return fn?.apply(null, args);
+                    } catch (e) {
+                        console.log('function failed ' + e.message);
+                    }
+                };
+                safeFn.safe = true;
+                return safeFn;
+            }
+        };
+    }
+
+    if (!window.requestIdleCallback) {
+        window.requestIdleCallback = function (fn) {
+            setTimeout(fn, 0);
+        }
+    }
+</script>
+
+<!-- loadCSS function header.jsp-->
+
+
+
+
+
+
+<script id="d-js-load-css">
+/**
+ * There are a few <link> tags with CSS resource in them that are preloaded in the page
+ * in each of those there is a "onload" handler which invokes the loadCSS callback
+ * defined here.
+ * We are monitoring 3 main CSS files - the runtime, the global and the page.
+ * When each load we check to see if we can append them all in a batch. If threre
+ * is no page css (which may happen on inner pages) then we do not wait for it
+ */
+(function () {
+  let cssLinks = {};
+  function loadCssLink(link) {
+    link.onload = null;
+    link.rel = "stylesheet";
+    link.type = "text/css";
+  }
+  
+    function checkCss() {
+      const pageCssLink = document.querySelector("[id*='CssLink']");
+      const widgetCssLink = document.querySelector("[id*='widgetCSS']");
+
+        if (cssLinks && cssLinks.runtime && cssLinks.global && (!pageCssLink || cssLinks.page) && (!widgetCssLink || cssLinks.widget)) {
+            const storedRuntimeCssLink = cssLinks.runtime;
+            const storedPageCssLink = cssLinks.page;
+            const storedGlobalCssLink = cssLinks.global;
+            const storedWidgetCssLink = cssLinks.widget;
+
+            storedGlobalCssLink.disabled = true;
+            loadCssLink(storedGlobalCssLink);
+
+            if (storedPageCssLink) {
+                storedPageCssLink.disabled = true;
+                loadCssLink(storedPageCssLink);
+            }
+
+            if(storedWidgetCssLink) {
+                storedWidgetCssLink.disabled = true;
+                loadCssLink(storedWidgetCssLink);
+            }
+
+            storedRuntimeCssLink.disabled = true;
+            loadCssLink(storedRuntimeCssLink);
+
+            requestAnimationFrame(() => {
+                setTimeout(() => {
+                    storedRuntimeCssLink.disabled = false;
+                    storedGlobalCssLink.disabled = false;
+                    if (storedPageCssLink) {
+                      storedPageCssLink.disabled = false;
+                    }
+                    if (storedWidgetCssLink) {
+                      storedWidgetCssLink.disabled = false;
+                    }
+                    // (SUP-4179) Clear the accumulated cssLinks only when we're
+                    // sure that the document has finished loading and the document 
+                    // has been parsed.
+                    if(document.readyState === 'interactive') {
+                      cssLinks = null;
+                    }
+                }, 0);
+            });
+        }
+    }
+  
+
+  function loadCSS(link) {
+    try {
+      var urlParams = new URLSearchParams(window.location.search);
+      var noCSS = !!urlParams.get("nocss");
+      var cssTimeout = urlParams.get("cssTimeout") || 0;
+
+      if (noCSS) {
+        return;
+      }
+      if (link.href && link.href.includes("d-css-runtime")) {
+        cssLinks.runtime = link;
+        checkCss();
+      } else if (link.id === "siteGlobalCss") {
+        cssLinks.global = link;
+        checkCss();
+      } 
+      
+      else if (link.id && link.id.includes("CssLink")) {
+        cssLinks.page = link;
+        checkCss();
+      } else if (link.id && link.id.includes("widgetCSS")) {
+        cssLinks.widget = link;
+        checkCss();
+      }
+      
+      else {
+        requestIdleCallback(function () {
+          window.setTimeout(function () {
+            loadCssLink(link);
+          }, parseInt(cssTimeout, 10));
+        });
+      }
+    } catch (e) {
+      throw e
+    }
+  }
+  window.loadCSS = window.loadCSS || loadCSS;
+})();
+</script>
+
+
+
+<script data-role="deferred-init" type="text/javascript">
+    /* usage: window.getDeferred(<deferred name>).resolve() or window.getDeferred(<deferred name>).promise.then(...)*/
+    function Def() {
+        this.promise = new Promise((function (a, b) {
+            this.resolve = a, this.reject = b
+        }).bind(this))
+    }
+
+    const defs = {};
+    window.getDeferred = function (a) {
+        return null == defs[a] && (defs[a] = new Def), defs[a]
+    }
+    window.waitForDeferred = function (b, a, c) {
+        let d = window?.getDeferred?.(b);
+        d
+            ? d.promise.then(a)
+            : c && ["complete", "interactive"].includes(document.readyState)
+                ? setTimeout(a, 1)
+                : c
+                    ? document.addEventListener("DOMContentLoaded", a)
+                    : console.error(`Deferred  does not exist`);
+    };
+</script>
+<style id="forceCssIncludes">
+    /* This file is auto-generated from a `scss` file with the same name */
+
+.videobgwrapper{overflow:hidden;position:absolute;z-index:0;width:100%;height:100%;top:0;left:0;pointer-events:none;border-radius:inherit}.videobgframe{position:absolute;width:101%;height:100%;top:50%;left:50%;transform:translateY(-50%) translateX(-50%);object-fit:fill}#dm video.videobgframe{margin:0}@media (max-width:767px){.dmRoot .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:80vh}}@media (min-width:1025px){.dmRoot .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:45vh}}@media (min-width:768px) and (max-width:1024px){.responsiveTablet .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:45vh}}#dm [data-show-on-page-only]{display:none!important}#dmRoot div.stickyHeaderFix div.site_content{margin-top:0!important}#dmRoot div.stickyHeaderFix div.hamburger-header-container{position:relative}
+    
+
+</style>
+<style id="cssVariables" type="text/css">
+    :root {
+  --color_1: rgba(136, 183, 232, 1);
+  --color_2: rgba(13, 29, 65, 1);
+  --color_3: rgba(249, 249, 249, 1);
+  --color_4: rgba(172, 178, 191, 1);
+}
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Google Fonts Include -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- loadCSS function fonts.jsp-->
+
+
+
+<link type="text/css" rel="stylesheet" href="https://irp.cdn-website.com/fonts/css2?family=Roboto+Slab:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Heebo:ital,wght@0,100..900;1,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Inter:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Epilogue:ital,wght@0,100..900;1,100..900&amp;subset=latin-ext&amp;display=swap"  />
+
+
+
+
+
+<!-- RT CSS Include d-css-runtime-desktop-one-package-structured-global-->
+<link rel="stylesheet" type="text/css" href="https://static.cdn-website.com/mnlt/production/4894/_dm/s/rt/dist/css/d-css-runtime-desktop-one-package-structured-global.min.css" />
+
+<!-- End of RT CSS Include -->
+
+<link type="text/css" rel="stylesheet" href="https://irp.cdn-website.com/WIDGET_CSS/b1335a6680ae5c0e024a9eda61e618ec.css" id="widgetCSS" />
+
+<!-- Support `img` size attributes -->
+<style>img[width][height] {
+    height: auto;
+}</style>
+
+<!-- Support showing sticky element on page only -->
+<style>
+    body[data-page-alias="d1-internal-blog-post"] #dm [data-show-on-page-only="d1-internal-blog-post"] {
+        display: block !important;
+    }
+</style>
+
+<!-- This is populated in Ajax navigation -->
+<style id="pageAdditionalWidgetsCss" type="text/css">
+</style>
+
+
+
+
+<!-- Site CSS -->
+<link type="text/css" rel="stylesheet" href="https://irp.cdn-website.com/bffac84e/files/bffac84e_1.min.css?v=150" id="siteGlobalCss" />
+
+
+
+<style id="customWidgetStyle" type="text/css">
+    
+</style>
+<style id="innerPagesStyle" type="text/css">
+    
+    *#dm *.dmBody a.span.textonly{
+color:rgb(255,255,255) !important}
+*#dm *.dmBody div.dmform-error{
+font-style:normal !important}
+*#dm *.dmBody div.dmforminput textarea{
+font-style:italic !important}
+*#dm *.dmBody div.dmforminput *.fileUploadLink{
+font-style:italic !important}
+*#dm *.dmBody div.checkboxwrapper span{
+font-style:italic !important}
+*#dm *.dmBody div.radiowrapper span{
+font-style:italic !important}
+*#dm *.dmBody *.u_1250789679{
+text-align:LEFT !important}
+*#dm *.dmBody *.u_1250789679 *.rteBlock{
+text-align:LEFT !important}
+*#dm *.dmBody *.u_1035560428{
+width:100% !important}*#dm *.d-page-1716942098 DIV.dmInner{
+background-repeat:no-repeat !important;
+background-size:cover !important;
+background-attachment:fixed !important;
+background-position:50% 50% !important}
+*#dm *.d-page-1716942098 DIV#dmSlideRightNavRight{
+background-repeat:no-repeat !important;
+background-image:none !important;
+background-size:cover !important;
+background-attachment:fixed !important;
+background-position:50% 50% !important}
+*.dmTabletBody *.hamburger-header{
+display:null !important}
+*.dmTabletBody *.hamburger-drawer{
+display:null !important}
+*.dmTabletBody *.layout-drawer-hamburger{
+display:null !important}
+*.dmTabletBody *[dmtemplateid*="amburger"] *#site_content *.site_content{
+margin-top:null !important}
+*#dm *.dmBody div.u_1668470589{
+padding-top:0 !important}
+*#dm *.dmBody div.u_1250789679{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:calc(100% - 0px) !important;
+position:relative !important;
+height:auto !important;
+padding-top:2px !important;
+padding-left:0 !important;
+padding-bottom:2px !important;
+margin-right:150.5px !important;
+margin-left:0 !important;
+max-width:100% !important;
+margin-top:8px !important;
+margin-bottom:8px !important;
+padding-right:0 !important;
+min-width:25px !important;
+display:block !important;
+text-align:left !important}
+*#dm *.dmBody div.u_1471232539{
+padding-top:15px !important;
+padding-left:0 !important;
+margin-top:0 !important;
+padding-right:0 !important}
+*#dm *.dmBody div.u_1750185103{
+float:none !important;
+top:0 !important;
+left:0 !important;
+width:calc(100% - 0px) !important;
+position:relative !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-right:150.5px !important;
+margin-left:0 !important;
+max-width:100% !important;
+margin-top:0 !important;
+margin-bottom:0 !important;
+padding-right:0 !important;
+min-width:25px !important;
+text-align:start !important;
+display:block !important}
+*#dm *.dmBody div.u_1035560428{
+width:calc(100% - 0px) !important;
+important:true !important;
+margin-left:0 !important;
+padding-top:0 !important;
+padding-left:0 !important;
+padding-bottom:0 !important;
+margin-top:7px !important;
+margin-bottom:0 !important;
+margin-right:0 !important;
+padding-right:0 !important;
+float:none !important;
+top:0 !important;
+left:0 !important;
+position:relative !important;
+max-width:860px !important;
+min-width:25px !important;
+text-align:start !important}
+    
+</style>
+
+
+<style
+        id="additionalGlobalCss" type="text/css"
+>
+</style>
+
+<style id="pagestyle" type="text/css">
+    *#dm *.dmBody a.span.textonly
+{
+	color:rgb(255,255,255) !important;
+}
+*#dm *.dmBody div.dmform-error
+{
+	font-style:normal !important;
+}
+*#dm *.dmBody div.dmforminput textarea
+{
+	font-style:italic !important;
+}
+*#dm *.dmBody div.dmforminput *.fileUploadLink
+{
+	font-style:italic !important;
+}
+*#dm *.dmBody div.checkboxwrapper span
+{
+	font-style:italic !important;
+}
+*#dm *.dmBody div.radiowrapper span
+{
+	font-style:italic !important;
+}
+*#dm *.dmBody div.u_1639724380
+{
+	background-color:rgba(0,0,0,0) !important;
+}
+*.dmFooterContainer
+{
+	display:null !important;
+}
+*#dm *.dmBody div.u_1214401551
+{
+	background-color:rgba(0,0,0,0) !important;
+}
+*#dm *.dmBody *.u_1315103047 *.title
+{
+	text-align:CENTER !important;
+}
+*#dm *.dmBody *.u_1852899778
+{
+	text-align:LEFT !important;
+}
+*#dm *.dmBody *.u_1852899778 *.rteBlock
+{
+	text-align:LEFT !important;
+}
+*#dm *.dmBody h1.u_1852899778
+{
+	line-height:normal !important;
+}
+*#dm *.dmBody div.u_1325247579>*.bgExtraLayerOverlay
+{
+	background-color:rgba(255,255,255,1) !important;
+	opacity:0.23 !important;
+}
+*#dm *.dmBody div.u_1325247579>.bgExtraLayerOverlay
+{
+	background-color:rgba(0,0,0,1) !important;
+	opacity:0.22 !important;
+}
+*#dm *.dmBody div.u_1325247579:before
+{
+	background-color:rgba(0,0,0,1) !important;
+	opacity:0.22 !important;
+}
+*#dm *.dmBody div.u_1325247579.before
+{
+	background-color:rgba(0,0,0,1) !important;
+	opacity:0.22 !important;
+}
+*#dm *.dmBody h3.u_1852899778
+{
+	color:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody *.u_1325247579:before
+{
+	opacity:0.5 !important;
+	background-color:rgb(0,0,0) !important;
+}
+*#dm *.dmBody *.u_1325247579.before
+{
+	opacity:0.5 !important;
+	background-color:rgb(0,0,0) !important;
+}
+*#dm *.dmBody *.u_1325247579>*.bgExtraLayerOverlay
+{
+	opacity:0.5 !important;
+	background-color:rgb(0,0,0) !important;
+}
+*#dm *.dmBody div.u_1325247579
+{
+	background-repeat:no-repeat !important;
+	background-image:none !important;
+	background-color:var(--color_3) !important;
+	border-style:solid !important;
+	border-width:0px !important;
+	box-shadow:none !important;
+	-moz-box-shadow:none !important;
+	-webkit-box-shadow:none !important;
+}
+*#dm *.dmBody div.u_1846542956 .postArticle .blogImgLink
+{
+	height:310px !important;
+}
+*#dm *.dmBody div.u_1846542956 .postDescription
+{
+	max-height:4.1em !important;
+}
+
+</style>
+
+<style id="pagestyleDevice" type="text/css">
+    *#dm *.d-page-1716942098 DIV.dmInner
+{
+	background-repeat:no-repeat !important;
+	background-size:cover !important;
+	background-attachment:fixed !important;
+	background-position:50% 50% !important;
+}
+*#dm *.d-page-1716942098 DIV#dmSlideRightNavRight
+{
+	background-repeat:no-repeat !important;
+	background-image:none !important;
+	background-size:cover !important;
+	background-attachment:fixed !important;
+	background-position:50% 50% !important;
+}
+*#dm *.dmBody div.u_1061888463
+{
+	padding-top:15px !important;
+	margin-top:0 !important;
+	padding-left:200px !important;
+	padding-right:200px !important;
+}
+*#dm *.dmBody div.u_1879452075
+{
+	padding-top:0 !important;
+	padding-right:50px !important;
+	padding-left:50px !important;
+}
+*#dm *.dmBody div.u_1749144169
+{
+	padding-top:15px !important;
+	margin-top:0 !important;
+	padding-left:0 !important;
+	padding-right:0 !important;
+}
+*#dm *.dmBody div.u_1287730679
+{
+	padding-top:0 !important;
+	padding-right:50px !important;
+	padding-left:50px !important;
+}
+*#dm *.dmBody div.u_1639724380
+{
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-right:0 !important;
+	margin-left:50px !important;
+	margin-right:50px !important;
+}
+*.dmTabletBody *.hamburger-header
+{
+	display:null !important;
+}
+*.dmTabletBody *.hamburger-drawer
+{
+	display:null !important;
+}
+*.dmTabletBody *.layout-drawer-hamburger
+{
+	display:null !important;
+}
+*.dmTabletBody *[dmtemplateid*="amburger"] *#site_content *.site_content
+{
+	margin-top:null !important;
+}
+*#dm *.dmBody div.u_1214401551
+{
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-right:0 !important;
+	margin-left:50px !important;
+	margin-right:50px !important;
+}
+*#dm *.dmBody div.u_1861057944
+{
+	padding-top:0 !important;
+	padding-right:0 !important;
+	padding-left:0 !important;
+	margin-left:0 !important;
+	padding-bottom:0 !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	margin-right:0 !important;
+}
+*#dm *.dmBody div.u_1315103047
+{
+	padding-top:0 !important;
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 42px) !important;
+	position:relative !important;
+	height:auto !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:860px !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:center !important;
+	display:block !important;
+}
+*#dm *.dmBody div.u_1815935546
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:100% !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:100% !important;
+	margin-top:8px !important;
+	margin-bottom:8px !important;
+	padding-right:0 !important;
+	min-width:0 !important;
+	text-align:center !important;
+	display:block !important;
+}
+*#dm *.dmBody div.u_1200968374
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:100% !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:100% !important;
+	margin-top:8px !important;
+	margin-bottom:8px !important;
+	padding-right:0 !important;
+	min-width:0 !important;
+	text-align:center !important;
+	display:block !important;
+}
+*#dm *.dmBody div.u_1821464270
+{
+	padding-top:40px !important;
+	padding-left:0 !important;
+	padding-right:0 !important;
+}
+*#dm *.dmBody div.u_1955241875
+{
+	padding-top:40px !important;
+	padding-left:0 !important;
+	padding-right:0 !important;
+	margin-top:0 !important;
+	padding-bottom:50px !important;
+}
+*#dm *.dmBody h3.u_1852899778
+{
+	display:block !important;
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 58px) !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:744px !important;
+	margin-top:8px !important;
+	margin-bottom:8px !important;
+	padding-right:0 !important;
+	min-width:25px !important;
+	text-align:center !important;
+	font-size:38px !important;
+}
+*#dm *.dmBody div.u_1325247579
+{
+	padding-top:108.5px !important;
+	padding-left:0px !important;
+	padding-right:0px !important;
+	background-attachment:fixed !important;
+	background-size:cover !important;
+	padding-bottom:108.5px !important;
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:auto !important;
+	position:relative !important;
+	height:auto !important;
+	margin-right:0px !important;
+	margin-left:0px !important;
+	max-width:100% !important;
+	margin-top:0px !important;
+	margin-bottom:0px !important;
+	min-width:0 !important;
+	text-align:start !important;
+}
+*#dm *.dmBody div.u_1846542956
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:calc(100% - 0px) !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:0px !important;
+	padding-left:0px !important;
+	padding-bottom:0px !important;
+	margin-right:40px !important;
+	margin-left:0px !important;
+	max-width:100% !important;
+	margin-top:0px !important;
+	margin-bottom:0px !important;
+	padding-right:0px !important;
+	min-width:25px !important;
+	text-align:start !important;
+}
+*#dm *.dmBody h1.u_1852899778
+{
+	float:none !important;
+	top:0px !important;
+	left:0px !important;
+	width:calc(100% - 0px) !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0px !important;
+	padding-bottom:2px !important;
+	max-width:100% !important;
+	padding-right:0px !important;
+	min-width:25px !important;
+	display:block !important;
+	text-align:center !important;
+	margin-right:0px !important;
+	margin-left:0px !important;
+	margin-top:0px !important;
+	margin-bottom:0px !important;
+}
+
+</style>
+
+<!-- Flex Sections CSS -->
+
+ <style id="grid-styles-desktop-6615f0db-ad7e652c3ff640c5b7af1a32de8baa8f" data-page-uuid="ad7e652c3ff640c5b7af1a32de8baa8f" data-is-header="true">@media all {
+    
+#b2fb0a08 {
+    align-self: stretch;
+    background-size: cover;
+    display: flex;
+    min-height: 8px;
+    background-position: 50% 50%;
+    column-gap: 4%;
+    row-gap: 5px;
+    background-repeat: no-repeat;
+    flex-direction: column;
+    max-width: 100%;
+    width: 48%;
+    justify-content: flex-start;
+    align-items: flex-start;
+    position: relative;
+    min-width: 4%;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0% 0px 0%;
+}
+    
+#\38 f3b92fe {
+    background-repeat: no-repeat;
+    background-size: cover;
+    grid-template-columns: minmax(0px, 1fr);
+    grid-template-rows: minmax(8px, max-content);
+    display: grid;
+    justify-content: start;
+    background-position: 50% 50%;
+    align-items: start;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0);
+}
+    
+#ce22b012 {
+    position: relative;
+    width: 99.93%;
+    height: auto;
+    min-width: 10px;
+    min-height: 10px;
+    max-width: 100%;
+    justify-self: auto;
+    align-self: auto;
+    order: 2;
+    margin: 0px 0% 0px 0%;
+    grid-area: auto / auto / auto / auto;
+}
+    
+#a3a999fe {
+    align-self: start;
+    background-size: cover;
+    min-height: 320px;
+    background-repeat: no-repeat;
+    flex-direction: row;
+    order: 0;
+    display: flex;
+    background-position: 50% 50%;
+    column-gap: 4%;
+    row-gap: 24px;
+    max-width: 1200px;
+    width: 100%;
+    justify-content: flex-start;
+    align-items: center;
+    position: relative;
+    justify-self: center;
+    flex-wrap: nowrap;
+    padding: 50px 2% 0px 2%;
+    margin: 0px 0% 0px 0%;
+    grid-area: 1 / 1 / span 1 / span 1;
+}
+    
+#\33 c6a5276 {
+    margin: 0px 0% 0px 0%;
+}
+    
+#\37 511ee28 {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    position: relative;
+    max-width: 100%;
+    width: 48%;
+    min-width: 4%;
+    min-height: 8px;
+    column-gap: 4%;
+    row-gap: 10px;
+    align-self: stretch;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0% 0px 0%;
+}
+    
+#\36 ffc889b {
+    position: relative;
+    width: 99.99766323641755%;
+    height: auto;
+    min-width: 10px;
+    min-height: 10px;
+    max-width: 100%;
+    justify-self: auto;
+    align-self: auto;
+    order: 0;
+    grid-area: auto / auto / auto / auto;
+}
+    
+#\33 6d0c7ef {
+    position: relative;
+    width: 99.99441131368205%;
+    height: auto;
+    min-width: 10px;
+    min-height: 10px;
+    max-width: 100%;
+    justify-self: auto;
+    align-self: auto;
+    order: 1;
+    margin-right: 0%;
+    margin-bottom: 0px;
+    margin-left: 0%;
+    grid-area: auto / auto / auto / auto;
+}
+    
+#widget_f3e {
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-width: 10px;
+    min-height: 10px;
+    max-width: 100%;
+    order: 1;
+}
+    
+#widget_l3g {
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-width: 10px;
+    min-height: 10px;
+    max-width: 100%;
+    order: 0;
+}
+    
+#\39 f82f59e {
+    position: relative;
+    width: 99.99766323641755%;
+    height: auto;
+    min-width: 10px;
+    min-height: 10px;
+    max-width: 100%;
+    justify-self: auto;
+    align-self: auto;
+    order: 4;
+    margin-top: 20px;
+    grid-area: auto / auto / auto / auto;
+}
+    
+#widget_24l {
+    position: relative;
+    width: auto;
+    height: auto;
+    min-width: 10px;
+    min-height: 10px;
+    max-width: 100%;
+    order: 5;
+    justify-self: auto;
+    align-self: flex-start;
+    grid-area: auto / auto / auto / auto;
+}
+    
+#\36 3738aa0 {
+    position: relative;
+    width: 99.99441131368205%;
+    height: auto;
+    min-width: 10px;
+    min-height: 10px;
+    max-width: 100%;
+    justify-self: auto;
+    align-self: auto;
+    order: 3;
+    margin-right: 0%;
+    margin-bottom: 0px;
+    margin-left: 0%;
+    grid-area: auto / auto / auto / auto;
+}
+    
+#ba0c81a0 {
+    position: relative;
+    width: 99.99723057715225%;
+    height: auto;
+    min-width: 10px;
+    min-height: 10px;
+    max-width: 100%;
+    justify-self: auto;
+    align-self: auto;
+    order: 2;
+    margin-top: 20px;
+    grid-area: auto / auto / auto / auto;
+}
+}</style> 
+
+
+ <style id="grid-styles-adjustments_for_tablet-6615f0db-ad7e652c3ff640c5b7af1a32de8baa8f" data-page-uuid="ad7e652c3ff640c5b7af1a32de8baa8f" data-is-header="true">@media (min-width: 767px) and (max-width: 1024px) {
+}</style> 
+
+
+ <style id="grid-styles-tablet-6615f0db-ad7e652c3ff640c5b7af1a32de8baa8f" data-page-uuid="ad7e652c3ff640c5b7af1a32de8baa8f" data-is-header="true">@media (min-width: 767px) and (max-width: 1024px) {
+    
+#a3a999fe {
+    padding-top: 50px;
+    min-height: 300px;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    column-gap: 2%;
+}
+    
+#\38 f3b92fe {
+    background-color: rgba(0, 0, 0, 0);
+}
+    
+#b2fb0a08 {
+    width: 49%;
+    min-height: 8px;
+}
+    
+#\37 511ee28 {
+    width: 49%;
+    min-height: 8px;
+}
+}</style> 
+
+
+ <style id="grid-styles-desktop_wide-6615f0db-ad7e652c3ff640c5b7af1a32de8baa8f" data-page-uuid="ad7e652c3ff640c5b7af1a32de8baa8f" data-is-header="true">@media (min-width: 1400px) {
+    
+#\38 f3b92fe {
+    background-color: rgba(0, 0, 0, 0);
+}
+    
+#a3a999fe {
+    flex-direction: row;
+    flex-wrap: nowrap;
+    min-height: 320px;
+}
+    
+#b2fb0a08 {
+    width: 48%;
+    min-height: 8px;
+}
+    
+#\37 511ee28 {
+    width: 48%;
+    min-height: 8px;
+}
+}</style> 
+
+
+ <style id="grid-styles-inherited_from_desktop-6615f0db-ad7e652c3ff640c5b7af1a32de8baa8f" data-page-uuid="ad7e652c3ff640c5b7af1a32de8baa8f" data-is-header="true">@media (max-width: 766px) {
+    
+#\38 f3b92fe {
+    grid-template-rows: minmax(8px, max-content);
+}
+    
+#a3a999fe {
+    grid-area: 1 / 1 / span 1 / span 1;
+}
+}</style> 
+
+
+ <style id="grid-styles-mobile_portrait-6615f0db-ad7e652c3ff640c5b7af1a32de8baa8f" data-page-uuid="ad7e652c3ff640c5b7af1a32de8baa8f" data-is-header="true">@media (max-width: 767px) {
+    
+#b2fb0a08 {
+    width: 100%;
+    min-height: 80px;
+    align-items: center;
+    row-gap: 5px;
+    order: 1;
+}
+    
+#ce22b012 {
+    margin-left: 0%;
+    align-self: stretch;
+    margin-right: 0px;
+    width: 100%;
+    max-width: none;
+}
+    
+#a3a999fe {
+    min-height: 0;
+    flex-direction: column;
+    padding-left: 4%;
+    padding-right: 4%;
+    row-gap: 15px;
+    flex-wrap: nowrap;
+}
+    
+#\37 511ee28 {
+    width: 100%;
+    min-height: 80px;
+    align-items: center;
+    order: 0;
+    padding: 0px 0px 0px 0px;
+}
+    
+#\38 f3b92fe {
+    background-color: rgba(0, 0, 0, 0);
+}
+    
+#\33 6d0c7ef {
+    margin-top: 6px;
+}
+    
+#widget_24l {
+    align-self: flex-start;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+    
+#\36 3738aa0 {
+    margin-top: 6px;
+}
+}</style> 
+
+
+ <style id="grid-styles-mobile_landscape-6615f0db-ad7e652c3ff640c5b7af1a32de8baa8f" data-page-uuid="ad7e652c3ff640c5b7af1a32de8baa8f" data-is-header="true">@media (min-width: 468px) and (max-width: 767px) {
+    
+#\38 f3b92fe {
+    background-color: rgba(0, 0, 0, 0);
+}
+    
+#a3a999fe {
+    flex-direction: column;
+    flex-wrap: nowrap;
+    min-height: 0;
+}
+    
+#b2fb0a08 {
+    width: 100%;
+    min-height: 80px;
+}
+    
+#\37 511ee28 {
+    width: 100%;
+    min-height: 80px;
+}
+}</style> 
+
+
+ <style id="grid-styles-desktop-3252aa85-ad7e652c3ff640c5b7af1a32de8baa8f" data-page-uuid="ad7e652c3ff640c5b7af1a32de8baa8f" data-is-header="true">@media all {
+    
+#abbd142b {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    max-width: 100%;
+    width: 100%;
+    min-width: 4%;
+    min-height: 8px;
+    column-gap: 4%;
+    row-gap: 24px;
+    align-self: stretch;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0% 0px 0%;
+}
+    
+#fa243b79 {
+    align-self: start;
+    background-size: cover;
+    min-height: 10px;
+    background-repeat: no-repeat;
+    flex-direction: row;
+    order: 0;
+    display: flex;
+    background-position: 50% 50%;
+    column-gap: 4%;
+    row-gap: 24px;
+    max-width: 1200px;
+    width: 100%;
+    justify-content: flex-start;
+    align-items: center;
+    position: relative;
+    justify-self: center;
+    padding: 20px 2% 30px 2%;
+    margin: 0px 0% 0px 0%;
+    grid-area: 1 / 1 / span 1 / span 1;
+}
+    
+#\38 8341c0f {
+    background-repeat: no-repeat;
+    background-size: cover;
+    grid-template-columns: minmax(0px, 1fr);
+    grid-template-rows: minmax(8px, max-content);
+    display: grid;
+    justify-content: start;
+    background-position: 50% 50%;
+    align-items: start;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+    
+#e51488c8 {
+    margin: 0px 0% 0px 0%;
+}
+    
+#widget_vj8.flex-element.widget-wrapper > [data-element-type] {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#widget_vj8 {
+    position: relative;
+    width: 24.97%;
+    height: auto;
+    min-width: 10px;
+    min-height: 10px;
+    max-width: 100%;
+    order: 0;
+}
+    
+#widget_e0i {
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-width: 10px;
+    min-height: 10px;
+    max-width: 100%;
+}
+}</style> 
+
+
+ <style id="grid-styles-adjustments_for_tablet-3252aa85-ad7e652c3ff640c5b7af1a32de8baa8f" data-page-uuid="ad7e652c3ff640c5b7af1a32de8baa8f" data-is-header="true">@media (min-width: 767px) and (max-width: 1024px) {
+}</style> 
+
+
+ <style id="grid-styles-tablet-3252aa85-ad7e652c3ff640c5b7af1a32de8baa8f" data-page-uuid="ad7e652c3ff640c5b7af1a32de8baa8f" data-is-header="true">@media (min-width: 767px) and (max-width: 1024px) {
+    
+#abbd142b {
+    padding-left: 0px;
+}
+    
+#fa243b79 {
+    padding-left: 20px;
+    padding-right: 0px;
+}
+    
+#\38 8341c0f {
+    background-color: rgba(0, 0, 0, 0);
+}
+    
+#widget_vj8 {
+    width: 35%;
+}
+}</style> 
+
+
+ <style id="grid-styles-desktop_wide-3252aa85-ad7e652c3ff640c5b7af1a32de8baa8f" data-page-uuid="ad7e652c3ff640c5b7af1a32de8baa8f" data-is-header="true">@media (min-width: 1400px) {
+    
+#\38 8341c0f {
+    background-color: rgba(0, 0, 0, 0);
+}
+}</style> 
+
+
+ <style id="grid-styles-inherited_from_desktop-3252aa85-ad7e652c3ff640c5b7af1a32de8baa8f" data-page-uuid="ad7e652c3ff640c5b7af1a32de8baa8f" data-is-header="true">@media (max-width: 766px) {
+    
+#fa243b79 {
+    grid-area: 1 / 1 / span 1 / span 1;
+}
+    
+#\38 8341c0f {
+    grid-template-rows: minmax(8px, max-content);
+}
+}</style> 
+
+
+ <style id="grid-styles-mobile_portrait-3252aa85-ad7e652c3ff640c5b7af1a32de8baa8f" data-page-uuid="ad7e652c3ff640c5b7af1a32de8baa8f" data-is-header="true">@media (max-width: 767px) {
+    
+#abbd142b {
+    width: 100%;
+    min-height: 20px;
+    align-items: center;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+    
+#fa243b79 {
+    min-height: unset;
+    flex-direction: column;
+    row-gap: 10px;
+    padding: 20px 2% 40px 2%;
+}
+    
+#\38 8341c0f {
+    background-color: rgba(0, 0, 0, 0);
+}
+    
+#widget_vj8 {
+    width: 100.00%;
+}
+}</style> 
+
+
+ <style id="grid-styles-mobile_landscape-3252aa85-ad7e652c3ff640c5b7af1a32de8baa8f" data-page-uuid="ad7e652c3ff640c5b7af1a32de8baa8f" data-is-header="true">@media (min-width: 468px) and (max-width: 767px) {
+    
+#\38 8341c0f {
+    background-color: rgba(0, 0, 0, 0);
+}
+}</style> 
+
+
+
+
+
+
+<style id="globalFontSizeStyle" type="text/css">
+    .font-size-16, .size-16, .size-16 > font { font-size: 16px !important; }.font-size-12, .size-12, .size-12 > font { font-size: 12px !important; }
+</style>
+<style id="pageFontSizeStyle" type="text/css">
+</style>
+
+
+
+
+<style id="hideAnimFix">
+    .dmDesktopBody:not(.editGrid) [data-anim-desktop]:not([data-anim-desktop='none']), .dmDesktopBody:not(.editGrid) [data-anim-extended] {
+        visibility: hidden;
+    }
+
+    .dmDesktopBody:not(.editGrid) .dmNewParagraph[data-anim-desktop]:not([data-anim-desktop='none']), .dmDesktopBody:not(.editGrid) .dmNewParagraph[data-anim-extended] {
+        visibility: hidden !important;
+    }
+</style>
+
+
+
+
+<style id="fontFallbacks">
+    @font-face {
+  font-family: "Roboto Slab Fallback";
+  src: local('Arial');
+  ascent-override: 97.7562%;
+  descent-override: 25.2818%;
+  size-adjust: 107.1903%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Roboto Fallback";
+  src: local('Arial');
+  ascent-override: 92.6709%;
+  descent-override: 24.3871%;
+  size-adjust: 100.1106%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Heebo Fallback";
+  src: local('Arial');
+  ascent-override: 104.5538%;
+  descent-override: 41.9969%;
+  size-adjust: 100.2212%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Montserrat Fallback";
+  src: local('Arial');
+  ascent-override: 84.9466%;
+  descent-override: 22.0264%;
+  size-adjust: 113.954%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Inter Fallback";
+  src: local('Arial');
+  ascent-override: 90.199%;
+  descent-override: 22.4836%;
+  size-adjust: 107.4014%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Poppins Fallback";
+  src: local('Arial');
+  ascent-override: 92.326%;
+  descent-override: 30.7753%;
+  line-gap-override: 8.793%;
+  size-adjust: 113.7274%;
+}@font-face {
+  font-family: "Epilogue Fallback";
+  src: local('Arial');
+  ascent-override: 70.2338%;
+  descent-override: 20.8923%;
+  size-adjust: 112.4814%;
+  line-gap-override: 0%;
+ }
+</style>
+
+
+<!-- End render the required css and JS in the head section -->
+
+
+
+
+
+
+
+
+
+  <link type="application/rss+xml" rel="alternate" href="https://www.bradknottforcongress.com//feed/rss2"/>
+  <link type="application/atom+xml" rel="alternate" href="https://www.bradknottforcongress.com//feed/atom"/>
+  <script type="application/ld+json">
+
+{
+  "@context" : {
+    "@vocab" : "http://schema.org/"
+  },
+  "@type" : "BlogPosting",
+  "headline" : "NC Values Coalition Endorses Brad Knott for Congress",
+  "datePublished" : "2024-03-13T20:15:59",
+  "dateModified" : "2024-04-10T21:29:34",
+  "image" : "https://irp.cdn-website.com/bffac84e/dms3rep/multi/NC+Values+Endorsement.png"
+}
+
+  </script>
+  <meta property="og:type" content="article"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:title" content="NC Values Coalition Endorses Brad Knott for Congress"/>
+  <meta name="twitter:image" content="https://lirp.cdn-website.com/bffac84e/dms3rep/multi/opt/NC+Values+Endorsement-1920w.png"/>
+  <meta name="article:published_time" content="2024-03-13T20:15Z"/>
+  <meta property="og:url" content="https://www.bradknottforcongress.com/nc-values-endorses-brad-knott-for-congress"/>
+  <meta property="og:title" content="NC Values Coalition Endorses Brad Knott for Congress"/>
+  <meta property="og:image" content="https://lirp.cdn-website.com/bffac84e/dms3rep/multi/opt/NC+Values+Endorsement-1920w.png"/>
+  <title>
+    
+    NC Values Coalition Endorses Brad Knott for Congress
+  
+  </title>
+  <meta name="description" content="Conservative Republican Brad Knott is running to represent North Carolina's 13th Congressional District."/>
+
+
+
+
+<!-- SYS- VVNfRElSRUNUX1BST0RVQ1RJT04= -->
+</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body id="dmRoot" data-page-alias="d1-internal-blog-post"  class="dmRoot dmDesktopBody fix-mobile-scrolling addCanvasBorder dmResellerSite dmLargeBody responsiveTablet "
+      style="padding:0;margin:0;"
+      
+    >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ========= Site Content ========= -->
+<div id="dm" class='dmwr'>
+    
+    <div class="dm_wrapper standard-var5 widgetStyle-3 standard">
+         <div dmwrapped="true" id="1901957768" class="dm-home-page" themewaschanged="true"> <div dmtemplateid="StandardLayoutMultiD" class="standardHeaderLayout dm-bfs dm-layout-sec hasAnimations rows-1200 hasStickyHeader hamburger-reverse hasStickyHeader dmPageBody d-page-1716942098 dmFreeHeader" id="dm-outer-wrapper" data-page-class="1716942098" data-soch="true" data-background-parallax-selector=".dmHomeSection1, .dmSectionParallex"> <div id="dmStyle_outerContainer" class="dmOuter"> <div id="dmStyle_innerContainer" class="dmInner"> <div class="dmLayoutWrapper standard-var dmStandardDesktop"> <div> <div id="iscrollBody"> <div id="site_content"> <div class="dmHeaderContainer fHeader d-header-wrapper"> <div id="hcontainer" class="u_hcontainer dmHeader p_hfcontainer" freeheader="true" headerlayout="b58ba5b5703b4cd7b5f5f7951565dc87===horizontal-layout-5" layout="SHARD278f5c343822e4eb3aac27f4ad5d13812===header"> <div dm:templateorder="85" class="dmHeaderResp dmHeaderStack noSwitch" id="1709005236"> <div class="dmRespRow dmDefaultListContentRow u_1693561036 fullBleedChanged fullBleedMode" style="text-align:center" id="1693561036"> <div class="dmRespColsWrapper" id="1263108490"> <div class="u_1250776507 small-12 dmRespCol large-2 medium-2" id="1250776507"> <div class="u_1269590167 imageWidget align-center" data-widget-type="image" id="1269590167" data-element-type="image"><img src="https://irp.cdn-website.com/bffac84e/dms3rep/multi/Brad_Knott_Logo.svg" id="1712475146" class="" data-dm-image-path="https://irp.cdn-website.com/bffac84e/dms3rep/multi/Brad_Knott_Logo.svg" width="295" height="150" onerror="handleImageLoadError(this)"/></div> 
+</div> 
+ <div class="u_1412636203 dmRespCol small-12 large-8 medium-8" id="1412636203"> <span id="1363463309"></span> 
+ <nav class="u_1038058583 effect-bottom2 main-navigation unifiednav dmLinksMenu" role="navigation" layout-main="horizontal_nav_layout_1" layout-sub="submenu_horizontal_1" data-show-vertical-sub-items="HOVER" id="1038058583" dmle_extension="onelinksmenu" data-element-type="onelinksmenu" wr="true" icon="true" surround="true" adwords="" navigation-id="unifiedNav"> <ul role="menubar" class="unifiednav__container  " data-auto="navigation-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/" class="unifiednav__item  dmUDNavigationItem_00  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         Home
+        " data-auto="page-text-style">Home<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/#About" class="unifiednav__item  dmUDNavigationItem_010101559346  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="About" data-auto="page-text-style">About<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/#Issues" class="unifiednav__item  dmUDNavigationItem_010101673072  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="Priorities" data-auto="page-text-style">Priorities<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/endorsements" class="unifiednav__item  dmUDNavigationItem_010101970050  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="Endorsements" data-auto="page-text-style">Endorsements<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</nav> 
+</div> 
+ <div class="u_1346488810 dmRespCol small-12 large-2 medium-2" id="1346488810"> <span id="1009307604"></span> 
+ <a data-display-type="block" class="u_1150562172 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="https://secure.anedot.com/brad-knott-for-congress/ec941413-87c5-42d6-8cba-331fc9051855" data-element-type="dButtonLinkId" id="1150562172" target="_blank"> <span class="iconBg" aria-hidden="true" id="1243285392"> <span class="icon hasFontIcon icon-star" id="1014193060"></span> 
+</span> 
+ <span class="text" id="1374244533">DONATE &rarr;</span> 
+</a> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="stickyHeaderSpacer" id="stickyHeaderSpacer" data-new="true"></div> 
+ <div class="dmRespRow dmRespRowStable dmRespRowNoPadding dmPageTitleRow "> <div class="dmRespColsWrapper"> <div class="large-12 dmRespCol"> <div id="innerBar" class="innerBar lineInnerBar dmDisplay_None"> <div class="titleLine display_None"><hr/></div> 
+<!-- Page title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts --> <div id="pageTitleText"> <div class="innerPageTitle">Blog Layout</div> 
+</div> 
+ <div class="titleLine display_None"><hr/></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div dmwrapped="true" id="dmFirstContainer" class="dmBody u_dmStyle_template_d1-internal-blog-post dm-home-page" themewaschanged="true"> <div id="allWrapper" class="allWrapper"><!-- navigation placeholders --> <div id="dm_content" class="dmContent"> <div dm:templateorder="170" class="dmHomeRespTmpl mainBorder dmRespRowsWrapper dmFullRowRespTmpl" id="1716942098"> <div class="u_1325247579 dmRespRow mobile-columns-reversed dmSectionParallaxNew" id="1325247579" data-blog-template="bind-bg-img"> <div class="dmRespColsWrapper" id="1462856210"> <div class="u_1287730679 dmRespCol small-12 medium-12 large-12" id="1287730679"> <h1 class="u_1852899778 dmNewParagraph" data-element-type="paragraph" id="1852899778" data-blog-template="bind-title" style="transition: none 0s ease 0s;" data-binding="W3siYmluZGluZ05hbWUiOiJ0ZXh0IiwidmFsdWUiOiJibG9nLnRpdGxlIn1d" data-diy-text="">NC Values Coalition Endorses Brad Knott for Congress</h1></div> 
+</div> 
+</div> 
+ <div class="dmRespRow" id="1398502639"> <div class="dmRespColsWrapper" id="1098372273"> <div class="dmRespCol large-12 medium-12 small-12" id="1798111879"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1022278659" style="transition: opacity 1s ease-in-out 0s;" new-inline-bind-applied="true" data-diy-text=""><p><span style="display: initial;"><span class="inline-data-binding" data-encoded-value="UE9TVCBQVUJMSVNIIERBVEU=" data-inline-binding="blog.date">Mar 13, 2024</span></span></p></div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1821464270" id="1821464270"> <div class="dmRespColsWrapper" id="1484962664"> <div class="dmRespCol large-12 medium-12 small-12 u_1214401551 postPageExtRoot" id="1214401551" server_id="1716942098"> <div class="dmRespRow u_1471232539 blog-post-row" id="1471232539"> <div class="dmRespColsWrapper" id="1292474755"> <div class="dmRespCol large-12 medium-12 small-12 u_1668470589" id="1668470589"> <div class="u_1035560428 imageWidget align-center" data-element-type="image" data-widget-type="image" id="1035560428"><img src="https://lirp.cdn-website.com/bffac84e/dms3rep/multi/opt/NC+Values+Endorsement+-+vertical-1920w.png" alt="" id="1058477562" class="" data-dm-image-path="https://irp.cdn-website.com/bffac84e/dms3rep/multi/NC+Values+Endorsement+-+vertical.png" width="1920" height="1920" onerror="handleImageLoadError(this)"/></div> 
+ <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1223596389" style="transition: opacity 1s ease-in-out 0s;"><p><span class="" style="display: unset;"><span style="display: unset;">&ldquo;We are endorsing Brad Knott because of his character and commitment to the family values that made this country great. He was a federal prosecutor for the past 7 years prosecuting drug cartel cases, so voters know he will be strong on crime, border security, and drug and human trafficking.</span> 
+</span></p><p><br/></p><p><span class="" style="display: unset;"><span style="display: unset;">He is the only candidate in this primary election runoff who is a true conservative on all issues, including religious freedom, free speech, and pro-life. Brad Knott&rsquo;s concern for his young family and the future they will have in this country, along with his faith, give him the perfect incentive to correct the course of destruction our nation is on and make it a great country again where our families can grow up to serve God without fear or hostility.</span> 
+</span></p><p><br/></p><p><span style="display: unset;">True conservative Brad Knott is the clear choice for voters over his moderate opponent, who is weak on the life issue, and we encourage voters to get out and vote in the primary runoff election on May 14 for Brad Knott.&rdquo; - NC Values Executive Director Tami Fitzgerald</span></p></div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow" id="1350312358" style="background-color:transparent;padding-left:0;padding-right:0;" exclude="true"> <div class="dmRespColsWrapper" id="1651362166"> <div class="dmRespCol small-12 medium-12 large-12 dmBlockElement" id="1461865240"> <a id="1266338457" href="/brad-knott-receives-endorsement-from-dr-josh-mcconkey" data-blog-post-alias="brad-knott-receives-endorsement-from-dr-josh-mcconkey" style="float:left;width:50%;text-align:left;"> <p>&lt; Older Post</p> 
+</a> 
+ <a id="1811629088" href="/conservative-congressman-dan-bishop-endorses-brad-knott-for-congress" data-blog-post-alias="conservative-congressman-dan-bishop-endorses-brad-knott-for-congress" style="float:right;width:50%;text-align:right;"> <p>Newer Post &gt;</p> 
+</a> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1061888463" id="1061888463"> <div class="dmRespColsWrapper" id="1262657630"> <div class="dmRespCol large-12 medium-12 small-12 u_1861057944" id="1861057944"> <div class="u_1315103047 default dmDefaultGradient dmShare dmNoMark dmShareDesktop clearfix" id="1315103047" dmle_extension="shareextension" data-element-type="shareextension" whatsapp="false" google_plus="true" wr="true" data-display-type="block" icon="true" surround="true" icon-name="icon-share" facebook="true" twitter="true" email="true" like="true" use_new_design="true" use_popup="true" linked_in="true" data-title="" data-display-title="false" data-layout="layout-1" data-share-hover-effect="zoomout" text="I wanted to share this great website with you" design="large" share_button_text="Share" share_popup_title="Share by:"> <div class="share-icons"> <div data-target="facebook" class="shareLink fbShare clickTarget" data-href="http://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.bradknottforcongress.com%2Fnc-values-endorses-brad-knott-for-congress" data-hover-effect="zoomout"> <span class="share-icon dm-social-icons-facebook"></span> 
+</div> 
+ <div data-target="twitter" class="shareLink twitterShare clickTarget" data-href="http://twitter.com/intent/tweet?text=I wanted to share this great website with you&url=https%3A%2F%2Fwww.bradknottforcongress.com%2Fnc-values-endorses-brad-knott-for-congress" data-hover-effect="zoomout"> <span class="share-icon dm-social-icons-twitter"></span> 
+</div> 
+ <div data-target="linkedin" class="shareLink linkedinShare clickTarget" data-href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.bradknottforcongress.com%2Fnc-values-endorses-brad-knott-for-congress&title=I wanted to share this great website with you" data-hover-effect="zoomout"> <span class="share-icon dm-social-icons-linkedin"></span> 
+</div> 
+ <a data-target="email" class="shareLink emailShare clickTarget" href="mailto:?subject=I wanted to share this great website with you&body=https%3A%2F%2Fwww.bradknottforcongress.com%2Fnc-values-endorses-brad-knott-for-congress" data-hover-effect="zoomout"> <span class="share-icon dm-social-icons-email"></span> 
+</a> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1749144169" id="1749144169"> <div class="dmRespColsWrapper" id="1072097650"> <div class="dmRespCol large-12 medium-12 small-12 u_1639724380 empty-column" id="1639724380" data-blog-template="inject-fb"></div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1955241875" id="1955241875"> <div class="dmRespColsWrapper" id="1640503916"> <div class="dmRespCol large-12 medium-12 small-12 u_1879452075" id="1879452075"> <div class="u_1846542956 default mainBlog large_list" id="1846542956" dmle_extension="internal_blog_list" data-element-type="internal_blog_list" show-images="true" wr="true" trim-title="false" show-blog-title="false" posts-animation="none" show-action-text="true" text-align="left" icon="true" surround="true" adwords="" list-layout="large_list" visible-items="10" visible-post-lines="3" search-tags="" search-term="" more-posts-text="More Endorsements" header-type="H2" posts-padding="15" posts-per-row="2" show-author="false" text-box-padding="false" action-text="" skip-post-index="-1" blog-posts-feature-flag="true" data-image-hover-effect="zoomout" show-more-posts-text="false"> <div class="inner "> <div style="-ms-grid-column:1; -ms-grid-row:1" class="postArticle "> <div class="inner clearfix wow" style="animation-delay: 200.0ms;"> <a class="blogImgLink" dont-color-link="true" href="/lee-county-sheriff-brian-estes-endorses-brad-knott-for-congress" data-blog-post-alias="lee-county-sheriff-brian-estes-endorses-brad-knott-for-congress"> <div class="blogImg" style="background-image: url('https://lirp.cdn-website.com/bffac84e/dms3rep/multi/opt/Estes-1920w.png');"><img src="https://lirp.cdn-website.com/bffac84e/dms3rep/multi/opt/Estes-1920w.png" "="" onerror="handleImageLoadError(this)"/></div> 
+</a> 
+ <div class="postTextContainer"> <div class="postText clearfix"> <div class="postTitle"> <h3> <a dont-color-link="true" href="/lee-county-sheriff-brian-estes-endorses-brad-knott-for-congress" data-blog-post-alias="lee-county-sheriff-brian-estes-endorses-brad-knott-for-congress">Lee County Sheriff Brian Estes Endorses Brad Knott for Congress</a> 
+</h3> 
+</div> 
+ <div class="authorBar"> <span>22 Apr, 2024</span> 
+</div> 
+ <div class="postDescription">&ldquo;I am endorsing Brad Knott for Congress because he is a former prosecutor with a proven track record of fighting for justice and upholding the law. Brad is the best qualified to secure our border to help stop the fentanyl crisis that Law Enforcement across our Nation deals with on a daily basis.&rdquo;                                                                                                 - Lee County Sheriff Brian Estes</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div style="-ms-grid-column:2; -ms-grid-row:1" class="postArticle "> <div class="inner clearfix wow" style="animation-delay: 400.0ms;"> <a class="blogImgLink" dont-color-link="true" href="/endorsement-from-us-congresswoman-virginia-foxx" data-blog-post-alias="endorsement-from-us-congresswoman-virginia-foxx"> <div class="blogImg" style="background-image: url('https://lirp.cdn-website.com/bffac84e/dms3rep/multi/opt/Endorsement+-+US+Congresswoman+Virginia+Foxx-1920w.jpg');"><img src="https://lirp.cdn-website.com/bffac84e/dms3rep/multi/opt/Endorsement+-+US+Congresswoman+Virginia+Foxx-1920w.jpg" "="" onerror="handleImageLoadError(this)"/></div> 
+</a> 
+ <div class="postTextContainer"> <div class="postText clearfix"> <div class="postTitle"> <h3> <a dont-color-link="true" href="/endorsement-from-us-congresswoman-virginia-foxx" data-blog-post-alias="endorsement-from-us-congresswoman-virginia-foxx">Endorsement from U.S. Congresswoman Virginia Foxx</a> 
+</h3> 
+</div> 
+ <div class="authorBar"> <span>09 Apr, 2024</span> 
+</div> 
+ <div class="postDescription">&ldquo;Brad Knott has the backbone and determination to fight for the hardworking and law-abiding families of North Carolina&rsquo;s 13th District who are fed up with Joe Biden&rsquo;s policies promoting open borders and runaway inflation.                                                                                                              As a prosecutor, he made sure dangerous criminals paid the price for their crimes, and in Congress he will make sure our communities are safe. At his core, he is a committed conservative who will stand strong for our shared North Carolina values.                                                                                                              ﻿                        That&rsquo;s why I&rsquo;m excited to join conservative leaders uniting behind Brad Knott for Congress and give him my full endorsement.&rdquo;</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div style="-ms-grid-column:1; -ms-grid-row:2" class="postArticle "> <div class="inner clearfix wow" style="animation-delay: 600.0ms;"> <a class="blogImgLink" dont-color-link="true" href="/representative-matthew-winslow-endorses-brad-knott" data-blog-post-alias="representative-matthew-winslow-endorses-brad-knott"> <div class="blogImg" style="background-image: url('https://lirp.cdn-website.com/bffac84e/dms3rep/multi/opt/Endorsement+-+Rep+Matthew+Winslow-1920w.jpg');"><img src="https://lirp.cdn-website.com/bffac84e/dms3rep/multi/opt/Endorsement+-+Rep+Matthew+Winslow-1920w.jpg" "="" onerror="handleImageLoadError(this)"/></div> 
+</a> 
+ <div class="postTextContainer"> <div class="postText clearfix"> <div class="postTitle"> <h3> <a dont-color-link="true" href="/representative-matthew-winslow-endorses-brad-knott" data-blog-post-alias="representative-matthew-winslow-endorses-brad-knott">Representative Matthew Winslow Endorses Brad Knott</a> 
+</h3> 
+</div> 
+ <div class="authorBar"> <span>08 Apr, 2024</span> 
+</div> 
+ <div class="postDescription">&quot;As a father who cares deeply about the country our children inherit, I&rsquo;m endorsing Brad Knott for Congress because he will protect the promise of the American Dream and fight for everyday working families.                                                                                                              Now is the time for strong leadership to stand up to woke ideologies and distracting political games &mdash; Brad Knott is a conservative to the core who won&rsquo;t cave to the Washington establishment.                                                                                                              ﻿                        Join me in supporting and voting for Brad Knott for Congress.&rdquo;</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div style="-ms-grid-column:2; -ms-grid-row:2" class="postArticle "> <div class="inner clearfix wow" style="animation-delay: 800.0ms;"> <a class="blogImgLink" dont-color-link="true" href="/president-donald-j-trump-endorses-brad-knott-for-congress" data-blog-post-alias="president-donald-j-trump-endorses-brad-knott-for-congress"> <div class="blogImg" style="background-image: url('https://lirp.cdn-website.com/bffac84e/dms3rep/multi/opt/Trump_fist-1920w.jpg');"><img src="https://lirp.cdn-website.com/bffac84e/dms3rep/multi/opt/Trump_fist-1920w.jpg" "="" onerror="handleImageLoadError(this)"/></div> 
+</a> 
+ <div class="postTextContainer"> <div class="postText clearfix"> <div class="postTitle"> <h3> <a dont-color-link="true" href="/president-donald-j-trump-endorses-brad-knott-for-congress" data-blog-post-alias="president-donald-j-trump-endorses-brad-knott-for-congress">President Donald J. Trump Endorses Brad Knott for Congress</a> 
+</h3> 
+</div> 
+ <div class="authorBar"> <span>06 Apr, 2024</span> 
+</div> 
+ <div class="postDescription">&quot;Brad Knott is a Strong Patriot who is running for Congress in North Carolina&rsquo;s 13th Congressional District against a RINO, Kelly Daughtry, who has given money to Far Left Democrats, pledged to vote for Obama, and is no friend to MAGA.                                                                                                              A Former Federal Prosecutor, Brad will fight hard to Support our Great Law Enforcement and Military, Secure our Border, Protect our always under siege Second Amendment, and hold Joe Biden and the Radical Left ACCOUNTABLE for their Unconstitutional Lawfare, Corruption, and ELECTION INTERFERENCE.                                                                                                              The Runoff for this Important Race is May 14th, so GET OUT AND VOTE.                                                                                                              ﻿                        Brad Knott has my Complete and Total Endorsement - He will never let you down!&quot;</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div style="-ms-grid-column:1; -ms-grid-row:3" class="postArticle "> <div class="inner clearfix wow" style="animation-delay: 1000.0ms;"> <a class="blogImgLink" dont-color-link="true" href="/conservative-congressman-dan-bishop-endorses-brad-knott-for-congress" data-blog-post-alias="conservative-congressman-dan-bishop-endorses-brad-knott-for-congress"> <div class="blogImg" style="background-image: url('https://lirp.cdn-website.com/bffac84e/dms3rep/multi/opt/434779134_122141617754104994_6036232809231414036_n-1920w.jpg');"><img src="https://lirp.cdn-website.com/bffac84e/dms3rep/multi/opt/434779134_122141617754104994_6036232809231414036_n-1920w.jpg" "="" onerror="handleImageLoadError(this)"/></div> 
+</a> 
+ <div class="postTextContainer"> <div class="postText clearfix"> <div class="postTitle"> <h3> <a dont-color-link="true" href="/conservative-congressman-dan-bishop-endorses-brad-knott-for-congress" data-blog-post-alias="conservative-congressman-dan-bishop-endorses-brad-knott-for-congress">Conservative U.S. Congressman Dan Bishop Endorses Brad Knott for Congress</a> 
+</h3> 
+</div> 
+ <div class="authorBar"> <span>05 Apr, 2024</span> 
+</div> 
+ <div class="postDescription">&ldquo;In the 13th District Republican runoff, Kelly Daughtry claims to be a conservative Trump supporter even though she donated to Cheri Beasley against Ted Budd and to Josh Stein, she celebrated voting for Barack Obama, and now she runs faked photos of Brad Knott shaking Biden&rsquo;s hand. That tells you three things. Kelly Daughtry isn&rsquo;t a conservative. She&rsquo;s brazenly dishonest. And she&rsquo;d fit right in in Washington. All are disqualifying.                                       Brad Knott has built an impeccable career prosecuting crime at the highest level. He&rsquo;s a man of conservative commitment, deep faith, and accomplishment. He is the genuine conservative choice and has my complete endorsement.&rdquo;                                                                                                              ﻿                        &mdash; U.S. Congressman Dan Bishop</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div style="-ms-grid-column:2; -ms-grid-row:3" class="postArticle "> <div class="inner clearfix wow" style="animation-delay: 1200.0ms;"> <a class="blogImgLink" dont-color-link="true" href="/nc-values-endorses-brad-knott-for-congress" data-blog-post-alias="nc-values-endorses-brad-knott-for-congress"> <div class="blogImg" style="background-image: url('https://lirp.cdn-website.com/bffac84e/dms3rep/multi/opt/NC+Values+Endorsement-1920w.png');"><img src="https://lirp.cdn-website.com/bffac84e/dms3rep/multi/opt/NC+Values+Endorsement-1920w.png" "="" onerror="handleImageLoadError(this)"/></div> 
+</a> 
+ <div class="postTextContainer"> <div class="postText clearfix"> <div class="postTitle"> <h3> <a dont-color-link="true" href="/nc-values-endorses-brad-knott-for-congress" data-blog-post-alias="nc-values-endorses-brad-knott-for-congress">NC Values Coalition Endorses Brad Knott for Congress</a> 
+</h3> 
+</div> 
+ <div class="authorBar"> <span>13 Mar, 2024</span> 
+</div> 
+ <div class="postDescription">&ldquo;We are endorsing Brad Knott because of his character and commitment to the family values that made this country great. He was a federal prosecutor for the past 7 years prosecuting drug cartel cases, so voters know he will be strong on crime, border security, and drug and human trafficking.                                                                                                              He is the only candidate in this primary election runoff who is a true conservative on all issues, including religious freedom, free speech, and pro-life. Brad Knott&rsquo;s concern for his young family and the future they will have in this country, along with his faith, give him the perfect incentive to correct the course of destruction our nation is on and make it a great country again where our families can grow up to serve God without fear or hostility.                                                                                                 True conservative Brad Knott is the clear choice for voters over his moderate opponent, who is weak on the life issue, and we encourage voters to get out and vote in the primary runoff election on May 14 for Brad Knott.&rdquo; - NC Values Executive Director Tami Fitzgerald</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div style="-ms-grid-column:1; -ms-grid-row:4" class="postArticle "> <div class="inner clearfix wow" style="animation-delay: 1400.0ms;"> <a class="blogImgLink" dont-color-link="true" href="/brad-knott-receives-endorsement-from-dr-josh-mcconkey" data-blog-post-alias="brad-knott-receives-endorsement-from-dr-josh-mcconkey"> <div class="blogImg" style="background-image: url('https://lirp.cdn-website.com/bffac84e/dms3rep/multi/opt/Endorsement+-+Dr+Josh+McConkey-1920w.jpg');"><img src="https://lirp.cdn-website.com/bffac84e/dms3rep/multi/opt/Endorsement+-+Dr+Josh+McConkey-1920w.jpg" "="" onerror="handleImageLoadError(this)"/></div> 
+</a> 
+ <div class="postTextContainer"> <div class="postText clearfix"> <div class="postTitle"> <h3> <a dont-color-link="true" href="/brad-knott-receives-endorsement-from-dr-josh-mcconkey" data-blog-post-alias="brad-knott-receives-endorsement-from-dr-josh-mcconkey">Brad Knott receives endorsement from Dr. Josh McConkey</a> 
+</h3> 
+</div> 
+ <div class="authorBar"> <span>09 Mar, 2024</span> 
+</div> 
+ <div class="postDescription">Dr. Josh McConkey said, &ldquo;Having had the opportunity to get to know Brad Knott more personally on the campaign trail, I am most impressed with his commitment to America First values.                                                                               ﻿                                                                               As a prosecutor, Brad is best qualified to secure our border, stop the fentanyl crisis that I deal with every day in the ER, and hold criminals and drug cartels accountable.                                                                                                              As a husband, father, and conservative leader, he will bring an end to the wasteful spending in Washington and fight for fiscal responsibility, just like all hard-working North Carolina families.                                                                                                 I am proud to endorse and support Brad Knott for North Carolina&rsquo;s Congressional District 13!&rdquo;</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div style="-ms-grid-column:2; -ms-grid-row:4" class="postArticle "> <div class="inner clearfix wow" style="animation-delay: 1600.0ms;"> <a class="blogImgLink" dont-color-link="true" href="/brad-knott-receives-endorsement-from-u-s-senator-ted-budd" data-blog-post-alias="brad-knott-receives-endorsement-from-u-s-senator-ted-budd"> <div class="blogImg" style="background-image: url('https://lirp.cdn-website.com/bffac84e/dms3rep/multi/opt/Facebook+-+Endorsement+Ted+Budd-625250de-1920w.jpg');"><img src="https://lirp.cdn-website.com/bffac84e/dms3rep/multi/opt/Facebook+-+Endorsement+Ted+Budd-625250de-1920w.jpg" "="" onerror="handleImageLoadError(this)"/></div> 
+</a> 
+ <div class="postTextContainer"> <div class="postText clearfix"> <div class="postTitle"> <h3> <a dont-color-link="true" href="/brad-knott-receives-endorsement-from-u-s-senator-ted-budd" data-blog-post-alias="brad-knott-receives-endorsement-from-u-s-senator-ted-budd">Brad Knott receives endorsement from U.S. Senator Ted Budd</a> 
+</h3> 
+</div> 
+ <div class="authorBar"> <span>07 Mar, 2024</span> 
+</div> 
+ <div class="postDescription">Today Senator Ted Budd endorsed Brad Knott for Congress in the run-off election in NC District 13.                                                                                                            Senator Budd said, &ldquo;I&rsquo;m endorsing Brad Knott because of his character and commitment to the America First agenda. Brad is a solid conservative who will fight for a strong nation and stronger families. As a prosecutor, he knows the consequences of Joe Biden&rsquo;s open border, and he&rsquo;s made our communities safer by locking up gang leaders, drug cartels, and illegal immigrants. Brad is a committed dad and husband who will stand strong against the woke left. He is the leader we can trust to stand with President Trump to drain the swamp.&rdquo;                                                                                                            Expressing his gratitude, Knott said, &ldquo;I am humbled to receive Senator Budd&rsquo;s endorsement. Securing the border, combatting crime, and cutting wasteful spending are the focus of our campaign. We look forward to working with Senator Budd and President Trump to address these serious issues.&rdquo;</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div style="-ms-grid-column:1; -ms-grid-row:5" class="postArticle "> <div class="inner clearfix wow" style="animation-delay: 1800.0ms;"> <a class="blogImgLink" dont-color-link="true" href="/veterans-for-trump-endorsement" data-blog-post-alias="veterans-for-trump-endorsement"> <div class="blogImg" style="background-image: url('https://lirp.cdn-website.com/bffac84e/dms3rep/multi/opt/VFAF+Vet+for+Trump-1920w.jpg');"><img src="https://lirp.cdn-website.com/bffac84e/dms3rep/multi/opt/VFAF+Vet+for+Trump-1920w.jpg" "="" onerror="handleImageLoadError(this)"/></div> 
+</a> 
+ <div class="postTextContainer"> <div class="postText clearfix"> <div class="postTitle"> <h3> <a dont-color-link="true" href="/veterans-for-trump-endorsement" data-blog-post-alias="veterans-for-trump-endorsement">Veterans for Trump Endorsement</a> 
+</h3> 
+</div> 
+ <div class="authorBar"> <span>09 Feb, 2024</span> 
+</div> 
+ <div class="postDescription">I am honored to receive the                                  national                                   and                                  North Carolina chapter                                   endorsement from Veterans for Trump aka Veterans for America First -- the original Trump campaign coalition focused on veterans&rsquo; issues while promoting a secure border.                                                                              As a federal prosecutor, I fought against illegal immigration and violent crime in the courtroom. In Congress, I will work to secure the border, finish the wall, deport illegal aliens, and crack down on violent crime.                                                                                                     Brad Knott</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div style="-ms-grid-column:2; -ms-grid-row:5" class="postArticle lastArticle"> <div class="inner clearfix wow" style="animation-delay: 2000.0ms;"> <a class="blogImgLink" dont-color-link="true" href="/n-c-grassroots-government-endorsement" data-blog-post-alias="n-c-grassroots-government-endorsement"> <div class="blogImg" style="background-image: url('https://lirp.cdn-website.com/bffac84e/dms3rep/multi/opt/Health+Freedom+Endorsement-1920w.jpg');"><img src="https://lirp.cdn-website.com/bffac84e/dms3rep/multi/opt/Health+Freedom+Endorsement-1920w.jpg" "="" onerror="handleImageLoadError(this)"/></div> 
+</a> 
+ <div class="postTextContainer"> <div class="postText clearfix"> <div class="postTitle"> <h3> <a dont-color-link="true" href="/n-c-grassroots-government-endorsement" data-blog-post-alias="n-c-grassroots-government-endorsement">N.C. Grassroots Government Endorsement</a> 
+</h3> 
+</div> 
+ <div class="authorBar"> <span>06 Feb, 2024</span> 
+</div> 
+ <div class="postDescription">I worked with sheriffs and police to convict drug dealers and violent criminals as a federal prosecutor. Now I am running for Congress in the 13                                  th                                                District and am honored to be endorsed by North Carolina Grassroots Government.                                                                                                 I stand for medical &amp; religious freedom, parents&rsquo; rights, educational choice, sanctity of life, 2                                  nd                                   Amendment rights, and legislative reform.                                                                                                              Brad Knott</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmFooterContainer"> <div id="fcontainer" class="u_fcontainer f_hcontainer dmFooter p_hfcontainer"> <div dm:templateorder="250" class="dmFooterResp generalFooter" id="1943048428"> <div data-flex-id="6615f0db" data-auto="flex-section" id="1109741552" data-layout-section=""> <div class="flex-widgets-container" id="1727694155"></div> 
+ <section id="3c6a5276" class="flex-element section" data-auto="flex-element-section"> <div id="8f3b92fe" class="flex-element grid" data-auto="flex-element-grid" data-layout-grid=""> <div id="a3a999fe" class="flex-element group" data-auto="flex-element-group"> <div id="b2fb0a08" class="flex-element group" data-auto="flex-element-group"> <div id="6ffc889b" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1215737307"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1215737307" style=""><p class="m-text-align-left m-size-13 size-16"><span style="color:var(--color_3);font-weight:400;display:unset;font-family:Poppins, 'Poppins Fallback';" class="font-size-16 m-font-size-13">Contact Us</span></p></div> 
+</div> 
+ <div id="ba0c81a0" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1980645704"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1980645704" style=""><p class="m-size-13 m-text-align-left size-16"><span style="color:var(--color_3);font-weight:400;display:unset;font-family:Poppins, 'Poppins Fallback';" class="m-font-size-13 font-size-16">Employment Inquiries</span></p></div> 
+</div> 
+ <div id="9f82f59e" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1273795881"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1273795881" style=""><p class="m-text-align-left m-size-13 size-16"><span style="color:var(--color_3);font-weight:400;display:unset;font-family:Poppins, 'Poppins Fallback';" class="m-font-size-13 font-size-16">Follow Brad</span></p></div> 
+</div> 
+ <div id="36d0c7ef" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1677704167"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1677704167" style=""> <h5><a href="mailto:info@bradknottforcongress.com" target="_blank" type="email" style="color: rgb(255, 255, 255); display: initial;">info@bradknottforcongress.com</a></h5> 
+</div> 
+</div> 
+ <div id="63738aa0" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1688389823"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1688389823" style=""> <h5><a href="mailto:resume@bradknottforcongress.com" target="_blank" type="email" style="color: rgb(255, 255, 255); display: initial;">resume@bradknottforcongress.com</a></h5> 
+</div> 
+</div> 
+ <div id="widget_24l" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="socialhub" data-external-id="1291219854"> <div class="align-center text-align-center u_1291219854 dmSocialHub" id="1291219854" dmle_extension="social_hub" data-element-type="social_hub" wr="true" networks="" icon="true" surround="true" adwords=""> <div class="socialHubWrapper"> <div class="socialHubInnerDiv "> <a href="https://www.facebook.com/bradknottforcongress" target="_blank" dm_dont_rewrite_url="true" aria-label="facebook" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event(&apos;socialLink&apos;, &apos;click&apos;, &apos;Facebook&apos;)"> <span class="dmSocialFacebook dm-social-icons-facebook oneIcon socialHubIcon style8" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+ <a href="https://twitter.com/bradknottfornc" target="_blank" dm_dont_rewrite_url="true" aria-label="twitter" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event(&apos;socialLink&apos;, &apos;click&apos;, &apos;Twitter&apos;)"> <span class="dmSocialTwitter dm-social-icons-twitter oneIcon socialHubIcon style8" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+ <a href="https://www.instagram.com/bradknottforcongress/" target="_blank" dm_dont_rewrite_url="true" aria-label="instagram" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event(&apos;socialLink&apos;, &apos;click&apos;, &apos;Instagram&apos;)"> <span class="dmSocialInstagram dm-social-icons-instagram oneIcon socialHubIcon style8" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+ <a href="https://www.youtube.com/@BradKnottForCongress" target="_blank" dm_dont_rewrite_url="true" aria-label="youtube" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event(&apos;socialLink&apos;, &apos;click&apos;, &apos;Youtube&apos;)"> <span class="dmSocialYoutube dm-social-icons-youtube oneIcon socialHubIcon style8" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div id="7511ee28" class="flex-element group" data-auto="flex-element-group"> <div id="widget_f3e" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1391350653"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1391350653" style=""> <h5><span style="color: var(--color_3); display: initial;">Sign up to get updates from Brad</span></h5> 
+</div> 
+</div> 
+ <div id="widget_l3g" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1422015539"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1422015539" style=""> <h4><span style="display: unset; color: var(--color_1);">Stay Updated</span></h4> 
+</div> 
+</div> 
+ <div id="ce22b012" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="form" data-external-id="1076588264"> <div class="dmform default u_1076588264 native-inputs" data-element-type="dContactUsRespId" captcha="true" data-require-captcha="true" data-captcha-position="bottomleft" id="1076588264" data-layout="layout-3"> <h3 class="dmform-title dmwidget-title" id="1059729061" hide="true">Subscribe to our newsletter</h3> 
+ <div class="dmform-wrapper" id="1579622255" captcha-lang="en"> <form method="post" class="dmRespDesignRow" locale="ENGLISH" id="1668260586"> <div class="dmforminput small-12 dmRespDesignCol required medium-6 large-6" id="1800189842"> <label for="1157582341" id="1935553083" data-dm-for="dmform-2">Name</label> 
+<input type="text" name="dmform-2" id="1157582341"/><input type="hidden" name="label-dmform-2" value="Name" id="1620205892" class=""/></div> 
+ <div class="dmforminput small-12 dmRespDesignCol required medium-6 large-6" id="1644551099"> <label for="1578480179" id="1905536506" data-dm-for="dmform-3">Email</label> 
+<input type="email" name="dmform-3" placeholder="" id="1578480179"/><input type="hidden" name="label-dmform-3" value="Email" id="1078188673" class=""/></div> 
+ <span id="1838781286" class="dmWidgetClear"></span> 
+ <div class="dmformsubmit dmWidget R" id="1448746126"><input class="" name="submit" type="submit" value="SIGN ME UP" id="1026363884"/></div> 
+<input name="dmformsendto" type="hidden" id="1416812671" class="" value="O0wrseIfFLv34AntwI6++X0eHGxlJ+HvKTphSyDmu6/su9iZ5DqieOVfK9tbpanAaI5vcwMd42fZlpjuz5UWIQ==" data-dec="true"/><input class="dmActionInput" type="hidden" name="action" value="/_dm/s/rt/widgets/dmform.submit.jsp" id="1553987239"/><input name="dmformsubject" type="hidden" value="Website Endorsement" id="1361419571" class="" data-email-subject="Website Endorsement"/><input name="dmformfrom" type="hidden" id="1670248414" class="" value="bradknottforcongress.com"/><input type="hidden" name="spreadsheetId" value="1zuvS1p9A9gngsZJkmIUCmAfm5-FLZ-HoRVVEC3DkHns" [object="" object]="" id="1273780849"/><input type="hidden" name="googleIntegrationUUID" value="6f0ca25b65eb4b70ac6db4d33e7f26cb" [object="" object]="" id="1586269365"/><input name="dmformsubmitparams" type="hidden" value="8mpKnCSiNQXK/d9M7IDrS6fTKG1wJZxMhXKGcelovvAQk3JweBZ2SXQjPqQ9leG0d/vKjl/bDcSYkzhS7bKQs1bmIwdnZI6sfR4cbGUn4e8pOmFLIOa7r+y72JnkOqJ4vbwvkEkO1e0VY21f8bSE0naDvgrcSBTk+MWP03+1Ze6GkPvkNv1CDeks57Jn3xvtbny5XCrQQZFvEwMLMVnFPBHCaxL/vryTOHmmaXmXVPPk16vWh5+LdMVuNw+84UY9cMRbxCCEV8H/2iZ+cXjCLiEHvb1Mqu0u" data-dec="true"/><input type="hidden" name="page_uuid" value="ad7e652c3ff640c5b7af1a32de8baa8f"/></form> 
+</div> 
+ <div class="dmform-success" style="display: none;" id="1482122674"><p class="rteBlock">Thank you!&nbsp;</p></div> 
+ <div class="dmform-error" style="display:none" id="1635741253">Oops, there was an error sending your message.Please try again later.</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</section> 
+</div> 
+ <div data-flex-id="3252aa85" data-auto="flex-section" id="1294649034" data-layout-section=""> <div class="flex-widgets-container" id="1464791634"></div> 
+ <section id="e51488c8" class="flex-element section" data-auto="flex-element-section"> <div id="88341c0f" class="flex-element grid" data-auto="flex-element-grid" data-layout-grid=""> <div id="fa243b79" class="flex-element group" data-auto="flex-element-group"> <div id="abbd142b" class="flex-element group" data-auto="flex-element-group"> <div id="widget_vj8" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1632507409"> <div class="dmNewParagraph u_1632507409" data-element-type="paragraph" data-version="5" id="1632507409" style=""> <h6 class="text-align-center"><span style="display: unset; color: var(--color_3); text-transform: uppercase;">Paid for by Brad Knott for Congress</span></h6> 
+</div> 
+</div> 
+ <div id="widget_e0i" class="flex-element widget-wrapper" data-auto="flex-element-widget-wrapper" data-widget-type="paragraph" data-external-id="1684490741"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1684490741" style=""><p class="m-size-10 text-align-center m-text-align-center size-12"><a href="/privacy-policy" runtime_url="/privacy-policy" type="page" class="m-font-size-10 font-size-12" style="display: unset; color: var(--color_3);">Privacy Policy</a></p></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</section> 
+</div> 
+</div> 
+ <div id="1236746004" dmle_extension="powered_by" data-element-type="powered_by" icon="true" surround="false"></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+
+    </div>
+</div>
+<!--  Add full CSS and Javascript before the close tag of the body if needed -->
+<!-- ========= JS Section ========= -->
+<script>
+    var isWLR = true;
+
+    window.customWidgetsFunctions = {};
+    window.customWidgetsStrings = {};
+    window.collections = {};
+    window.currentLanguage = "ENGLISH"
+    window.isSitePreview = false;
+</script>
+<script type="text/javascript">
+
+    var d_version = "production_4894";
+    var build = "2024-11-04T15_31_02";
+    window['v' + 'ersion'] = d_version;
+
+    function buildEditorParent() {
+        window.isMultiScreen = true;
+        window.editorParent = {};
+        window.previewParent = {};
+        window.assetsCacheQueryParam = "?version=2024-11-04T15_31_02";
+        try {
+            var _p = window.parent;
+            if (_p && _p.document && _p.$ && _p.$.dmfw) {
+                window.editorParent = _p;
+            } else if (_p.isSitePreview) {
+                window.previewParent = _p;
+            }
+        } catch (e) {
+
+        }
+    }
+
+    buildEditorParent();
+</script>
+
+<!-- Load jQuery -->
+<script type="text/javascript" id='d-js-jquery'
+        src="https://static.cdn-website.com/libs/jquery/jquery-3.7.0.min.js"></script>
+<!-- End Load jQuery -->
+<!-- Injecting site-wide before scripts -->
+<!-- End Injecting site-wide to the head -->
+
+
+<script>
+    var _jquery = window.$;
+
+    var jqueryAliases = ['$', 'jquery', 'jQuery'];
+
+    jqueryAliases.forEach((alias) => {
+        Object.defineProperty(window, alias, {
+            get() {
+                return _jquery;
+            },
+            set() {
+                console.warn("Trying to over-write the global jquery object!");
+            }
+        });
+    });
+    window.jQuery.migrateMute = true;
+</script>
+<script>
+    window.cookiesNotificationMarkupPreview = 'null';
+</script>
+
+<!-- HEAD RT JS Include -->
+<script id='d-js-params'>
+    window.INSITE = window.INSITE || {};
+    window.INSITE.device = "desktop";
+
+    window.rtCommonProps = {};
+    rtCommonProps["rt.ajax.ajaxScriptsFix"] =true;
+    rtCommonProps["rt.pushnotifs.sslframe.encoded"] = 'aHR0cHM6Ly97c3ViZG9tYWlufS5wdXNoLW5vdGlmcy5jb20=';
+    rtCommonProps["runtimecollector.url"] = 'https://rtc.multiscreensite.com';
+    rtCommonProps["performance.tabletPreview.removeScroll"] = 'false';
+    rtCommonProps["inlineEditGrid.snap"] =true;
+    rtCommonProps["popup.insite.cookie.ttl"] = '0.5';
+    rtCommonProps["rt.pushnotifs.force.button"] =true;
+    rtCommonProps["common.mapbox.token"] = 'pk.eyJ1IjoiZGFubnliMTIzIiwiYSI6ImNqMGljZ256dzAwMDAycXBkdWxwbDgzeXYifQ.Ck5P-0NKPVKAZ6SH98gxxw';
+    rtCommonProps["common.mapbox.js.override"] =false;
+    rtCommonProps["common.here.appId"] = 'iYvDjIQ2quyEu0rg0hLo';
+    rtCommonProps["common.here.appCode"] = '1hcIxLJcbybmtBYTD9Z1UA';
+    rtCommonProps["isCoverage.test"] =false;
+    rtCommonProps["ecommerce.ecwid.script"] = 'https://app.multiscreenstore.com/script.js';
+    rtCommonProps["feature.flag.mappy.kml"] =false;
+    rtCommonProps["common.resources.dist.cdn"] =true;
+    rtCommonProps["common.build.dist.folder"] = 'production/4894';
+    rtCommonProps["common.resources.cdn.host"] = 'https://static.cdn-website.com';
+    rtCommonProps["common.resources.folder"] = 'https://static.cdn-website.com/mnlt/production/4894';
+    rtCommonProps["feature.flag.runtime.backgroundSlider.preload.slowly"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.enabled"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.respectCssAnimationProps.enabled"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.jitAnimation.enabled"] =true;
+    rtCommonProps["feature.flag.sites.google.analytics.gtag"] =true;
+    rtCommonProps["feature.flag.runOnReadyNewTask"] =true;
+    rtCommonProps["isAutomation.test"] =false;
+
+    
+    rtCommonProps['common.mapsProvider'] = 'mapbox';
+    
+    rtCommonProps['common.mapsProvider.version'] = '0.52.0';
+    rtCommonProps['common.geocodeProvider'] = 'mapbox';
+    rtCommonProps['common.map.defaults.radiusSize'] = '1500';
+    rtCommonProps['common.map.defaults.radiusBg'] = 'rgba(255, 255, 255, 0.4)';
+    rtCommonProps['common.map.defaults.strokeColor'] = 'rgba(255, 255, 255, 1)';
+    rtCommonProps['common.map.defaults.strokeSize'] = '2';
+    rtCommonProps['server.for.resources'] = '';
+    rtCommonProps['feature.flag.lazy.widgets'] = true;
+    rtCommonProps['feature.flag.single.wow'] = false;
+    rtCommonProps['feature.flag.disallowPopupsInEditor'] = true;
+    rtCommonProps['feature.flag.mark.anchors'] = true;
+    rtCommonProps['captcha.public.key'] = '6LffcBsUAAAAAMU-MYacU-6QHY4iDtUEYv_Ppwlz';
+    rtCommonProps['captcha.invisible.public.key'] = '6LeiWB8UAAAAAHYnVJM7_-7ap6bXCUNGiv7bBPME';
+    rtCommonProps["images.sizes.small"] =160;
+    rtCommonProps["images.sizes.mobile"] =640;
+    rtCommonProps["images.sizes.tablet"] =1280;
+    rtCommonProps["images.sizes.desktop"] =1920;
+    rtCommonProps["modules.resources.cdn"] =true;
+    rtCommonProps["import.images.storage.imageCDN"] = 'https://lirp.cdn-website.com/';
+    rtCommonProps["facebook.api.version"] = '7.0';
+    rtCommonProps["feature.flag.runtime.inp.threshold"] =150;
+    rtCommonProps["feature.flag.performance.logs"] =true;
+    rtCommonProps["site.widget.form.captcha.type"] = 'g_recaptcha';
+    rtCommonProps["friendly.captcha.site.key"] = 'FCMGSQG9GVNMFS8K';
+    rtCommonProps["cookiebot.mapbox.consent.category"] = 'marketing';
+    rtCommonProps["platform.monolith.personalization.dateTimeCondition.popupMsgAction.moveToclient.enabled"] =false;
+
+    // feature flags that's used out of runtime module (in  legacy files)
+    rtCommonProps["site.runtime.video.background.ssr"] =true;
+
+    window.rtFlags = {};
+    rtFlags["unsuspendEcwidStoreOnRuntime.enabled"] =true;
+    rtFlags["scripts.widgetCount.enabled"] =true;
+    rtFlags["ecom.ecwid.categoryPage.modifyLinks"] = true;
+    rtFlags["ecom.ecwid.delegateNavigationToEcwid.enabled"] = false;
+    rtFlags["ecom.ecwidNewUrlStructure.enabled"] = false;
+    rtFlags["ecom.ecwid.old.store.fix.scrolling.enabled"] = true;
+    rtFlags["ecom.ecwid.old.store.fix.facebook.share"] = true;
+    rtFlags["ecom.ecwid.fallBackInCaseLinksNotFound.enabled"] = true;
+    rtFlags["feature.flag.photo.gallery.exact.size"] =true;
+    rtFlags["new.store.fix.ecwid.back.bug"] =true;
+    rtFlags["facebook.runtime.widgets.upgrade"] =true;
+    rtFlags["ecom.ecwid.solve.url.modifications"] = true;
+    rtFlags["ecom.ecwid.configOptions"] = true;
+    rtFlags["geocode.search.localize"] =false;
+    rtFlags["feature.flag.runtime.newAnimation.asyncInit.setTimeout.enabled"] =false;
+    rtFlags["site.contact.form.fix.for.attribute"] =true;
+    rtFlags["contact.form.date.format.enabled"] = true;
+    rtFlags["twitter.heightLimit.enabled"] = true;
+    rtFlags["ecom.ecwid.fixTranslations.enabled"] = true;
+    rtFlags["runtime.load.script.native"] =true;
+    rtFlags["editor.classicHybrid.photogallery.fix"] =true;
+    rtFlags["runtime.lottieOverflow"] =false;
+    rtFlags["runtime.monitoring.sentry.ignoreErrors"] = "";
+    rtFlags["ecom.ecwid.old.store.fix.scrolling.detect.enable"] =true;
+    rtFlags["contact.form.browserValidation.enabled"] =true;
+</script>
+<script src="https://static.cdn-website.com/mnlt/production/4894/_dm/s/rt/dist/scripts/d-js-one-runtime-unified-desktop.min.js"  id="d-js-core"></script>
+<!-- End of HEAD RT JS Include -->
+<script src="https://static.cdn-website.com/mnlt/production/4894/_dm/s/rt/dist/scripts/d-js-jquery-migrate.min.js" ></script>
+<script>
+    
+    $(window).bind("orientationchange", function (e) {
+        $.layoutManager.initLayout();
+        
+    });
+    $(document).resize(function () {
+        
+    });
+</script>
+<script type="text/javascript" id="d_track_campaign">
+(function() {
+ 	var campaign = (/utm_campaign=([^&]*)/).exec(window.location.search);
+
+ 	if (campaign && campaign != null && campaign.length > 1) {
+ 		campaign = campaign[1];
+ 		document.cookie = "_dm_rt_campaign=" + campaign + ";expires=" + new Date().getTime() + 24*60*60*1000 + ";domain=" + window.location.hostname + ";path=/";
+ 	}
+}());
+</script>
+<script type="text/javascript" >
+  var _dm_gaq = {};
+  var _gaq = _gaq || [];
+  var _dm_insite = [];
+</script>
+
+<script type="text/javascript" id="d_track_sp">
+;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
+p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script","//d32hwlnfiv2gyn.cloudfront.net/sp-2.0.0-dm-0.1.min.js","snowplow"));
+window.dmsnowplow  = window.snowplow;
+
+dmsnowplow('newTracker', 'cf', 'd32hwlnfiv2gyn.cloudfront.net', { // Initialise a tracker
+  appId: 'bffac84e'
+});
+
+// snowplow queries element styles so we wait until CSS calculations are done.
+requestAnimationFrame(() => {
+	dmsnowplow('trackPageView');
+	_dm_insite.forEach((rule) => {
+		// Specifically in popup only the client knows if it is shown or not so we don't always want to track its impression here
+		// the tracking is in popup.js
+		if (rule.actionName !== "popup") {
+			dmsnowplow('trackStructEvent', 'insite', 'impression', rule.ruleType, rule.ruleId);
+		}
+		window?.waitForDeferred?.('dmAjax', () => {
+			$.DM.events.trigger('event-ruleTriggered', {value: rule});
+		});
+	});
+});
+</script>
+   <div style="display:none;" id="P6iryBW0Wu"></div>
+
+<!-- photoswipe markup -->
+
+
+
+
+
+
+
+
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    <!-- Background of PhotoSwipe. 
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. 
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                <!--  Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+<div id="fb-root"
+        data-locale="en"></div>
+<!-- Alias: bffac84e -->
+<div class="dmPopupMask" id="dmPopupMask"></div>
+<div id="dmPopup" class="dmPopup">
+	<div class="dmPopupCloseWrapper"> <div class="dmPopupClose dm-common-icons-close oneIcon" onclick="dmHidePopup(event);"></div> </div>
+ 	<div class="dmPopupTitle"> <span></span> Share by:</div> 
+	<div class="data"></div>
+</div><script id="d_track_personalization">
+	window?.waitForDeferred?.('dmAjax', () => {
+		// Collects client data and updates cookies used by smart sites
+		window.expireDays = 365;
+		window.visitLength = 30 * 60000;
+		$.setCookie("dm_timezone_offset", (new Date()).getTimezoneOffset(), window.expireDays);
+			setSmartSiteCookiesInternal("dm_this_page_view","dm_last_page_view","dm_total_visits","dm_last_visit");
+	});
+</script>
+<script type="text/javascript">
+    
+    Parameters.NavigationAreaParams.MoreButtonText = 'MORE';
+    
+    Parameters.NavigationAreaParams.LessButtonText = 'LESS';
+    Parameters.HomeLinkText = 'Home';
+    </script>
+<!--  End Script tags -->
+
+<!--  Site Wide Html Markup -->
+<!--  Site Wide Html Markup -->
+</body>
+</html>

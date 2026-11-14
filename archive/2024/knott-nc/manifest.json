@@ -1,0 +1,49 @@
+{
+  "name": "Brad Knott",
+  "domains_tried": [
+    "bradknottforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.bradknottforcongress.com/",
+      "timestamp": "20241105071443",
+      "wayback": "https://web.archive.org/web/20241105071443/https://www.bradknottforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105071443id_/https://www.bradknottforcongress.com/",
+      "file": "archive/2024/knott-nc/home.html",
+      "text_file": "archive/2024/knott-nc/home.txt",
+      "bytes": 145857,
+      "sha256_html": "252eb6c2ce5386c831739e2afda2000e066284b317e45e333a74578fd551ed4e",
+      "sha256_text": "a4d223c1e82975a74d5d367f0fdc88add52d42463b3486bcf198e99832744ab5"
+    },
+    {
+      "original": "https://www.bradknottforcongress.com/nc-police-benevolent-association-endorses-brad-knott-for-congress",
+      "timestamp": "20241105071456",
+      "wayback": "https://web.archive.org/web/20241105071456/https://www.bradknottforcongress.com/nc-police-benevolent-association-endorses-brad-knott-for-congress",
+      "wayback_raw": "https://web.archive.org/web/20241105071456id_/https://www.bradknottforcongress.com/nc-police-benevolent-association-endorses-brad-knott-for-congress",
+      "file": "archive/2024/knott-nc/nc-police-benevolent-association-endorses-brad-knott-for-congress.html",
+      "text_file": "archive/2024/knott-nc/nc-police-benevolent-association-endorses-brad-knott-for-congress.txt",
+      "bytes": 99917,
+      "sha256_html": "26dac042d4c4a533bc2c0f8f88391b2f25aeb94cbd5ff4ea51fae97014450d29",
+      "sha256_text": "f61b1f57153b7962649d5e356cd20d34535b744254026a092821bbe7424b2001"
+    },
+    {
+      "original": "https://www.bradknottforcongress.com/nc-values-endorses-brad-knott-for-congress",
+      "timestamp": "20241105071457",
+      "wayback": "https://web.archive.org/web/20241105071457/https://www.bradknottforcongress.com/nc-values-endorses-brad-knott-for-congress",
+      "wayback_raw": "https://web.archive.org/web/20241105071457id_/https://www.bradknottforcongress.com/nc-values-endorses-brad-knott-for-congress",
+      "file": "archive/2024/knott-nc/nc-values-endorses-brad-knott-for-congress.html",
+      "text_file": "archive/2024/knott-nc/nc-values-endorses-brad-knott-for-congress.txt",
+      "bytes": 100130,
+      "sha256_html": "d64f979c7f45c66fb0d697efe01e4e6f44c4573dd25b12b85e6f60a2f82b00bd",
+      "sha256_text": "6170dbb8b6aa599b7e950be39011503844b4eef972699bf2cd6ccb4a03c7cac9"
+    }
+  ],
+  "snapshots_found": {
+    "bradknottforcongress.com": 17
+  },
+  "generated_utc": "2026-11-14T16:40:36Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
