@@ -82,13 +82,24 @@
       "bytes": 33135,
       "sha256_html": "a20bc5f9d57c5feefefa57482fcc245df1819095188c1f394225de731cd9ab08",
       "sha256_text": "f2bf8087e401a586974997a30952cd4839f11b87a2c99a8789a8cee8a0c0b732"
+    },
+    {
+      "original": "https://torres.nyc/about",
+      "timestamp": "20241105075813",
+      "wayback": "https://web.archive.org/web/20241105075813/https://torres.nyc/about",
+      "wayback_raw": "https://web.archive.org/web/20241105075813id_/https://torres.nyc/about",
+      "file": "archive/2024/torres/about.html",
+      "text_file": "archive/2024/torres/about.txt",
+      "bytes": 28252,
+      "sha256_html": "80600cba8afbf9ef03063fbba1202f41f51054c24ba1e3956f560067155ba146",
+      "sha256_text": "49929b9b543edac869cd384704114ea1bddf9a5f4016e61beee3bb2be10aeb22"
     }
   ],
   "snapshots_found": {
     "ritchietorres.com": 0,
     "torres.nyc": 29
   },
-  "generated_utc": "2026-11-14T07:53:35Z",
+  "generated_utc": "2026-11-14T08:07:19Z",
   "window": {
     "from": "20240801",
     "to": "20241105"
