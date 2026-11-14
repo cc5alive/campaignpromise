@@ -1,0 +1,38 @@
+{
+  "name": "Marcy Kaptur",
+  "domains_tried": [
+    "marcykaptur.com"
+  ],
+  "pages": [
+    {
+      "original": "https://marcykaptur.com/",
+      "timestamp": "20241105140016",
+      "wayback": "https://web.archive.org/web/20241105140016/https://marcykaptur.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105140016id_/https://marcykaptur.com/",
+      "file": "archive/2024/kaptur-oh/home.html",
+      "text_file": "archive/2024/kaptur-oh/home.txt",
+      "bytes": 182808,
+      "sha256_html": "1de5776bb88a7a2432f2d757dee742ed91ad5838bc519a41e2e17378f1e57a20",
+      "sha256_text": "664e312a3510dbc5c37f58ae5db68a1e8dd7a4931def57c9accf842e44d9fa91"
+    },
+    {
+      "original": "https://marcykaptur.com/priorities/",
+      "timestamp": "20241105135634",
+      "wayback": "https://web.archive.org/web/20241105135634/https://marcykaptur.com/priorities/",
+      "wayback_raw": "https://web.archive.org/web/20241105135634id_/https://marcykaptur.com/priorities/",
+      "file": "archive/2024/kaptur-oh/priorities.html",
+      "text_file": "archive/2024/kaptur-oh/priorities.txt",
+      "bytes": 183486,
+      "sha256_html": "8ba823db6d4426eedd5b24adb57fff0294a98954a962a54a7ac2188b9280bb82",
+      "sha256_text": "314f23ff055e024092395ab8da9e29123f8f751bc1ef0f7ce0a658cf1bdffa4c"
+    }
+  ],
+  "snapshots_found": {
+    "marcykaptur.com": 1
+  },
+  "generated_utc": "2026-11-14T16:24:54Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
