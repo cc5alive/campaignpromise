@@ -1,0 +1,27 @@
+{
+  "name": "Mike Collins",
+  "domains_tried": [
+    "mikecollinsga.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.mikecollinsga.com/",
+      "timestamp": "20241105043219",
+      "wayback": "https://web.archive.org/web/20241105043219/https://www.mikecollinsga.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105043219id_/https://www.mikecollinsga.com/",
+      "file": "archive/2024/collins-ga/home.html",
+      "text_file": "archive/2024/collins-ga/home.txt",
+      "bytes": 204371,
+      "sha256_html": "fe796fb9beb40dc8dd39241cd21a3cfe8f3dd083bb5144103996276530c286dc",
+      "sha256_text": "b3e55d1cf2ccaf3482ad5cbf5514929766fc73ef568a43d3282a18c473dc706b"
+    }
+  ],
+  "snapshots_found": {
+    "mikecollinsga.com": 14
+  },
+  "generated_utc": "2026-11-14T22:28:00Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
