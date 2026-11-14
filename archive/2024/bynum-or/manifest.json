@@ -1,0 +1,50 @@
+{
+  "name": "Janelle S. Bynum",
+  "domains_tried": [
+    "janellebynum.com",
+    "bynumforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.janellebynum.com/",
+      "timestamp": "20241105202332",
+      "wayback": "https://web.archive.org/web/20241105202332/https://www.janellebynum.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105202332id_/https://www.janellebynum.com/",
+      "file": "archive/2024/bynum-or/home.html",
+      "text_file": "archive/2024/bynum-or/home.txt",
+      "bytes": 709660,
+      "sha256_html": "3f9a60e95cc687c220afc92efcda9949e2c7a1af9b8f88dfea86844022c463ff",
+      "sha256_text": "c2c77fc925c4f86072b9bf38a53554888ea269e876f31924f5a44c087e577066"
+    },
+    {
+      "original": "https://www.janellebynum.com/issues",
+      "timestamp": "20241105200544",
+      "wayback": "https://web.archive.org/web/20241105200544/https://www.janellebynum.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105200544id_/https://www.janellebynum.com/issues",
+      "file": "archive/2024/bynum-or/issues.html",
+      "text_file": "archive/2024/bynum-or/issues.txt",
+      "bytes": 670452,
+      "sha256_html": "a4e657f205791fbabfc8c0dff5d3097c386f920b2a8d960969dff5d621ffcaa3",
+      "sha256_text": "68bacf68b80f932712cb5fb5cf543edfd8f445d0b5e254b9edafb711ad69de1d"
+    },
+    {
+      "original": "https://www.janellebynum.com/issues/addressing-housing-affordability-nbsp",
+      "timestamp": "20240926013802",
+      "wayback": "https://web.archive.org/web/20240926013802/https://www.janellebynum.com/issues/addressing-housing-affordability-nbsp",
+      "wayback_raw": "https://web.archive.org/web/20240926013802id_/https://www.janellebynum.com/issues/addressing-housing-affordability-nbsp",
+      "file": "archive/2024/bynum-or/issues-addressing-housing-affordability-nbsp.html",
+      "text_file": "archive/2024/bynum-or/issues-addressing-housing-affordability-nbsp.txt",
+      "bytes": 439972,
+      "sha256_html": "82d0fc6c922d50ccb1073923189f24651cb78b4c417169bb942eee7371ff3453",
+      "sha256_text": "e60f85bc6016cfb0eddee50abe12302c075ca5be81471d6bae64b3a22c096c50"
+    }
+  ],
+  "snapshots_found": {
+    "janellebynum.com": 12
+  },
+  "generated_utc": "2026-11-14T17:03:43Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
