@@ -1,0 +1,664 @@
+{
+ "_note": "Round 5: the 10 senators elected in 2024 not yet covered, plus 40 House members (20 R, 20 D). Domains from each campaign committee's FEC registration (looked up by the fec-websites workflow), plus alternates.",
+ "window": {
+  "from": "20240801",
+  "to": "20241105"
+ },
+ "members": [
+  {
+   "key": "hirono-hi",
+   "bioguide": "H001042",
+   "name": "Mazie K. Hirono",
+   "last": "Hirono",
+   "party": "D",
+   "chamber": "Senate",
+   "state": "HI",
+   "campaign_committee": "C00420760",
+   "domains": [
+    "mazieforhawaii.com"
+   ]
+  },
+  {
+   "key": "king-me",
+   "bioguide": "K000383",
+   "name": "Angus S. King, Jr.",
+   "last": "King",
+   "party": "I",
+   "chamber": "Senate",
+   "state": "ME",
+   "campaign_committee": "C00516047",
+   "domains": [
+    "angusformaine.com"
+   ]
+  },
+  {
+   "key": "wicker-ms",
+   "bioguide": "W000437",
+   "name": "Roger F. Wicker",
+   "last": "Wicker",
+   "party": "R",
+   "chamber": "Senate",
+   "state": "MS",
+   "campaign_committee": "C00443218",
+   "domains": [
+    "wickerforsenate.com"
+   ]
+  },
+  {
+   "key": "heinrich-nm",
+   "bioguide": "H001046",
+   "name": "Martin Heinrich",
+   "last": "Heinrich",
+   "party": "D",
+   "chamber": "Senate",
+   "state": "NM",
+   "campaign_committee": "C00434563",
+   "domains": [
+    "martinheinrich.com"
+   ]
+  },
+  {
+   "key": "gillibrand-ny",
+   "bioguide": "G000555",
+   "name": "Kirsten E. Gillibrand",
+   "last": "Gillibrand",
+   "party": "D",
+   "chamber": "Senate",
+   "state": "NY",
+   "campaign_committee": "C00413914",
+   "domains": [
+    "kirstengillibrand.com",
+    "gillibrand.com"
+   ]
+  },
+  {
+   "key": "cramer-nd",
+   "bioguide": "C001096",
+   "name": "Kevin Cramer",
+   "last": "Cramer",
+   "party": "R",
+   "chamber": "Senate",
+   "state": "ND",
+   "campaign_committee": "C00504704",
+   "domains": [
+    "kevincramer.org"
+   ]
+  },
+  {
+   "key": "whitehouse-ri",
+   "bioguide": "W000802",
+   "name": "Sheldon Whitehouse",
+   "last": "Whitehouse",
+   "party": "D",
+   "chamber": "Senate",
+   "state": "RI",
+   "campaign_committee": "C00410803",
+   "domains": [
+    "whitehouseforsenate.com"
+   ]
+  },
+  {
+   "key": "sanders-vt",
+   "bioguide": "S000033",
+   "name": "Bernard Sanders",
+   "last": "Sanders",
+   "party": "I",
+   "chamber": "Senate",
+   "state": "VT",
+   "campaign_committee": "C00411330",
+   "domains": [
+    "bernie.org",
+    "berniesanders.com"
+   ]
+  },
+  {
+   "key": "cantwell-wa",
+   "bioguide": "C000127",
+   "name": "Maria Cantwell",
+   "last": "Cantwell",
+   "party": "D",
+   "chamber": "Senate",
+   "state": "WA",
+   "campaign_committee": "C00349506",
+   "domains": [
+    "cantwell.com",
+    "mariacantwell.com"
+   ]
+  },
+  {
+   "key": "barrasso-wy",
+   "bioguide": "B001261",
+   "name": "John Barrasso",
+   "last": "Barrasso",
+   "party": "R",
+   "chamber": "Senate",
+   "state": "WY",
+   "campaign_committee": "C00436386",
+   "domains": [
+    "barrassoforwyoming.com"
+   ]
+  },
+  {
+   "key": "lalota-ny",
+   "bioguide": "L000598",
+   "name": "Nick LaLota",
+   "last": "LaLota",
+   "party": "R",
+   "chamber": "House",
+   "state": "NY",
+   "campaign_committee": "C00806018",
+   "domains": [
+    "nicklalota.com"
+   ]
+  },
+  {
+   "key": "garbarino-ny",
+   "bioguide": "G000597",
+   "name": "Andrew R. Garbarino",
+   "last": "Garbarino",
+   "party": "R",
+   "chamber": "House",
+   "state": "NY",
+   "campaign_committee": "C00729954",
+   "domains": [
+    "garbarinoforny.com"
+   ]
+  },
+  {
+   "key": "malliotakis-ny",
+   "bioguide": "M000317",
+   "name": "Nicole Malliotakis",
+   "last": "Malliotakis",
+   "party": "R",
+   "chamber": "House",
+   "state": "NY",
+   "campaign_committee": "C00694778",
+   "domains": [
+    "nicolemalliotakis.com"
+   ]
+  },
+  {
+   "key": "miller-oh",
+   "bioguide": "M001222",
+   "name": "Max L. Miller",
+   "last": "Miller",
+   "party": "R",
+   "chamber": "House",
+   "state": "OH",
+   "campaign_committee": "C00770818",
+   "domains": [
+    "votemaxmiller.com"
+   ]
+  },
+  {
+   "key": "carey-oh",
+   "bioguide": "C001126",
+   "name": "Mike Carey",
+   "last": "Carey",
+   "party": "R",
+   "chamber": "House",
+   "state": "OH",
+   "campaign_committee": "C00779603",
+   "domains": [
+    "careyforcongress.com"
+   ]
+  },
+  {
+   "key": "joyce-oh",
+   "bioguide": "J000295",
+   "name": "David P. Joyce",
+   "last": "Joyce",
+   "party": "R",
+   "chamber": "House",
+   "state": "OH",
+   "campaign_committee": "C00527457",
+   "domains": [
+    "joyceforcongress.com"
+   ]
+  },
+  {
+   "key": "wittman-va",
+   "bioguide": "W000804",
+   "name": "Robert J. Wittman",
+   "last": "Wittman",
+   "party": "R",
+   "chamber": "House",
+   "state": "VA",
+   "campaign_committee": "C00441014",
+   "domains": [
+    "robwittman.com"
+   ]
+  },
+  {
+   "key": "collins-ga",
+   "bioguide": "C001129",
+   "name": "Mike Collins",
+   "last": "Collins",
+   "party": "R",
+   "chamber": "House",
+   "state": "GA",
+   "campaign_committee": "C00544684",
+   "domains": [
+    "mikecollinsga.com"
+   ]
+  },
+  {
+   "key": "clyde-ga",
+   "bioguide": "C001116",
+   "name": "Andrew S. Clyde",
+   "last": "Clyde",
+   "party": "R",
+   "chamber": "House",
+   "state": "GA",
+   "campaign_committee": "C00740100",
+   "domains": [
+    "clyde4congress.com"
+   ]
+  },
+  {
+   "key": "burlison-mo",
+   "bioguide": "B001316",
+   "name": "Eric Burlison",
+   "last": "Burlison",
+   "party": "R",
+   "chamber": "House",
+   "state": "MO",
+   "campaign_committee": "C00788414",
+   "domains": [
+    "burlisonforcongress.com",
+    "ericburlison.com"
+   ]
+  },
+  {
+   "key": "brecheen-ok",
+   "bioguide": "B001317",
+   "name": "Josh Brecheen",
+   "last": "Brecheen",
+   "party": "R",
+   "chamber": "House",
+   "state": "OK",
+   "campaign_committee": "C00812974",
+   "domains": [
+    "joshbrecheen.com"
+   ]
+  },
+  {
+   "key": "hunt-tx",
+   "bioguide": "H001095",
+   "name": "Wesley Hunt",
+   "last": "Hunt",
+   "party": "R",
+   "chamber": "House",
+   "state": "TX",
+   "campaign_committee": "C00701003",
+   "domains": [
+    "wesleyfortexas.com"
+   ]
+  },
+  {
+   "key": "jackson-tx",
+   "bioguide": "J000304",
+   "name": "Ronny Jackson",
+   "last": "Jackson",
+   "party": "R",
+   "chamber": "House",
+   "state": "TX",
+   "campaign_committee": "C00730531",
+   "domains": [
+    "ronnyjacksonfortexas13.com"
+   ]
+  },
+  {
+   "key": "hageman-wy",
+   "bioguide": "H001096",
+   "name": "Harriet M. Hageman",
+   "last": "Hageman",
+   "party": "R",
+   "chamber": "House",
+   "state": "WY",
+   "campaign_committee": "C00788943",
+   "domains": [
+    "hagemanforwyoming.com"
+   ]
+  },
+  {
+   "key": "cammack-fl",
+   "bioguide": "C001039",
+   "name": "Kat Cammack",
+   "last": "Cammack",
+   "party": "R",
+   "chamber": "House",
+   "state": "FL",
+   "campaign_committee": "C00730895",
+   "domains": [
+    "katforcongress.com"
+   ]
+  },
+  {
+   "key": "gimenez-fl",
+   "bioguide": "G000593",
+   "name": "Carlos A. Gimenez",
+   "last": "Gimenez",
+   "party": "R",
+   "chamber": "House",
+   "state": "FL",
+   "campaign_committee": "C00735985",
+   "domains": [
+    "carlosgimenezforcongress.com"
+   ]
+  },
+  {
+   "key": "hinson-ia",
+   "bioguide": "H001091",
+   "name": "Ashley Hinson",
+   "last": "Hinson",
+   "party": "R",
+   "chamber": "House",
+   "state": "IA",
+   "campaign_committee": "C00706267",
+   "domains": [
+    "ashleyforiowa.com",
+    "ashleyhinson.com"
+   ]
+  },
+  {
+   "key": "spartz-in",
+   "bioguide": "S000929",
+   "name": "Victoria Spartz",
+   "last": "Spartz",
+   "party": "R",
+   "chamber": "House",
+   "state": "IN",
+   "campaign_committee": "C00737767",
+   "domains": [
+    "spartzforcongress.com"
+   ]
+  },
+  {
+   "key": "miller-il",
+   "bioguide": "M001211",
+   "name": "Mary E. Miller",
+   "last": "Miller",
+   "party": "R",
+   "chamber": "House",
+   "state": "IL",
+   "campaign_committee": "C00723916",
+   "domains": [
+    "marymillerforcongress.com"
+   ]
+  },
+  {
+   "key": "steil-wi",
+   "bioguide": "S001213",
+   "name": "Bryan Steil",
+   "last": "Steil",
+   "party": "R",
+   "chamber": "House",
+   "state": "WI",
+   "campaign_committee": "C00677286",
+   "domains": [
+    "steilforwisconsin.com"
+   ]
+  },
+  {
+   "key": "underwood-il",
+   "bioguide": "U000040",
+   "name": "Lauren Underwood",
+   "last": "Underwood",
+   "party": "D",
+   "chamber": "House",
+   "state": "IL",
+   "campaign_committee": "C00652719",
+   "domains": [
+    "underwoodforcongress.com"
+   ]
+  },
+  {
+   "key": "craig-mn",
+   "bioguide": "C001119",
+   "name": "Angie Craig",
+   "last": "Craig",
+   "party": "D",
+   "chamber": "House",
+   "state": "MN",
+   "campaign_committee": "C00575209",
+   "domains": [
+    "angiecraig.com"
+   ]
+  },
+  {
+   "key": "pappas-nh",
+   "bioguide": "P000614",
+   "name": "Chris Pappas",
+   "last": "Pappas",
+   "party": "D",
+   "chamber": "House",
+   "state": "NH",
+   "campaign_committee": "C00660464",
+   "domains": [
+    "chrispappas.org"
+   ]
+  },
+  {
+   "key": "davids-ks",
+   "bioguide": "D000629",
+   "name": "Sharice Davids",
+   "last": "Davids",
+   "party": "D",
+   "chamber": "House",
+   "state": "KS",
+   "campaign_committee": "C00670034",
+   "domains": [
+    "shariceforcongress.com"
+   ]
+  },
+  {
+   "key": "fletcher-tx",
+   "bioguide": "F000468",
+   "name": "Lizzie Fletcher",
+   "last": "Fletcher",
+   "party": "D",
+   "chamber": "House",
+   "state": "TX",
+   "campaign_committee": "C00640045",
+   "domains": [
+    "lizziefletcher.com"
+   ]
+  },
+  {
+   "key": "houlahan-pa",
+   "bioguide": "H001085",
+   "name": "Chrissy Houlahan",
+   "last": "Houlahan",
+   "party": "D",
+   "chamber": "House",
+   "state": "PA",
+   "campaign_committee": "C00637371",
+   "domains": [
+    "chrissyhoulahanforcongress.com"
+   ]
+  },
+  {
+   "key": "dean-pa",
+   "bioguide": "D000631",
+   "name": "Madeleine Dean",
+   "last": "Dean",
+   "party": "D",
+   "chamber": "House",
+   "state": "PA",
+   "campaign_committee": "C00670844",
+   "domains": [
+    "mad4pa.com"
+   ]
+  },
+  {
+   "key": "levin-ca",
+   "bioguide": "L000593",
+   "name": "Mike Levin",
+   "last": "Levin",
+   "party": "D",
+   "chamber": "House",
+   "state": "CA",
+   "campaign_committee": "C00634253",
+   "domains": [
+    "mikelevin.org"
+   ]
+  },
+  {
+   "key": "neguse-co",
+   "bioguide": "N000191",
+   "name": "Joe Neguse",
+   "last": "Neguse",
+   "party": "D",
+   "chamber": "House",
+   "state": "CO",
+   "campaign_committee": "C00648253",
+   "domains": [
+    "joeneguseforcongress.com"
+   ]
+  },
+  {
+   "key": "mcbath-ga",
+   "bioguide": "M001208",
+   "name": "Lucy McBath",
+   "last": "McBath",
+   "party": "D",
+   "chamber": "House",
+   "state": "GA",
+   "campaign_committee": "C00672295",
+   "domains": [
+    "lucyforcongress.com"
+   ]
+  },
+  {
+   "key": "landsman-oh",
+   "bioguide": "L000601",
+   "name": "Greg Landsman",
+   "last": "Landsman",
+   "party": "D",
+   "chamber": "House",
+   "state": "OH",
+   "campaign_committee": "C00800276",
+   "domains": [
+    "landsmanforcongress.com"
+   ]
+  },
+  {
+   "key": "scholten-mi",
+   "bioguide": "S001221",
+   "name": "Hillary J. Scholten",
+   "last": "Scholten",
+   "party": "D",
+   "chamber": "House",
+   "state": "MI",
+   "campaign_committee": "C00711317",
+   "domains": [
+    "hillaryscholten.com"
+   ]
+  },
+  {
+   "key": "budzinski-il",
+   "bioguide": "B001315",
+   "name": "Nikki Budzinski",
+   "last": "Budzinski",
+   "party": "D",
+   "chamber": "House",
+   "state": "IL",
+   "campaign_committee": "C00787812",
+   "domains": [
+    "nikkiforcongress.com"
+   ]
+  },
+  {
+   "key": "sorensen-il",
+   "bioguide": "S001225",
+   "name": "Eric Sorensen",
+   "last": "Sorensen",
+   "party": "D",
+   "chamber": "House",
+   "state": "IL",
+   "campaign_committee": "C00793935",
+   "domains": [
+    "ericforillinois.com"
+   ]
+  },
+  {
+   "key": "vasquez-nm",
+   "bioguide": "V000136",
+   "name": "Gabe Vasquez",
+   "last": "Vasquez",
+   "party": "D",
+   "chamber": "House",
+   "state": "NM",
+   "campaign_committee": "C00789404",
+   "domains": [
+    "gabeforcongress.com"
+   ]
+  },
+  {
+   "key": "hoyle-or",
+   "bioguide": "H001094",
+   "name": "Val T. Hoyle",
+   "last": "Hoyle",
+   "party": "D",
+   "chamber": "House",
+   "state": "OR",
+   "campaign_committee": "C00796144",
+   "domains": [
+    "valhoyle.com"
+   ]
+  },
+  {
+   "key": "salinas-or",
+   "bioguide": "S001226",
+   "name": "Andrea Salinas",
+   "last": "Salinas",
+   "party": "D",
+   "chamber": "House",
+   "state": "OR",
+   "campaign_committee": "C00793703",
+   "domains": [
+    "andreasalinasfororegon.com"
+   ]
+  },
+  {
+   "key": "pettersen-co",
+   "bioguide": "P000620",
+   "name": "Brittany Pettersen",
+   "last": "Pettersen",
+   "party": "D",
+   "chamber": "House",
+   "state": "CO",
+   "campaign_committee": "C00637215",
+   "domains": [
+    "brittanypettersen.com"
+   ]
+  },
+  {
+   "key": "krishnamoorthi-il",
+   "bioguide": "K000391",
+   "name": "Raja Krishnamoorthi",
+   "last": "Krishnamoorthi",
+   "party": "D",
+   "chamber": "House",
+   "state": "IL",
+   "campaign_committee": "C00575092",
+   "domains": [
+    "rajaforcongress.com"
+   ]
+  },
+  {
+   "key": "garcia-ca",
+   "bioguide": "G000598",
+   "name": "Robert Garcia",
+   "last": "Garcia",
+   "party": "D",
+   "chamber": "House",
+   "state": "CA",
+   "campaign_committee": "C00797795",
+   "domains": [
+    "robertgarcia.com"
+   ]
+  }
+ ]
+}
