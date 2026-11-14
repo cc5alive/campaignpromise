@@ -1,0 +1,82 @@
+{
+  "name": "Lizzie Fletcher",
+  "domains_tried": [
+    "lizziefletcher.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.lizziefletcher.com/",
+      "timestamp": "20241105160113",
+      "wayback": "https://web.archive.org/web/20241105160113/https://www.lizziefletcher.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105160113id_/https://www.lizziefletcher.com/",
+      "file": "archive/2024/fletcher-tx/home.html",
+      "text_file": "archive/2024/fletcher-tx/home.txt",
+      "bytes": 117405,
+      "sha256_html": "1d4798507301734403ce73cc66a8c11bbfbf13ad93072a4c4f9e13f2a3d1ed77",
+      "sha256_text": "183f25d4fe296ec4488cf9760575e6a4cdf92429f0c136f6e418f5538ea7f716"
+    },
+    {
+      "original": "https://www.lizziefletcher.com/campaigns-try-to-reach-election-day-voters-after-record-early-voting/",
+      "timestamp": "20241105160318",
+      "wayback": "https://web.archive.org/web/20241105160318/https://www.lizziefletcher.com/campaigns-try-to-reach-election-day-voters-after-record-early-voting/",
+      "wayback_raw": "https://web.archive.org/web/20241105160318id_/https://www.lizziefletcher.com/campaigns-try-to-reach-election-day-voters-after-record-early-voting/",
+      "file": "archive/2024/fletcher-tx/campaigns-try-to-reach-election-day-voters-after-record-early-voting.html",
+      "text_file": "archive/2024/fletcher-tx/campaigns-try-to-reach-election-day-voters-after-record-early-voting.txt",
+      "bytes": 108152,
+      "sha256_html": "3cae2f3b0f283958d11caf63ac82632e77c68ca405cf8da352d4d2a43af72b6b",
+      "sha256_text": "6a9b2c43189dd37208db4848ef1e6d36e6f1916a20966b07c8ba1fd0cf14334f"
+    },
+    {
+      "original": "https://www.lizziefletcher.com/congresswoman-lizzie-releases-first-ad-of-2024-emphasizing-issues-at-stake-in-2024-elections/",
+      "timestamp": "20241105160249",
+      "wayback": "https://web.archive.org/web/20241105160249/https://www.lizziefletcher.com/congresswoman-lizzie-releases-first-ad-of-2024-emphasizing-issues-at-stake-in-2024-elections/",
+      "wayback_raw": "https://web.archive.org/web/20241105160249id_/https://www.lizziefletcher.com/congresswoman-lizzie-releases-first-ad-of-2024-emphasizing-issues-at-stake-in-2024-elections/",
+      "file": "archive/2024/fletcher-tx/congresswoman-lizzie-releases-first-ad-of-2024-emphasizing-issues-at-stake-in-2024-elections.html",
+      "text_file": "archive/2024/fletcher-tx/congresswoman-lizzie-releases-first-ad-of-2024-emphasizing-issues-at-stake-in-2024-elections.txt",
+      "bytes": 109485,
+      "sha256_html": "344c82f8755727b3f2ccdecb0524afc1ea09263a899d897a2d43bf52100d849d",
+      "sha256_text": "56adb27a01e9db876a94aee37ff123496113c603117eb11b83677f361ac5d05c"
+    },
+    {
+      "original": "https://www.lizziefletcher.com/issues/",
+      "timestamp": "20241105155656",
+      "wayback": "https://web.archive.org/web/20241105155656/https://www.lizziefletcher.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105155656id_/https://www.lizziefletcher.com/issues/",
+      "file": "archive/2024/fletcher-tx/issues.html",
+      "text_file": "archive/2024/fletcher-tx/issues.txt",
+      "bytes": 126507,
+      "sha256_html": "58e2618e4569e3190bb82feff27b51b1748b29902fa927f62405af3d44b087be",
+      "sha256_text": "b044c9cacafc1db54aaf684f3b06a3528da4081fe457ee3036e5b3d98b4e1bc8"
+    },
+    {
+      "original": "https://www.lizziefletcher.com/national-security-foreign-policy/",
+      "timestamp": "20241105160238",
+      "wayback": "https://web.archive.org/web/20241105160238/https://www.lizziefletcher.com/national-security-foreign-policy/",
+      "wayback_raw": "https://web.archive.org/web/20241105160238id_/https://www.lizziefletcher.com/national-security-foreign-policy/",
+      "file": "archive/2024/fletcher-tx/national-security-foreign-policy.html",
+      "text_file": "archive/2024/fletcher-tx/national-security-foreign-policy.txt",
+      "bytes": 80283,
+      "sha256_html": "40f8c81dd5a59098607a270e13c63b46f10816ae1609a3f2602ed884385731a0",
+      "sha256_text": "c1a6006cdc582fafa81d335dfaa0fe3e2f95879fcd663bfa5cb8a3c16c111d35"
+    },
+    {
+      "original": "https://www.lizziefletcher.com/issues/embed/",
+      "timestamp": "20241103144502",
+      "wayback": "https://web.archive.org/web/20241103144502/https://www.lizziefletcher.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241103144502id_/https://www.lizziefletcher.com/issues/embed/",
+      "file": "archive/2024/fletcher-tx/issues-embed.html",
+      "text_file": "archive/2024/fletcher-tx/issues-embed.txt",
+      "bytes": 19748,
+      "sha256_html": "ce292101e2c86eded518e5fd66dd478bcde1a37268700f8d0ce1c6ad8a64d84c",
+      "sha256_text": "cef27820d50b6cecc5cf75c43b097d045e7062867ff4aaae9db20af43a6ce771"
+    }
+  ],
+  "snapshots_found": {
+    "lizziefletcher.com": 81
+  },
+  "generated_utc": "2026-11-14T22:42:43Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
