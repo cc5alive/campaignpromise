@@ -1,0 +1,148 @@
+{
+  "name": "Andy Kim",
+  "domains_tried": [
+    "andykim.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.andykim.com/",
+      "timestamp": "20241105161954",
+      "wayback": "https://web.archive.org/web/20241105161954/https://www.andykim.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105161954id_/https://www.andykim.com/",
+      "file": "archive/2024/kim-nj/home.html",
+      "text_file": "archive/2024/kim-nj/home.txt",
+      "bytes": 30127,
+      "sha256_html": "44f40204a2c76f48067673d25028831bedcd146c5c6efebdcddce39705e9b06c",
+      "sha256_text": "58c2e831b7267b202caf2e820d25af7f380ba77d74011df335f1f9bbe3d2adbd"
+    },
+    {
+      "original": "https://www.andykim.com/issues/",
+      "timestamp": "20241105162046",
+      "wayback": "https://web.archive.org/web/20241105162046/https://www.andykim.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105162046id_/https://www.andykim.com/issues/",
+      "file": "archive/2024/kim-nj/issues.html",
+      "text_file": "archive/2024/kim-nj/issues.txt",
+      "bytes": 22022,
+      "sha256_html": "9556581af92185a4c39035a6c6ff140ecf54a9ef6bc4a25e7188e3fd5f4be404",
+      "sha256_text": "c5cb2c413a972c500a42f59685c74fa7091cc21ca630205f802b54753f38cb93"
+    },
+    {
+      "original": "https://www.andykim.com/issues/corruption/",
+      "timestamp": "20241105162425",
+      "wayback": "https://web.archive.org/web/20241105162425/https://www.andykim.com/issues/corruption/",
+      "wayback_raw": "https://web.archive.org/web/20241105162425id_/https://www.andykim.com/issues/corruption/",
+      "file": "archive/2024/kim-nj/issues-corruption.html",
+      "text_file": "archive/2024/kim-nj/issues-corruption.txt",
+      "bytes": 22937,
+      "sha256_html": "6c1b9d71b23a2f2879191792fdfb6d38b1e7da185fcbfcd07cc36bf3de5bd3dc",
+      "sha256_text": "cb280762ec1b47ebd12839f0f1b7914bf13e6ce41117d8d8aafe6bfa635200b0"
+    },
+    {
+      "original": "https://www.andykim.com/issues/environment/",
+      "timestamp": "20241105162424",
+      "wayback": "https://web.archive.org/web/20241105162424/https://www.andykim.com/issues/environment/",
+      "wayback_raw": "https://web.archive.org/web/20241105162424id_/https://www.andykim.com/issues/environment/",
+      "file": "archive/2024/kim-nj/issues-environment.html",
+      "text_file": "archive/2024/kim-nj/issues-environment.txt",
+      "bytes": 21684,
+      "sha256_html": "498e7549a09c2237a335f052ac493dacce49ed8130dac58ef40545bd2f0d2eab",
+      "sha256_text": "9d0ba1b79bd410fa721453451bb89f0ad0c46acfcfbbdb1db881b13cd018c03c"
+    },
+    {
+      "original": "https://www.andykim.com/issues/families/",
+      "timestamp": "20241105162422",
+      "wayback": "https://web.archive.org/web/20241105162422/https://www.andykim.com/issues/families/",
+      "wayback_raw": "https://web.archive.org/web/20241105162422id_/https://www.andykim.com/issues/families/",
+      "file": "archive/2024/kim-nj/issues-families.html",
+      "text_file": "archive/2024/kim-nj/issues-families.txt",
+      "bytes": 22386,
+      "sha256_html": "809bbbbbb193543a019edd649ef45c2bb2eaa17f402614ab75f2c29f649638db",
+      "sha256_text": "4a8c0a336296efc549ba93a751c220b32156273e5c0a052f507fc822ceb409fe"
+    },
+    {
+      "original": "https://www.andykim.com/issues/gunviolence/",
+      "timestamp": "20241105162422",
+      "wayback": "https://web.archive.org/web/20241105162422/https://www.andykim.com/issues/gunviolence/",
+      "wayback_raw": "https://web.archive.org/web/20241105162422id_/https://www.andykim.com/issues/gunviolence/",
+      "file": "archive/2024/kim-nj/issues-gunviolence.html",
+      "text_file": "archive/2024/kim-nj/issues-gunviolence.txt",
+      "bytes": 21794,
+      "sha256_html": "d0e2b05abec7eeed345697b22125171300b7408e6103838162f09ec29a2f6047",
+      "sha256_text": "43bb7a61f7a8dc349d2f397bd177763b7186025ba9ae475c516be54bd5cb358b"
+    },
+    {
+      "original": "https://www.andykim.com/issues/healthcare/",
+      "timestamp": "20241105162423",
+      "wayback": "https://web.archive.org/web/20241105162423/https://www.andykim.com/issues/healthcare/",
+      "wayback_raw": "https://web.archive.org/web/20241105162423id_/https://www.andykim.com/issues/healthcare/",
+      "file": "archive/2024/kim-nj/issues-healthcare.html",
+      "text_file": "archive/2024/kim-nj/issues-healthcare.txt",
+      "bytes": 22307,
+      "sha256_html": "5a32f918e44732e47f9bcb0edb5861876597f2ec33f04cf69e030f2bc7af3580",
+      "sha256_text": "2b6874ecbb1d07870869b8f6c5e803257c08e2647ee1f8599eeacb77eb250a36"
+    },
+    {
+      "original": "https://www.andykim.com/issues/jobs/",
+      "timestamp": "20241105162425",
+      "wayback": "https://web.archive.org/web/20241105162425/https://www.andykim.com/issues/jobs/",
+      "wayback_raw": "https://web.archive.org/web/20241105162425id_/https://www.andykim.com/issues/jobs/",
+      "file": "archive/2024/kim-nj/issues-jobs.html",
+      "text_file": "archive/2024/kim-nj/issues-jobs.txt",
+      "bytes": 22473,
+      "sha256_html": "776b247fcdf22664cfdfc5e68b8e2dfc42eeb65f4d16ccb23d3d0023c42c6579",
+      "sha256_text": "0a5fcb39eb5a18631e50a95d42c7a3eccd64b5e94a4cb2944da3c3813f1ef952"
+    },
+    {
+      "original": "https://www.andykim.com/issues/LGBTQ+/",
+      "timestamp": "20241105162422",
+      "wayback": "https://web.archive.org/web/20241105162422/https://www.andykim.com/issues/LGBTQ+/",
+      "wayback_raw": "https://web.archive.org/web/20241105162422id_/https://www.andykim.com/issues/LGBTQ+/",
+      "file": "archive/2024/kim-nj/issues-lgbtq.html",
+      "text_file": "archive/2024/kim-nj/issues-lgbtq.txt",
+      "bytes": 21596,
+      "sha256_html": "c3510209588991e8fda062164ff2b018b298f0c5ccfbfe099e85a2b01f1f3ed8",
+      "sha256_text": "50045704bafd57d62fd81d3f859ada51f2e49034c3c8e70412a971e59882443e"
+    },
+    {
+      "original": "https://www.andykim.com/issues/reproductive-rights/",
+      "timestamp": "20241105162424",
+      "wayback": "https://web.archive.org/web/20241105162424/https://www.andykim.com/issues/reproductive-rights/",
+      "wayback_raw": "https://web.archive.org/web/20241105162424id_/https://www.andykim.com/issues/reproductive-rights/",
+      "file": "archive/2024/kim-nj/issues-reproductive-rights.html",
+      "text_file": "archive/2024/kim-nj/issues-reproductive-rights.txt",
+      "bytes": 21946,
+      "sha256_html": "503f4fc10f65072ddbcd06220af34b9d9a4b5128d9aaabc002e6ed2d589a407b",
+      "sha256_text": "28cc706fbe37d683dbec3e0c28f37a4ee9280146dd76246e5f780929288c5c06"
+    },
+    {
+      "original": "https://www.andykim.com/issues/veterans/",
+      "timestamp": "20241105162426",
+      "wayback": "https://web.archive.org/web/20241105162426/https://www.andykim.com/issues/veterans/",
+      "wayback_raw": "https://web.archive.org/web/20241105162426id_/https://www.andykim.com/issues/veterans/",
+      "file": "archive/2024/kim-nj/issues-veterans.html",
+      "text_file": "archive/2024/kim-nj/issues-veterans.txt",
+      "bytes": 22664,
+      "sha256_html": "51b5db62fa69bdc1fa150c021eb0fab8c64c50e2e7c2b3077fc9ecd2218c2cfc",
+      "sha256_text": "2a63cf43c60834857ae6d33b16b259d9aa1ae25cfa84acb93091259a264d44f0"
+    },
+    {
+      "original": "https://www.andykim.com/2023/11/15/new-poll-shows-andy-kim-commanding-position-near/",
+      "timestamp": "20241105163302",
+      "wayback": "https://web.archive.org/web/20241105163302/https://www.andykim.com/2023/11/15/new-poll-shows-andy-kim-commanding-position-near/",
+      "wayback_raw": "https://web.archive.org/web/20241105163302id_/https://www.andykim.com/2023/11/15/new-poll-shows-andy-kim-commanding-position-near/",
+      "file": "archive/2024/kim-nj/2023-11-15-new-poll-shows-andy-kim-commanding-position-near.html",
+      "text_file": "archive/2024/kim-nj/2023-11-15-new-poll-shows-andy-kim-commanding-position-near.txt",
+      "bytes": 23111,
+      "sha256_html": "82df56012677c23e8a176882d494dccfa96b0ec535d6a03b8266c013927f8d33",
+      "sha256_text": "4c6fb5e8a017b1ceffb31a46fca2f5dbecf71742e8f54d4773fc7b191f2410e5"
+    }
+  ],
+  "snapshots_found": {
+    "andykim.com": 169
+  },
+  "generated_utc": "2026-11-14T08:19:35Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
