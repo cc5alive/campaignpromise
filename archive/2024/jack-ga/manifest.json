@@ -1,0 +1,38 @@
+{
+  "name": "Brian Jack",
+  "domains_tried": [
+    "brianjack.com"
+  ],
+  "pages": [
+    {
+      "original": "https://brianjack.com/",
+      "timestamp": "20241105035741",
+      "wayback": "https://web.archive.org/web/20241105035741/https://brianjack.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105035741id_/https://brianjack.com/",
+      "file": "archive/2024/jack-ga/home.html",
+      "text_file": "archive/2024/jack-ga/home.txt",
+      "bytes": 132359,
+      "sha256_html": "0aafe1d10f9a827d93e3edb49d779ad9cf83cba66b1fc8bb14a9f9ab412eb1fc",
+      "sha256_text": "b99097c85aaea9c6b2e4558f82ee033d4483a01728b06bce7f112edf0f4f60d1"
+    },
+    {
+      "original": "https://brianjack.com/issues/",
+      "timestamp": "20241105040008",
+      "wayback": "https://web.archive.org/web/20241105040008/https://brianjack.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105040008id_/https://brianjack.com/issues/",
+      "file": "archive/2024/jack-ga/issues.html",
+      "text_file": "archive/2024/jack-ga/issues.txt",
+      "bytes": 76188,
+      "sha256_html": "2dce241a4f2878c2396f85fb81b498362d432e7c1400cfe5af3e61e118cecafd",
+      "sha256_text": "b5b691c307144050c20d033f0a18447b1ee72ed26d188171edecd356e686994a"
+    }
+  ],
+  "snapshots_found": {
+    "brianjack.com": 5
+  },
+  "generated_utc": "2026-11-14T16:35:46Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
