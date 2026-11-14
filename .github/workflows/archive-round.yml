@@ -1,0 +1,59 @@
+name: Archive campaign pages (member list)
+
+on:
+  workflow_dispatch:
+    inputs:
+      members_file:
+        description: "Member list in pipeline/"
+        default: "round2_members.json"
+  push:
+    branches: [main]
+    paths:
+      - "pipeline/round2_members.json"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: archive-round
+  cancel-in-progress: false
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      keys: ${{ steps.k.outputs.keys }}
+      file: ${{ steps.k.outputs.file }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: k
+        run: |
+          FILE="${{ github.event.inputs.members_file || 'round2_members.json' }}"
+          echo "file=$FILE" >> "$GITHUB_OUTPUT"
+          echo "keys=$(python3 -c "import json,sys;print(json.dumps([m['key'] for m in json.load(open('pipeline/'+sys.argv[1]))['members']]))" "$FILE")" >> "$GITHUB_OUTPUT"
+
+  archive:
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    strategy:
+      fail-fast: false
+      max-parallel: 6
+      matrix:
+        member: ${{ fromJson(needs.plan.outputs.keys) }}
+    env:
+      MEMBERS_FILE: ${{ needs.plan.outputs.file }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests==2.32.3 beautifulsoup4==4.12.3
+      - run: python pipeline/archive_campaign_pages.py ${{ matrix.member }}
+      - name: Commit archive
+        run: |
+          git config user.name "campaignpromise-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add archive
+          git commit -m "Archive 2024 campaign pages: ${{ matrix.member }}" || exit 0
+          for i in 1 2 3 4 5 6 7 8; do git pull --rebase origin main && git push origin HEAD:main && break; sleep $((RANDOM % 15 + 5)); done

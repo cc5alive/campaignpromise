@@ -22,7 +22,9 @@ import requests
 from bs4 import BeautifulSoup
 
 ROOT = Path(__file__).resolve().parent.parent
-CFG = json.loads((ROOT / "pipeline" / "pilot_members.json").read_text())
+import os
+CFG = json.loads((ROOT / "pipeline" / os.environ.get("MEMBERS_FILE", "pilot_members.json")).read_text())
+GENERIC_PATHS = ["/issues", "/issues/", "/priorities/", "/platform/", "/on-the-issues/", "/where-i-stand/", "/about/", "/meet-{last}/"]
 OUT = ROOT / "archive" / "2024"
 UA = {"User-Agent": "campaignpromise.org archiver (contact via github.com/cc5alive/campaignpromise)"}
 ISSUE_RE = re.compile(r"issue|priorit|plan|polic|platform|agenda|vision|stand|record|accomplish|values|fight|position", re.I)
@@ -175,7 +177,11 @@ def main():
             if entry["pages"]:
                 break  # first domain with snapshots wins
         have = {norm(p["original"]) for p in entry["pages"] if "error" not in p}
-        for seed in m.get("seed_urls", []):
+        seeds = list(m.get("seed_urls", []))
+        for d in m["domains"]:
+            for gp in GENERIC_PATHS:
+                seeds.append(d + gp.replace("{last}", m.get("last", "").lower()))
+        for seed in seeds:
             if norm(seed) in have or len(entry["pages"]) >= MAX_PAGES:
                 continue
             hit = nearest(seed, start, end)
