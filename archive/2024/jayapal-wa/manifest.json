@@ -1,0 +1,71 @@
+{
+  "name": "Pramila Jayapal",
+  "domains_tried": [
+    "pramilaforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.pramilaforcongress.com/",
+      "timestamp": "20241104235038",
+      "wayback": "https://web.archive.org/web/20241104235038/https://www.pramilaforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241104235038id_/https://www.pramilaforcongress.com/",
+      "file": "archive/2024/jayapal-wa/home.html",
+      "text_file": "archive/2024/jayapal-wa/home.txt",
+      "bytes": 147764,
+      "sha256_html": "930f1b6c71f1263eff83c80733cb0bfe6f550bc2f4188aa9602b65e55ef6a6f9",
+      "sha256_text": "efbc49c8f4dbd643fd269b637742d31a16d6ac5499883c26ea277ac403dcb7fb"
+    },
+    {
+      "original": "https://www.pramilaforcongress.com/issues-overview",
+      "timestamp": "20241104235103",
+      "wayback": "https://web.archive.org/web/20241104235103/https://www.pramilaforcongress.com/issues-overview",
+      "wayback_raw": "https://web.archive.org/web/20241104235103id_/https://www.pramilaforcongress.com/issues-overview",
+      "file": "archive/2024/jayapal-wa/issues-overview.html",
+      "text_file": "archive/2024/jayapal-wa/issues-overview.txt",
+      "bytes": 159675,
+      "sha256_html": "0324875c69b030e8de9a1e166cf750a426b59d0f71b305ff67f468ddcead9c1f",
+      "sha256_text": "fe18888f80fce4c9c1cf13732c3a4b3085979397f3ce91185440eb84ea866f52"
+    },
+    {
+      "original": "https://www.pramilaforcongress.com/news/2019/10/22/jayapal-announces-position-on-two-key-ballot-initiatives",
+      "timestamp": "20241104235109",
+      "wayback": "https://web.archive.org/web/20241104235109/https://www.pramilaforcongress.com/news/2019/10/22/jayapal-announces-position-on-two-key-ballot-initiatives",
+      "wayback_raw": "https://web.archive.org/web/20241104235109id_/https://www.pramilaforcongress.com/news/2019/10/22/jayapal-announces-position-on-two-key-ballot-initiatives",
+      "file": "archive/2024/jayapal-wa/news-2019-10-22-jayapal-announces-position-on-two-key-ballot-initiatives.html",
+      "text_file": "archive/2024/jayapal-wa/news-2019-10-22-jayapal-announces-position-on-two-key-ballot-initiatives.txt",
+      "bytes": 149179,
+      "sha256_html": "798933cc58ade4d55341d3ab0289596fedadedbdcfab67f6917a8ddeb141744c",
+      "sha256_text": "9303546f3295ebf9be0fb15e0f9b8fb728051fafe0a1c13257bb812d2c33a7e4"
+    },
+    {
+      "original": "https://www.pramilaforcongress.com/news/2019/11/15/jayapal-statement-on-warrens-medicare-for-all-transition-plan",
+      "timestamp": "20241104235109",
+      "wayback": "https://web.archive.org/web/20241104235109/https://www.pramilaforcongress.com/news/2019/11/15/jayapal-statement-on-warrens-medicare-for-all-transition-plan",
+      "wayback_raw": "https://web.archive.org/web/20241104235109id_/https://www.pramilaforcongress.com/news/2019/11/15/jayapal-statement-on-warrens-medicare-for-all-transition-plan",
+      "file": "archive/2024/jayapal-wa/news-2019-11-15-jayapal-statement-on-warrens-medicare-for-all-transition-plan.html",
+      "text_file": "archive/2024/jayapal-wa/news-2019-11-15-jayapal-statement-on-warrens-medicare-for-all-transition-plan.txt",
+      "bytes": 150047,
+      "sha256_html": "4e7f73911e6d4de3a09155d8c3d9d539db7ee6e3fb1dbc6c66fe6f2ac812560d",
+      "sha256_text": "e587c954528d5aad8433aa9bfcb59b22c5da76f0c34d09a74ce773d9fed122aa"
+    },
+    {
+      "original": "https://www.pramilaforcongress.com/news/2019/3/27/pramila-jayapal-i-have-not-made-any-endorsement-for-seattle-city-council-position-4",
+      "timestamp": "20241104235059",
+      "wayback": "https://web.archive.org/web/20241104235059/https://www.pramilaforcongress.com/news/2019/3/27/pramila-jayapal-i-have-not-made-any-endorsement-for-seattle-city-council-position-4",
+      "wayback_raw": "https://web.archive.org/web/20241104235059id_/https://www.pramilaforcongress.com/news/2019/3/27/pramila-jayapal-i-have-not-made-any-endorsement-for-seattle-city-council-position-4",
+      "file": "archive/2024/jayapal-wa/news-2019-3-27-pramila-jayapal-i-have-not-made-any-endorsement-for-seattle-city-council-position-4.html",
+      "text_file": "archive/2024/jayapal-wa/news-2019-3-27-pramila-jayapal-i-have-not-made-any-endorsement-for-seattle-city-council-position-4.txt",
+      "bytes": 148670,
+      "sha256_html": "13872c969f8f2c9e6bb6acfe4bb1bb80dda9cd7664180b1fa8c40e7e366c7b4b",
+      "sha256_text": "6f852fb900141ba3708df4c12d44db4828d897af24b69fcfbc318ffa81781122"
+    }
+  ],
+  "snapshots_found": {
+    "pramilaforcongress.com": 72
+  },
+  "generated_utc": "2026-11-14T08:38:46Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
