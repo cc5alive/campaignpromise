@@ -1,0 +1,49 @@
+{
+  "name": "Tim Moore",
+  "domains_tried": [
+    "timmoorenc.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.timmoorenc.com/",
+      "timestamp": "20241105112730",
+      "wayback": "https://web.archive.org/web/20241105112730/https://www.timmoorenc.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105112730id_/https://www.timmoorenc.com/",
+      "file": "archive/2024/moore-nc/home.html",
+      "text_file": "archive/2024/moore-nc/home.txt",
+      "bytes": 80287,
+      "sha256_html": "8fd57a0e0294a1f74c0f426aa54108b707fd1dc6f3d0eaa988df92b49cbbe14e",
+      "sha256_text": "bf2a051c2be99c36215a0f6ae3895de457fe60d5cbff7e5e2459d87caf253799"
+    },
+    {
+      "original": "https://www.timmoorenc.com/uncategorized/professional-fire-fighters-paramedics-of-north-carolina-endorses-tim-moore-for-u-s-congress/",
+      "timestamp": "20241105112745",
+      "wayback": "https://web.archive.org/web/20241105112745/https://www.timmoorenc.com/uncategorized/professional-fire-fighters-paramedics-of-north-carolina-endorses-tim-moore-for-u-s-congress/",
+      "wayback_raw": "https://web.archive.org/web/20241105112745id_/https://www.timmoorenc.com/uncategorized/professional-fire-fighters-paramedics-of-north-carolina-endorses-tim-moore-for-u-s-congress/",
+      "file": "archive/2024/moore-nc/uncategorized-professional-fire-fighters-paramedics-of-north-carolina-endorses-tim-moore-for-u-s-congress.html",
+      "text_file": "archive/2024/moore-nc/uncategorized-professional-fire-fighters-paramedics-of-north-carolina-endorses-tim-moore-for-u-s-congress.txt",
+      "bytes": 49544,
+      "sha256_html": "4fd7af03f3d60ab626cb40ea2ff9a39bc0ccd5e3f33a3f56f249835bba13f3b7",
+      "sha256_text": "3701826e0c7b732f3b6d6eea92821b93b9abd8431a82fcf17cd9a810fb3bb7a1"
+    },
+    {
+      "original": "https://www.timmoorenc.com/uncategorized/professional-fire-fighters-paramedics-of-north-carolina-endorses-tim-moore-for-u-s-congress/embed/",
+      "timestamp": "20241102035352",
+      "wayback": "https://web.archive.org/web/20241102035352/https://www.timmoorenc.com/uncategorized/professional-fire-fighters-paramedics-of-north-carolina-endorses-tim-moore-for-u-s-congress/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241102035352id_/https://www.timmoorenc.com/uncategorized/professional-fire-fighters-paramedics-of-north-carolina-endorses-tim-moore-for-u-s-congress/embed/",
+      "file": "archive/2024/moore-nc/uncategorized-professional-fire-fighters-paramedics-of-north-carolina-endorses-tim-moore-for-u-s-congress-embed.html",
+      "text_file": "archive/2024/moore-nc/uncategorized-professional-fire-fighters-paramedics-of-north-carolina-endorses-tim-moore-for-u-s-congress-embed.txt",
+      "bytes": 22159,
+      "sha256_html": "b450fc72ea4e5cebf40935bc8e1d39945fd1df67d6cf08eec8bb10907d328c70",
+      "sha256_text": "3d6299fffa0e2f797d2829140552bcd03bff03d2b09be6f522b0486b08ea1640"
+    }
+  ],
+  "snapshots_found": {
+    "timmoorenc.com": 23
+  },
+  "generated_utc": "2026-11-14T16:41:30Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
