@@ -1,0 +1,49 @@
+{
+  "name": "Lateefah Simon",
+  "domains_tried": [
+    "lateefahsimon.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.lateefahsimon.com/",
+      "timestamp": "20241105175429",
+      "wayback": "https://web.archive.org/web/20241105175429/https://www.lateefahsimon.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105175429id_/https://www.lateefahsimon.com/",
+      "file": "archive/2024/simon-ca/home.html",
+      "text_file": "archive/2024/simon-ca/home.txt",
+      "bytes": 532995,
+      "sha256_html": "46c96bce38e6492ef14650f97b79cf1096bca68ad3fef179a70c318fb89236b2",
+      "sha256_text": "5b41f827ad04baabf8ba26cfd2cb9d5a82d2b96ea0836c36bc691b3daf10f2b4"
+    },
+    {
+      "original": "https://www.lateefahsimon.com/priorities",
+      "timestamp": "20241105173131",
+      "wayback": "https://web.archive.org/web/20241105173131/https://www.lateefahsimon.com/priorities",
+      "wayback_raw": "https://web.archive.org/web/20241105173131id_/https://www.lateefahsimon.com/priorities",
+      "file": "archive/2024/simon-ca/priorities.html",
+      "text_file": "archive/2024/simon-ca/priorities.txt",
+      "bytes": 488309,
+      "sha256_html": "7744cfdf39d791cedb30641fb60b1bcc84c238397d1e71d4249e9f59c4de690a",
+      "sha256_text": "b24b3e108c99d90de71b6ce6f7225942103de5c4634f59d2df66ab6cffd860ea"
+    },
+    {
+      "original": "https://www.lateefahsimon.com/about",
+      "timestamp": "20241105173157",
+      "wayback": "https://web.archive.org/web/20241105173157/https://www.lateefahsimon.com/about",
+      "wayback_raw": "https://web.archive.org/web/20241105173157id_/https://www.lateefahsimon.com/about",
+      "file": "archive/2024/simon-ca/about.html",
+      "text_file": "archive/2024/simon-ca/about.txt",
+      "bytes": 456075,
+      "sha256_html": "815bb24ca56e82c1cb4d963fd4b3679be8c0c1032b271ec2bccd83aaae69b684",
+      "sha256_text": "e5eaa7e02765df1ad6a28cc58e00ae52212b8b258198d50a4fffb20039fd3daa"
+    }
+  ],
+  "snapshots_found": {
+    "lateefahsimon.com": 8
+  },
+  "generated_utc": "2026-11-14T16:48:35Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
