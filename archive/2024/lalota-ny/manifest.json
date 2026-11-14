@@ -1,0 +1,60 @@
+{
+  "name": "Nick LaLota",
+  "domains_tried": [
+    "nicklalota.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.nicklalota.com/",
+      "timestamp": "20241105072303",
+      "wayback": "https://web.archive.org/web/20241105072303/https://www.nicklalota.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105072303id_/https://www.nicklalota.com/",
+      "file": "archive/2024/lalota-ny/home.html",
+      "text_file": "archive/2024/lalota-ny/home.txt",
+      "bytes": 161604,
+      "sha256_html": "8ea60bf22f7c8ee04896dd82a58b508867a90a1c61b3cf78cfac96d24507cb3b",
+      "sha256_text": "1a4b958a2928b79ec8668528b1e15a116e2652e1bfd90c68ef8afbf4662edc5b"
+    },
+    {
+      "original": "https://www.nicklalota.com/issues",
+      "timestamp": "20241105055015",
+      "wayback": "https://web.archive.org/web/20241105055015/https://www.nicklalota.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105055015id_/https://www.nicklalota.com/issues",
+      "file": "archive/2024/lalota-ny/issues.html",
+      "text_file": "archive/2024/lalota-ny/issues.txt",
+      "bytes": 196169,
+      "sha256_html": "416351a5bcc1960b131d3b5c7540a2569fbf4336efd08e7e5410e9468faeaeb4",
+      "sha256_text": "5dccca5d01b51bf19a355c55cab8cad39bb10c276aeee04a0890b9db23d676cc"
+    },
+    {
+      "original": "https://www.nicklalota.com/stand-with-israel",
+      "timestamp": "20241105055006",
+      "wayback": "https://web.archive.org/web/20241105055006/https://www.nicklalota.com/stand-with-israel",
+      "wayback_raw": "https://web.archive.org/web/20241105055006id_/https://www.nicklalota.com/stand-with-israel",
+      "file": "archive/2024/lalota-ny/stand-with-israel.html",
+      "text_file": "archive/2024/lalota-ny/stand-with-israel.txt",
+      "bytes": 142582,
+      "sha256_html": "e69d8bec76723913b8ca60764e1aa5f0afc12d37645c0136f52e15c20f302f52",
+      "sha256_text": "dea464f2605003b7b208a9eb1ad71b68d4b78cd126de593cf96d1865a7f70948"
+    },
+    {
+      "original": "https://www.nicklalota.com/standing-up-to-china",
+      "timestamp": "20241105054957",
+      "wayback": "https://web.archive.org/web/20241105054957/https://www.nicklalota.com/standing-up-to-china",
+      "wayback_raw": "https://web.archive.org/web/20241105054957id_/https://www.nicklalota.com/standing-up-to-china",
+      "file": "archive/2024/lalota-ny/standing-up-to-china.html",
+      "text_file": "archive/2024/lalota-ny/standing-up-to-china.txt",
+      "bytes": 140153,
+      "sha256_html": "5c84f79e1458236b4777e7315f01efd60ba68cd5b23ea7a21668981a1b0f7ba5",
+      "sha256_text": "687c67f2459da960ea2186494148c60000a720d2b85a4c8bed6e58466e7512a9"
+    }
+  ],
+  "snapshots_found": {
+    "nicklalota.com": 30
+  },
+  "generated_utc": "2026-11-14T22:21:14Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
