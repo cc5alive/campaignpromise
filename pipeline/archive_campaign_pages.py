@@ -7,7 +7,7 @@ toolbar), extract readable text, and write:
 
   archive/2024/<member>/<slug>.html   original bytes as served by Wayback
   archive/2024/<member>/<slug>.txt    extracted text used for promise quotes
-  archive/2024/manifest.json          URL, snapshot time, Wayback link, SHA-256
+  archive/2024/<member>/manifest.json URL, snapshot time, Wayback link, SHA-256
 
 Anyone can re-download a Wayback link and compare its SHA-256 to the manifest.
 """
@@ -27,7 +27,7 @@ OUT = ROOT / "archive" / "2024"
 UA = {"User-Agent": "campaignpromise.org archiver (contact via github.com/cc5alive/campaignpromise)"}
 ISSUE_RE = re.compile(r"issue|priorit|plan|polic|platform|agenda|vision|stand|record|accomplish|values|fight|position", re.I)
 SKIP_RE = re.compile(r"\.(js|css|png|jpe?g|gif|svg|ico|pdf|xml|json|woff2?)(\?|$)|wp-json|/feed|/tag/|/category/|/page/\d|donate|secure|act\.|actblue|winred|/es/|privacy|terms|login|cart|shop|store", re.I)
-MAX_PAGES = 14
+MAX_PAGES = 12
 
 
 def get(url, tries=5, timeout=60):
@@ -52,17 +52,26 @@ def norm(u):
     return host + path.lower()
 
 
-def snapshots(domain, start, end):
-    url = ("https://web.archive.org/cdx/search/cdx?url=" + domain + "&matchType=domain"
+def cdx(query, start, end, limit):
+    url = ("https://web.archive.org/cdx/search/cdx?url=" + query +
            f"&from={start}&to={end}&output=json&filter=statuscode:200"
-           "&filter=mimetype:text/html&fl=timestamp,original&limit=20000")
-    r = get(url, timeout=120)
+           f"&filter=mimetype:text/html&fl=timestamp,original&limit={limit}")
+    r = get(url, tries=3, timeout=90)
     if not r or r.status_code != 200:
         return []
     try:
-        rows = r.json()[1:]
+        return r.json()[1:]
     except ValueError:
         return []
+
+
+def snapshots(domain, start, end):
+    rows = []
+    for host in (domain, "www." + domain):
+        rows += cdx(host + "/", start, end, 50)
+        time.sleep(2)
+        rows += cdx(host + "/*", start, end, 3000)
+        time.sleep(2)
     latest = {}
     for ts, orig in rows:
         if SKIP_RE.search(orig) or "?" in orig:
@@ -109,10 +118,12 @@ def slug(key):
 
 
 def main():
+    import sys
+    only = sys.argv[1] if len(sys.argv) > 1 else None
     start, end = CFG["window"]["from"], CFG["window"]["to"]
-    manifest = {"generated_utc": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
-                "window": CFG["window"], "members": {}}
     for m in CFG["members"]:
+        if only and m["key"] != only:
+            continue
         entry = {"name": m["name"], "domains_tried": m["domains"], "pages": []}
         for d in m["domains"]:
             snaps = snapshots(d, start, end)
@@ -145,10 +156,12 @@ def main():
                 })
             if entry["pages"]:
                 break  # first domain with snapshots wins
-        manifest["members"][m["key"]] = entry
-        print(m["key"], {k: v for k, v in entry.get("snapshots_found", {}).items()}, len(entry["pages"]), "pages", flush=True)
-    OUT.mkdir(parents=True, exist_ok=True)
-    (OUT / "manifest.json").write_text(json.dumps(manifest, indent=2), encoding="utf-8")
+        entry["generated_utc"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+        entry["window"] = CFG["window"]
+        folder = OUT / m["key"]
+        folder.mkdir(parents=True, exist_ok=True)
+        (folder / "manifest.json").write_text(json.dumps(entry, indent=2), encoding="utf-8")
+        print(m["key"], entry.get("snapshots_found", {}), len(entry["pages"]), "pages", flush=True)
 
 
 if __name__ == "__main__":
