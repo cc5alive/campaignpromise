@@ -1,0 +1,61 @@
+{
+  "name": "Scott Perry",
+  "domains_tried": [
+    "patriotsforperry.com",
+    "scottperryforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://patriotsforperry.com/",
+      "timestamp": "20241105145627",
+      "wayback": "https://web.archive.org/web/20241105145627/https://patriotsforperry.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105145627id_/https://patriotsforperry.com/",
+      "file": "archive/2024/perry-pa/home.html",
+      "text_file": "archive/2024/perry-pa/home.txt",
+      "bytes": 182963,
+      "sha256_html": "d8d1ceea91d48f4c98a6a47a68298507f64c0cfef5b4c1f43d9ba66905c43aeb",
+      "sha256_text": "f6d4102343702594fccecd14df41da636032b0a8882e4483ab974341e0db330e"
+    },
+    {
+      "original": "https://patriotsforperry.com/issues/",
+      "timestamp": "20241031112927",
+      "wayback": "https://web.archive.org/web/20241031112927/https://patriotsforperry.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241031112927id_/https://patriotsforperry.com/issues/",
+      "file": "archive/2024/perry-pa/issues.html",
+      "text_file": "archive/2024/perry-pa/issues.txt",
+      "bytes": 143290,
+      "sha256_html": "cce005237945bafdc743a9084d098cb5bb3ba66f3b4e7c5f525795c3f8e8b870",
+      "sha256_text": "7748e02dd3928d0ecda963908bfb63f8236384d88d69fd85f35fdd72c70b200c"
+    },
+    {
+      "original": "https://patriotsforperry.com/issues/embed/",
+      "timestamp": "20241101080812",
+      "wayback": "https://web.archive.org/web/20241101080812/https://patriotsforperry.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241101080812id_/https://patriotsforperry.com/issues/embed/",
+      "file": "archive/2024/perry-pa/issues-embed.html",
+      "text_file": "archive/2024/perry-pa/issues-embed.txt",
+      "bytes": 20597,
+      "sha256_html": "d4b6e404b33ffbf895d53d90d79dd5f2b5a35d1af62d29545226930241333ee2",
+      "sha256_text": "4cd8e8f5611bdfcdd741c03e91c5025112cf8f61fa770ee920bee9cedb827600"
+    },
+    {
+      "original": "https://patriotsforperry.com/about/",
+      "timestamp": "20241105145640",
+      "wayback": "https://web.archive.org/web/20241105145640/https://patriotsforperry.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105145640id_/https://patriotsforperry.com/about/",
+      "file": "archive/2024/perry-pa/about.html",
+      "text_file": "archive/2024/perry-pa/about.txt",
+      "bytes": 123388,
+      "sha256_html": "b25cbfc05640e749fc17de88f14436e664d565d2f87fdf0eb5490b2daf52ee06",
+      "sha256_text": "8c5e33b04a94f2270f34b858e52a3cb56c54cc34bd5c4abb91228394905ed14c"
+    }
+  ],
+  "snapshots_found": {
+    "patriotsforperry.com": 330
+  },
+  "generated_utc": "2026-11-14T15:58:05Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
