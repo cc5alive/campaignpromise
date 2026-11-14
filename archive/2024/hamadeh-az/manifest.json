@@ -1,0 +1,49 @@
+{
+  "name": "Abraham J. Hamadeh",
+  "domains_tried": [
+    "abeforaz.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.abeforaz.com/",
+      "timestamp": "20241105202600",
+      "wayback": "https://web.archive.org/web/20241105202600/https://www.abeforaz.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105202600id_/https://www.abeforaz.com/",
+      "file": "archive/2024/hamadeh-az/home.html",
+      "text_file": "archive/2024/hamadeh-az/home.txt",
+      "bytes": 48817,
+      "sha256_html": "a32b0e649a38942ef06ad7e6453d67b312e0a8c394933f2287c55877db0eebd6",
+      "sha256_text": "94b34648f336063ea3494d9fae7a1c26cbefc4ef77f7a61f7002e07680f4a594"
+    },
+    {
+      "original": "https://www.abeforaz.com/our-issues",
+      "timestamp": "20241105202611",
+      "wayback": "https://web.archive.org/web/20241105202611/https://www.abeforaz.com/our-issues",
+      "wayback_raw": "https://web.archive.org/web/20241105202611id_/https://www.abeforaz.com/our-issues",
+      "file": "archive/2024/hamadeh-az/our-issues.html",
+      "text_file": "archive/2024/hamadeh-az/our-issues.txt",
+      "bytes": 43129,
+      "sha256_html": "621a9a24ef6e871fa5d79b6aa8c9a9890d5e0302a100df98b8dc3c0c940f9cc2",
+      "sha256_text": "d2f4d6606eaca371b5578bd447947ab6fc672fa530f53cd0308c7d9103906a81"
+    },
+    {
+      "original": "https://www.abeforaz.com/about",
+      "timestamp": "20241105202604",
+      "wayback": "https://web.archive.org/web/20241105202604/https://www.abeforaz.com/about",
+      "wayback_raw": "https://web.archive.org/web/20241105202604id_/https://www.abeforaz.com/about",
+      "file": "archive/2024/hamadeh-az/about.html",
+      "text_file": "archive/2024/hamadeh-az/about.txt",
+      "bytes": 24886,
+      "sha256_html": "b123e15a0c726e1945e1ca3e9f24aab04e3d48402191cee0f3205bd64ad1be0c",
+      "sha256_text": "43d49fca5f3f98d13cf58f2f0bde27a323d832d5411cafadaeb443d531c15645"
+    }
+  ],
+  "snapshots_found": {
+    "abeforaz.com": 7
+  },
+  "generated_utc": "2026-11-14T08:36:37Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
