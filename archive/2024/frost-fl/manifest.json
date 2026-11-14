@@ -1,0 +1,38 @@
+{
+  "name": "Maxwell Frost",
+  "domains_tried": [
+    "frostforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.frostforcongress.com/",
+      "timestamp": "20241105202124",
+      "wayback": "https://web.archive.org/web/20241105202124/https://www.frostforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105202124id_/https://www.frostforcongress.com/",
+      "file": "archive/2024/frost-fl/home.html",
+      "text_file": "archive/2024/frost-fl/home.txt",
+      "bytes": 159874,
+      "sha256_html": "6dd0bd214a412c03a40add14029fadb51ba96d7988fcfc4783fb376c33eb551b",
+      "sha256_text": "4ec31f7036223a6c1d9c5f4ea68a5a60517cb93ab1872a86a3917753312a3d92"
+    },
+    {
+      "original": "https://www.frostforcongress.com/issues",
+      "timestamp": "20241105201545",
+      "wayback": "https://web.archive.org/web/20241105201545/https://www.frostforcongress.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105201545id_/https://www.frostforcongress.com/issues",
+      "file": "archive/2024/frost-fl/issues.html",
+      "text_file": "archive/2024/frost-fl/issues.txt",
+      "bytes": 183041,
+      "sha256_html": "f46ac964a48f948d94a4c1f398282feeef327e674974786edb8d62b228957046",
+      "sha256_text": "847e4b7bdf7a8a2572cf6c4f043b04cf93b04d28cd5719c9ccc262cf1e1394e5"
+    }
+  ],
+  "snapshots_found": {
+    "frostforcongress.com": 18
+  },
+  "generated_utc": "2026-11-14T16:08:01Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
