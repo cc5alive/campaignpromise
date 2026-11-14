@@ -1,0 +1,49 @@
+{
+  "name": "Riley M. Moore",
+  "domains_tried": [
+    "mooreforwv.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.mooreforwv.com/",
+      "timestamp": "20241105062612",
+      "wayback": "https://web.archive.org/web/20241105062612/https://www.mooreforwv.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105062612id_/https://www.mooreforwv.com/",
+      "file": "archive/2024/moore-wv/home.html",
+      "text_file": "archive/2024/moore-wv/home.txt",
+      "bytes": 142751,
+      "sha256_html": "fd099ec81caac58c89ebe4ff96a0eed85e141557472aeb01ee4d2b487f41f259",
+      "sha256_text": "323040b34eab5a1af1207908dc3ba53c94150f15004ab54b1513b26d700a0af7"
+    },
+    {
+      "original": "https://www.mooreforwv.com/issues",
+      "timestamp": "20241105062613",
+      "wayback": "https://web.archive.org/web/20241105062613/https://www.mooreforwv.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105062613id_/https://www.mooreforwv.com/issues",
+      "file": "archive/2024/moore-wv/issues.html",
+      "text_file": "archive/2024/moore-wv/issues.txt",
+      "bytes": 92684,
+      "sha256_html": "99fd001e5b8b69b59b73c624e35f319e03988551a25470aa30d2b2a049fb3070",
+      "sha256_text": "6b52ed1a3616cf1692992474a26a809ecf579c8c45454a613a0e4b53d0d6de9f"
+    },
+    {
+      "original": "https://www.mooreforwv.com/about",
+      "timestamp": "20241105062614",
+      "wayback": "https://web.archive.org/web/20241105062614/https://www.mooreforwv.com/about",
+      "wayback_raw": "https://web.archive.org/web/20241105062614id_/https://www.mooreforwv.com/about",
+      "file": "archive/2024/moore-wv/about.html",
+      "text_file": "archive/2024/moore-wv/about.txt",
+      "bytes": 96025,
+      "sha256_html": "ec62d4e4644e4b370e0fdd0dae9ec90ee2ac29e1ed1d7d5bdbb1a0910afc8aae",
+      "sha256_text": "3c77e3457f940c650c3dae71e67adedff06bee07a69f7f3eef0c16194f7e827c"
+    }
+  ],
+  "snapshots_found": {
+    "mooreforwv.com": 7
+  },
+  "generated_utc": "2026-11-14T16:46:40Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
