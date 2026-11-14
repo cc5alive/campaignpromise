@@ -1,0 +1,1131 @@
+Innovation Economy - Sam Liccardo for Congress
+Skip to content
+Donate
+Menu
+Envelope
+Facebook
+Linkedin
+Instagram
+Donate
+Menu
+Read Sam's book
+Jump to Section
+Housing Affordability
+Cost of Living
+Homelessness
+Crime
+Environment and Climate
+Reproductive Rights
+Defending Democracy
+Education
+Innovation and Workforce
+How Congress Can Better Support
+- or Get Out of the Way of -
+Innovation
+INTRODUCTION: A FEW “FIRST PRINCIPLES” FOR SENSIBLE TECH POLICY
+While many unique issues emerge throughout technology, a few basic principles seem to apply broadly as we consider the broad range of congressional options:
+In a global war for talent, our
+immigration and workforce
+policies must reflect that focus. We can have both a secure border and a sensible, pro-immigration policy essential to both innovation and American values.
+The cost of congressional indecision
+can be every bit as great as the impact of a poor decision. Where Congress fears to tread, others rush in to regulate—state legislatures, the Eurozone, the courts, and federal agencies—often in very unpredictable ways. Congress needs to act—and in such areas as data privacy, child online safety, AI, and cryptocurrency, enacting a federal statutory scheme can provide a more comprehensive, rational alternative to the patchwork local and international regulations that we see today.
+Congress must have greater sensitivity to how its laws—whether in the tax code, intellectual property, or antitrust—can create barriers or vehicles to private investment in
+research and development,
+particularly in early-stage companies that form the backbone of our innovation economy.
+Artificial Intelligence (AI)
+will transform our economy and our lives in ways unlike any other technology in memory. Congress needs to step in to address the negative outcomes–fraud and malicious use of AI– without meddling in the regulation of the technology in ways that will undermine innovation necessary for medical research, climate change mitigation, and a host of other critical uses.
+The Defense Department cannot procure a ship in the same way that it procures software and advanced technology. To reduce wasteful spending and accelerate our fighting forces’
+technological transition,
+Congress must authorize a more nimble approach than traditional procurement programs enable.
+Table of Contents
+A PRO-WORK AGENDA FOR IMMIGRATION REFORM
+As a college freshman at Shandong University in Quindao, Eric Yuan had a problem: he had left his girlfriend and family behind in his hometown of Tai’an, hours away. The long train ride made it difficult to see his girlfriend, so he took a particular interest in developing videotelephone software to engage with her via video chats.
+When a young Yuan heard Bill Gates speak during a tour of China in 1995, he became inspired to come to the U.S. to launch a career in technology. Eric had another problem: a Chinese student with few resources would face tall odds of successfully immigrating to the U.S.
+He spent the next two years seeking a U.S. visa, applying—and failing—eight times. On his remarkable ninth attempt, Eric succeeded. He joined a U.S. startup, Webex, that developed video conferencing software, and a decade later, found himself at San Jose giant Cisco. When Cisco management declined to embrace Eric’s smartphone-friendly video conferencing tool, he left Cisco in 2011 and decided to launch his own company.
+Zoom was born. Despite the best efforts of our immigration system to bar his entry to the U.S., CEO Eric Yuan today employs more than 7,000 U.S. citizens in Zoom’s San Jose headquarters and throughout the country.
+Thank goodness for ninth tries—and for distant college girlfriends.
+High-Skilled Immigration and Our Valley’s Future
+Eric’s story is remarkable, but hardly unique. About half of our venture-funded startup founders came to the U.S. from another country.
+[1]
+In the hundreds of conversations I’ve had with employers in Silicon Valley, probably 80% cite immigration as a primary constraint on their ability to grow and succeed in the U.S.
+The urging of venture capitalists John Doerr and Ted Schlein that we “staple a green card to the diploma” of every STEM graduate has become trite but remains true: it would make great policy.
+[2]
+We should want brilliant, ambitious people from around the world to contribute here, rather than going back to India, China, or elsewhere to compete against us. Canada’s forward-looking high-skilled immigration policies, for example, have lured more than 45,000 foreign-born graduates of U.S. colleges between 2017 and 2021.
+[3]
+We’re educating the best and brightest, and they’re creating jobs in other countries. We can blame nobody but ourselves.
+Of course, this doesn’t even account for the many bright young minds educated abroad. India graduates millions of young people every year with college and advanced degrees, roughly one-third of whom go unemployed for many months after graduation—and their unemployment rate among college graduates exceeds 13%.
+[4]
+According to a 2022 Macro Polo study, 47% of the top artificial intelligence developers originated in China, with only 18% coming from the United States.
+[5]
+Due to stringent immigration policy, particularly the tightening of restrictions and availability of H-1B visas for high-skilled immigrants, Chinese AI and software developers increasingly remain in China: 28% in 2022, up from 11% in 2019.
+[6]
+Rather than enlisting them to boost American innovation, their exclusion propels our Chinese competitors.
+Far from taking jobs, immigrants create jobs.
+[7]
+Economists widely agree that they help to create new technologies that accelerate economic growth. They consume goods and services that support many aspects of our economy. High-skilled immigrants, in particular, are 80% more likely to start new businesses than native-born Americans.
+[8]
+Other countries get it. Canada, Australia, and Chile have created “startup visas” to lure entrepreneurs to their shores. In the U.S., a similar proposal found its way into the House-enacted version of the CHIPS Act, but did not make it through in the Senate. U.S. visas exist for investors, but not for the company creators—the entrepreneurs themselves–who merely seek 30-month “parole” periods under the International Entrepreneur Parole program. The creation of a “startup visa” in the U.S. is long overdue.
+Our education system consistently fails to produce a sufficient number of graduates with STEM degrees to satisfy the demand for high-skilled talent among our leading industries.
+[9]
+The much-heralded CHIPS Act has catalyzed new investment in advanced chip manufacturing in the United States, but companies roundly report that they lack the skilled STEM workers to staff the fabs and labs.
+[10]
+Intel has reported just the initial phase of building two chip factories in Ohio will require 3,000 new skilled workers, and TSMC relies on bringing thousands of Taiwanese manufacturing workers to Arizona to get its new fab online.
+[11]
+To be sure, we need to do far more to boost homegrown talent, beginning with improved access to education. I discuss one idea—deploying a tax credit to lure tech investment into our community colleges—in the “Education” chapter of this book. We can also do far more to boost interest in STEM among American-born students. But even if we’re wildly successful in aligning our educational system with a fast-changing private sector economy—no minor feat, since our educational system is primarily controlled by thousands of state and local agencies and districts—we’ll see concrete benefits in about two decades. In the meantime, technology races ahead.
+Unfortunately, federal law hasn’t caught up to reality. Congress last adjusted the 140,000 cap for employment-based visas a quarter century ago in legislation authored by the late Senator Ted Kennedy. Since then, our population has grown 35% and our economy 123%.
+[12]
+In the last four years alone, the rate at which a qualified applicant may “win the lottery” for an H-1B visa has declined from 46.1% in FY 2021 to only 14.6% in FY 2024.
+[13]
+A promising effort with some bipartisan support has emerged in the Immigration Visa Efficiency and Security Act of 2023.
+[14]
+Although the bill remains stuck in committee, the next Congress must push it ahead to expand access to high-skilled visas, particularly by eliminating a peer country cap for employment based immigrant visas crucial for alleviating the backlog of visa applications from nations such as China, India, and Mexico. Some softening of provisions regarding individuals from “adversary states” will be necessary to make this legislation impactful for tech employers in the Valley, but this bill offers a good start.
+For permanent residence or citizenship, the picture appears even more bleak: our system imposes multi-year and even multi-decade waits on immigrants. Employment-based green cards remain subject to such stringent caps that the U.S. is only today processing applications from Indian nationals submitted in 2012.
+[15]
+Unbelievably, today’s applicants face even longer waits. Families that have spent many years living here under a wage earner’s renewed work visa do so under a cloud of uncertainty about their futures that affects every decision, from employment to marriage to child rearing and home purchasing. We must do better.
+A More Secure Border—Sensibly
+Any conversation about immigration inevitably turns to the border. It’s important to return to our first principles: the United States can have
+both
+a more secure border and more immigration. It’s critical for our nation’s future that we have both.
+Border security has vexed every presidential administration in memory, and none more so than President Biden’s, but it’s hardly a new problem. As a federal prosecutor in the late 1990s, I prosecuted criminal organizations engaged in human and drug trafficking along the border in California, I became amply familiar with the criminal industry that exploits human despair for profit. Of course, many other factors drive the migration patterns across our southern border – poverty, a collapsing civil order in Venezuela, drug-related violence in Mexico, and the like.
+The Border Crisis
+Clearly, we need to do more to enforce the law and address the humanitarian crisis at the border. For the second consecutive year, more than 2 million people crossed the U.S.-Mexico border illegally in 2023.
+[16]
+Hundreds of people die each year making the perilous journey through the desert. Beyond the traditional pattern of Latin American families fleeing violence and poverty, apprehension data reveals a disconcerting increase of crossings in the (albeit still very small) number of people on terrorist watchlists from elsewhere in the world.
+[17]
+National sovereignty entitles us to know—and national security requires us to know—who is entering our country.
+Many more people without documents come and claim asylum. The flow of asylum claims has overwhelmed American immigration courts, with the backlog swelling to more than 1 million over the last decade—all part of a total caseload of 3.4 million backlogged cases in our U.S. immigration courts.
+[18]
+Final determinations require many years, by which time most applicants merely “fade into the population,” working and living here illegally.
+To be sure, the border appears rife with drug trafficking as well, and these drugs constitute a serious peril to Americans: synthetic opiates like fentanyl and stimulants like methamphetamine account for nearly 110,000 drug-related deaths each year.
+Yet drug traffickers aren’t who we think they are. Roughly 90% of fentanyl is smuggled across the border by U.S. citizens, not immigrants, according to U.S. Customs and Border Protection officials,
+[19]
+often paid by trafficking organizations to sustain their own addiction.
+Why U.S. citizens? Most drugs move through ports of entry in places like San Ysidro and Mexicali where drug trafficking organizations can much more easily monitor their valuable cargo to mitigate theft and loss than when contraband travels by boat or over the sea. At the ports of entry, traffickers don’t want to risk losing the load to confiscation by having the driver detained by inspectors. Drivers and passengers who are U.S. citizens avoid “secondary inspection” at a much higher rate than non-citizens, obviously. Better enforcement against drug trafficking at the border, then, has less to do with immigration and much more to do with inspections. U.S. inspectors scan only 2% of cars and 14% of trailer trucks at the border, an inspection rate that appears plainly inadequate to stem the flow of drug contraband.
+[20]
+U.S. immigration courts.
+[21]
+Final determinations require many years, by which time most applicants merely “fade into the population,” working and living here illegally.
+To be sure, the border appears rife with drug trafficking as well, and these drugs constitute a serious peril to Americans: synthetic opiates like fentanyl and stimulants like methamphetamine account for nearly 110,000 drug-related deaths each year.
+Solutions at the Border
+In this factual context, some solutions for the border crisis begin to come into focus—and none of them require separating children from their families, nor housing children in cages. For example, to improve detection rates of vehicles smuggling drugs at our land ports of entry, we must invest in biometrics and better vehicle scanning technology. We need more inspectors at the ports of entry, and more Drug Enforcement Administration (DEA) agents with smaller investigation caseloads. The last bipartisan border package contained provisions to accomplish several of these things, until Republican support for their own negotiating position wilted under pressure from former President Trump. To improve detection of human trafficking through the desert and outside of the ports of entry, we also need more border patrol and better technology. We can start by supplanting aging cameras with low-cost sensor and communications equipment, such as integrated fixed towers, remote video surveillance systems, tethered aerostats, dismounted radars, and other technologies.
+We can also do more south of the border. Most superficially, we could better leverage behavioral insights with marketing campaigns south of the border to discourage illegal crossings by emphasizing the likelihood of apprehension and detention. We could dedicate more resources to investigate, arrest, and prosecute criminal gangs involved in human trafficking. As President Biden emphasized in U.S.-Mexico discussions in April, marked improvements at the border result when we persuade, cajole, or incentivize Mexico to step up to its responsibilities along its southern border with Guatemala and Belize.
+[22]
+Longer-term strategies are also critical. We must build stronger partnerships among U.S. companies seeking to improve supply chain resilience by next-shoring manufacturing of everything from memory chips to photovoltaics in Mexico and Latin America. They can reduce geopolitical risks and trade secret theft by relocating from China, while boosting jobs and opportunities south of our border. Using these job creators as carrots (and their withdrawal as sticks) for Latin American governments that demonstrate performance in reducing corruption, promoting free and fair elections, and the like, can do much to improve the quality of life for millions who might otherwise flee to the U.S. in despair.
+Finally, we need to enforce the law. We are a nation of laws, and nobody—neither U.S. presidents nor undocumented immigrants—can be allowed to violate U.S. laws without consequence. We don’t need to separate children from their families for a safer border, and we certainly don’t need more press conferences, demonizing, and outrage. We need to enforce the laws, and focus on what works.
+Beyond Tech: Immigration for the Rest of Us
+It’s not just tech employers who want to boost legal immigration; the heartland should care as much as the coasts about attracting the best and brightest to our shores. The reality is that virtually every industry—agriculture, manufacturing, health care, construction, elder care—needs more legal immigrants.
+Currently, the U.S. has about 8.2 million unfilled jobs; we simply lack enough native-born workers to fill them.
+[23]
+To put a finer point on it, we lack sufficient native births to even replace our current population, a circumstance that would have left my fecund Sicilian, Irish, and Mexican ancestors puzzled. Indeed, immigrants are projected to account for 88 percent of U.S. population growth through 2065.
+[24]
+The implications of this reality are considerable and broad. First, workforce shortages make goods and services cost more. For example, a majority of economists empaneled in a recent
+Wall Street Journal
+analysis opined that Trumpian policies to crack down on immigration would more likely boost inflation in future years.
+[25]
+For most American families, those increased costs don’t merely affect the margins.
+Consider the extraordinary struggles of many families to shoulder elder care. Severe shortages of nurses, nursing assistants, home health aides, and personal care aides make elder care elusive for many, and have driven costs upward for those who can afford the help. In 2022, more than half of nursing homes reported that they limited new patient admissions due to nursing shortages.
+[26]
+One 2017 estimate from MIT researcher Paul Osterman predicted a shortfall of 151,000 paid direct care workers by 2030, a gap that will more than double in the following decade.
+[27]
+Immigration, which already provides one-quarter of America’s elder care workforce, can help. Of course, boosting Medicaid and Medicare reimbursement rates (with the goal of supporting higher wages of care providers) would go a long way as well to reduce turnover and attract a larger direct care workforce.
+Speaking of Medicare, the financial viability of our Social Security and Medicare systems depends on a steady supply of legal immigrants to support our rapidly aging U.S.-born population. Both systems face an imminent challenge of insolvency; Social Security’s OASDI trust fund will deplete in 2034, at which point the incoming funds will cover only 75% of the promised benefits. For Medicare, the Hospital Insurance trust fund will deplete by 2031. Most immigrants actually support both systems’ financial sustainability.
+[28]
+Immigrants with permanent status and dual intent temporary visas must pay payroll taxes to finance each fund. Even many undocumented immigrants who work in formal sector jobs using a false Social Security number pay an estimated $13 billion, for which they will never claim benefits.
+[29]
+Although many long-term immigrants also receive Social Security benefits after they’ve contributed to the system, their youth provides a net fiscal benefit to the Social Security system in the long run, so higher immigration actually reduces the long-term deficit in the system.
+[30]
+Of course, underlying these estimates is the well-founded assumption that working immigrants contribute to economic growth—and that we could have more growth with more working immigrants. The Bipartisan Policy Center produced a study last year that estimated that clearing the current green card backlog of 7.6 million applicants—both by raising statutory caps and appropriately staffing the processing of applications—would produce about $400 billion in additional GDP in the U.S. each year.
+[31]
+About 71% of the GDP benefit would come from simply changing the restrictive rules and caps that constrain so many immigrants from working here and earning legal wages.
+Beyond these economic arguments, immigration remains essential to the American character. The immigrant ethos—to sacrifice, risk, save, and invest for the benefit of future generations—has defined and inspired the American Dream. This ethos has inspired the remarkable trajectory of millions of families, including those of my own Italian, Mexican, and Irish ancestors. We know these stories well from our own families: from the grandmother who sacrificed to help her grandkids attend college, or the father who saved to enable his daughter to buy a first home. This ethos provides a powerful antidote to the less disciplined elements of American culture.
+Our 11 Million Undocumented Neighbors
+Esteban (whose name I’ve changed) is undocumented, and owns a restaurant near my San Jose home. He has tried unsuccessfully for three decades to legally “adjust his status” under Section 245 of the Immigration and Naturalization Act, without avail. In that period of time, he has raised a family, built two businesses, employed dozens of (mostly U.S. citizen) residents, supported his community, and paid several hundreds of thousands of dollars in taxes. I wrote a letter to support his most recent effort to legalize his status.
+I have other neighbors without legal status who have similarly raised families for decades. One is a widely beloved coach in a youth soccer league, and another served as a teacher’s assistant in a local school system, and recently saw her oldest daughter graduate from college—a feat about which she could only dream.
+What about the fiscal burden of illegal immigration on our country? Well, undocumented immigrants pay taxes—whether sales taxes, utility taxes, payroll taxes for retirement benefits that they’ll never receive, and the like —totalling $100 billion last year.
+[32]
+Undocumented immigrants typically pay about 26% of their income in taxes—roughly the same as the rest of us—in part because they don’t qualify for any deductions or tax credits. Obviously, most do not pay income taxes; if we legalized the status of the thousands of immigrants who are illegally working here, we could generate another $40 billion annually for the federal and state budgets, while many of those workers would also earn higher wages.
+[33]
+We must create a legal path for these longstanding members of our community. For those who have, say, worked and lived in the U.S. for a decade, without committing any crimes independent of their immigration status, we must create a path to citizenship. That may include the payment of a fine or fee, as some proposals have required—but it must be a viable path.
+I frequently hear the complaint that “My mother wanted her turn to immigrate, why can’t they do the same?” The short answer is that there is no “turn” to wait for. In the views of many immigration experts, “There are virtually no pathways for permanent legal migration for those with neither close family ties in the United States nor a college degree. And even with close ties, it takes years of waiting to get to the front of the line.”
+[34]
+For example, for Mexican relatives of U.S. citizens with the highest family preference, the State Department is currently processing applications filed in 2005.
+[35]
+Twenty years later, many of those applicants have died. For the 11 million who have built their lives and families in the U.S. for decades, we must provide a viable legal path.
+Finding A Path in a Divided Congress: A Pro-Work Immigration Agenda
+How do we “sell” immigration in a divided Congress? Many members of Congress don’t embrace the value of immigration, or they fear the more populist and nativist groups that form their political base.
+The American people feel differently. Contrary to the partisan rhetoric and the outrage machine of social media, there’s a lot about immigration that Amerians can agree on. Most Americans of both parties want both a secure border and a fairer immigration system. An October 2022 poll shows that legislation to create an earned path to citizenship for millions of Dreamers and boost support for border security would earn overwhelming (71%) support among Americans, including a majority (58%) of Republican voters.
+[36]
+A large majority of Americans of all parties want to see more high-skilled immigration as well.
+Nearly universally, we all value work. We could start with what I’ll call a “pro-work” immigration agenda. Of course, border security would comprise part of the package, but the legislation would need to combine several elements that address the serious human gaps in our economy, from talented college students to caregivers of our elderly. While a more comprehensive package would require far more detail than can be described below, a few elements might include:
+Sensible border security measures, as suggested above.
+Passing of the Dream Act, to provide DACA recipients who continue to work or get schooling to have a path to citizenship.
+Promoting high-skilled immigration through:
+Increasing caps on both permanent (EB-1 through EB-5) and temporary (H1-B) employment for high-skilled employees,
+Creating a startup visa, to enable founders of high-growth companies to launch their companies in the U.S.,
+Allowing employment-based visa holders to apply to become lawful permanent residents.
+Creating legal paths to immigration in the many fields where we face critical and chronic labor shortfalls, e.g.,
+Enabling physicians studying in the U.S. to have a permanent pathway (i.e., permanently authorizing the Conrad 30 waiver program),
+Creating a new visa for direct care workers to address our chronic shortfalls in the labor supply of elder and child care,
+Establishing a pathway for migrant farmworkers in the United States to earn legal status (i.e., reforming the H-2A visa program),
+Creating a new temporary non-immigrant visa category for year-round work in industries experiencing chronic occupation shortages.
+Boosting the economic productivity and self-sufficiency of those immigrants who are here, by:
+Mandating approval of work visas for the thousands of asylum recipients eager to work to support themselves and their families,
+Granting Temporary Protective Status and Work Permits to spouses of citizens and lawful permanent residents, to enable thousands of spouses to enter the workforce,
+Authorizing adjustment of status of undocumented individuals and their families where a breadwinner has worked (with immunity for employers who sign declarations admitting as much) for at least a decade in the U.S..
+Increasing caps on legal immigration annually by a modest percentage (up to 3%) to account for our growing economy and our shrinking native-born working population.
+No one can say what it will take to get a comprehensive immigration reform package through this very divided Congress, but we need to restart this long-overdue conversation. I start it here: with an immigration program that emphasizes work, and highlights the value of immigration to our collective economic well-being.
+THE COST OF INDECISION: REGULATORY PINBALL
+Since the advent of the internet, Congress has responded to the head-spinning pace of technological change with rants, public hearings, finger-pointing, press releases, and…. inaction. In virtually every key area requiring attention—online child safety, digital privacy, cryptocurrency regulation, autonomous vehicles, artificial intelligence—we have seen an astounding absence of legislation.
+Industry typically cheers governmental torpor, preferring that Congress stay out of its hair. Yet increasingly, I’m hearing complaints from leading innovators, academics, venture investors, and others about the legislative void. Why? Congressional indecision allows other actors to jump in—most of whom have no or little accountability to the American people, and some with interests inconsistent with those of U.S. employers and consumers.
+For example, Europe has spoken. The European Union’s General Data Protection Regulation, or GDPR, has set a standard for personal data privacy, which states like California have sought to emulate. While many consider GDPR to provide a generally sensible approach, there are detractors as well. We cannot assume that Europe will always strike the right balance for the American economy, particularly as the U.S. has many more jobs affected by tech regulation than Europe ever will. Ceding policy leadership invites peril. In artificial intelligence, for example, the EU’s proposed regulations purport to constrain a largely American-led industry. There appears no assurance that European legislators will tweak their rules to accommodate the imperative of competitive innovation in a moment when many global actors—in China or Russia, for example—will simply ignore the regulations that bind responsible actors.
+Within the United States, individual states will act on their own, independent of the federal government. That creates two challenges. First, the prospect of having to navigate a thicket of 50 separate sets of regulations handcuffs companies that genuinely seek to comply. Subjecting an industry to 50-state regulatory pinball particularly harms small startup innovators. Early-stage companies lack the resources to hire the hundreds of lawyers and regulatory experts at Google, Microsoft, or Meta, accelerating the concentration of power and market share among a small number of tech giants. Second, consumers remain unevenly served across the nation by states with varying levels of statutory protection, sophistication, and enforcement resources. Every American internet user should have the same privacy and fraud protections, whether they live in Mississippi or California.
+Finally, federal agencies jump in where Congress fears to tread. In cryptocurrency and antitrust, for example, the Securities and Exchange Commission (SEC) and the Federal Trade Commission (FTC) concoct novel theories for enforcement without congressional authorization, leaving a trail of lawsuits behind—and a trail of defeats for both agencies. The cost and uncertainty imposed by unpredictable regulation has pushed the crypto industry offshore, leaving tens of millions of Americans subject to the whims of foreign regulators. The FTC’s approach appears to be freezing capital investment in early-stage life science companies. Regulation by litigation is not a winning strategy for the American economy.
+I’ve identified three areas (out of several) where congressional action appears badly overdue. They provide a good starting point for a much broader conversation: (1) data privacy, (2) online child safety, and (3) cryptocurrency. Let’s consider each in turn.
+Protecting Our Privacy Online
+Data privacy has been a topic of debate in D.C. for a quarter century. In that time, every other G20 nation has enacted a data privacy law. The United States has not. Congressional inaction separates Americans from the 79% of global inhabitants who have the benefit of some national data privacy law.
+Why the need for action? As users of the internet, we have turned from consumers to commodities. Firms have long sought to exploit our data in ways that should make us feel alternately uncomfortable and enraged. Companies—and governments—too often track, predict, and manipulate our behavior without our knowledge or consent. A few recent findings:
+Duke University researchers found that data brokers sell the data of U.S. military personnel for as little as 12 cents per record.
+[37]
+The New York Times
+reported that automakers share data on drivers, collected by their cars, with insurance companies that use the information to raise premiums.
+[38]
+A fertility tracking app shared users’ health information with other companies, including Google and China-based marketing firms, according to a 2023 settlement with the Federal Trade Commission.
+[39]
+These examples alone should prod Congress to act, but additionally, rights to data privacy appear foundational for other areas of tech regulation, such as AI and online child safety. Congress would do well to get moving on data privacy.
+In broad contours, a responsible approach to data privacy regulation would incorporate several basic elements:
+Data Minimization:
+Congress must establish a federal baseline for what data can be collected, and that baseline should reflect what the company needs to provide its service. Banks shouldn’t collect our health data, but should have our credit scores. Online retail vendors don’t need to know the number of children in our families, but may need our home addresses.
+Consumer Control Over Data:
+Consumers must consent to the transfer or sale of their data. They should have the right to see their own data, and a means to require a company to correct it, where it’s inaccurate. Too many of us have experienced the frustration of learning about an inexplicable downturn in our credit score because someone else used our Social Security Number, or a firm misreported a transaction to a credit bureau. With more sensitive data, such as information regarding pre-existing health conditions, consumers should have stricter protections that require affirmative express consent before third parties can access it. In some circumstances, consumers should be given the right to delete their data altogether. California has set a strong standard by establishing a registry for data brokers, and enabling consumers to contact brokers directly to request deletion, but the process remains clumsy with nearly 500 brokers on the site. In 2026, thanks to legislation authored by Senator Josh Becker, a consumer can delete all records through a single request to the California Privacy Protection Agency.
+[40]
+Advocates have sought to have the FTC play a similar role by creating a federal registry, but Congress has not yet granted it such authority. A federal regulatory role appears long overdue.
+Targeted Advertising:
+Consumers should have the ability to opt out of targeted ads they find undesirable.
+Anti-Discrimination:
+Companies must not be able to use racial or other ascriptive characteristics to discriminate against consumers, as we’ve seen too often historically in mortgage lending and insurance, for example.
+Data Security:
+Companies must be held liable if they fail to maintain strong security measures over the consumer data they keep. A single, robust national security standard must apply to every financial, business, governmental, or nonprofit institution that holds personal data.
+Private Rights of Action, with Sensible Limitations:
+Consumers should have standing to sue companies that blatantly violate basic privacy standards and exploit data for their gain. We might constrain the avalanche of lawsuits by only allowing for injunctive relief rather than damages in all but the most egregious cases, to reduce the ambulance chasing. Privacy protections, nonetheless, would appear toothless if dependent solely on enforcement by a federal bureaucracy that will almost certainly lack staffing and funding to meaningfully monitor the hundreds of millions of consequential daily interactions.
+A Compliance Pathway for Small Businesses:
+Europe’s GDPR regulation has generally managed to protect privacy well, but set standards that only Meta and Google can comply with relatively easily. Compliance costs to smaller businesses appear far more onerous, which unfairly benefits the large tech monoliths.
+Federal preemption
+: California and Illinois have passed laws with strong elements that merit inclusion in any federal statute, such as the creation of a private right of action. Yet the need for uniformity in a national approach to data privacy also seems self-evident: companies cannot reasonably navigate a thicket of 50 state laws, and American consumers shouldn’t have to speculate—and ultimately litigate—over which state’s laws should apply to protect their privacy rights. While privacy advocates in California will understandably express concern about preemption, the overwhelming majority of federal action should strengthen the uneven patchwork of privacy protections, not weaken it.
+Many of these principles already constitute “best practices” for responsible corporate actors. Yet Congress has not reached agreement on what a data privacy measure should resemble; Republicans object to the creation of a private right of action, for example, and Democrats balk over preemption provisions. It is hard to imagine how a federal privacy law can be effective without both of those elements.
+Few would expect action from this uniquely torpid Congress during a presidential election year, yet there is hope for privacy advocates: a bipartisan, bicameral draft proposal known as the American Privacy Rights Act (APRA). APRA has emerged from negotiations between the two leaders with the primary jurisdiction over matters of internet privacy: Senate Commerce Committee Chair Maria Cantwell (D-WA) and the Chairperson of the House Energy and Commerce Committee, Cathy McMorris Rodgers (R-WA). The draft that emerged in April embraced many of the primary elements outlined above, and more.
+[41]
+The proposal carves out businesses generating less than $40 million in revenue, but still covers the largest players in the market, plus 90,000 other entities that gather our data, including financial institutions, hospitals, nonprofit associations, retail vendors, and social media platforms.
+Of course, promising compromises over data privacy have emerged before, only to fall victim to political wrangling. It will require principled compromise—nimbly navigating obstacles without losing sight of fundamental values—to make it law. If it does not reach the president’s desk in this Congress, I will push to make APRA’s passage a priority in the next one.
+Child Safety and Social Media
+Many threats lurk online for our children, particularly on social media platforms. Social psychologist Jonathan Haidt’s recent release,
+The Anxious Generation
+, confirmed the anxieties of many parents by citing many studies showing that a smartphone-driven “great rewiring of childhood” has already caused an epidemic of mental illness. We have seen a doubling a suicide among youth between 2008 and 2020, which roughly correlates with the widespread adoption of smartphones and participation in youth-targeted social media. Threats to our children’s physical health—such as obesity and diabetes—also loom, as studies show a substantial increase in a child’s body mass index (BMI) based on their screen time.
+Yet there’s more. The largely unspoken threat to our children lies in what we might call the “opportunity cost” of screen time. The ability of TikTok and Instagram to consume an average of 7 hours of an early teen’s attention each day comes at a great detriment to her focus on the many other priorities for her wellness and future success, like homework, in-person socialization, physical exercise, or tending to younger siblings. In Haidt’s words, “I call smartphones ‘experience blockers,’ because once you give the phone to a child, it’s going to take up every moment that is not nailed down to something else. It’s basically the loss of childhood in the real world.”
+Congressional Inaction
+Nearly the last statutory word on the public responsibility of online platforms was uttered a quarter century ago.
+[42]
+The Communications Decency Act, commonly known as Section 230, offered an expansive liability shield to online platforms and other “neutral” forum hosts from harms resulting from the dissemination of offensive or false information posted by third parties. In 1996, liability protection made some sense; Congress did not want lawsuits to choke this nascent technology before it could reach its economic and social potential.
+In 1996, I was still a law student at Harvard, busily preparing “moot court” briefs on a case interpreting the recently-enacted Section 230 before a panel that included U.S. Supreme Court Justice Steven Breyer. Seven years later, I was a prosecutor in Santa Clara County, working with a multi-city team of police detectives in the Internet Crimes Against Children task force to protect kids from online pedophiles. I can recall thinking that the time for reform of Section 230 was already overdue–in 2003.
+Two decades later, little has changed in the law, but much has changed in reality. Child safety comprises one of several issues fueling demands for better content moderation on social media platforms. Others—including fears about disinformation and manipulation from foreign adversaries and domestic fraudsters—also deserve immediate attention. Yet child safety seems to provide an optimal starting point, given its urgency and ability to unite Republicans and Democrats.
+This April, a rare whiff of bipartisanship enabled the enactment of a law that may force the divestment of TikTok by its Chinese owners, ByteDance, in an attempt to prevent the data collection of young users deemed a national security concern. That legislation has since become the subject of litigation, as TikTok has argued that it amounts to an impermissible prior restraint on speech under the First Amendment, and many legal scholars doubt its survival of judicial scrutiny.
+Three months later, a bipartisanship spirit again prevailed as the Senate approved the Kids Online Safety Act (KOSA) by an overwhelming 91 to 3 vote. The bill has some sensible objectives, such as to limit features that encourage cyberbullying, harassment, and glorification of self-harm. It would also require tech companies to establish default settings that would reduce compulsive use, and mitigate safety and privacy concerns. Yet the language of the bill has also invited detractors, and virtually no expert on the Hill expects passage in the House, given the long line of opponents—civil libertarians, Big Tech platforms, right-wing activists, LGBTQ advocates—who have found something to dislike in the bill.
+In short, Congress remains stuck. As these pieces of legislation flounder in the courts or House, the question remains: what will Congress do to curb the risks of online harm and manipulation of our kids?
+We need to act to protect child safety, to be sure. An additional benefit of such work: Congress needs to put its toe in the water on broader reforms of Section 230 that could help inform how we address the dissemination of harmful content, from bioterrorism to electoral manipulation and health disinformation. Rather than taking on the myriad of regulatory and legal issues that arise in those areas, I’ll suggest a general framework to address the urgency of the threat to our kids today, which might provide an approach for broader questions of content moderation.
+Creating a “Safe Harbor”—And Pushing Irresponsible Companies into the Storm
+Nothing motivates industry to change its behavior like a claim on its shareholders’ assets. That underlies one approach to compelling greater safety: let’s create clear lines that expose companies to liability for negligently putting our children in peril.
+Congress could supplant Section 230’s broad exemption of social media platforms from liability with a statute that would create a “safe harbor” from all lawsuits for companies that meet or exceed the very best industry practices for protecting children. That is, we tell companies that they can avoid lawsuits by adopting those best practices. By failing to do so, they roll the dice. That is, their neglect gives rise to uncertain liability, but a certainty of legal bills.
+The challenge lies in determining what behavior falls short of those best practices; that is, specifically defining what courts call the “standard of care.” In an industry with rapidly changing technology, Congress cannot establish a static threshold; rather, the standard must evolve as the industry discovers better mechanisms for features such as age verification or algorithmic safety.
+An evolving industry standard can be established by an external, independent body of academic, legal, and industry experts, which might articulate an revised standard of care every six months. Those experts must have the requisite technological and business savvy to understand what can reasonably be demanded of the industry, but must also remain subject to conflict-of-interest restrictions to avoid “agency capture” by industry. The body should likely be non-governmental and private—in the same way that Financial Accounting Standards Board (FASB) sets standards for the accounting industry, for example—or perhaps quasi-public, with industry and government participation. Regardless, the oversight body would establish clear thresholds, defined by its view of the industry’s best practices for child safety.
+The legislation must also resolve a threshold question: “Who has the right to sue?” Typically, Congress would identify a set of appropriate federal and state agencies, such as the Department of Justice or state attorneys general. Since those public agencies may lack sufficient resources to be vigilant in exercising that right, we should at least consider the possibility of creating a “private right of action” that empowers parents to be our cops—or at least our whistleblowers—where they have standing to sue.
+Congress must also identify which “best practices” should comprise the industry standard of care. At a minimum, they should focus on a few of the following elements:
+Prohibit the “Screen Nicotine”
+Child-safe regulations must eliminate those design features that make the use of the platform or app particularly addictive for young people—or what I call “screen nicotine.” Regulations would halt infinite feeds and autoplay, and mandate natural stopping points with tools that cap the amount of time children spend on the service, as technologist Tom Kemp urges in
+Containing Big Tech
+. It should prohibit push notifications and other mechanisms that draw young users back to their screens, and otherwise help parents break their kids’ compulsive use of social media and apps.
+Age Verification Standards
+Haidt urges that children should not have access to social media before the age of 16. While reasonable minds can debate the optimal age threshold, some age verification is critical, particularly for platforms and apps likely to contain mature content. Congress should also assess whether there’s a role for app stores to take greater responsibility. Some industry experts have urged that App Store and Google Play should require any user under the age of 16 to receive parental approval to download any app.
+The efficacy of age verification tools, of course, remains imperfect. Tech companies assert that they often cannot verify the age of a user seeking to evade age restrictions, and everyone knows a child (like my niece) who can tell them about how they got an Instagram account under the required age of 13. Nonetheless, “best practices” can encourage creative verification methods, such as using the verified ages of friends on social media platforms, or for younger kids, detecting the continuous streaming of Peppa or Yo Gabba Gabba for extended durations. These tools will also improve, and better “best practices” will emerge.
+Data Collection and Privacy
+Again, much of this work begins with a data privacy bill. Congress enacted the Children’s Online Privacy Protection Act (COPPA) in part to require apps targeting young audiences to use age verification tools before collecting any data from kids online. Yet a
+Washington Post
+investigation found that 67% of the 1,000 most common child-focused apps routinely shared personal data, including locational information, about young users with advertisers—often without seeking prior parental permission.
+[43]
+Once advertisers and data brokers have such information, children can be tracked across the web.
+Health and Sexuality
+We must ensure that pre-teens have access to accurate health and medical information (e.g., verified by studies in credible peer-reviewed journals) that helps them better understand personal issues about gender, sexuality, and health about which they might feel uncomfortable discussing with an adult. More than a few of my LGBTQ friends and children of friends have benefited enormously from online access to such information.
+It Takes a Village to Keep Our Kids Safe: Beyond the Companies’ Role
+Congress might reinforce the efforts of local and state governments to reinforce a healthier life-screen time balance, such as by incentivizing school districts to ban cell phones during school hours. Congress can empower law enforcement and prosecutors to stop and deter predatory behavior, as we see in several pending bills, such as Senator Amy Klobuchar’s SHIELD Act.
+We can better empower parents—such as by establishing clear “ratings systems” to assess the safety of specific platforms and apps, as we saw decades ago in the film industry—to ensure they can properly exercise their own responsibility over their kids’ screen use.
+Finally, we can better educate our kids. For example,
+New York Times
+columnist (and more notably,
+Hard Fork
+Delphic oracle) Kevin Roose suggests that we require companies to mandate that underage users complete a standardized online tutorial—complete with a quiz—to help them understand the perils of online use. Whether or not such a practice currently constitutes a best practice, it probably should.
+Regulating Cryptocurrency: Sensible First Steps
+While Congress has dithered, the crypto industry has exploded—and occasionally imploded—largely without any sensible regulatory framework from Congress. The $2.3 trillion digital asset genie is now very much out of the bottle, and the clock is ticking. The SEC has begun to approve several Bitcoin exchange-traded funds (ETFs), widening access to tens of millions of retail investors of widely varying sophistication levels.
+[44]
+The current legislative void has spurred the courts and regulators to jump in, tethering legal theories to outmoded laws with inconsistent outcomes. Congressional action is long overdue.
+What is the cost of inaction? The industry is increasingly moving (and hiring) offshore to nations that provide more regulatory certainty. Before wary observers say good riddance, consider that a relatively unregulated, fast-growing fintech industry moving to foreign countries leaves us with the worst of both worlds. That is, American retail investors and consumers face a much greater risk of being duped in a “wild west” regulatory environment, putting bad actors beyond the reach of U.S. authorities and enforcement. Meanwhile, the U.S. economy loses job opportunities and cedes growth abroad.
+We need sensible regulation—laws that mandate transparency, accountability, and safety for the tens of millions of Americans who appear increasingly willing to tread into this uncertain landscape. We also need rules that affirm and support technology that can provide a democratizing influence on public finance.
+Here are a few logical first steps Congress can take on crypto to bring regulatory certainty to an industry that is clearly here to stay.
+Start with Stablecoin
+Stablecoin is designed to maintain its value by pegging its price to a stable asset like a fiat currency, such as the U.S. dollar, or to a commodity like gold. Due to its relative price stability, stablecoin offers a better mechanism for payments than more volatile cryptocurrencies like bitcoin.
+[45]
+Stablecoins that digitize the dollar—like USDC and TrueUSD—could provide a long-term advantage to the U.S. economy. Having the world’s principal reserve currency over the last 80 years has provided massive advantages to American businesses, consumers, and our government, enabling us to borrow at a lower cost and making U.S. sanctions more impactful. As crypto becomes more prominent in remittances to family members living abroad, it is important that those transactions occur in dollars.
+While regulating stablecoin seems elementary for many in the industry, fears have emerged on Capitol Hill and elsewhere. Some have warned of “Big Brother” tracking every consumer’s expenditure. Yet, relatively standard regulatory measures could adequately protect privacy. Fears of expanding the money supply are mitigated by ensuring that every stablecoin is redeemable with a collateral reserve asset (although some stablecoin use algorithmic formulas, which are supposed to control supply). Obviously, that requires governmental oversight.
+The primary obstacle in Congress appears to be the role of states. Some states, such as New York, insist on maintaining regulatory authority, which creates a troubling thicket of regulatory compliance for any company seeking to have its cryptocurrency seamlessly relied upon throughout the world. There is a strong case for federal preemption here, to ensure a uniform set of rules—and consumer protections—across 50 states.
+Nonetheless, legislation to regulate stablecoin has languished for a couple of sessions, despite relatively bipartisan support. Digitizing currency can provide an early toe-in-the-water opportunity for Congress and federal regulators. Distributed ledgers created by blockchain technology may offer effective means to digitize stock ownership, government-issued identification, and other instruments of daily life. It’s time for Congress to act.
+One Size Doesn’t Fit All: Defining Regulatory Scope
+Legislation to assign jurisdiction to federal agencies on cryptocurrency, commonly known as a market structure bill, emerged from committee in 2023. Until Congress passes legislation clearly defining who regulates what, agencies will trip over each other while competing for turf. Congress must also determine whether the Securities Exchange Commission (SEC) has the resources to resolve how to apply 90-year-old securities laws within the crypto ecosystem. The complexity of these questions appears exacerbated by the fact that securities laws, which generally mandate the presence of intermediaries, are a poor fit for crypto, which is defined by its decentralization and disintermediation.
+Under longstanding federal law and Supreme Court precedent, the SEC should regulate cryptocurrency only where it constitutes an “investment contract.” Nobody claims that currencies such as the peso or euro constitute an investment contract, because we use international currency markets to facilitate international transactions for goods and services, not to provide returns. Many experts believe that crypto tokens function more like commodities than investment contracts, and that the Commodity Futures Trading Commission (CFTC) constitutes the logical entity for regulating cryptocurrency like Bitcoin and Ether, not the SEC.
+Where companies purport to bundle tokens with opportunities for return beyond the currency’s mere fluctuation in price, the cryptocurrency should be treated like an investment contract by the SEC. An example includes Blockchain Capital’s B-CAP, in which investors expect (or hope for) some rate of return for their purchase. Form—and regulation—should follow function.
+In summary, when tokens change hands without any connection to an investment contract, they should not be regulated as securities. Too often, we’ve seen the regulatory agencies fail to draw logical lines. For example, the Blockchain Association notes that “the SEC has refused to approve applications from registered securities exchanges to list a spot bitcoin exchange-traded product (ETP) despite approving bitcoin futures ETPs.”
+[46]
+The SEC’s recent overreach in the case against Ripple was ultimately rejected by a federal court—after years of litigation, substantial cost, and market disruption. Astoundingly, federal courts are left to decide about the SEC’s role by resorting to a standard established by a nearly 80-year-old Supreme Court decision,
+SEC v. W.J. Howey Co.
+, from 1946.
+That’s not reassuring. Congress must draw clear lines here—define the turf and accompanying rules to provide some predictability and consistency in crypto regulation. Congress should also heed the call of Treasury Secretary Janet Yellen to close the gaps in regulation. Spot commodities like Bitcoin remain largely unregulated, and Congress must close these gaps while ensuring a coherent regulatory regime for all cryptocurrency.
+A Safer “Sandbox”
+Finally, there’s little question that cryptocurrency investment poses substantial risks for any retail investor, as evidenced by the wild volatility of currencies like Bitcoin in recent years. To be sure, consumers and retail investors must enter these markets with eyes wide open, but regulatory agencies have a role to ensure transparency—if Congress will clearly authorize them to do so. Some experts have advocated for the creation of a regulatory “sandbox” for retail investors and consumers, within which tokens can only be traded where their crypto sponsors meet very high standards of disclosure and transparency. The establishment of clear rules for the identification of the actual parties engaging in the market—often referred to as “white list systems” for financial institutions—can ensure legitimacy of the transactions and deter participation by criminal organizations. Legislation to create such a regulatory sandbox has languished in Congress.
+Working with regulatory agencies and industry, Congress must move. Let’s get it done.
+INVESTMENT IN INNOVATION: KEEPING THE GOLDEN EGGS AND THE GOOSE
+Tax Treatment of Research and Development Expenditures
+Many of the provisions in the Trump tax bill of 2017—more formally known as the Tax Cuts and Jobs Act—will expire in 2025, and tax policy will move to center stage. With an estimated $1.9 trillion deficit in the coming year, many experts believe that tax increases will be on the table—specifically, the 21% marginal tax rate on corporate income. This illustration from the Peterson Foundation, a nonpartisan budgetary think tank, demonstrates the historically low marginal rates enjoyed by many corporations since the 2017 law took effect:
+Yet the marginal rate tells only a small part of the story. While the media and public focus on the marginal rate, the “action” in tax policy is typically in the complex maze of deductions and tax credits negotiated in each tax bill. As a result, the actual tax paid by corporations is far less—the 2017 law reduced the effective tax for large corporations to 9% in 2018, down from 14% in 2014.
+[47]
+The parties will disagree about whether to increase that marginal rate, but they should agree that it is critical for our long-term economic viability to restore the deduction for research and development spending.
+As we consider our collective future, research constitutes the most important dimension of the Valley’s private sector activity. Our world critically needs innovative people and path-breaking firms to discover the next cancer drug, better ways to store and deliver electricity, and less costly means of providing clean drinking water. Discovery drives our economic growth and high quality of life, and–as we consider climate change or pandemics–will be essential for our survival. Ample studies show how research and development activity of the private sector produces social benefits to many others in the economy—particularly consumers—that far exceed the private benefits to the firm.
+Yet it’s far from certain that any company will secure the “golden eggs” of research and development. The risks of R & D investment are great. While individual early-stage Valley companies routinely perish, the “goose” of research and development investment must survive for our economy to flourish, that is, to have any golden eggs in the future.
+The many costs of research—in the form of clinical trials, scientist and engineer salaries, laboratory equipment, and patent applications—constitutes a multibillion-dollar line item on the balance sheet of many large companies, and consumes a disproportionately large share of capital for small startups. In many fields, the high cost, remote payoffs, and heavy risk of research and development makes it infeasible if financed purely through market mechanisms.
+Federal tax policy can promote long-term economic growth by incentivizing research and development. In competing nations such as China, companies with sizable research expenditures do not merely receive tax breaks, but massive subsidies—outright infusions of capital, free land, and the like.
+[48]
+The Trump “tax cut” law has ironically penalized investment in research and development. Since 1954, the tax code has allowed companies to deduct 100% of the firm’s expenses—employee salaries, benefits, lab space, and the like—in the year in which those expenses are incurred. That is the rule in nearly every other OECD country as well.
+[49]
+Yet since 2022, the deductibility of research and experimental expenses under Section 174 must be amortized over five years if incurred in the U.S. (and 15 years if conducted abroad). In other words, companies can deduct less than 20% of the cost of a scientist’s or software engineer’s salary, benefits, and overhead in the current year, but it can still deduct 100% of the cost of hiring a receptionist, marketing staff, or an administrative vice president.
+The incentives are all wrong. American companies are still spending, but U.S. research and development investment in 2023 was outpaced 5:1 by other business expenses in 2023.
+[50]
+That’s the opposite of what we need to ensure American economic competitiveness.
+Although some U.S. businesses may avail themselves of a tax credit that the Code makes available for some research and development expenditures, companies cannot use both a credit and deduction for the same expenditures. The tax credit is limited in scope and application, and its complexity leaves most small businesses beyond its reach, even if they qualify.
+The new mandate to amortize research and development expenses has already resulted in the
+loss of jobs and investment
+; employers have cut 14,000 research and development jobs since the imposition of the new rules.
+[51]
+The growth rate of research and development spending has slowed from 6.6 percent annually from 2017–22 to less than one-half percent in 2023.
+Who bears the burden for this? Small tech and innovation companies—which tend to drive a disproportionate share of our innovation—feel the pinch sharply, because they devote the largest share of their budgets to research and development. Big Tech tends not to be as affected, nor do startups that are not yet profitable, but small and mid-size companies clearly take the hit.
+We need to fix this mistake. Several bills have been introduced to restore full immediate deductibility of research and development expenditures, and revert Section 174 to its pre-2022 status. So far, none have gotten over the goal line, but 2025 will be the critical year for deliberation, with multiple high-profile tax provisions set to expire.
+Of course, we have a serious deficit, and fast-growing national debt. We must manage these tax expenditures responsibly, without aggravating the rate at which we’re saddling our children and grandchildren with federal debt. How do we pay for the roughly $20 billion reduction in revenue that will result from restoring the full deductibility of research and development spending?
+[52]
+Congress has several options, but I suggest looking at a couple to start. First we can nudge the 21% marginal tax rate on corporations upward, closer to its historic average. It’s at a historic low, resulting in an effective tax rate of only 9% for a corporation with at least $10 million in assets. An increase of 2% in the marginal corporate rate would generate approximately $22 billion, sufficient to backfill the foregone revenue.
+[53]
+Under my proposal, innovative companies that focus on research and development would pay less, while more conventional corporations would pay more.
+Alternatively, Congress could also pay for research and development deductibility by reforming loopholes in the Qualified Business Income deduction, a creature of the 2017 tax law that Federal Reserve economists have found has induced
+billions in tax-avoidance and recharacterization of income without any inducement of new investment, jobs, or any other obvious economic benefit
+. That is, Congress could simply raise the rate by a commensurate amount on large-revenue limited partnerships, S corporations, and other pass-through entities that many high-income investors use to reduce tax bills. While real estate investment trusts and other investment vehicles received very generous treatment in the 2017 Trump tax changes, R&D-focused early stage companies suffered.
+Any economist will readily urge more favorable tax treatment for a company designing the next-generation energy storage device over a company investing in shopping centers. Congress should listen to our economists.
+Investment in Basic Science and Research
+To speak to a Silicon Valley audience in favor of investment in basic science and research lies somewhere between pandering and preaching to the choir. Suffice to say, I strongly support more federal investment in basic science and research. As mayor of Silicon Valley’s largest city, I’ve lobbied for funding for NIH, NIS, ARPA-E, ARPA-H, and other critical priorities on Capitol Hill, standing alongside leaders of our top universities and research institutions, and with CEO’s of local companies. We need federal investment.
+Private R& D investment is a good thing, to be sure, but it’s different. It’s focused on commercialization– bringing products and services to market. It can have widespread benefits, but it doesn’t have to, and the profits of proprietary technology are inherently exclusive. Those technologies can also produce widespread harm as well; consider the development of Agent Orange, for example.
+Private corporations have little incentive to invest in basic, “open source” research–the very kind upon which much of our technological, scientific, and economic progress depends. Without Einstein’s 1905 discovery that gravitational forces affect the rate of passage of time, for example, modern GPS technology would produce distorted outcomes today.
+We critically need investment in R&D that takes the “long view.” Industry will appropriately conduct research where focused on getting a product out to market, but the benefits of basic scientific research remain too diffuse to attract sufficient private capital, beyond philanthropic sources for technology that is far from any commercial viability. Today,
+the federal government remains the nation’s largest supporter of basic research,
+funding 40.0% of U.S. basic research in 2021
+, with universities, state governments, and other nonprofit organizations funding another 23 percent.
+While China, India, and the EU nations
+such as Germany
+continue to accelerate public investments in research and investment, U.S. federal investment in research and development has declined relative to the size of our economy,
+as this graph reveals
+:
+The decline appears even more stark if funding from the national Institutes of Health is excluded. Assuming that we agree that we need more federal investment in basic scientific research, the
+real question, is how do we pay for it?
+I’d start with corporate subsidies.
+I’m generally not a fan of what’s known as “industrial policy”– the favoring of specific industries and companies with direct subsidies, tax breaks, import duties, trade barriers, and other fruits of government benefice. Companies generally shouldn’t get taxpayer-funded support or exemptions.
+Many politicians on both sides of the aisle will disagree with me, however.
+Industrial policy has been on the rise in the U.S. and throughout the industrialized world,
+particularly since the pandemic. It seems to be one of the rare areas of bipartisan consensus–if the parties could just agree on which industries to subsidize. So, they logroll, and virtually every industry, from agriculture to aerospace, receives favorted industrial policy treatment, and increasingly so.
+Most mainstream economists share my dim view of industrial policy, because taxpayer investments in industry tend to do better for industry than for taxpayers. Governments–least of all, Congress–aren’t good at picking the winners and losers in the market. “Industry capture” ensures that subsidies last well beyond the duration of their utility, if they’re needed at all. Direct subsidies and tax expenditures continue to bloat our federal budget to leaden the debt–now exceeding $35 trillion– burdening our children. Repeated studies show that the economic gains to workers of industrial policy subsidies and trade restrictions would have come at a lower cost if we’d just distributed cash to each worker. Distortions disrupt markets and economies with excessive government intervention. They create obstacles that that often inhibit newer, more innovative firms from succeeding where the market would allow them to. As
+David Brooks recently observed
+, “The International Monetary Fund and Global Trade Alert monitored over 2,500 industrial policies around the world last year and found that more than two-thirds distorted trade, discriminating against foreign concerns. Furthermore, this kind of protectionism backfires. More workers lose their jobs when other countries retaliate than gain jobs from the protections themselves.”
+I will admit to exceptions to my condemnation of industrial policy. Undoubtedly, unique and urgent cases require government intervention, for national security, mitigation of climate change, or critical supply chain resilience. One such instance arose with the passage of the CHIPs and Science Act, which appears to have had success in spurring development, t
+hough not without hiccups
+. Yet there are plenty of subsidies that most of us would readily agree serve no public benefit, such as the
+tens of billions in annual tax exemptions, credits, and deductions for the oil and gas industry.
+Let’s reallocate many of the subsidies to industry toward greater investment in basic science and research, through our national laboratories and research universities. The R&D may well benefit the very same industries, but it will do so in less distortive ways to the overall economy, and it will produce public gains – in advancing science and knowledge– that will benefit people more broadly.
+Will this be difficult politically? Brutally. Everyone has a favorite industry subsidy to cling to, and as the saying goes, in “where you stand depends on where you sit.” Representatives of Kansas will defend agricultural subsidies just as Oklahoma members protect oil drilling subsidies. There’s no magic solution here, and these subsidies won’t go away without a fight.
+But we should agree on where to start, and that’s where I’d start.
+“The Exit”: Innovation and Antitrust Enforcement
+Serious risks threaten our economy and society from excessive concentration of technological prowess. We need robust antitrust enforcement in many sectors of our economy to protect consumers, ensure opportunity for start-ups, and to maintain the competition that fuels America’s economic success.
+Yet in my conversations with leading innovators in the Valley, a surprisingly large number of startup founders and venture funders in life sciences identify antitrust enforcement as a substantial barrier to their company’s—and their industry’s—growth. To be clear, these innovators have no interest in shilling for tech behemoths like Apple or Amazon, nor for large health care conglomerates like United Healthcare or CVS Health. None of them face a direct risk of incurring the wrath of regulators at the Federal Trade Commission (FTC) or of litigators at the Department of Justice. Rather, their concern about antitrust focuses on preserving the essential catalyst to investment in medical innovation: “the exit.”
+The Exit
+To many, “the exit” embodies the ambition of every shopaholic’s spouse stuck in a mall on a Saturday afternoon. To founders and venture capitalists, it means much more. Traditional lending is not available to high-risk, early-stage tech companies. Rather, start-ups seeking the capital necessary to grow have two primary paths: “going public,” and acquisition. A company goes public by making its stock available to public investors through an initial public offering (IPO) or by acquisition by a special purpose acquisition company (SPAC). Venture capitalists invest their dollars in early-stage companies with the expectation (or more frequently, with the unrequited aspiration) that the exit will enable them to recover their investment and earn a healthy return.
+Here’s the rub: the investment decision depends on the market’s perception of each startup’s likelihood of exit. Without the prospect of an exit, a venture capital firm loses any incentive to invest.
+The traditional exit path—going public—has become increasingly disfavored, for a variety of reasons. The passage of the Sarbanes-Oxley Act and its accompanying regulations have imposed rigorous reporting requirements on public companies that many executives view as excessively burdensome and litigation-inducing. Moreover, IPOs don’t fit in the vision of many company founders. Many founders believe that becoming a publicly-traded company—and the accompanying imperative to demonstrate growing profitability each quarter—will undermine their long-term growth and technology development. For many life science startups, the markets will never embrace a “one-trick pony” firm that focuses on the development of a single molecule or medical device, so they can only get access to capital through acquisition. In short, the limitations of “going public” leaves many early-stage companies with only one path: acquisition.
+Why are these early-stage companies so important? More than in other industries, the medical devices, cancer treatments, and other breakthroughs in the life sciences result from the endeavors of early-stage companies, sometimes in partnership with research universities and institutes. An astounding concentration of that ground-breaking research occurs within a couple miles of the 101 corridor between South San Francisco and San Jose. Startups appear more nimble, more willing to take risks, and more attractive to hard-charging innovators.
+Yet venture capital gets these early-stage life science innovators only so far. A single clinical trial for a drug seeking FDA approval can cost tens or hundreds of millions, depending on the complexity of testing required.
+[54]
+In most cases, drugs fail to meet the FDA’s appropriately robust standards for efficacy and safety. Those failures cost more money.
+All told, it can cost as much as two to three billion dollars to bring a blockbuster drug to market. Big Pharma and major healthcare conglomerates provide the much larger capital to startups to pay for costly clinical testing, lab equipment, and manufacturing facilities. Without an ecosystem that allows for acquisition, these smaller companies, and their life-saving innovations, wither on the vine.
+Here’s the problem: aggressive antitrust enforcement by the FTC increasingly discourages venture investment in early-stage, innovative companies, particularly in the life sciences. While we have not seen a substantial fallout in investment, we have seen a shift of funding away from early-stage companies toward safer bets.
+[55]
+Many warn that the spigot for funding startups could slow, because current FTC activity threatens the innovation ecosystem.
+Of course, we have no reason to worry about the well-being of venture capitalists—they’ll find other places to put their money. We should care, though, if this trend impedes the industry’s ability to produce the next critical vaccine, breast cancer treatment, or Alzheimers’ drug. We should also care if some large companies increasingly use counterproductive tactics to evade antitrust review, such as acquiring the technology and top talent of smaller companies, while leaving most of their employees—and the carcass of the company—behind.
+[56]
+The Necessity and Perils of Antitrust Enforcement
+To be clear: we need robust antitrust enforcement. We need to protect consumers from monopolistic pricing that exacerbates our high cost of living. We need to enable the competitive forces that drive innovation and economic growth. That requires the vigilance of the FTC and Justice Department for anti-competitive behavior by corporate behemoths. I’ve urged for greater enforcement in my book in areas such as grocery consolidation and pharmaceutical distribution.
+In tech, one can find ample examples of problematic behavior. The recent civil complaint against Amazon, for example, appropriately focuses on the online retailer’s requirement that any company selling on its platform cannot offer a lower price on a competing platform.
+[57]
+Consumers suffer harm when deprived of competitive pricing. So long as FTC uses the same standard to enforce conduct by the nation’s largest retailer, Walmart, as it does against Amazon, we should cheer the FTC and its Chairperson, Lina Khan.
+The problem lies in those instances where the FTC cuts such a broad swath that it leaves many in the industry unclear about what is or is not unlawful. The FTC has lost every single merger challenge that it has brought in court and in administrative proceedings, ranging from Microsoft to Meta to Illumina. The agency has relied upon novel legal theories that generally exceed the bounds of accepted jurisprudence. Even in cases that never reach an administrative or judicial decision, several efforts to halt or stall mergers left industry observers scratching their heads. For example, the FTC’s efforts to block Amgen’s purchase of Horizon Therapeutics surprised industry analysts because the companies don’t have any competing products, and had even Amgen’s competitors rallying to its defense.
+[58]
+“Surprise” enforcement doesn’t serve anyone. Corporate leadership and their employees should have clear rules about what is legal and what is not. Even when they prevail against the FTC in court, employers incur millions in litigation costs, and much more from delay. A ripple effect across the industry hamstrings companies from standard licensing or acquisition deals because of regulatory risk and legal uncertainty. That uncertainty chills investment in many early-stage companies with promising technologies, according to many Valley veterans.
+Drawing Clearer Lines
+It has become vogue to fault Chairperson Khan for overly aggressive antitrust enforcement. In my view, the blame also lies at the door of Congress. Congress makes laws. The key statutes defining prohibited conduct—the Sherman Antitrust Act, Clayton Act, and the Federal Trade Commission Act—have remained largely unchanged for nearly a century. Consider the multitude of new industries that have emerged and developed over that duration: trucking, airlines, telephone, pharmaceuticals, television and film, telecommunications, computers, computer software, online commerce, electronic gaming, social media, and AI. The law has failed to evolve with our economy, and many blurry lines need to be made clear.
+Congress fails to resolve these disputes with any clarifying enactment. Its inaction has created a vacuum that leaves the burden to the bureaucracy and the courts. Yet neither federal bureaucrats nor judges have direct accountability to American consumers or businesses for the economic impact of their decisions. Congress does, and has abdicated its responsibility.
+Statutory enactments cannot possibly anticipate with precision how every antitrust battle in every industry should be resolved. Yet Congress can draw clearer lines separating lawful from illegal conduct. Specifically, Congress could make a few principles more explicit, and send clearer messages to the market. At the risk of oversimplification, here they are:
+Uncertainty Doesn’t Help Anyone
+Clearly drawing lines will save billions of dollars in litigation, preventative measures, hedging, and transaction costs. Most importantly, it will enable companies on the right side of the line to move and expand their businesses with confidence, enabling greater employment and growth. As one startup entrepreneur told me, “just give me one set of rules to play by, and I’ll play by them—not a changing set of rules.”
+Reduce Delay and Indecision in the Process
+Congress should constrain the unnecessary bureaucratic burden imposed by antitrust review, investigation, and litigation. For example, the review process that follows a company’s notification of a proposed merger, joint venture, asset acquisition, or exclusive license can be lengthy. Last year, the agency proposed a rule that will vastly expand the amount of information that each company must provide, and many fear it will leave many companies in limbo for longer pending agency decisions. Ensuing that agencies more closely adhere to the 30-day “shot clock” could relieve companies of the worst of regulatory burdens: indecisive delay.
+Define Who the Law Serves—And Who It Doesn’t
+For the last forty years, antitrust enforcement and adjudication has focused on the harms to the consumer, generally known as the “consumer welfare principle.” Where anti-competitive behavior results in higher prices or less quality to consumers, the government has a strong case for enforcement. Increasingly, Khan and her team at the FTC have deviated from this touchstone to bring actions challenging market concentration based largely on harms to competitors, workers, or other stakeholders.
+This competing legal theory, also referred to as the “neo-Brandeis movement,” has compelling arguments to make about the worrisome power of market concentration in industries such as social media and online retail. They may provide a useful basis for legislation.
+Here’s the problem: economic actors cannot make multi-billion-dollar decisions while guessing which competing legal theory will carry the day. Congress must step up to its legislative responsibility to decide who antitrust law protects—and who it doesn’t—and delineate clear rules for distinguishing when actions should be brought.
+Focus on Behavior, Not Size
+Congress must clarify that an antitrust violation does not arise merely when a company grows too large. Rather, anti-competitive behavior—such as price-fixing, predatory and exclusionary pricing, tying agreements, or customer allocation—should spur regulatory action. So long as Nvidia has become dominant by virtue of GPU chips’ superior technological prowess and performance—and not anti-competitive behavior—they should avoid punitive regulation. Recent charges filed by French regulators against Nvidia exemplify why tech innovators generally prefer not to launch in Europe. We shouldn’t try to change their minds by matching European regulatory standards.
+ARTIFICIAL INTELLIGENCE
+The “Goldilocks” Approach to Regulation
+A public reaction consisting of equal parts hype and horror has accompanied the emergence of generative large language models (LLMs) such as ChatGPT. In my many conversations with leading artificial intelligence (AI) industry practitioners, technologists, investors, and academics, I have been struck by the breadth of strong opinions on AI and its regulation. Some warn of its disruptive effects on society and jobs, or the existential risks posed by “superintelligence.” Others point to the urgency of investment in AI, pointing to its many beneficial applications in such areas as medical diagnosis, climate adaptation, transportation safety, and drug development. Still others downplay AI’s impact for good or ill, pointing to the many constraints—in capital, computing power, GPU production, electricity, and data—that will slow the pace of AI technological advancement and application.
+[59]
+Who’s right? They all might be—just not at the same time. As we collectively make our way down the AI learning curve, we’ll better understand how to mitigate the perils and exploit the promise of this important technology.
+As with the advent of every new technology, a sober approach seems advisable. The “AI-pocalypse” is not upon us, nor has AI liberated humanity from every menial and burdensome task. Nonetheless, real risks of fraud, discrimination, and other harms have emerged today, and they require a legislative response.
+We must also ensure that U.S. entrepreneurs and firms can continue to innovate without undue burdens of regulation that would never hinder our competitors or adversaries. If American innovation does not drive AI’s future, then Chinese or Russian innovation will, and authoritarian regimes will have no reason to abide by our concerns, values, or laws. Russian dictator Vladimir Putin has declared that the nation that leads in AI development will “become the ruler of the world,”
+[60]
+and Chinese leaders have determined to become the global leader in AI by 2030.
+[61]
+Much is at stake in this technological race, and overregulating American innovation in this space will not result in outcomes that appease either the AI-skeptics or AI-boosters.
+In short, Congress should take what I call a “Goldilocks” approach to regulation—not too soft, not too hard—until we’re all more clear-eyed about the costs and benefits of AI regulation. We need some guardrails on the road, without dictating how everyone drives. This approach appears largely reflected in last year’s executive orders from the Biden Administration: let’s harness AI for good, and mitigate its most immediate risks. Let’s also ensure, however, that as state legislatures contemplate some 400 separate bills to regulate AI in some way, that the federal government fills a void to avoid a patchwork of conflicting state laws that will become impossible for industry or anyone to comply with.
+A few principles seem worth heeding as we chart out the first steps of sensible AI regulation:
+Hatchetation and Regulation
+In the early 1900s, Carrie Nation became a famous activist in the temperance movement and an ardent advocate for women’s rights. Nation led many demonstrations of hymn-singing women in urban pubs, smashing rum bottles and bar fixtures with a hatchet—or what she called “hatchetations.” Police arrested her on dozens of occasions, but she happily paid her jail fines from income for her temperance lectures, and from the sale of hatchet-shaped souvenirs. Today, a bar on North Santa Cruz Avenue in Los Gatos bears her name.
+Far worse damage can be wrought by hatchets than the loss of a few bottles of whiskey, yet Congress has passed no law regulating hatchets. Instead, we have state laws against vandalism and assault with a deadly weapon. If Carrie deployed a hatchet into the rear end of a bartender, she’d be charged with a criminal offense. Using a hatchet to chop wood, however, would incur no penalty (unless the wood in question supported the pub’s roof).
+Like a hatchet, AI is merely a tool. It’s software code. Government isn’t good at regulating pieces of software code, particularly when that code utilizes cutting-edge technology.
+Many experts urge Congress to prohibit the harmful uses of AI, and to stay out of the business of regulating AI directly. As former FCC Chairman Tom Wheeler noted in a recent Brookings Institute article, “This effects-based approach can be the model for the oversight of AI writ large: focus less on the technology per se and more on what it delivers.”
+[62]
+There are good reasons to support an effects-focused approach, and to generally avoid trying to directly regulate the technology. Even if we face an onslaught of harmful risks from AI, the technology is too complex and fast-changing to be regulated well—or at all—by torpid governmental agencies. Focusing on the effects avoids the rigidity of one-size-fits-all-regulation. The use of AI to assist a radiologist, for example, poses vastly different risks than AI used in cybersecurity software protecting critical infrastructure. An outcomes-focused approach will more appropriately regulate the widely variable risks posed by different applications of AI.
+An “effects” focus also prevents Congress and federal agencies from jumping in before they understand where AI will create harm or produce benefits. As noted earlier, the many inherent constraints on generative AI’s progress—in GPU availability, electricity consumption, capital demands, and data availability—suggest that the worst prognostications about generative AI are at least a ways off. So far, generative AI and LLM’s have resembled less of a “gold rush,” and more of a “gold suck.”
+[63]
+Big Tech has invested tens of billions into massive generative AI models that, to date, have not produced any net revenue. If building, operating, and maintaining LLMs never becomes financially sustainable, the risk of a menacing AI leviathan seems less pressing.
+So, in the meantime, let’s readjust our focus to more imminent harms.
+Consumer Protection: Update the Codes
+Embracing an outcomes-focused approach does not relieve Congress of its work. In light of the Supreme Court’s recent decision in
+Loper Bright v. Raimondo
+, Congress can no longer assume that regulatory agencies will apply a statute in a manner that accommodates the latest changes in technology. The Court’s decision will put the onus on Congress to make explicit that its statutory protections for consumers apply to harms wrought by AI-enabled tools, whether in the Americans with Disabilities Act, the Fair Housing Act, the Consumer Financial Protection Act, or the many other statutes that provide legal protection for consumers and vulnerable Americans.
+With this and other challenges, Congress critically needs the guidance and insights of experts. Many have proposed the creation of an AI Task Force—consisting of an independent panel of thought leaders, AI industry, innovators, and academics—who could help advise and inform Congress’ work. It should focus, for example, on the specific revisions needed to protect patients in health care systems that will necessarily rely on AI to diagnose and deliver care, and on consumers whose data will become utilized by AI systems.
+Watermarks and Fraud
+We already see many of AI’s “use cases” for fraudsters. Generative AI has the capacity to produce text, images, voices, and other sounds that mimic human creations and reality to an utterly convincing level. Consider the use of generative AI to falsify the voice of a trusted relative to persuade an elderly mother to transfer funds out of her bank account.
+How can Congress respond? First, it can update its fraud statutes, as described in the section above. For example, Congress may need to redefine its prohibition under the “wire fraud” statute in Title 8 to ensure that it captures the broad swath of AI-enabled schemes hatched by swindlers. We need to ensure that federal statutes defining offenses and civil torts anticipate new uses of AI that might similarly cause harm. Two bills, the No AI FRAUD Act and the NO FAKES Act, would create civil liability for the intentional and fraudulent use of AI to disseminate an individual’s likeness, and appear worthy of consideration.
+Second, the AI Task Force described above could assist in the creation of basic standards for every company engaged in generative AI, which could provide a “safe harbor” for compliant companies against civil liability. The first and simplest standard: mandate the use of “watermarks” on AI-generated video, audio, images, and text, to clearly label the content as AI-generated. In recent months, we’ve seen great strides in the development of tools to identify synthetic content produced by generative AI, with Google’s SynthID and several others relying upon the competing C2PA protocol.
+[64]
+Technological questions remain as to which approach can truly imprint an “indelible” mark on AI-generated content, which I’ll leave for smarter minds than mine. At the very least, Congress can create a digital rulemaking body tasked with ensuring that generative AI companies utilize the industry standard for “watermarks” on AI-generated voices, text, video, sounds, and images.
+Deep Fakes
+In addition to mandating watermarks, Congress should simply prohibit the use of “deep fake” images that falsely depict actual people in the nude or in sexually explicit positions. We’ve seen a rash of the horrific use of “nudification” apps to falsely depict teens—particularly girls—as naked in sexual poses. The uses and culprits of such images vary, but someone is victimized in each and every instance.
+When my friend David Chiu, the San Francisco City Attorney, filed suit to try to shut down several sites, he learned through his team’s investigation that there are no fewer than 16 “nudification” sites that had been visited some 200 million times over the prior six months.
+[65]
+Every parent has reason to fear for their child.
+It requires a very creative mind to imagine what productive use any “nudification app” could have, and it takes a heroic effort to define any defensible First Amendment concern. If we struggle that much to justify the existence of an online tool that causes obvious harm, let’s stop overthinking this. Congress should ban all such apps, and prohibit the use of generative AI in this manner. Ten states, including California, already have some version of a ban in place, but the nature of the technology and its dissemination argues strongly for a nationwide ban, with uniformity in application, to create clear expectations.
+[66]
+Security
+A growing consensus has emerged about the substantial security threats of AI development, particularly the exposure of our data centers and AI company employees’ laptops to hackers. Theft of key intellectual property could give adversaries—such as China, Iran, or Russia—the capacity to rapidly catch up with American leadership in this space.
+Several leading thinkers have pointed to the theft risks of everything from software code and model weights to AI training data. Sam Altman recently urged a greater focus on export controls and foreign investment restrictions over chips, data, and code that could be used to build out AI systems abroad.
+[67]
+AI itself provides a set of solutions to that cybersecurity threat. Regardless, Congress must deem this an issue of national security, because it is: AI increasingly will become an essential tool in everything from warfare to terrorist surveillance to economic dominance.
+This should not require substantial public investment of resources; the Googles and Microsofts of the world already have ample incentive to invest in security of their own intellectual property. It may require the setting of some basic cybersecurity standards, however—based on the industry’s best practices—to ensure that early-stage companies do not take shortcuts that could imperil American advancements.
+Systemic Risks and Third-Party Testing
+Underwriter Laboratories has developed an extensive set of testing protocols and technology—across a host of different industries—to ensure the safety and efficacy of a wide range of household products and consumer services. It has also developed a brand that has grown trust among consumers and businesses.
+Here’s the problem: we lack an Underwriter Labs for AI. Many in the industry agree on the imperative to deploy testing to better understand and anticipate the behavior of large frontier AI models to mitigate the risk of spreading electoral misinformation, harmful discrimination, or threats to national security.
+[68]
+The challenge lies in implementation. Many experts believe that the current static testing technology does not tell us very much about risk in any given model on any future date. That is, testing can’t anticipate the dynamic, changing data sources that may form the basis of future performance of that model.
+[69]
+Testing protocols may also impose considerable burdens and costs that only large companies with ample resources can satisfy, thereby inhibiting innovation among nimble startups.
+In short, testing won’t tell us much. Anthropic’s website asserts that third-party testing is “necessary,” but admits that current evaluations appear “limited” in efficacy. The CEO of Cohere, Aidan Gomez, went farther, calling third-party public evaluation of AI models “broken.” The challenge appears compounded by the lack of industry consensus about what “safety risks” a test should detect.
+[70]
+For example, if LLMs rely on non-proprietary data scraped from the far reaches of the internet, the risk of spreading information shouldn’t be much greater than the dissemination of that same information via an internet search engine.
+In this realm, Congress should aim before it shoots. Creating robust testing protocols is an area ripe for public-sector evaluation and private-sector development, but it’s far too early to start imposing mandates. Well-intentioned legislation requiring third-party testing of AI, including one controversial bill currently before the California legislature, SB1047, proposed such mandates. Widely respected technologists, such as Presidential advisor and Stanford Professor Fei Fei Li,
+opposed the legislation
+, for its unintended impacts on early-stage innovation, academic research, “open-source” AI, and the public sector. Instead, major AI companies have reached voluntary agreements with the White House and other Western leaders in Germany, South Korea, and the U.K. to test their AI models for dangerous capabilities, such as dissemination of information that can produce nuclear or biological weapons.
+Congress would do well to avoid–and, through federal preemption, preclude– testing mandates like those articulated in SB1047 until the technology has matured. Where testing actually accomplishes the desired goal– and it can do so without creating unnecessary barriers to innovation–it’s worth reconsidering such regulation.
+In the meantime, we must convene leading thought leaders—academics, practitioners, industry experts, and ethicists—to focus on crafting clear protocols for effective third-party testing for frontier AI systems. If efficacy can be clearly established, then a sensible testing protocol might take one of two forms: establishing standards that a set of private sector testing labs might meet to certify appropriate self-governance, or the creation of a single industry-wide association that performs testing and certification. The risks probed should include all of those identified in the White House’s Blueprint for an AI Bill of Rights, such as privacy, algorithmic discrimination, security risks, dissemination of harmful material, and the like.
+[71]
+Copyright and Creators’ Rights
+To many news outlets, writers, filmmakers, songwriters, and visual artists, AI poses a serious risk of eliminating their primary sources of income. As the recent New York Times litigation against Microsoft and OpenAI revealed, some LLM queries produced near-verbatim accounts of current events from the Times front page, essentially obtaining a “free ride on the backs of the Times’ massive investment in journalism.”
+[72]
+Copyright law has long protected the right of creators to protect their intellectual and creative property, particularly where their livelihood depends upon it.
+Yet another, important competing principle lies at stake: the free expression of ideas in a democratic society. U.S. copyright law articulates and advances this principle in the form of the “fair use” doctrine, which has long enabled libraries, newspapers, university researchers, and search engines to publicly disseminate creative content without a license. Section 107 of the Copyright Act sets out a four-part standard to evaluate the propriety of “fair use,” including such factors as whether the content is used for commercial or education purposes, and the creative nature of the work. Thousands of courts have since interpreted and applied the doctrine in lawsuits alleging copyright infringement.
+How should Congress resolve these competing principles? One response could be, “let the courts figure it out, based on their interpretation of existing U.S. copyright law.” Yet it’s obvious that the drafters of that law never anticipated the complex realities posed by AI, and it will take appellate courts years to resolve the complex, novel issues presented by the New York Times lawsuit and similar litigation. Judicial decisions rarely provide the clear, consistent, or timely guidance that innovators, creators, and businesses need today to understand their rights and to do their work.
+If Congress is going to act, it would be helpful to divide the playing field in this complex areas to three parts: (1) the creation of unauthorized digital replicas to intentionally mimic a person’s voice, image, or likeness; (2) the “inputs,” or use of content for “feedstock” for an AI mode; and (3) the “outputs,” production of content that closely resembles an author or artist’s work.
+We can dispense of the first issue quickly: as I’ve noted above, Congress must act to require “watermarks” or other clear indications where a voice or likeness is AI-generated, to provide transparency. Civil liability should deter the conduct and mitigate that many risks that digital mimicry can pose, such as fraud, libel, public embarrassment, political manipulation, blackmail, and even sexual assault. The U.S. Copyright Office has extensively studied the issue, and issued specific recommendations for congressional action.
+[73]
+Drawing clear lines would provide widespread benefits.
+In contrast, the use of images or text as AI model “feedstock” seems much less worthy of regulation. There’s likely no infringement under current copyright law because “feeding” an AI model doesn’t reproduce or distribute that content to the public, any more than a student reading a book does so. As one Harvard law professor observed, “copyright protects expressions, but it doesn’t protect ideas.”
+[74]
+AI model training merely extracts unprotectable ideas and patterns from data, so the mere use of the data shouldn’t violate the law, nor any principles associated with copyright law.
+[75]
+Moreover, private markets can solve a substantial portion of this problem without governmental intervention. To mitigate the risk of incurring lawsuits, some generative AI models have focused strictly on licensed material. Piscart, for example, has sought to deploy an image generator using only photographs owned by Getty, seeking to appeal to a clientele of small and medium-sized businesses who want to produce images without risk of litigation.
+[76]
+Less careful companies can roll the dice and find themselves in court. Authors and other creators might also constrain the efforts of some AI models to scrape their creations by imposing paywalls, or by inserting code to block the CCbot and other scraping software. Regardless, imposing legal constraints on the use of content for data scraping will undermine AI as a technology, and place American innovators at a severe disadvantage to those from other nations.
+The most difficult and complex area of legislation—and likely, of litigation—will arise where AI “creations” closely, if not precisely, resemble what an artist or author has created, such as with the New York Times lawsuit. Private participants in the market have begun to negotiate clearer paths to steer away from litigation risk. For example, Netflix and other major studios negotiated performer service agreements as part of their 2023 contracts with the writers’ and screen actors’ guilds to ensure that they receive compensation for the use of their likenesses and work in AI-generated content.
+[77]
+If courts fail to provide sufficient guidance to incentivize AI companies to modify algorithms to avoid blatant copying and reproductions, then Congress may need to take a closer look. For now, it’s too early to urge Congress to jump in.
+A Jobs Crisis? The Lessons of King Canute
+My maternal ancestors, the Aceves family, emigrated from Mexico to work in the Almaden mines in South San Jose more than a century ago. My great-grandfather, Teodoro Aceves, created a device to improve safety for himself and other miners in Almaden, and when he was able to earn enough to escape dangerous mine work, he worked as a repairman for the street railway in downtown San Jose. The march of time and technology eliminated the mines, the railway, and those jobs. My grandfather, Ted Aceves, repaired and maintained gas water boilers in local hospitals and factories. His job no longer exists. One of his sons, my Uncle Bill, was the first in the family to graduate from college, and he became an engineer, designing rockets at Lockheed. (Lacking any inherited aptitude in this regard, I found myself relegated to the refuge for those lacking more useful skills: law school.)
+I have often heard the question posed, “will AI destroy jobs?” The answer is absolutely, yes. Will AI create jobs? Absolutely, yes. The same can be said of every technological advancement, from the printing press to the telegraph to the internet.
+The most accurate prediction, in my view, has emerged as something of an increasingly familiar dictum: “AI won’t take your job, but somebody trained in AI will.” Last year, more than 130,000 AI-enabled jobs were posted by employers, but remained unfilled.
+[78]
+Humans will be required for everything from training to overseeing AI models, to nimbly implementing AI-enabled tasks. Expanding AI will require the construction of an extraordinary amount of capacity expansion of our electric grid and data centers. Many more jobs will be created, and we have a lot of work to do to get people trained and ready to fill those jobs.
+How can we protect jobs likely to be made obsolete by AI? We can’t. Like the 11th century monarch, King Canute, Congress cannot simply order the rising sea of technological progress to recede. Even if U.S. laws deter AI development in one worrisome area, we can be certain that it will have no effect on Chinese or Russian exploration of the same space.
+Our task ahead lies not in ordering back the sea, but helping more of our fellow island inhabitants to build better boats. We must enable skill-building for the millions of workers whose livelihoods may be disrupted—everyone from truck drivers to paralegals. The good news, as prominent educators like Sal Khan have explained, is that AI can also enable millions of people to upskill in ways that can boost their careers and earning capacity—particularly through personalized, self-paced learning and more accurate certification of skill acquisition. We need a Congress ready to double-down—with funding, tax incentives, and other means—on the good work already being done within community colleges and private sector companies to train a workforce for tomorrow. I’ve discussed some of these ideas in the section on post-secondary education.
+You can read more here.
+AI Industry Concentration and Control—and Licensing
+My inclination to restrain Congress from regulating AI directly comes with some caveats. First, a need will arise for public sector investment in AI to ensure the regulatory framework keeps pace with private-sector development. Dr. Fei-Fei Li, often called the “Godmother of AI,” and other advocates have advocated for the Biden Administration to devote resources for this purpose.
+[79]
+Second, there appear to be well-founded concerns that the massive resources required to develop AI models— GPUs, energy and data center access—will preclude the innovation that otherwise comes from smaller, nimbler companies. Reducing barriers to innovation from less resourced start-ups may require public investment in distributed computing power, such as through our land-grant universities, to broaden access.
+Third, Congress must resist efforts to deploy regulatory approaches—such as licensing—that will have the effect of providing the inside track to Big Tech against smaller competitors. Several industry leaders—at Microsoft and OpenAI, for example—have urged the creation of a federal digital regulator that would “license” specific applications of generative AI that meet specific criteria. Smaller entrepreneurs and VC investors tend to disagree. Licensing regimes can operate as the moat to protect major industry players, and bureaucratic processes for licensing and approving specific technologies lift the drawbridge against competition. (
+Brookings article
+)
+Hopeful signs emerge from the private sector, where, for example, Meta has put all of its eggs in an “open-source basket for AI development, which could overcome the proprietary domain-staking that we see with many of the most advanced versions of AI.
+[80]
+Congress should ensure that the future development of AI technology can democratize opportunity, rather than concretize advantage.
+DEFENSE PROCUREMENT: GETTING BETTER TECHNOLOGY FOR LESS MONEY
+Spending on our national defense often draws strong partisan reactions, but most Americans can agree about a couple of notions. First, our world has grown much more perilous in recent years, with the threats increasingly complex. Second, we spend far more on defense than on any non-entitlement spending in the federal budget, and taxpayers may not always be getting their money’s worth.
+Identifying inefficiencies should enable us to refocus dollars on other critical priorities—such as investing in infrastructure, housing the homeless, or reducing the deficit. More than one-quarter of the U.S. defense budget is spent on procurement ($142 billion) and research and development ($122 billion) of weapons systems.
+[81]
+Whether we aim to strengthen our national defense or simply to save money, we would do well to focus on procurement reform. In the words of notorious criminal Willie Sutton–when asked why he robbed banks–“that’s where the money is.”
+Evolving Weapons of War—And How We Procure Them
+Peter Dixon is a thoughtful, amiable resident of Portola Valley who has served our country as a Marine on tours in Afghanistan and Iraq. He continued his service in leadership roles with the Defense and State Departments during the Obama Administration, after which he started a software company that contracts with the Department of Defense. His experience as a founder and adviser to others has left him with the conviction that the Pentagon’s procurement approach is broken. When he ran for Congress in this district, he spoke eloquently about the imperative to change a system that provides our uniformed women and men with inferior technology, at a bloated cost, and with excessive delay.
+I’ve been hearing similarly from virtually every corner of Silicon Valley. The Department of Defense has a formulaic, multi-year approach to procuring warships, tanks, submarines, and planes. When the same approach is applied to procuring advanced technologies, it fails our fighting women and men. The technology of war has evolved; focusing our procurement strategy exclusively around building massive, multi-billion dollar projects has become increasingly outdated.
+Take battlefield missile platforms. The U.S. spent about $2 million per missile to strike down $2,000 Iranian-made drones to defend its ships in the Red Sea against Houthi attacks.
+[82]
+The same cheap Iranian drones were deployed by Russians to halt Ukranians using U.S.-made M1 Abrams tanks; the latter cost some
+$10 million
+to U.S. taxpayers. While the U.S. endeavors to get its own fleet of AI-enabled drones to the manufacturing lines by 2025 through what is known as the Replicator Initiative, the Ukrainian army responds to the Russians by buying commercially popular, Chinese-manufactured Mavic quadcopters off-the-shelf and modifying them for battlefield use.
+[83]
+Warfare today and in the future will likely be won by more nimble advanced technologies than the ships and tanks of wars past—in artificial intelligence, communications-jammers, cybersecurity software, robotics, satellite-based communications, nanotechnology, data mining, and the like. Many of those technologies can be better acquired “off the shelf” from the commercial market—and if necessary, adapted to a military mission—than through any government procurement.
+Why? Simply, the largest five defense contractors that dominate the industry and secure three-quarters of the largest weapon contracts—often referred to as prime contractors or “primes”—aren’t tech companies.
+[84]
+They excel at meeting detailed specifications and mastering complex engineering and manufacturing processes. They don’t excel at innovation. Innovation in our economy emerges from nimble, risk-taking start-ups and highly specialized medium-sized companies with deep expertise and a risk-taking predisposition. Nonetheless, the Pentagon’s favored “primes”—predominantly Lockheed, General Dynamics, Boeing, RTX (formerly Raytheon), and Northrup Grunman—dominate bidding battles for technology procurement, despite the fact that none of these companies specialize in software, AI, or other tech tools for commercial application.
+Speed and Cost:
+“
+Four or Five X”
+The current approach doesn’t meet the military’s need for speed—or what Defense Secretary Mattis has called “the speed of relevance.” Security threats are evolving faster than ever before. In 2018, Defense Undersecretary for Research and Engineering Mike Griffin observed that, on average, it takes the U.S. sixteen years to deliver an idea to operational capability, compared to under seven years in China.
+[85]
+Even under our torpid delivery schedules, the primes still struggle mightily to meet procurement deadlines for delivery. Research and development declined as a priority—and in absolute terms of spending—in the first two decades of this century, further undermining the Pentagon’s ability to keep pace.
+[86]
+The prime-dominated procurement model also costs taxpayers too much. The small number of contractors often means that bidding lacks robust competition; nearly two-thirds of major weapons systems contracts have a single bidder. The primes operate in a world of cost-plus contracts, rather than taking risks on their own budgets (or those of their VCs), as Silicon Valley companies do. Complying with the Pentagon’s process complexity, duration, and paperwork brings extraordinary expense. Procurement criteria reward defense contractors for superhuman feats of regulatory compliance, but not for the actual performance of their product or service.
+At a recent gathering in Monte Sereno, I met an immigrant CEO of a small company that leverages AI to create a software tool for dual use (both military and civilian applications). I asked him about his experience in engaging with the Department of Defense on procurement.
+“Oh, we don’t deal with the Department of Defense,” he said. “We couldn’t possibly hire enough staff to do that. We just sell the technology to a prime contractor, and then let them deal with the federal procurement process.”
+“Well,” I pressed, ”what kind of markup do they sell your software to the Department of Defense for?”
+“Oh, four or five.”
+“Four or five percent?” I asked.
+He smiled. “No—
+four or five X
+.”
+I was incredulous. “Why the hell are you letting Raytheon sell
+your
+$10 software for $50? Why not just sell it yourself to the Department of Defense for more?
+“Because they handle the procurement process—not us. A small company like ours can’t possibly navigate all of the paperwork, attorneys, and hoops without adding a lot of staff, and we’re already struggling to hire.”
+I’ve heard similar accounts throughout the Valley about the barriers posed by the Department of Defense to early-stage innovators. Eliminating those barriers in some cases requires simply buying commercially-available technology and adapting it to military use, rather than engaging in costly, sclerotic procurement processes. In other cases, it requires a different kind of procurement system. It requires a system that supports contractors who can “fail fast”—developing new ideas, testing them, collecting feedback, incorporating data-driven improvements, and nimbly iterating. That’s not the standard procurement process at the Department of Defense.
+All of these factors, and others, result in an excessive reliance by the Pentagon on prime contractors for technological innovation that leaves our military weaker, and our taxpayers poorer. The narrow approach also undermines efforts to achieve resilience in the military supply chain. Finally, it excludes smaller firms that tend to provide more diversity of ownership and talent to a government badly in need of new thinking and risk tolerance.
+[87]
+The Defense Innovation Unit
+In recent years, we have seen an awakening to these realities at the Pentagon. Under the Obama Administration, Defense Secretary Ash Carter launched an experimental iteration of what is today the Defense Innovation Unit (DIU), which focuses on developing advanced technologies and scaling them across the Department of Defense at the speed of the private sector. The DIU focused on eliminating the many barriers that smaller tech companies experienced in contracting with the Pentagon, to widen the net of technology innovators bidding for Defense contracts.
+Secretary Lloyd Austin has since elevated the DIU in stature and importance, and under former Apple executive Doug Beck, the DIU has increasingly received positive reviews from private sector partners in Silicon Valley. There have been some improvements already. Defense agencies are increasingly hearing a “buy before you build” guidance.
+Two decades before, the CIA launched a stand-alone, non-profit entity, In-Q-Tel, to enable a more adaptable approach to culling and investing in the innovation of smaller tech companies to provide advanced technologies for national security needs. It acts more like a conventional VC firm than the DIU, though they often invest in the same technology areas. Combined with Defense Advanced Research Projects Agency’s (DARPA) longstanding efforts to seed-fund basic scientific research, an exoskeleton of a more robust and nimble innovation infrastructure is emerging to spur research and development efforts in industry and academia to support our national defense.
+But the biggest driver in outcomes, by far, is procurement, and the nation’s most innovative companies continue to face big obstacles in winning Pentagon contracts. Part of the problem lies in the lack of the DIU’s relatively diminutive capacity; former DIU chief Raj Shah called the DIU’s budget a “rounding error” compared to the traditional defense industrial base.
+[88]
+Its impact remains limited accordingly. Venture-backed startups won only 1% of the Defense Department’s $410 billion in procurement contracts last year. As Seth Winterroth, a partner at Eclipse Ventures, told the
+Wall Street Journal
+this year, “[The Pentagon] isn’t a place where the best technology wins. Often it is a good product married with the ability to navigate government.”
+[89]
+Congress’ Role, and the Next Steps
+Congress plays a pivotal role in procurement, using statutory mandates to realign funding strategies. In particular, Congress approves appropriations each year, and imposes conditions in those appropriations bills that can profoundly influence resource allocation, procurement protocols, and the behavior of the entire defense industrial base.
+There are a few basic principles that I hear repeatedly in the Valley that can both save billions of taxpayer dollars, and better provide our women and men with the superior technology they need:
+Retire Obsolete Systems, and Refocus on the Future
+: The DIU fails to have its full desired impact on military technological prowess because it remains relatively under-resourced compared to the massive procurement budgets for legacy (and often outdated) weapons systems. Even where the Pentagon recommends the phase-out of obsolete weapons systems, Congress refuses to retire them. For example, former Defense Undersecretary Peter Levine blames congressional appropriators for clinging to such political favorites as “the A-10 attack aircraft, AWACS and JSTARS command-and-control aircraft, F-18 fighter aircraft, Global Hawk unmanned aerial vehicles, and U-2 reconnaissance aircraft, [while adding] funding for legacy ships and airplanes.”
+[90]
+In a zero-sum budgetary world, it becomes impossible to say “yes” to any priorities until we adopt the discipline to say “no” to pet projects and lobbyist-driven spending.
+How to do so? Adopt the approach of the Base Realignment and Closure Commission in the 1990’s, which successfully saved the Defense Department
+$57 billion
+over two decades. The Defense Department presents a list of what it
+doesn’t
+need, and its list of what it
+does
+need with the same dollars – and Congress must vote “up-or-down” on the entire package. No new cuts, no new spending.
+Let the Private Sector Assume the Risk
+: In virtually every other industry in the U.S., companies do not get paid until they deliver a finished product. The company—not the taxpayers—assumes the financial burden and risk of their own research and development. We should ensure procurements reward companies that take on their own risk and development costs, rather than having taxpayers foot the bill directly for company research, and deploying “cost-plus” reward overspending.
+Buy “Off the Shelf”:
+Ukraine’s resourcefulness in drone acquisition is instructive. In contrast to the government-driven investment and first adoption of the past century, most innovation today now occurs in the private sector, focused on commercial markets.
+[91]
+Some of the many products and services our military needs—particularly software and many IT tools—can be more nimbly and affordably found on the commercial market, rather than through Department of Defense specifications and procurement.
+[92]
+One outgoing DIU chief illustrated that it takes 9 to 26 years for the Pentagon to procure a new weapons system, but it can take 1 to 2 years to acquire the same capability commercially.
+[93]
+In such areas as in commercial space and quantum computing, where the private sector has been outspending the Department of Defense, “piggybacking” on commercial advancements seems optimal. While far from a panacea for all that ails the Pentagon’s procurement shortfalls, a greater focus on “buy before you build” will pay dividends.
+Software Is Still King:
+Whether commercial (think smartphones and Teslas) or military (think AI-enabled drone swarms and networked weapons systems), companies increasingly pour their research and development dollars into software over hardware. Like Tesla, companies are providing hardware once, but updating software routinely, and remotely. Manufacturers can enable upgrades in performance throughout the useful life of the product. Without a software update, the hardware quickly becomes obsolete, and hardware must be optimized for future software upgrades. That means that some prime contracts should be awarded to software companies that solicit hardware subcontractors—the very opposite of the current model.
+Build to the Mission, Not the Spec:
+Lengthy procurement cycles and extensive specifications have delivered the ships and tanks of the past, but prioritize proposals over performance. Instead, the Pentagon should follow the lead of the DIU and host competitions that test vendors’ competing abilities to solve problems and deploy technology, with frequent competition against current contractors to force them to sharpen their saw. Performance needs to be elevated over process in procurement.
+Align Procurement with Innovation
+: We must identify where legislation can expand incentives and remove obstacles for innovative companies to participate in national security innovation.
+[94]
+That starts with making the Pentagon’s approach more flexible, with greater tolerance for risk, and with greater accommodation the iterative R&D process that ultimately enables deployment of any successful technology.
+We have much work to do to enable a more technologically advanced Defense Department, and to shift from bloated, “too-big-to fail” weapons systems to more nimble advanced technologies. We must get to work now: for our fighting women and men, and for our future generations who bear the burden of our excessive spending.
+Anderson, Stuart. “
+55% Of America’s Billion-Dollar Startups Have An Immigrant Founder
+.”
+Foster LLP
+, Oct. 2018.
+↑
+Doerr, John, and Ted Schlein. “
+America Risks Being ‘Too Timid to Fail
+.’”
+Fortune
+, 31 Oct. 2012.
+↑
+Esterline, Cecilia “
+Previously unreported data: the U.S. lost 45,000 college grads to Canada’s high-skill visa from 2017 to 2021
+.” Niskanen Center, 14 Mar. 2023.
+↑
+Pasricha, Anjana. “
+In India, Young Graduates Struggle to Get Jobs
+.”
+VOA
+, 17 Jan. 2024.
+↑
+“
+The Global AI Talent Tracker 2.0
+.”
+MacroPolo
+. Accessed June 12, 2024; Ma, Yingyi. “
+US security and immigration policies threaten its AI leadership
+.”
+Brookings Institution
+, 4 Apr. 2024.
+↑
+Id.
+↑
+Jones, Benjamin F. “
+Immigrants to the U.S. Create More Jobs than They Take
+.”
+Kellogg Insight
+, 5 Oct. 2020.
+↑
+Glennon, Britta. “
+How High-skilled Immigration Creates Jobs and Drives Innovation
+.”
+Knowledge at Wharton
+, 21 May 2024.
+↑
+Athanasia, Gabrielle, and Jillian Cota. “
+The U.S. Should Strengthen STEM Education to Remain Globally Competitive
+.”
+Center for Strategic and International Studies
+, 1 Apr. 2022.
+↑
+Kim, Tae. “
+The Chips Act’s Big Problem
+.”
+Barrons
+, 20 July 2023.
+↑
+Zhou, Viola. “
+TSMC’s debacle in the American desert.
+”
+Rest of World
+, 23 Apr. 2024.
+↑
+“
+U.S. Employment-Based Immigration Policy
+.”
+Congressional Research Service
+, 21 July 2022.
+↑
+Anderson, Stuart. “
+Immigration Service Likely To Change H-1B Visa Lottery
+.”
+Forbes
+, 1 May 2023.
+↑
+“
+Bill Analysis: Immigration Visa Efficiency and Security Act of 2023
+.”
+National Immigration Forum
+, 31 May 2024.
+↑
+Watson, Tara. “
+How immigration reforms could bolster Social Security and Medicare solvency and address direct care workforce issues
+.”
+Brookings Institution
+, 16 Apr. 2024.
+↑
+Felbab-Brown, Vanda, and Fred Dews. “
+The US-Mexico border challenge
+.”
+Brookings Institution
+, 9 Nov. 2023.
+↑
+Ainsley, Julia. “
+Number of people on terrorist watchlist stopped at southern U.S. border has risen
+.”
+NBC News
+, 14 Sept. 2023.
+↑
+Kamarck, Elaine. “
+Fixing the border: Four reasons the immigration crisis isn’t going away
+.”
+Brookings Institution
+, 29 Feb. 2024.
+↑
+Rose, Joel. “
+Who is sneaking fentanyl across the southern border? Hint: It’s not the migrants
+.”
+KQED
+, 9 Aug. 2023.
+↑
+Felbab-Brown and Dews,
+supra
+.
+↑
+Kamarck, Elaine. “
+Fixing the border: Four reasons the immigration crisis isn’t going away
+.”
+Brookings Institution
+, 29 Feb. 2024.
+↑
+Hesson, Ted, and Raul Cortes. “
+US, Mexico to clamp down on illegal immigration, leaders say
+.”
+Reuters
+, 29 Apr. 2024.
+↑
+“
+Job Openings: Total Nonfarm
+.”
+Federal Reserve Bank of St. Louis
+. Accessed 26 Aug. 2024.
+↑
+Moslimani, Mohamad, and Jeffrey S. Passel. “
+What the data says about immigrants in the U.S.
+”
+Pew Research Center
+, 22 July 2024.
+↑
+Kiernan, Paul, and Anthony DeBarros. “
+Economists Say Inflation Would Be Worse Under Trump Than Biden
+.”
+Wall Street Journal
+, 11 July 2024.
+↑
+“
+Survey: Nursing Homes Still Facing Staffing & Economic Crisis
+.”
+American Health Care Association
+, 6 June 2022.
+↑
+Miller, Mark. “
+The future of U.S. caregiving: High demand, scarce workers
+.”
+Reuters
+, 3 Aug, 2017.
+↑
+Watson,
+supra
+.
+↑
+Querolo, Nic. “
+Undocumented Immigrants in US Pay Nearly $100 Billion in Taxes
+.”
+Bloomberg
+, 29 July 2024.
+↑
+“
+2023 OASDI Trustees Report
+.”
+Social Security Administration
+. Accessed 26 Aug. 2024.
+↑
+“
+Green Light to Growth: The Economic Benefits of Clearing Green Card Backlogs
+.”
+Bipartisan Policy Center
+, Nov. 2023.
+↑
+Querolo,
+supra
+.
+↑
+Id.
+↑
+Watson,
+supra
+.
+↑
+“
+Visa Bulletin For January 2024
+.”
+U.S. Department of State Bureau of Consular Affairs
+, Jan. 2024.
+↑
+“
+NEW POLL: Overwhelming Majority of U.S. Voters Across Political Spectrum Support Legislation for Dreamers Paired with Border Security
+.”
+FWD.us
+, 27 Oct. 2022.
+↑
+Sherman, Justin, et al. “
+Data Brokers and the Sale of Data on U.S. Military Personnel
+.”
+Duke Sanford School of Public Policy
+, Nov. 2023.
+↑
+Hill, Kashmir. “
+Automakers Are Sharing Consumers’ Driving Behavior With Insurance Companies
+.”
+The New York Times
+, 13 Mar. 2024.
+↑
+Chasan, Aliza. “
+Settlement reached after fertility app Premom shared user health data with third parties, FTC says
+.”
+CBS News
+, 17 May 2023.
+↑
+Schwartz, Matt. “
+California took a major step to boost privacy laws and crackdown on data brokers
+.”
+CalMatters
+, 27 Oct. 2023.
+↑
+“
+Committee Chairs Rodgers, Cantwell Unveil Historic Draft Comprehensive Data Privacy Legislation
+.”
+Energy and Commerce Committee
+, 7 Apr. 2024.
+↑
+There were two modest amendments to Section 230 in 1998 one relating to prosecutions for sex trafficking, and another to require platforms to notify customers of parental control measures. The statute is otherwise unchanged in its relevant provisions.
+↑
+“
+How apps exploit a loophole in children’s privacy law
+.”
+Washington Post
+, 9 June 2022.
+↑
+Blackstone, Tom. “
+2024 Cryptocurrency Adoption and Sentiment Report
+.”
+Security.org
+, 10 June 2024.
+↑
+“
+Stablecoins vs bitcoin: The 3 major differences explained
+.”
+BVNK
+, 22 Mar. 2024.
+↑
+“
+Securities
+.”
+Blockchain Association
+. Accessed 26 Aug. 2024.
+↑
+“
+Corporate Income Tax: Effective Rates Before and After 2017 Law Change
+.”
+U.S. Government Accountability Office
+, 13 Jan. 2023.
+↑
+Boeing, Philipp, et al. “
+The impact of China’s R&D subsidies on R&D investment, technological upgrading and economic growth.
+”
+Technological Forecasting and Social Change
+, vol. 174, Jan. 2022.
+↑
+Muresianu, Alex, and Garrett Watson. “
+Reviewing the Federal Tax Treatment of Research & Development Expenses
+.”
+Tax Foundation
+, Apr. 2021.
+↑
+Muresianu, Alex. “
+U.S. Must Fix R&D Treatment to Compete with China
+.”
+Tax Foundation
+, 6 Mar. 2024.
+↑
+Vigliarolo, Brandon. “
+US tech innovation dreams soured by changed R&D tax laws
+.”
+The Register
+, 12 Jan. 2024.
+↑
+Watson, Garrett. “
+Delaying R&D Amortization Generates Short-Term Revenue but No Long-Term Economic Benefit
+.”
+Tax Foundation
+, 20 May 2022.
+↑
+“
+Increase the Corporate Income Tax Rate by 1 Percentage Point
+.”
+Congressional Budget Office
+, 7 Dec. 2022.
+↑
+Moore, Thomas, et al. “
+Estimated Costs of Pivotal Trials for Novel Therapeutic Agents Approved by the US Food and Drug Administration, 2015-2016
+.”
+JAMA Internal Medicine
+, vol. 178, no. 11, Nov. 2018.
+↑
+Wu, Gwendolyn. “
+As biotech recovers, venture firms’ preferences appear to shift.
+”
+Biopharma Dive
+, 6 June 2024.
+↑
+Griffith, Erin, and Cade Metz. “
+The New A.I. Deal: Buy Everything but the Company
+.”
+The New York Times
+, 8 Aug. 2024.
+↑
+“
+FTC Sues Amazon for Illegally Maintaining Monopoly Power
+.”
+Federal Trade Commission
+, 26 Sept. 2023.
+↑
+Gilbert, Daniel. “
+FTC, Amgen reach deal to allow $28 billion pharmaceutical merger
+.”
+Washington Post
+, 1 Sept. 2023.
+↑
+Ribeiro, Goncalo. “
+Understanding The Limitations Of Generative AI
+.”
+Forbes
+, 9 May 2024.
+↑
+Vincent, James. “
+Putin says the nation that leads in AI ‘will be the ruler of the world
+.”
+The Verge
+, 4 Sept. 2017.
+↑
+Kharpal, Arjun. “
+China wants to be a $150 billion world leader in AI in less than 15 years
+.”
+CNBC
+, 21 July 2017.
+↑
+Wheeler, Tom. “
+The three challenges of AI regulation
+.”
+Brookings Institution
+, 15 June 2023.
+↑
+Wong, Matteo. “
+Silicon Valley’s Trillion-Dollar Leap of Faith
+.”
+The Atlantic
+, 29 July 2024.
+↑
+Shakir, Umar. “
+Google’s invisible AI watermark will help identify generative text and video
+.”
+The Verge
+, 14 May 2024.
+↑
+Knight, Heather. “
+San Francisco Moves to Lead Fight Against Deepfake Nudes
+.”
+The New York Times
+, 15 Aug. 2024.
+↑
+Davis Jr., Ellis. “
+These States Have Banned the Type of Deepfakes That Targeted Taylor Swift
+.”
+U.S. News
+, 30 Jan. 2024.
+↑
+Altman, Sam. “
+Who will control the future of AI?
+”
+Washington Post
+, 25 July 2024.
+↑
+Ellison, Sarah, and Amy Gardner. “
+Secretaries of state urge Musk to fix AI chatbot spreading false election info
+.”
+Washington Post
+, 4 Aug. 2024.
+↑
+“
+AI in Third-Party Risk: Benefits and Challenges
+.”
+Certa
+. Accessed 26 Aug. 2024.
+↑
+Ghaffary, Shirin. “
+This Startup Is Trying to Test How Well AI Models Actually Work
+.”
+Bloomberg
+, 11 Apr. 2024.
+↑
+“
+Blueprint for an AI Bill of Rights
+.”
+White House
+. Accessed 26 Aug. 2024.
+↑
+Grynbaum, Michael, and Ryan Mac. “
+The Times Sues OpenAI and Microsoft Over A.I. Use of Copyrighted Work
+.”
+The
+New York Times
+, 27 Dec. 2023.
+↑
+“
+Copyright and Artificial Intelligence
+.”
+U.S. Copyright Office
+, July 2024.
+↑
+Reed, Rachel. “
+ChatNYT
+.”
+Harvard Law Today
+, 22 Mar. 2024.
+↑
+Quang, Jenny. “
+Does Training AI Violate Copyright Law?
+”
+Berkeley Technology Law Journal
+, vol. 36, no. 4, 2021.
+↑
+Grant, Nico, and Cade Metz. “
+The Push to Develop Generative A.I. Without All the Lawsuits
+.” 19 July 2024.
+↑
+“
+2023 Memorandum of Agreement Between the Screen Actors Guild-American Federation of Television and Radio Artists and the Alliance of Motion Picture and Television Producers
+.”
+SAG-AFTRA
+, 6 Dec. 2023.
+↑
+Rama, Gladys. “
+AI Displacing Entry-Level IT Jobs, per Report
+.”
+Redmond
+, 12 Oct. 2023.
+↑
+Li, Fei-Fei. “
+Dr. Fei-Fei Li, the ‘Godmother’ of AI, Talks Regulation
+.”
+Bloomberg Technology
+, Oct. 2023.
+↑
+Zuckerberg, Mark. “
+Open Source AI Is the Path Forward
+.”
+Meta
+, 23 July 2024.
+↑
+“
+Budget Basics: National Defense
+.”
+Peterson Foundation
+, 2 May 2024.
+↑
+“
+A $2M missile vs. a $2,000 drone: Pentagon worried over cost of Houthi attacks
+.”
+Politico
+, 19 Dec. 2023.
+↑
+Keating, Joshua. “
+Why the Pentagon wants to build thousands of easily replaceable, AI-enabled drones
+.”
+Vox
+, 22 Mar. 2022.
+↑
+“
+The U.S. Defense Industrial Base: Background and Issues for Congress
+.”
+Congressional Research Service
+, 12 Oct. 2023.
+↑
+Keating,
+supra
+.
+↑
+Lewis, James Andrew. “
+Linking National Security and Innovation: Part 1
+.”
+Center for Strategic and International Studies
+, Apr. 2021.
+↑
+“
+Fact Sheet: Biden-Harris Administration Announces Reforms to Increase Equity and Level the Playing Field for Underserved Small Business Owners
+.”
+The White House
+, 1 Dec. 2021.
+↑
+Lewis,
+supra
+.
+↑
+Somerville, Heather. “
+Investors Are Betting on Defense Startups. The Pentagon Isn’t
+.”
+The Wall Street Journal
+, 25 Jan. 2024.
+↑
+Levine, Peter. “
+If You Want More Defense Innovation, Spend Less on Legacy Platforms
+.”
+War on the Rocks
+, Aug. 2018.
+↑
+Lewis,
+supra
+.
+↑
+“
+SVDG and Leading Technology Companies urge Biden Administration to Embrace Commercial Software
+.”
+Silicon Valley Defense Group
+. Accessed 26 Aug. 2024.
+↑
+Albon, Courtney. “
+Pentagon must rethink incentives, outgoing DIU chief says
+.”
+Defense News
+, 8 Sept. 2022.
+↑
+Lewis,
+supra
+.
+↑
+BECOME PART OF THE CAMPAIGN - VOLUNTEER
+Facebook
+Linkedin
+Instagram
+EMAIL: info@samliccardo.com
+913 Willow St #103, San Jose, CA 95125
+Privacy
+Media
+Paid for by Liccardo for Congress
+This site is protected by reCAPTCHA and the Google
+Privacy Policy
+and
+Terms of Service
+apply.

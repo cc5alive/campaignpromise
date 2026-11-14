@@ -1,0 +1,757 @@
+High Cost of Living - Sam Liccardo for Congress
+Skip to content
+Donate
+Menu
+Envelope
+Facebook
+Linkedin
+Instagram
+Donate
+Menu
+Read Sam's book
+Jump to Section
+Housing Affordability
+Cost of Living
+Homelessness
+Crime
+Environment and Climate
+Reproductive Rights
+Defending Democracy
+Education
+Innovation and Workforce
+The High Cost of Living
+Our traditional economic indicators like the unemployment rate and GDP growth tell a very different story about the economy than how Americans feel.
+[1]
+People continue to express frustration despite historically high levels of wage growth, employment, and economic output.
+Of course, it’s the very high cost of living which weighs most on Americans’ moods. The tide of inflation may have receded from its highwater mark a year ago, but the rising sea of bills has done its damage. Inflation-adjusted wages grew in 2023,
+[2]
+but the lasting impact of recent years’ inflation has hit families hard.
+[3]
+Prices of some of the more volatile commodities have fallen back to earth, but many Bay Area residents continue to struggle mightily against utility bills, home insurance, grocery bills, health care bills, and child care costs.
+In this section, I’ll be discussing how Congress can proactively reduce the high cost of living in the Bay Area and across the country. Here are a few of my ideas, and I welcome yours. This list is hardly comprehensive, but these ideas fit into five general categories:
+Our Utility Bills
+Our Home Insurance
+Our Food and Groceries
+Our Medicine and Health Insurance
+Our Child Care
+1. Reducing Utility Bills by Going Green
+Skyrocketing utility bills have left too many Bay Area residents struggling to keep the lights on, and electricity and gas bills will exceed an average of $300 per household this year.
+[4]
+These cost increases, which we incur at a rate more than double the national average, have little to do with the cost of producing energy.
+[5]
+In fact, technology has made solar and wind-generated electricity cheaper than ever.
+[6]
+Rather, rising bills have everything to do with the cost of maintaining, hardening, replacing, and expanding the infrastructure required to deliver that energy. This infrastructure, “the grid,” is the world’s largest machine. It’s also the most important machine in most climate strategies because we cannot get off fossil fuels without electrifying our transportation, buildings, and economy.
+As Mayor, we launched San José Clean Energy to procure cleaner, less expensive power than PG&E for our one million residents and tens of thousands of businesses. We have succeeded so far, beating the utility’s rates with electricity that comes from 95% greenhouse gas-free sources. That’s good, but it doesn’t shield any of our residents from the skyrocketing costs of transmission and distribution that we all see in our monthly bills. I’ve repeatedly fought against the additional burdens the Public Utilities Commission places on ratepayers at the behest of investor-owned utilities,
+[7]
+and this past year, I have worked to push for greater accountability in spending of ratepayer funds.
+[8]
+The Resilience Savings Plan
+At the federal level, we need to find solutions to a hobbled grid with seemingly limitless maintenance and capital needs in the next two decades. In Northern California alone, the cost of undergrounding transmission and distribution lines may cost as much as $40 billion, which says nothing about the cost to expand transmission or distribution lines, nor to replace aging transformers and other grid infrastructure.
+[9]
+Who will pay for it? Ratepayers. In both January and March of 2024, local residents saw substantial rate hikes, ostensibly to pay for hardening and expansion of grid infrastructure. Combined with recent hikes, customers will see their monthly bills increase at four times the rate of inflation over the past year.
+[10]
+We need to find alternatives.
+One option is to reduce the load on the grid, especially during the peak hours, to mitigate the rate at which some of those huge capital expenditures will be needed. Our residents can do so by generating more of their own electricity and storing it at home.
+Homeowners with rooftop solar panels typically reduce their electricity draw from the grid by 69%.
+[11]
+By deploying batteries in their garage, homeowners save money by storing electricity generated during the daytime to use in the early evening when electricity prices and usage are highest.
+[12]
+Homeowners can also simply use less gas and electricity by installing insulation and upgrading to more energy-efficient heat pumps, electric water heaters, and appliances.
+The cheapest energy is the energy we don’t use. The combination of solar panels and a heat pump enabled Jessica (my wife) and I to pay only about $20 for our December and January utility bills.
+Of course, before we can save money, we have to spend money. These improvements cost tens of thousands of dollars, even after the Inflation Reduction Act rebates.
+[13]
+The California Public Utilities Commission just made it a lot more difficult to justify the cost of rooftop solar, by reducing the compensation that homeowners receive for generating power for the grid.
+[14]
+Every resident should be able to save money while saving the planet. For most of us, though, doing so requires financing. Federally-backed financing programs, similar to what we discussed earlier with Fannie Mae and Freddie Mac, offer one potential avenue to reduce costs for homeowners. Those programs already offer financing for new homeowners who want to include financing for renovations with their purchase.
+[15]
+A stand-alone financing program for existing owners for clean energy improvements could operate as a “second” loan, to ensure no disruption with their primary mortgage lender. Obviously, lending must remain within prudent loan-to-value limitations, but could explicitly acknowledge the enhancement to home value rendered by a new home battery or heat pump.
+A federally-backed financing program could also borrow some of the better features of an idea invented here in the Bay Area: property assessed clean energy, or PACE.
+[16]
+Hundreds of thousands of homeowners and multifamily apartment owners in three states have used state and locally-managed PACE programs to invest in energy and water-saving improvements while paying little or nothing up front.
+[17]
+Instead, the cost is amortized over several years through their property tax bills. If they sell their property, the buyer picks up the obligation—and keeps the asset, too.
+PACE programs have enabled billions of dollars in new investments in rooftop solar, new energy saving appliances, energy storage, and other improvements. Overwhelmingly, studies show that PACE programs have helped homeowners enhance the value of their property more than the mere cost of the improvements, and that such programs have a very positive impact on jobs and the local economy.
+[18]
+Increasingly, businesses and commercial property owners have taken advantage of commercial PACE programs (known as C-PACE) as well.
+[19]
+Locally-regulated PACE programs have encountered challenges, though. They rely on private lenders who must navigate a patchwork of regulations across states, leading to inconsistencies in program design, eligibility criteria, and financial structure. Fraudulent contractors have hoodwinked unwitting homeowners into believing that they’re getting improvements at no cost, only to be surprised by higher property tax bills.
+[20]
+We’ve seen lawsuits over forged documents and inflated costs for improvements, primarily due to poor oversight in some states. Mortgage lenders expressed concerns about the priority of PACE liens in case of foreclosure (although 2015 guidance from the Federal Housing Administration and two states have clarified that PACE loans remain subordinate to first mortgages).
+[21]
+A better approach could form the basis of a federal home improvement financing program; let’s call it a Resilience Savings Plan, or RSP. An RSP could enable homeowners across the country to invest affordably in cost-saving retrofits, like solar panels, energy-efficient appliances, and batteries, while improving upon the weaknesses of the state PACE programs.
+Congress and federal agencies can work with states to create uniform consumer protections, building on those recently proposed by the federal Consumer Financial Protection Bureau.
+[22]
+Applying Truth in Lending Act consumer protections, particularly for uniform standards for disclosure of information, will help, just as we see today with mortgages. The regulations could be improved by requiring that homeowners see a description of the net effect of the new financing on their monthly obligations. It could establish national standards for the states to certify and regulate contractors eligible to participate in the program, and to investigate fraud. To address lenders’ concerns, congressional authority to prescribe rules for government-sponsored entities such as Fannie Mae and Freddie Mac could resolve any remaining differences with the mortgage industry regarding lien priority.
+[23]
+Finally, the high financing costs in some state PACE programs could be reduced through the ability of federal government-sponsored entities to access secondary markets for debt investors, which today reduce interest rates for millions of homeowners.
+Whether it takes this form, or a better one, a federal RSP could help millions of homeowners and renters save money each month on their utility bills by facilitating energy-saving retrofits, rooftop solar, and local energy storage. Implementing RSP property assessments would require “opt-in” agreements with individual states willing to offer the program to their residents under federal guidelines. Fortunately many state legislatures—both red and blue—already recognize that enabling homeowners and business owners to save a few dollars while boosting energy efficiency makes for good policy.
+[24]
+Saving on Water Bills
+Of course, rising electric and gas bills don’t constitute the only source of frustration for ratepayers; water bills have similarly ballooned in recent years. Conservation matters—given California’s (and several other states’) chronic bouts with drought and the changing climate, a program that helps property owners transition from wasteful water use would benefit the public collectively and each ratepayer’s pocketbook. At a time when local water agencies contemplate multi-billion dollar investments for everything from recycling and desalination projects to questionable dam expansions, the cheapest water is the water we don’t use.
+[25]
+A comprehensive RSP program could include water-saving retrofits, to help property owners install greywater systems, replace lawns with drought-tolerant plants, install water-efficient toilets, and replace older, leaky pipes. As with energy improvements, government-backed financing can mitigate these one-time cost burdens to reduce monthly bills in the long run.
+2. Saving on Insurance While Preparing for Disasters: the Resilience Savings Plan, Redux
+Home insurance coverage for fire, flood, storms, and earthquake have become more elusive and, where available, more expensive throughout California. Given the march of climate change in the coming years, it will get worse before it gets better.
+[26]
+For homeowners seeking insurance coverage, this raises two problems. Increasingly, just as many of us will go without earthquake insurance—at our peril—due to its high cost, we’ll see more of our neighbors going without coverage, if they don’t have a lender mandating insurance as a condition of their mortgage. That presents the costliest option of course, leaving homeowners unprotected from inevitable natural disasters.
+Second, as major insurers like Allstate and State Farm decline to sell new policies in places like California and Florida, we should expect diminished competition, combined with rising climate risks, to compel state regulators to allow increasingly higher premiums among the remaining insurers.
+[27]
+The most direct way to reduce insurance premiums is to reduce risk. Homeowners with the resources to reduce wildfire risk in the hills of Los Gatos or Woodside, for example, might replace a wood roof with noncombustible materials, like slate or tile.
+[28]
+Homeowners concerned about storm surges in Coastside communities like Half Moon Bay or Pacifica might invest in small modifications like sealing foundations or elevating utilities,
+[29]
+or more costly protections like installing riprap or vacating the living space on the ground floor, as is common in coastal Florida.
+[30]
+In the thousands of earthquake-vulnerable “soft story” apartments in San Jose, landlords can mitigate seismic risk for thousands of mostly low-income renters in San Jose with retrofits.
+All of this costs money, of course—a lot of it. If the government footed the bill, the cost to taxpayers would balloon the already-bloated federal deficit, given the scale of retrofits required in millions of homes. On the other hand, property owners motivated to improve the value of their property and reduce insurance premiums can be part of the solution—if we can help them afford it.
+Cue RSP—the same plan that we’d use to reduce utilities costs for homeowners. A federal RSP could enable millions of homeowners and apartment owners to affordably upgrade their homes, create thousands of jobs, reduce long-term costs for property owners, improve insurance markets and costs for policyholders, and reduce the inevitable taxpayer obligations that accompany every natural disaster that requires Federal Emergency Management Agency (FEMA) reimbursement. RSP borrows from a familiar formula, and one that Democrats and Republicans should be able to agree upon: an ounce of prevention is worth a pound of cure.
+3. Our Food and Groceries
+Impacts of Retail Grocery Consolidation on Costs
+The announcement of the Kroger and Albertsons merger at $24.6 billion, the largest grocery consolidation in history, followed a parade of regional and national grocery chain mergers in recent months.
+[31]
+Mergers aren’t bad in themselves, but consolidation in highly concentrated retail markets, such as the Bay Area, tends to increase the prices we pay at checkout.
+[32]
+As with all questions of economics, the issue comes down to whether the market is working or not—and for whom. Competition generally enables consumers to pay lower prices and get better quality. In the grocery industry, Walmart and the Kroger-Albertsons company now control about half of the national market.
+[33]
+In some communities, they’ll likely shutter some of their own stores where they perceive redundancy, which will narrow choices. There may be more food deserts, particularly in lower-income neighborhoods, and less competition. Already in the United States, 76 rural counties lack any grocery store at all.
+[34]
+The age of the small, local grocer, like my grandfather’s Notre Dame Market seventy years ago, has largely passed. The Federal Trade Commission (FTC) should not litigate every merger, nor litigate merely because one company or another seems “too big.” The question comes down to whether sufficient competition exists in the market to enable consumers to benefit from a well-functioning market. Answering that question requires extensive economic analysis and expertise, and won’t be resolved in a campaign bumper-sticker.
+Nonetheless, it seems indisputable that technology and globalization have had profound impacts on markets in recent decades, and not merely in high-profile, tech-rich industries. The primary sources of federal antitrust laws—the Sherman Act (1890), Federal Trade Commission Act (1914), and Clayton Act (1914)—have seen only modest revisions in that time, and it’s time to take a closer look.
+Congress has an oversight role with the FTC as well. In the “Innovation Economy” section of this book, I echo the criticisms of many technologists who believe that an unfocused approach of FTC to enforcement inhibits the survival of many early-stage tech companies that need acquisition for access to capital. Congress should refocus the FTC on those industries whose price increases have had particularly painful impacts on consumers, and direct enforcement where consolidation creates monopolistic behavior that hurts consumers.
+End Subsidies That Make Food Cost More
+Agricultural subsidies have long had a controversial role for many economists and policymakers, but one thing we should all agree upon is to stop spending taxpayer money to make our food more expensive.
+For example, corn comes to consumers in many forms each day, from cornflakes in the morning, to tacos at lunch, to corn on the cob at dinner. However, billions of wasteful tax dollars spent on ethanol subsidies elevate the price of corn. By artificially increasing the demand for corn for biofuels such as ethanol, corn butanol, and biodiesel, the biofuel industry drives up the cost of corn as a food source.
+[35]
+Consumers pay more for their food, and also pay tens of billions in federal subsidies to benefit an industry that needs to survive or perish on its own.
+These massive biofuel subsidies—totaling tens of billions of dollars over the last four decades—come in many forms: favorable treatment under the tax code, tariff protection from foreign competition, and infrastructure subsidies.
+[36]
+The largest subsidy, though, lies in the Renewable Fuel Standard (RFS) mandate, which requires refineries to blend a minimum volume of biofuels with U.S. gasoline and diesel each year. Originally intended to serve as a catalyst to wean Americans from fossil fuels, most biofuels have failed to live up to their promise: a recent study from the National Academy of Sciences found that ethanol may contribute to even greater greenhouse gas emissions than gasoline.
+[37]
+While the biofuel industry disputes these studies, technological progress has made electric vehicles a far more promising and certain path to a future of green transportation.
+In the meantime, Americans pay for these biofuel subsidies in three ways: through higher prices for corn at the grocery store, higher prices at the pump, and higher taxes for the subsidies. If there are merits in the use of biofuels, let’s allow markets and science to decide. We don’t need to waste taxpayer money to tip the scale.
+Reduce Tariffs
+On June 19, 2015, President Barack Obama called a closed-door meeting with me and a half-dozen other mayors at a San Francisco hotel, to discuss a central priority of his economic agenda: the Trans-Pacific Partnership Agreement (TPP). The TPP committed us to reduce tariffs and other trade barriers a dozen friendly Pacific Rim nations, with strong environmental, labor, and human rights protections, and create thousands of jobs domestically. The President asked us—all Democratic mayors of large U.S. cities—to lobby our own Democratic House members to support the trade agreement; he understood that we understood the imperative of job growth in our communities. After questions and discussion, I looked around the room, each of us nodding in agreement, and we set about making our calls to House members. Sadly, we all fell short of mustering the necessary votes in Congress, and Obama left office in 2016 without ratification of the TPP. After taking office, President Trump promptly withdrew from the agreement.
+Sadly, both parties have become fond of imposing trade restrictions. To be sure, there can be good reasons to hike tariffs and impose other trade barriers to accomplish specific goals, such as to deter China from engaging in trade secret theft, to penalize violations of labor standards, to enforce environmental requirements, or to protect national security. While I support those goals, we’ve also seen many protectionist measures that don’t appear clearly targeted. Too often, tit-for-tat escalation results. Economies inevitably suffer, and destructive trade wars ensue.
+Economists routinely tell politicians that the real losers of any trade battle are consumers, who pay in the form of higher prices. Low-income families disproportionately bear that burden.
+[38]
+The most recent trade war, waged by the Trump Administration, illustrates these harmful impacts. In 2018, the U.S. imposed tariffs on steel and aluminum imports from major trading partners, and separate tariffs on a broad range of imports from China.
+[39]
+In response, Canada, China, the European Union, India, Mexico, and Turkey imposed retaliatory tariffs on many U.S. exports, including a wide range of agricultural and food products. Individual products experienced tariff increases ranging from two to 140 percent.
+[40]
+The overall effect was a substantial reduction in U.S. agricultural exports.
+Meanwhile, consumers paid the price. By December 2018, tariffs on imports cost U.S. consumers and importing firms an additional $3.2 billion per month in higher prices.
+[41]
+The Tax Foundation found that the Trump Administration’s tariffs had the equivalent effect of an $80 billion tax on American consumers.
+[42]
+We felt these impacts directly; for example, homebuilders stalled multifamily housing developments due to spikes in steel and wood prices.
+While protectionist proponents would like to believe that the cost of the American tariffs will be borne by foreign manufacturers, U.S. consumers pay the biggest price. A National Bureau of Economic Research study concluded that the 2018 tariffs were “almost completely passed through into U.S. domestic prices, so that the entire incidence of the tariffs fell on domestic consumers and importers…with no impact so far on the prices received by foreign exporters.”
+[43]
+Our tariffs impose other costs as well. China’s retaliation for the Trump Administration tariffs increased barriers on our own products. The USDA estimated a loss of $27 billion in American agricultural exports over an 18-month period due to the retaliation from the Trump-era tariffs, depressing economic growth in several midwestern states.
+[44]
+Two Federal Reserve economists concluded that the 2018 trade war resulted in a loss in U.S. economic output and growth.
+[45]
+In short, we all pay for the higher tariffs we impose. Let’s do so much more selectively.
+4. Our Medicine and Health Insurance
+Of all of our expenditures, the cost of medical expenses has become the scariest for many of us with health vulnerabilities. For families fortunate enough to have employer-provided health insurance, health care costs have grown at more than twice the rate of inflation—and that’s prior to the pandemic.
+[46]
+I don’t pretend to have all of the solutions to “fix” an enormously complex industry, but a few promising solutions seem worthy of congressional action to reduce health costs.
+Pharmacy Benefit Managers: Why Shopping at Costco Saves Billions
+It’s no secret that the cost of pharmaceutical drugs has ballooned in recent years, increasing by over 15% from 2022 to 2023 alone.
+[47]
+In 2021, an estimated 18 million Americans couldn’t pay for needed drugs.
+[48]
+The Inflation Reduction Act (IRA) authorized the Biden Administration to directly negotiate with drug manufacturers the prices of ten high-cost, single-source drugs for the first time.
+[49]
+In August 2024, the White House announced that its first round of negotiations for drugs for diabetes, blood clots, heart failure, and other conditions will save an estimated $6 billion annually, beginning in 2026.
+[50]
+Yet much of the policy debate has focused on the role of pharmaceutical manufacturers, largely overlooking the role of pharmacy benefit managers (PBMs), the intermediaries or “middlemen” who transmit the drugs and payments between the manufacturer and patients, and every stakeholder in between. PBMs operate in the middle of nearly every financial transaction in the drug delivery system. While they often provide a necessary service to the market, their position also provides them with extraordinary information access and leverage. Under most contracts that govern stakeholders in the drug delivery system, pharmaceutical prices remain confidential, proprietary, or otherwise opaque to regulators, researchers, and the public.
+The size and leverage of PBMs—the three largest are among the top 10 in the Fortune 500 and control 80% of the market—enables them to negotiate better prices from drug makers, and that’s good.
+[51]
+That same leverage can also enable them to suppress market competition, raise drug costs, and pocket much of the difference.
+How much of a difference? Economists at USC’s Schaeffer Center began to quantify that cost about a decade ago, and found that for every $100 spent on retail pharmaceuticals in 2013, $41 went to distribution system intermediaries.
+[52]
+This happened for several reasons.
+Some research has found that PBMs routinely steer patients toward higher-cost drugs, despite the availability of lower-cost generic options.
+[53]
+Economists also point to practices such as “spread pricing,” where a PBM reimburses a pharmacy one price for a prescription, while charging the health plan sponsor a higher price, and pockets the difference (the “spread”). Neither the insurer nor the pharmacy knows what the other side was paid or charged, so the PBM’s high margins remain hidden. The result? We all pay more for insurance premiums, and in many cases, on our prescription copays.
+More transparency in the market wouldn’t merely save us money as consumers, but as taxpayers as well. A study published in JAMA Internal Medicine found that for the 184 most common generic prescription drugs, Medicare could have saved $2.6 billion in 2018 if those same medicines had been purchased without insurance at Costco—at about a 21% discount.
+[54]
+Another study by Ohio’s State Auditor found an even larger gap—31.4% on generic prescriptions filled for Medicaid recipients—costing Ohio taxpayers $208 million in one year.
+[55]
+Much more is spent on branded drugs than generics, likely exacerbating the PBMs’ impacts on taxpayers.
+Fortunately, some modest reforms have emerged. For example, in 2018, federal law finally prohibited “gag clauses” that PBMs used to prohibit pharmacists from telling customers that their co-pay for some drugs actually exceeded the retail price of the drug.
+[56]
+But large spreads persist, at the expense of consumers and taxpayers.
+What’s needed to make the market work better? Pricing transparency and competition. Senators Chuck Grassley and Maria Cantwell offer a good start with a bipartisan bill that would prohibit PBMs from engaging in spread pricing and another gouging technique known as “pharmacy clawbacks” unless they pass all rebates and concessions received from drug makers to insurers, and disclose all pricing information and all fees, markups, and discounts charged to health plans and pharmacies.
+[57]
+Congress must pass it.
+More competition could help as well. We could start by reducing the barriers to entry for competitors in many states’ PBM markets—something most effectively done at the federal level—and possibly expanding access to Canadian drug suppliers who meet FDA safety standards.
+[58]
+Above all, we need to ensure market participants and regulators have fair access to information, by requiring greater pricing transparency. Markets deliver quality products at competitive prices only when buyers and sellers have information—let’s give it to them.
+Paying Less for Paper: Administrative Costs
+Administrative costs account for an estimated 25% of U.S. healthcare expenditures, with 82% of administrative costs attributable to billing and insurance-related (BIR) tasks.
+[59]
+The United States has significantly higher BIR costs than comparable wealthy nations.
+The reason? U.S. health care employees spend many more hours each week on billing tasks, especially coding. The head of the American Medical Association complained that physicians spend on average two hours on paperwork for every hour spent with a patient.
+[60]
+One CEO reported that doctors in his health care system spent 46% of their time resolving issues with coding.
+[61]
+Countries with reduced BIR costs—such as Canada, Germany, Singapore, and the Netherlands—each standardize how payers compensate providers. Many of them use a single coding schedule to automatically generate billing codes from diagnoses.
+By contrast, each U.S. payer requires different sets of forms and documentation. Providers must carefully document patient conditions and diagnoses, then justify treatment using 180,000 billing codes.
+[62]
+Coding complexity encourages fraud and insurers’ rejection of claims as medically unnecessary.
+Simplifying and standardizing payment contracts would reduce BIR costs and reduce fraud, translating to reduced premiums. One study estimated that this strategy would reduce a $22,000 annual premium by up to $2,100.
+[63]
+How can Congress help? It could require the Department of Health and Human Services (HHS) to convene industry leaders to come to agreement on standardization of coding and contracts.
+[64]
+Thousands of American manufacturers of electrical appliances implicitly agree on a single way for plugging their products into a wall socket, but it always starts with the largest players in the market. To provide an incentive to get to agreement, Congress can condition federal Medicare and Medicaid payments on adoption of industry standards within, say, 24 months. If they fail to agree, then HHS can issue its own framework, and mandate state compliance.
+Eliminating the deadweight costs of administrative paperwork from our health bills should provide a win-win-win: more affordable and better care for residents, lower costs for taxpayers, and many health care workers relieved from these administrative tasks.
+Addressing the Shortage of Primary Care Physicians
+It has become axiomatic that we can reduce medical care costs through a greater emphasis on preventative and primary care, reducing use of costly emergency rooms and endless treatments for chronic illnesses. That strategy, of course, requires primary care physicians, of which the U.S. suffers from an acute shortage. An estimated 74 million Americans live in Primary Care Health Professional Shortage Areas (HPSAs).
+[65]
+As with any supply shortage, the dearth of doctors increases costs for patients and taxpayers, and reduces access to care, and its quality.
+We have seen several responses to the doctor shortage. In 2020, Congress sought to expand Medicare funding for 1,000 more Graduate Medical Education (GME) slots, to expand residency programs for recent medical school graduates. Experts believe that far more is needed.
+[66]
+Debt relief programs can help to counter medical students’ wariness of incurring $250,000 in loans they routinely bear.
+[67]
+While worthwhile, expanding those programs costs money—in addition to the roughly $20 billion that the federal government already spends on medical education.
+[68]
+Obviously, it would help to also identify ways to expand primary care access without spending more. For example, preempting state restrictions on telehealth, and making Medicare reimbursements for telehealth permanent, could expand primary care access within many HPSA communities. Federal programs might incentivize the expansion of primary care teams, to employ more nurse practitioners and physician assistants per primary care physician to reduce doctor workloads and deliver care more cost-effectively.
+[69]
+We could also liberalize J-1 visa and permanent residency requirements (through an expanded “Conrad-30” program) to encourage more foreign medical graduates to stay here to practice. Pulling each of these levers would help.
+A less orthodox solution merits exploration as well: shorten medical training. We could expand the number of well-educated primary care doctors, at less cost to both taxpayers and students.
+This idea is not my own. Dr. Amol Saxena, a Palo Alto resident who recently received his master’s in public health, first suggested it to me, but many fourth-year medical students would readily agree. They envy their peers in Europe and Japan, where aspiring doctors complete their undergraduate and graduate programs in six years, rather than the minimum eight in the U.S..
+[70]
+Of course, after U.S. medical school, there comes residency. The average U.S. physician will have incurred 14 years of postsecondary training—college, medical school, residency, and fellowship—just to start their careers.
+Bioethicist Ezekiel Emanuel and economist Victor Fuchs argue in the
+Journal of the American Medical Association
+that the average length of medical training could be reduced by about 30% without compromising physician competence or quality of care.
+[71]
+Several medical schools, such as Texas Tech and Duke, began experimenting with shorter durations years ago. Today, 28% of U.S. medical schools offer 7-year programs, without adverse consequences. More comprehensive changes, however, will require federal incentives, perhaps as conditions attached to GME appropriations for medical schools and hospitals. We should explore this, even if just for aspiring primary care doctors—and let specialists stay in school.
+Reducing the minimum eight-year (or better, 14-year) duration of postsecondary education by one year could produce many systemic benefits. Medical schools could expand their admissions by 25% for the same cost. Promising medical students—particularly those juggling plans for career and family—will feel less daunted by the duration and cost burdens of medical school.
+[72]
+The reduced debt and shorter schooling may induce more graduates to choose primary care, and feel less compelled to enter a high-paying speciality. Taxpayers will pay less per doctor for training and education. Patients will experience an expansion of access to care, and some mitigation of cost pressures on insurance costs and copays. It’s a step worth exploring.
+5. Our Child Care
+Child care consumes more than 25% of the incomes of families in California and eight other states.
+[73]
+The lack of affordable care has become a crisis that prevents many parents—overwhelmingly women—from returning to the workforce.
+[74]
+Even before the pandemic, more than 60% of California families lived in a “child care desert.”
+[75]
+The crisis has since become more acute, as child care employment continues to lag behind pre-pandemic levels.
+[76]
+Action is long overdue.
+Two approaches appear essential. First, we must boost support for struggling families that cannot afford child care and must work. Second, we need to expand the supply of qualified caregiving for families of all incomes. Congress can help with both—if it’s willing to recognize the urgency of this problem.
+Let’s start with families who struggle the most financially. There are no better federal investments for our families than child care. In the short term, the economy will benefit from thousands of young parents, particularly women, returning to a wide range of industries suffering from labor shortages. We see this particularly within low-income families, where one study found that higher child care subsidies substantially increased employment rates of mothers with young children.
+[77]
+In the long run, high-quality care produces benefits we see in our children’s personal development and education. Many sociologists also find intrinsic value in children seeing their parents going to work each morning, inculcating expectations of responsibility for their own schooling and work in the future.
+[78]
+One obvious mechanism for supporting families lies in the child tax credit. The most recent tax package included a refundable $2,000 Child Tax Credit that passed with strong bipartisan support in the House in January. Although the Senate didn’t adopt the bill, the ability of a deeply divided House to pass such a measure should give us hope. A larger tax credit, means-tested to reduce its budgetary impact and to target benefits for our poorest families, could do even more, as we saw during the pandemic-era $3,600 credit that lifted millions of children out of poverty.
+[79]
+Child poverty rates ballooned from 5.2% to 12.4%—or more than 15 million children—when that expansion expired.
+[80]
+A more direct subsidy for families struggling with child care is provided by the Child Care and Development Fund (CCDF), which provides direct assistance to low-income families who need child care to work or attend school. One study concluded that tripling the scope of CCDF support (currently only 15% of eligible low-income families actually receive help) could lead to the additional employment of more than 652,000 women with young children.
+[81]
+That would dramatically boost the economic well-being of many employers, and more than half a million families.
+For middle-income families, changes in the tax code can help. Rep. Salud Carbajal’s recent bill, The Child Care Investment Act, would boost the dependent tax credit—and also make it refundable—while doubling the limits on excludable pre-tax contributions for dependent care flexible spending accounts. The bill is already gaining bipartisan support, in part because it also expands the tax credit for businesses that offer child care, alone or with other employers.
+Progress on any one of these ideas would help hundreds of thousands of parents. How do we pay for them? We can start by recognizing the additional tax revenue that could be generated—$4.2 billion annually, according to one study—when affordable child care enables more parents to work.
+[82]
+Of course, cuts will need to be made. One or more of these ideas could be funded with a fraction of the $35 billion in annual tax breaks and subsidies that the federal government provides to the oil and gas industry. Every member of Congress should be forced to consider that tradeoff, and explain their position to working parents in their districts.
+To expand the supply of child care, we must help care providers overcome barriers of access to affordable spaces. Refocusing existing federal programs—such as the Community Development Block Grants or the New Markets Tax Credit—can help renovate vacant office and retail spaces to create child care-adapted ground-floor spaces in existing buildings. I never saw a more appreciative neighborhood than when I pushed to use city funds to rehabilitate a North 11th Street liquor store to a child care facility. We also saw success helping in-home care providers get their start in San José by investing in training and certification, along with technical assistance for tasks like web design and child safety training. This crisis of child care requires multiple interventions, but above all, it requires Congress’ attention.
+Miller, Claire Cain, and Francesca Paris. “
+The Great Disconnect: Why Voters Feel One Way About the Economy but Act Differently
+.”
+The New York Times
+, 20 Nov. 2023.
+↑
+Van Nostrand, Eric, et al. “
+The Purchasing Power of American Households
+.”
+U.S. Department of the Treasury
+, 14 Dec. 2023.
+↑
+Tanzi, Alexandre. “
+Inflation Drags Real US Household Incomes by Most Since 2010
+.”
+Bloomberg
+, 12 Sept. 2023.
+↑
+Avalos, George. “
+PG&E average monthly bills are set to top $300 for the first time
+.”
+Mercury News
+, 9 Jan. 2024.
+↑
+Cull, Ian. “
+Bay Area PG&E bills are more than double the national average, new report says
+.”
+NBC Bay Area
+, 27 Oct. 2023.
+↑
+Evans, Simon. “
+Solar is now “cheapest electricity in history,’ confirms IEA
+.”
+CarbonBrief
+, 13 Oct. 2020.
+↑
+Liccardo, Sam. “
+Californians should be seeing red over electricity rate hikes
+.” CalMatters, 14 June 2021.
+↑
+Liccardo, Sam. “
+Liccardo: PG&E must curb wasteful spending before receiving rate hike
+.”
+Mercury News
+, 28 Oct. 2023.
+↑
+Penn, Ivan. “
+PG&E Aims to Curb Wildfire Risk by Burying Many Power Lines
+.”
+New York Times
+, 21 July 2023.
+↑
+Avalos, George. “
+Higher utility bills coming–again–after new PG&E rate request
+.”
+Mercury News
+, 12 Dec. 2023.
+↑
+Deason, Jeff, et al. “
+Empirical Estimation of the Energy Impacts of Projects Installed through Residential Property Assessed Clean Energy Financing Programs in California
+.”
+Electricity Markets & Policy
+, Dec. 2021.
+↑
+“
+How can a home battery system help you save on energy bills?
+”
+Panasonic
+.
+↑
+“
+Home Energy Rebates Frequently Asked Questions
+.”
+Office of State and Community Energy Program
+.
+↑
+Baron, Ethan. “
+Rooftop-solar industry blames PG&E, Newsom as Bay Area businesses struggle
+.”
+Mercury News,
+7 Jan. 2024.
+↑
+“
+CHOICERenovation Mortgage
+.”
+Freddie Mac Single-Family
+, June 2022.
+↑
+Kirkpatrick, Justin, and Lori S. Bennear. “
+Promoting clean energy investment: An empirical analysis of property assessed clean energy
+.”
+Journal of Environmental Economics and Management
+, vol. 68, no. 2, Sept. 2014.
+↑
+“
+Residential Property Assessed Clean Energy (R-PACE): Key Considerations for State Energy Officials
+.”
+National Association of State Energy Officials
+, Mar. 2018.
+↑
+Goodman, Laurie S., and Jun Zhu. “
+PACE Loans: Does Sale Value Reflect Improvements?
+”
+The Journal of Structured Finance
+, vol. 21, no. 4, Winter 2016.
+↑
+Levantis, Greg, and Lisa Schwartz. “
+Commercial PACE Financing and the Special Assessment Process: Understanding Roles and Managing Risks for Local Governments
+.”
+Office of Energy Efficiency & Renewable Energy and Lawrence Berkeley National Laboratory
+, June 2019.
+↑
+“
+PACE (Property Assessed Clean Energy): What Homeowners Need to Know
+.”
+California Department of Financial Protection & Innovation
+, 5 July 2023.
+↑
+“
+PACE loans now subordinate to first-lien mortgage
+.”
+National Association of Federally-Insured Credit Unions
+, 27 Aug. 2015.
+↑
+“
+Residential Property Assessed Clean Energy Financing (Regulation Z)
+.”
+Consumer Financial Protection Bureau
+.
+↑
+“
+Coalition PSPC Letter
+.”
+Consumer Financial Protection Bureau
+, 26 July 2023.
+↑
+“
+PACE Programs
+.”
+PaceNation
+.
+↑
+Rogers, Paul. “
+San José Mayor Sam Liccardo opposes $2.5 billion dam project in Santa Clara County
+.”
+Mercury News
+, 7 May 2021.
+↑
+Picchi, Aimee. “
+Homes in parts of the U.S. are “essentially uninsurable” due to rising climate change risks
+.”
+CBS News
+, 20 Sept. 2023.
+↑
+“
+California lets insurers factor wildfire risks in rates to widen coverage
+.”
+Reuters
+, 22 Sept. 2023.
+↑
+“
+Protect Your Property from Wildfires
+.”
+FEMA
+, Nov. 2020.
+↑
+Martin, Shannon. “
+How to prevent your home from flooding
+.”
+Bankrate
+, July 2023.
+↑
+“
+Elevating Your House
+.”
+FEMA
+.
+↑
+Crezo, Adrienne. “
+Merging grocery giants threaten Americans’ food security
+.”
+Center for Science in the Public Interest
+, 23 Feb. 2024.
+↑
+Hosket, Daniel, et al. “
+Do retail mergers affect competition? Evidence from grocery retailing
+.”
+Journal of Economics and Management Strategy
+, vol. 27, no. 1, Spring 2018.
+↑
+Crezo,
+supra
+.
+↑
+Bonderson, Aaron. “
+Rural grocery stores are dying. Here’s how some small towns are trying to save them
+.”
+NPR
+, 19 Apr. 2023.
+↑
+“
+The Impact of Ethanol Use on Food Prices and Greenhouse-Gas Emissions
+.”
+Congressional Budget Office
+, Apr. 2009.
+↑
+“
+Understanding U.S. Corn Ethanol and Other Corn-Based Biofuels Subsidies
+.”
+Taxpayers for Common Sense
+, May 2021.
+↑
+Douglas, Leah. “
+U.S. corn-based ethanol worse for the climate than gasoline, study finds
+.”
+Reuters
+, 14 Feb. 2022.
+↑
+“
+Impacts of Section 301 Tariffs on Imports from China: Case Studies of Apparel, Footwear, Travel Goods and Furniture
+.”
+Trade Partnership Worldwide, LLC
+, Jan. 2023.
+↑
+Aimiti, Mary, et al. “
+The Impact of the 2018 Trade War on U.S. Prices and Welfare
+.”
+National Bureau of Economic Research
+, Mar. 2019.
+↑
+Morgan, Stephen, et al. “
+The Economic Impacts of Retaliatory Tariffs on U.S. Agriculture
+.”
+USDA
+, Jan. 2022.
+↑
+Id.
+↑
+York, Erica. “
+Tariff Tracker: Tracking the Economic Impact of the Trump-Biden Tariffs
+.”
+Tax Foundation
+, 26 June 2024.
+↑
+Aimiti,
+supra
+.
+↑
+Morgan et al.,
+supra
+.
+↑
+Flaaen, Aaron, and Justin Pierce. “
+Disentangling the Effects of the 2018-2019 Tariffs on a Globally Connected U.S. Manufacturing Sector
+.”
+Federal Reserve Board
+, 2019.
+↑
+Rae, Matthew, et al. “
+Tracking the rise in premium contributions and cost-sharing for famiilies with large employer coverage
+.” Health System Tracker, 14 Aug. 2019.
+↑
+Bosworth, Arielle, et al. “
+Changes in the List Prices of Prescription Drugs, 2017-2023
+.”
+ASPE Office of Health Policy
+, 6 Oct. 2023.
+↑
+Witters, Dan. “
+In U.S., an Estimated 18 Million Can’t Pay for Needed Drugs
+.”
+Gallup
+, 21 Sept. 2021.
+↑
+Cubanski, Juliette. “
+FAQs about the Inflation Reduction Act’s Medicare Drug Price Negotiation Program
+.”
+Kaiser Family Foundation
+, 20 Aug. 2024.
+↑
+Anderson-Cook, Anna, and Richard G. Frank. “
+Impact of federal negotiation of prescription drug prices.
+”
+Brookings Institution
+, 19 Aug. 2024.
+↑
+“
+Insulin: Examining the Factors Driving the Rising Cost of a Century Old Drug
+.”
+U.S. Senate Committee on Finance
+, 14 Jan. 2021.
+↑
+Sood, Neeraj, et al. “
+Flow of Money Through the Pharmaceutical Distribution System
+.”
+USC Schaeffer Center
+, 6 June 2017.
+↑
+Socal, Mariana P., et al. “
+Favorable Formulary Placement of Branded Drugs in Medicare Prescription Drug Plans When Generics Are Available
+.”
+JAMA Internal Medicine
+, vol. 179, no. 6, June 2019.
+↑
+Trish, Erin, et al. “
+Comparison of Spending on Common Generic Drugs by Medicare vs. Costco Members
+.”
+JAMA Internal Medicine
+, vol. 181, no. 10, 6 July 2021.
+↑
+“
+Auditor’s Report: Pharmacy Benefit Managers Take Fees of 31% on Generic Drugs Worth $208M in One-Year Period
+.”
+Ohio Auditor of State
+, 16 Aug. 2018.
+↑
+Seeley, Elizabeth, and Aaron S. Kesselheim. “
+Pharmacy Benefit Managers: Practices, Controversies, and What Lies Ahead
+.”
+The Commonwealth Fund
+, 26 Mar. 2019.
+↑
+Sood, Neeraj, and Karen Van Nuys. “T
+he Cantwell-Grassley PBM Bill Is Much Needed But More Can Be Done
+.”
+Health Affairs
+, 12 July 2022.
+↑
+Essley Whyte, Liz. “
+Florida Is First State Allowed to Import Drugs From Canada in Bid to Reduce Costs
+.”
+Wall Street Journal
+, 5 Jan. 2024.
+↑
+Richman, Barak, et al. “
+Billing And Insurance–Related Administrative Costs: A Cross- National Analysis
+.”
+Health Affairs
+, vol. 41, no. 8, Aug. 2022.
+↑
+“
+AMA president sounds alarm on national physician shortage.
+”
+American Medical Association
+, 25 Oct. 2023.
+↑
+Thomas, Nick. “
+Coding ‘destroys everything’: Former Mercy Health CEO on where healthcare reform should start
+.”
+Becker’s Hospital CFO Report,
+29 June 2023.
+↑
+Id.
+↑
+Scheinker, David, et al. “
+Reducing administrative costs in US health care: Assessing single payer and its alternatives
+.”
+Health Services Research
+, vol. 56, no. 4, Aug. 2021.
+↑
+“
+Standardization of a code-editing system white paper.
+”
+American Medical Association
+, Nov. 2011.
+↑
+“
+Primary Care Health Professional Shortage Areas (HPSAs)
+.”
+Kaiser Family Foundation
+, 1 Apr. 2024.
+↑
+Robeznieks, Andis. “
+1,000 new GME slots are coming. CMS must not hamper their use
+.”
+American Medical Association
+, 16 Mar. 2022; “
+New AAMC Report Shows Continuing Projected Physician Shortage
+.”
+American Association of Medical Colleges
+, 21 Mar. 2024.
+↑
+Tretina, Kat, and Kennedy Edgerton. “
+Best Medical School Loan Forgiveness Programs For Doctors
+.”
+Forbes Advisor
+, 24 Jan. 2024.
+↑
+“
+Medicare Graduate Medical Education Payments: An Overview
+.”
+Congressional Research Service
+, 29 Sept. 2022.
+↑
+“
+Five Ways to Cure California’s Doctor Shortage
+.”
+California Health Care Foundation
+, 11 Jan. 2019.
+↑
+Orr, Robert, and Anuska Jain. “
+The Case for Shortening Medical Education
+.”
+Niskanen Center
+, 17 Mar. 2020.
+↑
+Emanuel, Ezekiel, and Victor Fuchs. “
+Shortening Medical Training by 30%
+.”
+JAMA
+, vol. 307, no. 11, 2012.
+↑
+Pierson, Leah. “
+Shortening Medical Training Would Help Trainees Balance Family and Career
+.”
+Harvard Law Bill of Health
+, 21 Sept. 2021.
+↑
+“
+Child Care Investment Is Crucial for Future Economic Growth
+.”
+Joint Economic Committee Democrats
+. Accessed 9 Sept. 2024.
+↑
+“
+Childcare Costs, Reduced Work, and Financial Strain: New Estimates for Low-Income Families
+.”
+U.S. Department of Commerce
+, 27 June 2024.
+↑
+Malik, Rasheed, et al. “
+America’s Child Care Deserts in 2018
+.”
+Center for American Progress
+, Dec. 2018.
+↑
+Crouse, Gilbert, et al. “The Impact of the COVID-19 Pandemic on the Child Care Industry and Workforce.”
+Office of the Assistant Secretary for Planning and Evaluation
+, 19 Jan. 2023.
+↑
+“
+The Effects of Child Care Subsidies on Maternal Labor Force Participation in the United States
+.”
+ASPE
+, Dec. 2016.
+↑
+Kirkpatrick Johnson, Monica, et al. “
+Work Value Transmission From Parents to Children: Early Socialization and Delayed Activation
+.”
+Work and Occupations
+, vol. 47, no. 1, Feb. 2020.
+↑
+Luhby, Tami. “
+Poverty rate jumps in 2022 after end of enhanced child tax credit
+.”
+CNN
+, 12 Sept. 2023.
+↑
+Parrott, Sharon. “
+Record Rise in Poverty Highlights Importance of Child Tax Credit
+.”
+Center on Budget and Policy Priorities
+, 12 Sept. 2023.
+↑
+“The Effects of Child Care Subsidies on Maternal Labor Force Participation in the United States,”
+supra
+.
+↑
+Gould, Elise, and Hunter Blair. “
+Who’s paying now?
+”
+Economic Policy Institute
+, 15 Jan. 2020.
+↑
+BECOME PART OF THE CAMPAIGN - VOLUNTEER
+Facebook
+Linkedin
+Instagram
+Housing Affordability
+Cost of Living
+Homelessness
+Crime
+Reproductive Rights
+Defending Democracy
+Education
+Innovation Economy
+EMAIL: info@samliccardo.com
+913 Willow St #103, San Jose, CA 95125
+Privacy
+Media
+Paid for by Liccardo for Congress
+This site is protected by reCAPTCHA and the Google
+Privacy Policy
+and
+Terms of Service
+apply.

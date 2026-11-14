@@ -1,0 +1,148 @@
+{
+  "name": "Sam T. Liccardo",
+  "domains_tried": [
+    "samliccardo.com"
+  ],
+  "pages": [
+    {
+      "original": "https://samliccardo.com/",
+      "timestamp": "20241105193537",
+      "wayback": "https://web.archive.org/web/20241105193537/https://samliccardo.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105193537id_/https://samliccardo.com/",
+      "file": "archive/2024/liccardo-ca/home.html",
+      "text_file": "archive/2024/liccardo-ca/home.txt",
+      "bytes": 175448,
+      "sha256_html": "a07f7d06b910f34e162e24d44f524bf2bd42d90f5e11a53a50b34aae9350d7ee",
+      "sha256_text": "ed70cd0aff51bda7d09434b65ba0ac9d47d1411a2a36eba006f82ac2c7372f2f"
+    },
+    {
+      "original": "http://samliccardo.com/plan/",
+      "timestamp": "20241105112951",
+      "wayback": "https://web.archive.org/web/20241105112951/http://samliccardo.com/plan/",
+      "wayback_raw": "https://web.archive.org/web/20241105112951id_/http://samliccardo.com/plan/",
+      "file": "archive/2024/liccardo-ca/plan.html",
+      "text_file": "archive/2024/liccardo-ca/plan.txt",
+      "bytes": 159030,
+      "sha256_html": "0b7247474dbd3b65eb6413a3cd55f921828c61d10bfc4606e5dec5153abe4ce5",
+      "sha256_text": "ea21e092051c53de342591dd60e1091749e968de4376d9517d0e7c92f2491879"
+    },
+    {
+      "original": "https://samliccardo.com/plan/crime/",
+      "timestamp": "20241105093322",
+      "wayback": "https://web.archive.org/web/20241105093322/https://samliccardo.com/plan/crime/",
+      "wayback_raw": "https://web.archive.org/web/20241105093322id_/https://samliccardo.com/plan/crime/",
+      "file": "archive/2024/liccardo-ca/plan-crime.html",
+      "text_file": "archive/2024/liccardo-ca/plan-crime.txt",
+      "bytes": 209898,
+      "sha256_html": "11940585327764974566dd7d01d62d7024282a4ccc927653232e063bce09e813",
+      "sha256_text": "dce728b28222c5449a229f7b8acd3392694cd533fde4de961b0659ee394c63a6"
+    },
+    {
+      "original": "https://samliccardo.com/plan/defending-democracy/",
+      "timestamp": "20241105093449",
+      "wayback": "https://web.archive.org/web/20241105093449/https://samliccardo.com/plan/defending-democracy/",
+      "wayback_raw": "https://web.archive.org/web/20241105093449id_/https://samliccardo.com/plan/defending-democracy/",
+      "file": "archive/2024/liccardo-ca/plan-defending-democracy.html",
+      "text_file": "archive/2024/liccardo-ca/plan-defending-democracy.txt",
+      "bytes": 157097,
+      "sha256_html": "31953b96dfa0a39c139ff109914bf2639cab7222dcdda4951423ae53dcf5fe03",
+      "sha256_text": "9fafffb8356c1bd21fc6f6d53783397f363b52f2aa25dc77158c32f0aec58b34"
+    },
+    {
+      "original": "https://samliccardo.com/plan/education/",
+      "timestamp": "20241105093226",
+      "wayback": "https://web.archive.org/web/20241105093226/https://samliccardo.com/plan/education/",
+      "wayback_raw": "https://web.archive.org/web/20241105093226id_/https://samliccardo.com/plan/education/",
+      "file": "archive/2024/liccardo-ca/plan-education.html",
+      "text_file": "archive/2024/liccardo-ca/plan-education.txt",
+      "bytes": 185346,
+      "sha256_html": "e67099381a71899ea8555e6a3d1b1b5a74b4acef173907c5c5e3554812039912",
+      "sha256_text": "67c707ca2ddac3eb1432d02784e58bc5493bf488d42f57af4b47ef0dedd4daad"
+    },
+    {
+      "original": "https://samliccardo.com/plan/embed/",
+      "timestamp": "20241104231900",
+      "wayback": "https://web.archive.org/web/20241104231900/https://samliccardo.com/plan/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241104231900id_/https://samliccardo.com/plan/embed/",
+      "file": "archive/2024/liccardo-ca/plan-embed.html",
+      "text_file": "archive/2024/liccardo-ca/plan-embed.txt",
+      "bytes": 20634,
+      "sha256_html": "02887561b772cb656ab219074f75af35fd69039af029bc52091225bf91e13b20",
+      "sha256_text": "487a81cd8e96ff4c818376a09cb50f9d786e12e6fa5a0259a20882a66f4bb446"
+    },
+    {
+      "original": "https://samliccardo.com/plan/high-cost-of-living/",
+      "timestamp": "20241105093244",
+      "wayback": "https://web.archive.org/web/20241105093244/https://samliccardo.com/plan/high-cost-of-living/",
+      "wayback_raw": "https://web.archive.org/web/20241105093244id_/https://samliccardo.com/plan/high-cost-of-living/",
+      "file": "archive/2024/liccardo-ca/plan-high-cost-of-living.html",
+      "text_file": "archive/2024/liccardo-ca/plan-high-cost-of-living.txt",
+      "bytes": 223372,
+      "sha256_html": "84cda6facfc9cc9d1b9f726b6d2c69a40b03943316a155961eaa0414db1afbf8",
+      "sha256_text": "bd90f2843879899e5f2549fe8da72ea9d0ba0237f4791001776d92afccd64393"
+    },
+    {
+      "original": "https://samliccardo.com/plan/homelessness/",
+      "timestamp": "20241105093425",
+      "wayback": "https://web.archive.org/web/20241105093425/https://samliccardo.com/plan/homelessness/",
+      "wayback_raw": "https://web.archive.org/web/20241105093425id_/https://samliccardo.com/plan/homelessness/",
+      "file": "archive/2024/liccardo-ca/plan-homelessness.html",
+      "text_file": "archive/2024/liccardo-ca/plan-homelessness.txt",
+      "bytes": 198202,
+      "sha256_html": "6c0c8751592bf9d49f72fc4619607a39463196b14ad5093f7416fc3b714272f5",
+      "sha256_text": "d741f147d5e20afd1dceb1f83d7c0e7fc83ee5f079fe53b113d4dd2356c27cf7"
+    },
+    {
+      "original": "https://samliccardo.com/plan/housing-affordability/",
+      "timestamp": "20241105093207",
+      "wayback": "https://web.archive.org/web/20241105093207/https://samliccardo.com/plan/housing-affordability/",
+      "wayback_raw": "https://web.archive.org/web/20241105093207id_/https://samliccardo.com/plan/housing-affordability/",
+      "file": "archive/2024/liccardo-ca/plan-housing-affordability.html",
+      "text_file": "archive/2024/liccardo-ca/plan-housing-affordability.txt",
+      "bytes": 175194,
+      "sha256_html": "a9fed83d6448140302ff6fcf02c9e05986d7365491db2c2b02d1b60f87ad82f3",
+      "sha256_text": "55e01da32c4b573cce6e53005a1400b157c1e6bec7765d14c8e90be980849c90"
+    },
+    {
+      "original": "https://samliccardo.com/plan/innovation-economy/",
+      "timestamp": "20241105093703",
+      "wayback": "https://web.archive.org/web/20241105093703/https://samliccardo.com/plan/innovation-economy/",
+      "wayback_raw": "https://web.archive.org/web/20241105093703id_/https://samliccardo.com/plan/innovation-economy/",
+      "file": "archive/2024/liccardo-ca/plan-innovation-economy.html",
+      "text_file": "archive/2024/liccardo-ca/plan-innovation-economy.txt",
+      "bytes": 320560,
+      "sha256_html": "4bcb15230dabad3592a341387f59bca4f8d4250a76c26ec5b74ca3790ed42ad9",
+      "sha256_text": "e8ab45b062aea0ce36cf14f6ce7d6c56abcdebb5019a4c8c5e8a1f1caa1e3ae6"
+    },
+    {
+      "original": "https://samliccardo.com/plan/our-environment-and-climate/",
+      "timestamp": "20241105093513",
+      "wayback": "https://web.archive.org/web/20241105093513/https://samliccardo.com/plan/our-environment-and-climate/",
+      "wayback_raw": "https://web.archive.org/web/20241105093513id_/https://samliccardo.com/plan/our-environment-and-climate/",
+      "file": "archive/2024/liccardo-ca/plan-our-environment-and-climate.html",
+      "text_file": "archive/2024/liccardo-ca/plan-our-environment-and-climate.txt",
+      "bytes": 161053,
+      "sha256_html": "eee5abf37adedd25977fc764adb308cded3fd328529d306f3d2a2c87d019f345",
+      "sha256_text": "6b19c47cd0b6493c0ff0071766c6e77bf4b1556f9ad578dcc28c37a0c327d51b"
+    },
+    {
+      "original": "https://samliccardo.com/plan/reproductive-rights/",
+      "timestamp": "20241105093719",
+      "wayback": "https://web.archive.org/web/20241105093719/https://samliccardo.com/plan/reproductive-rights/",
+      "wayback_raw": "https://web.archive.org/web/20241105093719id_/https://samliccardo.com/plan/reproductive-rights/",
+      "file": "archive/2024/liccardo-ca/plan-reproductive-rights.html",
+      "text_file": "archive/2024/liccardo-ca/plan-reproductive-rights.txt",
+      "bytes": 155058,
+      "sha256_html": "28d4f50b8bae2af8483b1c76b0c40e70ac36dc72ef94b60a6eda85a55e70abea",
+      "sha256_text": "98f58f68c56970f4a3fc5d4ce3dfd6803c39fc7aa935f7cc5b89d9effb24e361"
+    }
+  ],
+  "snapshots_found": {
+    "samliccardo.com": 242
+  },
+  "generated_utc": "2026-11-14T16:48:59Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
