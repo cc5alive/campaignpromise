@@ -1,0 +1,82 @@
+{
+  "name": "Ann Wagner",
+  "domains_tried": [
+    "annwagner.com"
+  ],
+  "pages": [
+    {
+      "original": "https://annwagner.com/",
+      "timestamp": "20241105043935",
+      "wayback": "https://web.archive.org/web/20241105043935/https://annwagner.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105043935id_/https://annwagner.com/",
+      "file": "archive/2024/wagner-mo/home.html",
+      "text_file": "archive/2024/wagner-mo/home.txt",
+      "bytes": 109801,
+      "sha256_html": "340b327f4fd6d554b70ac73b6b58b086f2b10f0c9d6e5a0232e29f958a3710d1",
+      "sha256_text": "0ac9193c658ded75f00c09d3ddac72b397d404194960c023c039d2a40e6bbc20"
+    },
+    {
+      "original": "https://annwagner.com/issues/",
+      "timestamp": "20241105043942",
+      "wayback": "https://web.archive.org/web/20241105043942/https://annwagner.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105043942id_/https://annwagner.com/issues/",
+      "file": "archive/2024/wagner-mo/issues.html",
+      "text_file": "archive/2024/wagner-mo/issues.txt",
+      "bytes": 89036,
+      "sha256_html": "55532d425cd85cf7acf17e3d40a7a7bd39077c852f52d92426b1ace0a4725af1",
+      "sha256_text": "2c815c8d7d3aa1784197ba2079b89ecab17eb48d6ba484634312ef0cc744787a"
+    },
+    {
+      "original": "https://annwagner.com/news/pro-life-congresswoman-we-must-stand-up-for-the-right-to-life-of-unborn-babies/",
+      "timestamp": "20241105044142",
+      "wayback": "https://web.archive.org/web/20241105044142/https://annwagner.com/news/pro-life-congresswoman-we-must-stand-up-for-the-right-to-life-of-unborn-babies/",
+      "wayback_raw": "https://web.archive.org/web/20241105044142id_/https://annwagner.com/news/pro-life-congresswoman-we-must-stand-up-for-the-right-to-life-of-unborn-babies/",
+      "file": "archive/2024/wagner-mo/news-pro-life-congresswoman-we-must-stand-up-for-the-right-to-life-of-unborn-babies.html",
+      "text_file": "archive/2024/wagner-mo/news-pro-life-congresswoman-we-must-stand-up-for-the-right-to-life-of-unborn-babies.txt",
+      "bytes": 78637,
+      "sha256_html": "dd5c759c90d210b0c5aed73abfa0a880664a95b2ff20749aa9ca56f432f83016",
+      "sha256_text": "b407c82c0855483258e016b0d18922062b294d258d6e06c895db66ec8af79907"
+    },
+    {
+      "original": "https://annwagner.com/news/rep-ann-wagner-bidens-incomplete-afghanistan-plan-hurts-interpreters-and-allies-its-a-disgrace/",
+      "timestamp": "20241105044142",
+      "wayback": "https://web.archive.org/web/20241105044142/https://annwagner.com/news/rep-ann-wagner-bidens-incomplete-afghanistan-plan-hurts-interpreters-and-allies-its-a-disgrace/",
+      "wayback_raw": "https://web.archive.org/web/20241105044142id_/https://annwagner.com/news/rep-ann-wagner-bidens-incomplete-afghanistan-plan-hurts-interpreters-and-allies-its-a-disgrace/",
+      "file": "archive/2024/wagner-mo/news-rep-ann-wagner-bidens-incomplete-afghanistan-plan-hurts-interpreters-and-allies-its-a-disgrace.html",
+      "text_file": "archive/2024/wagner-mo/news-rep-ann-wagner-bidens-incomplete-afghanistan-plan-hurts-interpreters-and-allies-its-a-disgrace.txt",
+      "bytes": 79407,
+      "sha256_html": "cccad3de82b59df2a6be19e9ccbaf21ed82c881996ccfb972c53c8cff248fbdc",
+      "sha256_text": "f24a27dbfa79a8098ea92bde1089b689cd084e6f5c22ec4a4f4d92d1f05406d0"
+    },
+    {
+      "original": "https://annwagner.com/news/rep-ann-wagner-covid-and-china-i-wanted-to-hold-china-accountable-dems-blocked-my-plan-im-trying-again/",
+      "timestamp": "20241105044028",
+      "wayback": "https://web.archive.org/web/20241105044028/https://annwagner.com/news/rep-ann-wagner-covid-and-china-i-wanted-to-hold-china-accountable-dems-blocked-my-plan-im-trying-again/",
+      "wayback_raw": "https://web.archive.org/web/20241105044028id_/https://annwagner.com/news/rep-ann-wagner-covid-and-china-i-wanted-to-hold-china-accountable-dems-blocked-my-plan-im-trying-again/",
+      "file": "archive/2024/wagner-mo/news-rep-ann-wagner-covid-and-china-i-wanted-to-hold-china-accountable-dems-blocked-my-plan-im-trying-again.html",
+      "text_file": "archive/2024/wagner-mo/news-rep-ann-wagner-covid-and-china-i-wanted-to-hold-china-accountable-dems-blocked-my-plan-im-trying-again.txt",
+      "bytes": 79551,
+      "sha256_html": "5a1dbd49a0678b7fea7b9e2f565d44878077bd7e7eef752ef87b0bb133f91d1d",
+      "sha256_text": "e264031d913e4ec728d0a7fdfdee3f9610648246271cd62a6baa63874aa0c346"
+    },
+    {
+      "original": "https://annwagner.com/about/",
+      "timestamp": "20241105043958",
+      "wayback": "https://web.archive.org/web/20241105043958/https://annwagner.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105043958id_/https://annwagner.com/about/",
+      "file": "archive/2024/wagner-mo/about.html",
+      "text_file": "archive/2024/wagner-mo/about.txt",
+      "bytes": 78927,
+      "sha256_html": "bba089125cf7dacf2e07027942195becc7b6862b3378cca0a887ff49544199ac",
+      "sha256_text": "decab9ad17bb9d0b2a86c77199ab88f1e9aa3a7380b4aa60ee81e9e5040d3d03"
+    }
+  ],
+  "snapshots_found": {
+    "annwagner.com": 27
+  },
+  "generated_utc": "2026-11-14T16:08:28Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
