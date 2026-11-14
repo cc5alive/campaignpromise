@@ -1,0 +1,55 @@
+name: FEC committee websites
+
+on:
+  workflow_dispatch:
+    inputs:
+      name:
+        description: "Output name (data/fec/websites/<name>-<chunk>.json)"
+        required: true
+      committees:
+        description: "Comma-separated committee IDs"
+        required: true
+      searches:
+        description: "Space-separated candidate searches, each q|STATE|OFFICE"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      chunks: ${{ steps.p.outputs.chunks }}
+    steps:
+      - id: p
+        run: |
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import json
+          ids = [i for i in "${{ github.event.inputs.committees }}".split(",") if i]
+          chunks = [",".join(ids[i:i+9]) for i in range(0, len(ids), 9)]
+          print("chunks=" + json.dumps([{"n": n, "ids": c} for n, c in enumerate(chunks)]))
+          PY
+  lookup:
+    needs: plan
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      max-parallel: 3
+      matrix:
+        chunk: ${{ fromJson(needs.plan.outputs.chunks) }}
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install requests==2.32.3
+      - env:
+          FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
+        run: |
+          S=""; [ "${{ matrix.chunk.n }}" = "0" ] && S="${{ github.event.inputs.searches }}"
+          python pipeline/fec_websites.py data/fec/websites/${{ github.event.inputs.name }}-${{ matrix.chunk.n }}.json "${{ matrix.chunk.ids }}" $S
+      - run: |
+          git config user.name "campaignpromise-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/fec/websites
+          git commit -m "FEC committee websites: ${{ github.event.inputs.name }} chunk ${{ matrix.chunk.n }}" || exit 0
+          for i in 1 2 3 4 5 6 7 8; do git pull --rebase origin main && git push origin HEAD:main && break; sleep $((RANDOM % 10 + 5)); done
