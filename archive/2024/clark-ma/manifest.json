@@ -1,0 +1,148 @@
+{
+  "name": "Katherine M. Clark",
+  "domains_tried": [
+    "katherineclark.org"
+  ],
+  "pages": [
+    {
+      "original": "https://katherineclark.org/",
+      "timestamp": "20241105140531",
+      "wayback": "https://web.archive.org/web/20241105140531/https://katherineclark.org/",
+      "wayback_raw": "https://web.archive.org/web/20241105140531id_/https://katherineclark.org/",
+      "file": "archive/2024/clark-ma/home.html",
+      "text_file": "archive/2024/clark-ma/home.txt",
+      "bytes": 174414,
+      "sha256_html": "4244a447ee5a2a100246d0aea0c4c2df7126d0f09b29e76b64195cef5e3cd2b3",
+      "sha256_text": "6a771709820681cbd20212406ac383612df03b31009e6d9ecca254e89ce6cc3d"
+    },
+    {
+      "original": "https://katherineclark.org/issues-placeholder-image-test-2/",
+      "timestamp": "20241102205423",
+      "wayback": "https://web.archive.org/web/20241102205423/https://katherineclark.org/issues-placeholder-image-test-2/",
+      "wayback_raw": "https://web.archive.org/web/20241102205423id_/https://katherineclark.org/issues-placeholder-image-test-2/",
+      "file": "archive/2024/clark-ma/issues-placeholder-image-test-2.html",
+      "text_file": "archive/2024/clark-ma/issues-placeholder-image-test-2.txt",
+      "bytes": 101591,
+      "sha256_html": "0892fda7f3c9201002adc77ec78bec0e84b38f9b3bca5c6e831cac7f06f7ecd7",
+      "sha256_text": "ea39c2176db06ae476e2893d371859c9d9d54211e0ff8fdb01a2f202eebdeacb"
+    },
+    {
+      "original": "https://katherineclark.org/priorities/",
+      "timestamp": "20241105140451",
+      "wayback": "https://web.archive.org/web/20241105140451/https://katherineclark.org/priorities/",
+      "wayback_raw": "https://web.archive.org/web/20241105140451id_/https://katherineclark.org/priorities/",
+      "file": "archive/2024/clark-ma/priorities.html",
+      "text_file": "archive/2024/clark-ma/priorities.txt",
+      "bytes": 174855,
+      "sha256_html": "bd743ecd298537f30a2bfff9bd2ac5ee7413753479a9a7b8bf4a07f991f91957",
+      "sha256_text": "ec75aa4859b2edfca76755a09d601dd138cfc07c816f37edcbdf691b398c5af9"
+    },
+    {
+      "original": "https://katherineclark.org/priorities/embed/",
+      "timestamp": "20241102050344",
+      "wayback": "https://web.archive.org/web/20241102050344/https://katherineclark.org/priorities/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241102050344id_/https://katherineclark.org/priorities/embed/",
+      "file": "archive/2024/clark-ma/priorities-embed.html",
+      "text_file": "archive/2024/clark-ma/priorities-embed.txt",
+      "bytes": 20130,
+      "sha256_html": "527c8aaded35cac6541e9086931ff7de5d8adf5f83a8a69359e90083f4af33bf",
+      "sha256_text": "900c69c5adf83efef513427b5e7e12601e6faed6c881296254de2fec3d8e3a21"
+    },
+    {
+      "original": "https://katherineclark.org/search/%7Bsearch_term_string%7D/stickyStyles.position_origin_r/",
+      "timestamp": "20241103015110",
+      "wayback": "https://web.archive.org/web/20241103015110/https://katherineclark.org/search/%7Bsearch_term_string%7D/stickyStyles.position_origin_r/",
+      "wayback_raw": "https://web.archive.org/web/20241103015110id_/https://katherineclark.org/search/%7Bsearch_term_string%7D/stickyStyles.position_origin_r/",
+      "file": "archive/2024/clark-ma/search-7bsearch-term-string-7d-stickystyles-position-origin-r.html",
+      "text_file": "archive/2024/clark-ma/search-7bsearch-term-string-7d-stickystyles-position-origin-r.txt",
+      "bytes": 100753,
+      "sha256_html": "f6ea2a272fb3535e5abe290cb91d8bfdf0a998b0c60e4fe970626d92ddb85239",
+      "sha256_text": "fc93fb7fda027fc0597e7090eaaa6a4df5188459ad9ce6e96c338fa464652e05"
+    },
+    {
+      "original": "https://katherineclark.org/search/%7Bsearch_term_string%7D/stickyStyles.position_origin_r/gtm.js/",
+      "timestamp": "20241103165430",
+      "wayback": "https://web.archive.org/web/20241103165430/https://katherineclark.org/search/%7Bsearch_term_string%7D/stickyStyles.position_origin_r/gtm.js/",
+      "wayback_raw": "https://web.archive.org/web/20241103165430id_/https://katherineclark.org/search/%7Bsearch_term_string%7D/stickyStyles.position_origin_r/gtm.js/",
+      "file": "archive/2024/clark-ma/search-7bsearch-term-string-7d-stickystyles-position-origin-r-gtm-js.html",
+      "text_file": "archive/2024/clark-ma/search-7bsearch-term-string-7d-stickystyles-position-origin-r-gtm-js.txt",
+      "bytes": 100865,
+      "sha256_html": "5fa6cdb9945d8f428a6f9eb05f4562f94c149512d03b02e9b104f440c294a7f9",
+      "sha256_text": "2da52e57be905299d835bc612df0709040f88fe2427edda6f92b789c9586106f"
+    },
+    {
+      "original": "https://katherineclark.org/search/%7Bsearch_term_string%7D/stickyStyles.position_origin_r/gtm.start/",
+      "timestamp": "20241103165350",
+      "wayback": "https://web.archive.org/web/20241103165350/https://katherineclark.org/search/%7Bsearch_term_string%7D/stickyStyles.position_origin_r/gtm.start/",
+      "wayback_raw": "https://web.archive.org/web/20241103165350id_/https://katherineclark.org/search/%7Bsearch_term_string%7D/stickyStyles.position_origin_r/gtm.start/",
+      "file": "archive/2024/clark-ma/search-7bsearch-term-string-7d-stickystyles-position-origin-r-gtm-start.html",
+      "text_file": "archive/2024/clark-ma/search-7bsearch-term-string-7d-stickystyles-position-origin-r-gtm-start.txt",
+      "bytes": 100910,
+      "sha256_html": "6b26ce85e441d89591293c8f919ac0d2faa4fde188f6361a58b861d8ffd5e469",
+      "sha256_text": "57c4832a4fd4355507854f99b38647edf8db2bd6e91360fb8d115c401cd5d093"
+    },
+    {
+      "original": "https://katherineclark.org/search/%7Bsearch_term_string%7D/stickyStyles.position_origin_r/gtm.js/gtm.js/",
+      "timestamp": "20241104221121",
+      "wayback": "https://web.archive.org/web/20241104221121/https://katherineclark.org/search/%7Bsearch_term_string%7D/stickyStyles.position_origin_r/gtm.js/gtm.js/",
+      "wayback_raw": "https://web.archive.org/web/20241104221121id_/https://katherineclark.org/search/%7Bsearch_term_string%7D/stickyStyles.position_origin_r/gtm.js/gtm.js/",
+      "file": "archive/2024/clark-ma/search-7bsearch-term-string-7d-stickystyles-position-origin-r-gtm-js-gtm-js.html",
+      "text_file": "archive/2024/clark-ma/search-7bsearch-term-string-7d-stickystyles-position-origin-r-gtm-js-gtm-js.txt",
+      "bytes": 100977,
+      "sha256_html": "c9bcf8fd8e905f5e2eca65ecc33b953218941f4410fb1b9641260532630757c1",
+      "sha256_text": "ad7da344c391c598936b52a30d5fe0834e5a5b06a88b67300d410b9b9fd7538c"
+    },
+    {
+      "original": "https://katherineclark.org/search/%7Bsearch_term_string%7D/stickyStyles.position_origin_r/gtm.js/gtm.start/",
+      "timestamp": "20241104221102",
+      "wayback": "https://web.archive.org/web/20241104221102/https://katherineclark.org/search/%7Bsearch_term_string%7D/stickyStyles.position_origin_r/gtm.js/gtm.start/",
+      "wayback_raw": "https://web.archive.org/web/20241104221102id_/https://katherineclark.org/search/%7Bsearch_term_string%7D/stickyStyles.position_origin_r/gtm.js/gtm.start/",
+      "file": "archive/2024/clark-ma/search-7bsearch-term-string-7d-stickystyles-position-origin-r-gtm-js-gtm-start.html",
+      "text_file": "archive/2024/clark-ma/search-7bsearch-term-string-7d-stickystyles-position-origin-r-gtm-js-gtm-start.txt",
+      "bytes": 101022,
+      "sha256_html": "6eddd0015e0a205a62009e31982428b5f181f08d9d83f1101c417bbca8fe5ee4",
+      "sha256_text": "553082234ef58d31c623fddce5ed92bacea13bd8b8983554409384e28fb8a672"
+    },
+    {
+      "original": "https://katherineclark.org/search/%7Bsearch_term_string%7D/stickyStyles.position_origin_r/gtm.start/gtm.js/",
+      "timestamp": "20241104221033",
+      "wayback": "https://web.archive.org/web/20241104221033/https://katherineclark.org/search/%7Bsearch_term_string%7D/stickyStyles.position_origin_r/gtm.start/gtm.js/",
+      "wayback_raw": "https://web.archive.org/web/20241104221033id_/https://katherineclark.org/search/%7Bsearch_term_string%7D/stickyStyles.position_origin_r/gtm.start/gtm.js/",
+      "file": "archive/2024/clark-ma/search-7bsearch-term-string-7d-stickystyles-position-origin-r-gtm-start-gtm-js.html",
+      "text_file": "archive/2024/clark-ma/search-7bsearch-term-string-7d-stickystyles-position-origin-r-gtm-start-gtm-js.txt",
+      "bytes": 101022,
+      "sha256_html": "d8b318c65b01277628390912b0fa03193c5d10cdcfbbbd867a09e2201d630292",
+      "sha256_text": "a94c279c4c4567c3015633dc1bbc867a8ffe458fc6469c365628bab2a3227509"
+    },
+    {
+      "original": "https://katherineclark.org/search/%7Bsearch_term_string%7D/stickyStyles.position_origin_r/gtm.start/gtm.start/",
+      "timestamp": "20241104165740",
+      "wayback": "https://web.archive.org/web/20241104165740/https://katherineclark.org/search/%7Bsearch_term_string%7D/stickyStyles.position_origin_r/gtm.start/gtm.start/",
+      "wayback_raw": "https://web.archive.org/web/20241104165740id_/https://katherineclark.org/search/%7Bsearch_term_string%7D/stickyStyles.position_origin_r/gtm.start/gtm.start/",
+      "file": "archive/2024/clark-ma/search-7bsearch-term-string-7d-stickystyles-position-origin-r-gtm-start-gtm-start.html",
+      "text_file": "archive/2024/clark-ma/search-7bsearch-term-string-7d-stickystyles-position-origin-r-gtm-start-gtm-start.txt",
+      "bytes": 101067,
+      "sha256_html": "e5f6e599fd03bc1e64d424f2c8c687109b07ac2e106075a881a930bee7a5947d",
+      "sha256_text": "bdb18f7e2a4480aaccd32c04e4d01dd214e771fd0fee4f9d519272e1502f8963"
+    },
+    {
+      "original": "https://katherineclark.org/about/",
+      "timestamp": "20241105140442",
+      "wayback": "https://web.archive.org/web/20241105140442/https://katherineclark.org/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105140442id_/https://katherineclark.org/about/",
+      "file": "archive/2024/clark-ma/about.html",
+      "text_file": "archive/2024/clark-ma/about.txt",
+      "bytes": 121189,
+      "sha256_html": "2d0fa3b16afc0b255f77ea9657b4d3572466d36e639b9639924a9f22dcf12fd0",
+      "sha256_text": "599dce653b7be9bc3cffc3b0470977ac59e671757b80b594f4ed4e3e33bc6034"
+    }
+  ],
+  "snapshots_found": {
+    "katherineclark.org": 326
+  },
+  "generated_utc": "2026-11-14T16:09:53Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
