@@ -1,0 +1,1086 @@
+{
+ "round": "issues",
+ "promises": [
+  {
+   "id": "ISSUES-001",
+   "member": "curtis",
+   "name": "John Curtis",
+   "party": "R",
+   "chamber": "Senate",
+   "state": "UT",
+   "quote": "John is committed to stopping the cartels’ deadly flow of fentanyl, human trafficking, and illegal immigrants into the U.S.",
+   "kind": "Pledge",
+   "issue": "Fentanyl",
+   "source": {
+    "original": "https://www.johncurtis.org/issues/",
+    "snapshot": "20241105071509",
+    "wayback": "https://web.archive.org/web/20241105071509/https://www.johncurtis.org/issues/",
+    "file": "archive/2024/curtis/issues.html",
+    "sha256_html": "d530ce4f51c7171ac9ffe53086a3db7615cc851898ccccff0976e423ac05156b"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "senate-1-00127",
+     "bill": "HALT Fentanyl Act",
+     "question": "final passage",
+     "date": "2025-03-14",
+     "vote": "Yea",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00127.xml"
+    }
+   ],
+   "note": "The HALT Fentanyl Act permanently lists fentanyl-related substances as Schedule I drugs, which brings tougher trafficking penalties. Judgment needed: the promise is about cartels and the border; the bill is about drug scheduling and penalties.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ISSUES-002",
+   "member": "gillen-ny",
+   "name": "Laura Gillen",
+   "party": "D",
+   "chamber": "House",
+   "state": "NY",
+   "quote": "I will work to pass legislation to make it easier to prosecute drug traffickers who distribute and traffic fentanyl.",
+   "kind": "Pledge",
+   "issue": "Fentanyl",
+   "source": {
+    "original": "https://lauragillen.com/issues/",
+    "snapshot": "20241105204556",
+    "wayback": "https://web.archive.org/web/20241105204556/https://lauragillen.com/issues/",
+    "file": "archive/2024/gillen-ny/issues.html",
+    "sha256_html": "b3b651f45fd54fb6cac202148f0d8d9cb64f437e8ebf89419d467d48ccafc0ca"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-166",
+     "bill": "HALT Fentanyl Act",
+     "question": "final passage",
+     "date": "2025-06-12",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll166.xml"
+    }
+   ],
+   "note": "The HALT Fentanyl Act permanently lists fentanyl-related substances as Schedule I drugs, which brings tougher trafficking penalties.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ISSUES-003",
+   "member": "evans-co",
+   "name": "Gabe Evans",
+   "party": "R",
+   "chamber": "House",
+   "state": "CO",
+   "quote": "I support putting repeat violent offenders behind bars, ending reckless “cashless bail” policies, and cracking down on fentanyl dealers who prey on our kids.",
+   "kind": "Stated position",
+   "issue": "Fentanyl",
+   "source": {
+    "original": "https://electgabeevans.com/issues/american-security/",
+    "snapshot": "20241105204607",
+    "wayback": "https://web.archive.org/web/20241105204607/https://electgabeevans.com/issues/american-security/",
+    "file": "archive/2024/evans-co/issues-american-security.html",
+    "sha256_html": "e4ac8f6964d9d04afdcf8d9dbc4b505e598705fa6824e9b7f2ff9bab6a8c73ae"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-166",
+     "bill": "HALT Fentanyl Act",
+     "question": "final passage",
+     "date": "2025-06-12",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll166.xml"
+    }
+   ],
+   "note": "The HALT Fentanyl Act permanently lists fentanyl-related substances as Schedule I drugs, which brings tougher trafficking penalties.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ISSUES-004",
+   "member": "lee-nv",
+   "name": "Susie Lee",
+   "party": "D",
+   "chamber": "House",
+   "state": "NV",
+   "quote": "Lee continues to support law enforcement by leading calls to stand up to China’s role in fentanyl production and leading legislation to stop fentanyl trafficking.",
+   "kind": "Stated position",
+   "issue": "Fentanyl",
+   "source": {
+    "original": "https://susieleeforcongress.com/police-leaders-for-community-safety-endorse-susie-lee-for-re-election/",
+    "snapshot": "20241105181115",
+    "wayback": "https://web.archive.org/web/20241105181115/https://susieleeforcongress.com/police-leaders-for-community-safety-endorse-susie-lee-for-re-election/",
+    "file": "archive/2024/lee-nv/police-leaders-for-community-safety-endorse-susie-lee-for-re-election.html",
+    "sha256_html": "5da4fe9d3aa002ebd1e2dc61093d482ec6efff6558e40cc54240e15e6738e8f4"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-166",
+     "bill": "HALT Fentanyl Act",
+     "question": "final passage",
+     "date": "2025-06-12",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll166.xml"
+    }
+   ],
+   "note": "The HALT Fentanyl Act permanently lists fentanyl-related substances as Schedule I drugs, which brings tougher trafficking penalties.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ISSUES-005",
+   "member": "scott-fl",
+   "name": "Rick Scott",
+   "party": "R",
+   "chamber": "Senate",
+   "state": "FL",
+   "quote": "Senator Scott is committed to combatting the fentanyl crisis, protecting Florida students, and keeping Floridians safe.",
+   "kind": "Stated position",
+   "issue": "Fentanyl",
+   "source": {
+    "original": "https://rickscott.com/endorsement/florida-police-chiefs-association/",
+    "snapshot": "20241105163111",
+    "wayback": "https://web.archive.org/web/20241105163111/https://rickscott.com/endorsement/florida-police-chiefs-association/",
+    "file": "archive/2024/scott-fl/endorsement-florida-police-chiefs-association.html",
+    "sha256_html": "9a548d15acde524d5b3e86b5a7fdcb6d5e4efbe3030e64c32874a5eeb94f0d1a"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "senate-1-00127",
+     "bill": "HALT Fentanyl Act",
+     "question": "final passage",
+     "date": "2025-03-14",
+     "vote": "Yea",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00127.xml"
+    }
+   ],
+   "note": "The HALT Fentanyl Act permanently lists fentanyl-related substances as Schedule I drugs, which brings tougher trafficking penalties. Judgment needed: broad statement.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ISSUES-006",
+   "member": "baldwin-wi",
+   "name": "Tammy Baldwin",
+   "party": "D",
+   "chamber": "Senate",
+   "state": "WI",
+   "quote": "Tammy is leading the fight against fentanyl by pushing to increase penalties for drug trafficking, cutting off global supply chains by cracking down on transnational criminal groups that traffic fentanyl into the U.S., and taking the fight directly to China who allows criminals to ship drugs purchased online directly into the US through the mail.",
+   "kind": "Stated position",
+   "issue": "Fentanyl",
+   "source": {
+    "original": "https://www.tammybaldwin.com/issues/opioid-epidemic/",
+    "snapshot": "20241006042156",
+    "wayback": "https://web.archive.org/web/20241006042156/https://www.tammybaldwin.com/issues/opioid-epidemic/",
+    "file": "archive/2024/baldwin-wi/issues-opioid-epidemic.html",
+    "sha256_html": "6e306e15d97e3b04e4be8e6c73e19c9d38cd48fe337df619aa3b393f0b34f0a3"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "senate-1-00127",
+     "bill": "HALT Fentanyl Act",
+     "question": "final passage",
+     "date": "2025-03-14",
+     "vote": "Yea",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00127.xml"
+    }
+   ],
+   "note": "The HALT Fentanyl Act permanently lists fentanyl-related substances as Schedule I drugs, which brings tougher trafficking penalties.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ISSUES-007",
+   "member": "hamadeh-az",
+   "name": "Abraham J. Hamadeh",
+   "party": "R",
+   "chamber": "House",
+   "state": "AZ",
+   "quote": "Abe will always fight for the rights of the unborn, especially against any effort that allows abortion with little to no restrictions.",
+   "kind": "Pledge",
+   "issue": "Abortion",
+   "source": {
+    "original": "https://www.abeforaz.com/our-issues",
+    "snapshot": "20241105202611",
+    "wayback": "https://web.archive.org/web/20241105202611/https://www.abeforaz.com/our-issues",
+    "file": "archive/2024/hamadeh-az/our-issues.html",
+    "sha256_html": "621a9a24ef6e871fa5d79b6aa8c9a9890d5e0302a100df98b8dc3c0c940f9cc2"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-027",
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "question": "final passage",
+     "date": "2025-01-23",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll027.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ISSUES-008",
+   "member": "nunn-ia",
+   "name": "Zachary Nunn",
+   "party": "R",
+   "chamber": "House",
+   "state": "IA",
+   "quote": "He is a recognized pro-life leader, committed to fighting for the unborn.",
+   "kind": "Stated position",
+   "issue": "Abortion",
+   "source": {
+    "original": "https://zachnunn.com/issues/",
+    "snapshot": "20241105155958",
+    "wayback": "https://web.archive.org/web/20241105155958/https://zachnunn.com/issues/",
+    "file": "archive/2024/nunn-ia/issues.html",
+    "sha256_html": "9b24e25c4b6d9f126453a1286b5c7c66e0af3a8d1702c446278070ae435185ac"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-027",
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "question": "final passage",
+     "date": "2025-01-23",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll027.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ISSUES-009",
+   "member": "owens-ut",
+   "name": "Burgess Owens",
+   "party": "R",
+   "chamber": "House",
+   "state": "UT",
+   "quote": "This issue is deeply personal to me, and I will always stand for the unborn.",
+   "kind": "Pledge",
+   "issue": "Abortion",
+   "source": {
+    "original": "https://burgess4utah.com/issues/life/",
+    "snapshot": "20241105190149",
+    "wayback": "https://web.archive.org/web/20241105190149/https://burgess4utah.com/issues/life/",
+    "file": "archive/2024/owens-ut/issues-life.html",
+    "sha256_html": "86212043146bc3bc05a7213aead4c5f3577e047d89a11b7a71d52115b8d1eb34"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-027",
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "question": "final passage",
+     "date": "2025-01-23",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll027.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ISSUES-010",
+   "member": "ogles-tn",
+   "name": "Andrew Ogles",
+   "party": "R",
+   "chamber": "House",
+   "state": "TN",
+   "quote": "America is a nation that recognizes and honors the intrinsic value of all human life; therefore, I will commit to protecting the rights of the unborn from the point of conception, block taxpayer funding of abortions everywhere, and defund Planned Parenthood.",
+   "kind": "Pledge",
+   "issue": "Abortion",
+   "source": {
+    "original": "https://andyogles.com/issues/",
+    "snapshot": "20241105054606",
+    "wayback": "https://web.archive.org/web/20241105054606/https://andyogles.com/issues/",
+    "file": "archive/2024/ogles-tn/issues.html",
+    "sha256_html": "237396f75d714dc49a3cd89d3e3fb44c179c76005dc01a02ffe0598bab207d64"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-027",
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "question": "final passage",
+     "date": "2025-01-23",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll027.xml"
+    },
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "2025-05-22",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "2025-07-03",
+     "vote": "Aye",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "H.R.1 blocked Medicaid payments to Planned Parenthood for one year.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ISSUES-011",
+   "member": "roy-tx",
+   "name": "Chip Roy",
+   "party": "R",
+   "chamber": "House",
+   "state": "TX",
+   "quote": "So I will always fight to defend the sanctity of life and to oppose abortion in any form.",
+   "kind": "Pledge",
+   "issue": "Abortion",
+   "source": {
+    "original": "https://chiproy.com/issues/",
+    "snapshot": "20241105182606",
+    "wayback": "https://web.archive.org/web/20241105182606/https://chiproy.com/issues/",
+    "file": "archive/2024/roy-tx/issues.html",
+    "sha256_html": "693854d5df4e06b4c4696c7453053e535655ceb597e87c0c03a733dfa758a6c4"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-027",
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "question": "final passage",
+     "date": "2025-01-23",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll027.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ISSUES-012",
+   "member": "massie",
+   "name": "Thomas Massie",
+   "party": "R",
+   "chamber": "House",
+   "state": "KY",
+   "quote": "I will vote against government funding of abortion services and will vote to defund Planned Parenthood.",
+   "kind": "Pledge",
+   "issue": "Abortion",
+   "source": {
+    "original": "https://www.thomasmassie.com/",
+    "snapshot": "20241105102016",
+    "wayback": "https://web.archive.org/web/20241105102016/https://www.thomasmassie.com/",
+    "file": "archive/2024/massie/home.html",
+    "sha256_html": "3f9f2a6c50774a427e6b6a4c2f812e4d52e2207d969d993e145b1b03047b2c5f"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "2025-05-22",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "2025-07-03",
+     "vote": "No",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ],
+   "note": "H.R.1 blocked Medicaid payments to Planned Parenthood for one year. Judgment needed: a vote on the whole bill also turned on many unrelated provisions.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ISSUES-013",
+   "member": "kiggans-va",
+   "name": "Jennifer A. Kiggans",
+   "party": "R",
+   "chamber": "House",
+   "state": "VA",
+   "quote": "protect born-alive abortion survivors",
+   "kind": "Stated position",
+   "issue": "Abortion",
+   "source": {
+    "original": "https://jenforcongress.com/issues/",
+    "snapshot": "20241105201933",
+    "wayback": "https://web.archive.org/web/20241105201933/https://jenforcongress.com/issues/",
+    "file": "archive/2024/kiggans-va/issues.html",
+    "sha256_html": "ad30cfc70a4ad43513063411cad598aee11b9561f01858c8ec50b3104b93c8a3"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-027",
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "question": "final passage",
+     "date": "2025-01-23",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll027.xml"
+    }
+   ],
+   "note": "Issues-page bullet; this is exactly what the bill covers.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ISSUES-014",
+   "member": "curtis",
+   "name": "John Curtis",
+   "party": "R",
+   "chamber": "Senate",
+   "state": "UT",
+   "quote": "John is a pro-life, pro-Second Amendment, fiscal conservative who is committed to cutting Biden’s reckless spending.",
+   "kind": "Stated position",
+   "issue": "Abortion",
+   "source": {
+    "original": "https://www.johncurtis.org/issues/",
+    "snapshot": "20241105071509",
+    "wayback": "https://web.archive.org/web/20241105071509/https://www.johncurtis.org/issues/",
+    "file": "archive/2024/curtis/issues.html",
+    "sha256_html": "d530ce4f51c7171ac9ffe53086a3db7615cc851898ccccff0976e423ac05156b"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "senate-1-00011",
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "question": "vote to start debate (needed 60)",
+     "date": "2025-01-22",
+     "vote": "Yea",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00011.xml"
+    }
+   ],
+   "note": "Senate vote to start debate on the Born-Alive bill (failed, 52-47; needed 60).",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ISSUES-015",
+   "member": "mccormick-pa",
+   "name": "David McCormick",
+   "party": "R",
+   "chamber": "Senate",
+   "state": "PA",
+   "quote": "Dave is pro-life, is opposed to a national abortion ban, and supports exceptions in the cases of rape, incest, and saving the life of the mother.",
+   "kind": "Stated position",
+   "issue": "Abortion",
+   "source": {
+    "original": "https://www.davemccormickpa.com/issues/",
+    "snapshot": "20241104153058",
+    "wayback": "https://web.archive.org/web/20241104153058/https://www.davemccormickpa.com/issues/",
+    "file": "archive/2024/mccormick-pa/issues.html",
+    "sha256_html": "d069ef03f43a68835aa4f048dbed02b7c01877e2a212880cfeb25bd687dd847e"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "senate-1-00011",
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "question": "vote to start debate (needed 60)",
+     "date": "2025-01-22",
+     "vote": "Yea",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00011.xml"
+    }
+   ],
+   "note": "Senate vote to start debate on the Born-Alive bill (failed, 52-47; needed 60).",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ISSUES-016",
+   "member": "gillen-ny",
+   "name": "Laura Gillen",
+   "party": "D",
+   "chamber": "House",
+   "state": "NY",
+   "quote": "I will always fight for our reproductive freedoms and abortion rights.",
+   "kind": "Pledge",
+   "issue": "Abortion",
+   "source": {
+    "original": "https://lauragillen.com/issues/",
+    "snapshot": "20241105204556",
+    "wayback": "https://web.archive.org/web/20241105204556/https://lauragillen.com/issues/",
+    "file": "archive/2024/gillen-ny/issues.html",
+    "sha256_html": "b3b651f45fd54fb6cac202148f0d8d9cb64f437e8ebf89419d467d48ccafc0ca"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-027",
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "question": "final passage",
+     "date": "2025-01-23",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll027.xml"
+    }
+   ],
+   "note": "Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ISSUES-017",
+   "member": "mcbride-de",
+   "name": "Sarah McBride",
+   "party": "D",
+   "chamber": "House",
+   "state": "DE",
+   "quote": "As MAGA extremists continue to criminalize abortion, I will fight to protect the private relationship between a patient and their physician.",
+   "kind": "Pledge",
+   "issue": "Abortion",
+   "source": {
+    "original": "https://www.sarahmcbride.com/priorities",
+    "snapshot": "20241105043249",
+    "wayback": "https://web.archive.org/web/20241105043249/https://www.sarahmcbride.com/priorities",
+    "file": "archive/2024/mcbride-de/priorities.html",
+    "sha256_html": "8e6068a95756d37986c6e2d8a432c575e0a72fa1126b9fab8d8f3b0190a81996"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-027",
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "question": "final passage",
+     "date": "2025-01-23",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll027.xml"
+    }
+   ],
+   "note": "Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ISSUES-018",
+   "member": "murphy-ct",
+   "name": "Christopher Murphy",
+   "party": "D",
+   "chamber": "Senate",
+   "state": "CT",
+   "quote": "That means standing up for women’s rights and fighting to ensure women — no matter where they live — have access to abortion and contraceptives.",
+   "kind": "Stated position",
+   "issue": "Abortion",
+   "source": {
+    "original": "https://chrismurphy.com/issues/",
+    "snapshot": "20241004082606",
+    "wayback": "https://web.archive.org/web/20241004082606/https://chrismurphy.com/issues/",
+    "file": "archive/2024/murphy-ct/issues.html",
+    "sha256_html": "bbe325228873345545f0d5f534d0a07a8c64b19219f63b56973da70604eacdbb"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "senate-1-00011",
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "question": "vote to start debate (needed 60)",
+     "date": "2025-01-22",
+     "vote": "Nay",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00011.xml"
+    }
+   ],
+   "note": "Senate vote to start debate on the Born-Alive bill (failed, 52-47; needed 60). Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ISSUES-019",
+   "member": "baldwin-wi",
+   "name": "Tammy Baldwin",
+   "party": "D",
+   "chamber": "Senate",
+   "state": "WI",
+   "quote": "Tammy is a champion for women’s freedoms, fighting to restore Wisconsinites’ right to make their own health care decisions in the face of the 1849 abortion ban.",
+   "kind": "Stated position",
+   "issue": "Abortion",
+   "source": {
+    "original": "https://www.tammybaldwin.com/",
+    "snapshot": "20241101172647",
+    "wayback": "https://web.archive.org/web/20241101172647/https://www.tammybaldwin.com/",
+    "file": "archive/2024/baldwin-wi/home.html",
+    "sha256_html": "97edd764a918cdc9f9d1bb980f2a73cfbceb1a8f9910071ffac7bf763c932891"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "senate-1-00011",
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "question": "vote to start debate (needed 60)",
+     "date": "2025-01-22",
+     "vote": "Nay",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00011.xml"
+    }
+   ],
+   "note": "Senate vote to start debate on the Born-Alive bill (failed, 52-47; needed 60). Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ISSUES-020",
+   "member": "figures-al",
+   "name": "Shomari Figures",
+   "party": "D",
+   "chamber": "House",
+   "state": "AL",
+   "quote": "Protect reproductive rights and ensure every patient can make their own healthcare decisions - on their own, for their own futures.",
+   "kind": "Stated position",
+   "issue": "Abortion",
+   "source": {
+    "original": "https://www.figuresforcongress.com/issues",
+    "snapshot": "20241105064916",
+    "wayback": "https://web.archive.org/web/20241105064916/https://www.figuresforcongress.com/issues",
+    "file": "archive/2024/figures-al/issues.html",
+    "sha256_html": "162c74d90f982a32043e3bd41d741d5f779c730d78f01a67ec9677b46a1a5bb6"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-027",
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "question": "final passage",
+     "date": "2025-01-23",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll027.xml"
+    }
+   ],
+   "note": "Issues-page bullet. Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ISSUES-021",
+   "member": "lee-pa",
+   "name": "Summer L. Lee",
+   "party": "D",
+   "chamber": "House",
+   "state": "PA",
+   "quote": "We need to protect abortion rights and guarantee access to reproductive health care at the federal level.>",
+   "kind": "Stated position",
+   "issue": "Abortion",
+   "source": {
+    "original": "https://summerforpa.com/issues/",
+    "snapshot": "20241105132031",
+    "wayback": "https://web.archive.org/web/20241105132031/https://summerforpa.com/issues/",
+    "file": "archive/2024/lee-pa/issues.html",
+    "sha256_html": "440ec7a82d0183a7c9ef33e7e7ac0141a2111837189f37528c8df1d7f37e32b1"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-027",
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "question": "final passage",
+     "date": "2025-01-23",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll027.xml"
+    }
+   ],
+   "note": "Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ISSUES-022",
+   "member": "kaptur-oh",
+   "name": "Marcy Kaptur",
+   "party": "D",
+   "chamber": "House",
+   "state": "OH",
+   "quote": "Marcy knows that the criminalization of reproductive healthcare must be fought in every instance.",
+   "kind": "Stated position",
+   "issue": "Abortion",
+   "source": {
+    "original": "https://marcykaptur.com/priorities/",
+    "snapshot": "20241105135634",
+    "wayback": "https://web.archive.org/web/20241105135634/https://marcykaptur.com/priorities/",
+    "file": "archive/2024/kaptur-oh/priorities.html",
+    "sha256_html": "8ba823db6d4426eedd5b24adb57fff0294a98954a962a54a7ac2188b9280bb82"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-027",
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "question": "final passage",
+     "date": "2025-01-23",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll027.xml"
+    }
+   ],
+   "note": "Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ISSUES-023",
+   "member": "stevens-mi",
+   "name": "Haley M. Stevens",
+   "party": "D",
+   "chamber": "House",
+   "state": "MI",
+   "quote": "Now more than ever, as the right to an abortion is under attack across the nation, we need pro-choice women in Congress who will never stop fighting to defend the right to choose.",
+   "kind": "Pledge",
+   "issue": "Abortion",
+   "source": {
+    "original": "https://haleystevensforcongress.com/issues/a-voice-for-women/",
+    "snapshot": "20241104032841",
+    "wayback": "https://web.archive.org/web/20241104032841/https://haleystevensforcongress.com/issues/a-voice-for-women/",
+    "file": "archive/2024/stevens-mi/issues-a-voice-for-women.html",
+    "sha256_html": "54409e1c13e33cad9aec3add326f14ccab8b981dbcdb25e7486a6ae55189f833"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-027",
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "question": "final passage",
+     "date": "2025-01-23",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll027.xml"
+    }
+   ],
+   "note": "Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ISSUES-024",
+   "member": "sykes-oh",
+   "name": "Emilia Strong Sykes",
+   "party": "D",
+   "chamber": "House",
+   "state": "OH",
+   "quote": "As a co-sponsor of the Women’s Health Protection Act and a member of the Pro-Choice Caucus, Emilia is fighting against any attempts to criminalize abortion and contraception or punish women and will stand up for victims of rape, incest, and domestic abuse.",
+   "kind": "Pledge",
+   "issue": "Abortion",
+   "source": {
+    "original": "https://www.emiliasykesforcongress.com/issues",
+    "snapshot": "20241031143606",
+    "wayback": "https://web.archive.org/web/20241031143606/https://www.emiliasykesforcongress.com/issues",
+    "file": "archive/2024/sykes-oh/issues.html",
+    "sha256_html": "fc637d2d2ea8e5a7b1910aff3398d7799df33575e76a7de6c56a1b4b087930fb"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-027",
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "question": "final passage",
+     "date": "2025-01-23",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll027.xml"
+    }
+   ],
+   "note": "Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ISSUES-025",
+   "member": "moskowitz-fl",
+   "name": "Jared Moskowitz",
+   "party": "D",
+   "chamber": "House",
+   "state": "FL",
+   "quote": "In Congress, he has been committed to making sure reproductive rights are protected by the federal government and that we continue the fight for health care equity.",
+   "kind": "Stated position",
+   "issue": "Abortion",
+   "source": {
+    "original": "https://jaredforflorida.com/issues/",
+    "snapshot": "20241105141803",
+    "wayback": "https://web.archive.org/web/20241105141803/https://jaredforflorida.com/issues/",
+    "file": "archive/2024/moskowitz-fl/issues.html",
+    "sha256_html": "a10cec158284752a79684fd5b0f4cf0a5ba9ca7c69050deeb49cbeb3a9b50340"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-027",
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "question": "final passage",
+     "date": "2025-01-23",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll027.xml"
+    }
+   ],
+   "note": "Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ISSUES-026",
+   "member": "aoc",
+   "name": "Alexandria Ocasio-Cortez",
+   "party": "D",
+   "chamber": "House",
+   "state": "NY",
+   "quote": "Protect abortion access across the country, particularly in the south, black and brown and working class communities where people are already routinely denied access to reproductive care",
+   "kind": "Stated position",
+   "issue": "Abortion",
+   "source": {
+    "original": "https://www.ocasiocortez.com/issues",
+    "snapshot": "20241105205624",
+    "wayback": "https://web.archive.org/web/20241105205624/https://www.ocasiocortez.com/issues",
+    "file": "archive/2024/aoc/issues.html",
+    "sha256_html": "eefd4c74c1e1c9cff11a0061f5befd7f570dfcb03bbec42554c116d587bc0a30"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-027",
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "question": "final passage",
+     "date": "2025-01-23",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll027.xml"
+    }
+   ],
+   "note": "Issues-page bullet. Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ISSUES-027",
+   "member": "kaine-va",
+   "name": "Tim Kaine",
+   "party": "D",
+   "chamber": "Senate",
+   "state": "VA",
+   "quote": "He is leading the fight to lower health care premiums for all Virginians.",
+   "kind": "Stated position",
+   "issue": "Health care",
+   "source": {
+    "original": "https://timkaine.com/7-days-7-ways-tim-kaine-stands-up-for-virginia-making-healthcare-more-affordable/",
+    "snapshot": "20241102050526",
+    "wayback": "https://web.archive.org/web/20241102050526/https://timkaine.com/7-days-7-ways-tim-kaine-stands-up-for-virginia-making-healthcare-more-affordable/",
+    "file": "archive/2024/kaine-va/7-days-7-ways-tim-kaine-stands-up-for-virginia-making-healthcare-more-affordable.html",
+    "sha256_html": "2ec59c5e1d60a22f69d478cf0b1af83bbbb6a9411861a60667fb2687aadfa448"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "senate-1-00644",
+     "bill": "3-year ACA premium tax credit extension",
+     "question": "vote to start debate (needed 60)",
+     "date": "2025-12-11",
+     "vote": "Yea",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00644.xml"
+    }
+   ],
+   "note": "Senate vote to start debate on a 3-year extension of the enhanced ACA premium tax credits (failed, 51-48; needed 60).",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ISSUES-028",
+   "member": "stevens-mi",
+   "name": "Haley M. Stevens",
+   "party": "D",
+   "chamber": "House",
+   "state": "MI",
+   "quote": "I will continue working hard to lower premiums, reign in prescription drug costs, safeguard essential health protections, grow our healthcare workforce, and promote research and innovation to improve the health and wellbeing of all Americans.",
+   "kind": "Pledge",
+   "issue": "Health care",
+   "source": {
+    "original": "https://haleystevensforcongress.com/issues/healthcare/",
+    "snapshot": "20241031105925",
+    "wayback": "https://web.archive.org/web/20241031105925/https://haleystevensforcongress.com/issues/healthcare/",
+    "file": "archive/2024/stevens-mi/issues-healthcare.html",
+    "sha256_html": "b826c52fd63179ba6989f80e6bf1d333455f6a87eed1887e54e0fd1178515a1f"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-011",
+     "bill": "3-year ACA premium tax credit extension",
+     "question": "final passage",
+     "date": "2026-01-08",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2026/roll011.xml"
+    }
+   ],
+   "note": "The bill would have extended the enhanced ACA premium tax credits for three years.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ISSUES-029",
+   "member": "moskowitz-fl",
+   "name": "Jared Moskowitz",
+   "party": "D",
+   "chamber": "House",
+   "state": "FL",
+   "quote": "He will also work to protect and expand the Affordable Care Act.",
+   "kind": "Pledge",
+   "issue": "Health care",
+   "source": {
+    "original": "https://jaredforflorida.com/",
+    "snapshot": "20241105141533",
+    "wayback": "https://web.archive.org/web/20241105141533/https://jaredforflorida.com/",
+    "file": "archive/2024/moskowitz-fl/home.html",
+    "sha256_html": "c9a3b6bb2248c97e04ee239cb498722a215d5497769333383c019134b2a07444"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-011",
+     "bill": "3-year ACA premium tax credit extension",
+     "question": "final passage",
+     "date": "2026-01-08",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2026/roll011.xml"
+    }
+   ],
+   "note": "The bill would have extended the enhanced ACA premium tax credits for three years.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ISSUES-030",
+   "member": "bell-mo",
+   "name": "Wesley Bell",
+   "party": "D",
+   "chamber": "House",
+   "state": "MO",
+   "quote": "Bell is committed to strengthening our economy by focusing on workers and job and skills training, lowering health insurance and prescription drug costs, standing up for seniors, and protecting our planet by fighting climate change.",
+   "kind": "Stated position",
+   "issue": "Health care",
+   "source": {
+    "original": "https://www.bell4mo.com/",
+    "snapshot": "20241105084243",
+    "wayback": "https://web.archive.org/web/20241105084243/https://www.bell4mo.com/",
+    "file": "archive/2024/bell-mo/home.html",
+    "sha256_html": "8e3ed35c1c420dfefca614607ad52d7040bcbbb5bfbe02e9a5046c6e4400b82b"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-011",
+     "bill": "3-year ACA premium tax credit extension",
+     "question": "final passage",
+     "date": "2026-01-08",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2026/roll011.xml"
+    }
+   ],
+   "note": "The bill would have extended the enhanced ACA premium tax credits for three years.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ISSUES-031",
+   "member": "alsobrooks-md",
+   "name": "Angela D. Alsobrooks",
+   "party": "D",
+   "chamber": "Senate",
+   "state": "MD",
+   "quote": "In the Senate, Angela will build upon the Affordable Care Act to ensure universal health coverage and bring down the cost of health care to ensure all Americans don’t have to make critical health care decisions based on their financial situation.",
+   "kind": "Pledge",
+   "issue": "Health care",
+   "source": {
+    "original": "https://www.angelaalsobrooks.com/priority/health-care",
+    "snapshot": "20241105143213",
+    "wayback": "https://web.archive.org/web/20241105143213/https://www.angelaalsobrooks.com/priority/health-care",
+    "file": "archive/2024/alsobrooks-md/priority-health-care.html",
+    "sha256_html": "c0370a67decfeef5625d1cba8a5e72904de08fbd6e4e277c50b60ddd2938dd80"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "senate-1-00644",
+     "bill": "3-year ACA premium tax credit extension",
+     "question": "vote to start debate (needed 60)",
+     "date": "2025-12-11",
+     "vote": "Yea",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00644.xml"
+    }
+   ],
+   "note": "Senate vote to start debate on a 3-year extension of the enhanced ACA premium tax credits (failed, 51-48; needed 60). Judgment needed: she promised to build on the ACA and lower costs; this was a vote on extending its subsidies.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ISSUES-032",
+   "member": "biggs-az",
+   "name": "Andy Biggs",
+   "party": "R",
+   "chamber": "House",
+   "state": "AZ",
+   "quote": "I promised to fight to repeal Obamacare and I sponsored legislation to do so.",
+   "kind": "Stated position",
+   "issue": "Health care",
+   "source": {
+    "original": "https://biggsforcongress.com/issues/",
+    "snapshot": "20241105081444",
+    "wayback": "https://web.archive.org/web/20241105081444/https://biggsforcongress.com/issues/",
+    "file": "archive/2024/biggs-az/issues.html",
+    "sha256_html": "b2f8c7c46808127b8d354c028826127640310b9931ff74c866b1a44e3bd03173"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-011",
+     "bill": "3-year ACA premium tax credit extension",
+     "question": "final passage",
+     "date": "2026-01-08",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2026/roll011.xml"
+    }
+   ],
+   "note": "The bill would have extended the enhanced ACA premium tax credits for three years. The quote recalls his promise to repeal Obamacare; a no vote is consistent with that position. Judgment needed.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  }
+ ],
+ "rejected": []
+}

@@ -1,0 +1,357 @@
+[
+ {
+  "member": "curtis",
+  "cand": 0,
+  "cand_dir": "candidates_v2",
+  "kind": "Pledge",
+  "issue": "Fentanyl",
+  "votes": [
+   "senate-1-00127"
+  ],
+  "note": "The HALT Fentanyl Act permanently lists fentanyl-related substances as Schedule I drugs, which brings tougher trafficking penalties. Judgment needed: the promise is about cartels and the border; the bill is about drug scheduling and penalties."
+ },
+ {
+  "member": "gillen-ny",
+  "cand": 5,
+  "cand_dir": "candidates_v2",
+  "kind": "Pledge",
+  "issue": "Fentanyl",
+  "votes": [
+   "house-2025-166"
+  ],
+  "note": "The HALT Fentanyl Act permanently lists fentanyl-related substances as Schedule I drugs, which brings tougher trafficking penalties."
+ },
+ {
+  "member": "evans-co",
+  "cand": 15,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Fentanyl",
+  "votes": [
+   "house-2025-166"
+  ],
+  "note": "The HALT Fentanyl Act permanently lists fentanyl-related substances as Schedule I drugs, which brings tougher trafficking penalties."
+ },
+ {
+  "member": "lee-nv",
+  "cand": 1,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Fentanyl",
+  "votes": [
+   "house-2025-166"
+  ],
+  "note": "The HALT Fentanyl Act permanently lists fentanyl-related substances as Schedule I drugs, which brings tougher trafficking penalties."
+ },
+ {
+  "member": "scott-fl",
+  "cand": 3,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Fentanyl",
+  "votes": [
+   "senate-1-00127"
+  ],
+  "note": "The HALT Fentanyl Act permanently lists fentanyl-related substances as Schedule I drugs, which brings tougher trafficking penalties. Judgment needed: broad statement."
+ },
+ {
+  "member": "baldwin-wi",
+  "cand": 5,
+  "cand_dir": "candidates",
+  "kind": "Stated position",
+  "issue": "Fentanyl",
+  "votes": [
+   "senate-1-00127"
+  ],
+  "note": "The HALT Fentanyl Act permanently lists fentanyl-related substances as Schedule I drugs, which brings tougher trafficking penalties."
+ },
+ {
+  "member": "hamadeh-az",
+  "cand": 3,
+  "cand_dir": "candidates_v2",
+  "kind": "Pledge",
+  "issue": "Abortion",
+  "votes": [
+   "house-2025-027"
+  ],
+  "note": ""
+ },
+ {
+  "member": "nunn-ia",
+  "cand": 3,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Abortion",
+  "votes": [
+   "house-2025-027"
+  ],
+  "note": ""
+ },
+ {
+  "member": "owens-ut",
+  "cand": 3,
+  "cand_dir": "candidates_v2",
+  "kind": "Pledge",
+  "issue": "Abortion",
+  "votes": [
+   "house-2025-027"
+  ],
+  "note": ""
+ },
+ {
+  "member": "ogles-tn",
+  "cand": 0,
+  "cand_dir": "candidates_v2",
+  "kind": "Pledge",
+  "issue": "Abortion",
+  "votes": [
+   "house-2025-027",
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": "H.R.1 blocked Medicaid payments to Planned Parenthood for one year."
+ },
+ {
+  "member": "roy-tx",
+  "cand": 4,
+  "cand_dir": "candidates_v2",
+  "kind": "Pledge",
+  "issue": "Abortion",
+  "votes": [
+   "house-2025-027"
+  ],
+  "note": ""
+ },
+ {
+  "member": "massie",
+  "cand": 0,
+  "cand_dir": "candidates_v2",
+  "kind": "Pledge",
+  "issue": "Abortion",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": "H.R.1 blocked Medicaid payments to Planned Parenthood for one year. Judgment needed: a vote on the whole bill also turned on many unrelated provisions."
+ },
+ {
+  "member": "kiggans-va",
+  "cand": 6,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Abortion",
+  "votes": [
+   "house-2025-027"
+  ],
+  "note": "Issues-page bullet; this is exactly what the bill covers."
+ },
+ {
+  "member": "curtis",
+  "cand": 3,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Abortion",
+  "votes": [
+   "senate-1-00011"
+  ],
+  "note": "Senate vote to start debate on the Born-Alive bill (failed, 52-47; needed 60)."
+ },
+ {
+  "member": "mccormick-pa",
+  "cand": 11,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Abortion",
+  "votes": [
+   "senate-1-00011"
+  ],
+  "note": "Senate vote to start debate on the Born-Alive bill (failed, 52-47; needed 60)."
+ },
+ {
+  "member": "gillen-ny",
+  "cand": 1,
+  "cand_dir": "candidates_v2",
+  "kind": "Pledge",
+  "issue": "Abortion",
+  "votes": [
+   "house-2025-027"
+  ],
+  "note": "Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading."
+ },
+ {
+  "member": "mcbride-de",
+  "cand": 1,
+  "cand_dir": "candidates_v2",
+  "kind": "Pledge",
+  "issue": "Abortion",
+  "votes": [
+   "house-2025-027"
+  ],
+  "note": "Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading."
+ },
+ {
+  "member": "murphy-ct",
+  "cand": 2,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Abortion",
+  "votes": [
+   "senate-1-00011"
+  ],
+  "note": "Senate vote to start debate on the Born-Alive bill (failed, 52-47; needed 60). Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading."
+ },
+ {
+  "member": "baldwin-wi",
+  "cand": 4,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Abortion",
+  "votes": [
+   "senate-1-00011"
+  ],
+  "note": "Senate vote to start debate on the Born-Alive bill (failed, 52-47; needed 60). Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading."
+ },
+ {
+  "member": "figures-al",
+  "cand": 0,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Abortion",
+  "votes": [
+   "house-2025-027"
+  ],
+  "note": "Issues-page bullet. Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading."
+ },
+ {
+  "member": "lee-pa",
+  "cand": 12,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Abortion",
+  "votes": [
+   "house-2025-027"
+  ],
+  "note": "Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading."
+ },
+ {
+  "member": "kaptur-oh",
+  "cand": 5,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Abortion",
+  "votes": [
+   "house-2025-027"
+  ],
+  "note": "Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading."
+ },
+ {
+  "member": "stevens-mi",
+  "cand": 2,
+  "cand_dir": "candidates_v2",
+  "kind": "Pledge",
+  "issue": "Abortion",
+  "votes": [
+   "house-2025-027"
+  ],
+  "note": "Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading."
+ },
+ {
+  "member": "sykes-oh",
+  "cand": 0,
+  "cand_dir": "candidates_v2",
+  "kind": "Pledge",
+  "issue": "Abortion",
+  "votes": [
+   "house-2025-027"
+  ],
+  "note": "Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading."
+ },
+ {
+  "member": "moskowitz-fl",
+  "cand": 3,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Abortion",
+  "votes": [
+   "house-2025-027"
+  ],
+  "note": "Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading."
+ },
+ {
+  "member": "aoc",
+  "cand": 9,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Abortion",
+  "votes": [
+   "house-2025-027"
+  ],
+  "note": "Issues-page bullet. Judgment needed: supporters call the Born-Alive Act an infant-care bill; abortion-rights groups opposed it as a restriction on abortion providers that adds criminal penalties for doctors. Whether a no vote keeps this promise depends on that reading."
+ },
+ {
+  "member": "kaine-va",
+  "cand": 12,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Health care",
+  "votes": [
+   "senate-1-00644"
+  ],
+  "note": "Senate vote to start debate on a 3-year extension of the enhanced ACA premium tax credits (failed, 51-48; needed 60)."
+ },
+ {
+  "member": "stevens-mi",
+  "cand": 4,
+  "cand_dir": "candidates_v2",
+  "kind": "Pledge",
+  "issue": "Health care",
+  "votes": [
+   "house-2026-011"
+  ],
+  "note": "The bill would have extended the enhanced ACA premium tax credits for three years."
+ },
+ {
+  "member": "moskowitz-fl",
+  "cand": 1,
+  "cand_dir": "candidates_v2",
+  "kind": "Pledge",
+  "issue": "Health care",
+  "votes": [
+   "house-2026-011"
+  ],
+  "note": "The bill would have extended the enhanced ACA premium tax credits for three years."
+ },
+ {
+  "member": "bell-mo",
+  "cand": 0,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Health care",
+  "votes": [
+   "house-2026-011"
+  ],
+  "note": "The bill would have extended the enhanced ACA premium tax credits for three years."
+ },
+ {
+  "member": "alsobrooks-md",
+  "cand": 3,
+  "cand_dir": "candidates_v2",
+  "kind": "Pledge",
+  "issue": "Health care",
+  "votes": [
+   "senate-1-00644"
+  ],
+  "note": "Senate vote to start debate on a 3-year extension of the enhanced ACA premium tax credits (failed, 51-48; needed 60). Judgment needed: she promised to build on the ACA and lower costs; this was a vote on extending its subsidies."
+ },
+ {
+  "member": "biggs-az",
+  "cand": 6,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Health care",
+  "votes": [
+   "house-2026-011"
+  ],
+  "note": "The bill would have extended the enhanced ACA premium tax credits for three years. The quote recalls his promise to repeal Obamacare; a no vote is consistent with that position. Judgment needed."
+ }
+]
