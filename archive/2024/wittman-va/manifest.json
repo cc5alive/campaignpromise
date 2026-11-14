@@ -1,0 +1,49 @@
+{
+  "name": "Robert J. Wittman",
+  "domains_tried": [
+    "robwittman.com"
+  ],
+  "pages": [
+    {
+      "original": "https://robwittman.com/",
+      "timestamp": "20241105172339",
+      "wayback": "https://web.archive.org/web/20241105172339/https://robwittman.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105172339id_/https://robwittman.com/",
+      "file": "archive/2024/wittman-va/home.html",
+      "text_file": "archive/2024/wittman-va/home.txt",
+      "bytes": 99860,
+      "sha256_html": "92995f9e8e3f1618b11017bcca88d04eff40ad58a1d410e8dd89966776505496",
+      "sha256_text": "e1731ddd228c00cdcdebb2f8a4cb9ccc3ca158e995de7ca6edc0c5d2352bde18"
+    },
+    {
+      "original": "https://robwittman.com/issues/",
+      "timestamp": "20241105172358",
+      "wayback": "https://web.archive.org/web/20241105172358/https://robwittman.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105172358id_/https://robwittman.com/issues/",
+      "file": "archive/2024/wittman-va/issues.html",
+      "text_file": "archive/2024/wittman-va/issues.txt",
+      "bytes": 104415,
+      "sha256_html": "52943b12393bc8063855f59da9dc1225d32e0c696dc75cc874aae3f28dcf8abc",
+      "sha256_text": "63ee6c4f50c45a4266eb783bd80e0d7219b5d8c3bd0e31a835c6a193b65643fe"
+    },
+    {
+      "original": "https://robwittman.com/about/",
+      "timestamp": "20241105172354",
+      "wayback": "https://web.archive.org/web/20241105172354/https://robwittman.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105172354id_/https://robwittman.com/about/",
+      "file": "archive/2024/wittman-va/about.html",
+      "text_file": "archive/2024/wittman-va/about.txt",
+      "bytes": 84644,
+      "sha256_html": "85c7c10decedc1d4a7b4cde8a63ff482f79a0f045c634c7752d760491e87fac2",
+      "sha256_text": "50e34ceae49414d9ab040a833971039d4488f637355298042f80392c3c6328e3"
+    }
+  ],
+  "snapshots_found": {
+    "robwittman.com": 1
+  },
+  "generated_utc": "2026-11-14T22:31:20Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
