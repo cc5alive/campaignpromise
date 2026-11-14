@@ -1,0 +1,27 @@
+{
+  "name": "Pete Ricketts",
+  "domains_tried": [
+    "petericketts.com"
+  ],
+  "pages": [
+    {
+      "original": "https://petericketts.com/",
+      "timestamp": "20241104115837",
+      "wayback": "https://web.archive.org/web/20241104115837/https://petericketts.com/",
+      "wayback_raw": "https://web.archive.org/web/20241104115837id_/https://petericketts.com/",
+      "file": "archive/2024/ricketts-ne/home.html",
+      "text_file": "archive/2024/ricketts-ne/home.txt",
+      "bytes": 111777,
+      "sha256_html": "52032aa0c62c4512318e2ec270f9c5d9d0434dfe17ab0cbd568746c60fa85e39",
+      "sha256_text": "f7144dfa956785b6f47b9f3daedd59a21434195f2c7d46c63caa1fd325942982"
+    }
+  ],
+  "snapshots_found": {
+    "petericketts.com": 5
+  },
+  "generated_utc": "2026-11-14T15:45:52Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
