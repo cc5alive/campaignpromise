@@ -1,0 +1,148 @@
+{
+  "name": "Mike Levin",
+  "domains_tried": [
+    "mikelevin.org"
+  ],
+  "pages": [
+    {
+      "original": "https://www.mikelevin.org/",
+      "timestamp": "20241105211454",
+      "wayback": "https://web.archive.org/web/20241105211454/https://www.mikelevin.org/",
+      "wayback_raw": "https://web.archive.org/web/20241105211454id_/https://www.mikelevin.org/",
+      "file": "archive/2024/levin-ca/home.html",
+      "text_file": "archive/2024/levin-ca/home.txt",
+      "bytes": 132901,
+      "sha256_html": "1176eb838987f29550b8e71663a77b54ac9e4d97f5a2ef33cf86f7b11740bd3b",
+      "sha256_text": "4c9e19f7b162b1776889d21646ce63a7de8599518f2b2e534168960c7491f715"
+    },
+    {
+      "original": "https://www.mikelevin.org/agenda/",
+      "timestamp": "20241105123454",
+      "wayback": "https://web.archive.org/web/20241105123454/https://www.mikelevin.org/agenda/",
+      "wayback_raw": "https://web.archive.org/web/20241105123454id_/https://www.mikelevin.org/agenda/",
+      "file": "archive/2024/levin-ca/agenda.html",
+      "text_file": "archive/2024/levin-ca/agenda.txt",
+      "bytes": 63420,
+      "sha256_html": "7ad885c8b605f1c2e7e92d90bdaf418e8b135151af62debdabd64f12bc1e3b85",
+      "sha256_text": "81a1cb862b3655fe7b70d1f313f1a43a869812bd5c8374b4aa7838a38a099c8d"
+    },
+    {
+      "original": "https://www.mikelevin.org/agenda/animalwelfare/",
+      "timestamp": "20241105123500",
+      "wayback": "https://web.archive.org/web/20241105123500/https://www.mikelevin.org/agenda/animalwelfare/",
+      "wayback_raw": "https://web.archive.org/web/20241105123500id_/https://www.mikelevin.org/agenda/animalwelfare/",
+      "file": "archive/2024/levin-ca/agenda-animalwelfare.html",
+      "text_file": "archive/2024/levin-ca/agenda-animalwelfare.txt",
+      "bytes": 40214,
+      "sha256_html": "a10e2e068fb1b40947b3987d5c5b9383c553d070e5d1cad63c0858c681c47112",
+      "sha256_text": "828a18e67a9ae7d9d79806dd6a3535a9dd934249aac76441abb0a40fa7423b4f"
+    },
+    {
+      "original": "https://www.mikelevin.org/agenda/climate/",
+      "timestamp": "20241105123458",
+      "wayback": "https://web.archive.org/web/20241105123458/https://www.mikelevin.org/agenda/climate/",
+      "wayback_raw": "https://web.archive.org/web/20241105123458id_/https://www.mikelevin.org/agenda/climate/",
+      "file": "archive/2024/levin-ca/agenda-climate.html",
+      "text_file": "archive/2024/levin-ca/agenda-climate.txt",
+      "bytes": 43251,
+      "sha256_html": "8c737ddd46d3826d87fed87cedea32fb93d53300640202e64f31059bdd8c066c",
+      "sha256_text": "a24858a6722718699d704bcbb3ece21f5037984dec6d16768a5b67a77c7e77e3"
+    },
+    {
+      "original": "https://www.mikelevin.org/agenda/coastline/",
+      "timestamp": "20241105123500",
+      "wayback": "https://web.archive.org/web/20241105123500/https://www.mikelevin.org/agenda/coastline/",
+      "wayback_raw": "https://web.archive.org/web/20241105123500id_/https://www.mikelevin.org/agenda/coastline/",
+      "file": "archive/2024/levin-ca/agenda-coastline.html",
+      "text_file": "archive/2024/levin-ca/agenda-coastline.txt",
+      "bytes": 42079,
+      "sha256_html": "adefafce509f40f93f0f4290953aa6466e1b09feb09f2902e24f1514ad211a51",
+      "sha256_text": "19dc214a9500ae503ccf931c5396e5a45b0bf0d6dd0e0aeb1bee22bc3d502533"
+    },
+    {
+      "original": "https://www.mikelevin.org/agenda/costs/",
+      "timestamp": "20241105123459",
+      "wayback": "https://web.archive.org/web/20241105123459/https://www.mikelevin.org/agenda/costs/",
+      "wayback_raw": "https://web.archive.org/web/20241105123459id_/https://www.mikelevin.org/agenda/costs/",
+      "file": "archive/2024/levin-ca/agenda-costs.html",
+      "text_file": "archive/2024/levin-ca/agenda-costs.txt",
+      "bytes": 41136,
+      "sha256_html": "1d3f6b9b8c3b9e32ed9b5c9a9b3418e58ab9b9ff6f59952dfe7822e466870cb4",
+      "sha256_text": "fd727d04c6bae5ac4c58ce9fdba30dcdc27f2b59a7ff4bd63c870988930d83f2"
+    },
+    {
+      "original": "https://www.mikelevin.org/agenda/democracy/",
+      "timestamp": "20241105123457",
+      "wayback": "https://web.archive.org/web/20241105123457/https://www.mikelevin.org/agenda/democracy/",
+      "wayback_raw": "https://web.archive.org/web/20241105123457id_/https://www.mikelevin.org/agenda/democracy/",
+      "file": "archive/2024/levin-ca/agenda-democracy.html",
+      "text_file": "archive/2024/levin-ca/agenda-democracy.txt",
+      "bytes": 41732,
+      "sha256_html": "83d7033935d6e29f0f3ecd3d6bfb84a6be011f86b4253f7533d444f6d83c2b09",
+      "sha256_text": "635b97406f2534499b6f343c04b7f7aa76bd88181c9ce825123fd67dd48ba75a"
+    },
+    {
+      "original": "https://www.mikelevin.org/agenda/economy/",
+      "timestamp": "20241105123500",
+      "wayback": "https://web.archive.org/web/20241105123500/https://www.mikelevin.org/agenda/economy/",
+      "wayback_raw": "https://web.archive.org/web/20241105123500id_/https://www.mikelevin.org/agenda/economy/",
+      "file": "archive/2024/levin-ca/agenda-economy.html",
+      "text_file": "archive/2024/levin-ca/agenda-economy.txt",
+      "bytes": 40360,
+      "sha256_html": "c186a8a635960e41bff44d0456590f1efb2b94c9ee01977660d9038c28dd7f0e",
+      "sha256_text": "cd23222852ab3126d9c692085267de621b7cc75e352fdbf2657db4918dc9e2b6"
+    },
+    {
+      "original": "https://www.mikelevin.org/agenda/education/",
+      "timestamp": "20241105123459",
+      "wayback": "https://web.archive.org/web/20241105123459/https://www.mikelevin.org/agenda/education/",
+      "wayback_raw": "https://web.archive.org/web/20241105123459id_/https://www.mikelevin.org/agenda/education/",
+      "file": "archive/2024/levin-ca/agenda-education.html",
+      "text_file": "archive/2024/levin-ca/agenda-education.txt",
+      "bytes": 41498,
+      "sha256_html": "04bed2205461fd490b95da4642806478708f0e63970e5d32be0a809300b4a3aa",
+      "sha256_text": "ab1e7248269c12947fb9c90ae95a3e072cd8dde3da0457a6fbb69b04dfb6aae9"
+    },
+    {
+      "original": "https://www.mikelevin.org/agenda/gunviolence/",
+      "timestamp": "20241105123933",
+      "wayback": "https://web.archive.org/web/20241105123933/https://www.mikelevin.org/agenda/gunviolence/",
+      "wayback_raw": "https://web.archive.org/web/20241105123933id_/https://www.mikelevin.org/agenda/gunviolence/",
+      "file": "archive/2024/levin-ca/agenda-gunviolence.html",
+      "text_file": "archive/2024/levin-ca/agenda-gunviolence.txt",
+      "bytes": 41174,
+      "sha256_html": "02ce4dc4101e34d120fa0cd337d630cfbc8492f7a74cf77deffb91074de2b410",
+      "sha256_text": "d2eea93ba2a38504fe6b026509af2412b48a289ebc7bde9e6d87a596c02d9f60"
+    },
+    {
+      "original": "https://www.mikelevin.org/agenda/housing/",
+      "timestamp": "20241105123501",
+      "wayback": "https://web.archive.org/web/20241105123501/https://www.mikelevin.org/agenda/housing/",
+      "wayback_raw": "https://web.archive.org/web/20241105123501id_/https://www.mikelevin.org/agenda/housing/",
+      "file": "archive/2024/levin-ca/agenda-housing.html",
+      "text_file": "archive/2024/levin-ca/agenda-housing.txt",
+      "bytes": 41338,
+      "sha256_html": "c547821c24d642eec3685cc589e37d81356be1e6c4971993f584a68fc35dd2c0",
+      "sha256_text": "011a1f0b223ce3a816e7e4f350d46a860f3a087c8459f98882f2bb3a88dcbdb7"
+    },
+    {
+      "original": "https://www.mikelevin.org/agenda/immigration/",
+      "timestamp": "20241105123458",
+      "wayback": "https://web.archive.org/web/20241105123458/https://www.mikelevin.org/agenda/immigration/",
+      "wayback_raw": "https://web.archive.org/web/20241105123458id_/https://www.mikelevin.org/agenda/immigration/",
+      "file": "archive/2024/levin-ca/agenda-immigration.html",
+      "text_file": "archive/2024/levin-ca/agenda-immigration.txt",
+      "bytes": 43215,
+      "sha256_html": "f16a793eb39fcadbb8ce81d6e9872f09c5d3360ddd0579dfc176d11d4303c6a8",
+      "sha256_text": "d857c0e202b25f9fd98430d08879fa18f6aac210d1204e4de65073c345f35859"
+    }
+  ],
+  "snapshots_found": {
+    "mikelevin.org": 42
+  },
+  "generated_utc": "2026-11-14T22:44:21Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
