@@ -1,0 +1,735 @@
+{
+ "round": 1,
+ "generated": "2026-11-14",
+ "promises": [
+  {
+   "id": "P001",
+   "member": "curtis",
+   "quote": "In the Senate, John will work to secure the border and fix our broken immigration system.",
+   "kind": "Pledge",
+   "issue": "Immigration",
+   "source": {
+    "original": "https://www.johncurtis.org/issues/",
+    "snapshot": "20241105071509",
+    "wayback": "https://web.archive.org/web/20241105071509/https://www.johncurtis.org/issues/",
+    "file": "archive/2024/curtis/issues.html",
+    "sha256_html": "d530ce4f51c7171ac9ffe53086a3db7615cc851898ccccff0976e423ac05156b"
+   },
+   "quote_verified_in_source": true,
+   "suggested_test_votes": [
+    "senate-1-00007"
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null,
+   "votes": [
+    {
+     "id": "senate-1-00007",
+     "bill": "Laken Riley Act",
+     "question": "final passage",
+     "date": "January 20, 2025,  0",
+     "vote": "Yea",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00007.xml"
+    }
+   ]
+  },
+  {
+   "id": "P002",
+   "member": "curtis",
+   "quote": "John has been proud to support these industries in Congress, and will continue to work hard to make sure those in Silicon Slopes and throughout Utah have the certainty from the government they need.",
+   "kind": "Pledge",
+   "issue": "Crypto",
+   "source": {
+    "original": "https://www.johncurtis.org/issues/",
+    "snapshot": "20241105071509",
+    "wayback": "https://web.archive.org/web/20241105071509/https://www.johncurtis.org/issues/",
+    "file": "archive/2024/curtis/issues.html",
+    "sha256_html": "d530ce4f51c7171ac9ffe53086a3db7615cc851898ccccff0976e423ac05156b"
+   },
+   "quote_verified_in_source": true,
+   "suggested_test_votes": [
+    "senate-1-00318"
+   ],
+   "note": "\"These industries\" refers to digital assets and crypto, named in the sentences before it.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null,
+   "votes": [
+    {
+     "id": "senate-1-00318",
+     "bill": "GENIUS Act",
+     "question": "final passage",
+     "date": "June 17, 2025,  05:1",
+     "vote": "Yea",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00318.xml"
+    }
+   ]
+  },
+  {
+   "id": "P003",
+   "member": "curtis",
+   "quote": "John is a pro-life, pro-Second Amendment, fiscal conservative who is committed to cutting Biden’s reckless spending.",
+   "kind": "Stated position",
+   "issue": "Federal spending",
+   "source": {
+    "original": "https://www.johncurtis.org/issues/",
+    "snapshot": "20241105071509",
+    "wayback": "https://web.archive.org/web/20241105071509/https://www.johncurtis.org/issues/",
+    "file": "archive/2024/curtis/issues.html",
+    "sha256_html": "d530ce4f51c7171ac9ffe53086a3db7615cc851898ccccff0976e423ac05156b"
+   },
+   "quote_verified_in_source": true,
+   "suggested_test_votes": [
+    "senate-1-00372"
+   ],
+   "note": "Judgment needed: whether the 2025 reconciliation bill counts as cutting spending depends on which baseline you use.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null,
+   "votes": [
+    {
+     "id": "senate-1-00372",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "July 1, 2025,  11:56",
+     "vote": "Yea",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml"
+    }
+   ]
+  },
+  {
+   "id": "P004",
+   "member": "lawler",
+   "quote": "Never supporting any cuts to Social Security, Medicare, or veterans services that violate the sacred promises made to the hard working men and women who built this country, nor those who wore the uniform in defense of our freedoms.",
+   "kind": "Pledge",
+   "issue": "Social Security & Medicare",
+   "source": {
+    "original": "https://www.lawlerforcongress.com/issues/",
+    "snapshot": "20241105043448",
+    "wayback": "https://web.archive.org/web/20241105043448/https://www.lawlerforcongress.com/issues/",
+    "file": "archive/2024/lawler/issues.html",
+    "sha256_html": "1f264b0cb6e94032286585671572da47d33744df68d6f6831513ac638234cde6"
+   },
+   "quote_verified_in_source": true,
+   "suggested_test_votes": [
+    "house-2025-145",
+    "house-2025-190"
+   ],
+   "note": "Judgment needed: the 2025 reconciliation bill cut Medicaid, which this pledge does not name.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "22-May-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "3-Jul-2025",
+     "vote": "Aye",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ]
+  },
+  {
+   "id": "P005",
+   "member": "lawler",
+   "quote": "Introducing both the “Middle Class Tax Relief Act” and “SALT Marriage Penalty Elimination Act” in an ongoing effort to provide tax relief to middle-class Hudson Valley families who have been negatively impacted by the SALT cap",
+   "kind": "Stated position",
+   "issue": "Taxes (SALT)",
+   "source": {
+    "original": "https://www.lawlerforcongress.com/issues/",
+    "snapshot": "20241105043448",
+    "wayback": "https://web.archive.org/web/20241105043448/https://www.lawlerforcongress.com/issues/",
+    "file": "archive/2024/lawler/issues.html",
+    "sha256_html": "1f264b0cb6e94032286585671572da47d33744df68d6f6831513ac638234cde6"
+   },
+   "quote_verified_in_source": true,
+   "suggested_test_votes": [
+    "house-2025-145",
+    "house-2025-190"
+   ],
+   "note": "The 2025 reconciliation bill raised the SALT deduction cap.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "22-May-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "3-Jul-2025",
+     "vote": "Aye",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ]
+  },
+  {
+   "id": "P006",
+   "member": "lawler",
+   "quote": "Secure Our Border and Support Immigration Reform",
+   "kind": "Stated position",
+   "issue": "Immigration",
+   "source": {
+    "original": "https://www.lawlerforcongress.com/issues/",
+    "snapshot": "20241105043448",
+    "wayback": "https://web.archive.org/web/20241105043448/https://www.lawlerforcongress.com/issues/",
+    "file": "archive/2024/lawler/issues.html",
+    "sha256_html": "1f264b0cb6e94032286585671572da47d33744df68d6f6831513ac638234cde6"
+   },
+   "quote_verified_in_source": true,
+   "suggested_test_votes": [
+    "house-2025-006",
+    "house-2025-023"
+   ],
+   "note": "Section heading on the issues page.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null,
+   "votes": [
+    {
+     "id": "house-2025-006",
+     "bill": "Laken Riley Act (House version)",
+     "question": "final passage",
+     "date": "7-Jan-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll006.xml"
+    },
+    {
+     "id": "house-2025-023",
+     "bill": "Laken Riley Act",
+     "question": "final passage",
+     "date": "22-Jan-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll023.xml"
+    }
+   ]
+  },
+  {
+   "id": "P007",
+   "member": "mgp",
+   "quote": "She will protect the benefits that seniors in Southwest Washington are counting on for their retirement and that they’ve paid into their whole working lives.",
+   "kind": "Pledge",
+   "issue": "Social Security & Medicare",
+   "source": {
+    "original": "https://marieforcongress.com/issues/",
+    "snapshot": "20241104225439",
+    "wayback": "https://web.archive.org/web/20241104225439/https://marieforcongress.com/issues/",
+    "file": "archive/2024/mgp/issues.html",
+    "sha256_html": "87268322347090d906c64c6c6c55e93b2fca77d2c25999741b24342883748be0"
+   },
+   "quote_verified_in_source": true,
+   "suggested_test_votes": [
+    "house-2025-145",
+    "house-2025-190"
+   ],
+   "note": "Judgment needed: which provisions of the reconciliation bill affect these benefits.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "22-May-2025",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "3-Jul-2025",
+     "vote": "No",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ]
+  },
+  {
+   "id": "P008",
+   "member": "mgp",
+   "quote": "Marie believes in fighting the drug crisis through increased border security, stricter punishments for sale and possession, expanded access to treatment and rehab, and better job opportunities.",
+   "kind": "Stated position",
+   "issue": "Immigration",
+   "source": {
+    "original": "https://marieforcongress.com/issues/",
+    "snapshot": "20241104225439",
+    "wayback": "https://web.archive.org/web/20241104225439/https://marieforcongress.com/issues/",
+    "file": "archive/2024/mgp/issues.html",
+    "sha256_html": "87268322347090d906c64c6c6c55e93b2fca77d2c25999741b24342883748be0"
+   },
+   "quote_verified_in_source": true,
+   "suggested_test_votes": [
+    "house-2025-006",
+    "house-2025-023"
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null,
+   "votes": [
+    {
+     "id": "house-2025-006",
+     "bill": "Laken Riley Act (House version)",
+     "question": "final passage",
+     "date": "7-Jan-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll006.xml"
+    },
+    {
+     "id": "house-2025-023",
+     "bill": "Laken Riley Act",
+     "question": "final passage",
+     "date": "22-Jan-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll023.xml"
+    }
+   ]
+  },
+  {
+   "id": "P009",
+   "member": "mgp",
+   "quote": "She supports re-introducing and expanding the Child Tax Credit",
+   "kind": "Stated position",
+   "issue": "Taxes (Child Tax Credit)",
+   "source": {
+    "original": "https://marieforcongress.com/issues/",
+    "snapshot": "20241104225439",
+    "wayback": "https://web.archive.org/web/20241104225439/https://marieforcongress.com/issues/",
+    "file": "archive/2024/mgp/issues.html",
+    "sha256_html": "87268322347090d906c64c6c6c55e93b2fca77d2c25999741b24342883748be0"
+   },
+   "quote_verified_in_source": true,
+   "suggested_test_votes": [
+    "house-2025-145",
+    "house-2025-190"
+   ],
+   "note": "Likely mixed: the reconciliation bill raised the credit, and she voted no on the bill as a whole.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "22-May-2025",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "3-Jul-2025",
+     "vote": "No",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ]
+  },
+  {
+   "id": "P010",
+   "member": "torres",
+   "quote": "Ritchie is committed to increased funding for our safety-net hospitals and facilities,like NYC’s Health + Hospitals, which serve Medicaid beneficiaries, undocumented individuals, and the uninsured.",
+   "kind": "Pledge",
+   "issue": "Medicaid",
+   "source": {
+    "original": "https://torres.nyc/issues/access-to-opportunity-for-all",
+    "snapshot": "20241105075822",
+    "wayback": "https://web.archive.org/web/20241105075822/https://torres.nyc/issues/access-to-opportunity-for-all",
+    "file": "archive/2024/torres/issues-access-to-opportunity-for-all.html",
+    "sha256_html": "b8f6d1af14ffbf708d5c028ed3cab9edec4f187672c680bb288ea46f6f93cf1e"
+   },
+   "quote_verified_in_source": true,
+   "suggested_test_votes": [
+    "house-2025-145",
+    "house-2025-190"
+   ],
+   "note": "Quote keeps the source's missing space after the comma.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "22-May-2025",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "3-Jul-2025",
+     "vote": "No",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ]
+  },
+  {
+   "id": "P011",
+   "member": "torres",
+   "quote": "Ritchie believes in assisting more families by protecting and expanding Section 8.",
+   "kind": "Stated position",
+   "issue": "Housing",
+   "source": {
+    "original": "https://torres.nyc/issues/housing",
+    "snapshot": "20241105075822",
+    "wayback": "https://web.archive.org/web/20241105075822/https://torres.nyc/issues/housing",
+    "file": "archive/2024/torres/issues-housing.html",
+    "sha256_html": "04cf1f041f3903e0e0702bbbad4ae71d83aee5cd88e2d743b4c9182fcbfde2bf"
+   },
+   "quote_verified_in_source": true,
+   "suggested_test_votes": [],
+   "note": "No pilot vote tests this yet.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null,
+   "votes": []
+  },
+  {
+   "id": "P012",
+   "member": "aoc",
+   "quote": "It is past time to make undocumented individuals full members of the country they call their home and abolish ICE.",
+   "kind": "Stated position",
+   "issue": "Immigration",
+   "source": {
+    "original": "https://www.ocasiocortez.com/issues",
+    "snapshot": "20241105205624",
+    "wayback": "https://web.archive.org/web/20241105205624/https://www.ocasiocortez.com/issues",
+    "file": "archive/2024/aoc/issues.html",
+    "sha256_html": "eefd4c74c1e1c9cff11a0061f5befd7f570dfcb03bbec42554c116d587bc0a30"
+   },
+   "quote_verified_in_source": true,
+   "suggested_test_votes": [
+    "house-2025-006",
+    "house-2025-023",
+    "house-2025-145",
+    "house-2025-190"
+   ],
+   "note": "The reconciliation bill added ICE funding.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null,
+   "votes": [
+    {
+     "id": "house-2025-006",
+     "bill": "Laken Riley Act (House version)",
+     "question": "final passage",
+     "date": "7-Jan-2025",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll006.xml"
+    },
+    {
+     "id": "house-2025-023",
+     "bill": "Laken Riley Act",
+     "question": "final passage",
+     "date": "22-Jan-2025",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll023.xml"
+    },
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "22-May-2025",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "3-Jul-2025",
+     "vote": "No",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ]
+  },
+  {
+   "id": "P013",
+   "member": "aoc",
+   "quote": "With over 30 million unemployed, and in the face of a global pandemic, we must finally separate health insurance from unemployment and expand Medicare.",
+   "kind": "Stated position",
+   "issue": "Health care",
+   "source": {
+    "original": "https://www.ocasiocortez.com/issues",
+    "snapshot": "20241105205624",
+    "wayback": "https://web.archive.org/web/20241105205624/https://www.ocasiocortez.com/issues",
+    "file": "archive/2024/aoc/issues.html",
+    "sha256_html": "eefd4c74c1e1c9cff11a0061f5befd7f570dfcb03bbec42554c116d587bc0a30"
+   },
+   "quote_verified_in_source": true,
+   "suggested_test_votes": [
+    "house-2025-145",
+    "house-2025-190"
+   ],
+   "note": "Text dates from 2020 but was still on the site on Nov 5, 2024.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "22-May-2025",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "3-Jul-2025",
+     "vote": "No",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ]
+  },
+  {
+   "id": "P014",
+   "member": "massie",
+   "quote": "I will vote against government funding of abortion services and will vote to defund Planned Parenthood.",
+   "kind": "Pledge",
+   "issue": "Abortion funding",
+   "source": {
+    "original": "https://www.thomasmassie.com/",
+    "snapshot": "20241105102016",
+    "wayback": "https://web.archive.org/web/20241105102016/https://www.thomasmassie.com/",
+    "file": "archive/2024/massie/home.html",
+    "sha256_html": "3f9f2a6c50774a427e6b6a4c2f812e4d52e2207d969d993e145b1b03047b2c5f"
+   },
+   "quote_verified_in_source": true,
+   "suggested_test_votes": [
+    "house-2025-145",
+    "house-2025-190"
+   ],
+   "note": "The reconciliation bill included a one-year Medicaid funding ban for Planned Parenthood; he voted no on the bill as a whole (bundled vote).",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null,
+   "votes": [
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "22-May-2025",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "3-Jul-2025",
+     "vote": "No",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ]
+  },
+  {
+   "id": "P015",
+   "member": "massie",
+   "quote": "I support President Trump’s efforts to stop illegal immigration and voted to fund the wall for the full amount requested by the President.",
+   "kind": "Stated position",
+   "issue": "Immigration",
+   "source": {
+    "original": "https://www.thomasmassie.com/",
+    "snapshot": "20241105102016",
+    "wayback": "https://web.archive.org/web/20241105102016/https://www.thomasmassie.com/",
+    "file": "archive/2024/massie/home.html",
+    "sha256_html": "3f9f2a6c50774a427e6b6a4c2f812e4d52e2207d969d993e145b1b03047b2c5f"
+   },
+   "quote_verified_in_source": true,
+   "suggested_test_votes": [
+    "house-2025-006",
+    "house-2025-023",
+    "house-2025-145",
+    "house-2025-190"
+   ],
+   "note": "The reconciliation bill included border wall funding.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null,
+   "votes": [
+    {
+     "id": "house-2025-006",
+     "bill": "Laken Riley Act (House version)",
+     "question": "final passage",
+     "date": "7-Jan-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll006.xml"
+    },
+    {
+     "id": "house-2025-023",
+     "bill": "Laken Riley Act",
+     "question": "final passage",
+     "date": "22-Jan-2025",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll023.xml"
+    },
+    {
+     "id": "house-2025-145",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "22-May-2025",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "id": "house-2025-190",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage (Senate version)",
+     "date": "3-Jul-2025",
+     "vote": "No",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ]
+  },
+  {
+   "id": "P016",
+   "member": "gallego",
+   "quote": "He will continue to stand up to any attempt to privatize or cut Medicare on behalf of the 1.45 million Arizonans who rely on it—and he will fight every day to expand Medicare benefits.",
+   "kind": "Pledge",
+   "issue": "Social Security & Medicare",
+   "source": {
+    "original": "https://gallegoforarizona.com/issues/",
+    "quoted_by": "https://ballotpedia.org/Ruben_Gallego (Campaign themes, 2024)",
+    "wayback": null
+   },
+   "quote_verified_in_source": "ballotpedia",
+   "suggested_test_votes": [
+    "senate-1-00372"
+   ],
+   "note": "Our Nov 1, 2024 Wayback copy of the issues page does not show this text (content likely loaded by script). Needs an earlier snapshot before approval.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null,
+   "votes": [
+    {
+     "id": "senate-1-00372",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "July 1, 2025,  11:56",
+     "vote": "Nay",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml"
+    }
+   ]
+  },
+  {
+   "id": "P017",
+   "member": "gallego",
+   "quote": "He is an unwavering supporter of Medicaid expansion, and he stood up to Republican attempts to gut Arizona’s Medicaid program and dismantle the Affordable Care Act time and again.",
+   "kind": "Stated position",
+   "issue": "Medicaid",
+   "source": {
+    "original": "https://gallegoforarizona.com/issues/",
+    "quoted_by": "https://ballotpedia.org/Ruben_Gallego (Campaign themes, 2024)",
+    "wayback": null
+   },
+   "quote_verified_in_source": "ballotpedia",
+   "suggested_test_votes": [
+    "senate-1-00372"
+   ],
+   "note": "Our Nov 1, 2024 Wayback copy of the issues page does not show this text (content likely loaded by script). Needs an earlier snapshot before approval.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null,
+   "votes": [
+    {
+     "id": "senate-1-00372",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "July 1, 2025,  11:56",
+     "vote": "Nay",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml"
+    }
+   ]
+  },
+  {
+   "id": "P018",
+   "member": "gallego",
+   "quote": "We need smart ways to keep our border secure, allow for a prosperous cross-border economy, reform a broken immigration system, and stop the flow of fentanyl into our communities.",
+   "kind": "Stated position",
+   "issue": "Immigration",
+   "source": {
+    "original": "https://gallegoforarizona.com/issues/",
+    "quoted_by": "https://ballotpedia.org/Ruben_Gallego (Campaign themes, 2024)",
+    "wayback": null
+   },
+   "quote_verified_in_source": "ballotpedia",
+   "suggested_test_votes": [
+    "senate-1-00007"
+   ],
+   "note": "Our Nov 1, 2024 Wayback copy of the issues page does not show this text (content likely loaded by script). Needs an earlier snapshot before approval.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null,
+   "votes": [
+    {
+     "id": "senate-1-00007",
+     "bill": "Laken Riley Act",
+     "question": "final passage",
+     "date": "January 20, 2025,  0",
+     "vote": "Yea",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00007.xml"
+    }
+   ]
+  },
+  {
+   "id": "P019",
+   "member": "gallego",
+   "quote": "It is inexcusable that billionaires and corporations continuously exploit our tax code — Ruben is committed to making sure they pay their fair share",
+   "kind": "Pledge",
+   "issue": "Taxes",
+   "source": {
+    "original": "https://gallegoforarizona.com/issues/",
+    "quoted_by": "https://ballotpedia.org/Ruben_Gallego (Campaign themes, 2024)",
+    "wayback": null
+   },
+   "quote_verified_in_source": "ballotpedia",
+   "suggested_test_votes": [
+    "senate-1-00372"
+   ],
+   "note": "Our Nov 1, 2024 Wayback copy of the issues page does not show this text (content likely loaded by script). Needs an earlier snapshot before approval.",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null,
+   "votes": [
+    {
+     "id": "senate-1-00372",
+     "bill": "2025 reconciliation bill",
+     "question": "final passage",
+     "date": "July 1, 2025,  11:56",
+     "vote": "Nay",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml"
+    }
+   ]
+  }
+ ],
+ "gaps": {
+  "moreno": "Archived 2024 campaign homepage has no issue statements and no issues page was archived. Next: debate transcripts and ads.",
+  "warren": "Archived 2024 campaign homepage has no issue statements; the /plans page dates from her 2020 presidential race. Next: 2024 debate transcripts.",
+  "salazar": "Archived 2024 campaign homepage has only a biography. Next: issues pages under other paths, debates."
+ }
+}
