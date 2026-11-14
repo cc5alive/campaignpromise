@@ -1,0 +1,27 @@
+{
+  "name": "Laura Friedman",
+  "domains_tried": [
+    "lauraforcongress.org"
+  ],
+  "pages": [
+    {
+      "original": "https://www.lauraforcongress.org/",
+      "timestamp": "20241105145352",
+      "wayback": "https://web.archive.org/web/20241105145352/https://www.lauraforcongress.org/",
+      "wayback_raw": "https://web.archive.org/web/20241105145352id_/https://www.lauraforcongress.org/",
+      "file": "archive/2024/friedman-ca/home.html",
+      "text_file": "archive/2024/friedman-ca/home.txt",
+      "bytes": 1233935,
+      "sha256_html": "c833aa17a57e649b06db57bb188d21b4b431335a0b15cd71a19bb0d7a4c0e556",
+      "sha256_text": "4855d33b4e6b46254b0b33a81ba590b61953846138d9ec2ba687b615d42a437e"
+    }
+  ],
+  "snapshots_found": {
+    "lauraforcongress.org": 1403
+  },
+  "generated_utc": "2026-11-14T16:51:39Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
