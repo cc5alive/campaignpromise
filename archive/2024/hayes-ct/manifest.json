@@ -1,0 +1,49 @@
+{
+  "name": "Jahana Hayes",
+  "domains_tried": [
+    "jahanahayes.com"
+  ],
+  "pages": [
+    {
+      "original": "https://jahanahayes.com/",
+      "timestamp": "20241105074849",
+      "wayback": "https://web.archive.org/web/20241105074849/https://jahanahayes.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105074849id_/https://jahanahayes.com/",
+      "file": "archive/2024/hayes-ct/home.html",
+      "text_file": "archive/2024/hayes-ct/home.txt",
+      "bytes": 163064,
+      "sha256_html": "2ba4a24d4a463598468fbb19bac398f80ff7507e68f2a23f7c0ed83e66a725db",
+      "sha256_text": "8cca56973c68f33e57dda2b4803e41c602afcf507dad1d5fb3d0e88b197261e6"
+    },
+    {
+      "original": "https://jahanahayes.com/issues/",
+      "timestamp": "20241105074547",
+      "wayback": "https://web.archive.org/web/20241105074547/https://jahanahayes.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105074547id_/https://jahanahayes.com/issues/",
+      "file": "archive/2024/hayes-ct/issues.html",
+      "text_file": "archive/2024/hayes-ct/issues.txt",
+      "bytes": 144052,
+      "sha256_html": "8907488d3e962e96715658fc4019db63196a7fccbe42f43ffd4b247ef16c0254",
+      "sha256_text": "b29470ff987b16574ea63d39f98fe8d01ad0efdaa8a2e5d2d22d70a6ea5d6c9b"
+    },
+    {
+      "original": "https://jahanahayes.com/about/",
+      "timestamp": "20241105074547",
+      "wayback": "https://web.archive.org/web/20241105074547/https://jahanahayes.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105074547id_/https://jahanahayes.com/about/",
+      "file": "archive/2024/hayes-ct/about.html",
+      "text_file": "archive/2024/hayes-ct/about.txt",
+      "bytes": 154752,
+      "sha256_html": "c2bef43f050aa509159da07e0e3e05259b47d09b79289e5fcf07fd26b87549e4",
+      "sha256_text": "1efa0829924d329669d967919752a033bf9154465469d570d014ea6107ccbcea"
+    }
+  ],
+  "snapshots_found": {
+    "jahanahayes.com": 1
+  },
+  "generated_utc": "2026-11-14T16:15:02Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
