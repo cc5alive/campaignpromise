@@ -1,0 +1,1831 @@
+<!doctype html >
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"
+      class="">
+<head>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    window._currentDevice = 'desktop';
+    window.Parameters = window.Parameters || {
+        HomeUrl: 'https://www.sheribiggs.com/',
+        AccountUUID: 'f0c4fd96dd8646709a8c2d96836b4ba1',
+        SystemID: 'US_DIRECT_PRODUCTION',
+        SiteAlias: 'a9d7b90b',
+        SiteType: atob('RFVEQU9ORQ=='),
+        PublicationDate: 'Fri Oct 25 14:50:07 UTC 2024',
+        ExternalUid: null,
+        IsSiteMultilingual: false,
+        InitialPostAlias: '',
+        InitialDynamicItem: '',
+        DynamicPageInfo: {
+            isDynamicPage: false,
+            base64JsonRowData: 'null',
+        },
+        InitialPageAlias: 'issues',
+        InitialPageUuid: '714ae6d8b0b94b0ca7ac206a99522e13',
+        InitialPageId: '1154644007',
+        InitialEncodedPageAlias: 'aXNzdWVz',
+        CurrentPageUrl: '',
+        IsCurrentHomePage: false,
+        AllowAjax: false,
+        AfterAjaxCommand: null,
+        HomeLinkText: 'Back To Home',
+        UseGalleryModule: false,
+        CurrentThemeName: 'Layout Theme',
+        ThemeVersion: '48500',
+        DefaultPageAlias: '',
+        RemoveDID: true,
+        WidgetStyleID: null,
+        IsHeaderFixed: false,
+        IsHeaderSkinny: false,
+        IsBfs: true,
+        StorePageAlias: 'null',
+        StorePagesUrls: 'e30=',
+        IsNewStore: 'false',
+        StorePath: '',
+        StoreId: 'null',
+        StoreVersion: 0,
+        StoreBaseUrl: '',
+        StoreCleanUrl: true,
+        StoreDisableScrolling: true,
+        IsStoreSuspended: false,
+        NotificationSubDomain: 'sheribiggs',
+        HasCustomDomain: true,
+        SimpleSite: false,
+        showCookieNotification: false,
+        cookiesNotificationMarkup: 'null',
+        translatedPageUrl: '',
+        isFastMigrationSite: false,
+        sidebarPosition: 'NA',
+        currentLanguage: 'en',
+        currentLocale: 'en',
+        NavItems: '{}',
+        errors: {
+            general: 'There was an error connecting to the page.<br/> Make sure you are not offline.',
+            password: 'Incorrect name/password combination',
+            tryAgain: 'Try again'
+        },
+        NavigationAreaParams: {
+            ShowBackToHomeOnInnerPages: true,
+            NavbarSize: -1,
+            NavbarLiveHomePage: 'https://www.sheribiggs.com/',
+            BlockContainerSelector: '.dmBody',
+            NavbarSelector: '#dmNav:has(a)',
+            SubNavbarSelector: '#subnav_main'
+        },
+        hasCustomCode: true,
+        planID: '7',
+        customTemplateId: 'null',
+        siteTemplateId: 'null',
+        productId: 'DM_DIRECT',
+        disableTracking: false,
+        pageType: 'FROM_SCRATCH',
+        isRuntimeServer: true,
+        isInEditor: false,
+        hasNativeStore: false,
+        defaultLang: 'en',
+        hamburgerMigration: null
+    };
+
+    window.Parameters.LayoutID = {};
+    window.Parameters.LayoutID[window._currentDevice] = 6;
+    window.Parameters.LayoutVariationID = {};
+    window.Parameters.LayoutVariationID[window._currentDevice] = 5;
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Injecting site-wide to the head -->
+
+
+
+
+<!-- End Injecting site-wide to the head -->
+
+<!-- Inject secured cdn script -->
+
+
+<!-- ========= Meta Tags ========= -->
+<!-- PWA settings -->
+<script>
+    function toHash(str) {
+        var hash = 5381, i = str.length;
+        while (i) {
+            hash = hash * 33 ^ str.charCodeAt(--i)
+        }
+        return hash >>> 0
+    }
+</script>
+<script>
+    (function (global) {
+    //const cacheKey = global.cacheKey;
+    const isOffline = 'onLine' in navigator && navigator.onLine === false;
+    const hasServiceWorkerSupport = 'serviceWorker' in navigator;
+    if (isOffline) {
+        console.log('offline mode');
+    }
+    if (!hasServiceWorkerSupport) {
+        console.log('service worker is not supported');
+    }
+    if (hasServiceWorkerSupport && !isOffline) {
+        window.addEventListener('load', function () {
+            const serviceWorkerPath = '/runtime-service-worker.js?v=3';
+            navigator.serviceWorker
+                .register(serviceWorkerPath, { scope: './' })
+                .then(
+                    function (registration) {
+                        // Registration was successful
+                        console.log(
+                            'ServiceWorker registration successful with scope: ',
+                            registration.scope
+                        );
+                    },
+                    function (err) {
+                        // registration failed :(
+                        console.log('ServiceWorker registration failed: ', err);
+                    }
+                )
+                .catch(function (err) {
+                    console.log(err);
+                });
+        });
+
+        // helper function to refresh the page
+        var refreshPage = (function () {
+            var refreshing;
+            return function () {
+                if (refreshing) return;
+                // prevent multiple refreshes
+                var refreshkey = 'refreshed' + location.href;
+                var prevRefresh = localStorage.getItem(refreshkey);
+                if (prevRefresh) {
+                    localStorage.removeItem(refreshkey);
+                    if (Date.now() - prevRefresh < 30000) {
+                        return; // dont go into a refresh loop
+                    }
+                }
+                refreshing = true;
+                localStorage.setItem(refreshkey, Date.now());
+                console.log('refereshing page');
+                window.location.reload();
+            };
+        })();
+
+        function messageServiceWorker(data) {
+            return new Promise(function (resolve, reject) {
+                if (navigator.serviceWorker.controller) {
+                    var worker = navigator.serviceWorker.controller;
+                    var messageChannel = new MessageChannel();
+                    messageChannel.port1.onmessage = replyHandler;
+                    worker.postMessage(data, [messageChannel.port2]);
+                    function replyHandler(event) {
+                        resolve(event.data);
+                    }
+                } else {
+                    resolve();
+                }
+            });
+        }
+    }
+})(window);
+</script>
+<!-- Add manifest -->
+<!-- End PWA settings -->
+
+
+<meta http-equiv="Content-type" content="text/html;charset=utf-8">
+<meta charset="utf-8">
+
+<link rel="canonical" href="https://www.sheribiggs.com/issues">
+
+<meta id="view" name="viewport" content="initial-scale=1, minimum-scale=1, maximum-scale=5, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+<!--Add favorites icons-->
+
+<link rel="icon" type="image/x-icon" href="https://irp.cdn-website.com/a9d7b90b/site_favicon_16_1705757895256.ico"/>
+
+<!-- End favorite icons -->
+<link rel="preconnect" href="https://lirp.cdn-website.com/"/>
+
+
+
+<!-- render the required CSS and JS in the head section -->
+<script>
+    window.SystemID = 'US_DIRECT_PRODUCTION';
+
+    if (!window.dmAPI) {
+        window.dmAPI = {
+            registerExternalRuntimeComponent: function () {
+            },
+            getCurrentDeviceType: function () {
+                return window._currentDevice;
+            },
+            runOnReady: (ns, fn) => {
+                const safeFn = dmAPI.toSafeFn(fn);
+                ns = ns || 'global_' + Math.random().toString(36).slice(2, 11);
+                const eventName = 'afterAjax.' + ns;
+
+                if (document.readyState === 'complete') {
+                    $.DM.events.off(eventName).on(eventName, safeFn);
+                    setTimeout(function () {
+                        safeFn({
+                            isAjax: false,
+                        });
+                    }, 0);
+                } else {
+                    window?.waitForDeferred?.('dmAjax', () => {
+                        $.DM.events.off(eventName).on(eventName, safeFn);
+                        safeFn({
+                            isAjax: false,
+                        });
+                    });
+                }
+            },
+            toSafeFn: (fn) => {
+                if (fn?.safe) {
+                    return fn;
+                }
+                const safeFn = function (...args) {
+                    try {
+                        return fn?.apply(null, args);
+                    } catch (e) {
+                        console.log('function failed ' + e.message);
+                    }
+                };
+                safeFn.safe = true;
+                return safeFn;
+            }
+        };
+    }
+
+    if (!window.requestIdleCallback) {
+        window.requestIdleCallback = function (fn) {
+            setTimeout(fn, 0);
+        }
+    }
+</script>
+
+<!-- loadCSS function header.jsp-->
+
+
+
+
+
+
+<script id="d-js-load-css">
+/**
+ * There are a few <link> tags with CSS resource in them that are preloaded in the page
+ * in each of those there is a "onload" handler which invokes the loadCSS callback
+ * defined here.
+ * We are monitoring 3 main CSS files - the runtime, the global and the page.
+ * When each load we check to see if we can append them all in a batch. If threre
+ * is no page css (which may happen on inner pages) then we do not wait for it
+ */
+(function () {
+  let cssLinks = {};
+  function loadCssLink(link) {
+    link.onload = null;
+    link.rel = "stylesheet";
+    link.type = "text/css";
+  }
+  
+    function checkCss() {
+      const pageCssLink = document.querySelector("[id*='CssLink']");
+      const widgetCssLink = document.querySelector("[id*='widgetCSS']");
+
+        if (cssLinks && cssLinks.runtime && cssLinks.global && (!pageCssLink || cssLinks.page) && (!widgetCssLink || cssLinks.widget)) {
+            const storedRuntimeCssLink = cssLinks.runtime;
+            const storedPageCssLink = cssLinks.page;
+            const storedGlobalCssLink = cssLinks.global;
+            const storedWidgetCssLink = cssLinks.widget;
+
+            storedGlobalCssLink.disabled = true;
+            loadCssLink(storedGlobalCssLink);
+
+            if (storedPageCssLink) {
+                storedPageCssLink.disabled = true;
+                loadCssLink(storedPageCssLink);
+            }
+
+            if(storedWidgetCssLink) {
+                storedWidgetCssLink.disabled = true;
+                loadCssLink(storedWidgetCssLink);
+            }
+
+            storedRuntimeCssLink.disabled = true;
+            loadCssLink(storedRuntimeCssLink);
+
+            requestAnimationFrame(() => {
+                setTimeout(() => {
+                    storedRuntimeCssLink.disabled = false;
+                    storedGlobalCssLink.disabled = false;
+                    if (storedPageCssLink) {
+                      storedPageCssLink.disabled = false;
+                    }
+                    if (storedWidgetCssLink) {
+                      storedWidgetCssLink.disabled = false;
+                    }
+                    // (SUP-4179) Clear the accumulated cssLinks only when we're
+                    // sure that the document has finished loading and the document 
+                    // has been parsed.
+                    if(document.readyState === 'interactive') {
+                      cssLinks = null;
+                    }
+                }, 0);
+            });
+        }
+    }
+  
+
+  function loadCSS(link) {
+    try {
+      var urlParams = new URLSearchParams(window.location.search);
+      var noCSS = !!urlParams.get("nocss");
+      var cssTimeout = urlParams.get("cssTimeout") || 0;
+
+      if (noCSS) {
+        return;
+      }
+      if (link.href && link.href.includes("d-css-runtime")) {
+        cssLinks.runtime = link;
+        checkCss();
+      } else if (link.id === "siteGlobalCss") {
+        cssLinks.global = link;
+        checkCss();
+      } 
+      
+      else if (link.id && link.id.includes("CssLink")) {
+        cssLinks.page = link;
+        checkCss();
+      } else if (link.id && link.id.includes("widgetCSS")) {
+        cssLinks.widget = link;
+        checkCss();
+      }
+      
+      else {
+        requestIdleCallback(function () {
+          window.setTimeout(function () {
+            loadCssLink(link);
+          }, parseInt(cssTimeout, 10));
+        });
+      }
+    } catch (e) {
+      throw e
+    }
+  }
+  window.loadCSS = window.loadCSS || loadCSS;
+})();
+</script>
+
+
+
+<script data-role="deferred-init" type="text/javascript">
+    /* usage: window.getDeferred(<deferred name>).resolve() or window.getDeferred(<deferred name>).promise.then(...)*/
+    function Def() {
+        this.promise = new Promise((function (a, b) {
+            this.resolve = a, this.reject = b
+        }).bind(this))
+    }
+
+    const defs = {};
+    window.getDeferred = function (a) {
+        return null == defs[a] && (defs[a] = new Def), defs[a]
+    }
+    window.waitForDeferred = function (b, a, c) {
+        let d = window?.getDeferred?.(b);
+        d
+            ? d.promise.then(a)
+            : c && ["complete", "interactive"].includes(document.readyState)
+                ? setTimeout(a, 1)
+                : c
+                    ? document.addEventListener("DOMContentLoaded", a)
+                    : console.error(`Deferred  does not exist`);
+    };
+</script>
+<style id="forceCssIncludes">
+    /* This file is auto-generated from a `scss` file with the same name */
+
+.videobgwrapper{overflow:hidden;position:absolute;z-index:0;width:100%;height:100%;top:0;left:0;pointer-events:none;border-radius:inherit}.videobgframe{position:absolute;width:101%;height:100%;top:50%;left:50%;transform:translateY(-50%) translateX(-50%);object-fit:fill}#dm video.videobgframe{margin:0}@media (max-width:767px){.dmRoot .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:80vh}}@media (min-width:1025px){.dmRoot .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:45vh}}@media (min-width:768px) and (max-width:1024px){.responsiveTablet .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:45vh}}#dm [data-show-on-page-only]{display:none!important}#dmRoot div.stickyHeaderFix div.site_content{margin-top:0!important}#dmRoot div.stickyHeaderFix div.hamburger-header-container{position:relative}
+    
+
+</style>
+<style id="cssVariables" type="text/css">
+    
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Google Fonts Include -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- loadCSS function fonts.jsp-->
+
+
+
+<link type="text/css" rel="stylesheet" href="https://irp.cdn-website.com/fonts/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;subset=latin-ext&amp;display=swap"  />
+
+
+
+
+
+<!-- RT CSS Include d-css-runtime-desktop-one-package-structured-global-->
+<link rel="stylesheet" type="text/css" href="https://static.cdn-website.com/mnlt/production/4894/_dm/s/rt/dist/css/d-css-runtime-desktop-one-package-structured-global.min.css" />
+
+<!-- End of RT CSS Include -->
+
+<link type="text/css" rel="stylesheet" href="https://irp.cdn-website.com/WIDGET_CSS/b90c3351f6908be395bc3c487f222650.css" id="widgetCSS" />
+
+<!-- Support `img` size attributes -->
+<style>img[width][height] {
+    height: auto;
+}</style>
+
+<!-- Support showing sticky element on page only -->
+<style>
+    body[data-page-alias="issues"] #dm [data-show-on-page-only="issues"] {
+        display: block !important;
+    }
+</style>
+
+<!-- This is populated in Ajax navigation -->
+<style id="pageAdditionalWidgetsCss" type="text/css">
+</style>
+
+
+
+
+<!-- Site CSS -->
+<link type="text/css" rel="stylesheet" href="https://irp.cdn-website.com/a9d7b90b/files/a9d7b90b_1.min.css?v=131" id="siteGlobalCss" />
+
+
+
+<style id="customWidgetStyle" type="text/css">
+    
+</style>
+<style id="innerPagesStyle" type="text/css">
+    
+</style>
+
+
+<style
+        id="additionalGlobalCss" type="text/css"
+>
+</style>
+
+<style id="pagestyle" type="text/css">
+    *#dm *.dmBody a.span.textonly
+{
+	color:rgb(255,255,255) !important;
+}
+*#dm *.dmBody div.dmform-error
+{
+	font-style:normal !important;
+}
+*#dm *.dmBody div.dmforminput textarea
+{
+	font-style:italic !important;
+}
+*#dm *.dmBody div.dmforminput *.fileUploadLink
+{
+	font-style:italic !important;
+}
+*#dm *.dmBody div.checkboxwrapper span
+{
+	font-style:italic !important;
+}
+*#dm *.dmBody div.radiowrapper span
+{
+	font-style:italic !important;
+}
+*#dm *.dmBody nav.u_1144820115
+{
+	color:black !important;
+}
+*#dm *.dmBody div.u_1527877296
+{
+	line-height:1.5 !important;
+}
+*#dm *.dmBody div.u_1158646635
+{
+	background-color:rgba(255,255,255,1) !important;
+	border-bottom-width:10px !important;
+	border-bottom-style:solid !important;
+	border-bottom-color:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody div.u_1627423448 h3
+{
+	line-height:initial !important;
+}
+*#dm *.dmBody div.u_1772768913 hr
+{
+	color:rgba(177,30,41,1) !important;
+	border-top-width:1px !important;
+	border-top-style:solid !important;
+}
+*#dm *.dmBody div.u_1048860293 h3
+{
+	line-height:initial !important;
+}
+*#dm *.dmBody div.u_1508462633 hr
+{
+	color:rgba(177,30,41,1) !important;
+	border-top-width:1px !important;
+	border-top-style:solid !important;
+}
+*#dm *.dmBody div.u_KeepAmericaSafe
+{
+	background-color:rgba(255,255,255,1) !important;
+	border-bottom-width:10px !important;
+	border-bottom-style:solid !important;
+	border-bottom-color:rgba(255,255,255,1) !important;
+}
+*#dm *.dmBody div.u_1447350206
+{
+	background-color:rgba(235,235,235,1) !important;
+}
+*#dm *.dmBody div.u_1114987225
+{
+	background-repeat:no-repeat !important;
+	background-image:url(https://lirp.cdn-website.com/a9d7b90b/dms3rep/multi/opt/Border-2880w.jpg) !important;
+	background-size:cover !important;
+}
+*#dm *.dmBody div.u_1896260159 h3
+{
+	line-height:initial !important;
+}
+*#dm *.dmBody div.u_1675240093 hr
+{
+	color:rgba(177,30,41,1) !important;
+	border-top-width:1px !important;
+	border-top-style:solid !important;
+}
+*#dm *.dmBody div.u_1678374425
+{
+	background-color:rgba(235,235,235,1) !important;
+}
+*#dm *.dmBody div.u_1211006975
+{
+	background-repeat:no-repeat !important;
+	background-image:url(https://lirp.cdn-website.com/a9d7b90b/dms3rep/multi/opt/Life-2880w.jpg) !important;
+	background-size:cover !important;
+}
+*#dm *.dmBody div.u_1167850940
+{
+	line-height:1.5 !important;
+}
+*#dm *.dmBody div.u_1256007885 h3
+{
+	line-height:initial !important;
+}
+*#dm *.dmBody div.u_1022124057 hr
+{
+	color:rgba(177,30,41,1) !important;
+	border-top-width:1px !important;
+	border-top-style:solid !important;
+}
+*#dm *.dmBody div.u_1008453652 h3
+{
+	line-height:initial !important;
+}
+*#dm *.dmBody div.u_1425042025 hr
+{
+	color:rgba(177,30,41,1) !important;
+	border-top-width:1px !important;
+	border-top-style:solid !important;
+}
+*#dm *.dmBody div.u_1979013205
+{
+	background-color:rgba(235,235,235,1) !important;
+}
+*#dm *.dmBody div.u_1263435203
+{
+	background-repeat:no-repeat !important;
+	background-image:url(https://lirp.cdn-website.com/a9d7b90b/dms3rep/multi/opt/Veterans-2880w.jpg) !important;
+	background-size:cover !important;
+}
+*#dm *.dmBody div.u_1558000818
+{
+	background-color:rgba(177,30,41,1) !important;
+}
+*#dm *.dmBody div.u_1129279597
+{
+	background-color:rgba(147,147,147,1) !important;
+	background-repeat:no-repeat !important;
+	background-image:url(https://lirp.cdn-website.com/a9d7b90b/dms3rep/multi/opt/Biggs_Platform-6b47875f-2880w.jpg) !important;
+	background-size:cover !important;
+}
+*#dm *.dmBody div.u_1990096503
+{
+	background-repeat:no-repeat !important;
+	background-image:url(https://lirp.cdn-website.com/a9d7b90b/dms3rep/multi/opt/Fiscal-2880w.jpg) !important;
+	background-size:cover !important;
+}
+*#dm *.dmBody div.u_1405377187
+{
+	background-repeat:no-repeat !important;
+	background-image:url('https://lirp.cdn-website.com/a9d7b90b/dms3rep/multi/opt/Sheri+Biggs+and+President+Trump-2880w.png') !important;
+	background-size:cover !important;
+}
+
+</style>
+
+<style id="pagestyleDevice" type="text/css">
+    *#dm *.d-page-1716942098 DIV.dmInner
+{
+	background-repeat:no-repeat !important;
+	background-size:cover !important;
+	background-attachment:fixed !important;
+	background-position:50% 50% !important;
+}
+*#dm *.d-page-1716942098 DIV#dmSlideRightNavRight
+{
+	background-repeat:no-repeat !important;
+	background-image:none !important;
+	background-size:cover !important;
+	background-attachment:fixed !important;
+	background-position:50% 50% !important;
+}
+*#dm *.dmBody div.u_1158646635
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:100% !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	max-width:none !important;
+	padding-right:0 !important;
+	min-width:0 !important;
+	text-align:center !important;
+}
+*#dm *.dmBody div.u_KeepAmericaSafe
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:100% !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	max-width:none !important;
+	padding-right:0 !important;
+	min-width:0 !important;
+	text-align:center !important;
+}
+*#dm *.dmBody div.u_1563522363
+{
+	margin-left:0 !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	margin-right:0 !important;
+	padding-right:0 !important;
+	width:auto !important;
+}
+*#dm *.dmBody div.u_1627423448
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:492.062px !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:100% !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	padding-right:0 !important;
+	min-width:0 !important;
+}
+*#dm *.dmBody div.u_1772768913
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:57px !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-right:0 !important;
+	margin-left:0 !important;
+	max-width:100% !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	padding-right:0 !important;
+	min-width:0 !important;
+	text-align:center !important;
+}
+*#dm *.dmBody div.u_1333180114
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:492.062px !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:100% !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	padding-right:0 !important;
+	min-width:0 !important;
+}
+*#dm *.dmBody div.u_1048860293
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:492.07px !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:100% !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	padding-right:0 !important;
+	min-width:0 !important;
+}
+*#dm *.dmBody div.u_1508462633
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:56.9922px !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-right:0 !important;
+	margin-left:0 !important;
+	max-width:100% !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	padding-right:0 !important;
+	min-width:0 !important;
+	text-align:center !important;
+}
+*#dm *.dmBody div.u_1527877296
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:492.07px !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:100% !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	padding-right:0 !important;
+	min-width:0 !important;
+}
+*#dm *.dmBody div.u_1218235616
+{
+	padding-top:0 !important;
+	padding-bottom:0 !important;
+	padding-right:0 !important;
+	padding-left:0 !important;
+	margin-left:0 !important;
+	margin-top:10px !important;
+	margin-bottom:0 !important;
+	margin-right:0 !important;
+	width:auto !important;
+}
+*#dm *.dmBody div.u_1896260159
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:492.062px !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:100% !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	padding-right:0 !important;
+	min-width:0 !important;
+}
+*#dm *.dmBody div.u_1675240093
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:57px !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-right:0 !important;
+	margin-left:0 !important;
+	max-width:100% !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	padding-right:0 !important;
+	min-width:0 !important;
+	text-align:center !important;
+}
+*#dm *.dmBody div.u_1839804035
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:492.062px !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:100% !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	padding-right:0 !important;
+	min-width:0 !important;
+}
+*#dm *.dmBody div.u_1048608117
+{
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	padding-right:0 !important;
+	width:auto !important;
+	margin-left:0 !important;
+	margin-top:10px !important;
+	margin-bottom:0 !important;
+	margin-right:0 !important;
+}
+*#dm *.dmBody div.u_1211006975
+{
+	background-position:50% 100% !important;
+}
+*#dm *.dmBody div.u_1256007885
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:492.07px !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:100% !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	padding-right:0 !important;
+	min-width:0 !important;
+}
+*#dm *.dmBody div.u_1022124057
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:56.9922px !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-right:0 !important;
+	margin-left:0 !important;
+	max-width:100% !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	padding-right:0 !important;
+	min-width:0 !important;
+	text-align:center !important;
+}
+*#dm *.dmBody div.u_1167850940
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:492.07px !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:100% !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	padding-right:0 !important;
+	min-width:0 !important;
+}
+*#dm *.dmBody div.u_1902290294
+{
+	padding-top:0 !important;
+	padding-bottom:0 !important;
+	padding-right:0 !important;
+	padding-left:0 !important;
+	width:auto !important;
+	margin-left:0 !important;
+	margin-top:10px !important;
+	margin-bottom:0 !important;
+	margin-right:0 !important;
+}
+*#dm *.dmBody div.u_1008453652
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:492.062px !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:100% !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	padding-right:0 !important;
+	min-width:0 !important;
+}
+*#dm *.dmBody div.u_1425042025
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:57px !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-right:0 !important;
+	margin-left:0 !important;
+	max-width:100% !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	padding-right:0 !important;
+	min-width:0 !important;
+	text-align:center !important;
+}
+*#dm *.dmBody div.u_1678650974
+{
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:492.062px !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:100% !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	padding-right:0 !important;
+	min-width:0 !important;
+}
+*#dm *.dmBody div.u_1675294993
+{
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	padding-right:0 !important;
+	width:auto !important;
+	margin-left:0 !important;
+	margin-top:10px !important;
+	margin-bottom:0 !important;
+	margin-right:0 !important;
+}
+*#dm *.dmBody div.u_1263435203
+{
+	background-position:100% 100% !important;
+}
+*#dm *.dmBody div.u_1846955699
+{
+	display:block !important;
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:100% !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:100% !important;
+	margin-top:8px !important;
+	margin-bottom:8px !important;
+	padding-right:0 !important;
+	min-width:0 !important;
+}
+*#dm *.dmBody div.u_1129279597
+{
+	padding-top:246px !important;
+	padding-left:40px !important;
+	padding-bottom:246px !important;
+	padding-right:40px !important;
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:auto !important;
+	position:relative !important;
+	height:auto !important;
+	max-width:100% !important;
+	min-width:0 !important;
+	text-align:center !important;
+	margin-right:0 !important;
+	margin-left:0 !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	background-position:50% 50% !important;
+}
+*#dm *.dmBody div.u_1990096503
+{
+	background-position:50% 50% !important;
+}
+*#dm *.dmBody div.u_1447350206
+{
+	margin-left:0px !important;
+	padding-top:100px !important;
+	padding-left:60px !important;
+	padding-bottom:100px !important;
+	margin-top:0px !important;
+	margin-bottom:0px !important;
+	margin-right:0px !important;
+	padding-right:60px !important;
+}
+*#dm *.dmBody div.u_1821264308
+{
+	margin-left:0px !important;
+	padding-top:100px !important;
+	padding-left:60px !important;
+	padding-bottom:100px !important;
+	margin-top:0px !important;
+	margin-bottom:0px !important;
+	margin-right:0px !important;
+	padding-right:60px !important;
+}
+*#dm *.dmBody div.u_1678374425
+{
+	margin-left:0px !important;
+	padding-top:100px !important;
+	padding-left:60px !important;
+	padding-bottom:100px !important;
+	margin-top:0px !important;
+	margin-bottom:0px !important;
+	margin-right:0px !important;
+	padding-right:60px !important;
+}
+*#dm *.dmBody div.u_1371493715
+{
+	margin-left:0px !important;
+	padding-top:125px !important;
+	padding-left:60px !important;
+	padding-bottom:125px !important;
+	margin-top:0px !important;
+	margin-bottom:0px !important;
+	margin-right:0px !important;
+	padding-right:60px !important;
+}
+*#dm *.dmBody div.u_1979013205
+{
+	margin-left:0px !important;
+	padding-top:100px !important;
+	padding-left:60px !important;
+	padding-bottom:100px !important;
+	margin-top:0px !important;
+	margin-bottom:0px !important;
+	margin-right:0px !important;
+	padding-right:60px !important;
+}
+*#dm *.dmBody div.u_1405377187
+{
+	background-position:50% 0% !important;
+	margin-left:0px !important;
+	padding-top:0px !important;
+	padding-left:23.892px !important;
+	padding-bottom:0px !important;
+	margin-top:0px !important;
+	margin-bottom:0px !important;
+	margin-right:0px !important;
+	padding-right:0px !important;
+}
+
+</style>
+
+<!-- Flex Sections CSS -->
+
+
+
+
+
+<style id="globalFontSizeStyle" type="text/css">
+    .font-size-16, .size-16, .size-16 > font { font-size: 16px !important; }.font-size-14, .size-14, .size-14 > font { font-size: 14px !important; }.font-size-12, .size-12, .size-12 > font { font-size: 12px !important; }
+</style>
+<style id="pageFontSizeStyle" type="text/css">
+</style>
+
+
+
+
+<style id="hideAnimFix">
+    .dmDesktopBody:not(.editGrid) [data-anim-desktop]:not([data-anim-desktop='none']), .dmDesktopBody:not(.editGrid) [data-anim-extended] {
+        visibility: hidden;
+    }
+
+    .dmDesktopBody:not(.editGrid) .dmNewParagraph[data-anim-desktop]:not([data-anim-desktop='none']), .dmDesktopBody:not(.editGrid) .dmNewParagraph[data-anim-extended] {
+        visibility: hidden !important;
+    }
+</style>
+
+
+
+
+<style id="fontFallbacks">
+    @font-face {
+  font-family: "Roboto Fallback";
+  src: local('Arial');
+  ascent-override: 92.6709%;
+  descent-override: 24.3871%;
+  size-adjust: 100.1106%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Montserrat Fallback";
+  src: local('Arial');
+  ascent-override: 84.9466%;
+  descent-override: 22.0264%;
+  size-adjust: 113.954%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Poppins Fallback";
+  src: local('Arial');
+  ascent-override: 92.326%;
+  descent-override: 30.7753%;
+  line-gap-override: 8.793%;
+  size-adjust: 113.7274%;
+}
+</style>
+
+
+<!-- End render the required css and JS in the head section -->
+
+
+
+
+
+
+
+
+<meta property="og:type" content="website">
+
+  <title>
+    Platform | Sheri Biggs for Congress
+  </title>
+
+  <script>
+
+
+
+
+
+!function(s,a,e,v,n,t,z){if(s.saq)return;n=s.saq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!s._saq)s._saq=n;n.push=n;n.loaded=!0;n.version='1.0';n.queue=[];t=a.createElement(e);t.async=!0;t.src=v;z=a.getElementsByTagName(e)[0];z.parentNode.insertBefore(t,z)}(window,document,'script','https://tags.srv.stackadapt.com/events.js');saq('ts', 'VHVAyF8AxTUNAyC_qKzGAg');
+
+  
+
+  
+
+  </script>
+
+  <meta name="twitter:card" content="summary"/>
+  <meta name="twitter:title" content="Platform | Sheri Biggs for Congress"/>
+  <meta name="twitter:image" content="https://lirp.cdn-website.com/a9d7b90b/dms3rep/multi/opt/SB+Hero+Image+_+Desktop-1920w.png"/>
+  <meta property="og:title" content="Platform | Sheri Biggs for Congress"/>
+  <meta property="og:image" content="https://lirp.cdn-website.com/a9d7b90b/dms3rep/multi/opt/SB+Hero+Image+_+Desktop-1920w.png"/>
+
+
+
+
+<!-- SYS- VVNfRElSRUNUX1BST0RVQ1RJT04= -->
+</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body id="dmRoot" data-page-alias="issues"  class="dmRoot dmDesktopBody fix-mobile-scrolling addCanvasBorder dmResellerSite mac safariFix dmLargeBody "
+      style="padding:0;margin:0;"
+      
+    >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ========= Site Content ========= -->
+<div id="dm" class='dmwr'>
+    
+    <div class="dm_wrapper standard-var5 widgetStyle-3 standard">
+         <div dmwrapped="true" id="1901957768" class="dm-home-page" themewaschanged="true"> <div dmtemplateid="StandardLayoutMultiD" class="standardHeaderLayout dm-bfs dm-layout-sec hasAnimations rows-1200 dmPageBody d-page-1716942098 dmFreeHeader" id="dm-outer-wrapper" data-page-class="1716942098" data-soch="true" data-background-parallax-selector=".dmHomeSection1, .dmSectionParallex"> <div id="dmStyle_outerContainer" class="dmOuter"> <div id="dmStyle_innerContainer" class="dmInner"> <div class="dmLayoutWrapper standard-var dmStandardDesktop"> <div> <div id="iscrollBody"> <div id="site_content"> <div class="dmHeaderContainer fHeader d-header-wrapper"> <div id="hcontainer" class="u_hcontainer dmHeader p_hfcontainer" freeheader="true" headerlayout="b58ba5b5703b4cd7b5f5f7951565dc87===horizontal-layout-5" layout="78f5c343822e4eb3aac27f4ad5d13812===header"> <div dm:templateorder="85" class="dmHeaderResp dmHeaderStack noSwitch" id="1709005236"> <div class="dmRespRow dmDefaultListContentRow u_1950787432 fullBleedChanged fullBleedMode" style="text-align:center" id="1950787432"> <div class="dmRespColsWrapper" id="1386626151"> <div class="u_1172838963 small-12 dmRespCol large-2 medium-2" id="1172838963"> <div class="u_1484299226 imageWidget align-center" data-widget-type="image" id="1484299226" data-element-type="image"><img src="https://lirp.cdn-website.com/a9d7b90b/dms3rep/multi/opt/Biggs+Logo_final-PMS-1920w.png" id="1981476680" class="" data-dm-image-path="https://irp.cdn-website.com/a9d7b90b/dms3rep/multi/Biggs+Logo_final-PMS.png" width="1920" height="1280" onerror="handleImageLoadError(this)"/></div> 
+</div> 
+ <div class="u_1132714621 dmRespCol small-12 large-8 medium-8" id="1132714621"> <nav class="u_1692088114 effect-bottom2 main-navigation unifiednav dmLinksMenu" role="navigation" layout-main="horizontal_nav_layout_1" layout-sub="submenu_horizontal_1" data-show-vertical-sub-items="HOVER" id="1692088114" dmle_extension="onelinksmenu" data-element-type="onelinksmenu" data-logo-src="" alt="" data-nav-structure="HORIZONTAL" wr="true" icon="true" surround="true" adwords="" navigation-id="unifiedNav"> <ul role="menubar" class="unifiednav__container  " data-auto="navigation-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/" class="unifiednav__item  dmUDNavigationItem_00  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="HOME" data-auto="page-text-style">HOME<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/about" class="unifiednav__item  dmUDNavigationItem_010101675260  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="ABOUT" data-auto="page-text-style">ABOUT<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/issues" class="unifiednav__item  dmNavItemSelected  dmUDNavigationItem_010101641240  " target="" data-target-page-alias="" data-auto="selected-page"> <span class="nav-item-text " data-link-text="PLATFORM" data-auto="page-text-style">PLATFORM<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/get-involved" class="unifiednav__item  dmUDNavigationItem_010101928061  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="GET INVOLVED" data-auto="page-text-style">GET INVOLVED<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/news" class="unifiednav__item  dmUDNavigationItem_010101859971  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="NEWS" data-auto="page-text-style">NEWS<span class="icon icon-angle-down" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</nav> 
+</div> 
+ <div class="u_1975173976 dmRespCol small-12 large-2 medium-2" id="1975173976"> <a data-display-type="block" class="u_1678627075 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="https://secure.winred.com/votesheribiggs/donate" data-element-type="dButtonLinkId" id="1678627075" target="_blank"> <span class="iconBg" aria-hidden="true" id="1955704156"> <span class="icon hasFontIcon icon-star" id="1588931771"></span> 
+</span> 
+ <span class="text" id="1249838898">DONATE</span> 
+</a> 
+ <div class="u_1351734650 align-center text-align-center dmSocialHub" id="1351734650" dmle_extension="social_hub" data-element-type="social_hub" wr="true" networks="" icon="true" surround="true" adwords=""> <div class="socialHubWrapper"> <div class="socialHubInnerDiv "> <a href="https://www.facebook.com/VoteSheriBiggs" target="_blank" dm_dont_rewrite_url="true" aria-label="facebook" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event(&apos;socialLink&apos;, &apos;click&apos;, &apos;Facebook&apos;)"> <span class="dmSocialFacebook dm-social-icons-facebook oneIcon socialHubIcon style3" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+ <a href="https://twitter.com/VoteSheriBiggs" target="_blank" dm_dont_rewrite_url="true" aria-label="twitter" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event(&apos;socialLink&apos;, &apos;click&apos;, &apos;Twitter&apos;)"> <span class="dmSocialTwitter dm-social-icons-twitter oneIcon socialHubIcon style3" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+ <a href="https://www.instagram.com/votesheribiggs" target="_blank" dm_dont_rewrite_url="true" aria-label="instagram" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event(&apos;socialLink&apos;, &apos;click&apos;, &apos;Instagram&apos;)"> <span class="dmSocialInstagram dm-social-icons-instagram oneIcon socialHubIcon style3" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+ <a href="https://www.youtube.com/@votesheribiggs" target="_blank" dm_dont_rewrite_url="true" aria-label="youtube" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event(&apos;socialLink&apos;, &apos;click&apos;, &apos;Youtube&apos;)"> <span class="dmSocialYoutube dm-social-icons-youtube oneIcon socialHubIcon style3" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow dmRespRowStable dmRespRowNoPadding dmPageTitleRow "> <div class="dmRespColsWrapper"> <div class="large-12 dmRespCol"> <div id="innerBar" class="innerBar lineInnerBar dmDisplay_None"> <div class="titleLine display_None"><hr/></div> 
+<!-- Page title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts --> <div id="pageTitleText"> <div class="innerPageTitle">PLATFORM</div> 
+</div> 
+ <div class="titleLine display_None"><hr/></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div dmwrapped="true" id="dmFirstContainer" class="dmBody u_dmStyle_template_issues dm-home-page" themewaschanged="true"> <div id="allWrapper" class="allWrapper"><!-- navigation placeholders --> <div id="dm_content" class="dmContent"> <div dm:templateorder="170" class="dmHomeRespTmpl mainBorder dmRespRowsWrapper dmFullRowRespTmpl" id="1716942098"> <div class="u_1129279597 dmRespRow" style="text-align: center;" id="1129279597"> <div class="dmRespColsWrapper" id="1569760042"> <div class="dmRespCol small-12 u_1882987452 medium-12 large-12" id="1882987452"> <div data-element-type="spacer" class="dmSpacer u_1119016372" id="1119016372"></div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1558000818" id="1558000818"> <div class="dmRespColsWrapper" id="1164930140"> <div class="dmRespCol large-12 medium-12 small-12 u_1759683926" id="1759683926"> <div class="dmNewParagraph u_1846955699" data-element-type="paragraph" data-version="5" id="1846955699" style="transition: opacity 1s ease-in-out 0s; text-align: left;"> <h1 class="text-align-center"><span style="color: rgb(255, 255, 255); display: unset;">PLATFORM</span></h1> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow fullBleedChanged fullBleedMode u_1563522363" id="1563522363"> <div class="dmRespColsWrapper" id="1311476308"> <div class="u_1114987225 dmRespCol small-12 large-7 medium-7" id="1114987225"> <div data-element-type="spacer" class="dmSpacer u_1953961482" id="1953961482"></div> 
+</div> 
+ <div class="u_1447350206 dmRespCol small-12 large-5 medium-5" id="1447350206"> <div class="u_1627423448 dmNewParagraph" data-element-type="paragraph" id="1627423448" style="" data-anim-desktop="fadeInRight" data-version="5"> <h2><span style="color: rgb(177, 30, 41); display: initial;">Secure the Border</span></h2> 
+</div> <div class="u_1772768913 dmDividerWrapper clearfix" data-element-type="dDividerId" data-layout="divider-style-1" data-widget-version="2" id="1772768913" data-anim-desktop="fadeInRight"><hr class="dmDivider" style="border-width:2px; border-top-style:solid; color:grey;" id="1504553186"/></div> 
+ <div class="u_1333180114 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1333180114" style="transition: opacity 1s ease-in-out 0s;"><p><span style="display: unset;">The border crisis represents one of the most critical challenges facing our nation today - affecting each and every one of us, directly or indirectly, and undermining the very fabric of our society, our economy, and our national security. As our next Member of Congress, Sheri will work tirelessly to build the wall, stop the flow of illegal aliens and drugs into our country, and replace &ldquo;catch-and-release&rdquo; with &ldquo;stop-and-deport.&rdquo;</span><span style="display: initial;"><span class="ql-cursor">﻿</span></span></p></div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1218235616 fullBleedChanged fullBleedMode mobile-columns-reversed" id="1218235616"> <div class="dmRespColsWrapper" id="1737305780"> <div class="u_1821264308 dmRespCol small-12 large-5 medium-5" id="1821264308"> <div class="u_1048860293 dmNewParagraph" data-element-type="paragraph" id="1048860293" data-anim-desktop="fadeInLeft" data-version="5"> <h2><span style="color: rgb(177, 30, 41); display: initial;">Fiscal Responsibility</span></h2> 
+</div> <div class="u_1508462633 dmDividerWrapper clearfix" data-element-type="dDividerId" data-layout="divider-style-1" data-widget-version="2" id="1508462633" data-anim-desktop="fadeInLeft"><hr class="dmDivider" style="border-width:2px; border-top-style:solid; color:grey;" id="1705224401"/></div> 
+ <div class="u_1527877296 dmNewParagraph" id="1527877296" style="display: block;" data-anim-desktop="fadeInLeft" data-version="5"><p style="line-height: normal;"><span style="display: initial;">The Biden Administration and the career politicians&rsquo; excessive and wasteful spending have not only fueled inflation but also greatly harmed our children, grandchildren, and future generations with unconscionable debt. As our next Congresswoman, Sheri will fight for fiscal responsibility, accountability, and transparency of our hard-earned tax dollars.<span class="ql-cursor">﻿</span></span></p></div></div> 
+ <div class="u_1990096503 dmRespCol small-12 large-7 medium-7" id="1990096503"> <div data-element-type="spacer" class="dmSpacer u_1199792611" id="1199792611"></div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow fullBleedChanged fullBleedMode u_1048608117" id="1048608117"> <div class="dmRespColsWrapper" id="1251244988"> <div class="u_1211006975 dmRespCol small-12 large-7 medium-7" id="1211006975"> <div data-element-type="spacer" class="dmSpacer u_1462013832" id="1462013832"></div> 
+</div> 
+ <div class="u_1678374425 dmRespCol small-12 large-5 medium-5" id="1678374425"> <div class="u_1896260159 dmNewParagraph" data-element-type="paragraph" id="1896260159" style="" data-anim-desktop="fadeInRight" data-version="5"> <h2><span style="display: initial; color: rgb(177, 30, 41);">Defend the Sanctity of Life</span><span style="display: initial;"><span class="ql-cursor">﻿</span></span></h2> 
+</div> <div class="u_1675240093 dmDividerWrapper clearfix" data-element-type="dDividerId" data-layout="divider-style-1" data-widget-version="2" id="1675240093" data-anim-desktop="fadeInRight"><hr class="dmDivider" style="border-width:2px; border-top-style:solid; color:grey;" id="1996794993"/></div> 
+ <div class="u_1839804035 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1839804035" style="transition: opacity 1s ease-in-out 0s;"><p style="line-height: normal;"><span style="display: unset;">As a Christian, Sheri believes all life is made in the image and likeness of God and it must be cherished. Like many women, Sheri faced significant challenges bringing life into this world, including multiple miscarriages and bed rest orders during her pregnancy of her son. Yet, despite the challenges, Sheri always thanked God for the beautiful creations He blessed her with. AS our Member of Congress, Sheri will use her voice and story to protect the sanctity of life and advance a true culture of life in this country.&nbsp;</span></p></div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1902290294 fullBleedChanged fullBleedMode mobile-columns-reversed" id="1902290294"> <div class="dmRespColsWrapper" id="1386211741"> <div class="u_1371493715 dmRespCol small-12 large-5 medium-5" id="1371493715"> <div class="u_1256007885 dmNewParagraph" data-element-type="paragraph" id="1256007885" data-anim-desktop="fadeInLeft" data-version="5" style=""> <h2><span style="display: initial; color: rgb(177, 30, 41);">Drain the Swamp</span></h2> 
+</div> <div class="u_1022124057 dmDividerWrapper clearfix" data-element-type="dDividerId" data-layout="divider-style-1" data-widget-version="2" id="1022124057" data-anim-desktop="fadeInLeft"><hr class="dmDivider" style="border-width:2px; border-top-style:solid; color:grey;" id="1599981781"/></div> 
+ <div class="u_1167850940 dmNewParagraph" id="1167850940" style="display: block;" data-anim-desktop="fadeInLeft" data-version="5"><p style="line-height: normal;"><span style="display: initial;">Our nation is crippled by career politicians, those focused on getting and retaining titles. Our District and our nation need more political outsiders - just like President Trump - to prioritize the issues most important to the people and return the power to the American people. As our next Member of Congress, Sheri will do just that with integrity, humility, and accountability.</span></p></div></div> 
+ <div class="u_1405377187 dmRespCol small-12 large-7 medium-7" id="1405377187"> <div data-element-type="spacer" class="dmSpacer u_1385137909" id="1385137909"></div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow fullBleedChanged fullBleedMode u_1675294993" id="1675294993"> <div class="dmRespColsWrapper" id="1884786329"> <div class="u_1263435203 dmRespCol small-12 large-7 medium-7" id="1263435203"> <div data-element-type="spacer" class="dmSpacer u_1143834012" id="1143834012"></div> 
+</div> 
+ <div class="u_1979013205 dmRespCol small-12 large-5 medium-5" id="1979013205"> <div class="u_1008453652 dmNewParagraph" data-element-type="paragraph" id="1008453652" style="" data-anim-desktop="fadeInRight" data-version="5"> <h2 style="line-height: 1;"><span style="display: initial; color: rgb(177, 30, 41);">Keep the Promises to our Veterans</span><span style="display: initial;"><span class="ql-cursor">﻿</span></span></h2> 
+</div> <div class="u_1425042025 dmDividerWrapper clearfix" data-element-type="dDividerId" data-layout="divider-style-1" data-widget-version="2" id="1425042025" data-anim-desktop="fadeInRight"><hr class="dmDivider" style="border-width:2px; border-top-style:solid; color:grey;" id="1928778437"/></div> 
+ <div class="u_1678650974 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1678650974" style="transition: opacity 1s ease-in-out 0s;"><p style="line-height: normal;"><span style="display: unset;">While the career politicians and bureaucrats can &ldquo;magically&rdquo; afford to put illegal immigrants in hotels that cost over $500 per night, there are far too many veteran needs being ignored. For generations, America has made promises to those who have made the commitment to serve. Not only has the nation failed to deliver on those promises, but the career politicians and bureaucrats don&rsquo;t even care. Sheri has worn the uniform in combat and volunteers to support local veterans. That&rsquo;s why, as our next Congresswoman, Sheri will fight as hard as ever to ensure those who sacrifice and have sacrificed for our nation receive the honor, dignity, respect, and care they deserve.</span></p></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmFooterContainer"> <div id="fcontainer" class="u_fcontainer f_hcontainer dmFooter p_hfcontainer"> <div dm:templateorder="250" class="dmFooterResp generalFooter" id="1943048428"> <div class="dmRespRow u_1632155419" style="text-align: center;" id="1632155419"> <div class="dmRespColsWrapper" id="1253858808"> <div class="u_1063824722 dmRespCol small-12 medium-12 large-12" id="1063824722"> <div class="u_1901167991 imageWidget align-center" data-widget-type="image" id="1901167991" data-element-type="image"> <a href="/" id="1067941554"><img src="https://lirp.cdn-website.com/a9d7b90b/dms3rep/multi/opt/Biggs+Logo_final-PMS-1920w.png" id="1669146944" class="" data-dm-image-path="https://irp.cdn-website.com/a9d7b90b/dms3rep/multi/Biggs+Logo_final-PMS.png" width="1920" height="1280" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+ <div class="u_1293552929 dmNewParagraph" data-element-type="paragraph" id="1293552929" style="transition: none 0s ease 0s; text-align: center; display: block;" data-version="5"> <h6 class="m-size-13 text-align-center size-16"><span class="font-size-16 m-font-size-13" style="display: initial; font-weight: 400; text-transform: uppercase;">PAID FOR BY SHERI BIGGS FOR CONGRESS</span></h6> 
+</div> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1253251796" style="transition: opacity 1s ease-in-out 0s;"><p class="m-size-11 text-align-center size-14"><span class="m-font-size-11 font-size-14" style="font-weight:400;display:unset;font-family:Poppins, 'Poppins Fallback';"><span style="font-weight:400;display:unset;font-family:Poppins, 'Poppins Fallback';" class="m-font-size-11 font-size-14">Download the official headshot of Sheri Biggs</span> 
+</span><a href="https://irp.cdn-website.com/a9d7b90b/files/uploaded/Sheri_Biggs_Official_Headshot.JPG" runtime_url="https://irp.cdn-website.com/a9d7b90b/files/uploaded/Sheri_Biggs_Official_Headshot.JPG" type="file" class="m-font-size-11 font-size-14" style="font-weight:400;display:unset;font-family:Poppins, 'Poppins Fallback';" file="true" target="_blank">here</a><span class="m-font-size-11 font-size-14" style="font-weight:400;display:unset;font-family:Poppins, 'Poppins Fallback';">.</span><span style="font-weight:400;display:initial;font-family:Poppins, 'Poppins Fallback';" class="m-font-size-11 font-size-14"><br/></span><span style="font-weight: 400; display: unset;" class="m-font-size-11 font-size-14">Press Inquires: Please email&nbsp;</span><a href="mailto:press@sheribiggs.com" target="_blank" class="m-font-size-11 font-size-14" style="display: unset;">press@sheribiggs.com</a><span style="font-weight:400;display:initial;font-family:Poppins, 'Poppins Fallback';" class="font-size-14 m-font-size-11"><br/></span></p></div> 
+ <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1296299937" style="transition: opacity 1s ease-in-out 0s;"><p class="text-align-center" style="line-height: 1;"><span style="font-weight: 400; display: unset;">Sheri Biggs for Congress<br/>PO Box 2685<br/>Anderson, SC 29622</span></p></div> 
+ <div class="u_1218880368 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1218880368" style="transition: opacity 1s ease-in-out 0s;"><p class="size-12 m-size-10 text-align-center"><span style="display: unset;" class="font-size-12 m-font-size-10">Sheri Biggs is a member of the Air National Guard. Use of her military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Air Force or the Department of Defense.</span></p></div> 
+ <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1102184059" style="transition: opacity 1s ease-in-out 0s;"><p class="text-align-center size-14 m-size-11"><a href="/privacy-policy" runtime_url="/privacy-policy" type="page" style="display: unset;" class="font-size-14 m-font-size-11">Privacy Policy</a></p></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div id="1236746004" dmle_extension="powered_by" data-element-type="powered_by" icon="true" surround="false"></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+
+    </div>
+</div>
+<!--  Add full CSS and Javascript before the close tag of the body if needed -->
+<!-- ========= JS Section ========= -->
+<script>
+    var isWLR = true;
+
+    window.customWidgetsFunctions = {};
+    window.customWidgetsStrings = {};
+    window.collections = {};
+    window.currentLanguage = "ENGLISH"
+    window.isSitePreview = false;
+</script>
+<script type="text/javascript">
+
+    var d_version = "production_4894";
+    var build = "2024-11-04T15_31_02";
+    window['v' + 'ersion'] = d_version;
+
+    function buildEditorParent() {
+        window.isMultiScreen = true;
+        window.editorParent = {};
+        window.previewParent = {};
+        window.assetsCacheQueryParam = "?version=2024-11-04T15_31_02";
+        try {
+            var _p = window.parent;
+            if (_p && _p.document && _p.$ && _p.$.dmfw) {
+                window.editorParent = _p;
+            } else if (_p.isSitePreview) {
+                window.previewParent = _p;
+            }
+        } catch (e) {
+
+        }
+    }
+
+    buildEditorParent();
+</script>
+
+<!-- Load jQuery -->
+<script type="text/javascript" id='d-js-jquery'
+        src="https://static.cdn-website.com/libs/jquery/jquery-3.7.0.min.js"></script>
+<!-- End Load jQuery -->
+<!-- Injecting site-wide before scripts -->
+<!-- End Injecting site-wide to the head -->
+
+
+<script>
+    var _jquery = window.$;
+
+    var jqueryAliases = ['$', 'jquery', 'jQuery'];
+
+    jqueryAliases.forEach((alias) => {
+        Object.defineProperty(window, alias, {
+            get() {
+                return _jquery;
+            },
+            set() {
+                console.warn("Trying to over-write the global jquery object!");
+            }
+        });
+    });
+    window.jQuery.migrateMute = true;
+</script>
+<script>
+    window.cookiesNotificationMarkupPreview = 'null';
+</script>
+
+<!-- HEAD RT JS Include -->
+<script id='d-js-params'>
+    window.INSITE = window.INSITE || {};
+    window.INSITE.device = "desktop";
+
+    window.rtCommonProps = {};
+    rtCommonProps["rt.ajax.ajaxScriptsFix"] =true;
+    rtCommonProps["rt.pushnotifs.sslframe.encoded"] = 'aHR0cHM6Ly97c3ViZG9tYWlufS5wdXNoLW5vdGlmcy5jb20=';
+    rtCommonProps["runtimecollector.url"] = 'https://rtc.multiscreensite.com';
+    rtCommonProps["performance.tabletPreview.removeScroll"] = 'false';
+    rtCommonProps["inlineEditGrid.snap"] =true;
+    rtCommonProps["popup.insite.cookie.ttl"] = '0.5';
+    rtCommonProps["rt.pushnotifs.force.button"] =true;
+    rtCommonProps["common.mapbox.token"] = 'pk.eyJ1IjoiZGFubnliMTIzIiwiYSI6ImNqMGljZ256dzAwMDAycXBkdWxwbDgzeXYifQ.Ck5P-0NKPVKAZ6SH98gxxw';
+    rtCommonProps["common.mapbox.js.override"] =false;
+    rtCommonProps["common.here.appId"] = 'iYvDjIQ2quyEu0rg0hLo';
+    rtCommonProps["common.here.appCode"] = '1hcIxLJcbybmtBYTD9Z1UA';
+    rtCommonProps["isCoverage.test"] =false;
+    rtCommonProps["ecommerce.ecwid.script"] = 'https://app.multiscreenstore.com/script.js';
+    rtCommonProps["feature.flag.mappy.kml"] =false;
+    rtCommonProps["common.resources.dist.cdn"] =true;
+    rtCommonProps["common.build.dist.folder"] = 'production/4894';
+    rtCommonProps["common.resources.cdn.host"] = 'https://static.cdn-website.com';
+    rtCommonProps["common.resources.folder"] = 'https://static.cdn-website.com/mnlt/production/4894';
+    rtCommonProps["feature.flag.runtime.backgroundSlider.preload.slowly"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.enabled"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.respectCssAnimationProps.enabled"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.jitAnimation.enabled"] =true;
+    rtCommonProps["feature.flag.sites.google.analytics.gtag"] =true;
+    rtCommonProps["feature.flag.runOnReadyNewTask"] =true;
+    rtCommonProps["isAutomation.test"] =false;
+
+    
+    rtCommonProps['common.mapsProvider'] = 'mapbox';
+    
+    rtCommonProps['common.mapsProvider.version'] = '0.52.0';
+    rtCommonProps['common.geocodeProvider'] = 'mapbox';
+    rtCommonProps['common.map.defaults.radiusSize'] = '1500';
+    rtCommonProps['common.map.defaults.radiusBg'] = 'rgba(255, 255, 255, 0.4)';
+    rtCommonProps['common.map.defaults.strokeColor'] = 'rgba(255, 255, 255, 1)';
+    rtCommonProps['common.map.defaults.strokeSize'] = '2';
+    rtCommonProps['server.for.resources'] = '';
+    rtCommonProps['feature.flag.lazy.widgets'] = true;
+    rtCommonProps['feature.flag.single.wow'] = false;
+    rtCommonProps['feature.flag.disallowPopupsInEditor'] = true;
+    rtCommonProps['feature.flag.mark.anchors'] = true;
+    rtCommonProps['captcha.public.key'] = '6LffcBsUAAAAAMU-MYacU-6QHY4iDtUEYv_Ppwlz';
+    rtCommonProps['captcha.invisible.public.key'] = '6LeiWB8UAAAAAHYnVJM7_-7ap6bXCUNGiv7bBPME';
+    rtCommonProps["images.sizes.small"] =160;
+    rtCommonProps["images.sizes.mobile"] =640;
+    rtCommonProps["images.sizes.tablet"] =1280;
+    rtCommonProps["images.sizes.desktop"] =1920;
+    rtCommonProps["modules.resources.cdn"] =true;
+    rtCommonProps["import.images.storage.imageCDN"] = 'https://lirp.cdn-website.com/';
+    rtCommonProps["facebook.api.version"] = '7.0';
+    rtCommonProps["feature.flag.runtime.inp.threshold"] =150;
+    rtCommonProps["feature.flag.performance.logs"] =true;
+    rtCommonProps["site.widget.form.captcha.type"] = 'g_recaptcha';
+    rtCommonProps["friendly.captcha.site.key"] = 'FCMGSQG9GVNMFS8K';
+    rtCommonProps["cookiebot.mapbox.consent.category"] = 'marketing';
+    rtCommonProps["platform.monolith.personalization.dateTimeCondition.popupMsgAction.moveToclient.enabled"] =false;
+
+    // feature flags that's used out of runtime module (in  legacy files)
+    rtCommonProps["site.runtime.video.background.ssr"] =true;
+
+    window.rtFlags = {};
+    rtFlags["unsuspendEcwidStoreOnRuntime.enabled"] =true;
+    rtFlags["scripts.widgetCount.enabled"] =true;
+    rtFlags["ecom.ecwid.categoryPage.modifyLinks"] = true;
+    rtFlags["ecom.ecwid.delegateNavigationToEcwid.enabled"] = false;
+    rtFlags["ecom.ecwidNewUrlStructure.enabled"] = false;
+    rtFlags["ecom.ecwid.old.store.fix.scrolling.enabled"] = true;
+    rtFlags["ecom.ecwid.old.store.fix.facebook.share"] = true;
+    rtFlags["ecom.ecwid.fallBackInCaseLinksNotFound.enabled"] = true;
+    rtFlags["feature.flag.photo.gallery.exact.size"] =true;
+    rtFlags["new.store.fix.ecwid.back.bug"] =true;
+    rtFlags["facebook.runtime.widgets.upgrade"] =true;
+    rtFlags["ecom.ecwid.solve.url.modifications"] = true;
+    rtFlags["ecom.ecwid.configOptions"] = true;
+    rtFlags["geocode.search.localize"] =false;
+    rtFlags["feature.flag.runtime.newAnimation.asyncInit.setTimeout.enabled"] =false;
+    rtFlags["site.contact.form.fix.for.attribute"] =true;
+    rtFlags["contact.form.date.format.enabled"] = true;
+    rtFlags["twitter.heightLimit.enabled"] = true;
+    rtFlags["ecom.ecwid.fixTranslations.enabled"] = true;
+    rtFlags["runtime.load.script.native"] =true;
+    rtFlags["editor.classicHybrid.photogallery.fix"] =true;
+    rtFlags["runtime.lottieOverflow"] =false;
+    rtFlags["runtime.monitoring.sentry.ignoreErrors"] = "";
+    rtFlags["ecom.ecwid.old.store.fix.scrolling.detect.enable"] =true;
+    rtFlags["contact.form.browserValidation.enabled"] =true;
+</script>
+<script src="https://static.cdn-website.com/mnlt/production/4894/_dm/s/rt/dist/scripts/d-js-one-runtime-unified-desktop.min.js"  id="d-js-core"></script>
+<!-- End of HEAD RT JS Include -->
+<script src="https://static.cdn-website.com/mnlt/production/4894/_dm/s/rt/dist/scripts/d-js-jquery-migrate.min.js" ></script>
+<script>
+    
+    $(window).bind("orientationchange", function (e) {
+        $.layoutManager.initLayout();
+        
+    });
+    $(document).resize(function () {
+        
+    });
+</script>
+<script type="text/javascript" id="d_track_campaign">
+(function() {
+ 	var campaign = (/utm_campaign=([^&]*)/).exec(window.location.search);
+
+ 	if (campaign && campaign != null && campaign.length > 1) {
+ 		campaign = campaign[1];
+ 		document.cookie = "_dm_rt_campaign=" + campaign + ";expires=" + new Date().getTime() + 24*60*60*1000 + ";domain=" + window.location.hostname + ";path=/";
+ 	}
+}());
+</script>
+<script type="text/javascript" >
+  var _dm_gaq = {};
+  var _gaq = _gaq || [];
+  var _dm_insite = [];
+</script>
+
+<script type="text/javascript" id="d_track_sp">
+;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
+p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script","//d32hwlnfiv2gyn.cloudfront.net/sp-2.0.0-dm-0.1.min.js","snowplow"));
+window.dmsnowplow  = window.snowplow;
+
+dmsnowplow('newTracker', 'cf', 'd32hwlnfiv2gyn.cloudfront.net', { // Initialise a tracker
+  appId: 'a9d7b90b'
+});
+
+// snowplow queries element styles so we wait until CSS calculations are done.
+requestAnimationFrame(() => {
+	dmsnowplow('trackPageView');
+	_dm_insite.forEach((rule) => {
+		// Specifically in popup only the client knows if it is shown or not so we don't always want to track its impression here
+		// the tracking is in popup.js
+		if (rule.actionName !== "popup") {
+			dmsnowplow('trackStructEvent', 'insite', 'impression', rule.ruleType, rule.ruleId);
+		}
+		window?.waitForDeferred?.('dmAjax', () => {
+			$.DM.events.trigger('event-ruleTriggered', {value: rule});
+		});
+	});
+});
+</script>
+   <div style="display:none;" id="P6iryBW0Wu"></div>
+
+<!-- photoswipe markup -->
+
+
+
+
+
+
+
+
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    <!-- Background of PhotoSwipe. 
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. 
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                <!--  Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+<div id="fb-root"
+        data-locale="en"></div>
+<!-- Alias: a9d7b90b -->
+<div class="dmPopupMask" id="dmPopupMask"></div>
+<div id="dmPopup" class="dmPopup">
+	<div class="dmPopupCloseWrapper"> <div class="dmPopupClose dm-common-icons-close oneIcon" onclick="dmHidePopup(event);"></div> </div>
+ 	<div class="dmPopupTitle"> <span></span> Share by:</div> 
+	<div class="data"></div>
+</div><script id="d_track_personalization">
+	window?.waitForDeferred?.('dmAjax', () => {
+		// Collects client data and updates cookies used by smart sites
+		window.expireDays = 365;
+		window.visitLength = 30 * 60000;
+		$.setCookie("dm_timezone_offset", (new Date()).getTimezoneOffset(), window.expireDays);
+			setSmartSiteCookiesInternal("dm_this_page_view","dm_last_page_view","dm_total_visits","dm_last_visit");
+	});
+</script>
+<script type="text/javascript">
+    
+    Parameters.NavigationAreaParams.MoreButtonText = 'MORE';
+    
+    Parameters.NavigationAreaParams.LessButtonText = 'LESS';
+    Parameters.HomeLinkText = 'Home';
+    </script>
+<!--  End Script tags -->
+
+<!--  Site Wide Html Markup -->
+<!--  Site Wide Html Markup -->
+</body>
+</html>

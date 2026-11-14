@@ -1,0 +1,61 @@
+{
+  "name": "Sheri Biggs",
+  "domains_tried": [
+    "sheribiggs.com",
+    "sheribiggsforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.sheribiggs.com/",
+      "timestamp": "20241105170504",
+      "wayback": "https://web.archive.org/web/20241105170504/https://www.sheribiggs.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105170504id_/https://www.sheribiggs.com/",
+      "file": "archive/2024/biggs-sc/home.html",
+      "text_file": "archive/2024/biggs-sc/home.txt",
+      "bytes": 81601,
+      "sha256_html": "29eca0395131504f8059500045580d8efed8baea0786448bea31d0f5cf6d7007",
+      "sha256_text": "15436f76f810c0ef5372c6cfff52ca518a9c7a945550fb01b0f9ca7e27772710"
+    },
+    {
+      "original": "https://www.sheribiggs.com/biggsbreaksfundraisingrecord",
+      "timestamp": "20241105170250",
+      "wayback": "https://web.archive.org/web/20241105170250/https://www.sheribiggs.com/biggsbreaksfundraisingrecord",
+      "wayback_raw": "https://web.archive.org/web/20241105170250id_/https://www.sheribiggs.com/biggsbreaksfundraisingrecord",
+      "file": "archive/2024/biggs-sc/biggsbreaksfundraisingrecord.html",
+      "text_file": "archive/2024/biggs-sc/biggsbreaksfundraisingrecord.txt",
+      "bytes": 50224,
+      "sha256_html": "b650fa13aa42688f43ed22aa07c248eba3bb5c0b5ce74bd0c39f104da2fa48da",
+      "sha256_text": "a5211ea1c89acc6aa2ae77c5c0761c8dca97e853925796a7b33f63704cc5d595"
+    },
+    {
+      "original": "https://www.sheribiggs.com/issues",
+      "timestamp": "20241105170235",
+      "wayback": "https://web.archive.org/web/20241105170235/https://www.sheribiggs.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105170235id_/https://www.sheribiggs.com/issues",
+      "file": "archive/2024/biggs-sc/issues.html",
+      "text_file": "archive/2024/biggs-sc/issues.txt",
+      "bytes": 69823,
+      "sha256_html": "7ef046c119e7abc2cd91319c6e956059e2ec02ecdc96c35880e4fb7fa7d0f1df",
+      "sha256_text": "a50099540950bc7a3fdfb0647e073924882e5e0c2f1022437b4ea2a7e1989e33"
+    },
+    {
+      "original": "https://www.sheribiggs.com/about",
+      "timestamp": "20241105170246",
+      "wayback": "https://web.archive.org/web/20241105170246/https://www.sheribiggs.com/about",
+      "wayback_raw": "https://web.archive.org/web/20241105170246id_/https://www.sheribiggs.com/about",
+      "file": "archive/2024/biggs-sc/about.html",
+      "text_file": "archive/2024/biggs-sc/about.txt",
+      "bytes": 80693,
+      "sha256_html": "5fa8e6355ffd55c912890dc18d9ae8048a07acdb7aa306ec704ad16a0cd45665",
+      "sha256_text": "9c7c8542dd7cca133514e9c2d091ada512f44a32dfb3f73cae403c57da62bb9b"
+    }
+  ],
+  "snapshots_found": {
+    "sheribiggs.com": 18
+  },
+  "generated_utc": "2026-11-14T16:46:20Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
