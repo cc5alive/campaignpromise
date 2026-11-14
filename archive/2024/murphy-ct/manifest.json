@@ -1,0 +1,60 @@
+{
+  "name": "Christopher Murphy",
+  "domains_tried": [
+    "chrismurphy.com"
+  ],
+  "pages": [
+    {
+      "original": "https://chrismurphy.com/",
+      "timestamp": "20241101173246",
+      "wayback": "https://web.archive.org/web/20241101173246/https://chrismurphy.com/",
+      "wayback_raw": "https://web.archive.org/web/20241101173246id_/https://chrismurphy.com/",
+      "file": "archive/2024/murphy-ct/home.html",
+      "text_file": "archive/2024/murphy-ct/home.txt",
+      "bytes": 58479,
+      "sha256_html": "6bfc744057160f9f82e452d3b76cda415daf5b3db8ba7fb240738e9309ff9d29",
+      "sha256_text": "6cee7191f8deb828c9ccc8f088d786cbb8423dd3600ba427a9049287f0330f65"
+    },
+    {
+      "original": "https://chrismurphy.com/issues/",
+      "timestamp": "20241004082606",
+      "wayback": "https://web.archive.org/web/20241004082606/https://chrismurphy.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241004082606id_/https://chrismurphy.com/issues/",
+      "file": "archive/2024/murphy-ct/issues.html",
+      "text_file": "archive/2024/murphy-ct/issues.txt",
+      "bytes": 71849,
+      "sha256_html": "bbe325228873345545f0d5f534d0a07a8c64b19219f63b56973da70604eacdbb",
+      "sha256_text": "84030d89dbdbdfd711f162ad6820625995b40f326fffb0a23421ad9fd321becc"
+    },
+    {
+      "original": "https://chrismurphy.com/2018/08/31/chris-murphy-receives-endorsement-of-the-uniformed-professional-firefighters-association-of-connecticut/",
+      "timestamp": "20240912113754",
+      "wayback": "https://web.archive.org/web/20240912113754/https://chrismurphy.com/2018/08/31/chris-murphy-receives-endorsement-of-the-uniformed-professional-firefighters-association-of-connecticut/",
+      "wayback_raw": "https://web.archive.org/web/20240912113754id_/https://chrismurphy.com/2018/08/31/chris-murphy-receives-endorsement-of-the-uniformed-professional-firefighters-association-of-connecticut/",
+      "file": "archive/2024/murphy-ct/2018-08-31-chris-murphy-receives-endorsement-of-the-uniformed-professional-firefighters-association-of-connecticut.html",
+      "text_file": "archive/2024/murphy-ct/2018-08-31-chris-murphy-receives-endorsement-of-the-uniformed-professional-firefighters-association-of-connecticut.txt",
+      "bytes": 58307,
+      "sha256_html": "45bf8348115a17079c74006b59b55721ff58a0be6cdb5d40ecdc7445665afbe5",
+      "sha256_text": "490082140775f48ffcfe128dc101d5b30bdef9ee53496c7d5f574148108aaa75"
+    },
+    {
+      "original": "https://chrismurphy.com/2018/09/12/chris-murphy-announces-endorsement-from-planned-parenthood-action-fund/",
+      "timestamp": "20240912120414",
+      "wayback": "https://web.archive.org/web/20240912120414/https://chrismurphy.com/2018/09/12/chris-murphy-announces-endorsement-from-planned-parenthood-action-fund/",
+      "wayback_raw": "https://web.archive.org/web/20240912120414id_/https://chrismurphy.com/2018/09/12/chris-murphy-announces-endorsement-from-planned-parenthood-action-fund/",
+      "file": "archive/2024/murphy-ct/2018-09-12-chris-murphy-announces-endorsement-from-planned-parenthood-action-fund.html",
+      "text_file": "archive/2024/murphy-ct/2018-09-12-chris-murphy-announces-endorsement-from-planned-parenthood-action-fund.txt",
+      "bytes": 56563,
+      "sha256_html": "985f252cef43001ece933da54fd5f6efef70157e0e0ebea192aaad2ebd628076",
+      "sha256_text": "76bc929336541eab578301016bf02bc4409ebc0d1d93eefa758a7f3f2c1c31ba"
+    }
+  ],
+  "snapshots_found": {
+    "chrismurphy.com": 26
+  },
+  "generated_utc": "2026-11-14T15:54:58Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
