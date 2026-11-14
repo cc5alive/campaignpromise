@@ -1,0 +1,60 @@
+{
+  "name": "Mike Johnson",
+  "domains_tried": [
+    "mikejohnsonforlouisiana.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.mikejohnsonforlouisiana.com/",
+      "timestamp": "20241105104151",
+      "wayback": "https://web.archive.org/web/20241105104151/https://www.mikejohnsonforlouisiana.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105104151id_/https://www.mikejohnsonforlouisiana.com/",
+      "file": "archive/2024/johnson-la/home.html",
+      "text_file": "archive/2024/johnson-la/home.txt",
+      "bytes": 199722,
+      "sha256_html": "eca77e3b1e50222c1f50ac46c5034ea5604093a37ce9adcbe116bf032f848915",
+      "sha256_text": "ad2892100bd843c6ba7fc545a282ff0c2ccaf5595139e4edea9c05b385fa25a6"
+    },
+    {
+      "original": "https://www.mikejohnsonforlouisiana.com/news/speaker-johnson-discusses-2024-election-and-the-house-gop-agenda-on-mornings-with-marianbsp",
+      "timestamp": "20241105104232",
+      "wayback": "https://web.archive.org/web/20241105104232/https://www.mikejohnsonforlouisiana.com/news/speaker-johnson-discusses-2024-election-and-the-house-gop-agenda-on-mornings-with-marianbsp",
+      "wayback_raw": "https://web.archive.org/web/20241105104232id_/https://www.mikejohnsonforlouisiana.com/news/speaker-johnson-discusses-2024-election-and-the-house-gop-agenda-on-mornings-with-marianbsp",
+      "file": "archive/2024/johnson-la/news-speaker-johnson-discusses-2024-election-and-the-house-gop-agenda-on-mornings-with-marianbsp.html",
+      "text_file": "archive/2024/johnson-la/news-speaker-johnson-discusses-2024-election-and-the-house-gop-agenda-on-mornings-with-marianbsp.txt",
+      "bytes": 114931,
+      "sha256_html": "f32af5af9867f6151a3ec4e934e53b3702d3ecb14ee992e310c768847fa5ef0a",
+      "sha256_text": "88bc308832d26e656a4c141bc6dacff81f6556993b9c7679757d3bf4ed9b2733"
+    },
+    {
+      "original": "https://www.mikejohnsonforlouisiana.com/news/speaker-johnson-sets-fundraising-record",
+      "timestamp": "20241105104213",
+      "wayback": "https://web.archive.org/web/20241105104213/https://www.mikejohnsonforlouisiana.com/news/speaker-johnson-sets-fundraising-record",
+      "wayback_raw": "https://web.archive.org/web/20241105104213id_/https://www.mikejohnsonforlouisiana.com/news/speaker-johnson-sets-fundraising-record",
+      "file": "archive/2024/johnson-la/news-speaker-johnson-sets-fundraising-record.html",
+      "text_file": "archive/2024/johnson-la/news-speaker-johnson-sets-fundraising-record.txt",
+      "bytes": 109248,
+      "sha256_html": "3388d98879c7af36570f1ca4aa651afb851dca0458a349a2e8ce725aeeafcb89",
+      "sha256_text": "e34c5ee24bf7bdc8012b820ca7f49fac08d847b8449377d020df07c40804c3f3"
+    },
+    {
+      "original": "https://www.mikejohnsonforlouisiana.com/news/speaker-johnson-sets-q3-fundraising-records",
+      "timestamp": "20241105104617",
+      "wayback": "https://web.archive.org/web/20241105104617/https://www.mikejohnsonforlouisiana.com/news/speaker-johnson-sets-q3-fundraising-records",
+      "wayback_raw": "https://web.archive.org/web/20241105104617id_/https://www.mikejohnsonforlouisiana.com/news/speaker-johnson-sets-q3-fundraising-records",
+      "file": "archive/2024/johnson-la/news-speaker-johnson-sets-q3-fundraising-records.html",
+      "text_file": "archive/2024/johnson-la/news-speaker-johnson-sets-q3-fundraising-records.txt",
+      "bytes": 116035,
+      "sha256_html": "fac90b71e6a3a834cf9d7f69cfb91bcdeaad26a6b795567d2facd803f70d5c77",
+      "sha256_text": "facb570a256f6765960a669ea649e5b009bc5acd1097978f3cb907341a0f6e34"
+    }
+  ],
+  "snapshots_found": {
+    "mikejohnsonforlouisiana.com": 34
+  },
+  "generated_utc": "2026-11-14T08:21:41Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
