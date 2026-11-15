@@ -92,10 +92,11 @@
   "kind": "Pledge",
   "issue": "Federal spending",
   "votes": [
+   "house-2025-168",
    "house-2025-145",
    "house-2025-190"
   ],
-  "note": "Judgment needed: CBO estimated H.R.1 adds to the deficit over ten years, while supporters count its spending cuts. Whether it 'cuts spending' depends on the baseline."
+  "note": "The Rescissions Act of 2025 cut about $9 billion in previously approved spending (foreign aid and public broadcasting). H.R.1 is shown as a related vote, not scored: its net effect on spending depends on the baseline."
  },
  {
   "member": "messmer-in",
@@ -170,10 +171,11 @@
   "kind": "Stated position",
   "issue": "Federal spending",
   "votes": [
+   "house-2025-168",
    "house-2025-145",
    "house-2025-190"
   ],
-  "note": "Judgment needed: CBO estimated H.R.1 adds to the deficit over ten years, while supporters count its spending cuts. Whether it 'cuts spending' depends on the baseline."
+  "note": "The Rescissions Act of 2025 cut about $9 billion in previously approved spending (foreign aid and public broadcasting). H.R.1 is shown as a related vote, not scored: its net effect on spending depends on the baseline."
  },
  {
   "member": "knott-nc",
@@ -441,7 +443,7 @@
    "house-2025-145",
    "house-2025-190"
   ],
-  "note": "Judgment needed: H.R.1 raised the child tax credit to $2,200 and the SALT cap to $40,000 for five years \u2014 partial versions of both, inside a bill opposed for other reasons."
+  "note": "Judgment needed: H.R.1 raised the child tax credit to $2,200 and the SALT cap to $40,000 for five years — partial versions of both, inside a bill opposed for other reasons."
  },
  {
   "member": "conaway-nj",

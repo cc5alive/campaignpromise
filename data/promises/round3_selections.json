@@ -35,9 +35,10 @@
   "kind": "Stated position",
   "issue": "Federal spending",
   "votes": [
+   "senate-1-00411",
    "senate-1-00372"
   ],
-  "note": "Judgment needed: CBO estimated H.R.1 adds to the deficit over ten years, while supporters count its spending cuts. Whether it 'cuts spending' depends on the baseline."
+  "note": "The Rescissions Act of 2025 cut about $9 billion in previously approved spending (foreign aid and public broadcasting). H.R.1 is shown as a related vote, not scored: its net effect on spending depends on the baseline."
  },
  {
   "member": "fischer-ne",
@@ -76,10 +77,11 @@
   "kind": "Stated position",
   "issue": "Federal spending",
   "votes": [
+   "house-2025-168",
    "house-2025-145",
    "house-2025-190"
   ],
-  "note": "Judgment needed: CBO estimated H.R.1 adds to the deficit over ten years, while supporters count its spending cuts. Whether it 'cuts spending' depends on the baseline."
+  "note": "The Rescissions Act of 2025 cut about $9 billion in previously approved spending (foreign aid and public broadcasting). H.R.1 is shown as a related vote, not scored: its net effect on spending depends on the baseline."
  },
  {
   "member": "burchett-tn",
@@ -182,14 +184,15 @@
  },
  {
   "member": "barrett-mi",
-  "cand": 4,
   "kind": "Pledge",
   "issue": "Taxes",
   "votes": [
    "house-2025-145",
    "house-2025-190"
   ],
-  "note": ""
+  "note": "",
+  "quote": "I’m the only candidate running who has signed the Taxpayer’s Protection Pledge and will work to lower the tax burden on all Americans as a member of Congress.",
+  "page": "https://tombarrettforcongress.com/issues"
  },
  {
   "member": "evans-co",
@@ -318,10 +321,11 @@
   "kind": "Stated position",
   "issue": "Federal spending",
   "votes": [
+   "house-2025-168",
    "house-2025-145",
    "house-2025-190"
   ],
-  "note": "Judgment needed: CBO estimated H.R.1 adds to the deficit over ten years, while supporters count its spending cuts. Whether it 'cuts spending' depends on the baseline."
+  "note": "The Rescissions Act of 2025 cut about $9 billion in previously approved spending (foreign aid and public broadcasting). H.R.1 is shown as a related vote, not scored: its net effect on spending depends on the baseline."
  },
  {
   "member": "delacruz-tx",

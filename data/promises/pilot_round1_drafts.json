@@ -22,17 +22,7 @@
    "note": "",
    "status": "draft",
    "drafted_by": "Claude (AI)",
-   "reviewed_by": null,
-   "votes": [
-    {
-     "id": "senate-1-00007",
-     "bill": "Laken Riley Act",
-     "question": "final passage",
-     "date": "January 20, 2025,  0",
-     "vote": "Yea",
-     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00007.xml"
-    }
-   ]
+   "reviewed_by": null
   },
   {
    "id": "P002",
@@ -54,17 +44,7 @@
    "note": "\"These industries\" refers to digital assets and crypto, named in the sentences before it.",
    "status": "draft",
    "drafted_by": "Claude (AI)",
-   "reviewed_by": null,
-   "votes": [
-    {
-     "id": "senate-1-00318",
-     "bill": "GENIUS Act",
-     "question": "final passage",
-     "date": "June 17, 2025,  05:1",
-     "vote": "Yea",
-     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00318.xml"
-    }
-   ]
+   "reviewed_by": null
   },
   {
    "id": "P003",
@@ -81,22 +61,13 @@
    },
    "quote_verified_in_source": true,
    "suggested_test_votes": [
+    "senate-1-00411",
     "senate-1-00372"
    ],
-   "note": "Judgment needed: whether the 2025 reconciliation bill counts as cutting spending depends on which baseline you use.",
+   "note": "The Rescissions Act of 2025 cut about $9 billion in previously approved spending (foreign aid and public broadcasting). H.R.1 is shown as a related vote, not scored: its net effect on spending depends on the baseline.",
    "status": "draft",
    "drafted_by": "Claude (AI)",
-   "reviewed_by": null,
-   "votes": [
-    {
-     "id": "senate-1-00372",
-     "bill": "2025 reconciliation bill",
-     "question": "final passage",
-     "date": "July 1, 2025,  11:56",
-     "vote": "Yea",
-     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml"
-    }
-   ]
+   "reviewed_by": null
   },
   {
    "id": "P004",
@@ -119,25 +90,7 @@
    "note": "Judgment needed: the 2025 reconciliation bill cut Medicaid, which this pledge does not name.",
    "status": "draft",
    "drafted_by": "Claude (AI)",
-   "reviewed_by": null,
-   "votes": [
-    {
-     "id": "house-2025-145",
-     "bill": "2025 reconciliation bill",
-     "question": "final passage",
-     "date": "22-May-2025",
-     "vote": "Yea",
-     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
-    },
-    {
-     "id": "house-2025-190",
-     "bill": "2025 reconciliation bill",
-     "question": "final passage (Senate version)",
-     "date": "3-Jul-2025",
-     "vote": "Aye",
-     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
-    }
-   ]
+   "reviewed_by": null
   },
   {
    "id": "P005",
@@ -160,25 +113,7 @@
    "note": "The 2025 reconciliation bill raised the SALT deduction cap.",
    "status": "draft",
    "drafted_by": "Claude (AI)",
-   "reviewed_by": null,
-   "votes": [
-    {
-     "id": "house-2025-145",
-     "bill": "2025 reconciliation bill",
-     "question": "final passage",
-     "date": "22-May-2025",
-     "vote": "Yea",
-     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
-    },
-    {
-     "id": "house-2025-190",
-     "bill": "2025 reconciliation bill",
-     "question": "final passage (Senate version)",
-     "date": "3-Jul-2025",
-     "vote": "Aye",
-     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
-    }
-   ]
+   "reviewed_by": null
   },
   {
    "id": "P006",
@@ -201,25 +136,7 @@
    "note": "Section heading on the issues page.",
    "status": "draft",
    "drafted_by": "Claude (AI)",
-   "reviewed_by": null,
-   "votes": [
-    {
-     "id": "house-2025-006",
-     "bill": "Laken Riley Act (House version)",
-     "question": "final passage",
-     "date": "7-Jan-2025",
-     "vote": "Yea",
-     "source": "https://clerk.house.gov/evs/2025/roll006.xml"
-    },
-    {
-     "id": "house-2025-023",
-     "bill": "Laken Riley Act",
-     "question": "final passage",
-     "date": "22-Jan-2025",
-     "vote": "Yea",
-     "source": "https://clerk.house.gov/evs/2025/roll023.xml"
-    }
-   ]
+   "reviewed_by": null
   },
   {
    "id": "P007",
@@ -242,32 +159,14 @@
    "note": "Judgment needed: which provisions of the reconciliation bill affect these benefits.",
    "status": "draft",
    "drafted_by": "Claude (AI)",
-   "reviewed_by": null,
-   "votes": [
-    {
-     "id": "house-2025-145",
-     "bill": "2025 reconciliation bill",
-     "question": "final passage",
-     "date": "22-May-2025",
-     "vote": "Nay",
-     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
-    },
-    {
-     "id": "house-2025-190",
-     "bill": "2025 reconciliation bill",
-     "question": "final passage (Senate version)",
-     "date": "3-Jul-2025",
-     "vote": "No",
-     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
-    }
-   ]
+   "reviewed_by": null
   },
   {
    "id": "P008",
    "member": "mgp",
    "quote": "Marie believes in fighting the drug crisis through increased border security, stricter punishments for sale and possession, expanded access to treatment and rehab, and better job opportunities.",
    "kind": "Stated position",
-   "issue": "Immigration",
+   "issue": "Fentanyl",
    "source": {
     "original": "https://marieforcongress.com/issues/",
     "snapshot": "20241104225439",
@@ -277,31 +176,12 @@
    },
    "quote_verified_in_source": true,
    "suggested_test_votes": [
-    "house-2025-006",
-    "house-2025-023"
+    "house-2025-166"
    ],
-   "note": "",
+   "note": "The HALT Fentanyl Act permanently lists fentanyl-related substances as Schedule I drugs, which brings tougher penalties for sale and possession.",
    "status": "draft",
    "drafted_by": "Claude (AI)",
-   "reviewed_by": null,
-   "votes": [
-    {
-     "id": "house-2025-006",
-     "bill": "Laken Riley Act (House version)",
-     "question": "final passage",
-     "date": "7-Jan-2025",
-     "vote": "Yea",
-     "source": "https://clerk.house.gov/evs/2025/roll006.xml"
-    },
-    {
-     "id": "house-2025-023",
-     "bill": "Laken Riley Act",
-     "question": "final passage",
-     "date": "22-Jan-2025",
-     "vote": "Yea",
-     "source": "https://clerk.house.gov/evs/2025/roll023.xml"
-    }
-   ]
+   "reviewed_by": null
   },
   {
    "id": "P009",
@@ -324,25 +204,7 @@
    "note": "Likely mixed: the reconciliation bill raised the credit, and she voted no on the bill as a whole.",
    "status": "draft",
    "drafted_by": "Claude (AI)",
-   "reviewed_by": null,
-   "votes": [
-    {
-     "id": "house-2025-145",
-     "bill": "2025 reconciliation bill",
-     "question": "final passage",
-     "date": "22-May-2025",
-     "vote": "Nay",
-     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
-    },
-    {
-     "id": "house-2025-190",
-     "bill": "2025 reconciliation bill",
-     "question": "final passage (Senate version)",
-     "date": "3-Jul-2025",
-     "vote": "No",
-     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
-    }
-   ]
+   "reviewed_by": null
   },
   {
    "id": "P010",
@@ -365,25 +227,7 @@
    "note": "Quote keeps the source's missing space after the comma.",
    "status": "draft",
    "drafted_by": "Claude (AI)",
-   "reviewed_by": null,
-   "votes": [
-    {
-     "id": "house-2025-145",
-     "bill": "2025 reconciliation bill",
-     "question": "final passage",
-     "date": "22-May-2025",
-     "vote": "Nay",
-     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
-    },
-    {
-     "id": "house-2025-190",
-     "bill": "2025 reconciliation bill",
-     "question": "final passage (Senate version)",
-     "date": "3-Jul-2025",
-     "vote": "No",
-     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
-    }
-   ]
+   "reviewed_by": null
   },
   {
    "id": "P011",
@@ -403,8 +247,7 @@
    "note": "No pilot vote tests this yet.",
    "status": "draft",
    "drafted_by": "Claude (AI)",
-   "reviewed_by": null,
-   "votes": []
+   "reviewed_by": null
   },
   {
    "id": "P012",
@@ -429,41 +272,7 @@
    "note": "The reconciliation bill added ICE funding.",
    "status": "draft",
    "drafted_by": "Claude (AI)",
-   "reviewed_by": null,
-   "votes": [
-    {
-     "id": "house-2025-006",
-     "bill": "Laken Riley Act (House version)",
-     "question": "final passage",
-     "date": "7-Jan-2025",
-     "vote": "Nay",
-     "source": "https://clerk.house.gov/evs/2025/roll006.xml"
-    },
-    {
-     "id": "house-2025-023",
-     "bill": "Laken Riley Act",
-     "question": "final passage",
-     "date": "22-Jan-2025",
-     "vote": "Nay",
-     "source": "https://clerk.house.gov/evs/2025/roll023.xml"
-    },
-    {
-     "id": "house-2025-145",
-     "bill": "2025 reconciliation bill",
-     "question": "final passage",
-     "date": "22-May-2025",
-     "vote": "Nay",
-     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
-    },
-    {
-     "id": "house-2025-190",
-     "bill": "2025 reconciliation bill",
-     "question": "final passage (Senate version)",
-     "date": "3-Jul-2025",
-     "vote": "No",
-     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
-    }
-   ]
+   "reviewed_by": null
   },
   {
    "id": "P013",
@@ -486,25 +295,7 @@
    "note": "Text dates from 2020 but was still on the site on Nov 5, 2024.",
    "status": "draft",
    "drafted_by": "Claude (AI)",
-   "reviewed_by": null,
-   "votes": [
-    {
-     "id": "house-2025-145",
-     "bill": "2025 reconciliation bill",
-     "question": "final passage",
-     "date": "22-May-2025",
-     "vote": "Nay",
-     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
-    },
-    {
-     "id": "house-2025-190",
-     "bill": "2025 reconciliation bill",
-     "question": "final passage (Senate version)",
-     "date": "3-Jul-2025",
-     "vote": "No",
-     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
-    }
-   ]
+   "reviewed_by": null
   },
   {
    "id": "P014",
@@ -527,25 +318,7 @@
    "note": "The reconciliation bill included a one-year Medicaid funding ban for Planned Parenthood; he voted no on the bill as a whole (bundled vote).",
    "status": "draft",
    "drafted_by": "Claude (AI)",
-   "reviewed_by": null,
-   "votes": [
-    {
-     "id": "house-2025-145",
-     "bill": "2025 reconciliation bill",
-     "question": "final passage",
-     "date": "22-May-2025",
-     "vote": "Nay",
-     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
-    },
-    {
-     "id": "house-2025-190",
-     "bill": "2025 reconciliation bill",
-     "question": "final passage (Senate version)",
-     "date": "3-Jul-2025",
-     "vote": "No",
-     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
-    }
-   ]
+   "reviewed_by": null
   },
   {
    "id": "P015",
@@ -570,41 +343,7 @@
    "note": "The reconciliation bill included border wall funding.",
    "status": "draft",
    "drafted_by": "Claude (AI)",
-   "reviewed_by": null,
-   "votes": [
-    {
-     "id": "house-2025-006",
-     "bill": "Laken Riley Act (House version)",
-     "question": "final passage",
-     "date": "7-Jan-2025",
-     "vote": "Yea",
-     "source": "https://clerk.house.gov/evs/2025/roll006.xml"
-    },
-    {
-     "id": "house-2025-023",
-     "bill": "Laken Riley Act",
-     "question": "final passage",
-     "date": "22-Jan-2025",
-     "vote": "Yea",
-     "source": "https://clerk.house.gov/evs/2025/roll023.xml"
-    },
-    {
-     "id": "house-2025-145",
-     "bill": "2025 reconciliation bill",
-     "question": "final passage",
-     "date": "22-May-2025",
-     "vote": "Nay",
-     "source": "https://clerk.house.gov/evs/2025/roll145.xml"
-    },
-    {
-     "id": "house-2025-190",
-     "bill": "2025 reconciliation bill",
-     "question": "final passage (Senate version)",
-     "date": "3-Jul-2025",
-     "vote": "No",
-     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
-    }
-   ]
+   "reviewed_by": null
   },
   {
    "id": "P016",
@@ -624,17 +363,7 @@
    "note": "Our Nov 1, 2024 Wayback copy of the issues page does not show this text (content likely loaded by script). Needs an earlier snapshot before approval.",
    "status": "draft",
    "drafted_by": "Claude (AI)",
-   "reviewed_by": null,
-   "votes": [
-    {
-     "id": "senate-1-00372",
-     "bill": "2025 reconciliation bill",
-     "question": "final passage",
-     "date": "July 1, 2025,  11:56",
-     "vote": "Nay",
-     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml"
-    }
-   ]
+   "reviewed_by": null
   },
   {
    "id": "P017",
@@ -654,17 +383,7 @@
    "note": "Our Nov 1, 2024 Wayback copy of the issues page does not show this text (content likely loaded by script). Needs an earlier snapshot before approval.",
    "status": "draft",
    "drafted_by": "Claude (AI)",
-   "reviewed_by": null,
-   "votes": [
-    {
-     "id": "senate-1-00372",
-     "bill": "2025 reconciliation bill",
-     "question": "final passage",
-     "date": "July 1, 2025,  11:56",
-     "vote": "Nay",
-     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml"
-    }
-   ]
+   "reviewed_by": null
   },
   {
    "id": "P018",
@@ -684,17 +403,7 @@
    "note": "Our Nov 1, 2024 Wayback copy of the issues page does not show this text (content likely loaded by script). Needs an earlier snapshot before approval.",
    "status": "draft",
    "drafted_by": "Claude (AI)",
-   "reviewed_by": null,
-   "votes": [
-    {
-     "id": "senate-1-00007",
-     "bill": "Laken Riley Act",
-     "question": "final passage",
-     "date": "January 20, 2025,  0",
-     "vote": "Yea",
-     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00007.xml"
-    }
-   ]
+   "reviewed_by": null
   },
   {
    "id": "P019",
@@ -714,17 +423,7 @@
    "note": "Our Nov 1, 2024 Wayback copy of the issues page does not show this text (content likely loaded by script). Needs an earlier snapshot before approval.",
    "status": "draft",
    "drafted_by": "Claude (AI)",
-   "reviewed_by": null,
-   "votes": [
-    {
-     "id": "senate-1-00372",
-     "bill": "2025 reconciliation bill",
-     "question": "final passage",
-     "date": "July 1, 2025,  11:56",
-     "vote": "Nay",
-     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml"
-    }
-   ]
+   "reviewed_by": null
   }
  ],
  "gaps": {

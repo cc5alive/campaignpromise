@@ -103,6 +103,14 @@
    "quote_verified_in_source": true,
    "votes": [
     {
+     "id": "senate-1-00411",
+     "bill": "Rescissions Act of 2025",
+     "question": "final passage",
+     "date": "2025-07-17",
+     "vote": "Yea",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00411.xml"
+    },
+    {
      "id": "senate-1-00372",
      "bill": "2025 reconciliation bill",
      "question": "final passage",
@@ -111,7 +119,7 @@
      "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml"
     }
    ],
-   "note": "Judgment needed: whether the 2025 reconciliation bill counts as cutting spending depends on which baseline you use.",
+   "note": "The Rescissions Act of 2025 cut about $9 billion in previously approved spending (foreign aid and public broadcasting). H.R.1 is shown as a related vote, not scored: its net effect on spending depends on the baseline.",
    "status": "draft",
    "drafted_by": "Claude (AI)",
    "reviewed_by": null
@@ -202,6 +210,14 @@
    "quote_verified_in_source": true,
    "votes": [
     {
+     "id": "senate-1-00411",
+     "bill": "Rescissions Act of 2025",
+     "question": "final passage",
+     "date": "2025-07-17",
+     "vote": "Yea",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00411.xml"
+    },
+    {
      "id": "senate-1-00372",
      "bill": "2025 reconciliation bill",
      "question": "final passage",
@@ -210,7 +226,7 @@
      "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml"
     }
    ],
-   "note": "Judgment needed: whether the 2025 reconciliation bill counts as cutting spending depends on which baseline you use.",
+   "note": "The Rescissions Act of 2025 cut about $9 billion in previously approved spending (foreign aid and public broadcasting). H.R.1 is shown as a related vote, not scored: its net effect on spending depends on the baseline.",
    "status": "draft",
    "drafted_by": "Claude (AI)",
    "reviewed_by": null
@@ -555,6 +571,14 @@
    "quote_verified_in_source": true,
    "votes": [
     {
+     "id": "house-2025-168",
+     "bill": "Rescissions Act of 2025",
+     "question": "final passage",
+     "date": "2025-06-12",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll168.xml"
+    },
+    {
      "id": "house-2025-145",
      "bill": "2025 reconciliation bill",
      "question": "final passage",
@@ -571,7 +595,7 @@
      "source": "https://clerk.house.gov/evs/2025/roll190.xml"
     }
    ],
-   "note": "Judgment needed: whether the 2025 reconciliation bill counts as cutting spending depends on which baseline you use.",
+   "note": "The Rescissions Act of 2025 cut about $9 billion in previously approved spending (foreign aid and public broadcasting). H.R.1 is shown as a related vote, not scored: its net effect on spending depends on the baseline.",
    "status": "draft",
    "drafted_by": "Claude (AI)",
    "reviewed_by": null
@@ -940,6 +964,14 @@
    "quote_verified_in_source": true,
    "votes": [
     {
+     "id": "house-2025-168",
+     "bill": "Rescissions Act of 2025",
+     "question": "final passage",
+     "date": "2025-06-12",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll168.xml"
+    },
+    {
      "id": "house-2025-145",
      "bill": "2025 reconciliation bill",
      "question": "final passage",
@@ -956,7 +988,7 @@
      "source": "https://clerk.house.gov/evs/2025/roll190.xml"
     }
    ],
-   "note": "Judgment needed: whether the 2025 reconciliation bill counts as cutting spending depends on which baseline you use.",
+   "note": "The Rescissions Act of 2025 cut about $9 billion in previously approved spending (foreign aid and public broadcasting). H.R.1 is shown as a related vote, not scored: its net effect on spending depends on the baseline.",
    "status": "draft",
    "drafted_by": "Claude (AI)",
    "reviewed_by": null
@@ -1471,14 +1503,6 @@
      "date": "2025-07-17",
      "vote": "Yea",
      "source": "https://clerk.house.gov/evs/2025/roll200.xml"
-    },
-    {
-     "id": "house-2025-201",
-     "bill": "Anti-CBDC Act",
-     "question": "final passage",
-     "date": "2025-07-17",
-     "vote": "Nay",
-     "source": "https://clerk.house.gov/evs/2025/roll201.xml"
     }
    ],
    "note": "",

@@ -157,10 +157,11 @@
   "kind": "Stated position",
   "issue": "Federal spending",
   "votes": [
+   "house-2025-168",
    "house-2025-145",
    "house-2025-190"
   ],
-  "note": "Judgment needed: CBO estimated H.R.1 adds to the deficit over ten years, while supporters count its spending cuts. Whether it 'cuts spending' depends on the baseline."
+  "note": "The Rescissions Act of 2025 cut about $9 billion in previously approved spending (foreign aid and public broadcasting). H.R.1 is shown as a related vote, not scored: its net effect on spending depends on the baseline."
  },
  {
   "member": "miller-oh",
@@ -266,10 +267,11 @@
   "kind": "Pledge",
   "issue": "Federal spending",
   "votes": [
+   "house-2025-168",
    "house-2025-145",
    "house-2025-190"
   ],
-  "note": "Judgment needed: CBO estimated H.R.1 adds to the deficit over ten years, while supporters count its spending cuts. Whether it 'cuts spending' depends on the baseline."
+  "note": "The Rescissions Act of 2025 cut about $9 billion in previously approved spending (foreign aid and public broadcasting). H.R.1 is shown as a related vote, not scored: its net effect on spending depends on the baseline."
  },
  {
   "member": "spartz-in",
@@ -277,10 +279,11 @@
   "kind": "Stated position",
   "issue": "Federal spending",
   "votes": [
+   "house-2025-168",
    "house-2025-145",
    "house-2025-190"
   ],
-  "note": "Judgment needed: CBO estimated H.R.1 adds to the deficit over ten years, while supporters count its spending cuts. Whether it 'cuts spending' depends on the baseline."
+  "note": "The Rescissions Act of 2025 cut about $9 billion in previously approved spending (foreign aid and public broadcasting). H.R.1 is shown as a related vote, not scored: its net effect on spending depends on the baseline."
  },
  {
   "member": "steil-wi",
@@ -347,7 +350,7 @@
  },
  {
   "member": "davids-ks",
-  "quote": "I will always fight to make sure that we don\u2019t have politicians interfering in our health care decisions, reproductive health care or otherwise",
+  "quote": "I will always fight to make sure that we don’t have politicians interfering in our health care decisions, reproductive health care or otherwise",
   "page": "https://shariceforcongress.com/icymi-davids-champions-lower-costs-and-reproductive-rights-stands-up-to-her-party/",
   "kind": "Pledge",
   "issue": "Abortion",

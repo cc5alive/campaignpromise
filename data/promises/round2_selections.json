@@ -27,9 +27,10 @@
   "kind": "Pledge",
   "issue": "Federal spending",
   "votes": [
+   "senate-1-00411",
    "senate-1-00372"
   ],
-  "note": "Judgment needed: whether the 2025 reconciliation bill counts as cutting spending depends on which baseline you use."
+  "note": "The Rescissions Act of 2025 cut about $9 billion in previously approved spending (foreign aid and public broadcasting). H.R.1 is shown as a related vote, not scored: its net effect on spending depends on the baseline."
  },
  {
   "member": "mccormick-pa",
@@ -57,9 +58,10 @@
   "kind": "Pledge",
   "issue": "Federal spending",
   "votes": [
+   "senate-1-00411",
    "senate-1-00372"
   ],
-  "note": "Judgment needed: whether the 2025 reconciliation bill counts as cutting spending depends on which baseline you use."
+  "note": "The Rescissions Act of 2025 cut about $9 billion in previously approved spending (foreign aid and public broadcasting). H.R.1 is shown as a related vote, not scored: its net effect on spending depends on the baseline."
  },
  {
   "member": "sheehy-mt",
@@ -154,10 +156,11 @@
   "kind": "Stated position",
   "issue": "Federal spending",
   "votes": [
+   "house-2025-168",
    "house-2025-145",
    "house-2025-190"
   ],
-  "note": "Judgment needed: whether the 2025 reconciliation bill counts as cutting spending depends on which baseline you use."
+  "note": "The Rescissions Act of 2025 cut about $9 billion in previously approved spending (foreign aid and public broadcasting). H.R.1 is shown as a related vote, not scored: its net effect on spending depends on the baseline."
  },
  {
   "member": "van-orden-wi",
@@ -255,10 +258,11 @@
   "kind": "Stated position",
   "issue": "Federal spending",
   "votes": [
+   "house-2025-168",
    "house-2025-145",
    "house-2025-190"
   ],
-  "note": "Judgment needed: whether the 2025 reconciliation bill counts as cutting spending depends on which baseline you use."
+  "note": "The Rescissions Act of 2025 cut about $9 billion in previously approved spending (foreign aid and public broadcasting). H.R.1 is shown as a related vote, not scored: its net effect on spending depends on the baseline."
  },
  {
   "member": "scalise-la",
@@ -397,8 +401,7 @@
   "issue": "Crypto",
   "votes": [
    "house-2025-199",
-   "house-2025-200",
-   "house-2025-201"
+   "house-2025-200"
   ],
   "note": ""
  },

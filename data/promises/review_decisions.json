@@ -5,7 +5,7 @@
   "Approve when the vote directly tests the specific commitment.",
   "A vote on a whole bill counts, in both directions, when the promised item was a central, widely reported provision (H.R.1's tax-cut extension, Medicaid and SNAP cuts, Planned Parenthood funding ban, border wall and Border Patrol/ICE money).",
   "Edit to 'related vote, not scored' when the vote bears on the promise but a kept/broken call would rest on a contested reading: Social Security and Medicare (H.R.1 didn't change benefits), abortion-rights promises tested by the Born-Alive bill, child tax credit and middle-class tax promises (H.R.1 changed both in part), SALT repeal, and 'work across the aisle' promises.",
-  "Edit to 're-test with the Rescissions Act of 2025 (H.R. 4)' for promises to cut spending: that bill was a direct $9 billion spending cut, while H.R.1's net effect on spending depends on the baseline.",
+  "Test promises to cut spending against the Rescissions Act of 2025 (H.R. 4), a direct $9 billion spending cut; H.R.1, whose net effect on spending depends on the baseline, is shown as a related vote, not scored.",
   "Reject slogans and section headings, statements about past votes, text dating from earlier races that the 2024 vote can't test, and quotes our archive can't show.",
   "Reject later duplicates of the same quote."
  ],
@@ -19,8 +19,8 @@
    "reason": "Vote directly tests the commitment."
   },
   "P-003": {
-   "decision": "Edit",
-   "reason": "Re-test with the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; keep H.R.1 as a related vote, not scored."
+   "decision": "Approve",
+   "reason": "Edit applied: re-tested against the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; H.R.1 stays as a related vote, not scored."
   },
   "P-004": {
    "decision": "Edit",
@@ -39,8 +39,8 @@
    "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
   },
   "P-008": {
-   "decision": "Edit",
-   "reason": "Re-test against the HALT Fentanyl Act (stricter punishments for drug trafficking); the Laken Riley Act doesn't test this."
+   "decision": "Approve",
+   "reason": "Edit applied: re-tested against the HALT Fentanyl Act (stricter punishments for drug trafficking) instead of the Laken Riley Act."
   },
   "P-009": {
    "decision": "Edit",
@@ -95,8 +95,8 @@
    "reason": "Vote directly tests the commitment."
   },
   "R2-003": {
-   "decision": "Edit",
-   "reason": "Re-test with the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; keep H.R.1 as a related vote, not scored."
+   "decision": "Approve",
+   "reason": "Edit applied: re-tested against the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; H.R.1 stays as a related vote, not scored."
   },
   "R2-004": {
    "decision": "Approve",
@@ -107,8 +107,8 @@
    "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
   },
   "R2-006": {
-   "decision": "Edit",
-   "reason": "Re-test with the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; keep H.R.1 as a related vote, not scored."
+   "decision": "Approve",
+   "reason": "Edit applied: re-tested against the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; H.R.1 stays as a related vote, not scored."
   },
   "R2-007": {
    "decision": "Approve",
@@ -143,8 +143,8 @@
    "reason": "Vote directly tests the commitment."
   },
   "R2-015": {
-   "decision": "Edit",
-   "reason": "Re-test with the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; keep H.R.1 as a related vote, not scored."
+   "decision": "Approve",
+   "reason": "Edit applied: re-tested against the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; H.R.1 stays as a related vote, not scored."
   },
   "R2-016": {
    "decision": "Approve",
@@ -179,8 +179,8 @@
    "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
   },
   "R2-024": {
-   "decision": "Edit",
-   "reason": "Re-test with the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; keep H.R.1 as a related vote, not scored."
+   "decision": "Approve",
+   "reason": "Edit applied: re-tested against the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; H.R.1 stays as a related vote, not scored."
   },
   "R2-025": {
    "decision": "Reject",
@@ -231,8 +231,8 @@
    "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
   },
   "R2-037": {
-   "decision": "Edit",
-   "reason": "Drop the Anti-CBDC vote; it doesn't test this pro-crypto statement. Keep GENIUS and CLARITY."
+   "decision": "Approve",
+   "reason": "Edit applied: dropped the Anti-CBDC vote, which doesn't test this pro-crypto statement; GENIUS and CLARITY kept."
   },
   "R2-038": {
    "decision": "Edit",
@@ -267,8 +267,8 @@
    "reason": "Vote directly tests the commitment."
   },
   "R3-004": {
-   "decision": "Edit",
-   "reason": "Re-test with the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; keep H.R.1 as a related vote, not scored."
+   "decision": "Approve",
+   "reason": "Edit applied: re-tested against the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; H.R.1 stays as a related vote, not scored."
   },
   "R3-005": {
    "decision": "Approve",
@@ -283,8 +283,8 @@
    "reason": "Vote directly tests the commitment."
   },
   "R3-008": {
-   "decision": "Edit",
-   "reason": "Re-test with the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; keep H.R.1 as a related vote, not scored."
+   "decision": "Approve",
+   "reason": "Edit applied: re-tested against the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; H.R.1 stays as a related vote, not scored."
   },
   "R3-009": {
    "decision": "Approve",
@@ -323,8 +323,8 @@
    "reason": "Vote directly tests the commitment."
   },
   "R3-018": {
-   "decision": "Edit",
-   "reason": "Quote starts mid-sentence ('and will work…'); replace with the full sentence from the same page."
+   "decision": "Approve",
+   "reason": "Edit applied: quote replaced with the full sentence from the same page."
   },
   "R3-019": {
    "decision": "Edit",
@@ -371,8 +371,8 @@
    "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
   },
   "R3-030": {
-   "decision": "Edit",
-   "reason": "Re-test with the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; keep H.R.1 as a related vote, not scored."
+   "decision": "Approve",
+   "reason": "Edit applied: re-tested against the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; H.R.1 stays as a related vote, not scored."
   },
   "R3-031": {
    "decision": "Approve",
@@ -547,8 +547,8 @@
    "reason": "Vote directly tests the commitment."
   },
   "R4-009": {
-   "decision": "Edit",
-   "reason": "Re-test with the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; keep H.R.1 as a related vote, not scored."
+   "decision": "Approve",
+   "reason": "Edit applied: re-tested against the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; H.R.1 stays as a related vote, not scored."
   },
   "R4-010": {
    "decision": "Approve",
@@ -575,8 +575,8 @@
    "reason": "Vote directly tests the commitment."
   },
   "R4-016": {
-   "decision": "Edit",
-   "reason": "Re-test with the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; keep H.R.1 as a related vote, not scored."
+   "decision": "Approve",
+   "reason": "Edit applied: re-tested against the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; H.R.1 stays as a related vote, not scored."
   },
   "R4-017": {
    "decision": "Approve",
@@ -791,16 +791,16 @@
    "reason": "Vote directly tests the commitment."
   },
   "R5-014": {
-   "decision": "Edit",
-   "reason": "Label the source as a 2022 press release that was still on the campaign site in 2024."
+   "decision": "Approve",
+   "reason": "Edit applied: the note labels the source as a 2022 press release that was still on the campaign site in 2024."
   },
   "R5-015": {
    "decision": "Approve",
    "reason": "Vote directly tests the commitment."
   },
   "R5-016": {
-   "decision": "Edit",
-   "reason": "Re-test with the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; keep H.R.1 as a related vote, not scored."
+   "decision": "Approve",
+   "reason": "Edit applied: re-tested against the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; H.R.1 stays as a related vote, not scored."
   },
   "R5-017": {
    "decision": "Approve",
@@ -839,12 +839,12 @@
    "reason": "Vote directly tests the commitment."
   },
   "R5-026": {
-   "decision": "Edit",
-   "reason": "Re-test with the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; keep H.R.1 as a related vote, not scored."
+   "decision": "Approve",
+   "reason": "Edit applied: re-tested against the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; H.R.1 stays as a related vote, not scored."
   },
   "R5-027": {
-   "decision": "Edit",
-   "reason": "Re-test with the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; keep H.R.1 as a related vote, not scored."
+   "decision": "Approve",
+   "reason": "Edit applied: re-tested against the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; H.R.1 stays as a related vote, not scored."
   },
   "R5-028": {
    "decision": "Approve",
