@@ -1,0 +1,49 @@
+{
+  "name": "Andrea Salinas",
+  "domains_tried": [
+    "andreasalinasfororegon.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.andreasalinasfororegon.com/",
+      "timestamp": "20241105232652",
+      "wayback": "https://web.archive.org/web/20241105232652/https://www.andreasalinasfororegon.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105232652id_/https://www.andreasalinasfororegon.com/",
+      "file": "archive/2024/salinas-or/home.html",
+      "text_file": "archive/2024/salinas-or/home.txt",
+      "bytes": 17845,
+      "sha256_html": "3418f6ac7ecc9edb305841f4aea2401293a3cf25ee64350735d29e7e5acf08ff",
+      "sha256_text": "e053622187a53afbff9299642894f5417558eb20d1f0cd828900c8f06811ca2e"
+    },
+    {
+      "original": "https://www.andreasalinasfororegon.com/issues/",
+      "timestamp": "20241105083453",
+      "wayback": "https://web.archive.org/web/20241105083453/https://www.andreasalinasfororegon.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105083453id_/https://www.andreasalinasfororegon.com/issues/",
+      "file": "archive/2024/salinas-or/issues.html",
+      "text_file": "archive/2024/salinas-or/issues.txt",
+      "bytes": 26881,
+      "sha256_html": "590977495e3ab4d977f1368effaf642acbfd69c9efa4adc2450a8c7901df6d80",
+      "sha256_text": "73d15ff2718628c97a08d7ddb6f18ffbe5cc39aeae4b904c4bdac0fe1228fe48"
+    },
+    {
+      "original": "https://www.andreasalinasfororegon.com/about/",
+      "timestamp": "20241105083743",
+      "wayback": "https://web.archive.org/web/20241105083743/https://www.andreasalinasfororegon.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105083743id_/https://www.andreasalinasfororegon.com/about/",
+      "file": "archive/2024/salinas-or/about.html",
+      "text_file": "archive/2024/salinas-or/about.txt",
+      "bytes": 20013,
+      "sha256_html": "dafc49d7a055baac3a90211aad219787b3f5bd6f7300225657ec4b647742abdd",
+      "sha256_text": "94b21e1735df4d31730df7b8ba300eb02bb2d84b96d4caf0c1c0c31893202d59"
+    }
+  ],
+  "snapshots_found": {
+    "andreasalinasfororegon.com": 19
+  },
+  "generated_utc": "2026-11-15T17:59:07Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
