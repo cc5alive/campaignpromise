@@ -1,0 +1,910 @@
+{
+ "reviewed_by": "Claude (AI), at CC's request",
+ "date": "2026-11-15",
+ "rules": [
+  "Approve when the vote directly tests the specific commitment.",
+  "A vote on a whole bill counts, in both directions, when the promised item was a central, widely reported provision (H.R.1's tax-cut extension, Medicaid and SNAP cuts, Planned Parenthood funding ban, border wall and Border Patrol/ICE money).",
+  "Edit to 'related vote, not scored' when the vote bears on the promise but a kept/broken call would rest on a contested reading: Social Security and Medicare (H.R.1 didn't change benefits), abortion-rights promises tested by the Born-Alive bill, child tax credit and middle-class tax promises (H.R.1 changed both in part), SALT repeal, and 'work across the aisle' promises.",
+  "Edit to 're-test with the Rescissions Act of 2025 (H.R. 4)' for promises to cut spending: that bill was a direct $9 billion spending cut, while H.R.1's net effect on spending depends on the baseline.",
+  "Reject slogans and section headings, statements about past votes, text dating from earlier races that the 2024 vote can't test, and quotes our archive can't show.",
+  "Reject later duplicates of the same quote."
+ ],
+ "decisions": {
+  "P-001": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "P-002": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "P-003": {
+   "decision": "Edit",
+   "reason": "Re-test with the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; keep H.R.1 as a related vote, not scored."
+  },
+  "P-004": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "P-005": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "P-006": {
+   "decision": "Reject",
+   "reason": "Section heading, not a commitment."
+  },
+  "P-007": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "P-008": {
+   "decision": "Edit",
+   "reason": "Re-test against the HALT Fentanyl Act (stricter punishments for drug trafficking); the Laken Riley Act doesn't test this."
+  },
+  "P-009": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "P-010": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "P-011": {
+   "decision": "Reject",
+   "reason": "No vote tests it yet."
+  },
+  "P-012": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "P-013": {
+   "decision": "Reject",
+   "reason": "2020 text; no 2025 vote tests separating insurance from employment."
+  },
+  "P-014": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "P-015": {
+   "decision": "Reject",
+   "reason": "Describes a past vote, not a promise."
+  },
+  "P-016": {
+   "decision": "Reject",
+   "reason": "Our archived copy of the page doesn't show this text; re-add if an earlier snapshot proves it."
+  },
+  "P-017": {
+   "decision": "Reject",
+   "reason": "Our archived copy of the page doesn't show this text; re-add if an earlier snapshot proves it."
+  },
+  "P-018": {
+   "decision": "Reject",
+   "reason": "Our archived copy of the page doesn't show this text; re-add if an earlier snapshot proves it."
+  },
+  "P-019": {
+   "decision": "Reject",
+   "reason": "Our archived copy of the page doesn't show this text; re-add if an earlier snapshot proves it."
+  },
+  "R2-001": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R2-002": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R2-003": {
+   "decision": "Edit",
+   "reason": "Re-test with the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; keep H.R.1 as a related vote, not scored."
+  },
+  "R2-004": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R2-005": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R2-006": {
+   "decision": "Edit",
+   "reason": "Re-test with the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; keep H.R.1 as a related vote, not scored."
+  },
+  "R2-007": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R2-008": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R2-009": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R2-010": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R2-011": {
+   "decision": "Reject",
+   "reason": "Slogan or section heading, not a commitment."
+  },
+  "R2-012": {
+   "decision": "Reject",
+   "reason": "Duplicate: the same quote is drafted as NI-010 with the Born-Alive vote added."
+  },
+  "R2-013": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R2-014": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R2-015": {
+   "decision": "Edit",
+   "reason": "Re-test with the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; keep H.R.1 as a related vote, not scored."
+  },
+  "R2-016": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R2-017": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R2-018": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R2-019": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R2-020": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R2-021": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R2-022": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R2-023": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R2-024": {
+   "decision": "Edit",
+   "reason": "Re-test with the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; keep H.R.1 as a related vote, not scored."
+  },
+  "R2-025": {
+   "decision": "Reject",
+   "reason": "Slogan or section heading, not a commitment."
+  },
+  "R2-026": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R2-027": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R2-028": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R2-029": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R2-030": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R2-031": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R2-032": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R2-033": {
+   "decision": "Reject",
+   "reason": "The Laken Riley Act doesn't address legal status or asylum processing."
+  },
+  "R2-034": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R2-035": {
+   "decision": "Reject",
+   "reason": "Too broad for any vote so far to test."
+  },
+  "R2-036": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R2-037": {
+   "decision": "Edit",
+   "reason": "Drop the Anti-CBDC vote; it doesn't test this pro-crypto statement. Keep GENIUS and CLARITY."
+  },
+  "R2-038": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R2-039": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R2-040": {
+   "decision": "Reject",
+   "reason": "No 2025 vote tests expanding Medicare to cover everyone."
+  },
+  "R2-041": {
+   "decision": "Reject",
+   "reason": "Slogan or section heading, not a commitment."
+  },
+  "R2-042": {
+   "decision": "Reject",
+   "reason": "Too broad for any vote so far to test."
+  },
+  "R3-001": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R3-002": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R3-003": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R3-004": {
+   "decision": "Edit",
+   "reason": "Re-test with the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; keep H.R.1 as a related vote, not scored."
+  },
+  "R3-005": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R3-006": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R3-007": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R3-008": {
+   "decision": "Edit",
+   "reason": "Re-test with the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; keep H.R.1 as a related vote, not scored."
+  },
+  "R3-009": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R3-010": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R3-011": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R3-012": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R3-013": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R3-014": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R3-015": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R3-016": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R3-017": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R3-018": {
+   "decision": "Edit",
+   "reason": "Quote starts mid-sentence ('and will work…'); replace with the full sentence from the same page."
+  },
+  "R3-019": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R3-020": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R3-021": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R3-022": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R3-023": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R3-024": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R3-025": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R3-026": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R3-027": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R3-028": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R3-029": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R3-030": {
+   "decision": "Edit",
+   "reason": "Re-test with the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; keep H.R.1 as a related vote, not scored."
+  },
+  "R3-031": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R3-032": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R3-033": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "NI-001": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken. The statement is broader than the bill."
+  },
+  "NI-002": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "NI-003": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "NI-004": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "NI-005": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken. The statement is broader than the bill."
+  },
+  "NI-006": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "NI-007": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "NI-008": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "NI-009": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "NI-010": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "NI-011": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "NI-012": {
+   "decision": "Reject",
+   "reason": "Duplicate of P-014 (same quote, same votes)."
+  },
+  "NI-013": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "NI-014": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "NI-015": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "NI-016": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "NI-017": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "NI-018": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "NI-019": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "NI-020": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "NI-021": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "NI-022": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "NI-023": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "NI-024": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "NI-025": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "NI-026": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "NI-027": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "NI-028": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "NI-029": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "NI-030": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "NI-031": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "NI-032": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken. A vote against extending subsidies is not a vote to repeal the ACA."
+  },
+  "R4-001": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R4-002": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken. A general belief in crypto's potential, not a policy commitment."
+  },
+  "R4-003": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R4-004": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R4-005": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R4-006": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R4-007": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R4-008": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R4-009": {
+   "decision": "Edit",
+   "reason": "Re-test with the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; keep H.R.1 as a related vote, not scored."
+  },
+  "R4-010": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R4-011": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R4-012": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R4-013": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R4-014": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R4-015": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R4-016": {
+   "decision": "Edit",
+   "reason": "Re-test with the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; keep H.R.1 as a related vote, not scored."
+  },
+  "R4-017": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R4-018": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R4-019": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R4-020": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R4-021": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R4-022": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R4-023": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R4-024": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R4-025": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R4-026": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R4-027": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R4-028": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R4-029": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R4-030": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R4-031": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R4-032": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R4-033": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R4-034": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R4-035": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R4-036": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R4-037": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R4-038": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R4-039": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R4-040": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R4-041": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R4-042": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R4-043": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R4-044": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R4-045": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R4-046": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R4-047": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R4-048": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R4-049": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R4-050": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R4-051": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R4-052": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R4-053": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R4-054": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R4-055": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R4-056": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R5-001": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R5-002": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R5-003": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R5-004": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R5-005": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R5-006": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R5-007": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R5-008": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R5-009": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R5-010": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R5-011": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R5-012": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R5-013": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R5-014": {
+   "decision": "Edit",
+   "reason": "Label the source as a 2022 press release that was still on the campaign site in 2024."
+  },
+  "R5-015": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R5-016": {
+   "decision": "Edit",
+   "reason": "Re-test with the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; keep H.R.1 as a related vote, not scored."
+  },
+  "R5-017": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R5-018": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R5-019": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R5-020": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R5-021": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R5-022": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R5-023": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R5-024": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R5-025": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R5-026": {
+   "decision": "Edit",
+   "reason": "Re-test with the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; keep H.R.1 as a related vote, not scored."
+  },
+  "R5-027": {
+   "decision": "Edit",
+   "reason": "Re-test with the Rescissions Act of 2025 (H.R. 4), a direct spending-cut vote; keep H.R.1 as a related vote, not scored."
+  },
+  "R5-028": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R5-029": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R5-030": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R5-031": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R5-032": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R5-033": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R5-034": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R5-035": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R5-036": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R5-037": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R5-038": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R5-039": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R5-040": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R5-041": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R5-042": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  }
+ }
+}
