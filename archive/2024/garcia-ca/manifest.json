@@ -1,0 +1,82 @@
+{
+  "name": "Robert Garcia",
+  "domains_tried": [
+    "robertgarcia.com"
+  ],
+  "pages": [
+    {
+      "original": "https://robertgarcia.com/",
+      "timestamp": "20241105044244",
+      "wayback": "https://web.archive.org/web/20241105044244/https://robertgarcia.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105044244id_/https://robertgarcia.com/",
+      "file": "archive/2024/garcia-ca/home.html",
+      "text_file": "archive/2024/garcia-ca/home.txt",
+      "bytes": 42583,
+      "sha256_html": "d2af477d6a7f8ca720365edc41a47828e9566f10148f367c50aa1277640c4d76",
+      "sha256_text": "4131d3ba05f0ee952f81ce99c1fbfce023e321cf5c0e11e91bb98966bfea7f3f"
+    },
+    {
+      "original": "https://robertgarcia.com/what-im-fighting-for/",
+      "timestamp": "20241105044727",
+      "wayback": "https://web.archive.org/web/20241105044727/https://robertgarcia.com/what-im-fighting-for/",
+      "wayback_raw": "https://web.archive.org/web/20241105044727id_/https://robertgarcia.com/what-im-fighting-for/",
+      "file": "archive/2024/garcia-ca/what-im-fighting-for.html",
+      "text_file": "archive/2024/garcia-ca/what-im-fighting-for.txt",
+      "bytes": 49049,
+      "sha256_html": "f45b9ee769e9ceeddbb4c8fe622f8c805205590db6f6b88302e3c85e56ed22e6",
+      "sha256_text": "556111d35fb7d295ab4ff197e340646523cc3661d10161aba2ade04660fc43fc"
+    },
+    {
+      "original": "https://robertgarcia.com/issue/universal-health-care/",
+      "timestamp": "20241105044450",
+      "wayback": "https://web.archive.org/web/20241105044450/https://robertgarcia.com/issue/universal-health-care/",
+      "wayback_raw": "https://web.archive.org/web/20241105044450id_/https://robertgarcia.com/issue/universal-health-care/",
+      "file": "archive/2024/garcia-ca/issue-universal-health-care.html",
+      "text_file": "archive/2024/garcia-ca/issue-universal-health-care.txt",
+      "bytes": 39888,
+      "sha256_html": "56b23eaf572013d06d0782f7035d1d525c3a7999d4b832f718eb41cf5f20c345",
+      "sha256_text": "05aaf9cbcb3cb8e793664e182e10ad16af59f4f94cdd34d065aa55b4c4581bf8"
+    },
+    {
+      "original": "https://robertgarcia.com/what-im-fighting-for/embed/",
+      "timestamp": "20241103091234",
+      "wayback": "https://web.archive.org/web/20241103091234/https://robertgarcia.com/what-im-fighting-for/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241103091234id_/https://robertgarcia.com/what-im-fighting-for/embed/",
+      "file": "archive/2024/garcia-ca/what-im-fighting-for-embed.html",
+      "text_file": "archive/2024/garcia-ca/what-im-fighting-for-embed.txt",
+      "bytes": 20068,
+      "sha256_html": "34f6379397dec7b9dc8b56bc57261a508d8fc263038b882711102799c10cdf50",
+      "sha256_text": "1f10cc13ef89f544dcaed9f4a383584391f1a8e235ae3c9b331bbada15d72e17"
+    },
+    {
+      "original": "https://robertgarcia.com/issue/universal-health-care/embed/",
+      "timestamp": "20240811192539",
+      "wayback": "https://web.archive.org/web/20240811192539/https://robertgarcia.com/issue/universal-health-care/embed/",
+      "wayback_raw": "https://web.archive.org/web/20240811192539id_/https://robertgarcia.com/issue/universal-health-care/embed/",
+      "file": "archive/2024/garcia-ca/issue-universal-health-care-embed.html",
+      "text_file": "archive/2024/garcia-ca/issue-universal-health-care-embed.txt",
+      "bytes": 19644,
+      "sha256_html": "8f92cb6f42d535715cca98981191b0d74e493c56e8156402026316165f2dd9c8",
+      "sha256_text": "c330e8b573f4dda8e7c7804e4baf8c388bd19d878b4d115cd2a7769e14c7bee1"
+    },
+    {
+      "original": "https://robertgarcia.com/about/",
+      "timestamp": "20241105044252",
+      "wayback": "https://web.archive.org/web/20241105044252/https://robertgarcia.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105044252id_/https://robertgarcia.com/about/",
+      "file": "archive/2024/garcia-ca/about.html",
+      "text_file": "archive/2024/garcia-ca/about.txt",
+      "bytes": 42561,
+      "sha256_html": "1e3ebf8a25a9915f845c2edd648a502075349c09dcdeb1ce04e716ed811ec45d",
+      "sha256_text": "258c41b8ff4a52306213407833b1baff4a25c736cd1087a6a8cd5566e015a9d4"
+    }
+  ],
+  "snapshots_found": {
+    "robertgarcia.com": 15
+  },
+  "generated_utc": "2026-11-15T18:01:25Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
