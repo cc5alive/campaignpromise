@@ -1,0 +1,49 @@
+{
+  "name": "Val T. Hoyle",
+  "domains_tried": [
+    "valhoyle.com"
+  ],
+  "pages": [
+    {
+      "original": "https://valhoyle.com/",
+      "timestamp": "20241105232601",
+      "wayback": "https://web.archive.org/web/20241105232601/https://valhoyle.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105232601id_/https://valhoyle.com/",
+      "file": "archive/2024/hoyle-or/home.html",
+      "text_file": "archive/2024/hoyle-or/home.txt",
+      "bytes": 46591,
+      "sha256_html": "195631aaa5c45068f4e0fc3c38b62fd0c79203e725ea4e4997290d3163906ac2",
+      "sha256_text": "b5747bc18111f68be4df8202d8b161617231ecb358a387db579203f571cdd73e"
+    },
+    {
+      "original": "https://valhoyle.com/priorities/",
+      "timestamp": "20241105063427",
+      "wayback": "https://web.archive.org/web/20241105063427/https://valhoyle.com/priorities/",
+      "wayback_raw": "https://web.archive.org/web/20241105063427id_/https://valhoyle.com/priorities/",
+      "file": "archive/2024/hoyle-or/priorities.html",
+      "text_file": "archive/2024/hoyle-or/priorities.txt",
+      "bytes": 48550,
+      "sha256_html": "402276f255ee6da8ef7080ab617ab7da3dcbe795e19abefd19ad9e2cc608873d",
+      "sha256_text": "d9f29e467f065474ddc5184e2d309d7b67ed70e64a1708362aa20677ea5f2f5e"
+    },
+    {
+      "original": "https://valhoyle.com/priorities/embed/",
+      "timestamp": "20241102071614",
+      "wayback": "https://web.archive.org/web/20241102071614/https://valhoyle.com/priorities/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241102071614id_/https://valhoyle.com/priorities/embed/",
+      "file": "archive/2024/hoyle-or/priorities-embed.html",
+      "text_file": "archive/2024/hoyle-or/priorities-embed.txt",
+      "bytes": 19427,
+      "sha256_html": "95cd02c125202100f019fa4143d6b0dfeb58a1d2425dadbb11c4f6c6eebdbcc1",
+      "sha256_text": "79eb45c77fb9c9f2c9fd121f76fe6f9e6696b4be067d774861bc3d02c2b5fba9"
+    }
+  ],
+  "snapshots_found": {
+    "valhoyle.com": 39
+  },
+  "generated_utc": "2026-11-15T17:59:13Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
