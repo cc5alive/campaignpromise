@@ -33,6 +33,7 @@ body{background:var(--paper);color:var(--ink);font:15px/1.5 var(--body);-webkit-
 a{color:var(--accent)}
 a:focus-visible,button:focus-visible,select:focus-visible,input:focus-visible,[tabindex]:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 .wrap{max-width:1200px;margin:0 auto;padding:0 20px}
+.beta{background:var(--accent-soft);color:var(--ink);font-size:13px;text-align:center;padding:7px 16px;border-bottom:1px solid var(--rule)}.beta b{color:var(--accent)}
 header.top{border-bottom:1px solid var(--rule);background:var(--surface)}
 .topbar{display:flex;align-items:center;gap:24px;min-height:58px;flex-wrap:wrap}
 .brand{font-family:var(--display);font-weight:600;font-size:24px;letter-spacing:-.01em;color:var(--ink);text-decoration:none}
@@ -132,6 +133,7 @@ footer{border-top:1px solid var(--rule);color:var(--muted);font-size:12px;paddin
 </style>
 </head>
 <body>
+<div class="beta" role="note"><b>Beta.</b> A work in progress: donor totals are live from FEC filings; promise scores are still under review.</div>
 <header class="top">
   <div class="wrap topbar">
     <a class="brand" href="#scoreboard">Campaign <span>Promise</span></a>
