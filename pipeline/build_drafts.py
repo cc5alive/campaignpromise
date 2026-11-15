@@ -36,7 +36,8 @@ LABEL = {"S1582": "GENIUS Act", "S5": "Laken Riley Act", "HR29": "Laken Riley Ac
          "HR1": "2025 reconciliation bill", "HR3633": "CLARITY Act", "HR1919": "Anti-CBDC Act",
          "S331": "HALT Fentanyl Act", "HR21": "Born-Alive Abortion Survivors Protection Act",
          "S6": "Born-Alive Abortion Survivors Protection Act",
-         "HR1834": "3-year ACA premium tax credit extension", "S3385": "3-year ACA premium tax credit extension"}
+         "HR1834": "3-year ACA premium tax credit extension", "S3385": "3-year ACA premium tax credit extension",
+         "HR4": "Rescissions Act of 2025"}
 cache = {}
 
 def page_text(path):
