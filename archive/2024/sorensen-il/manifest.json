@@ -1,0 +1,38 @@
+{
+  "name": "Eric Sorensen",
+  "domains_tried": [
+    "ericforillinois.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.ericforillinois.com/",
+      "timestamp": "20241105183403",
+      "wayback": "https://web.archive.org/web/20241105183403/https://www.ericforillinois.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105183403id_/https://www.ericforillinois.com/",
+      "file": "archive/2024/sorensen-il/home.html",
+      "text_file": "archive/2024/sorensen-il/home.txt",
+      "bytes": 420044,
+      "sha256_html": "e12797169d18dfc76b812d95fda1d6ed6c5dbc6ccc2f1009a36c4675899a444d",
+      "sha256_text": "7b2b010ececaad440c0ce6358479be9ca720f4bfd423e6e33aedd4674910d7a5"
+    },
+    {
+      "original": "https://www.ericforillinois.com/issues",
+      "timestamp": "20241105183423",
+      "wayback": "https://web.archive.org/web/20241105183423/https://www.ericforillinois.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105183423id_/https://www.ericforillinois.com/issues",
+      "file": "archive/2024/sorensen-il/issues.html",
+      "text_file": "archive/2024/sorensen-il/issues.txt",
+      "bytes": 375110,
+      "sha256_html": "ae22353651eafdbd024e1d7e5aa927d93f7871aa828e3e9cc4fabb92799a2092",
+      "sha256_text": "08b3097de13f413d1ee447f88383bdef9d3725d05f5995eae01e41737aa9877e"
+    }
+  ],
+  "snapshots_found": {
+    "ericforillinois.com": 9
+  },
+  "generated_utc": "2026-11-15T18:00:01Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
