@@ -1,0 +1,38 @@
+{
+  "name": "Gabe Vasquez",
+  "domains_tried": [
+    "gabeforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://gabeforcongress.com/",
+      "timestamp": "20241105174821",
+      "wayback": "https://web.archive.org/web/20241105174821/https://gabeforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105174821id_/https://gabeforcongress.com/",
+      "file": "archive/2024/vasquez-nm/home.html",
+      "text_file": "archive/2024/vasquez-nm/home.txt",
+      "bytes": 69234,
+      "sha256_html": "ee77c16fcdc69344416d0121e43d5c2b47af98d931474125c42cfbcd713719f7",
+      "sha256_text": "73d4d57dbdc0b7bf7c36f9bc33d892e895c4b29a1c355c356e4ac0f1d08c15c6"
+    },
+    {
+      "original": "https://gabeforcongress.com/issues/",
+      "timestamp": "20241105174827",
+      "wayback": "https://web.archive.org/web/20241105174827/https://gabeforcongress.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105174827id_/https://gabeforcongress.com/issues/",
+      "file": "archive/2024/vasquez-nm/issues.html",
+      "text_file": "archive/2024/vasquez-nm/issues.txt",
+      "bytes": 125777,
+      "sha256_html": "2c9c062095a83abca76e458a0450901d900e30a904c7864e92cedfdb20cefcb7",
+      "sha256_text": "7e780741d90f011ba123e08205fa654180278d54feb6ad8376c17a654f5b2993"
+    }
+  ],
+  "snapshots_found": {
+    "gabeforcongress.com": 619
+  },
+  "generated_utc": "2026-11-15T18:04:50Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
