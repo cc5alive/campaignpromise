@@ -1,0 +1,195 @@
+{
+ "aipac": {
+  "name": "AIPAC",
+  "short": "AIPAC",
+  "cat": "Pro-Israel",
+  "modes": [
+   "contrib",
+   "for",
+   "against"
+  ],
+  "committees": [
+   {
+    "id": "C00797670",
+    "name": "AIPAC PAC",
+    "role": "direct and earmarked contributions",
+    "contrib": true
+   },
+   {
+    "id": "C00799031",
+    "name": "United Democracy Project",
+    "role": "super PAC",
+    "ie": true
+   }
+  ],
+  "note": "On Oct 21, 2026, AIPAC said it will stop endorsements and direct and earmarked PAC giving. United Democracy Project continues."
+ },
+ "dmfi": {
+  "name": "Democratic Majority for Israel",
+  "short": "DMFI",
+  "cat": "Pro-Israel",
+  "modes": [
+   "contrib",
+   "for",
+   "against"
+  ],
+  "committees": [
+   {
+    "id": "C00710848",
+    "name": "DMFI PAC",
+    "role": "hybrid PAC: contributions and outside spending",
+    "contrib": true,
+    "ie": true
+   }
+  ]
+ },
+ "jstreet": {
+  "name": "J Street",
+  "short": "J Street",
+  "cat": "Pro-Israel, pro-peace",
+  "modes": [
+   "contrib",
+   "for",
+   "against"
+  ],
+  "committees": [
+   {
+    "id": "C00441949",
+    "name": "JStreetPAC",
+    "role": "direct and earmarked contributions",
+    "contrib": true
+   },
+   {
+    "id": "C00815753",
+    "name": "J Street Action Fund",
+    "role": "super PAC",
+    "ie": true
+   }
+  ]
+ },
+ "norpac": {
+  "name": "NORPAC",
+  "short": "NORPAC",
+  "cat": "Pro-Israel",
+  "modes": [
+   "contrib"
+  ],
+  "committees": [
+   {
+    "id": "C00247403",
+    "name": "NORPAC",
+    "role": "direct and earmarked contributions",
+    "contrib": true
+   }
+  ]
+ },
+ "rjc": {
+  "name": "Republican Jewish Coalition",
+  "short": "RJC",
+  "cat": "Pro-Israel",
+  "modes": [
+   "contrib"
+  ],
+  "committees": [
+   {
+    "id": "C00345132",
+    "name": "RJC PAC",
+    "role": "direct and earmarked contributions",
+    "contrib": true
+   }
+  ]
+ },
+ "crypto": {
+  "name": "Fairshake network",
+  "short": "Crypto (Fairshake)",
+  "cat": "Crypto industry",
+  "modes": [
+   "for",
+   "against"
+  ],
+  "committees": [
+   {
+    "id": "C00835959",
+    "name": "Fairshake",
+    "role": "super PAC",
+    "ie": true
+   },
+   {
+    "id": "C00848440",
+    "name": "Protect Progress",
+    "role": "super PAC (backs Democrats)",
+    "ie": true
+   },
+   {
+    "id": "C00836221",
+    "name": "Defend American Jobs",
+    "role": "super PAC (backs Republicans)",
+    "ie": true
+   }
+  ]
+ },
+ "ai": {
+  "name": "Leading the Future network",
+  "short": "AI (Leading the Future)",
+  "cat": "AI industry",
+  "modes": [
+   "for",
+   "against"
+  ],
+  "committees": [
+   {
+    "id": "C00916114",
+    "name": "Leading the Future",
+    "role": "super PAC; funds its affiliates",
+    "ie": true
+   },
+   {
+    "id": "C00923417",
+    "name": "Think Big",
+    "role": "super PAC (backs Democrats)",
+    "ie": true
+   },
+   {
+    "id": "C00916692",
+    "name": "American Mission",
+    "role": "super PAC (backs Republicans)",
+    "ie": true
+   }
+  ]
+ },
+ "nra": {
+  "name": "NRA Political Victory Fund",
+  "short": "NRA",
+  "cat": "Guns",
+  "modes": [
+   "contrib",
+   "for",
+   "against"
+  ],
+  "committees": [
+   {
+    "id": "C00053553",
+    "name": "NRA Political Victory Fund",
+    "role": "contributions and outside spending",
+    "contrib": true,
+    "ie": true
+   }
+  ]
+ },
+ "emily": {
+  "name": "EMILY's List",
+  "short": "EMILY's List",
+  "cat": "Abortion rights, women candidates",
+  "modes": [
+   "contrib"
+  ],
+  "committees": [
+   {
+    "id": "C00193433",
+    "name": "EMILY's List",
+    "role": "direct and earmarked contributions",
+    "contrib": true
+   }
+  ]
+ }
+}

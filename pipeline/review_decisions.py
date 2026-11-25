@@ -14,7 +14,7 @@ ROOT = Path(__file__).resolve().parent.parent
 RULES = [
     "Approve when the vote directly tests the specific commitment.",
     "A vote on a whole bill counts, in both directions, when the promised item was a central, widely reported provision (H.R.1's tax-cut extension, Medicaid and SNAP cuts, Planned Parenthood funding ban, border wall and Border Patrol/ICE money).",
-    "Edit to 'related vote, not scored' when the vote bears on the promise but a kept/broken call would rest on a contested reading: Social Security and Medicare (H.R.1 didn't change benefits), abortion-rights promises tested by the Born-Alive bill, child tax credit and middle-class tax promises (H.R.1 changed both in part), SALT repeal, and 'work across the aisle' promises.",
+    "Show as 'shown, not scored' (related vote) when the vote bears on the promise but a kept/broken call would rest on a contested reading: Social Security and Medicare (H.R.1 didn't change benefits), abortion-rights promises tested by the Born-Alive bill, child tax credit and middle-class tax promises (H.R.1 changed both in part), SALT repeal, and 'work across the aisle' promises.",
     "Test promises to cut spending against the Rescissions Act of 2025 (H.R. 4), a direct $9 billion spending cut; H.R.1, whose net effect on spending depends on the baseline, is shown as a related vote, not scored.",
     "Reject slogans and section headings, statements about past votes, text dating from earlier races that the 2024 vote can't test, and quotes our archive can't show.",
     "Reject later duplicates of the same quote.",
@@ -84,7 +84,7 @@ if __name__ == "__main__":
     ids = all_ids()
     missing = [i for i in ids if i not in D]; extra = [i for i in D if i not in ids]
     assert not missing and not extra, (missing, extra)
-    out = {"reviewed_by": "Claude (AI), at CC's request", "date": "2026-11-15", "rules": RULES,
+    out = {"reviewed_by": "Claude Opus 5.5 (claude-opus-5-5), an AI model made by Anthropic, at CC's request. No human approves, rejects or edits these decisions.", "date": "2026-11-15", "rules": RULES,
            "decisions": {i: D[i] for i in ids}}
     (ROOT / "data/promises/review_decisions.json").write_text(json.dumps(out, indent=1, ensure_ascii=False), encoding="utf-8")
     from collections import Counter

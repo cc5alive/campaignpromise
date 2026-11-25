@@ -99,13 +99,29 @@ aside.drawer.on{transform:none}
 .dhead h2{font-family:var(--display);font-size:28px;margin:6px 0 4px;line-height:1.15}
 .dhead .meta{color:var(--muted);font-size:14px}
 .close{position:absolute;top:14px;right:14px}
-.dbody{padding:16px 22px 40px;display:grid;gap:22px}
+.dbody{padding:16px 22px 40px;display:grid;grid-template-columns:minmax(0,1fr);gap:22px}
 .dbody h3{font-size:13px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);margin:0 0 8px}
 .mtable td,.mtable th{padding:7px 8px;font-size:13px}
 .mtable th{position:static}
 .layer{font-size:12px;color:var(--muted)}
 .note{background:var(--warn-soft);border-radius:6px;padding:10px 12px;font-size:13px}
 .receipts a{font-size:12px;margin-right:10px;white-space:nowrap}
+.prom{min-width:0;overflow-wrap:anywhere;border:1px solid var(--rule);border-radius:8px;padding:12px 14px;display:grid;gap:8px}
+.prom+.prom{margin-top:10px}
+.prom .ph{display:flex;justify-content:space-between;gap:8px;align-items:center;flex-wrap:wrap}
+.prom blockquote{margin:0;font-family:var(--display);font-size:17px;line-height:1.35}
+.vs{display:inline-block;font-size:12px;font-weight:600;padding:2px 8px;border-radius:999px;border:1px solid var(--rule)}
+.vs-aligned{background:var(--accent-soft);color:var(--accent);border-color:transparent}
+.vs-notaligned{background:var(--warn-soft);color:var(--warn);border-color:transparent}
+.vs-mixed{background:var(--paper);color:var(--ink)}
+.vs-muted{color:var(--muted)}
+.vrow{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:2px 10px;font-size:13px;padding:6px 0;border-top:1px solid var(--rule)}
+.vrow .vq{color:var(--muted);font-size:12px}
+.vrow .vo{text-align:right}
+.byai{font-size:12px;color:var(--muted)}
+.byai summary{cursor:pointer}
+.psum{display:flex;gap:16px;flex-wrap:wrap;font-size:13px;margin-bottom:10px}
+.psum b{font-size:18px;display:block}
 .kv{display:grid;grid-template-columns:max-content 1fr;gap:4px 14px;font-size:13px}
 .kv dt{color:var(--muted)} .kv dd{margin:0;font-family:var(--mono);font-size:12px}
 /* pages */
@@ -133,7 +149,7 @@ footer{border-top:1px solid var(--rule);color:var(--muted);font-size:12px;paddin
 </style>
 </head>
 <body>
-<div class="beta" role="note"><b>Beta.</b> A work in progress: donor totals are live from FEC filings; promise scores are still under review.</div>
+<div class="beta" role="note"><b>Beta.</b> Promises reviewed so far: __M_MEMBERS_REVIEWED__ members. Every promise decision on this site is made by Claude Opus 5.5, an AI model. <a href="#method">How it works</a></div>
 <header class="top">
   <div class="wrap topbar">
     <a class="brand" href="#scoreboard">Campaign <span>Promise</span></a>
@@ -157,7 +173,7 @@ footer{border-top:1px solid var(--rule);color:var(--muted);font-size:12px;paddin
     <div class="stats">
       <div class="stat"><b id="st-members">539</b><small>members</small></div>
       <div class="stat"><b>9</b><small>donor groups</small></div>
-      <div class="stat"><b>0</b><small>promises scored</small></div>
+      <div class="stat"><b>__M_TESTED__</b><small>promises tested</small></div>
     </div>
   </div>
 
@@ -185,6 +201,7 @@ footer{border-top:1px solid var(--rule);color:var(--muted);font-size:12px;paddin
       </select>
       <label class="chk"><input type="checkbox" id="onlyfunded"> Only members with money from this group</label>
       <label class="chk"><input type="checkbox" id="hidedel" checked> Hide non-voting delegates</label>
+      <label class="chk"><input type="checkbox" id="onlyprom"> Only members with tested promises</label>
     </div>
   </div>
 
@@ -199,7 +216,7 @@ footer{border-top:1px solid var(--rule);color:var(--muted);font-size:12px;paddin
         <th><button data-sort="y">Years served</button></th>
         <th class="num"><button data-sort="money" id="th-money">Money</button></th>
         <th class="num"><button data-sort="against" id="th-against">Against</button></th>
-        <th>Promise record</th>
+        <th><button data-sort="pr">Promise record</button></th>
       </tr></thead>
       <tbody id="rows"></tbody>
     </table>
@@ -238,8 +255,22 @@ footer{border-top:1px solid var(--rule);color:var(--muted);font-size:12px;paddin
     </ul>
     <h3>Receipts</h3>
     <p>Each member's page links to FEC search pages for every figure. One known difference: a group's own report of money it forwarded can show more line items than the campaign's report of what it received, because of timing and refunds. Next week we add a side-by-side check of both reports.</p>
+    <h3 id="who-decides">Who decides: Claude Opus 5.5</h3>
+    <p>Every promise decision on this site, each approval and each rejection, is made by <b>Claude Opus 5.5</b>, an AI model made by Anthropic. This is a deliberate choice: one consistent reviewer applying published rules, with every call open to inspection. No person approves, rejects or edits these decisions by hand. Corrections are decided the same way, against the same rules, and logged on the Corrections page.</p>
+    <p>AI can make mistakes. That is why every quote links to its archived source, every vote links to the official roll call, and every decision, including the __M_REJECTED__ rejected drafts, is published with its reason in <a href="https://github.com/cc5alive/campaignpromise/blob/main/data/promises/published.json">published.json</a>.</p>
     <h3>Promises and votes</h3>
-    <p>No promise scores are shown yet. Scoring starts with a pilot of 10 members, and each score will show the exact campaign quote, its archived source, and every vote used. Until a member has at least 3 scored votes, the site says "Not yet tested."</p>
+    <ol>
+      <li><b>Archive.</b> Campaign websites as they stood in the 2024 race are saved from the Internet Archive's Wayback Machine.</li>
+      <li><b>Select.</b> Claude Opus 5.5 reads the saved pages and picks sentences that state a commitment ("Pledge") or a position ("Stated position").</li>
+      <li><b>Verify.</b> A script confirms each quote appears word for word in the archived page. Quotes that don't are dropped.</li>
+      <li><b>Match votes.</b> Votes come from official House Clerk and Senate roll-call files. Claude Opus 5.5 picks votes that directly test each promise and decides which position keeps it.</li>
+      <li><b>Decide.</b> Each draft is approved, shown but not scored (when a vote is related but a kept-or-broken call would rest on a contested reading), or rejected.</li>
+    </ol>
+    <p>So far: __M_TOTAL__ drafts for __M_MEMBERS_REVIEWED__ members. __M_APPROVED__ approved, __M_SHOWN_NOT_SCORED__ shown but not scored, __M_REJECTED__ rejected. Of the approved promises, __M_TESTED__ have been tested by a vote: __M_ALIGNED__ aligned, __M_NOT_ALIGNED__ not aligned, __M_MIXED__ mixed.</p>
+    <p>Most promises tested so far are party positions tested by party-line votes, so most come out aligned. Specific, local or bipartisan promises are harder to match to a floor vote and are more often shown but not scored.</p>
+    <h3>The rules Claude Opus 5.5 follows</h3>
+    <ul id="rules"></ul>
+    <p class="layer">Source: <a href="https://github.com/cc5alive/campaignpromise/blob/main/data/promises/review_decisions.json">review_decisions.json</a> and <a href="https://github.com/cc5alive/campaignpromise/blob/main/pipeline/scoring.py">scoring.py</a>.</p>
     <h3>Words we use</h3>
     <p>"Aligned" and "not aligned" describe votes against promises. The site never says a donation caused a vote.</p>
   </div>
@@ -249,12 +280,12 @@ footer{border-top:1px solid var(--rule);color:var(--muted);font-size:12px;paddin
   <div class="prose">
     <h2>Corrections</h2>
     <p>No corrections yet. Every fix will be listed here with its date, what changed, why, and who flagged it. Old values stay in the history.</p>
-    <p>Error reporting opens with the public launch.</p>
+    <p>Found an error? <a href="https://github.com/cc5alive/campaignpromise/issues/new">Report it on GitHub</a> with the member's name and what is wrong. Claude Opus 5.5 reviews each report against the published rules.</p>
   </div>
 </section>
 </main>
 
-<footer class="wrap">Campaign Promise prototype · Build __BUILD__ · Sources: FEC bulk data (itpas2, itcont, ccl, 2025–26), unitedstates/congress-legislators · Not affiliated with any party, candidate or group.</footer>
+<footer class="wrap">Campaign Promise prototype · campaignpromise.org · Build __BUILD__ · Sources: FEC bulk data (itpas2, itcont, ccl, 2025–26), unitedstates/congress-legislators · Not affiliated with any party, candidate or group.</footer>
 
 <div class="scrim" id="scrim"></div>
 <aside class="drawer" id="drawer" aria-hidden="true" aria-labelledby="d-name" role="dialog"></aside>
@@ -263,15 +294,29 @@ footer{border-top:1px solid var(--rule);color:var(--muted);font-size:12px;paddin
 const DATA = __DATA__;
 const GROUPS = __GROUPS__;
 const ASOF = "__ASOF__";
+const PROMISES = __PROMISES__;
+const PMETA = __PMETA__;
 const STATES = {AL:"Alabama",AK:"Alaska",AS:"American Samoa",AZ:"Arizona",AR:"Arkansas",CA:"California",CO:"Colorado",CT:"Connecticut",DE:"Delaware",DC:"District of Columbia",FL:"Florida",GA:"Georgia",GU:"Guam",HI:"Hawaii",ID:"Idaho",IL:"Illinois",IN:"Indiana",IA:"Iowa",KS:"Kansas",KY:"Kentucky",LA:"Louisiana",ME:"Maine",MD:"Maryland",MA:"Massachusetts",MI:"Michigan",MN:"Minnesota",MS:"Mississippi",MO:"Missouri",MT:"Montana",NE:"Nebraska",NV:"Nevada",NH:"New Hampshire",NJ:"New Jersey",NM:"New Mexico",NY:"New York",NC:"North Carolina",ND:"North Dakota",MP:"Northern Mariana Islands",OH:"Ohio",OK:"Oklahoma",OR:"Oregon",PA:"Pennsylvania",PR:"Puerto Rico",RI:"Rhode Island",SC:"South Carolina",SD:"South Dakota",TN:"Tennessee",TX:"Texas",UT:"Utah",VT:"Vermont",VI:"U.S. Virgin Islands",VA:"Virginia",WA:"Washington",WV:"West Virginia",WI:"Wisconsin",WY:"Wyoming"};
 const PARTY = {D:"Democrat",R:"Republican",I:"Independent"};
-const st = {q:"",chamber:"",party:"",gender:"",state:"",group:"aipac",mode:"contrib",onlyfunded:false,hidedel:true,sort:"money",dir:-1,limit:60};
+const st = {q:"",chamber:"",party:"",gender:"",state:"",group:"aipac",mode:"contrib",onlyfunded:false,hidedel:true,onlyprom:false,sort:"money",dir:-1,limit:60};
 
 const $ = s => document.querySelector(s);
 const money = (r,g,mode) => { const m=r.m[g]; if(!m) return 0; if(mode==="for") return m.s; if(mode==="against") return m.o; return m.d+m.e; };
 const fmt = v => { const a=Math.abs(v); const s = a>=1e6 ? (a/1e6).toFixed(a>=1e7?1:2).replace(/\.?0+$/,"")+"M" : a>=1e3 ? Math.round(a/1e3)+"K" : Math.round(a).toString(); return (v<0?"−$":"$")+s; };
 const full = v => (v<0?"−$":"$")+Math.abs(Math.round(v)).toLocaleString("en-US");
 const where = r => r.c==="S" ? r.s : (r.d===0||r.d===null? r.s+"-AL" : r.s+"-"+r.d);
+function prec(r){
+  const ps = PROMISES[r.id]||[]; const t = ps.filter(p=>["aligned","not aligned","mixed"].includes(p.status));
+  const a = t.filter(p=>p.status==="aligned").length;
+  return {ps, t:t.length, a, score: t.length>=3 ? a/t.length : -1};
+}
+function precPill(r){
+  const x = prec(r);
+  if(x.t>=3) return '<span class="vs '+(x.a===x.t?'vs-aligned':x.a===0?'vs-notaligned':'vs-mixed')+'" title="'+x.a+' of '+x.t+' tested promises aligned with votes">'+x.a+' of '+x.t+' aligned</span>';
+  if(x.t>0) return '<span class="pill" title="A score appears once 3 promises are tested">'+x.t+' tested · too few to score</span>';
+  if(x.ps.length) return '<span class="pill">'+x.ps.length+' promise'+(x.ps.length>1?'s':'')+' · not yet tested</span>';
+  return '<span class="pill">Not yet reviewed</span>';
+}
 const esc = s => String(s).replace(/[&<>"]/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 
 function filtered(){
@@ -280,12 +325,13 @@ function filtered(){
     (!st.chamber || r.c===st.chamber) && (!st.party || r.p===st.party) && (!st.gender || r.g===st.gender) &&
     (!st.state || r.s===st.state) && (!st.hidedel || !r.dl) &&
     (!q || r.n.toLowerCase().includes(q) || r.s.toLowerCase()===q || (STATES[r.s]||"").toLowerCase().includes(q)) &&
-    (!st.onlyfunded || money(r,st.group,st.mode)>0));
+    (!st.onlyfunded || money(r,st.group,st.mode)>0) && (!st.onlyprom || prec(r).t>0));
   const key = st.sort, dir = st.dir;
   rows.sort((a,b)=>{
     let x,y;
     if(key==="money"){x=money(a,st.group,st.mode);y=money(b,st.group,st.mode);}
     else if(key==="against"){x=money(a,st.group,"against");y=money(b,st.group,"against");}
+    else if(key==="pr"){const pa=prec(a),pb=prec(b);x=pa.score*1000+pa.t;y=pb.score*1000+pb.t;}
     else {x=a[key];y=b[key];}
     if(x<y) return -dir; if(x>y) return dir; return a.l.localeCompare(b.l);
   });
@@ -328,9 +374,9 @@ function render(){
     return '<tr data-id="'+r.id+'" tabindex="0"><td class="name">'+esc(r.n)+'<small>'+(r.c==="S"?"Senator":(r.dl?"Delegate":"Representative"))+'</small></td>'+
       '<td><span class="pchip p-'+r.p+'" title="'+PARTY[r.p]+'">'+r.p+'</span></td><td>'+where(r)+'</td><td class="num">'+r.y.toFixed(0)+'</td>'+
       '<td class="num">'+moneyCell(r)+'</td><td class="num">'+(ag>0?'<span'+(other==="against"?' class="against"':'')+' title="'+full(ag)+'">'+fmt(ag)+'</span>':'<span class="zero">—</span>')+'</td>'+
-      '<td><span class="pill">Not yet tested</span></td></tr>';
+      '<td>'+precPill(r)+'</td></tr>';
   }).join("") || '<tr><td colspan="7" class="zero">No members match these filters.</td></tr>';
-  $("#cards").innerHTML = shown.map(r=>'<div class="mcard" data-id="'+r.id+'" tabindex="0"><div class="row"><b>'+esc(r.n)+'</b><span class="pchip p-'+r.p+'">'+r.p+'</span></div><div class="row"><span>'+(r.c==="S"?"Senate":"House")+' · '+where(r)+'</span><span>'+r.y.toFixed(0)+' yrs</span></div><div class="row"><span class="layer">'+esc(g.short)+' · '+modeLabel+'</span><span>'+moneyCell(r)+'</span></div><div class="row"><span class="layer">Promise record</span><span class="pill">Not yet tested</span></div></div>').join("");
+  $("#cards").innerHTML = shown.map(r=>'<div class="mcard" data-id="'+r.id+'" tabindex="0"><div class="row"><b>'+esc(r.n)+'</b><span class="pchip p-'+r.p+'">'+r.p+'</span></div><div class="row"><span>'+(r.c==="S"?"Senate":"House")+' · '+where(r)+'</span><span>'+r.y.toFixed(0)+' yrs</span></div><div class="row"><span class="layer">'+esc(g.short)+' · '+modeLabel+'</span><span>'+moneyCell(r)+'</span></div><div class="row"><span class="layer">Promise record</span>'+precPill(r)+'</div></div>').join("");
   $("#more").hidden = rows.length <= st.limit;
   $("#more").textContent = "Show all "+rows.length;
   document.querySelectorAll("th button[data-sort]").forEach(b=>b.setAttribute("aria-sort", b.dataset.sort===st.sort ? (st.dir>0?"ascending":"descending") : "none"));
@@ -349,6 +395,34 @@ function receipts(r,gk,layer){
   return links.join(" ");
 }
 
+const VS = {"aligned":["vs-aligned","Aligned"],"not aligned":["vs-notaligned","Not aligned"],"mixed":["vs-mixed","Mixed"],"not yet tested":["vs-muted","Not yet tested"],"shown, not scored":["vs-muted","Shown, not scored"]};
+const ORDER = ["not aligned","mixed","aligned","not yet tested","shown, not scored"];
+function voteRow(v){
+  const o = v.role==="related" ? '<span class="vs vs-muted">Related, not scored</span>' :
+    v.out==="not counted" ? '<span class="vs vs-muted">Not counted</span>' :
+    '<span class="vs '+(v.out==="aligned"?"vs-aligned":"vs-notaligned")+'">'+(v.out==="aligned"?"Aligned":"Not aligned")+'</span>';
+  return '<div class="vrow"><div>'+esc(v.bill)+' <span class="vq">· '+esc(v.q)+' · '+esc(v.date)+'</span></div><div class="vo">'+o+'</div>'+
+    '<div class="vq">Voted <a href="'+esc(v.src)+'">'+esc(v.pos)+'</a>'+(v.keep?' · a '+(v.keep==="Yea"?"yes":"no")+' vote keeps this promise':'')+'</div><div></div></div>';
+}
+function promiseCard(p){
+  const [cls,lab] = VS[p.status];
+  const src = p.src.wb ? '<a href="'+esc(p.src.wb)+'">2024 campaign site, archived '+esc(p.src.date)+'</a>' :
+    p.src.via ? 'Campaign site, as quoted by <a href="'+esc(p.src.via.split(" ")[0])+'">Ballotpedia</a>' : '';
+  return '<div class="prom"><div class="ph"><span class="layer">'+esc(p.issue)+' · '+esc(p.kind)+'</span><span class="vs '+cls+'">'+lab+'</span></div>'+
+    '<blockquote>“'+esc(p.quote)+'”</blockquote><div class="layer">'+src+'</div>'+
+    (p.votes.length? '<div>'+p.votes.map(voteRow).join('')+'</div>' : '')+
+    (p.note? '<div class="layer">'+esc(p.note)+'</div>' : '')+
+    '<details class="byai"><summary>Decision by '+esc(PMETA.reviewer)+': '+(p.decision==="Approve"?"approved":"shown, not scored")+'</summary><p>'+esc(p.reason)+'</p></details></div>';
+}
+function promiseSection(r){
+  const x = prec(r);
+  if(!x.ps.length) return '<div><h3>Promises and votes</h3><div class="note">Not yet reviewed. We have not yet archived and reviewed this member\'s 2024 campaign promises.</div></div>';
+  const ps = x.ps.slice().sort((a,b)=>ORDER.indexOf(a.status)-ORDER.indexOf(b.status));
+  const head = x.t>=3 ? '<div class="psum"><div><b>'+x.a+' of '+x.t+'</b>tested promises aligned with votes</div></div>' :
+    '<p class="layer">'+(x.t? x.t+' promise'+(x.t>1?'s':'')+' tested. A score appears once at least 3 are tested.' : 'No promise tested yet: no floor vote directly tests these promises so far.')+'</p>';
+  return '<div><h3>Promises and votes</h3>'+head+ps.map(promiseCard).join('')+
+    '<p class="byai">Every promise here was selected, checked and reviewed by '+esc(PMETA.reviewer)+', an AI model. <a href="#method">How decisions are made</a> · <a href="#corrections">Report an error</a></p></div>';
+}
 function openMember(id, push){
   const r = DATA.find(x=>x.id===id); if(!r) return;
   const gks = Object.keys(GROUPS).filter(k=>r.m[k]);
@@ -368,7 +442,7 @@ function openMember(id, push){
   $("#drawer").innerHTML =
     '<div class="dhead"><button class="btn close" id="dclose" aria-label="Close">Close</button><span class="pchip p-'+r.p+'">'+PARTY[r.p]+'</span><h2 id="d-name">'+esc(r.n)+'</h2><div class="meta">'+dist+' · in Congress since '+r.fy+' · current term ends '+r.te.slice(0,4)+'</div></div>'+
     '<div class="dbody">'+
-      '<div><h3>Promises and votes</h3><div class="note">Not yet tested. Promise scoring starts with a 10-member pilot. A score appears only after its campaign quotes are archived and at least 3 votes are matched and reviewed.</div></div>'+
+      promiseSection(r)+
       '<div><h3>Money from tracked groups, 2025–26 cycle</h3>'+(gks.length? '<table class="mtable"><tbody>'+rowsHtml+'</tbody></table>' : '<p class="zero">No money recorded from the 9 tracked groups.</p>')+
         (none.length && gks.length? '<p class="layer">No money recorded from: '+none.map(esc).join(', ')+'.</p>':'')+
         (r.m.aipac? '<p class="layer">AIPAC announced on Oct 21, 2026 that it will stop endorsing candidates and stop direct and earmarked PAC giving. Its super PAC, United Democracy Project, continues.</p>':'')+
@@ -400,7 +474,6 @@ function route(){
   const h = location.hash.slice(1) || "scoreboard";
   let page = h.startsWith("m-") ? "scoreboard" : (["scoreboard","groups","method","corrections"].includes(h)? h : "scoreboard");
   document.querySelectorAll("section.page").forEach(s=>s.classList.toggle("on", s.id==="p-"+page));
-  document.querySelectorAll("nav.tabs a").forEach(a=>a.toggleAttribute("aria-current", a.dataset.page===page) || a.setAttribute("aria-current", a.dataset.page===page?"page":""));
   document.querySelectorAll("nav.tabs a").forEach(a=>{ if(a.dataset.page===page) a.setAttribute("aria-current","page"); else a.removeAttribute("aria-current"); });
   if(h.startsWith("m-")) openMember(h.slice(2), false); else closeMember();
 }
@@ -416,7 +489,8 @@ gsel.addEventListener("change",e=>{st.group=e.target.value; const g=GROUPS[st.gr
 $("#mode").addEventListener("change",e=>{st.mode=e.target.value; render();});
 $("#onlyfunded").addEventListener("change",e=>{st.onlyfunded=e.target.checked; render();});
 $("#hidedel").addEventListener("change",e=>{st.hidedel=e.target.checked; render();});
-document.querySelectorAll("th button[data-sort]").forEach(b=>b.addEventListener("click",()=>{ const k=b.dataset.sort; if(st.sort===k) st.dir*=-1; else {st.sort=k; st.dir=(k==="money"||k==="against"||k==="y")?-1:1;} render(); }));
+$("#onlyprom").addEventListener("change",e=>{st.onlyprom=e.target.checked; st.limit=60; render();});
+document.querySelectorAll("th button[data-sort]").forEach(b=>b.addEventListener("click",()=>{ const k=b.dataset.sort; if(st.sort===k) st.dir*=-1; else {st.sort=k; st.dir=(k==="money"||k==="against"||k==="y"||k==="pr")?-1:1;} render(); }));
 $("#more").addEventListener("click",()=>{st.limit=1e4; render();});
 const openFrom = e=>{ const t=e.target.closest("[data-id]"); if(t) openMember(t.dataset.id); };
 $("#rows").addEventListener("click",openFrom); $("#cards").addEventListener("click",openFrom);
@@ -426,6 +500,7 @@ document.addEventListener("keydown",e=>{ if(e.key==="Escape") closeMember(); });
 function syncModes(){ const g=GROUPS[st.group]; [...$("#mode").options].forEach(o=>o.disabled=!g.modes.includes(o.value)); }
 window.addEventListener("hashchange",route);
 $("#st-members").textContent = DATA.filter(r=>!r.dl).length;
+$("#rules").innerHTML = PMETA.rules.map(x=>"<li>"+esc(x)+"</li>").join("");
 syncModes(); renderGroups(); render(); route();
 </script>
 </body>
