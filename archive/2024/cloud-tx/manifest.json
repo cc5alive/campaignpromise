@@ -1,0 +1,148 @@
+{
+  "name": "Michael Cloud",
+  "domains_tried": [
+    "cloudforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.cloudforcongress.com/",
+      "timestamp": "20241105044213",
+      "wayback": "https://web.archive.org/web/20241105044213/https://www.cloudforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105044213id_/https://www.cloudforcongress.com/",
+      "file": "archive/2024/cloud-tx/home.html",
+      "text_file": "archive/2024/cloud-tx/home.txt",
+      "bytes": 158093,
+      "sha256_html": "495cc3cab6f4f6474e20e0b83456fc0c58e64b46880121e8037532aae18493e8",
+      "sha256_text": "59faeda92ed0c0be09ea8e6339e1487380bdefe48502a6b333277cf18bb1fd0f"
+    },
+    {
+      "original": "https://www.cloudforcongress.com/my-vision/",
+      "timestamp": "20241105044321",
+      "wayback": "https://web.archive.org/web/20241105044321/https://www.cloudforcongress.com/my-vision/",
+      "wayback_raw": "https://web.archive.org/web/20241105044321id_/https://www.cloudforcongress.com/my-vision/",
+      "file": "archive/2024/cloud-tx/my-vision.html",
+      "text_file": "archive/2024/cloud-tx/my-vision.txt",
+      "bytes": 122347,
+      "sha256_html": "22dab04c1c09a75ae74679e8845bb225f0f83d69ebce3d22b642879d3072c1eb",
+      "sha256_text": "67fa22fb4686a91020e3eb1648ffe1aa156218cd31bada8cdb90eade23e0785c"
+    },
+    {
+      "original": "https://www.cloudforcongress.com/news/fbi-track-record-duplicity/",
+      "timestamp": "20241105071601",
+      "wayback": "https://web.archive.org/web/20241105071601/https://www.cloudforcongress.com/news/fbi-track-record-duplicity/",
+      "wayback_raw": "https://web.archive.org/web/20241105071601id_/https://www.cloudforcongress.com/news/fbi-track-record-duplicity/",
+      "file": "archive/2024/cloud-tx/news-fbi-track-record-duplicity.html",
+      "text_file": "archive/2024/cloud-tx/news-fbi-track-record-duplicity.txt",
+      "bytes": 124177,
+      "sha256_html": "c3dc5fed0966e2e2d88b44dcea02cae7f4edea817f1e5b0b04ae99e2829c5eb4",
+      "sha256_text": "af9acb2d721e16c79c20db24e8dc1b844a7dd2e4636dce6d387b20e34b9951de"
+    },
+    {
+      "original": "https://www.cloudforcongress.com/news/rep-cloud-to-newsmax-texans-want-lawmakers-who-dont-run-from-a-fight/",
+      "timestamp": "20241105071719",
+      "wayback": "https://web.archive.org/web/20241105071719/https://www.cloudforcongress.com/news/rep-cloud-to-newsmax-texans-want-lawmakers-who-dont-run-from-a-fight/",
+      "wayback_raw": "https://web.archive.org/web/20241105071719id_/https://www.cloudforcongress.com/news/rep-cloud-to-newsmax-texans-want-lawmakers-who-dont-run-from-a-fight/",
+      "file": "archive/2024/cloud-tx/news-rep-cloud-to-newsmax-texans-want-lawmakers-who-dont-run-from-a-fight.html",
+      "text_file": "archive/2024/cloud-tx/news-rep-cloud-to-newsmax-texans-want-lawmakers-who-dont-run-from-a-fight.txt",
+      "bytes": 123679,
+      "sha256_html": "0f7b72d73904978196c57bf4d2cb2429fe1e6dd70341ac24614fdaf817c200fe",
+      "sha256_text": "27fd1a71534d55036d1edfefa66eedd62510c21e3b01851b7bba5d5df29fa654"
+    },
+    {
+      "original": "https://www.cloudforcongress.com/vision/2ndamendment/",
+      "timestamp": "20241105043848",
+      "wayback": "https://web.archive.org/web/20241105043848/https://www.cloudforcongress.com/vision/2ndamendment/",
+      "wayback_raw": "https://web.archive.org/web/20241105043848id_/https://www.cloudforcongress.com/vision/2ndamendment/",
+      "file": "archive/2024/cloud-tx/vision-2ndamendment.html",
+      "text_file": "archive/2024/cloud-tx/vision-2ndamendment.txt",
+      "bytes": 131098,
+      "sha256_html": "2e549113912e7def884b0e94140121db10cc23d10d0d2c3fca930bbcc6fcd999",
+      "sha256_text": "95dcc5b768c87fb44e38ab860019410a427c49587930b3ac00b6e8be2fca9df0"
+    },
+    {
+      "original": "https://www.cloudforcongress.com/vision/agriculture-and-property-rights/",
+      "timestamp": "20241105044029",
+      "wayback": "https://web.archive.org/web/20241105044029/https://www.cloudforcongress.com/vision/agriculture-and-property-rights/",
+      "wayback_raw": "https://web.archive.org/web/20241105044029id_/https://www.cloudforcongress.com/vision/agriculture-and-property-rights/",
+      "file": "archive/2024/cloud-tx/vision-agriculture-and-property-rights.html",
+      "text_file": "archive/2024/cloud-tx/vision-agriculture-and-property-rights.txt",
+      "bytes": 117044,
+      "sha256_html": "15b2b38b5f5c0c80303640c2259ac5087c33e15d8e08a538ee2add1406ad9cf5",
+      "sha256_text": "f0ab83de6ba216e566d47c540dcb50bcfd3b4b231ac1803abb86f534cfc7363e"
+    },
+    {
+      "original": "https://www.cloudforcongress.com/vision/border-security/",
+      "timestamp": "20241105043907",
+      "wayback": "https://web.archive.org/web/20241105043907/https://www.cloudforcongress.com/vision/border-security/",
+      "wayback_raw": "https://web.archive.org/web/20241105043907id_/https://www.cloudforcongress.com/vision/border-security/",
+      "file": "archive/2024/cloud-tx/vision-border-security.html",
+      "text_file": "archive/2024/cloud-tx/vision-border-security.txt",
+      "bytes": 119341,
+      "sha256_html": "32da5f59d537b4c472aeadcf6457753dedb9231c9f95551da5f6cb3f076e034a",
+      "sha256_text": "71f87ddeb78bc8e1f573c8201b02d11497e8debb4f4bf27a8e60ad4a10f6844d"
+    },
+    {
+      "original": "https://www.cloudforcongress.com/vision/economy-and-jobs/",
+      "timestamp": "20241105044159",
+      "wayback": "https://web.archive.org/web/20241105044159/https://www.cloudforcongress.com/vision/economy-and-jobs/",
+      "wayback_raw": "https://web.archive.org/web/20241105044159id_/https://www.cloudforcongress.com/vision/economy-and-jobs/",
+      "file": "archive/2024/cloud-tx/vision-economy-and-jobs.html",
+      "text_file": "archive/2024/cloud-tx/vision-economy-and-jobs.txt",
+      "bytes": 117378,
+      "sha256_html": "6f07667220c7ac7e07d5dd6c474a8c22904074a86e4ea53b5e9490ba67752931",
+      "sha256_text": "7359832a41168e82a5d97c85ee1d887c5e45150b8b18c1a487ed71cb3613e97d"
+    },
+    {
+      "original": "https://www.cloudforcongress.com/vision/education/",
+      "timestamp": "20241105044211",
+      "wayback": "https://web.archive.org/web/20241105044211/https://www.cloudforcongress.com/vision/education/",
+      "wayback_raw": "https://web.archive.org/web/20241105044211id_/https://www.cloudforcongress.com/vision/education/",
+      "file": "archive/2024/cloud-tx/vision-education.html",
+      "text_file": "archive/2024/cloud-tx/vision-education.txt",
+      "bytes": 115653,
+      "sha256_html": "4110587d855422a90f0fedb9e2e2c672888462a5b5a38fa4d73164bb907a8b0f",
+      "sha256_text": "8f1f268137061ac297b1c51621b31217a5dad3b6a8f72578f36c42063c1232e1"
+    },
+    {
+      "original": "https://www.cloudforcongress.com/vision/energy-and-trade/",
+      "timestamp": "20241105044023",
+      "wayback": "https://web.archive.org/web/20241105044023/https://www.cloudforcongress.com/vision/energy-and-trade/",
+      "wayback_raw": "https://web.archive.org/web/20241105044023id_/https://www.cloudforcongress.com/vision/energy-and-trade/",
+      "file": "archive/2024/cloud-tx/vision-energy-and-trade.html",
+      "text_file": "archive/2024/cloud-tx/vision-energy-and-trade.txt",
+      "bytes": 115934,
+      "sha256_html": "088afac4f84212974edf360b7b10474e994daa92ad7402677af93424bdb0e543",
+      "sha256_text": "e58de272eee05a61039ea457dc4ac896aecde5d84979689204466617cfecf93c"
+    },
+    {
+      "original": "https://www.cloudforcongress.com/vision/family-values/",
+      "timestamp": "20241105044111",
+      "wayback": "https://web.archive.org/web/20241105044111/https://www.cloudforcongress.com/vision/family-values/",
+      "wayback_raw": "https://web.archive.org/web/20241105044111id_/https://www.cloudforcongress.com/vision/family-values/",
+      "file": "archive/2024/cloud-tx/vision-family-values.html",
+      "text_file": "archive/2024/cloud-tx/vision-family-values.txt",
+      "bytes": 117114,
+      "sha256_html": "99e2c96ad6a08a85744b127373e1aa83ab449d89b5e0dd691dac83495211b108",
+      "sha256_text": "432bb3c490d64756f2b98759c6e85bd2e3adf839202d715066ca03628b4f287f"
+    },
+    {
+      "original": "https://www.cloudforcongress.com/vision/federal-spending-and-debt/",
+      "timestamp": "20241105044020",
+      "wayback": "https://web.archive.org/web/20241105044020/https://www.cloudforcongress.com/vision/federal-spending-and-debt/",
+      "wayback_raw": "https://web.archive.org/web/20241105044020id_/https://www.cloudforcongress.com/vision/federal-spending-and-debt/",
+      "file": "archive/2024/cloud-tx/vision-federal-spending-and-debt.html",
+      "text_file": "archive/2024/cloud-tx/vision-federal-spending-and-debt.txt",
+      "bytes": 118017,
+      "sha256_html": "d3c758a8df4c56dea0ac54077d459441c37ee50a4acd0fd2c8586522d86cad43",
+      "sha256_text": "755a898994b349946f94bee5a2545dae4bb0fcabc618e8b1563ad76c7ef6f9ae"
+    }
+  ],
+  "snapshots_found": {
+    "cloudforcongress.com": 856
+  },
+  "generated_utc": "2026-11-26T07:59:13Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
