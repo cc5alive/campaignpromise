@@ -1,0 +1,38 @@
+{
+  "name": "Linda T. S\u00e1nchez",
+  "domains_tried": [
+    "voteforlinda.com"
+  ],
+  "pages": [
+    {
+      "original": "https://voteforlinda.com/",
+      "timestamp": "20241105070625",
+      "wayback": "https://web.archive.org/web/20241105070625/https://voteforlinda.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105070625id_/https://voteforlinda.com/",
+      "file": "archive/2024/sanchez-ca/home.html",
+      "text_file": "archive/2024/sanchez-ca/home.txt",
+      "bytes": 14540,
+      "sha256_html": "a8ea2e9789b57deba402ee378b1d565bd32bcc68909cd3c1567d6a2c913db980",
+      "sha256_text": "c8cd0feaddf88b038a6ef9e96ea25f68c52f7f54a51e69703bf161996e576ad1"
+    },
+    {
+      "original": "https://voteforlinda.com/minimum-wage-state-union-agenda-fast-food-workers-are-guests-honor",
+      "timestamp": "20241105070703",
+      "wayback": "https://web.archive.org/web/20241105070703/https://voteforlinda.com/minimum-wage-state-union-agenda-fast-food-workers-are-guests-honor",
+      "wayback_raw": "https://web.archive.org/web/20241105070703id_/https://voteforlinda.com/minimum-wage-state-union-agenda-fast-food-workers-are-guests-honor",
+      "file": "archive/2024/sanchez-ca/minimum-wage-state-union-agenda-fast-food-workers-are-guests-honor.html",
+      "text_file": "archive/2024/sanchez-ca/minimum-wage-state-union-agenda-fast-food-workers-are-guests-honor.txt",
+      "bytes": 15000,
+      "sha256_html": "8ff33087ce9b72ade2124fafb87326042812445f5b183377aff7bd7ab98e6082",
+      "sha256_text": "3bc7558b25eb6d9c1032749a9d95ea683d77b981d792cde62ac4b1b6b3cefe3d"
+    }
+  ],
+  "snapshots_found": {
+    "voteforlinda.com": 34
+  },
+  "generated_utc": "2026-11-26T08:23:22Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
