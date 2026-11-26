@@ -428,7 +428,7 @@ function promiseCard(p){
   const src = p.src.wb ? '<a href="'+esc(p.src.wb)+'">Campaign site, archived '+esc(p.src.date)+'</a>' :
     p.src.via ? 'Campaign site, as quoted by <a href="'+esc(p.src.via.split(" ")[0])+'">Ballotpedia</a>' : '';
   return '<div class="prom"><div class="ph"><span class="layer">'+esc(p.issue)+' · '+esc(p.kind)+'</span><span class="vs '+cls+'">'+lab+'</span></div>'+
-    '<blockquote>“'+esc(p.quote)+'”</blockquote><div class="layer">'+src+'</div>'+
+    '<blockquote>“'+esc(p.quote.replace(/^[“"]+|[”"]+$/g,''))+'”</blockquote><div class="layer">'+src+'</div>'+
     (p.votes.length? '<div>'+p.votes.map(voteRow).join('')+'</div>' : '')+
     (p.note? '<div class="layer">'+esc(p.note)+'</div>' : '')+
     '<details class="byai"><summary>Decision by '+esc(PMETA.reviewer)+': '+(p.decision==="Approve"?"approved":"shown, not scored")+'</summary><p>'+esc(p.reason)+'</p></details></div>';
