@@ -1,0 +1,49 @@
+{
+  "name": "Alex Padilla",
+  "domains_tried": [
+    "alex-padilla.com"
+  ],
+  "pages": [
+    {
+      "original": "https://alex-padilla.com/",
+      "timestamp": "20241104054031",
+      "wayback": "https://web.archive.org/web/20241104054031/https://alex-padilla.com/",
+      "wayback_raw": "https://web.archive.org/web/20241104054031id_/https://alex-padilla.com/",
+      "file": "archive/2024/padilla-ca/home.html",
+      "text_file": "archive/2024/padilla-ca/home.txt",
+      "bytes": 206249,
+      "sha256_html": "890c5392b44b3b4ae510c88a4ffafa959d6c5a3addc0d98e475ee6f15caf4872",
+      "sha256_text": "7f8038cce78404d075acbf0ea8549b02c431cc35bcac8efeaca1b28f489f3664"
+    },
+    {
+      "original": "https://alex-padilla.com/la-times-alex-padilla-isnt-scared-to-push-through-a-pro-immigrant-agenda/",
+      "timestamp": "20240914141227",
+      "wayback": "https://web.archive.org/web/20240914141227/https://alex-padilla.com/la-times-alex-padilla-isnt-scared-to-push-through-a-pro-immigrant-agenda/",
+      "wayback_raw": "https://web.archive.org/web/20240914141227id_/https://alex-padilla.com/la-times-alex-padilla-isnt-scared-to-push-through-a-pro-immigrant-agenda/",
+      "file": "archive/2024/padilla-ca/la-times-alex-padilla-isnt-scared-to-push-through-a-pro-immigrant-agenda.html",
+      "text_file": "archive/2024/padilla-ca/la-times-alex-padilla-isnt-scared-to-push-through-a-pro-immigrant-agenda.txt",
+      "bytes": 149383,
+      "sha256_html": "a10c70689334ddc27cd5b1888aaa1971bbd158c8289f7f0ef82e77873e0abe11",
+      "sha256_text": "e03933a28372f0108f84b7d5e84abc1c8bc101f5c48b5ca14972a2054e702088"
+    },
+    {
+      "original": "https://alex-padilla.com/about/",
+      "timestamp": "20241015122058",
+      "wayback": "https://web.archive.org/web/20241015122058/https://alex-padilla.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241015122058id_/https://alex-padilla.com/about/",
+      "file": "archive/2024/padilla-ca/about.html",
+      "text_file": "archive/2024/padilla-ca/about.txt",
+      "bytes": 172056,
+      "sha256_html": "9c30955e27947f0f912e9143b46c2a84d08e9606260dd1084cb737b652213c56",
+      "sha256_text": "f7a06e4cb11a51fab3fb8409f90c0dbb55af09db3c39d14ae1a27c6a1ecfd9d7"
+    }
+  ],
+  "snapshots_found": {
+    "alex-padilla.com": 20
+  },
+  "generated_utc": "2026-11-26T08:46:04Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
