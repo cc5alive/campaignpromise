@@ -1,0 +1,49 @@
+{
+  "name": "Darren Soto",
+  "domains_tried": [
+    "darrensoto.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.darrensoto.com/",
+      "timestamp": "20241105211613",
+      "wayback": "https://web.archive.org/web/20241105211613/https://www.darrensoto.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105211613id_/https://www.darrensoto.com/",
+      "file": "archive/2024/soto-fl/home.html",
+      "text_file": "archive/2024/soto-fl/home.txt",
+      "bytes": 110460,
+      "sha256_html": "8f50bffff794d89762eb94dfb44dbfd343aaa04e11e55aeae5bf4667fe483064",
+      "sha256_text": "2136e626510d25b98d84ceb20edb59bc0664f91b4e81b0b1b2b768e0602f92c4"
+    },
+    {
+      "original": "https://www.darrensoto.com/issues",
+      "timestamp": "20241105211630",
+      "wayback": "https://web.archive.org/web/20241105211630/https://www.darrensoto.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105211630id_/https://www.darrensoto.com/issues",
+      "file": "archive/2024/soto-fl/issues.html",
+      "text_file": "archive/2024/soto-fl/issues.txt",
+      "bytes": 72695,
+      "sha256_html": "0eb7357cde780d2abe3dc0d0ab19f36cb5511aaa7a4f2971d0bbcd808a318ddb",
+      "sha256_text": "5984eca1dfdab9c86e6c56a8ed2f97957c1c75545c8ccc3a9f2d06f238afa0d6"
+    },
+    {
+      "original": "https://www.darrensoto.com/about",
+      "timestamp": "20241105211632",
+      "wayback": "https://web.archive.org/web/20241105211632/https://www.darrensoto.com/about",
+      "wayback_raw": "https://web.archive.org/web/20241105211632id_/https://www.darrensoto.com/about",
+      "file": "archive/2024/soto-fl/about.html",
+      "text_file": "archive/2024/soto-fl/about.txt",
+      "bytes": 81019,
+      "sha256_html": "b9bbfcf0c914c5ee1e0825e7bb63482889749c0e7410798ce8d8b56d3b69912a",
+      "sha256_text": "670c6b30a726a5547bf8019c9b6f0f26d4ab90cf47e9a7470488590ae75c633c"
+    }
+  ],
+  "snapshots_found": {
+    "darrensoto.com": 42
+  },
+  "generated_utc": "2026-11-26T07:50:22Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
