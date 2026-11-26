@@ -1,0 +1,148 @@
+{
+  "name": "Bill Foster",
+  "domains_tried": [
+    "billfoster.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.billfoster.com/",
+      "timestamp": "20241105232503",
+      "wayback": "https://web.archive.org/web/20241105232503/https://www.billfoster.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105232503id_/https://www.billfoster.com/",
+      "file": "archive/2024/foster-il/home.html",
+      "text_file": "archive/2024/foster-il/home.txt",
+      "bytes": 88693,
+      "sha256_html": "6f0cd8214bf6552b02476e3847fcf8a436a44a1893bd695dc9091603c5c11247",
+      "sha256_text": "62f530143efc78bd4130019b22f33e597b0edcd11f024489692b8f937cc862d7"
+    },
+    {
+      "original": "https://www.billfoster.com/issues/",
+      "timestamp": "20241105182819",
+      "wayback": "https://web.archive.org/web/20241105182819/https://www.billfoster.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105182819id_/https://www.billfoster.com/issues/",
+      "file": "archive/2024/foster-il/issues.html",
+      "text_file": "archive/2024/foster-il/issues.txt",
+      "bytes": 81399,
+      "sha256_html": "196f78669e58e46dfb7e129b9a58e0c27d55e0f7ac7558330b2070a22c530abe",
+      "sha256_text": "c1037e568acf971ab7b37afae10b697e79942362f398e6feee06bb89d39f1912"
+    },
+    {
+      "original": "https://www.billfoster.com/issue/combating-the-climate-crisis/",
+      "timestamp": "20241105183039",
+      "wayback": "https://web.archive.org/web/20241105183039/https://www.billfoster.com/issue/combating-the-climate-crisis/",
+      "wayback_raw": "https://web.archive.org/web/20241105183039id_/https://www.billfoster.com/issue/combating-the-climate-crisis/",
+      "file": "archive/2024/foster-il/issue-combating-the-climate-crisis.html",
+      "text_file": "archive/2024/foster-il/issue-combating-the-climate-crisis.txt",
+      "bytes": 92420,
+      "sha256_html": "1ab19470044c2d0e40792cb8ebcadb08dab99474a7341940743a343cf1c6ea2c",
+      "sha256_text": "a3d1516043f69dd750662bf703f816cf7f469d283ac000de09245f14b08ffc76"
+    },
+    {
+      "original": "https://www.billfoster.com/issue/education/",
+      "timestamp": "20241105182837",
+      "wayback": "https://web.archive.org/web/20241105182837/https://www.billfoster.com/issue/education/",
+      "wayback_raw": "https://web.archive.org/web/20241105182837id_/https://www.billfoster.com/issue/education/",
+      "file": "archive/2024/foster-il/issue-education.html",
+      "text_file": "archive/2024/foster-il/issue-education.txt",
+      "bytes": 82892,
+      "sha256_html": "ef82a6fbbb2c53e8fc9d828e7499669d8c76453055f074c2651582f30a1dd45e",
+      "sha256_text": "a8a7448a76ffe872b0716e71f6121839447a99ed5f5de033da2c1123cc24bef8"
+    },
+    {
+      "original": "https://www.billfoster.com/issue/election-security-and-ethics-reform/",
+      "timestamp": "20241105182844",
+      "wayback": "https://web.archive.org/web/20241105182844/https://www.billfoster.com/issue/election-security-and-ethics-reform/",
+      "wayback_raw": "https://web.archive.org/web/20241105182844id_/https://www.billfoster.com/issue/election-security-and-ethics-reform/",
+      "file": "archive/2024/foster-il/issue-election-security-and-ethics-reform.html",
+      "text_file": "archive/2024/foster-il/issue-election-security-and-ethics-reform.txt",
+      "bytes": 81946,
+      "sha256_html": "4e781055ffacbab0cc865e2f1d249dd85161cfc7994f3087bf69689f82c887d0",
+      "sha256_text": "b5fca69888c543578b1bc658d62ca325595c9db4d12eea4554a4bcb7a741fc2f"
+    },
+    {
+      "original": "https://www.billfoster.com/issue/fixing-our-economy/",
+      "timestamp": "20241105182847",
+      "wayback": "https://web.archive.org/web/20241105182847/https://www.billfoster.com/issue/fixing-our-economy/",
+      "wayback_raw": "https://web.archive.org/web/20241105182847id_/https://www.billfoster.com/issue/fixing-our-economy/",
+      "file": "archive/2024/foster-il/issue-fixing-our-economy.html",
+      "text_file": "archive/2024/foster-il/issue-fixing-our-economy.txt",
+      "bytes": 82512,
+      "sha256_html": "59be5860912afff25f89753de48b15010b3185e393182f6484b8d9e0d0628df9",
+      "sha256_text": "8f9de4d38ead99888438779022f9e9b4af61e2ae96703e525a95a797990bfacd"
+    },
+    {
+      "original": "https://www.billfoster.com/issue/healthcare/",
+      "timestamp": "20241105224031",
+      "wayback": "https://web.archive.org/web/20241105224031/https://www.billfoster.com/issue/healthcare/",
+      "wayback_raw": "https://web.archive.org/web/20241105224031id_/https://www.billfoster.com/issue/healthcare/",
+      "file": "archive/2024/foster-il/issue-healthcare.html",
+      "text_file": "archive/2024/foster-il/issue-healthcare.txt",
+      "bytes": 83361,
+      "sha256_html": "a375b400ad021c82f55e026594b423368b44d8367652b9a2cfcd4957b2f8ea8d",
+      "sha256_text": "7b28d308e27dd81637a456beaac2fb8c8d5c47c12e4dd6e6b9ad01a94fe72120"
+    },
+    {
+      "original": "https://www.billfoster.com/issue/immigration/",
+      "timestamp": "20241105234950",
+      "wayback": "https://web.archive.org/web/20241105234950/https://www.billfoster.com/issue/immigration/",
+      "wayback_raw": "https://web.archive.org/web/20241105234950id_/https://www.billfoster.com/issue/immigration/",
+      "file": "archive/2024/foster-il/issue-immigration.html",
+      "text_file": "archive/2024/foster-il/issue-immigration.txt",
+      "bytes": 79324,
+      "sha256_html": "46317fff65a1839ad011eae82984a85e203bc35b2473da3bbb9bcab920a5681e",
+      "sha256_text": "592838883f7ed52e45e67a704f23943db913017347d5d77a5a07012d807660da"
+    },
+    {
+      "original": "https://www.billfoster.com/issue/reducing-gun-violence/",
+      "timestamp": "20241105220807",
+      "wayback": "https://web.archive.org/web/20241105220807/https://www.billfoster.com/issue/reducing-gun-violence/",
+      "wayback_raw": "https://web.archive.org/web/20241105220807id_/https://www.billfoster.com/issue/reducing-gun-violence/",
+      "file": "archive/2024/foster-il/issue-reducing-gun-violence.html",
+      "text_file": "archive/2024/foster-il/issue-reducing-gun-violence.txt",
+      "bytes": 80333,
+      "sha256_html": "4afcc335714b29995f9cc75b31f1f0e4ed6f9ec0ad2161f961c23d12fcc27489",
+      "sha256_text": "63721aa03281bf85771bab9c28626e401127ac0710d508015358f1ef810696c6"
+    },
+    {
+      "original": "https://www.billfoster.com/issue/reforming-wall-street/",
+      "timestamp": "20241105182839",
+      "wayback": "https://web.archive.org/web/20241105182839/https://www.billfoster.com/issue/reforming-wall-street/",
+      "wayback_raw": "https://web.archive.org/web/20241105182839id_/https://www.billfoster.com/issue/reforming-wall-street/",
+      "file": "archive/2024/foster-il/issue-reforming-wall-street.html",
+      "text_file": "archive/2024/foster-il/issue-reforming-wall-street.txt",
+      "bytes": 82215,
+      "sha256_html": "504d7f5b11e3db89e1ae95ef4c5bdfe86e45bbcf89504d1fbe7008a2f2ccaa21",
+      "sha256_text": "8393634f96cbd762b9c1e25957608ad135bafe89fb7dd979b85c6c333ec495f4"
+    },
+    {
+      "original": "https://www.billfoster.com/issue/reproductive-freedom/",
+      "timestamp": "20241105182623",
+      "wayback": "https://web.archive.org/web/20241105182623/https://www.billfoster.com/issue/reproductive-freedom/",
+      "wayback_raw": "https://web.archive.org/web/20241105182623id_/https://www.billfoster.com/issue/reproductive-freedom/",
+      "file": "archive/2024/foster-il/issue-reproductive-freedom.html",
+      "text_file": "archive/2024/foster-il/issue-reproductive-freedom.txt",
+      "bytes": 80537,
+      "sha256_html": "dcdee8e0c624575c2857c522ba683ba823cd2162c6a386d85c12515d5679e344",
+      "sha256_text": "61f23be3903f67c15da852fbe1744fa24c6a219a3b56603e606a2e95193bc490"
+    },
+    {
+      "original": "https://www.billfoster.com/issue/reviving-american-manufacturing/",
+      "timestamp": "20241105215031",
+      "wayback": "https://web.archive.org/web/20241105215031/https://www.billfoster.com/issue/reviving-american-manufacturing/",
+      "wayback_raw": "https://web.archive.org/web/20241105215031id_/https://www.billfoster.com/issue/reviving-american-manufacturing/",
+      "file": "archive/2024/foster-il/issue-reviving-american-manufacturing.html",
+      "text_file": "archive/2024/foster-il/issue-reviving-american-manufacturing.txt",
+      "bytes": 87024,
+      "sha256_html": "d2dd8def398015625fb3bab43b68eb2a1b182e93cfa365191a1e7d18b9f5d77d",
+      "sha256_text": "279992dc72397851e6fba1642ea3597c00559ce931f4fc840d929602761ea4bf"
+    }
+  ],
+  "snapshots_found": {
+    "billfoster.com": 261
+  },
+  "generated_utc": "2026-11-26T08:37:29Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
