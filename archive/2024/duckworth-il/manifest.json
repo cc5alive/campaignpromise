@@ -1,0 +1,27 @@
+{
+  "name": "Tammy Duckworth",
+  "domains_tried": [
+    "tammyduckworth.com"
+  ],
+  "pages": [
+    {
+      "original": "https://tammyduckworth.com/",
+      "timestamp": "20241105193500",
+      "wayback": "https://web.archive.org/web/20241105193500/https://tammyduckworth.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105193500id_/https://tammyduckworth.com/",
+      "file": "archive/2024/duckworth-il/home.html",
+      "text_file": "archive/2024/duckworth-il/home.txt",
+      "bytes": 169889,
+      "sha256_html": "eccfbbc1174214f926a2ec45fe55574531e9ed147bf6dc5e5f5971fdfa79c521",
+      "sha256_text": "84bfc40f300c411bc9e7491b911874fbde44d326cbe6d3d6c8e0c95abc085359"
+    }
+  ],
+  "snapshots_found": {
+    "tammyduckworth.com": 4
+  },
+  "generated_utc": "2026-11-26T08:41:06Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
