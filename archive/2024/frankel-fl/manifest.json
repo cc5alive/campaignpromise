@@ -1,0 +1,148 @@
+{
+  "name": "Lois Frankel",
+  "domains_tried": [
+    "loisfrankelforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://loisfrankelforcongress.com/",
+      "timestamp": "20241031010156",
+      "wayback": "https://web.archive.org/web/20241031010156/https://loisfrankelforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241031010156id_/https://loisfrankelforcongress.com/",
+      "file": "archive/2024/frankel-fl/home.html",
+      "text_file": "archive/2024/frankel-fl/home.txt",
+      "bytes": 31848,
+      "sha256_html": "1004a9fc5abe57fdfc0397c7e2c5e294b09cd7232457fcd0ac1812d9c5c4d215",
+      "sha256_text": "b46306824139bbd710aafa2f93f8d413fc951c642c5e5a9448245263c5795106"
+    },
+    {
+      "original": "https://loisfrankelforcongress.com/issues/",
+      "timestamp": "20241031035511",
+      "wayback": "https://web.archive.org/web/20241031035511/https://loisfrankelforcongress.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241031035511id_/https://loisfrankelforcongress.com/issues/",
+      "file": "archive/2024/frankel-fl/issues.html",
+      "text_file": "archive/2024/frankel-fl/issues.txt",
+      "bytes": 30088,
+      "sha256_html": "8763fe2411a557082cbc33826f77135bfe51797671e107d579a51592a682bf71",
+      "sha256_text": "a96ec15f0577b02d5aa177a9d25aa2d24da982d75b05456aced09bada7307411"
+    },
+    {
+      "original": "https://loisfrankelforcongress.com/womens-issues/",
+      "timestamp": "20241031035600",
+      "wayback": "https://web.archive.org/web/20241031035600/https://loisfrankelforcongress.com/womens-issues/",
+      "wayback_raw": "https://web.archive.org/web/20241031035600id_/https://loisfrankelforcongress.com/womens-issues/",
+      "file": "archive/2024/frankel-fl/womens-issues.html",
+      "text_file": "archive/2024/frankel-fl/womens-issues.txt",
+      "bytes": 28243,
+      "sha256_html": "a65684811c4fdf938b8819f8249de99a8481a5a6b4259b27791887a1113c6ea6",
+      "sha256_text": "7c5b23791274c7d0adc734081b32cfcfb58c7ec2689d1b91758c7d46c9b5faa9"
+    },
+    {
+      "original": "https://loisfrankelforcongress.com/issues/attachment/___image00020-jpeg/",
+      "timestamp": "20240813111028",
+      "wayback": "https://web.archive.org/web/20240813111028/https://loisfrankelforcongress.com/issues/attachment/___image00020-jpeg/",
+      "wayback_raw": "https://web.archive.org/web/20240813111028id_/https://loisfrankelforcongress.com/issues/attachment/___image00020-jpeg/",
+      "file": "archive/2024/frankel-fl/issues-attachment-image00020-jpeg.html",
+      "text_file": "archive/2024/frankel-fl/issues-attachment-image00020-jpeg.txt",
+      "bytes": 25446,
+      "sha256_html": "5e3aeac3f1ba090c52c1f1530518945559fc394c266ad986da8362b3eafb9c13",
+      "sha256_text": "de8e7cc1624b3ffb48036f93cb9db2b33cb8d53e22685345c8383959e4c86e40"
+    },
+    {
+      "original": "https://loisfrankelforcongress.com/issues/attachment/alligator-588000_1920/",
+      "timestamp": "20240920024349",
+      "wayback": "https://web.archive.org/web/20240920024349/https://loisfrankelforcongress.com/issues/attachment/alligator-588000_1920/",
+      "wayback_raw": "https://web.archive.org/web/20240920024349id_/https://loisfrankelforcongress.com/issues/attachment/alligator-588000_1920/",
+      "file": "archive/2024/frankel-fl/issues-attachment-alligator-588000-1920.html",
+      "text_file": "archive/2024/frankel-fl/issues-attachment-alligator-588000-1920.txt",
+      "bytes": 25331,
+      "sha256_html": "49dd6dbafd0d7f8ea0f19197501a2cc73387b8f56fe9b3fc076d76878736b57b",
+      "sha256_text": "5481f7098205c9fd3054cc4c1c2e853fd9564057d741e7d8759a05d2c80da2d9"
+    },
+    {
+      "original": "https://loisfrankelforcongress.com/issues/attachment/apple-4958609_1920/",
+      "timestamp": "20240920025521",
+      "wayback": "https://web.archive.org/web/20240920025521/https://loisfrankelforcongress.com/issues/attachment/apple-4958609_1920/",
+      "wayback_raw": "https://web.archive.org/web/20240920025521id_/https://loisfrankelforcongress.com/issues/attachment/apple-4958609_1920/",
+      "file": "archive/2024/frankel-fl/issues-attachment-apple-4958609-1920.html",
+      "text_file": "archive/2024/frankel-fl/issues-attachment-apple-4958609-1920.txt",
+      "bytes": 25356,
+      "sha256_html": "5c04faca1baf69e955314e24468e4cf896c5a24df5628648fce639dffac82f01",
+      "sha256_text": "844e03317e5dae968e7f5b628f47643137ace1c03fc80e37da91cec9edd9c0ed"
+    },
+    {
+      "original": "https://loisfrankelforcongress.com/issues/attachment/architect-3979490_1920/",
+      "timestamp": "20241011215803",
+      "wayback": "https://web.archive.org/web/20241011215803/https://loisfrankelforcongress.com/issues/attachment/architect-3979490_1920/",
+      "wayback_raw": "https://web.archive.org/web/20241011215803id_/https://loisfrankelforcongress.com/issues/attachment/architect-3979490_1920/",
+      "file": "archive/2024/frankel-fl/issues-attachment-architect-3979490-1920.html",
+      "text_file": "archive/2024/frankel-fl/issues-attachment-architect-3979490-1920.txt",
+      "bytes": 25349,
+      "sha256_html": "2a9cb08b86843ad0e22feb68a124471741c3aad9a269e3de0ce1c7d0cd9fb65c",
+      "sha256_text": "6e18069a89ccb5be032bedaa76ba48c8fcfac02dd1a7e5e6f4a4522cc942fc3c"
+    },
+    {
+      "original": "https://loisfrankelforcongress.com/issues/attachment/architecture-1837176_1920/",
+      "timestamp": "20240813120723",
+      "wayback": "https://web.archive.org/web/20240813120723/https://loisfrankelforcongress.com/issues/attachment/architecture-1837176_1920/",
+      "wayback_raw": "https://web.archive.org/web/20240813120723id_/https://loisfrankelforcongress.com/issues/attachment/architecture-1837176_1920/",
+      "file": "archive/2024/frankel-fl/issues-attachment-architecture-1837176-1920.html",
+      "text_file": "archive/2024/frankel-fl/issues-attachment-architecture-1837176-1920.txt",
+      "bytes": 25555,
+      "sha256_html": "c68b07da44a4fbefebb6e2dcea35ad69e84eb15259935f136f9d095b11a20020",
+      "sha256_text": "19d37e08c8611fd8a2b767ebc7afa39f1e17e2d967b6bf5263e07ee85fd37d81"
+    },
+    {
+      "original": "https://loisfrankelforcongress.com/issues/attachment/bandage-1235337_1920/",
+      "timestamp": "20240813125043",
+      "wayback": "https://web.archive.org/web/20240813125043/https://loisfrankelforcongress.com/issues/attachment/bandage-1235337_1920/",
+      "wayback_raw": "https://web.archive.org/web/20240813125043id_/https://loisfrankelforcongress.com/issues/attachment/bandage-1235337_1920/",
+      "file": "archive/2024/frankel-fl/issues-attachment-bandage-1235337-1920.html",
+      "text_file": "archive/2024/frankel-fl/issues-attachment-bandage-1235337-1920.txt",
+      "bytes": 25465,
+      "sha256_html": "711593e6101838dac444a065570743ab12a72f2423e7f9850485b6da350b5b16",
+      "sha256_text": "f9a8568f6189f246ba78d33b9a0cead549a7c0c2a35c53d5ee11bda7e0ee1a05"
+    },
+    {
+      "original": "https://loisfrankelforcongress.com/issues/attachment/building-768815_1920/",
+      "timestamp": "20241011204608",
+      "wayback": "https://web.archive.org/web/20241011204608/https://loisfrankelforcongress.com/issues/attachment/building-768815_1920/",
+      "wayback_raw": "https://web.archive.org/web/20241011204608id_/https://loisfrankelforcongress.com/issues/attachment/building-768815_1920/",
+      "file": "archive/2024/frankel-fl/issues-attachment-building-768815-1920.html",
+      "text_file": "archive/2024/frankel-fl/issues-attachment-building-768815-1920.txt",
+      "bytes": 25313,
+      "sha256_html": "7c14a75107c66d807bc88b0465610d9e53e36176b4b790ad96b8028a3178ece3",
+      "sha256_text": "0623637ec3a30bf144d1e009e5f4807f58c1d43f5ccc5bd743c03f958e26dd43"
+    },
+    {
+      "original": "https://loisfrankelforcongress.com/issues/attachment/classroom-2093744_1920/",
+      "timestamp": "20240920034848",
+      "wayback": "https://web.archive.org/web/20240920034848/https://loisfrankelforcongress.com/issues/attachment/classroom-2093744_1920/",
+      "wayback_raw": "https://web.archive.org/web/20240920034848id_/https://loisfrankelforcongress.com/issues/attachment/classroom-2093744_1920/",
+      "file": "archive/2024/frankel-fl/issues-attachment-classroom-2093744-1920.html",
+      "text_file": "archive/2024/frankel-fl/issues-attachment-classroom-2093744-1920.txt",
+      "bytes": 25428,
+      "sha256_html": "f3d7f68daf737826b60ebe6cb58f4d67b25778a883276e3fcf19e9fe22c0bd31",
+      "sha256_text": "55c3f7c7b9fe0b756039993b5bd49f645a55cd757b1c6cb477b13679a4e5a9db"
+    },
+    {
+      "original": "https://loisfrankelforcongress.com/issues/attachment/doctor-2568481_1920/",
+      "timestamp": "20241011215311",
+      "wayback": "https://web.archive.org/web/20241011215311/https://loisfrankelforcongress.com/issues/attachment/doctor-2568481_1920/",
+      "wayback_raw": "https://web.archive.org/web/20241011215311id_/https://loisfrankelforcongress.com/issues/attachment/doctor-2568481_1920/",
+      "file": "archive/2024/frankel-fl/issues-attachment-doctor-2568481-1920.html",
+      "text_file": "archive/2024/frankel-fl/issues-attachment-doctor-2568481-1920.txt",
+      "bytes": 25374,
+      "sha256_html": "aa481e7b36c2d18a3f0703a387080437c8f41e737002f0c0d9685ce1ba400411",
+      "sha256_text": "a11b4f3ea1e5a742f94a6ef43d5879a5cf276382f3280a53adb4864ea7e83803"
+    }
+  ],
+  "snapshots_found": {
+    "loisfrankelforcongress.com": 78
+  },
+  "generated_utc": "2026-11-26T08:41:35Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
