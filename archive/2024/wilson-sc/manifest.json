@@ -1,0 +1,115 @@
+{
+  "name": "Joe Wilson",
+  "domains_tried": [
+    "joemeansjobs.com"
+  ],
+  "pages": [
+    {
+      "original": "http://joemeansjobs.com/",
+      "timestamp": "20241105085123",
+      "wayback": "https://web.archive.org/web/20241105085123/http://joemeansjobs.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105085123id_/http://joemeansjobs.com/",
+      "file": "archive/2024/wilson-sc/home.html",
+      "text_file": "archive/2024/wilson-sc/home.txt",
+      "bytes": 201,
+      "sha256_html": "961b5480858662cd9de748a8b15df9fb5e9f2886cd2af55f2ad2cb0a9bc9e7c0",
+      "sha256_text": "e1abf0da2595105d82399b7323359b06f77db7c41d90bf866381e114d1785eba"
+    },
+    {
+      "original": "https://www.joemeansjobs.com/defund-planned-parenthood/",
+      "timestamp": "20241105073330",
+      "wayback": "https://web.archive.org/web/20241105073330/https://www.joemeansjobs.com/defund-planned-parenthood/",
+      "wayback_raw": "https://web.archive.org/web/20241105073330id_/https://www.joemeansjobs.com/defund-planned-parenthood/",
+      "file": "archive/2024/wilson-sc/defund-planned-parenthood.html",
+      "text_file": "archive/2024/wilson-sc/defund-planned-parenthood.txt",
+      "bytes": 35455,
+      "sha256_html": "e5a2d0466749c075e7941fd51bf2f173ff46e4e9c0ddcda330c8a125668356fc",
+      "sha256_text": "a7940dae2607a4c316dfc41a5ba1b3b835efb2f5061c7a37c2f356278f0d694e"
+    },
+    {
+      "original": "https://www.joemeansjobs.com/obamas-failed-foreign-policy/",
+      "timestamp": "20241105073322",
+      "wayback": "https://web.archive.org/web/20241105073322/https://www.joemeansjobs.com/obamas-failed-foreign-policy/",
+      "wayback_raw": "https://web.archive.org/web/20241105073322id_/https://www.joemeansjobs.com/obamas-failed-foreign-policy/",
+      "file": "archive/2024/wilson-sc/obamas-failed-foreign-policy.html",
+      "text_file": "archive/2024/wilson-sc/obamas-failed-foreign-policy.txt",
+      "bytes": 35062,
+      "sha256_html": "6f8c7fec5f6281ecc03ff75f9f65c872707494bb3bc430cf993933e84008585a",
+      "sha256_text": "7537408c9d30cb0dd90b3b2a39ccb1cc5e30e0df4ca29ebd97b9a15913acdcec"
+    },
+    {
+      "original": "https://www.joemeansjobs.com/stand-up-for-the-2nd-amendment/",
+      "timestamp": "20241105073326",
+      "wayback": "https://web.archive.org/web/20241105073326/https://www.joemeansjobs.com/stand-up-for-the-2nd-amendment/",
+      "wayback_raw": "https://web.archive.org/web/20241105073326id_/https://www.joemeansjobs.com/stand-up-for-the-2nd-amendment/",
+      "file": "archive/2024/wilson-sc/stand-up-for-the-2nd-amendment.html",
+      "text_file": "archive/2024/wilson-sc/stand-up-for-the-2nd-amendment.txt",
+      "bytes": 35068,
+      "sha256_html": "633570558fdfab675dd1ee3206a4ce72497a6cab6e2d1c4dcb7d629de8e61b53",
+      "sha256_text": "3fea26760437329a93a571043fd514fb1bf43ddf684b918b891ee8e71b7f9a06"
+    },
+    {
+      "original": "https://www.joemeansjobs.com/stand-with-israel/",
+      "timestamp": "20241105073328",
+      "wayback": "https://web.archive.org/web/20241105073328/https://www.joemeansjobs.com/stand-with-israel/",
+      "wayback_raw": "https://web.archive.org/web/20241105073328id_/https://www.joemeansjobs.com/stand-with-israel/",
+      "file": "archive/2024/wilson-sc/stand-with-israel.html",
+      "text_file": "archive/2024/wilson-sc/stand-with-israel.txt",
+      "bytes": 34513,
+      "sha256_html": "3c22174bc1d1a69770ddc40d67b753c22956eb0d7379360cdf7124e51a2de07d",
+      "sha256_text": "1944f906862e2428584559d545252a26db0b7c6e68ecb51fe34a5c432dcdd303"
+    },
+    {
+      "original": "https://www.joemeansjobs.com/stand-with-veterans/",
+      "timestamp": "20241105073317",
+      "wayback": "https://web.archive.org/web/20241105073317/https://www.joemeansjobs.com/stand-with-veterans/",
+      "wayback_raw": "https://web.archive.org/web/20241105073317id_/https://www.joemeansjobs.com/stand-with-veterans/",
+      "file": "archive/2024/wilson-sc/stand-with-veterans.html",
+      "text_file": "archive/2024/wilson-sc/stand-with-veterans.txt",
+      "bytes": 34571,
+      "sha256_html": "1d71888790e0ea159bcc18c0163131f93640c04d24c519f4d9a13b9f003765fe",
+      "sha256_text": "af4496838b2173caec59dab57cab8bf1b0bafad9166c7e8246e7a6fc19905674"
+    },
+    {
+      "original": "https://www.joemeansjobs.com/standing-iran-israel/",
+      "timestamp": "20241105073321",
+      "wayback": "https://web.archive.org/web/20241105073321/https://www.joemeansjobs.com/standing-iran-israel/",
+      "wayback_raw": "https://web.archive.org/web/20241105073321id_/https://www.joemeansjobs.com/standing-iran-israel/",
+      "file": "archive/2024/wilson-sc/standing-iran-israel.html",
+      "text_file": "archive/2024/wilson-sc/standing-iran-israel.txt",
+      "bytes": 36715,
+      "sha256_html": "03fdedfcdbfc6b8016c1799a9f0a1ef4025a821d18a4e1e1801f6cb077cc042a",
+      "sha256_text": "8a44bfb092c9470abc4177305c7eba688bf98c3a203ee5c44346f974b35126a9"
+    },
+    {
+      "original": "https://www.joemeansjobs.com/tell-obama-we-stand-with-israel/",
+      "timestamp": "20241105073329",
+      "wayback": "https://web.archive.org/web/20241105073329/https://www.joemeansjobs.com/tell-obama-we-stand-with-israel/",
+      "wayback_raw": "https://web.archive.org/web/20241105073329id_/https://www.joemeansjobs.com/tell-obama-we-stand-with-israel/",
+      "file": "archive/2024/wilson-sc/tell-obama-we-stand-with-israel.html",
+      "text_file": "archive/2024/wilson-sc/tell-obama-we-stand-with-israel.txt",
+      "bytes": 35973,
+      "sha256_html": "8405061b3667eca401e77abdd09eed88e2d31c37568e59e33f9a432c9a454d30",
+      "sha256_text": "ff784fe1548b43ea85eb3a8bed8949990b99dc12783a3f4b7081129fa8ab44b6"
+    },
+    {
+      "original": "https://www.joemeansjobs.com/time-to-defund-planned-parenthood/",
+      "timestamp": "20241105073330",
+      "wayback": "https://web.archive.org/web/20241105073330/https://www.joemeansjobs.com/time-to-defund-planned-parenthood/",
+      "wayback_raw": "https://web.archive.org/web/20241105073330id_/https://www.joemeansjobs.com/time-to-defund-planned-parenthood/",
+      "file": "archive/2024/wilson-sc/time-to-defund-planned-parenthood.html",
+      "text_file": "archive/2024/wilson-sc/time-to-defund-planned-parenthood.txt",
+      "bytes": 35617,
+      "sha256_html": "7ab121fc123bce9f87b082ab085e28e11018e80b41a8f5e2094dc0a6e7f9b665",
+      "sha256_text": "601e450dc276a85336ace4bad4432605210007ac8d6e21139156679b61e1e1dc"
+    }
+  ],
+  "snapshots_found": {
+    "joemeansjobs.com": 73
+  },
+  "generated_utc": "2026-11-26T08:35:26Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
