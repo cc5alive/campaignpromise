@@ -1,0 +1,50 @@
+{
+ "committees": {
+  "C00409581": {
+   "name": "FRIENDS OF JOHN THUNE",
+   "website": "WWW.JOHNTHUNE.COM",
+   "error": null
+  },
+  "C00450049": {
+   "name": "PAUL TONKO FOR CONGRESS",
+   "website": "HTTP://WWW.PAULTONKO.COM",
+   "error": null
+  },
+  "C00573758": {
+   "name": "VAN HOLLEN FOR SENATE",
+   "website": "WWW.VANHOLLEN.ORG",
+   "error": null
+  },
+  "C00271312": {
+   "name": "COMMITTEE TO RE-ELECT NYDIA M VELAZQUEZ TO CONGRESS",
+   "website": "HTTPS://WWW.REELECTNYDIAVELAZQUEZ.COM/",
+   "error": null
+  },
+  "C00390724": {
+   "name": "WALBERG FOR CONGRESS",
+   "website": "WWW.WALBERGFORCONGRESS.COM",
+   "error": null
+  },
+  "C00167585": {
+   "name": "CITIZENS FOR WATERS",
+   "website": "MAXINEWATERSFORCONGRESS.COM",
+   "error": null
+  },
+  "C00481911": {
+   "name": "DANIEL WEBSTER FOR CONGRESS",
+   "website": "WWW.ELECTWEBSTER.COM",
+   "error": null
+  },
+  "C00795252": {
+   "name": "WELCH FOR VERMONT",
+   "website": "HTTPS://WELCHFORVERMONT.COM/",
+   "error": null
+  },
+  "C00368522": {
+   "name": "JOE WILSON FOR CONGRESS",
+   "website": "JOEMEANSJOBS.COM",
+   "error": null
+  }
+ },
+ "searches": {}
+}
