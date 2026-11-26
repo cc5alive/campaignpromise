@@ -1,0 +1,27 @@
+{
+  "name": "Joaquin Castro",
+  "domains_tried": [
+    "castroforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://castroforcongress.com/",
+      "timestamp": "20241105211029",
+      "wayback": "https://web.archive.org/web/20241105211029/https://castroforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105211029id_/https://castroforcongress.com/",
+      "file": "archive/2024/castro-tx/home.html",
+      "text_file": "archive/2024/castro-tx/home.txt",
+      "bytes": 28375,
+      "sha256_html": "cd74b15c6257b0806d64415756f45d003499749b09595e296235ac929599eb83",
+      "sha256_text": "c950648241f6eeb1efcf6ba57ca9392e21ae7aa81271cc82d35577653609cf20"
+    }
+  ],
+  "snapshots_found": {
+    "castroforcongress.com": 17
+  },
+  "generated_utc": "2026-11-26T08:44:18Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
