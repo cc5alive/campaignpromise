@@ -1,0 +1,115 @@
+{
+  "name": "Zoe Lofgren",
+  "domains_tried": [
+    "zoelofgren.com"
+  ],
+  "pages": [
+    {
+      "original": "https://zoelofgren.com/",
+      "timestamp": "20241105125229",
+      "wayback": "https://web.archive.org/web/20241105125229/https://zoelofgren.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105125229id_/https://zoelofgren.com/",
+      "file": "archive/2024/lofgren-ca/home.html",
+      "text_file": "archive/2024/lofgren-ca/home.txt",
+      "bytes": 192118,
+      "sha256_html": "a4dbe2658b37f2e055f69a5e11a2d53b8b69089622e9f824a00901a5da2b1cf6",
+      "sha256_text": "e87d2a959a136789f17e3f9fb7ec161ca282ce84101b23a5dadf7b6d8b0e52f3"
+    },
+    {
+      "original": "https://zoelofgren.com/issues/",
+      "timestamp": "20241105125215",
+      "wayback": "https://web.archive.org/web/20241105125215/https://zoelofgren.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105125215id_/https://zoelofgren.com/issues/",
+      "file": "archive/2024/lofgren-ca/issues.html",
+      "text_file": "archive/2024/lofgren-ca/issues.txt",
+      "bytes": 172687,
+      "sha256_html": "bffec28e0631e6ec293e88c3165a2c024214ca380f790d6dbebf5407d26537a2",
+      "sha256_text": "cf4380e5dac1fd644098968d34b99ff568be4c33546a05aa31ff486efe14d3d6"
+    },
+    {
+      "original": "https://zoelofgren.com/stand-with-zoe-lofgren/",
+      "timestamp": "20241105125942",
+      "wayback": "https://web.archive.org/web/20241105125942/https://zoelofgren.com/stand-with-zoe-lofgren/",
+      "wayback_raw": "https://web.archive.org/web/20241105125942id_/https://zoelofgren.com/stand-with-zoe-lofgren/",
+      "file": "archive/2024/lofgren-ca/stand-with-zoe-lofgren.html",
+      "text_file": "archive/2024/lofgren-ca/stand-with-zoe-lofgren.txt",
+      "bytes": 171698,
+      "sha256_html": "268921c0395e73b567041c804210f0ff37336d66396724db34a3b2730a947605",
+      "sha256_text": "7b63cc6ec21bfaded322ea3d2dafca783b93392bc720840e93702f0ea2e0816b"
+    },
+    {
+      "original": "https://zoelofgren.com/issues/attachment/5027/",
+      "timestamp": "20241105125913",
+      "wayback": "https://web.archive.org/web/20241105125913/https://zoelofgren.com/issues/attachment/5027/",
+      "wayback_raw": "https://web.archive.org/web/20241105125913id_/https://zoelofgren.com/issues/attachment/5027/",
+      "file": "archive/2024/lofgren-ca/issues-attachment-5027.html",
+      "text_file": "archive/2024/lofgren-ca/issues-attachment-5027.txt",
+      "bytes": 169623,
+      "sha256_html": "afc0e5a34ee4376522aedec0faef856b3959eca74ab68c2271e91dbec7a924db",
+      "sha256_text": "b14c0b4a9136083afe532abf5309f1e8d08ec59a11a0154f10c3b8c78d56a955"
+    },
+    {
+      "original": "https://zoelofgren.com/issues/attachment/___shutterstock_1057468082-jpg/",
+      "timestamp": "20241105125938",
+      "wayback": "https://web.archive.org/web/20241105125938/https://zoelofgren.com/issues/attachment/___shutterstock_1057468082-jpg/",
+      "wayback_raw": "https://web.archive.org/web/20241105125938id_/https://zoelofgren.com/issues/attachment/___shutterstock_1057468082-jpg/",
+      "file": "archive/2024/lofgren-ca/issues-attachment-shutterstock-1057468082-jpg.html",
+      "text_file": "archive/2024/lofgren-ca/issues-attachment-shutterstock-1057468082-jpg.txt",
+      "bytes": 169898,
+      "sha256_html": "d42adbc7474629475c1c6d092909f42ade175c501185fc88efa27c5262ce2775",
+      "sha256_text": "97887c73a6e44149d47836ab75d75d5e1278f6be2a6e51836465edd78fb73f75"
+    },
+    {
+      "original": "https://zoelofgren.com/issues/attachment/___taramechanistatue04-16-18-jpg/",
+      "timestamp": "20241105125904",
+      "wayback": "https://web.archive.org/web/20241105125904/https://zoelofgren.com/issues/attachment/___taramechanistatue04-16-18-jpg/",
+      "wayback_raw": "https://web.archive.org/web/20241105125904id_/https://zoelofgren.com/issues/attachment/___taramechanistatue04-16-18-jpg/",
+      "file": "archive/2024/lofgren-ca/issues-attachment-taramechanistatue04-16-18-jpg.html",
+      "text_file": "archive/2024/lofgren-ca/issues-attachment-taramechanistatue04-16-18-jpg.txt",
+      "bytes": 169924,
+      "sha256_html": "39d09ef45117a160a49ec2317056d0328f1e37bfb993a62b97f1d324e5430e30",
+      "sha256_text": "c51424f857e06bbb74160e12b63e9b1ea4d8bbfdc748226b290f8e9ba5f53914"
+    },
+    {
+      "original": "https://zoelofgren.com/issues/attachment/___zoebiophoto10-jpg/",
+      "timestamp": "20241105125911",
+      "wayback": "https://web.archive.org/web/20241105125911/https://zoelofgren.com/issues/attachment/___zoebiophoto10-jpg/",
+      "wayback_raw": "https://web.archive.org/web/20241105125911id_/https://zoelofgren.com/issues/attachment/___zoebiophoto10-jpg/",
+      "file": "archive/2024/lofgren-ca/issues-attachment-zoebiophoto10-jpg.html",
+      "text_file": "archive/2024/lofgren-ca/issues-attachment-zoebiophoto10-jpg.txt",
+      "bytes": 169887,
+      "sha256_html": "bff10c0d98022b6b1e094edb9d6bd4e96d76bfdec197a05df1869130fd20cd51",
+      "sha256_text": "0a39534f7d48cf24a4cf52ab5398efb7e99868063da4a4da70d5ed0c9e2319d0"
+    },
+    {
+      "original": "https://zoelofgren.com/issues/attachment/___zoeimage5-jpg/",
+      "timestamp": "20241105125913",
+      "wayback": "https://web.archive.org/web/20241105125913/https://zoelofgren.com/issues/attachment/___zoeimage5-jpg/",
+      "wayback_raw": "https://web.archive.org/web/20241105125913id_/https://zoelofgren.com/issues/attachment/___zoeimage5-jpg/",
+      "file": "archive/2024/lofgren-ca/issues-attachment-zoeimage5-jpg.html",
+      "text_file": "archive/2024/lofgren-ca/issues-attachment-zoeimage5-jpg.txt",
+      "bytes": 169716,
+      "sha256_html": "7e9a2aecf81b6a895a8c801dffca5033fb977d2fab52a509a1eab0899772c950",
+      "sha256_text": "a932a09f40ee1c2bbd8ff50e2934a0fc3fb6893d66bae745001f1f11238d4aca"
+    },
+    {
+      "original": "https://zoelofgren.com/issues/attachment/img-1655-2/",
+      "timestamp": "20241105125935",
+      "wayback": "https://web.archive.org/web/20241105125935/https://zoelofgren.com/issues/attachment/img-1655-2/",
+      "wayback_raw": "https://web.archive.org/web/20241105125935id_/https://zoelofgren.com/issues/attachment/img-1655-2/",
+      "file": "archive/2024/lofgren-ca/issues-attachment-img-1655-2.html",
+      "text_file": "archive/2024/lofgren-ca/issues-attachment-img-1655-2.txt",
+      "bytes": 169571,
+      "sha256_html": "8c281385218cc969ac6ebd4eff475c5422b5a7d69e08d2c523c6f0dfcace61ca",
+      "sha256_text": "0ce32d1961fd5e51bff23208654fba4f169713d6e7598a42d0ebaaa514c427fb"
+    }
+  ],
+  "snapshots_found": {
+    "zoelofgren.com": 63
+  },
+  "generated_utc": "2026-11-26T09:03:13Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
