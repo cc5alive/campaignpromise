@@ -22,7 +22,8 @@ jobs:
       - name: Assemble site
         run: |
           mkdir -p _site
-          cp site/index.html _site/index.html
+          cp site/index.html site/robots.txt site/sitemap.xml _site/
+          cp -r site/assets _site/assets
           echo "campaignpromise.org" > _site/CNAME
           touch _site/.nojekyll
       - uses: actions/configure-pages@v5
