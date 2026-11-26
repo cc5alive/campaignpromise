@@ -1,0 +1,38 @@
+{
+  "name": "Sylvia R. Garcia",
+  "domains_tried": [
+    "sylviaforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.sylviaforcongress.com/",
+      "timestamp": "20241105154552",
+      "wayback": "https://web.archive.org/web/20241105154552/https://www.sylviaforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105154552id_/https://www.sylviaforcongress.com/",
+      "file": "archive/2024/garcia-tx/home.html",
+      "text_file": "archive/2024/garcia-tx/home.txt",
+      "bytes": 717730,
+      "sha256_html": "20fe552edb526d9acb36039052acd78a19c4a7c82ec32a2125e87b03bcb9b48e",
+      "sha256_text": "22f403b02637cff978b51623fdc8fe01da9a37561ecb2d9da0637749a9229698"
+    },
+    {
+      "original": "https://www.sylviaforcongress.com/issues",
+      "timestamp": "20241105154648",
+      "wayback": "https://web.archive.org/web/20241105154648/https://www.sylviaforcongress.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105154648id_/https://www.sylviaforcongress.com/issues",
+      "file": "archive/2024/garcia-tx/issues.html",
+      "text_file": "archive/2024/garcia-tx/issues.txt",
+      "bytes": 645280,
+      "sha256_html": "761c419685483fa77ac54f02825aab05a1c6f943c3d056b2fa9e56ecc7daa506",
+      "sha256_text": "0e6e2468476a22bb0f7ab7ab22402f074ee2173c8e73419825fa2c66d5b2fae1"
+    }
+  ],
+  "snapshots_found": {
+    "sylviaforcongress.com": 8
+  },
+  "generated_utc": "2026-11-26T08:12:52Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
