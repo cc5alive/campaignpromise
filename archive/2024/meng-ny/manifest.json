@@ -1,0 +1,38 @@
+{
+  "name": "Grace Meng",
+  "domains_tried": [
+    "gracefornewyork.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.gracefornewyork.com/",
+      "timestamp": "20241105172245",
+      "wayback": "https://web.archive.org/web/20241105172245/https://www.gracefornewyork.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105172245id_/https://www.gracefornewyork.com/",
+      "file": "archive/2024/meng-ny/home.html",
+      "text_file": "archive/2024/meng-ny/home.txt",
+      "bytes": 183294,
+      "sha256_html": "01f302c419ca99882b48de1bfa54f97fc54916e61e9114e5bf2488281e163956",
+      "sha256_text": "fc5790db542742e1959bb1173c2b4cf4f60edd3664bcceae6938c5b1406adf73"
+    },
+    {
+      "original": "https://www.gracefornewyork.com/issues",
+      "timestamp": "20241105172306",
+      "wayback": "https://web.archive.org/web/20241105172306/https://www.gracefornewyork.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105172306id_/https://www.gracefornewyork.com/issues",
+      "file": "archive/2024/meng-ny/issues.html",
+      "text_file": "archive/2024/meng-ny/issues.txt",
+      "bytes": 207975,
+      "sha256_html": "91da40d4563c2a66709ef7a3767c37ba03b97f8e7b1cba089cea4b4ebfcc29d2",
+      "sha256_text": "6bd949c8480bf7ffa60378ce000f8184a3b406074d8efe80466ba3201d4b080c"
+    }
+  ],
+  "snapshots_found": {
+    "gracefornewyork.com": 6
+  },
+  "generated_utc": "2026-11-26T08:44:17Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
