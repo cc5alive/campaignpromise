@@ -1,0 +1,27 @@
+{
+  "name": "Gary J. Palmer",
+  "domains_tried": [
+    "palmerforalabama.com"
+  ],
+  "pages": [
+    {
+      "original": "https://palmerforalabama.com/",
+      "timestamp": "20241104224346",
+      "wayback": "https://web.archive.org/web/20241104224346/https://palmerforalabama.com/",
+      "wayback_raw": "https://web.archive.org/web/20241104224346id_/https://palmerforalabama.com/",
+      "file": "archive/2024/palmer-al/home.html",
+      "text_file": "archive/2024/palmer-al/home.txt",
+      "bytes": 104429,
+      "sha256_html": "a448a506417dd3e84a1afe3d820e280775d0ba18483a153f5b27ded296c8ac16",
+      "sha256_text": "1780b73cea0d0a22bdb691575106b7a0b7476119beb0390309ae80c934638747"
+    }
+  ],
+  "snapshots_found": {
+    "palmerforalabama.com": 29
+  },
+  "generated_utc": "2026-11-26T08:49:30Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}

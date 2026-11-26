@@ -1,0 +1,36 @@
+Palmer for Congress | Gary Palmer for Congress
+Donate
+The Founding Fathers created a limited government, because they believed as Thomas Jefferson stated “a government big enough to give you everything you want, is a government big enough to take away everything you have.” I ran for Congress with the goal of limiting, not expanding government. This is the kind of leadership the American people and those of Alabama’s Sixth Congressional District have demanded. They understand that just because Congress can act does not mean that it should, especially when that action generally leads to our country towards a stagnate economy, government intrusion and higher taxes. I have resisted the call to simply pass legislation.
+Instead, I am focused on legislation designed to shrink, not grow government. Since 2014, I have, among other things, offered legislation that led to the delay of regulations that would have crippled small and rural healthcare providers, offered legislation to reign in wasteful agency spending, provided more oversight to the Congress, offered legislation to reign in improper regulations, including those by the EPA, developed a policy rider that lead to the elimination of the ban on exporting crude oil, and presented ideas on how to reduce spending. These are the types of ideas that resonate with the American people, and I am honored to serve another term to see more of them implemented.
+It’s Time to Change Direction
+Our nation desperately needs leaders who are willing to stand up and make the tough choices. I’m serving for Congress because I believe there’s still time to right our course.
+Replacing Obamacare
+The problem with Obamacare is not the website or the rollout. The problem with Obamacare is what it’s trying to impose upon the American people.
+Our National Debt
+Like so many other addiction issues, the first step for Congress to take in fixing the debt problem is to admit that they have a spending problem.
+SUPPORT PALMER FOR CONGRESS
+Your generous donation will help us spread our campaign’s message.
+DONATE
+Issues
+National Debt
+Health Care
+Right To Life
+Tax Reform
+Second Amendment
+Economic Growth
+Religious Freedom
+Energy & Environment
+Veterans
+Defense
+Budget
+Immigration
+Notice
+: ob_end_flush(): failed to send buffer of zlib output compression (1) in
+/home/palmerforalabama/public_html/wp-includes/functions.php
+on line
+5373
+Notice
+: ob_end_flush(): failed to send buffer of zlib output compression (1) in
+/home/palmerforalabama/public_html/wp-includes/functions.php
+on line
+5373
