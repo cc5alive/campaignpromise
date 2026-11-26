@@ -1,0 +1,137 @@
+{
+  "name": "Ted Budd",
+  "domains_tried": [
+    "tedbudd.com"
+  ],
+  "pages": [
+    {
+      "original": "https://tedbudd.com/",
+      "timestamp": "20241105094117",
+      "wayback": "https://web.archive.org/web/20241105094117/https://tedbudd.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105094117id_/https://tedbudd.com/",
+      "file": "archive/2024/budd-nc/home.html",
+      "text_file": "archive/2024/budd-nc/home.txt",
+      "bytes": 40127,
+      "sha256_html": "3a88ca7af4470f60ac512401243c6a8476e088a091cbfb5f7e091e956f9e555d",
+      "sha256_text": "dbfb43d389190ac77adcdec36e7dfa5c938fc032e92dd824acda346bcb6b47f7"
+    },
+    {
+      "original": "https://tedbudd.com/issues/",
+      "timestamp": "20241009031420",
+      "wayback": "https://web.archive.org/web/20241009031420/https://tedbudd.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241009031420id_/https://tedbudd.com/issues/",
+      "file": "archive/2024/budd-nc/issues.html",
+      "text_file": "archive/2024/budd-nc/issues.txt",
+      "bytes": 26341,
+      "sha256_html": "3f5703d103440d7da53fa4996dd2d5f4976b754dbf9904cec129c60b5d018607",
+      "sha256_text": "71703772fbba11b230532cc0e6fe73a949fbdb347a2025e79bb93257aa5ad310"
+    },
+    {
+      "original": "https://tedbudd.com/ted-budd-keeps-the-foot-on-the-gas-taking-the-biden-agenda-crusher-into-the-final-turn-of-the-primary/",
+      "timestamp": "20240805152947",
+      "wayback": "https://web.archive.org/web/20240805152947/https://tedbudd.com/ted-budd-keeps-the-foot-on-the-gas-taking-the-biden-agenda-crusher-into-the-final-turn-of-the-primary/",
+      "wayback_raw": "https://web.archive.org/web/20240805152947id_/https://tedbudd.com/ted-budd-keeps-the-foot-on-the-gas-taking-the-biden-agenda-crusher-into-the-final-turn-of-the-primary/",
+      "file": "archive/2024/budd-nc/ted-budd-keeps-the-foot-on-the-gas-taking-the-biden-agenda-crusher-into-the-final-turn-of-the-primary.html",
+      "text_file": "archive/2024/budd-nc/ted-budd-keeps-the-foot-on-the-gas-taking-the-biden-agenda-crusher-into-the-final-turn-of-the-primary.txt",
+      "bytes": 23918,
+      "sha256_html": "500f6d4661276f1dfee2c10b4f8beee7d0f0a0bf095145a38aebba35a7a8882c",
+      "sha256_text": "c42c15536992594fbb937430786bdd088979cfe0e016bd22a3bdbb639becbe20"
+    },
+    {
+      "original": "https://tedbudd.com/issues/border-security/",
+      "timestamp": "20241009043457",
+      "wayback": "https://web.archive.org/web/20241009043457/https://tedbudd.com/issues/border-security/",
+      "wayback_raw": "https://web.archive.org/web/20241009043457id_/https://tedbudd.com/issues/border-security/",
+      "file": "archive/2024/budd-nc/issues-border-security.html",
+      "text_file": "archive/2024/budd-nc/issues-border-security.txt",
+      "bytes": 20710,
+      "sha256_html": "71045aab0555edac1829e8470f8d378963d0fa75393418109d8c4133402e2f90",
+      "sha256_text": "97aa172cdf973715896091df01933c934d9a9334587e683cb5f1be30e2e8ab6a"
+    },
+    {
+      "original": "https://tedbudd.com/issues/creating-jobs/",
+      "timestamp": "20240805163452",
+      "wayback": "https://web.archive.org/web/20240805163452/https://tedbudd.com/issues/creating-jobs/",
+      "wayback_raw": "https://web.archive.org/web/20240805163452id_/https://tedbudd.com/issues/creating-jobs/",
+      "file": "archive/2024/budd-nc/issues-creating-jobs.html",
+      "text_file": "archive/2024/budd-nc/issues-creating-jobs.txt",
+      "bytes": 20817,
+      "sha256_html": "9ebebfd0035f580f3b97dcf383776748f649b7ea6dd27ccfca9f04a36b426f35",
+      "sha256_text": "cdf4d1fff7bc31d7a94179c8801e687231dc6bf05f340cbb68062f5c63037203"
+    },
+    {
+      "original": "https://tedbudd.com/issues/election-security/",
+      "timestamp": "20241027183343",
+      "wayback": "https://web.archive.org/web/20241027183343/https://tedbudd.com/issues/election-security/",
+      "wayback_raw": "https://web.archive.org/web/20241027183343id_/https://tedbudd.com/issues/election-security/",
+      "file": "archive/2024/budd-nc/issues-election-security.html",
+      "text_file": "archive/2024/budd-nc/issues-election-security.txt",
+      "bytes": 20111,
+      "sha256_html": "4975d401a1b2e8888ff7425f24550a5869ce90af8c963c94d49ab643f5647d65",
+      "sha256_text": "cd581c46c6197f7a60c2b8cdb0f1da974336368d4a0602f7d8c07cb11e663f35"
+    },
+    {
+      "original": "https://tedbudd.com/issues/halting-big-tech-corruption/",
+      "timestamp": "20241009041656",
+      "wayback": "https://web.archive.org/web/20241009041656/https://tedbudd.com/issues/halting-big-tech-corruption/",
+      "wayback_raw": "https://web.archive.org/web/20241009041656id_/https://tedbudd.com/issues/halting-big-tech-corruption/",
+      "file": "archive/2024/budd-nc/issues-halting-big-tech-corruption.html",
+      "text_file": "archive/2024/budd-nc/issues-halting-big-tech-corruption.txt",
+      "bytes": 19837,
+      "sha256_html": "00d7d4189d262a29be6dc7c7549c3a945c7a1eb8aae08328a03ed9acec2a2fe1",
+      "sha256_text": "5205501f1571a07f979f021f5d93785883b2531ea0e249f72627d6af098b1168"
+    },
+    {
+      "original": "https://tedbudd.com/issues/less-taxes-and-government-regulations/",
+      "timestamp": "20240913002923",
+      "wayback": "https://web.archive.org/web/20240913002923/https://tedbudd.com/issues/less-taxes-and-government-regulations/",
+      "wayback_raw": "https://web.archive.org/web/20240913002923id_/https://tedbudd.com/issues/less-taxes-and-government-regulations/",
+      "file": "archive/2024/budd-nc/issues-less-taxes-and-government-regulations.html",
+      "text_file": "archive/2024/budd-nc/issues-less-taxes-and-government-regulations.txt",
+      "bytes": 20567,
+      "sha256_html": "6f8361cc81dec22055dff9062378d5bbdc1dd6c28fa802a867e41c9b63e2ffaa",
+      "sha256_text": "031ec90e3ccb598c61833506069382b3c853a2b07955c575d8dce437668f4e20"
+    },
+    {
+      "original": "https://tedbudd.com/issues/pro-second-amendment/",
+      "timestamp": "20241027183349",
+      "wayback": "https://web.archive.org/web/20241027183349/https://tedbudd.com/issues/pro-second-amendment/",
+      "wayback_raw": "https://web.archive.org/web/20241027183349id_/https://tedbudd.com/issues/pro-second-amendment/",
+      "file": "archive/2024/budd-nc/issues-pro-second-amendment.html",
+      "text_file": "archive/2024/budd-nc/issues-pro-second-amendment.txt",
+      "bytes": 20079,
+      "sha256_html": "5f77659dad51ada482f9561c9a50aff859c1b58e3c00703b521eb5f6ad46c843",
+      "sha256_text": "7f03d0a9b675b79a3da63a1e8b4f02ab8192f07337be5c418a9d2866d073ff91"
+    },
+    {
+      "original": "https://tedbudd.com/issues/protecting-our-law-enforcement/",
+      "timestamp": "20241027183402",
+      "wayback": "https://web.archive.org/web/20241027183402/https://tedbudd.com/issues/protecting-our-law-enforcement/",
+      "wayback_raw": "https://web.archive.org/web/20241027183402id_/https://tedbudd.com/issues/protecting-our-law-enforcement/",
+      "file": "archive/2024/budd-nc/issues-protecting-our-law-enforcement.html",
+      "text_file": "archive/2024/budd-nc/issues-protecting-our-law-enforcement.txt",
+      "bytes": 20274,
+      "sha256_html": "b0940472493a6642d3f90100244c503c10d3fc16c7d1e98863fd83839fc3b794",
+      "sha256_text": "eaa546a0f47fc8a54418b21b45446c684cce0702a4c092bf159abf5891e2b4e9"
+    },
+    {
+      "original": "https://tedbudd.com/issues/stopping-socialist-policies/",
+      "timestamp": "20241009033730",
+      "wayback": "https://web.archive.org/web/20241009033730/https://tedbudd.com/issues/stopping-socialist-policies/",
+      "wayback_raw": "https://web.archive.org/web/20241009033730id_/https://tedbudd.com/issues/stopping-socialist-policies/",
+      "file": "archive/2024/budd-nc/issues-stopping-socialist-policies.html",
+      "text_file": "archive/2024/budd-nc/issues-stopping-socialist-policies.txt",
+      "bytes": 20487,
+      "sha256_html": "09adcce27e8d5db1fcfe853092ba9445ed9c3bcca5a6816869c40f6fe528d571",
+      "sha256_text": "ee4a1e90f2da442870b192035b5cf6ec47bab233de299d41929c25b62b626134"
+    }
+  ],
+  "snapshots_found": {
+    "tedbudd.com": 36
+  },
+  "generated_utc": "2026-11-26T07:54:26Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
