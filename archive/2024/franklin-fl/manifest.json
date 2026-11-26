@@ -1,0 +1,38 @@
+{
+  "name": "Scott Franklin",
+  "domains_tried": [
+    "votescottfranklin.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.votescottfranklin.com/",
+      "timestamp": "20241105211012",
+      "wayback": "https://web.archive.org/web/20241105211012/https://www.votescottfranklin.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105211012id_/https://www.votescottfranklin.com/",
+      "file": "archive/2024/franklin-fl/home.html",
+      "text_file": "archive/2024/franklin-fl/home.txt",
+      "bytes": 165421,
+      "sha256_html": "be622a66b93c4cd9f20eb7f214d93d85e143af693974e6faec0e1cb3b0e93fa8",
+      "sha256_text": "c591ac43a5a855f9e42b083bd1dc53ef4faec1c0225444d1549e8b59c8968eea"
+    },
+    {
+      "original": "https://www.votescottfranklin.com/about",
+      "timestamp": "20241105210807",
+      "wayback": "https://web.archive.org/web/20241105210807/https://www.votescottfranklin.com/about",
+      "wayback_raw": "https://web.archive.org/web/20241105210807id_/https://www.votescottfranklin.com/about",
+      "file": "archive/2024/franklin-fl/about.html",
+      "text_file": "archive/2024/franklin-fl/about.txt",
+      "bytes": 132295,
+      "sha256_html": "a963799cc5312e87a3a3bfea68227a1362868b3f8f987f4e0a61f8da7bcf7b85",
+      "sha256_text": "5fcc2c2f2ca74c038ba24c42ee1f27cb403f3e804c75f52320709c573684745e"
+    }
+  ],
+  "snapshots_found": {
+    "votescottfranklin.com": 6
+  },
+  "generated_utc": "2026-11-26T08:28:18Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
