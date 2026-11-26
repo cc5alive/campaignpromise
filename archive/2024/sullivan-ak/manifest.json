@@ -1,0 +1,27 @@
+{
+  "name": "Dan Sullivan",
+  "domains_tried": [
+    "dansullivanforalaska.com"
+  ],
+  "pages": [
+    {
+      "original": "https://dansullivanforalaska.com/",
+      "timestamp": "20241105071050",
+      "wayback": "https://web.archive.org/web/20241105071050/https://dansullivanforalaska.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105071050id_/https://dansullivanforalaska.com/",
+      "file": "archive/2024/sullivan-ak/home.html",
+      "text_file": "archive/2024/sullivan-ak/home.txt",
+      "bytes": 83660,
+      "sha256_html": "2eb22b8d216b8db3c456fa09f77fbc7dfb53a876d9af06db42c0641d747e6b92",
+      "sha256_text": "27fe75ad80eda4bb2dd4e51c4d030ddd8f3a1041090bbb4a45d4ae10ae727d7a"
+    }
+  ],
+  "snapshots_found": {
+    "dansullivanforalaska.com": 14
+  },
+  "generated_utc": "2026-11-26T07:25:04Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
