@@ -6592,6 +6592,176 @@
 {
 "chamber": "Senate",
 "session": 2,
+"number": 279,
+"date": "20-Nov",
+"bill": "PN1272-10",
+"question": "On the Cloture Motion\n         ",
+"result": "Agreed to",
+"title": "Motion to Invoke Cloture: Jesus A. Osete to be U.S. District Judge for the Western District of Missouri"
+},
+{
+"chamber": "Senate",
+"session": 2,
+"number": 278,
+"date": "20-Nov",
+"bill": "PN1272-8",
+"question": "On the Cloture Motion\n         ",
+"result": "Agreed to",
+"title": "Motion to Invoke Cloture: Peter M. Mansfield to be U.S. District Judge for the Eastern District of Louisiana"
+},
+{
+"chamber": "Senate",
+"session": 2,
+"number": 277,
+"date": "20-Nov",
+"bill": "PN1272-7",
+"question": "On the Cloture Motion\n         ",
+"result": "Agreed to",
+"title": "Motion to Invoke Cloture: Robert E. Long, Jr., to be U.S. District Judge for the Middle District of Florida"
+},
+{
+"chamber": "Senate",
+"session": 2,
+"number": 276,
+"date": "20-Nov",
+"bill": "PN1272-3",
+"question": "On the Cloture Motion\n         ",
+"result": "Agreed to",
+"title": "Motion to Invoke Cloture: Daniel Lewis Ballou to be U.S. District Judge for the Eastern District of Kentucky"
+},
+{
+"chamber": "Senate",
+"session": 2,
+"number": 275,
+"date": "20-Nov",
+"bill": "PN1272-13",
+"question": "On the Cloture Motion\n         ",
+"result": "Agreed to",
+"title": "Motion to Invoke Cloture: Kyle Frederick Reardon to be U.S. District Judge for the District of Alaska"
+},
+{
+"chamber": "Senate",
+"session": 2,
+"number": 274,
+"date": "20-Nov",
+"bill": "PN1272-5",
+"question": "On the Nomination\n         ",
+"result": "Confirmed",
+"title": "Confirmation: Courtney Leigh Coker, of T.X., to be U.S. District Judge for the Northern District of Texas"
+},
+{
+"chamber": "Senate",
+"session": 2,
+"number": 273,
+"date": "20-Nov",
+"bill": "PN1272-5",
+"question": "On the Cloture Motion\n         ",
+"result": "Agreed to",
+"title": "Motion to Invoke Cloture: Courtney Leigh Coker, of T.X., to be U.S. District Judge for the Northern District of Texas"
+},
+{
+"chamber": "Senate",
+"session": 2,
+"number": 272,
+"date": "20-Nov",
+"bill": "PN1272-4",
+"question": "On the Nomination\n         ",
+"result": "Confirmed",
+"title": "Confirmation: Richard Wesley Bennet, of T.X., to be U.S. District Judge for the Southern District of Texas"
+},
+{
+"chamber": "Senate",
+"session": 2,
+"number": 271,
+"date": "19-Nov",
+"bill": "PN1272-4",
+"question": "On the Cloture Motion\n         ",
+"result": "Agreed to",
+"title": "Motion to Invoke Cloture: Richard Wesley Bennett to be U.S. District Judge for the Southern District of Texas"
+},
+{
+"chamber": "Senate",
+"session": 2,
+"number": 270,
+"date": "19-Nov",
+"bill": "HR2347",
+"question": "On Passage of the Bill\n         ",
+"result": "Passed",
+"title": "H.R. 2347, as Amended; A bill to amend the Internal Revenue Code of 1986 to exclude from gross income any damages, other than punitive damages, received on account of any sexual acts or sexual contact."
+},
+{
+"chamber": "Senate",
+"session": 2,
+"number": 269,
+"date": "19-Nov",
+"bill": "HCONRES93",
+"question": "On the Concurrent Resolution\n         ",
+"result": "Rejected",
+"title": "H.Con.Res. 93; A concurrent resolution directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran."
+},
+{
+"chamber": "Senate",
+"session": 2,
+"number": 268,
+"date": "18-Nov",
+"bill": "HR2347",
+"question": "On the Cloture Motion\n         ",
+"result": "Agreed to",
+"title": "Motion to Invoke Cloture Re. H.R. 2347; A bill to amend the Internal Revenue Code of 1986 to exclude from gross income any damages, other than punitive damages, received on account of any sexual acts or sexual contact."
+},
+{
+"chamber": "Senate",
+"session": 2,
+"number": 267,
+"date": "18-Nov",
+"bill": "HR2347",
+"question": "On the Amendment\n        ",
+"result": "Agreed to",
+"title": "Capito Amdt. No. 6883; In the nature of a substitute."
+},
+{
+"chamber": "Senate",
+"session": 2,
+"number": 266,
+"date": "18-Nov",
+"bill": "HR2347",
+"question": "On the Motion\n         ",
+"result": "Agreed to",
+"title": "Motion to Waive All Applicable Budgetary Discipline Re: H.R. 2347; A bill to amend the Internal Revenue Code of 1986 to exclude from gross income any damages, other than punitive damages, received on account of any sexual acts or sexual contact."
+},
+{
+"chamber": "Senate",
+"session": 2,
+"number": 265,
+"date": "17-Nov",
+"bill": "PN1181-7",
+"question": "On the Nomination\n         ",
+"result": "Confirmed",
+"title": "Confirmation: Anna St. John, of L.A., to be U.S. Circuit Judge for the Fifth Circuit"
+},
+{
+"chamber": "Senate",
+"session": 2,
+"number": 264,
+"date": "16-Nov",
+"bill": "HR2347",
+"question": "On the Cloture Motion\n        ",
+"result": "Agreed to",
+"title": "Motion to Invoke Cloture: Capito Amdt. No. 6883; In the nature of a substitute."
+},
+{
+"chamber": "Senate",
+"session": 2,
+"number": 263,
+"date": "16-Nov",
+"bill": "PN999-2",
+"question": "On the Nomination\n         ",
+"result": "Confirmed",
+"title": "Confirmation: Daniel Desmond Domenico, of C.O., to be U.S. Circuit Judge for the Tenth Circuit"
+},
+{
+"chamber": "Senate",
+"session": 2,
 "number": 262,
 "date": "12-Nov",
 "bill": "PN1181-7",
@@ -16058,5 +16228,45 @@
 "question": "On Passage",
 "result": "Passed",
 "title": "Major Richard Star Act"
+},
+{
+"chamber": "House",
+"year": 2026,
+"number": 324,
+"date": "17-Nov-2026",
+"bill": "HR8483",
+"question": "On Motion to Suspend the Rules and Pass, as Amended",
+"result": "Passed",
+"title": "Barona Group of Capitan Grande Band of Mission Indians Land Transfer Act"
+},
+{
+"chamber": "House",
+"year": 2026,
+"number": 325,
+"date": "17-Nov-2026",
+"bill": "HR9600",
+"question": "On Motion to Suspend the Rules and Pass",
+"result": "Passed",
+"title": "Common Sense 250 Act"
+},
+{
+"chamber": "House",
+"year": 2026,
+"number": 326,
+"date": "18-Nov-2026",
+"bill": "HR9640",
+"question": "On Motion to Suspend the Rules and Pass, as Amended",
+"result": "Passed",
+"title": "Earth MRI Reauthorization Act"
+},
+{
+"chamber": "House",
+"year": 2026,
+"number": 327,
+"date": "19-Nov-2026",
+"bill": "HR4464",
+"question": "On Motion to Suspend the Rules and Pass",
+"result": "Passed",
+"title": "Preventive Health Savings Act"
 }
 ]
