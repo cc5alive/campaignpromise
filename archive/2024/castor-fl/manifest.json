@@ -1,0 +1,27 @@
+{
+  "name": "Kathy Castor",
+  "domains_tried": [
+    "castorforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.castorforcongress.com/",
+      "timestamp": "20241105113724",
+      "wayback": "https://web.archive.org/web/20241105113724/https://www.castorforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105113724id_/https://www.castorforcongress.com/",
+      "file": "archive/2024/castor-fl/home.html",
+      "text_file": "archive/2024/castor-fl/home.txt",
+      "bytes": 43779,
+      "sha256_html": "e58670f257a63dd26b8ea7608f6e584c4e00b0887aed732996966843fc037c29",
+      "sha256_text": "588c63f512137cfeb47f8d6c65f0c4874db84cf059d184a88ee8b32976a46799"
+    }
+  ],
+  "snapshots_found": {
+    "castorforcongress.com": 11
+  },
+  "generated_utc": "2026-11-26T07:28:57Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
