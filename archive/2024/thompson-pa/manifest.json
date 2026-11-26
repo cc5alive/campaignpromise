@@ -1,0 +1,27 @@
+{
+  "name": "Glenn Thompson",
+  "domains_tried": [
+    "gtthompson.com"
+  ],
+  "pages": [
+    {
+      "original": "http://www.gtthompson.com/",
+      "timestamp": "20241006234513",
+      "wayback": "https://web.archive.org/web/20241006234513/http://www.gtthompson.com/",
+      "wayback_raw": "https://web.archive.org/web/20241006234513id_/http://www.gtthompson.com/",
+      "file": "archive/2024/thompson-pa/home.html",
+      "text_file": "archive/2024/thompson-pa/home.txt",
+      "bytes": 54638,
+      "sha256_html": "56473adcd038764d1559dea3b255041f884a1314bd69dfcf75e38a4470718d5d",
+      "sha256_text": "23e1fe3aef4f59b1589331a8f33ee38ff585f95bd4eab7857df587e8b7f23d3a"
+    }
+  ],
+  "snapshots_found": {
+    "gtthompson.com": 24
+  },
+  "generated_utc": "2026-11-26T08:28:45Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
