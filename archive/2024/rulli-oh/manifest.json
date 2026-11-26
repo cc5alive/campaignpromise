@@ -1,0 +1,93 @@
+{
+  "name": "Michael A. Rulli",
+  "domains_tried": [
+    "michaelrulli.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.michaelrulli.com/",
+      "timestamp": "20241105153416",
+      "wayback": "https://web.archive.org/web/20241105153416/https://www.michaelrulli.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105153416id_/https://www.michaelrulli.com/",
+      "file": "archive/2024/rulli-oh/home.html",
+      "text_file": "archive/2024/rulli-oh/home.txt",
+      "bytes": 660446,
+      "sha256_html": "a81d3b883a1bfa8997a85cc3d7a8490172c47fe49a7d1893c2e8f469fd1a6352",
+      "sha256_text": "02faf37b9895881cc592eafbddd29a6a9331167044388369a821e56154a3d5c8"
+    },
+    {
+      "original": "https://www.michaelrulli.com/issues",
+      "timestamp": "20241105153454",
+      "wayback": "https://web.archive.org/web/20241105153454/https://www.michaelrulli.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105153454id_/https://www.michaelrulli.com/issues",
+      "file": "archive/2024/rulli-oh/issues.html",
+      "text_file": "archive/2024/rulli-oh/issues.txt",
+      "bytes": 735472,
+      "sha256_html": "61a95f9f82ef9f4a3c31be452b8db03424d71e0a74874b3bedad2d90dab90b39",
+      "sha256_text": "4af060fbcd327d8ebd812863d24de5a0f6ce3a2b4f1709c2ac693eb54128635d"
+    },
+    {
+      "original": "https://www.michaelrulli.com/media/issues",
+      "timestamp": "20241031131038",
+      "wayback": "https://web.archive.org/web/20241031131038/https://www.michaelrulli.com/media/issues",
+      "wayback_raw": "https://web.archive.org/web/20241031131038id_/https://www.michaelrulli.com/media/issues",
+      "file": "archive/2024/rulli-oh/media-issues.html",
+      "text_file": "archive/2024/rulli-oh/media-issues.txt",
+      "bytes": 378990,
+      "sha256_html": "a04675e727744055198a9ad8a338897b662b1e79344e23a8aa053b53aa7e7ae4",
+      "sha256_text": "0a2fd83d296960471847c9987e5f824748f9e5c3c4728b6c95eb0358f636cf81"
+    },
+    {
+      "original": "https://www.michaelrulli.com/media/America/issues",
+      "timestamp": "20241102052623",
+      "wayback": "https://web.archive.org/web/20241102052623/https://www.michaelrulli.com/media/America/issues",
+      "wayback_raw": "https://web.archive.org/web/20241102052623id_/https://www.michaelrulli.com/media/America/issues",
+      "file": "archive/2024/rulli-oh/media-america-issues.html",
+      "text_file": "archive/2024/rulli-oh/media-america-issues.txt",
+      "bytes": 379060,
+      "sha256_html": "7ced3fa0c9908921a0a09fb9dd9717612a5bc0ad127340ee92c29bd9d1238bdc",
+      "sha256_text": "0a2fd83d296960471847c9987e5f824748f9e5c3c4728b6c95eb0358f636cf81"
+    },
+    {
+      "original": "https://www.michaelrulli.com/media/wix-thunderbolt/issues",
+      "timestamp": "20241102114214",
+      "wayback": "https://web.archive.org/web/20241102114214/https://www.michaelrulli.com/media/wix-thunderbolt/issues",
+      "wayback_raw": "https://web.archive.org/web/20241102114214id_/https://www.michaelrulli.com/media/wix-thunderbolt/issues",
+      "file": "archive/2024/rulli-oh/media-wix-thunderbolt-issues.html",
+      "text_file": "archive/2024/rulli-oh/media-wix-thunderbolt-issues.txt",
+      "bytes": 379124,
+      "sha256_html": "a07fa43c229a2077dee7af71f6bbbb36fa60d0b400528d2160bb37a1d1062300",
+      "sha256_text": "0a2fd83d296960471847c9987e5f824748f9e5c3c4728b6c95eb0358f636cf81"
+    },
+    {
+      "original": "https://www.michaelrulli.com/media/wix-thunderbolt/dist/issues",
+      "timestamp": "20241031174601",
+      "wayback": "https://web.archive.org/web/20241031174601/https://www.michaelrulli.com/media/wix-thunderbolt/dist/issues",
+      "wayback_raw": "https://web.archive.org/web/20241031174601id_/https://www.michaelrulli.com/media/wix-thunderbolt/dist/issues",
+      "file": "archive/2024/rulli-oh/media-wix-thunderbolt-dist-issues.html",
+      "text_file": "archive/2024/rulli-oh/media-wix-thunderbolt-dist-issues.txt",
+      "bytes": 379170,
+      "sha256_html": "3ed459a992a60c1abd6d8bee1a88c45fa6a068e2046c2b795369296b90202b71",
+      "sha256_text": "0a2fd83d296960471847c9987e5f824748f9e5c3c4728b6c95eb0358f636cf81"
+    },
+    {
+      "original": "https://www.michaelrulli.com/media/wix-thunderbolt/dist/wix-thunderbolt/dist/issues",
+      "timestamp": "20241102195143",
+      "wayback": "https://web.archive.org/web/20241102195143/https://www.michaelrulli.com/media/wix-thunderbolt/dist/wix-thunderbolt/dist/issues",
+      "wayback_raw": "https://web.archive.org/web/20241102195143id_/https://www.michaelrulli.com/media/wix-thunderbolt/dist/wix-thunderbolt/dist/issues",
+      "file": "archive/2024/rulli-oh/media-wix-thunderbolt-dist-wix-thunderbolt-dist-issues.html",
+      "text_file": "archive/2024/rulli-oh/media-wix-thunderbolt-dist-wix-thunderbolt-dist-issues.txt",
+      "bytes": 379350,
+      "sha256_html": "430d31b1b9dbd5fb533a26655dfa0334ce06ba79323055ff03f7a4d6dd331da3",
+      "sha256_text": "0a2fd83d296960471847c9987e5f824748f9e5c3c4728b6c95eb0358f636cf81"
+    }
+  ],
+  "snapshots_found": {
+    "michaelrulli.com": 2349
+  },
+  "generated_utc": "2026-11-26T09:17:01Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
