@@ -1,0 +1,71 @@
+{
+  "name": "Charles J. \"Chuck\" Fleischmann",
+  "domains_tried": [
+    "chuckforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.chuckforcongress.com/",
+      "timestamp": "20241105110523",
+      "wayback": "https://web.archive.org/web/20241105110523/https://www.chuckforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105110523id_/https://www.chuckforcongress.com/",
+      "file": "archive/2024/fleischmann-tn/home.html",
+      "text_file": "archive/2024/fleischmann-tn/home.txt",
+      "bytes": 23608,
+      "sha256_html": "cbc7338e923e9341592fa17d46403b080d3bae510bdf238c4ac7fdb7722b9a78",
+      "sha256_text": "8027fb4c0c806cb25e97ff7ac66cdb5904dc90da6d6b2072fee523c24b599e46"
+    },
+    {
+      "original": "https://www.chuckforcongress.com/issues",
+      "timestamp": "20241105073309",
+      "wayback": "https://web.archive.org/web/20241105073309/https://www.chuckforcongress.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105073309id_/https://www.chuckforcongress.com/issues",
+      "file": "archive/2024/fleischmann-tn/issues.html",
+      "text_file": "archive/2024/fleischmann-tn/issues.txt",
+      "bytes": 25377,
+      "sha256_html": "a9d0e6cd190aa4deabc20e291f1b3527b76f4fe6e9c462e565a249625ff99f12",
+      "sha256_text": "51e9779f9fe5f99d5fa360a8d0543b9315f86e9df8d525e9c361bf60c02cd93e"
+    },
+    {
+      "original": "https://www.chuckforcongress.com/stand-with-mike-pence",
+      "timestamp": "20241105073322",
+      "wayback": "https://web.archive.org/web/20241105073322/https://www.chuckforcongress.com/stand-with-mike-pence",
+      "wayback_raw": "https://web.archive.org/web/20241105073322id_/https://www.chuckforcongress.com/stand-with-mike-pence",
+      "file": "archive/2024/fleischmann-tn/stand-with-mike-pence.html",
+      "text_file": "archive/2024/fleischmann-tn/stand-with-mike-pence.txt",
+      "bytes": 28030,
+      "sha256_html": "42bfabe3a3d2d7a51971c0123401b36ef2c3c17ac43e87e88f3ee21216a47b22",
+      "sha256_text": "6ff3470ee953c3dc2dd3a0f72209c99fd00b48451fd3b7c6216112fbf16fb911"
+    },
+    {
+      "original": "https://www.chuckforcongress.com/stand-with-president-trump",
+      "timestamp": "20241105073327",
+      "wayback": "https://web.archive.org/web/20241105073327/https://www.chuckforcongress.com/stand-with-president-trump",
+      "wayback_raw": "https://web.archive.org/web/20241105073327id_/https://www.chuckforcongress.com/stand-with-president-trump",
+      "file": "archive/2024/fleischmann-tn/stand-with-president-trump.html",
+      "text_file": "archive/2024/fleischmann-tn/stand-with-president-trump.txt",
+      "bytes": 30792,
+      "sha256_html": "cac7b077992a7b9c1e96a189f121265e6991ce00dd92970f01a2896044e1d5bf",
+      "sha256_text": "4e58e3e7e9af72418d9fad7648d6be5a71282f1314747eca5fc7454abbc16483"
+    },
+    {
+      "original": "https://www.chuckforcongress.com/values",
+      "timestamp": "20241105073325",
+      "wayback": "https://web.archive.org/web/20241105073325/https://www.chuckforcongress.com/values",
+      "wayback_raw": "https://web.archive.org/web/20241105073325id_/https://www.chuckforcongress.com/values",
+      "file": "archive/2024/fleischmann-tn/values.html",
+      "text_file": "archive/2024/fleischmann-tn/values.txt",
+      "bytes": 19082,
+      "sha256_html": "fde2adb65b17a92a782e7475b5f642eba24b2ebdd6b18aed69091a83d3d84640",
+      "sha256_text": "6f65128d222187f51df0190da049f9c2c4b4188c731bb0398dfc1e9dc591c2ca"
+    }
+  ],
+  "snapshots_found": {
+    "chuckforcongress.com": 47
+  },
+  "generated_utc": "2026-11-26T07:40:24Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
