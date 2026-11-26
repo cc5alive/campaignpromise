@@ -1,0 +1,60 @@
+{
+  "name": "Bill Cassidy",
+  "domains_tried": [
+    "billcassidy.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.billcassidy.com/",
+      "timestamp": "20241105104642",
+      "wayback": "https://web.archive.org/web/20241105104642/https://www.billcassidy.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105104642id_/https://www.billcassidy.com/",
+      "file": "archive/2024/cassidy-la/home.html",
+      "text_file": "archive/2024/cassidy-la/home.txt",
+      "bytes": 599479,
+      "sha256_html": "5634aacebc091c3488c8f50f68961da7273f685437296ba2dfde40ef2da8b775",
+      "sha256_text": "0522712c4dbbb4d9540de8a01e28bd1e6732de0b8736ab4e50d30f1a21d9559d"
+    },
+    {
+      "original": "https://www.billcassidy.com/issues",
+      "timestamp": "20241104003108",
+      "wayback": "https://web.archive.org/web/20241104003108/https://www.billcassidy.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241104003108id_/https://www.billcassidy.com/issues",
+      "file": "archive/2024/cassidy-la/issues.html",
+      "text_file": "archive/2024/cassidy-la/issues.txt",
+      "bytes": 548777,
+      "sha256_html": "2b9ddc23b9dca2c784ee9a11d0447a26c3257e7e9adadd9bd3fe6d8e3d226b0a",
+      "sha256_text": "038ad8b4817f2c2d7d356628e7ff771d672835b8683b1868e317cc33e0303ebb"
+    },
+    {
+      "original": "https://www.billcassidy.com/post/cassidy-launches-sixth-television-ad-stop-biden",
+      "timestamp": "20241003224909",
+      "wayback": "https://web.archive.org/web/20241003224909/https://www.billcassidy.com/post/cassidy-launches-sixth-television-ad-stop-biden",
+      "wayback_raw": "https://web.archive.org/web/20241003224909id_/https://www.billcassidy.com/post/cassidy-launches-sixth-television-ad-stop-biden",
+      "file": "archive/2024/cassidy-la/post-cassidy-launches-sixth-television-ad-stop-biden.html",
+      "text_file": "archive/2024/cassidy-la/post-cassidy-launches-sixth-television-ad-stop-biden.txt",
+      "bytes": 879511,
+      "sha256_html": "6bc14c8ed68c9e8c14cd1818298da959339b06cbe3ef56eb0093a9812e105534",
+      "sha256_text": "f0ca7660f20c64dffe0611059a6d918af2a74ae500947f0fcf65974c4d03e248"
+    },
+    {
+      "original": "https://www.billcassidy.com/post/over-my-dead-body-cassidy-responds-to-biden-plan-to-eliminate-louisiana-energy-jobs",
+      "timestamp": "20240912164932",
+      "wayback": "https://web.archive.org/web/20240912164932/https://www.billcassidy.com/post/over-my-dead-body-cassidy-responds-to-biden-plan-to-eliminate-louisiana-energy-jobs",
+      "wayback_raw": "https://web.archive.org/web/20240912164932id_/https://www.billcassidy.com/post/over-my-dead-body-cassidy-responds-to-biden-plan-to-eliminate-louisiana-energy-jobs",
+      "file": "archive/2024/cassidy-la/post-over-my-dead-body-cassidy-responds-to-biden-plan-to-eliminate-louisiana-energy-jobs.html",
+      "text_file": "archive/2024/cassidy-la/post-over-my-dead-body-cassidy-responds-to-biden-plan-to-eliminate-louisiana-energy-jobs.txt",
+      "bytes": 874062,
+      "sha256_html": "204f8329597fa83b10234138113cbe7cb3d94bc3885f452a753016670938f157",
+      "sha256_text": "db7dc7f0dbf9315a40ed19ed848bff8d74be1aee26fd4b6ab78cd5a15269bfab"
+    }
+  ],
+  "snapshots_found": {
+    "billcassidy.com": 12
+  },
+  "generated_utc": "2026-11-26T07:31:51Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
