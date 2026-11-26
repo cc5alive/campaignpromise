@@ -1,0 +1,148 @@
+{
+  "name": "Sean Casten",
+  "domains_tried": [
+    "castenforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://castenforcongress.com/accomplishments/",
+      "timestamp": "20241105085401",
+      "wayback": "https://web.archive.org/web/20241105085401/https://castenforcongress.com/accomplishments/",
+      "wayback_raw": "https://web.archive.org/web/20241105085401id_/https://castenforcongress.com/accomplishments/",
+      "file": "archive/2024/casten-il/accomplishments.html",
+      "text_file": "archive/2024/casten-il/accomplishments.txt",
+      "bytes": 85774,
+      "sha256_html": "e7820039e7ceff42620cfb63eb2aa92fc8842bde88e3967e185c35550d7b67cb",
+      "sha256_text": "34dd761a78aced0f29cbfadecbde7dbef795db64415fa5404ff5da3c04694e0d"
+    },
+    {
+      "original": "https://castenforcongress.com/issues/",
+      "timestamp": "20241105085456",
+      "wayback": "https://web.archive.org/web/20241105085456/https://castenforcongress.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105085456id_/https://castenforcongress.com/issues/",
+      "file": "archive/2024/casten-il/issues.html",
+      "text_file": "archive/2024/casten-il/issues.txt",
+      "bytes": 75056,
+      "sha256_html": "7c3d178a5f6f7bb0ec66ebb7d79f078e61caf7ed952cf01e89f6c35d1350ff86",
+      "sha256_text": "e16e46e0a60b1419ba52b54b45d936233468751fe3159f9e05e6142b7de260e5"
+    },
+    {
+      "original": "https://castenforcongress.com/blog/issue/education/",
+      "timestamp": "20241105085359",
+      "wayback": "https://web.archive.org/web/20241105085359/https://castenforcongress.com/blog/issue/education/",
+      "wayback_raw": "https://web.archive.org/web/20241105085359id_/https://castenforcongress.com/blog/issue/education/",
+      "file": "archive/2024/casten-il/blog-issue-education.html",
+      "text_file": "archive/2024/casten-il/blog-issue-education.txt",
+      "bytes": 67938,
+      "sha256_html": "57542408db7babc19513131ffc3938bb29ede55220a31c13eb8abb3628add9ba",
+      "sha256_text": "8c0d48b7c2b374b7c1617cd4348a253d74bb588b00152a004a1cbe8e2525a93f"
+    },
+    {
+      "original": "https://castenforcongress.com/blog/issue/gun-safety/",
+      "timestamp": "20241105085358",
+      "wayback": "https://web.archive.org/web/20241105085358/https://castenforcongress.com/blog/issue/gun-safety/",
+      "wayback_raw": "https://web.archive.org/web/20241105085358id_/https://castenforcongress.com/blog/issue/gun-safety/",
+      "file": "archive/2024/casten-il/blog-issue-gun-safety.html",
+      "text_file": "archive/2024/casten-il/blog-issue-gun-safety.txt",
+      "bytes": 67544,
+      "sha256_html": "127666262513594ef799071ce46f9de8a8db012950806e8d14a3806e3d8dc999",
+      "sha256_text": "f15284c0823efddb9c909c728e41c12d22f8101c87da5dad174b0be4a4f74368"
+    },
+    {
+      "original": "https://castenforcongress.com/blog/issue/health-care/",
+      "timestamp": "20241105085405",
+      "wayback": "https://web.archive.org/web/20241105085405/https://castenforcongress.com/blog/issue/health-care/",
+      "wayback_raw": "https://web.archive.org/web/20241105085405id_/https://castenforcongress.com/blog/issue/health-care/",
+      "file": "archive/2024/casten-il/blog-issue-health-care.html",
+      "text_file": "archive/2024/casten-il/blog-issue-health-care.txt",
+      "bytes": 69227,
+      "sha256_html": "026631d58ac7c4172f0e7ba281636eb2c8f53687fb5a84de2b483c47d39143a4",
+      "sha256_text": "4204c533814da2539b4dcbee4a9ea8e8a0b963af9d18665dee4395432d9d722b"
+    },
+    {
+      "original": "https://castenforcongress.com/blog/issue/immigration-reform/",
+      "timestamp": "20241105085411",
+      "wayback": "https://web.archive.org/web/20241105085411/https://castenforcongress.com/blog/issue/immigration-reform/",
+      "wayback_raw": "https://web.archive.org/web/20241105085411id_/https://castenforcongress.com/blog/issue/immigration-reform/",
+      "file": "archive/2024/casten-il/blog-issue-immigration-reform.html",
+      "text_file": "archive/2024/casten-il/blog-issue-immigration-reform.txt",
+      "bytes": 68603,
+      "sha256_html": "c5f9b91fcb925b11385be9fd330aaea80a454b1ba379bdf5b53e86d57e5e2982",
+      "sha256_text": "5467130a8d2e42d60a3446d0583633560e7a60e5abd7ac8a6484ca9d7e35a5e3"
+    },
+    {
+      "original": "https://castenforcongress.com/blog/issue/jobs-and-growing-our-economy/",
+      "timestamp": "20241105085424",
+      "wayback": "https://web.archive.org/web/20241105085424/https://castenforcongress.com/blog/issue/jobs-and-growing-our-economy/",
+      "wayback_raw": "https://web.archive.org/web/20241105085424id_/https://castenforcongress.com/blog/issue/jobs-and-growing-our-economy/",
+      "file": "archive/2024/casten-il/blog-issue-jobs-and-growing-our-economy.html",
+      "text_file": "archive/2024/casten-il/blog-issue-jobs-and-growing-our-economy.txt",
+      "bytes": 68678,
+      "sha256_html": "517ce649cef7f2c3be5755fa60ab5c24627fa77a2fde6058ee9ee73138511853",
+      "sha256_text": "38bc04de276abcb8785846d6dae47755a62a7ad5d0d8d391f13eb152b16c6dca"
+    },
+    {
+      "original": "https://castenforcongress.com/blog/issue/lgbtq-rights/",
+      "timestamp": "20241105085404",
+      "wayback": "https://web.archive.org/web/20241105085404/https://castenforcongress.com/blog/issue/lgbtq-rights/",
+      "wayback_raw": "https://web.archive.org/web/20241105085404id_/https://castenforcongress.com/blog/issue/lgbtq-rights/",
+      "file": "archive/2024/casten-il/blog-issue-lgbtq-rights.html",
+      "text_file": "archive/2024/casten-il/blog-issue-lgbtq-rights.txt",
+      "bytes": 67714,
+      "sha256_html": "9d62cf4d5c190493d33767f2d3d6a0058be2853febc838085ae3df0d04b54322",
+      "sha256_text": "d3c5f8891fa849162ffdf26028ed8337f2b0ffac4992037b8fa40448634c880f"
+    },
+    {
+      "original": "https://castenforcongress.com/blog/issue/our-environment/",
+      "timestamp": "20241105085426",
+      "wayback": "https://web.archive.org/web/20241105085426/https://castenforcongress.com/blog/issue/our-environment/",
+      "wayback_raw": "https://web.archive.org/web/20241105085426id_/https://castenforcongress.com/blog/issue/our-environment/",
+      "file": "archive/2024/casten-il/blog-issue-our-environment.html",
+      "text_file": "archive/2024/casten-il/blog-issue-our-environment.txt",
+      "bytes": 68724,
+      "sha256_html": "64f7b366d8a40656fc76be178a8617666e13dddeb4e546a7ced63c61f17eb1e2",
+      "sha256_text": "9fc5264b0a6a109604c2f01ebc80cbd49e8b657127af76c07b86d43fe9439523"
+    },
+    {
+      "original": "https://castenforcongress.com/blog/issue/racial-justice/",
+      "timestamp": "20241105085425",
+      "wayback": "https://web.archive.org/web/20241105085425/https://castenforcongress.com/blog/issue/racial-justice/",
+      "wayback_raw": "https://web.archive.org/web/20241105085425id_/https://castenforcongress.com/blog/issue/racial-justice/",
+      "file": "archive/2024/casten-il/blog-issue-racial-justice.html",
+      "text_file": "archive/2024/casten-il/blog-issue-racial-justice.txt",
+      "bytes": 67487,
+      "sha256_html": "624713d56217290dc83e474cc58580dcc05ed448b0ebf04906c48802e59d8af1",
+      "sha256_text": "078f167f723f3602645202f9d18e5b3052867db8a298f160fda299dbc3a9088d"
+    },
+    {
+      "original": "https://castenforcongress.com/blog/issue/veterans-policy/",
+      "timestamp": "20241105085400",
+      "wayback": "https://web.archive.org/web/20241105085400/https://castenforcongress.com/blog/issue/veterans-policy/",
+      "wayback_raw": "https://web.archive.org/web/20241105085400id_/https://castenforcongress.com/blog/issue/veterans-policy/",
+      "file": "archive/2024/casten-il/blog-issue-veterans-policy.html",
+      "text_file": "archive/2024/casten-il/blog-issue-veterans-policy.txt",
+      "bytes": 67824,
+      "sha256_html": "176f969278c0857a195d088a6b11235052eecf826030bd1c6000deea55ed62f4",
+      "sha256_text": "769d8825f8d84d53d9a4db2c4da1def7b035125294cb44677e9677662e7bfec1"
+    },
+    {
+      "original": "https://castenforcongress.com/blog/issue/voting-rights/",
+      "timestamp": "20241105085410",
+      "wayback": "https://web.archive.org/web/20241105085410/https://castenforcongress.com/blog/issue/voting-rights/",
+      "wayback_raw": "https://web.archive.org/web/20241105085410id_/https://castenforcongress.com/blog/issue/voting-rights/",
+      "file": "archive/2024/casten-il/blog-issue-voting-rights.html",
+      "text_file": "archive/2024/casten-il/blog-issue-voting-rights.txt",
+      "bytes": 67723,
+      "sha256_html": "3238c5a1052676493ca7b236ce7cc12233135ace5fe5ebd484ffcd47815e4ef7",
+      "sha256_text": "9c6aa25b74135267c14f40436fb45b6119f815e4e0dae1605a06678e2d0b32f9"
+    }
+  ],
+  "snapshots_found": {
+    "castenforcongress.com": 398
+  },
+  "generated_utc": "2026-11-26T08:06:13Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
