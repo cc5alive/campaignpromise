@@ -1,0 +1,27 @@
+{
+  "name": "John Hoeven",
+  "domains_tried": [
+    "hoevenforsenate.com"
+  ],
+  "pages": [
+    {
+      "original": "https://hoevenforsenate.com/",
+      "timestamp": "20241105201208",
+      "wayback": "https://web.archive.org/web/20241105201208/https://hoevenforsenate.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105201208id_/https://hoevenforsenate.com/",
+      "file": "archive/2024/hoeven-nd/home.html",
+      "text_file": "archive/2024/hoeven-nd/home.txt",
+      "bytes": 12962,
+      "sha256_html": "e1172f677523566219bf6ed63b6c2310960a7fad73727f11059fb9a0102d0316",
+      "sha256_text": "3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c"
+    }
+  ],
+  "snapshots_found": {
+    "hoevenforsenate.com": 6
+  },
+  "generated_utc": "2026-11-26T07:51:29Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
