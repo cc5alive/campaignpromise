@@ -1,0 +1,27 @@
+{
+  "name": "Austin Scott",
+  "domains_tried": [
+    "scottforga.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.scottforga.com/",
+      "timestamp": "20241105124234",
+      "wayback": "https://web.archive.org/web/20241105124234/https://www.scottforga.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105124234id_/https://www.scottforga.com/",
+      "file": "archive/2024/scott-ga/home.html",
+      "text_file": "archive/2024/scott-ga/home.txt",
+      "bytes": 113098,
+      "sha256_html": "eb1d48f6db1cbd9f58b5ee2c820559c8ff6865ccea256a8d0abe2447bf081a21",
+      "sha256_text": "acf81159291c4cc673b172d2120a417aee2ef3714c32bdd4e174f686f166b5da"
+    }
+  ],
+  "snapshots_found": {
+    "scottforga.com": 1
+  },
+  "generated_utc": "2026-11-26T08:19:42Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
