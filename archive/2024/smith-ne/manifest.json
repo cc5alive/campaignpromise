@@ -1,0 +1,60 @@
+{
+  "name": "Adrian Smith",
+  "domains_tried": [
+    "joinadrian.com"
+  ],
+  "pages": [
+    {
+      "original": "https://joinadrian.com/",
+      "timestamp": "20241105090351",
+      "wayback": "https://web.archive.org/web/20241105090351/https://joinadrian.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105090351id_/https://joinadrian.com/",
+      "file": "archive/2024/smith-ne/home.html",
+      "text_file": "archive/2024/smith-ne/home.txt",
+      "bytes": 1352259,
+      "sha256_html": "864154250c1dcd105b9be9f4ce68dfe5a63d75d6354fc36532c420d1a22bfd43",
+      "sha256_text": "db067c25b92c661cdf75ceed28be7112af3f3e9b041a93097196fff70532a5cf"
+    },
+    {
+      "original": "https://joinadrian.com/issues/",
+      "timestamp": "20241105051908",
+      "wayback": "https://web.archive.org/web/20241105051908/https://joinadrian.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105051908id_/https://joinadrian.com/issues/",
+      "file": "archive/2024/smith-ne/issues.html",
+      "text_file": "archive/2024/smith-ne/issues.txt",
+      "bytes": 1362657,
+      "sha256_html": "7e9deb3e6a8d1d7722e56e2905ab2755f811ea8d61dc6acb914801def20e63c1",
+      "sha256_text": "7acc4e9f8170188a5cd03b4ebc63f1618922c76dd805890a15616cee09454147"
+    },
+    {
+      "original": "https://joinadrian.com/redistricting-plan-grows-3rd-congressional-district-to-80-of-nebraskas-93-counties/",
+      "timestamp": "20241105052125",
+      "wayback": "https://web.archive.org/web/20241105052125/https://joinadrian.com/redistricting-plan-grows-3rd-congressional-district-to-80-of-nebraskas-93-counties/",
+      "wayback_raw": "https://web.archive.org/web/20241105052125id_/https://joinadrian.com/redistricting-plan-grows-3rd-congressional-district-to-80-of-nebraskas-93-counties/",
+      "file": "archive/2024/smith-ne/redistricting-plan-grows-3rd-congressional-district-to-80-of-nebraskas-93-counties.html",
+      "text_file": "archive/2024/smith-ne/redistricting-plan-grows-3rd-congressional-district-to-80-of-nebraskas-93-counties.txt",
+      "bytes": 1339124,
+      "sha256_html": "2a28a9e86eb5970738c254e2e8422b97afc1f76703448c9076eb0e47ea17ac62",
+      "sha256_text": "744cc106fea1628e1fac77d9bfc79bbf9b07a1b23c738475ffa89e3c63741ccd"
+    },
+    {
+      "original": "https://joinadrian.com/issues/embed/",
+      "timestamp": "20241102062351",
+      "wayback": "https://web.archive.org/web/20241102062351/https://joinadrian.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241102062351id_/https://joinadrian.com/issues/embed/",
+      "file": "archive/2024/smith-ne/issues-embed.html",
+      "text_file": "archive/2024/smith-ne/issues-embed.txt",
+      "bytes": 21283,
+      "sha256_html": "b4fd32b513d7a584ed64e52aa04085a0483d8230632b47d0811f2b3f44f79de4",
+      "sha256_text": "140b06e9caabe69db55c9036595dd7dbfc624fede16120408d65fa9b504d517c"
+    }
+  ],
+  "snapshots_found": {
+    "joinadrian.com": 53
+  },
+  "generated_utc": "2026-11-26T08:22:05Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
