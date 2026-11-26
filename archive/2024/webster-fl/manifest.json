@@ -1,0 +1,38 @@
+{
+  "name": "Daniel Webster",
+  "domains_tried": [
+    "electwebster.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.electwebster.com/",
+      "timestamp": "20241105184808",
+      "wayback": "https://web.archive.org/web/20241105184808/https://www.electwebster.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105184808id_/https://www.electwebster.com/",
+      "file": "archive/2024/webster-fl/home.html",
+      "text_file": "archive/2024/webster-fl/home.txt",
+      "bytes": 111332,
+      "sha256_html": "149c6918abda903021aa004120b7491e2f0018b00438f12d619f3f4a036930cd",
+      "sha256_text": "ba4dd2c52a1c3a3982f92f347086283fb3c23cbf7cc63522ee1698fb74585c90"
+    },
+    {
+      "original": "https://www.electwebster.com/issues",
+      "timestamp": "20241105184605",
+      "wayback": "https://web.archive.org/web/20241105184605/https://www.electwebster.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105184605id_/https://www.electwebster.com/issues",
+      "file": "archive/2024/webster-fl/issues.html",
+      "text_file": "archive/2024/webster-fl/issues.txt",
+      "bytes": 61314,
+      "sha256_html": "b9bd51610354c1ba71b3cde9234c4f51f12fafd008a3f1b274f8daa0e786a28b",
+      "sha256_text": "72320471bc20ec61f6f9765b833bb894a6c626fd8c196735204f18439ef03d01"
+    }
+  ],
+  "snapshots_found": {
+    "electwebster.com": 41
+  },
+  "generated_utc": "2026-11-26T08:29:40Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
