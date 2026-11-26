@@ -1,0 +1,49 @@
+{
+  "name": "Becca Balint",
+  "domains_tried": [
+    "beccabalint.com"
+  ],
+  "pages": [
+    {
+      "original": "https://beccabalint.com/",
+      "timestamp": "20241105070926",
+      "wayback": "https://web.archive.org/web/20241105070926/https://beccabalint.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105070926id_/https://beccabalint.com/",
+      "file": "archive/2024/balint-vt/home.html",
+      "text_file": "archive/2024/balint-vt/home.txt",
+      "bytes": 138196,
+      "sha256_html": "e943850efe97e0b3fe9474c125ac8f7f8c828c62ebfa74ecf3a656e56a08b4e2",
+      "sha256_text": "e166b71e9d1750d1d139c89714c7c17f8606553b8bfd15a92921cb27e43436ef"
+    },
+    {
+      "original": "https://beccabalint.com/issues/",
+      "timestamp": "20241105071051",
+      "wayback": "https://web.archive.org/web/20241105071051/https://beccabalint.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105071051id_/https://beccabalint.com/issues/",
+      "file": "archive/2024/balint-vt/issues.html",
+      "text_file": "archive/2024/balint-vt/issues.txt",
+      "bytes": 123120,
+      "sha256_html": "1359736faa9582d78dbf06e91a6c5a15cf0f31714a683000533b93c8418ef351",
+      "sha256_text": "36f6ae4e897d0e115f1c8a2266dbc44845872e017e66b9a95ff7e18416651532"
+    },
+    {
+      "original": "https://beccabalint.com/issues/embed/",
+      "timestamp": "20241101134930",
+      "wayback": "https://web.archive.org/web/20241101134930/https://beccabalint.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241101134930id_/https://beccabalint.com/issues/embed/",
+      "file": "archive/2024/balint-vt/issues-embed.html",
+      "text_file": "archive/2024/balint-vt/issues-embed.txt",
+      "bytes": 20715,
+      "sha256_html": "5317628bb71ea0a2d398190b457a19405642511067dd7818e27691e12f1d4ed6",
+      "sha256_text": "769a84ff2e3fbd1d89e243a4930092dae64cdb75aba79ccd41589dbb5290dd5b"
+    }
+  ],
+  "snapshots_found": {
+    "beccabalint.com": 19
+  },
+  "generated_utc": "2026-11-26T09:14:27Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
