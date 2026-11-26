@@ -1,0 +1,60 @@
+{
+  "name": "Joseph D. Morelle",
+  "domains_tried": [
+    "votemorelle.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.votemorelle.com/",
+      "timestamp": "20241105084356",
+      "wayback": "https://web.archive.org/web/20241105084356/https://www.votemorelle.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105084356id_/https://www.votemorelle.com/",
+      "file": "archive/2024/morelle-ny/home.html",
+      "text_file": "archive/2024/morelle-ny/home.txt",
+      "bytes": 692406,
+      "sha256_html": "91bb2450814d221763e4f7564d0d98175b40696b2ade8747e7bd6d1712703b58",
+      "sha256_text": "e8a882af420948394105d602ffd5f8f7e2c662750427cbd4e5c3d4ef35243766"
+    },
+    {
+      "original": "https://www.votemorelle.com/fighting-for-us",
+      "timestamp": "20241105084431",
+      "wayback": "https://web.archive.org/web/20241105084431/https://www.votemorelle.com/fighting-for-us",
+      "wayback_raw": "https://web.archive.org/web/20241105084431id_/https://www.votemorelle.com/fighting-for-us",
+      "file": "archive/2024/morelle-ny/fighting-for-us.html",
+      "text_file": "archive/2024/morelle-ny/fighting-for-us.txt",
+      "bytes": 647291,
+      "sha256_html": "f944e3a308bfc8c95ed89bc4c0b3e86a92ec65a2d31ade26ec88c7ecdcd4c8f9",
+      "sha256_text": "5465f5ac968c23738868a9942c81b2c9488f37c46ca195b655989e565fa8065f"
+    },
+    {
+      "original": "https://www.votemorelle.com/morelle-announces-reelection-priorities",
+      "timestamp": "20241105085058",
+      "wayback": "https://web.archive.org/web/20241105085058/https://www.votemorelle.com/morelle-announces-reelection-priorities",
+      "wayback_raw": "https://web.archive.org/web/20241105085058id_/https://www.votemorelle.com/morelle-announces-reelection-priorities",
+      "file": "archive/2024/morelle-ny/morelle-announces-reelection-priorities.html",
+      "text_file": "archive/2024/morelle-ny/morelle-announces-reelection-priorities.txt",
+      "bytes": 591526,
+      "sha256_html": "01b7dc6f099eddffea63bccd722eb6c78ef25dff1a74a83c00f38ff3d0c6cb0d",
+      "sha256_text": "85ea9d2aeecf39e1e4f6243ada9194f612da5b43cb5b582faa5eae71e722c3cd"
+    },
+    {
+      "original": "https://www.votemorelle.com/planned-parenthood-endorses-morelle",
+      "timestamp": "20241105085028",
+      "wayback": "https://web.archive.org/web/20241105085028/https://www.votemorelle.com/planned-parenthood-endorses-morelle",
+      "wayback_raw": "https://web.archive.org/web/20241105085028id_/https://www.votemorelle.com/planned-parenthood-endorses-morelle",
+      "file": "archive/2024/morelle-ny/planned-parenthood-endorses-morelle.html",
+      "text_file": "archive/2024/morelle-ny/planned-parenthood-endorses-morelle.txt",
+      "bytes": 577993,
+      "sha256_html": "5ebb11232acd14864daddf6f1977a61d046524d8455fe54520402e28fcc6a743",
+      "sha256_text": "886e9144493b54c8414a20d96fa1471c706d8d081b81f48f2d055b3843b3bd47"
+    }
+  ],
+  "snapshots_found": {
+    "votemorelle.com": 64
+  },
+  "generated_utc": "2026-11-26T08:01:36Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
