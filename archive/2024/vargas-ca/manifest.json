@@ -1,0 +1,29 @@
+{
+  "name": "Juan Vargas",
+  "domains_tried": [
+    "juanvargasforcongress.com",
+    "vargasforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://vargasforcongress.com/",
+      "timestamp": "20240921140814",
+      "wayback": "https://web.archive.org/web/20240921140814/https://vargasforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20240921140814id_/https://vargasforcongress.com/",
+      "file": "archive/2024/vargas-ca/home.html",
+      "text_file": "archive/2024/vargas-ca/home.txt",
+      "bytes": 114,
+      "sha256_html": "6dc9c7fc93bb488bb0520a6c780a8d3c0fb5486a4711aca49b4c53fac7393023",
+      "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "snapshots_found": {
+    "juanvargasforcongress.com": 0,
+    "vargasforcongress.com": 1
+  },
+  "generated_utc": "2026-11-26T09:02:14Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
