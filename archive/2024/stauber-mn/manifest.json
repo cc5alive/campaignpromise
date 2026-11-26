@@ -1,0 +1,38 @@
+{
+  "name": "Pete Stauber",
+  "domains_tried": [
+    "petestauberforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://petestauberforcongress.com/",
+      "timestamp": "20241105191901",
+      "wayback": "https://web.archive.org/web/20241105191901/https://petestauberforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105191901id_/https://petestauberforcongress.com/",
+      "file": "archive/2024/stauber-mn/home.html",
+      "text_file": "archive/2024/stauber-mn/home.txt",
+      "bytes": 236342,
+      "sha256_html": "e2be9c2e4ce6c4aa89cfea7ea005e26095666c9975ffcb87cba9406fd0bf7859",
+      "sha256_text": "79205cb9612e1f2c94cc8e46a682dece46dc7e71e0b1b688e8912cfeb28b1056"
+    },
+    {
+      "original": "https://petestauberforcongress.com/about/",
+      "timestamp": "20241105192008",
+      "wayback": "https://web.archive.org/web/20241105192008/https://petestauberforcongress.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105192008id_/https://petestauberforcongress.com/about/",
+      "file": "archive/2024/stauber-mn/about.html",
+      "text_file": "archive/2024/stauber-mn/about.txt",
+      "bytes": 88996,
+      "sha256_html": "a1f8b145689c2f40ece15ce65fb9c6a365d16577b1d8199a3d460e3625e9460c",
+      "sha256_text": "c5bd6cf79c3388ebfa2eb41ed5dd9c0d52ae27ab42b1ed33b5d826e1ce07c154"
+    }
+  ],
+  "snapshots_found": {
+    "petestauberforcongress.com": 30
+  },
+  "generated_utc": "2026-11-26T08:08:03Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
