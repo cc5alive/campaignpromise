@@ -1,0 +1,60 @@
+{
+  "name": "Tim Scott",
+  "domains_tried": [
+    "votetimscott.com"
+  ],
+  "pages": [
+    {
+      "original": "https://votetimscott.com/",
+      "timestamp": "20241105085054",
+      "wayback": "https://web.archive.org/web/20241105085054/https://votetimscott.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105085054id_/https://votetimscott.com/",
+      "file": "archive/2024/scott-sc/home.html",
+      "text_file": "archive/2024/scott-sc/home.txt",
+      "bytes": 302052,
+      "sha256_html": "d09f667d95aecefe73e8e273b3a73abe2672bfb9b6f9031073d209bf4ba61846",
+      "sha256_text": "0f891c7a40361882cf0d717abb73e77e7f6d7e18361df361a6639ea3f2c7d630"
+    },
+    {
+      "original": "https://votetimscott.com/record/",
+      "timestamp": "20240917110021",
+      "wayback": "https://web.archive.org/web/20240917110021/https://votetimscott.com/record/",
+      "wayback_raw": "https://web.archive.org/web/20240917110021id_/https://votetimscott.com/record/",
+      "file": "archive/2024/scott-sc/record.html",
+      "text_file": "archive/2024/scott-sc/record.txt",
+      "bytes": 286922,
+      "sha256_html": "334cc68554857f1c3aa61391b36735b37b4f2ead3946b85efa170f65f61fe417",
+      "sha256_text": "08383467ccd6cc091e7d03942a9b8281f2fd4955ef38b614c8dd24ec60102ede"
+    },
+    {
+      "original": "https://votetimscott.com/tim-scott-rolls-out-empower-parents-plan/",
+      "timestamp": "20240818165555",
+      "wayback": "https://web.archive.org/web/20240818165555/https://votetimscott.com/tim-scott-rolls-out-empower-parents-plan/",
+      "wayback_raw": "https://web.archive.org/web/20240818165555id_/https://votetimscott.com/tim-scott-rolls-out-empower-parents-plan/",
+      "file": "archive/2024/scott-sc/tim-scott-rolls-out-empower-parents-plan.html",
+      "text_file": "archive/2024/scott-sc/tim-scott-rolls-out-empower-parents-plan.txt",
+      "bytes": 230794,
+      "sha256_html": "99a9e79ba4ae23a16699bcf9bb63c41229adebd9d85a1a959ca021987b231bd0",
+      "sha256_text": "5cf8994d753bea5d8ed0dfb9173a4c3b38ae5918a557b12ba6103dcf8dfa62f6"
+    },
+    {
+      "original": "https://votetimscott.com/tim-scotts-new-economic-plan-build-dont-borrow/",
+      "timestamp": "20240817192940",
+      "wayback": "https://web.archive.org/web/20240817192940/https://votetimscott.com/tim-scotts-new-economic-plan-build-dont-borrow/",
+      "wayback_raw": "https://web.archive.org/web/20240817192940id_/https://votetimscott.com/tim-scotts-new-economic-plan-build-dont-borrow/",
+      "file": "archive/2024/scott-sc/tim-scotts-new-economic-plan-build-dont-borrow.html",
+      "text_file": "archive/2024/scott-sc/tim-scotts-new-economic-plan-build-dont-borrow.txt",
+      "bytes": 232302,
+      "sha256_html": "ce1a478ddbb1eabe34c5f76ff95051d9a3f26789f25fa551395579ca50b1a444",
+      "sha256_text": "55ad08be50e3940720da08bfb19c241d270f0aa325f3e96776a8b93d87656d22"
+    }
+  ],
+  "snapshots_found": {
+    "votetimscott.com": 13
+  },
+  "generated_utc": "2026-11-26T08:20:10Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
