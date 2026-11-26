@@ -1,0 +1,71 @@
+{
+  "name": "Dan Newhouse",
+  "domains_tried": [
+    "dannewhouse.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.dannewhouse.com/",
+      "timestamp": "20241105114010",
+      "wayback": "https://web.archive.org/web/20241105114010/https://www.dannewhouse.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105114010id_/https://www.dannewhouse.com/",
+      "file": "archive/2024/newhouse-wa/home.html",
+      "text_file": "archive/2024/newhouse-wa/home.txt",
+      "bytes": 50821,
+      "sha256_html": "a41170f914fd58c5a1ab6a5f904f3f520c852e57cb4a3ecf707f3b126e3415b4",
+      "sha256_text": "9af680bd2242ce1ea24598372e8836492d1e158b470b799ddadbf51ef6b75a75"
+    },
+    {
+      "original": "https://www.dannewhouse.com/defending_american_values",
+      "timestamp": "20241031044704",
+      "wayback": "https://web.archive.org/web/20241031044704/https://www.dannewhouse.com/defending_american_values",
+      "wayback_raw": "https://web.archive.org/web/20241031044704id_/https://www.dannewhouse.com/defending_american_values",
+      "file": "archive/2024/newhouse-wa/defending-american-values.html",
+      "text_file": "archive/2024/newhouse-wa/defending-american-values.txt",
+      "bytes": 44120,
+      "sha256_html": "e59c72e573ab9212488d609c74b8acc3ce8f7d9eee7b977e7052451485ee28a7",
+      "sha256_text": "0be8cad951a54e4f51d5517b759429d52f578fa8cae4656beb2ce78a69f557d7"
+    },
+    {
+      "original": "https://www.dannewhouse.com/issues-survey",
+      "timestamp": "20241017233313",
+      "wayback": "https://web.archive.org/web/20241017233313/https://www.dannewhouse.com/issues-survey",
+      "wayback_raw": "https://web.archive.org/web/20241017233313id_/https://www.dannewhouse.com/issues-survey",
+      "file": "archive/2024/newhouse-wa/issues-survey.html",
+      "text_file": "archive/2024/newhouse-wa/issues-survey.txt",
+      "bytes": 36058,
+      "sha256_html": "4ad5d79341fac807d3c0d5b46328d5080d81b9518bac657178195c66e13ac1f7",
+      "sha256_text": "4766fa683f0dfada9a2496d654eb346ca1dd622ed0bc67d9758a5dd687212f2d"
+    },
+    {
+      "original": "https://www.dannewhouse.com/on_the_issues",
+      "timestamp": "20241031013603",
+      "wayback": "https://web.archive.org/web/20241031013603/https://www.dannewhouse.com/on_the_issues",
+      "wayback_raw": "https://web.archive.org/web/20241031013603id_/https://www.dannewhouse.com/on_the_issues",
+      "file": "archive/2024/newhouse-wa/on-the-issues.html",
+      "text_file": "archive/2024/newhouse-wa/on-the-issues.txt",
+      "bytes": 38615,
+      "sha256_html": "2b5a168ae056e1a75ce1dbfccd4bc7cbc319435d68219b1a5b9da5cc0ae87efd",
+      "sha256_text": "6e578b9ce6f6db5d0862e51d449c2b703b114cb87d9825168e4c2005af4b28df"
+    },
+    {
+      "original": "https://www.dannewhouse.com/yakima_water_plan",
+      "timestamp": "20241017233317",
+      "wayback": "https://web.archive.org/web/20241017233317/https://www.dannewhouse.com/yakima_water_plan",
+      "wayback_raw": "https://web.archive.org/web/20241017233317id_/https://www.dannewhouse.com/yakima_water_plan",
+      "file": "archive/2024/newhouse-wa/yakima-water-plan.html",
+      "text_file": "archive/2024/newhouse-wa/yakima-water-plan.txt",
+      "bytes": 63713,
+      "sha256_html": "6b46c90f3208a928a590cd8a110cbae998c61586e74c7da13269aac875537c80",
+      "sha256_text": "bc426b7acc4f4da16341f828e2b6e6c470440d8687c9002553832afc21a9cdf3"
+    }
+  ],
+  "snapshots_found": {
+    "dannewhouse.com": 35
+  },
+  "generated_utc": "2026-11-26T07:23:43Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
