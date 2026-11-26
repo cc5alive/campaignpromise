@@ -1,0 +1,27 @@
+{
+  "name": "James R. Walkinshaw",
+  "domains_tried": [
+    "jameswalkinshaw.org"
+  ],
+  "pages": [
+    {
+      "original": "https://jameswalkinshaw.org/",
+      "timestamp": "20241101033513",
+      "wayback": "https://web.archive.org/web/20241101033513/https://jameswalkinshaw.org/",
+      "wayback_raw": "https://web.archive.org/web/20241101033513id_/https://jameswalkinshaw.org/",
+      "file": "archive/2024/walkinshaw-va/home.html",
+      "text_file": "archive/2024/walkinshaw-va/home.txt",
+      "bytes": 35233,
+      "sha256_html": "c024784550f97e51e6e45fa2c53a0f38b64dba42a60e71db164ff4a2f5cf24b6",
+      "sha256_text": "0220e3c850c5fc6cdd6626f44c80a20d36c061b29386fd770658bcc603bfbed0"
+    }
+  ],
+  "snapshots_found": {
+    "jameswalkinshaw.org": 1
+  },
+  "generated_utc": "2026-11-26T09:21:23Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
