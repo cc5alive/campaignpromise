@@ -1,0 +1,71 @@
+{
+  "name": "Kevin Kiley",
+  "domains_tried": [
+    "electkevinkiley.com"
+  ],
+  "pages": [
+    {
+      "original": "https://electkevinkiley.com/",
+      "timestamp": "20241105173405",
+      "wayback": "https://web.archive.org/web/20241105173405/https://electkevinkiley.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105173405id_/https://electkevinkiley.com/",
+      "file": "archive/2024/kiley-ca/home.html",
+      "text_file": "archive/2024/kiley-ca/home.txt",
+      "bytes": 318494,
+      "sha256_html": "3979c18b85787f2b2f3ae2f2b1fba227933b344ac6dce0a988b10957b50619c6",
+      "sha256_text": "4cd458e275165add811d5663fd8622b0f3b9bfbf2e8e3d5732174b56a5f73718"
+    },
+    {
+      "original": "https://electkevinkiley.com/american-issues-survey/",
+      "timestamp": "20241105100650",
+      "wayback": "https://web.archive.org/web/20241105100650/https://electkevinkiley.com/american-issues-survey/",
+      "wayback_raw": "https://web.archive.org/web/20241105100650id_/https://electkevinkiley.com/american-issues-survey/",
+      "file": "archive/2024/kiley-ca/american-issues-survey.html",
+      "text_file": "archive/2024/kiley-ca/american-issues-survey.txt",
+      "bytes": 234756,
+      "sha256_html": "f761f0d253170412ea5447e3f3590ffb9d86d636b28553c2c0988165ab6afe5b",
+      "sha256_text": "528c601728c4a89607167167741d3b06f4fdd149532bd818e3691659c04c7fbe"
+    },
+    {
+      "original": "https://electkevinkiley.com/fighter/",
+      "timestamp": "20241105100306",
+      "wayback": "https://web.archive.org/web/20241105100306/https://electkevinkiley.com/fighter/",
+      "wayback_raw": "https://web.archive.org/web/20241105100306id_/https://electkevinkiley.com/fighter/",
+      "file": "archive/2024/kiley-ca/fighter.html",
+      "text_file": "archive/2024/kiley-ca/fighter.txt",
+      "bytes": 208110,
+      "sha256_html": "8436b2f0202ab92e70459e974a82ddb0f49cef6d7086e43ef2c2871c39a19d0b",
+      "sha256_text": "8bc0c599202ee77d233d198541c03db520cb10f3c3917781514595f1cf5ea37e"
+    },
+    {
+      "original": "https://electkevinkiley.com/fighter/embed/",
+      "timestamp": "20241102143848",
+      "wayback": "https://web.archive.org/web/20241102143848/https://electkevinkiley.com/fighter/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241102143848id_/https://electkevinkiley.com/fighter/embed/",
+      "file": "archive/2024/kiley-ca/fighter-embed.html",
+      "text_file": "archive/2024/kiley-ca/fighter-embed.txt",
+      "bytes": 208165,
+      "sha256_html": "219d53b274b8705344d2d751de7189a6b4d8aa321a10c8ef6818d9d57693c4ce",
+      "sha256_text": "8bc0c599202ee77d233d198541c03db520cb10f3c3917781514595f1cf5ea37e"
+    },
+    {
+      "original": "https://electkevinkiley.com/about/",
+      "timestamp": "20241105100300",
+      "wayback": "https://web.archive.org/web/20241105100300/https://electkevinkiley.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105100300id_/https://electkevinkiley.com/about/",
+      "file": "archive/2024/kiley-ca/about.html",
+      "text_file": "archive/2024/kiley-ca/about.txt",
+      "bytes": 250418,
+      "sha256_html": "79ae97157547f30bdbfa16ff665f8f7a50f9234b511fb8906a3b77769c3d48fb",
+      "sha256_text": "f39577f2eef1ce903bade17c5716f6b832f4c2243dc45ee435b18a7050742a15"
+    }
+  ],
+  "snapshots_found": {
+    "electkevinkiley.com": 90
+  },
+  "generated_utc": "2026-11-26T09:04:31Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
