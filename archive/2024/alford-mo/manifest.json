@@ -1,0 +1,39 @@
+{
+  "name": "Mark Alford",
+  "domains_tried": [
+    "alfordforcongress.com",
+    "markalford.com"
+  ],
+  "pages": [
+    {
+      "original": "https://alfordforcongress.com/",
+      "timestamp": "20241105105927",
+      "wayback": "https://web.archive.org/web/20241105105927/https://alfordforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105105927id_/https://alfordforcongress.com/",
+      "file": "archive/2024/alford-mo/home.html",
+      "text_file": "archive/2024/alford-mo/home.txt",
+      "bytes": 171239,
+      "sha256_html": "86bdb08e83586a93781dc58a64c0c0d513612a05c019f306a71459911b820037",
+      "sha256_text": "689aef00d8f348d1661a61f580975212a1ce0c130bdf7ca342b9201c1d3bec32"
+    },
+    {
+      "original": "https://alfordforcongress.com/on-the-issues/",
+      "timestamp": "20241105110003",
+      "wayback": "https://web.archive.org/web/20241105110003/https://alfordforcongress.com/on-the-issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105110003id_/https://alfordforcongress.com/on-the-issues/",
+      "file": "archive/2024/alford-mo/on-the-issues.html",
+      "text_file": "archive/2024/alford-mo/on-the-issues.txt",
+      "bytes": 144212,
+      "sha256_html": "261f5dfa73919391e4acaeef062d203d47e2ee030ec0854baa27fa04a98e1756",
+      "sha256_text": "339f0c9b764636d0a4f3c03e22a3eb393ba11d03ca36a3ed0700b24e8ed33b5d"
+    }
+  ],
+  "snapshots_found": {
+    "alfordforcongress.com": 8
+  },
+  "generated_utc": "2026-11-26T09:08:24Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
