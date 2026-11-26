@@ -1,0 +1,49 @@
+{
+  "name": "Darin LaHood",
+  "domains_tried": [
+    "lahoodforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://lahoodforcongress.com/",
+      "timestamp": "20241105193450",
+      "wayback": "https://web.archive.org/web/20241105193450/https://lahoodforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105193450id_/https://lahoodforcongress.com/",
+      "file": "archive/2024/lahood-il/home.html",
+      "text_file": "archive/2024/lahood-il/home.txt",
+      "bytes": 117997,
+      "sha256_html": "75639cfb7fd6d750497e21565401c32c7c2d963458fd0b886715b7602dc5d17a",
+      "sha256_text": "f7857b97e17b9f05b5a25bb2d895858728f70b557486b401f39f74b90b048b41"
+    },
+    {
+      "original": "https://lahoodforcongress.com/issues/",
+      "timestamp": "20241105124744",
+      "wayback": "https://web.archive.org/web/20241105124744/https://lahoodforcongress.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105124744id_/https://lahoodforcongress.com/issues/",
+      "file": "archive/2024/lahood-il/issues.html",
+      "text_file": "archive/2024/lahood-il/issues.txt",
+      "bytes": 60226,
+      "sha256_html": "4c2bb7a2d9adf09e3f8ce4471b27bd4f2fed161685e963e55faa74728de17be4",
+      "sha256_text": "bc1cb74b1dba53c78efbddbb73235f83796ae2b97d7449984e079ac911f16e0e"
+    },
+    {
+      "original": "https://lahoodforcongress.com/about/",
+      "timestamp": "20241105124744",
+      "wayback": "https://web.archive.org/web/20241105124744/https://lahoodforcongress.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105124744id_/https://lahoodforcongress.com/about/",
+      "file": "archive/2024/lahood-il/about.html",
+      "text_file": "archive/2024/lahood-il/about.txt",
+      "bytes": 57625,
+      "sha256_html": "14da747dcb8c66a01fbb94cba6e6d1d2923f142f56385def74f1951fd63d695f",
+      "sha256_text": "888722a11e69c0b1a8d86bc5a9892ab529a795f45a14a4bfd4180f0d3b89df72"
+    }
+  ],
+  "snapshots_found": {
+    "lahoodforcongress.com": 14
+  },
+  "generated_utc": "2026-11-26T07:35:23Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
