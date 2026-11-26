@@ -1,0 +1,148 @@
+{
+  "name": "Rick Larsen",
+  "domains_tried": [
+    "ricklarsen.org"
+  ],
+  "pages": [
+    {
+      "original": "https://www.ricklarsen.org/",
+      "timestamp": "20241105033139",
+      "wayback": "https://web.archive.org/web/20241105033139/https://www.ricklarsen.org/",
+      "wayback_raw": "https://web.archive.org/web/20241105033139id_/https://www.ricklarsen.org/",
+      "file": "archive/2024/larsen-wa/home.html",
+      "text_file": "archive/2024/larsen-wa/home.txt",
+      "bytes": 15990,
+      "sha256_html": "2190a35e8a9f0d9123cbfc8936576fcd11ea97e67ff261e2b6507a1a1f21b4eb",
+      "sha256_text": "05267ab9aeb4952958d2e81948d193360dc39e86de5636aaa6e73cc233f0e1f8"
+    },
+    {
+      "original": "https://www.ricklarsen.org/priorities/",
+      "timestamp": "20241104223923",
+      "wayback": "https://web.archive.org/web/20241104223923/https://www.ricklarsen.org/priorities/",
+      "wayback_raw": "https://web.archive.org/web/20241104223923id_/https://www.ricklarsen.org/priorities/",
+      "file": "archive/2024/larsen-wa/priorities.html",
+      "text_file": "archive/2024/larsen-wa/priorities.txt",
+      "bytes": 21088,
+      "sha256_html": "eca1a8ea9a16146777a479f313aef32707ed77077d76cd1db13ddf9e006d88d3",
+      "sha256_text": "aad959dd69c712fe5b5831a1da603c916114dd5860d5c6d84023122510aa7160"
+    },
+    {
+      "original": "https://www.ricklarsen.org/2010/06/01/my-priorities/",
+      "timestamp": "20241105003118",
+      "wayback": "https://web.archive.org/web/20241105003118/https://www.ricklarsen.org/2010/06/01/my-priorities/",
+      "wayback_raw": "https://web.archive.org/web/20241105003118id_/https://www.ricklarsen.org/2010/06/01/my-priorities/",
+      "file": "archive/2024/larsen-wa/2010-06-01-my-priorities.html",
+      "text_file": "archive/2024/larsen-wa/2010-06-01-my-priorities.txt",
+      "bytes": 14805,
+      "sha256_html": "6aff90638e7aae113eaf394cbb607952dedc7cea8fee291510898cb07a49fd53",
+      "sha256_text": "58e6d9dbd45a5e6eefeda5bc43c7766ca882b6f80d3ff38eac27b7c0a7c1e6c5"
+    },
+    {
+      "original": "https://www.ricklarsen.org/2010/07/19/fire-fighters-support-rick/",
+      "timestamp": "20241105003115",
+      "wayback": "https://web.archive.org/web/20241105003115/https://www.ricklarsen.org/2010/07/19/fire-fighters-support-rick/",
+      "wayback_raw": "https://web.archive.org/web/20241105003115id_/https://www.ricklarsen.org/2010/07/19/fire-fighters-support-rick/",
+      "file": "archive/2024/larsen-wa/2010-07-19-fire-fighters-support-rick.html",
+      "text_file": "archive/2024/larsen-wa/2010-07-19-fire-fighters-support-rick.txt",
+      "bytes": 15170,
+      "sha256_html": "d5d9d0d49e5913c425d0368b6e4b5788b7a84961f6348bbc7a1a21edeeecf726",
+      "sha256_text": "a3d6c1d16dc3b5fbdf1052dafb39a640321d9b10762de35e88e662acbf3e3ec7"
+    },
+    {
+      "original": "https://www.ricklarsen.org/2010/07/22/larsen-stands-families-and-small-businesses-northw/",
+      "timestamp": "20241105003119",
+      "wayback": "https://web.archive.org/web/20241105003119/https://www.ricklarsen.org/2010/07/22/larsen-stands-families-and-small-businesses-northw/",
+      "wayback_raw": "https://web.archive.org/web/20241105003119id_/https://www.ricklarsen.org/2010/07/22/larsen-stands-families-and-small-businesses-northw/",
+      "file": "archive/2024/larsen-wa/2010-07-22-larsen-stands-families-and-small-businesses-northw.html",
+      "text_file": "archive/2024/larsen-wa/2010-07-22-larsen-stands-families-and-small-businesses-northw.txt",
+      "bytes": 17224,
+      "sha256_html": "06020b11c53019f014763477e1a86c0aa8d772771a1bef871915ae6d0aa606f0",
+      "sha256_text": "16feb3dcf65baecda72990818d201b73267042beb77e7e269c678719aa9e649c"
+    },
+    {
+      "original": "https://www.ricklarsen.org/2010/08/17/larsen-strong-position-heading-general-election/",
+      "timestamp": "20241105002255",
+      "wayback": "https://web.archive.org/web/20241105002255/https://www.ricklarsen.org/2010/08/17/larsen-strong-position-heading-general-election/",
+      "wayback_raw": "https://web.archive.org/web/20241105002255id_/https://www.ricklarsen.org/2010/08/17/larsen-strong-position-heading-general-election/",
+      "file": "archive/2024/larsen-wa/2010-08-17-larsen-strong-position-heading-general-election.html",
+      "text_file": "archive/2024/larsen-wa/2010-08-17-larsen-strong-position-heading-general-election.txt",
+      "bytes": 15351,
+      "sha256_html": "6224316194ee0a0d1caf9bee8ffa39bf0e609b94486e3794ca0b2f41fda57d22",
+      "sha256_text": "152ada50bc4957c43ccd641268012cb4de94bc489590749a146c2d0b016288b9"
+    },
+    {
+      "original": "https://www.ricklarsen.org/2010/08/17/larsen-strong-position-heading-generll-election/",
+      "timestamp": "20241105002253",
+      "wayback": "https://web.archive.org/web/20241105002253/https://www.ricklarsen.org/2010/08/17/larsen-strong-position-heading-generll-election/",
+      "wayback_raw": "https://web.archive.org/web/20241105002253id_/https://www.ricklarsen.org/2010/08/17/larsen-strong-position-heading-generll-election/",
+      "file": "archive/2024/larsen-wa/2010-08-17-larsen-strong-position-heading-generll-election.html",
+      "text_file": "archive/2024/larsen-wa/2010-08-17-larsen-strong-position-heading-generll-election.txt",
+      "bytes": 15351,
+      "sha256_html": "94607ad51f4706a0c05e005d5e28d863d56f41ff6e136b492966591c3bec2c95",
+      "sha256_text": "152ada50bc4957c43ccd641268012cb4de94bc489590749a146c2d0b016288b9"
+    },
+    {
+      "original": "https://www.ricklarsen.org/2010/09/10/john-kosters-plan-economy-similar-seinfeld-show/",
+      "timestamp": "20241105002255",
+      "wayback": "https://web.archive.org/web/20241105002255/https://www.ricklarsen.org/2010/09/10/john-kosters-plan-economy-similar-seinfeld-show/",
+      "wayback_raw": "https://web.archive.org/web/20241105002255id_/https://www.ricklarsen.org/2010/09/10/john-kosters-plan-economy-similar-seinfeld-show/",
+      "file": "archive/2024/larsen-wa/2010-09-10-john-kosters-plan-economy-similar-seinfeld-show.html",
+      "text_file": "archive/2024/larsen-wa/2010-09-10-john-kosters-plan-economy-similar-seinfeld-show.txt",
+      "bytes": 15583,
+      "sha256_html": "8c8103963915ceb5af12e3d503209aa6b3bc5e276ca079d3d136a67036089f9f",
+      "sha256_text": "af6d8db9bcce970c08586e2c38975137cea4a8b0708bd1ba0a392a57581c2771"
+    },
+    {
+      "original": "https://www.ricklarsen.org/2010/09/13/koster-continues-decade-long-fight-privatize-socia/",
+      "timestamp": "20241105002250",
+      "wayback": "https://web.archive.org/web/20241105002250/https://www.ricklarsen.org/2010/09/13/koster-continues-decade-long-fight-privatize-socia/",
+      "wayback_raw": "https://web.archive.org/web/20241105002250id_/https://www.ricklarsen.org/2010/09/13/koster-continues-decade-long-fight-privatize-socia/",
+      "file": "archive/2024/larsen-wa/2010-09-13-koster-continues-decade-long-fight-privatize-socia.html",
+      "text_file": "archive/2024/larsen-wa/2010-09-13-koster-continues-decade-long-fight-privatize-socia.txt",
+      "bytes": 16126,
+      "sha256_html": "8b48af1845dca7cb25b658bd52b0d8b95e586ebf9f78400225fe9b8a449c45ff",
+      "sha256_text": "b80fe11528ae1a92ae2ccd83004ef1684efb9aaf435adb7493c61c63dc2a7948"
+    },
+    {
+      "original": "https://www.ricklarsen.org/2010/09/20/new-web-video-kosters-plan-privatize-social-securi/",
+      "timestamp": "20241105003124",
+      "wayback": "https://web.archive.org/web/20241105003124/https://www.ricklarsen.org/2010/09/20/new-web-video-kosters-plan-privatize-social-securi/",
+      "wayback_raw": "https://web.archive.org/web/20241105003124id_/https://www.ricklarsen.org/2010/09/20/new-web-video-kosters-plan-privatize-social-securi/",
+      "file": "archive/2024/larsen-wa/2010-09-20-new-web-video-kosters-plan-privatize-social-securi.html",
+      "text_file": "archive/2024/larsen-wa/2010-09-20-new-web-video-kosters-plan-privatize-social-securi.txt",
+      "bytes": 16689,
+      "sha256_html": "880afda1fb85fe60fc63eaecbfe15721871eaa6475368d7d822562675d56129e",
+      "sha256_text": "c5a2a765c43b9fa2121214a2f2a8716464d9ffb922240dd0236734f4d8708f09"
+    },
+    {
+      "original": "https://www.ricklarsen.org/2012/01/31/larsen-heading-2012-campaign-strong-position/",
+      "timestamp": "20241105002014",
+      "wayback": "https://web.archive.org/web/20241105002014/https://www.ricklarsen.org/2012/01/31/larsen-heading-2012-campaign-strong-position/",
+      "wayback_raw": "https://web.archive.org/web/20241105002014id_/https://www.ricklarsen.org/2012/01/31/larsen-heading-2012-campaign-strong-position/",
+      "file": "archive/2024/larsen-wa/2012-01-31-larsen-heading-2012-campaign-strong-position.html",
+      "text_file": "archive/2024/larsen-wa/2012-01-31-larsen-heading-2012-campaign-strong-position.txt",
+      "bytes": 15121,
+      "sha256_html": "6a16a5900bd6d42bb48c6d538c43961b4e238e7f33ba00d453f158e57cdef8be",
+      "sha256_text": "dd00bfee9e299ceb804304b184e08cbfbb502054fc23e84a5f6fdae93d113f84"
+    },
+    {
+      "original": "https://www.ricklarsen.org/2013/08/01/my-priorities-are-your-priorities/",
+      "timestamp": "20241105002012",
+      "wayback": "https://web.archive.org/web/20241105002012/https://www.ricklarsen.org/2013/08/01/my-priorities-are-your-priorities/",
+      "wayback_raw": "https://web.archive.org/web/20241105002012id_/https://www.ricklarsen.org/2013/08/01/my-priorities-are-your-priorities/",
+      "file": "archive/2024/larsen-wa/2013-08-01-my-priorities-are-your-priorities.html",
+      "text_file": "archive/2024/larsen-wa/2013-08-01-my-priorities-are-your-priorities.txt",
+      "bytes": 16841,
+      "sha256_html": "bbff24bf102e07ef5e902538111edcecee0d16fd687ae81b887b5108e493b123",
+      "sha256_text": "3a054216617332eeadb12e444ce0056c8cb87150079654deae4c21208a4ebb55"
+    }
+  ],
+  "snapshots_found": {
+    "ricklarsen.org": 702
+  },
+  "generated_utc": "2026-11-26T07:58:55Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
