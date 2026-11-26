@@ -1,0 +1,27 @@
+{
+  "name": "Lisa Murkowski",
+  "domains_tried": [
+    "lisamurkowski.com"
+  ],
+  "pages": [
+    {
+      "original": "https://lisamurkowski.com/",
+      "timestamp": "20241007224159",
+      "wayback": "https://web.archive.org/web/20241007224159/https://lisamurkowski.com/",
+      "wayback_raw": "https://web.archive.org/web/20241007224159id_/https://lisamurkowski.com/",
+      "file": "archive/2024/murkowski-ak/home.html",
+      "text_file": "archive/2024/murkowski-ak/home.txt",
+      "bytes": 32656,
+      "sha256_html": "3d3e11cc2b4f009daa15ab4a2eae33e79dbafbbbc5f355cfa077d9c453212d14",
+      "sha256_text": "70180ace4326cc1dc6acc569b327d5ac43bd18abea35a7230fc1f77ab60743e3"
+    }
+  ],
+  "snapshots_found": {
+    "lisamurkowski.com": 8
+  },
+  "generated_utc": "2026-11-26T08:12:33Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
