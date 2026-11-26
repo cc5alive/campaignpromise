@@ -1,0 +1,148 @@
+{
+  "name": "Seth Magaziner",
+  "domains_tried": [
+    "sethmagaziner.com"
+  ],
+  "pages": [
+    {
+      "original": "https://sethmagaziner.com/",
+      "timestamp": "20241105120636",
+      "wayback": "https://web.archive.org/web/20241105120636/https://sethmagaziner.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105120636id_/https://sethmagaziner.com/",
+      "file": "archive/2024/magaziner-ri/home.html",
+      "text_file": "archive/2024/magaziner-ri/home.txt",
+      "bytes": 36161,
+      "sha256_html": "96d3a9835e2fdffb84808f75f2084c5aad859de7d4368ff50e28d679f558b399",
+      "sha256_text": "9eb840fcee2629b4478eddb6b41b6063066bdbce1cc9e8df13ed8d775f6e8c00"
+    },
+    {
+      "original": "https://sethmagaziner.com/issue/",
+      "timestamp": "20241105121035",
+      "wayback": "https://web.archive.org/web/20241105121035/https://sethmagaziner.com/issue/",
+      "wayback_raw": "https://web.archive.org/web/20241105121035id_/https://sethmagaziner.com/issue/",
+      "file": "archive/2024/magaziner-ri/issue.html",
+      "text_file": "archive/2024/magaziner-ri/issue.txt",
+      "bytes": 45292,
+      "sha256_html": "cf3f6d534fd8d1cca4f7a77af1a0892e2bb7bda26e9e905e61168556c089611c",
+      "sha256_text": "9390db930b864568360a0e4bd2e9053143588ef10ed8b6e9a42c536b6016df04"
+    },
+    {
+      "original": "https://sethmagaziner.com/seths-plan/",
+      "timestamp": "20241105121802",
+      "wayback": "https://web.archive.org/web/20241105121802/https://sethmagaziner.com/seths-plan/",
+      "wayback_raw": "https://web.archive.org/web/20241105121802id_/https://sethmagaziner.com/seths-plan/",
+      "file": "archive/2024/magaziner-ri/seths-plan.html",
+      "text_file": "archive/2024/magaziner-ri/seths-plan.txt",
+      "bytes": 48185,
+      "sha256_html": "1632dabae72c4418cd3b4a0e14e9669c266348643eaa0961c7e7bdcff86efffb",
+      "sha256_text": "ac3044a807984056934eb00822028c8cfdcf92534d2a6d260cc6005be2c27f2e"
+    },
+    {
+      "original": "https://sethmagaziner.com/issue/building-a-stronger-economy/",
+      "timestamp": "20241105121802",
+      "wayback": "https://web.archive.org/web/20241105121802/https://sethmagaziner.com/issue/building-a-stronger-economy/",
+      "wayback_raw": "https://web.archive.org/web/20241105121802id_/https://sethmagaziner.com/issue/building-a-stronger-economy/",
+      "file": "archive/2024/magaziner-ri/issue-building-a-stronger-economy.html",
+      "text_file": "archive/2024/magaziner-ri/issue-building-a-stronger-economy.txt",
+      "bytes": 37742,
+      "sha256_html": "041393a01d1f2b0307a0bd369f9d8bf85054a6ceeb32b63b845d442134574b13",
+      "sha256_text": "a2929717d9e67d10237b7531e99dd4e98f1ee313aa17a8c43a218fb254b224d6"
+    },
+    {
+      "original": "https://sethmagaziner.com/issue/defending-reproductive-rights/",
+      "timestamp": "20241105121820",
+      "wayback": "https://web.archive.org/web/20241105121820/https://sethmagaziner.com/issue/defending-reproductive-rights/",
+      "wayback_raw": "https://web.archive.org/web/20241105121820id_/https://sethmagaziner.com/issue/defending-reproductive-rights/",
+      "file": "archive/2024/magaziner-ri/issue-defending-reproductive-rights.html",
+      "text_file": "archive/2024/magaziner-ri/issue-defending-reproductive-rights.txt",
+      "bytes": 37359,
+      "sha256_html": "94f11274d337ce34d3b58f95a3b718a2797000dcf30401d07a2456f4fdab2563",
+      "sha256_text": "992a276f2fbb97832598c9a29677d7aefbd8eeb4d05071937f65fe935b7a184a"
+    },
+    {
+      "original": "https://sethmagaziner.com/issue/ending-gun-violence/",
+      "timestamp": "20241105121813",
+      "wayback": "https://web.archive.org/web/20241105121813/https://sethmagaziner.com/issue/ending-gun-violence/",
+      "wayback_raw": "https://web.archive.org/web/20241105121813id_/https://sethmagaziner.com/issue/ending-gun-violence/",
+      "file": "archive/2024/magaziner-ri/issue-ending-gun-violence.html",
+      "text_file": "archive/2024/magaziner-ri/issue-ending-gun-violence.txt",
+      "bytes": 37139,
+      "sha256_html": "0f8fd789b57b7292dbf3e5c0edcf4a96d7d4b717f23739c23e1d136362de4d4d",
+      "sha256_text": "f72234f06695fb94f0be44be678bb34d24bc77dde2a820752c2bb59167bd61ff"
+    },
+    {
+      "original": "https://sethmagaziner.com/issue/lowering-costs/",
+      "timestamp": "20241105121811",
+      "wayback": "https://web.archive.org/web/20241105121811/https://sethmagaziner.com/issue/lowering-costs/",
+      "wayback_raw": "https://web.archive.org/web/20241105121811id_/https://sethmagaziner.com/issue/lowering-costs/",
+      "file": "archive/2024/magaziner-ri/issue-lowering-costs.html",
+      "text_file": "archive/2024/magaziner-ri/issue-lowering-costs.txt",
+      "bytes": 37236,
+      "sha256_html": "f54551d7577cd8c2e748ba9710c228db0cd7e948acfd5296abc80ce2e216d427",
+      "sha256_text": "862e0d44b7ab656987f22ec69cca8526e043dbb2f281cb783d66a0716fb90699"
+    },
+    {
+      "original": "https://sethmagaziner.com/issue/making-healthcare-more-affordable/",
+      "timestamp": "20241105121820",
+      "wayback": "https://web.archive.org/web/20241105121820/https://sethmagaziner.com/issue/making-healthcare-more-affordable/",
+      "wayback_raw": "https://web.archive.org/web/20241105121820id_/https://sethmagaziner.com/issue/making-healthcare-more-affordable/",
+      "file": "archive/2024/magaziner-ri/issue-making-healthcare-more-affordable.html",
+      "text_file": "archive/2024/magaziner-ri/issue-making-healthcare-more-affordable.txt",
+      "bytes": 37634,
+      "sha256_html": "4b76ba33acd3ccaae581e9225aa9727dba24a0b3663196244154dcb845c5e3df",
+      "sha256_text": "56fe138261f5bc80a1a592dbe4793fcf85cd633cbcc11a918012b458c19586f3"
+    },
+    {
+      "original": "https://sethmagaziner.com/issue/protecting-our-democracy/",
+      "timestamp": "20241105121803",
+      "wayback": "https://web.archive.org/web/20241105121803/https://sethmagaziner.com/issue/protecting-our-democracy/",
+      "wayback_raw": "https://web.archive.org/web/20241105121803id_/https://sethmagaziner.com/issue/protecting-our-democracy/",
+      "file": "archive/2024/magaziner-ri/issue-protecting-our-democracy.html",
+      "text_file": "archive/2024/magaziner-ri/issue-protecting-our-democracy.txt",
+      "bytes": 37596,
+      "sha256_html": "476c00e579b329936c5b76e8cd725530a6523960e469412294a13139ec067303",
+      "sha256_text": "9414d67115a2279089a3c1bb75c0d46691505aea0800589693ffcef8c3dfcd6a"
+    },
+    {
+      "original": "https://sethmagaziner.com/issue/protecting-social-security-medicare/",
+      "timestamp": "20241105121825",
+      "wayback": "https://web.archive.org/web/20241105121825/https://sethmagaziner.com/issue/protecting-social-security-medicare/",
+      "wayback_raw": "https://web.archive.org/web/20241105121825id_/https://sethmagaziner.com/issue/protecting-social-security-medicare/",
+      "file": "archive/2024/magaziner-ri/issue-protecting-social-security-medicare.html",
+      "text_file": "archive/2024/magaziner-ri/issue-protecting-social-security-medicare.txt",
+      "bytes": 37526,
+      "sha256_html": "cf4fcc2e9e168e95bf7e2dab5dc3479c5848b92dcb1a028996e38583a84a4155",
+      "sha256_text": "b980aa3346ce8634e3fa5d6850da77421b429ef58a3ab3b5497cedea68663522"
+    },
+    {
+      "original": "https://sethmagaziner.com/issue/protecting-the-environment-and-combating-climate-change/",
+      "timestamp": "20241105121815",
+      "wayback": "https://web.archive.org/web/20241105121815/https://sethmagaziner.com/issue/protecting-the-environment-and-combating-climate-change/",
+      "wayback_raw": "https://web.archive.org/web/20241105121815id_/https://sethmagaziner.com/issue/protecting-the-environment-and-combating-climate-change/",
+      "file": "archive/2024/magaziner-ri/issue-protecting-the-environment-and-combating-climate-change.html",
+      "text_file": "archive/2024/magaziner-ri/issue-protecting-the-environment-and-combating-climate-change.txt",
+      "bytes": 37871,
+      "sha256_html": "32d7a63fd95119fcfc9e0e29acbeb04a1f0084d6f0562c9e3214c09cd17150ab",
+      "sha256_text": "45100f94e00c02d2378f5e48c63bd57d44a83be3e38c8096860d0d8d01a34161"
+    },
+    {
+      "original": "https://sethmagaziner.com/issue/public-health-and-pandemic-preparedness/",
+      "timestamp": "20241105121818",
+      "wayback": "https://web.archive.org/web/20241105121818/https://sethmagaziner.com/issue/public-health-and-pandemic-preparedness/",
+      "wayback_raw": "https://web.archive.org/web/20241105121818id_/https://sethmagaziner.com/issue/public-health-and-pandemic-preparedness/",
+      "file": "archive/2024/magaziner-ri/issue-public-health-and-pandemic-preparedness.html",
+      "text_file": "archive/2024/magaziner-ri/issue-public-health-and-pandemic-preparedness.txt",
+      "bytes": 38893,
+      "sha256_html": "856a122d52ec7683bbe85015cfbf7489cf61e490affd6dc895722b963f08dda4",
+      "sha256_text": "2c23ea7e9964e68527a6f509df8de34e692364fa4e7ba7ba041a0d59dc07f3fa"
+    }
+  ],
+  "snapshots_found": {
+    "sethmagaziner.com": 226
+  },
+  "generated_utc": "2026-11-26T09:11:03Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
