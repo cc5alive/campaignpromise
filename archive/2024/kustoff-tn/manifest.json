@@ -1,0 +1,83 @@
+{
+  "name": "David Kustoff",
+  "domains_tried": [
+    "kustoffforcongress.com",
+    "davidkustoff.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.kustoffforcongress.com/",
+      "timestamp": "20241105145850",
+      "wayback": "https://web.archive.org/web/20241105145850/https://www.kustoffforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105145850id_/https://www.kustoffforcongress.com/",
+      "file": "archive/2024/kustoff-tn/home.html",
+      "text_file": "archive/2024/kustoff-tn/home.txt",
+      "bytes": 46674,
+      "sha256_html": "0d4795755f484218e437e9ad7e5b039d84d0947d5a47004a73c74082b039d141",
+      "sha256_text": "a0449f3a3b5323e5061730af9ddcb1b51fd148957b1437eee1acadbe1a64daf2"
+    },
+    {
+      "original": "https://www.kustoffforcongress.com/issues/",
+      "timestamp": "20241105145908",
+      "wayback": "https://web.archive.org/web/20241105145908/https://www.kustoffforcongress.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105145908id_/https://www.kustoffforcongress.com/issues/",
+      "file": "archive/2024/kustoff-tn/issues.html",
+      "text_file": "archive/2024/kustoff-tn/issues.txt",
+      "bytes": 25955,
+      "sha256_html": "779a79bd45820855e849b1b3de5e15f6f9a8143451450469f0d95a9f50a547a5",
+      "sha256_text": "d7e5cffc341dda05f7217e245974b93f3e80508d9bfe22cbd56345525e7c2309"
+    },
+    {
+      "original": "https://www.kustoffforcongress.com/issues/embed/",
+      "timestamp": "20241101094824",
+      "wayback": "https://web.archive.org/web/20241101094824/https://www.kustoffforcongress.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241101094824id_/https://www.kustoffforcongress.com/issues/embed/",
+      "file": "archive/2024/kustoff-tn/issues-embed.html",
+      "text_file": "archive/2024/kustoff-tn/issues-embed.txt",
+      "bytes": 20510,
+      "sha256_html": "1c92aad892571074d8ba0dd7d99758272d0ff4c0faa38e4aecd93fbe0463aab8",
+      "sha256_text": "5b4e12c79b0b17d140ed4a54c038c20bdc086b9b859a2c2147396d77f28160d5"
+    },
+    {
+      "original": "https://www.kustoffforcongress.com/2016/06/24/video-first-tv-ad-conservative-values/",
+      "timestamp": "20241105150141",
+      "wayback": "https://web.archive.org/web/20241105150141/https://www.kustoffforcongress.com/2016/06/24/video-first-tv-ad-conservative-values/",
+      "wayback_raw": "https://web.archive.org/web/20241105150141id_/https://www.kustoffforcongress.com/2016/06/24/video-first-tv-ad-conservative-values/",
+      "file": "archive/2024/kustoff-tn/2016-06-24-video-first-tv-ad-conservative-values.html",
+      "text_file": "archive/2024/kustoff-tn/2016-06-24-video-first-tv-ad-conservative-values.txt",
+      "bytes": 21483,
+      "sha256_html": "dce9b3f27ddb67a5acb9864e49f37d875eb3ce4e03a9f3df8dfc361919faabcf",
+      "sha256_text": "3af649e09c13c77128dffc4b0b801ae42cbaac6587956a4cf682716307f63823"
+    },
+    {
+      "original": "https://www.kustoffforcongress.com/2016/06/24/video-first-tv-ad-conservative-values/embed/",
+      "timestamp": "20241103212920",
+      "wayback": "https://web.archive.org/web/20241103212920/https://www.kustoffforcongress.com/2016/06/24/video-first-tv-ad-conservative-values/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241103212920id_/https://www.kustoffforcongress.com/2016/06/24/video-first-tv-ad-conservative-values/embed/",
+      "file": "archive/2024/kustoff-tn/2016-06-24-video-first-tv-ad-conservative-values-embed.html",
+      "text_file": "archive/2024/kustoff-tn/2016-06-24-video-first-tv-ad-conservative-values-embed.txt",
+      "bytes": 20647,
+      "sha256_html": "365f77818754b969a418b50914f2336141c6936a392d2be860f69f5257d3b1c6",
+      "sha256_text": "5ced96c05644aa03e362cc0fd0cc0f9bb0cab698903019afb003215f85d27ea9"
+    },
+    {
+      "original": "https://www.kustoffforcongress.com/about/",
+      "timestamp": "20241105150027",
+      "wayback": "https://web.archive.org/web/20241105150027/https://www.kustoffforcongress.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105150027id_/https://www.kustoffforcongress.com/about/",
+      "file": "archive/2024/kustoff-tn/about.html",
+      "text_file": "archive/2024/kustoff-tn/about.txt",
+      "bytes": 22465,
+      "sha256_html": "4086bb7b5435f42d397982e353c472e7d6ea7c2e98b5b25edc0a84d34e0663e2",
+      "sha256_text": "b4c9ae257ee7e86cd770b7f2ec832da6a0b2e7a7b935c1d6df8f372bbfe19a02"
+    }
+  ],
+  "snapshots_found": {
+    "kustoffforcongress.com": 121
+  },
+  "generated_utc": "2026-11-26T09:04:36Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
