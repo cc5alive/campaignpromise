@@ -1,0 +1,38 @@
+{
+  "name": "Gregory W. Meeks",
+  "domains_tried": [
+    "congressmangregorymeeks.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.congressmangregorymeeks.com/",
+      "timestamp": "20241105061424",
+      "wayback": "https://web.archive.org/web/20241105061424/https://www.congressmangregorymeeks.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105061424id_/https://www.congressmangregorymeeks.com/",
+      "file": "archive/2024/meeks-ny/home.html",
+      "text_file": "archive/2024/meeks-ny/home.txt",
+      "bytes": 18654,
+      "sha256_html": "d358e32892cb332093ededdbd338429d7b5e6763543a07c18f82a9a0f0e8d819",
+      "sha256_text": "c48711aa38368a3369f1cd8a14eb9538fd9eea2ecf3866b82e399627fedd4719"
+    },
+    {
+      "original": "https://www.congressmangregorymeeks.com/about",
+      "timestamp": "20241105061428",
+      "wayback": "https://web.archive.org/web/20241105061428/https://www.congressmangregorymeeks.com/about",
+      "wayback_raw": "https://web.archive.org/web/20241105061428id_/https://www.congressmangregorymeeks.com/about",
+      "file": "archive/2024/meeks-ny/about.html",
+      "text_file": "archive/2024/meeks-ny/about.txt",
+      "bytes": 13792,
+      "sha256_html": "7264729f5708a9b1231850737e7de4533b7df594533a51acb4fb4f231c0f78a7",
+      "sha256_text": "fbf11fa023f3122dbecc5e3e2ce6993d4bb3da7f3fa1d3e23d367d23c4a432d3"
+    }
+  ],
+  "snapshots_found": {
+    "congressmangregorymeeks.com": 4
+  },
+  "generated_utc": "2026-11-26T08:07:37Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
