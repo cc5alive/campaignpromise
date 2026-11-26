@@ -1,0 +1,50 @@
+{
+ "committees": {
+  "C00422980": {
+   "name": "COHEN FOR CONGRESS",
+   "website": "HTTP://COHENFORCONGRESS.COM",
+   "error": null
+  },
+  "C00379735": {
+   "name": "COLE FOR CONGRESS",
+   "website": "WWW.TOMCOLEFORCONGRESS.COM",
+   "error": null
+  },
+  "C00391029": {
+   "name": "JIM COSTA FOR CONGRESS",
+   "website": "HTTPS://WWW.JIMCOSTA.COM/",
+   "error": null
+  },
+  "C00410233": {
+   "name": "COURTNEY FOR CONGRESS",
+   "website": "WWW.JOECOURTNEY.COM",
+   "error": null
+  },
+  "C00330886": {
+   "name": "MIKE CRAPO FOR US SENATE",
+   "website": "WWW.CRAPOFORSENATE.COM",
+   "error": null
+  },
+  "C00462374": {
+   "name": "CRAWFORD FOR CONGRESS",
+   "website": "WWW.MEETRICKCRAWFORD.COM",
+   "error": null
+  },
+  "C00172619": {
+   "name": "DAVIS FOR CONGRESS/FRIENDS OF DAVIS",
+   "website": null,
+   "error": null
+  },
+  "C00311639": {
+   "name": "DIANA DEGETTE FOR CONGRESS",
+   "website": "WWW.DEGETTE.COM",
+   "error": null
+  },
+  "C00238865": {
+   "name": "FRIENDS OF ROSA DELAURO",
+   "website": "HTTP://WWW.ROSADELAURO.COM",
+   "error": null
+  }
+ },
+ "searches": {}
+}
