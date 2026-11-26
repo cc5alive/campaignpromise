@@ -1,0 +1,82 @@
+{
+  "name": "Jim Costa",
+  "domains_tried": [
+    "jimcosta.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.jimcosta.com/",
+      "timestamp": "20241105070316",
+      "wayback": "https://web.archive.org/web/20241105070316/https://www.jimcosta.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105070316id_/https://www.jimcosta.com/",
+      "file": "archive/2024/costa-ca/home.html",
+      "text_file": "archive/2024/costa-ca/home.txt",
+      "bytes": 28118,
+      "sha256_html": "bbb30b4c8f9471315da460f11988af4099b3ed5f2da3d6b8752fd2325b645684",
+      "sha256_text": "87b66818871b69c62b6f78710e034a4e0a50e80e783477a1d32273ea768d2639"
+    },
+    {
+      "original": "https://www.jimcosta.com/fight_for_our_valley",
+      "timestamp": "20241105065653",
+      "wayback": "https://web.archive.org/web/20241105065653/https://www.jimcosta.com/fight_for_our_valley",
+      "wayback_raw": "https://web.archive.org/web/20241105065653id_/https://www.jimcosta.com/fight_for_our_valley",
+      "file": "archive/2024/costa-ca/fight-for-our-valley.html",
+      "text_file": "archive/2024/costa-ca/fight-for-our-valley.txt",
+      "bytes": 42000,
+      "sha256_html": "86563a9489c2115fddf561de932a4a8061515bb7bcd7b2e1329f302331522d65",
+      "sha256_text": "6b2b8ed258743a1332022535259fbfc8c2dda55c8eff9f91b95372b9ce716d77"
+    },
+    {
+      "original": "https://www.jimcosta.com/issues",
+      "timestamp": "20241105065628",
+      "wayback": "https://web.archive.org/web/20241105065628/https://www.jimcosta.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105065628id_/https://www.jimcosta.com/issues",
+      "file": "archive/2024/costa-ca/issues.html",
+      "text_file": "archive/2024/costa-ca/issues.txt",
+      "bytes": 32473,
+      "sha256_html": "4ed86371f52a83c3011d620a26e9a1059471888aa149359aaed2da7dc35566f2",
+      "sha256_text": "9ae9d64e088e10433bc06d975a10f208faa9a9efa016bb027b5bcc394a4a42a0"
+    },
+    {
+      "original": "https://www.jimcosta.com/legislative_record",
+      "timestamp": "20241105065635",
+      "wayback": "https://web.archive.org/web/20241105065635/https://www.jimcosta.com/legislative_record",
+      "wayback_raw": "https://web.archive.org/web/20241105065635id_/https://www.jimcosta.com/legislative_record",
+      "file": "archive/2024/costa-ca/legislative-record.html",
+      "text_file": "archive/2024/costa-ca/legislative-record.txt",
+      "bytes": 27318,
+      "sha256_html": "41dfdbd8af3fc62d29c8567e3db5ace2ddb89d29bfd584c758347d9a101d8e92",
+      "sha256_text": "28f6427370ab8f6a35e5c49749b44f1dd4214be1cb611121a5cdce189f8dbf7d"
+    },
+    {
+      "original": "https://www.jimcosta.com/standing_up_for_kessab",
+      "timestamp": "20241105065655",
+      "wayback": "https://web.archive.org/web/20241105065655/https://www.jimcosta.com/standing_up_for_kessab",
+      "wayback_raw": "https://web.archive.org/web/20241105065655id_/https://www.jimcosta.com/standing_up_for_kessab",
+      "file": "archive/2024/costa-ca/standing-up-for-kessab.html",
+      "text_file": "archive/2024/costa-ca/standing-up-for-kessab.txt",
+      "bytes": 43839,
+      "sha256_html": "38801a586c19f3572db51c9567b86ac79c42fcef937b5b3a2d63cb0e6010cdf1",
+      "sha256_text": "fbb0d9c27d5f8e61dedeaa0dad1cf7802e865f8a3b44c0cc0e63a9a176f8a02e"
+    },
+    {
+      "original": "https://www.jimcosta.com/about",
+      "timestamp": "20241105065628",
+      "wayback": "https://web.archive.org/web/20241105065628/https://www.jimcosta.com/about",
+      "wayback_raw": "https://web.archive.org/web/20241105065628id_/https://www.jimcosta.com/about",
+      "file": "archive/2024/costa-ca/about.html",
+      "text_file": "archive/2024/costa-ca/about.txt",
+      "bytes": 21539,
+      "sha256_html": "fcca4946917304decdf5ebd91110168778146f15d3ff83700c3ac7d25a484999",
+      "sha256_text": "745fd1a5d41eca67ba0b446d421d473938eafd077997aa7487960442c318cf98"
+    }
+  ],
+  "snapshots_found": {
+    "jimcosta.com": 55
+  },
+  "generated_utc": "2026-11-26T07:35:10Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
