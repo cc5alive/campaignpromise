@@ -1,0 +1,49 @@
+{
+  "name": "Alma S. Adams",
+  "domains_tried": [
+    "almaadamsforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://almaadamsforcongress.com/",
+      "timestamp": "20241105123633",
+      "wayback": "https://web.archive.org/web/20241105123633/https://almaadamsforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105123633id_/https://almaadamsforcongress.com/",
+      "file": "archive/2024/adams-nc/home.html",
+      "text_file": "archive/2024/adams-nc/home.txt",
+      "bytes": 98348,
+      "sha256_html": "60d17acd3ac0c9268aa6c7070957e40a585c0934142ac1eb4416d983f60f265d",
+      "sha256_text": "737e307fa0d5a916d20616d6821c5b3ad314de7f00652e6498d65d021811368a"
+    },
+    {
+      "original": "https://almaadamsforcongress.com/issues/",
+      "timestamp": "20241105123727",
+      "wayback": "https://web.archive.org/web/20241105123727/https://almaadamsforcongress.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105123727id_/https://almaadamsforcongress.com/issues/",
+      "file": "archive/2024/adams-nc/issues.html",
+      "text_file": "archive/2024/adams-nc/issues.txt",
+      "bytes": 91591,
+      "sha256_html": "c772fdbb2ef7cbda5b7ae963b11550358f843372b63ad158439eaf0c775cd5fe",
+      "sha256_text": "92fd2a92d68d01d1403e7c043c998636a75738880153dafaff2c24c0fc590791"
+    },
+    {
+      "original": "https://almaadamsforcongress.com/issues/embed/",
+      "timestamp": "20241103023209",
+      "wayback": "https://web.archive.org/web/20241103023209/https://almaadamsforcongress.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241103023209id_/https://almaadamsforcongress.com/issues/embed/",
+      "file": "archive/2024/adams-nc/issues-embed.html",
+      "text_file": "archive/2024/adams-nc/issues-embed.txt",
+      "bytes": 21384,
+      "sha256_html": "e6183b8a3ff61626fae99a5566996a7f560acf5b95fccff735261667edc9593c",
+      "sha256_text": "c207620ff1ded7d752624a81d7070003959bb71dfa8151122496f90759c40861"
+    }
+  ],
+  "snapshots_found": {
+    "almaadamsforcongress.com": 29
+  },
+  "generated_utc": "2026-11-26T08:48:08Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
