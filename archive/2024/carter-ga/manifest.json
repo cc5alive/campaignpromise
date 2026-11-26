@@ -1,0 +1,27 @@
+{
+  "name": "Earl L. \"Buddy\" Carter",
+  "domains_tried": [
+    "buddycarterforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://buddycarterforcongress.com/issues/",
+      "timestamp": "20241105184548",
+      "wayback": "https://web.archive.org/web/20241105184548/https://buddycarterforcongress.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105184548id_/https://buddycarterforcongress.com/issues/",
+      "file": "archive/2024/carter-ga/issues.html",
+      "text_file": "archive/2024/carter-ga/issues.txt",
+      "bytes": 43711,
+      "sha256_html": "163a19812c7df2f5d324dcea17c80277e61523f58bd66342cab1b21a566c1a6c",
+      "sha256_text": "e933e8597e1233140994a3bcbaa5a49aa3cd0c8434ac581b7d8747ba85a82e95"
+    }
+  ],
+  "snapshots_found": {
+    "buddycarterforcongress.com": 0
+  },
+  "generated_utc": "2026-11-26T08:49:57Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
