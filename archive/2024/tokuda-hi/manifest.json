@@ -1,0 +1,85 @@
+{
+  "name": "Jill N. Tokuda",
+  "domains_tried": [
+    "tokudaforhawaii.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.tokudaforhawaii.com/",
+      "timestamp": "20241105054610",
+      "wayback": "https://web.archive.org/web/20241105054610/https://www.tokudaforhawaii.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105054610id_/https://www.tokudaforhawaii.com/",
+      "file": "archive/2024/tokuda-hi/home.html",
+      "text_file": "archive/2024/tokuda-hi/home.txt",
+      "bytes": 124541,
+      "sha256_html": "892862a4c978c8d5b768494a03806b42e52f3807aff29c5d6e0c8b5c7f5f31b1",
+      "sha256_text": "6648564d88d7c870072eea00e45428303066ffee5f8c6e06c818f3934d56594c"
+    },
+    {
+      "original": "https://www.tokudaforhawaii.com/issues/",
+      "timestamp": "20241105054202",
+      "wayback": "https://web.archive.org/web/20241105054202/https://www.tokudaforhawaii.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105054202id_/https://www.tokudaforhawaii.com/issues/",
+      "file": "archive/2024/tokuda-hi/issues.html",
+      "text_file": "archive/2024/tokuda-hi/issues.txt",
+      "bytes": 108363,
+      "sha256_html": "f6b923efac1f0cd0f3c7ff6327044c213774b225d1495e9ca2ff8d33e828d387",
+      "sha256_text": "99ab3b742f7dacece29e7d639dbe4b9523b92c8c46a9543eb34b743212c61119"
+    },
+    {
+      "original": "https://www.tokudaforhawaii.com/jills-legislative-record-on-gun-reform/",
+      "timestamp": "20241105054528",
+      "wayback": "https://web.archive.org/web/20241105054528/https://www.tokudaforhawaii.com/jills-legislative-record-on-gun-reform/",
+      "wayback_raw": "https://web.archive.org/web/20241105054528id_/https://www.tokudaforhawaii.com/jills-legislative-record-on-gun-reform/",
+      "file": "archive/2024/tokuda-hi/jills-legislative-record-on-gun-reform.html",
+      "text_file": "archive/2024/tokuda-hi/jills-legislative-record-on-gun-reform.txt",
+      "bytes": 90088,
+      "sha256_html": "282eb0f1a626e48467fe1f1b74fbb9b981e6c88416efd8fa9ae4a9032be597e0",
+      "sha256_text": "106558e38446b04b633200f2106e2c2d703edccd7bf7164814e45c6a4822f882"
+    },
+    {
+      "original": "https://www.tokudaforhawaii.com/issues/embed/",
+      "timestamp": "20241101170443",
+      "wayback": "https://web.archive.org/web/20241101170443/https://www.tokudaforhawaii.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241101170443id_/https://www.tokudaforhawaii.com/issues/embed/",
+      "file": "archive/2024/tokuda-hi/issues-embed.html",
+      "text_file": "archive/2024/tokuda-hi/issues-embed.txt",
+      "bytes": 20961,
+      "sha256_html": "66973a0aa0dd3e8983418c3123d6015dec3c4c6889e8ef614008238e939997e2",
+      "sha256_text": "114605d0b09b4a52fc927c4efb6ae36bdbd9e4fec69ebdf3ea0f3af4a375777d"
+    },
+    {
+      "original": "https://www.tokudaforhawaii.com/wp-content/plugins/wpforms/src/Admin/Revisions.php",
+      "timestamp": "20241105054752",
+      "error": 200
+    },
+    {
+      "original": "https://www.tokudaforhawaii.com/wp-content/plugins/wpforms/src/Logger/Record.php",
+      "timestamp": "20241105054806",
+      "error": 200
+    },
+    {
+      "original": "https://www.tokudaforhawaii.com/wp-content/plugins/wpforms/src/Logger/RecordQuery.php",
+      "timestamp": "20241105054806",
+      "error": 200
+    },
+    {
+      "original": "https://www.tokudaforhawaii.com/wp-content/plugins/wpforms/src/Logger/Records.php",
+      "timestamp": "20241105054807",
+      "error": 200
+    },
+    {
+      "original": "https://www.tokudaforhawaii.com/wp-content/plugins/wpforms/includes/admin/builder/panels/class-revisions.php",
+      "timestamp": "20241105060046",
+      "error": 200
+    }
+  ],
+  "snapshots_found": {
+    "tokudaforhawaii.com": 733
+  },
+  "generated_utc": "2026-11-26T09:02:54Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
