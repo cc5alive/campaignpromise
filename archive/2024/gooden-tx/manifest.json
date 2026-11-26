@@ -1,0 +1,148 @@
+{
+  "name": "Lance Gooden",
+  "domains_tried": [
+    "lancegooden.com"
+  ],
+  "pages": [
+    {
+      "original": "http://lancegooden.com/",
+      "timestamp": "20241105065544",
+      "wayback": "https://web.archive.org/web/20241105065544/http://lancegooden.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105065544id_/http://lancegooden.com/",
+      "file": "archive/2024/gooden-tx/home.html",
+      "text_file": "archive/2024/gooden-tx/home.txt",
+      "bytes": 50862,
+      "sha256_html": "ce81322cad68e572b1d57f7891945d476306e775eb9046c57d686240d5c739e8",
+      "sha256_text": "b6145d5709aadff46324e5bc4e0878b3b3951e2d86b954e647a7194ef5a85c80"
+    },
+    {
+      "original": "http://lancegooden.com/issues/",
+      "timestamp": "20241105065626",
+      "wayback": "https://web.archive.org/web/20241105065626/http://lancegooden.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105065626id_/http://lancegooden.com/issues/",
+      "file": "archive/2024/gooden-tx/issues.html",
+      "text_file": "archive/2024/gooden-tx/issues.txt",
+      "bytes": 49314,
+      "sha256_html": "73d86fb349ead30b8fae8328a57157329f8469fc8afafa965961e96ca2875b35",
+      "sha256_text": "e6b580ddca6fb3b35a63f2e3ca3ad06ee95c08cf605454e1a40d1e09cd03a41f"
+    },
+    {
+      "original": "http://lancegooden.com/issue/2nd-amendment/",
+      "timestamp": "20241105065909",
+      "wayback": "https://web.archive.org/web/20241105065909/http://lancegooden.com/issue/2nd-amendment/",
+      "wayback_raw": "https://web.archive.org/web/20241105065909id_/http://lancegooden.com/issue/2nd-amendment/",
+      "file": "archive/2024/gooden-tx/issue-2nd-amendment.html",
+      "text_file": "archive/2024/gooden-tx/issue-2nd-amendment.txt",
+      "bytes": 34899,
+      "sha256_html": "478bb0be9368d356d4f99134dd25c08cee48ee5638db9e3e05894b97b73500be",
+      "sha256_text": "bf25279d321d3a75f6fcb45f312594492879ee612b48e1697d987ee352561231"
+    },
+    {
+      "original": "http://lancegooden.com/issue/ban-sanctuary-cities-to-cut-down-on-illegal-immigration/",
+      "timestamp": "20241105065916",
+      "wayback": "https://web.archive.org/web/20241105065916/http://lancegooden.com/issue/ban-sanctuary-cities-to-cut-down-on-illegal-immigration/",
+      "wayback_raw": "https://web.archive.org/web/20241105065916id_/http://lancegooden.com/issue/ban-sanctuary-cities-to-cut-down-on-illegal-immigration/",
+      "file": "archive/2024/gooden-tx/issue-ban-sanctuary-cities-to-cut-down-on-illegal-immigration.html",
+      "text_file": "archive/2024/gooden-tx/issue-ban-sanctuary-cities-to-cut-down-on-illegal-immigration.txt",
+      "bytes": 35483,
+      "sha256_html": "a9fb4c41f37d896d67e599e9a0e1448a63d83a12b31265946da1b57a0408d172",
+      "sha256_text": "0f07f7a451de36b38f9fd95fdbc13dd5929aedc20f46c885e3c4d83b0c104d3a"
+    },
+    {
+      "original": "http://lancegooden.com/issue/education/",
+      "timestamp": "20241105065912",
+      "wayback": "https://web.archive.org/web/20241105065912/http://lancegooden.com/issue/education/",
+      "wayback_raw": "https://web.archive.org/web/20241105065912id_/http://lancegooden.com/issue/education/",
+      "file": "archive/2024/gooden-tx/issue-education.html",
+      "text_file": "archive/2024/gooden-tx/issue-education.txt",
+      "bytes": 35364,
+      "sha256_html": "73b4b24a0af9097534dda5c4a73e0785f5c8e5543d78e9632e74a4a5aad89f9f",
+      "sha256_text": "734a12c70bc7d49438d96cb0dcd22abc1ce8c68e04e1a5e469fc6df02eb44cd2"
+    },
+    {
+      "original": "http://lancegooden.com/issue/healthcare/",
+      "timestamp": "20241105065910",
+      "wayback": "https://web.archive.org/web/20241105065910/http://lancegooden.com/issue/healthcare/",
+      "wayback_raw": "https://web.archive.org/web/20241105065910id_/http://lancegooden.com/issue/healthcare/",
+      "file": "archive/2024/gooden-tx/issue-healthcare.html",
+      "text_file": "archive/2024/gooden-tx/issue-healthcare.txt",
+      "bytes": 34809,
+      "sha256_html": "4ce898afdc6254c433d412a5595b56e164173f683da1332b6e302b9431c37f64",
+      "sha256_text": "f47d0ecf93b8f83aadba49033285ae7357c20c235240361a17361984ed589f7f"
+    },
+    {
+      "original": "http://lancegooden.com/issue/national-debt/",
+      "timestamp": "20241105065914",
+      "wayback": "https://web.archive.org/web/20241105065914/http://lancegooden.com/issue/national-debt/",
+      "wayback_raw": "https://web.archive.org/web/20241105065914id_/http://lancegooden.com/issue/national-debt/",
+      "file": "archive/2024/gooden-tx/issue-national-debt.html",
+      "text_file": "archive/2024/gooden-tx/issue-national-debt.txt",
+      "bytes": 34658,
+      "sha256_html": "7ec5f64761d9ef8e5448960f918b940bf1827907d37d8f4ec69d07a3cb7e5c70",
+      "sha256_text": "8b77ece6992644e1fa3678eee9d84d8d8c4eeb5b4e79dc14c5642a5d8311664b"
+    },
+    {
+      "original": "http://lancegooden.com/issue/national-security/",
+      "timestamp": "20241105065913",
+      "wayback": "https://web.archive.org/web/20241105065913/http://lancegooden.com/issue/national-security/",
+      "wayback_raw": "https://web.archive.org/web/20241105065913id_/http://lancegooden.com/issue/national-security/",
+      "file": "archive/2024/gooden-tx/issue-national-security.html",
+      "text_file": "archive/2024/gooden-tx/issue-national-security.txt",
+      "bytes": 34935,
+      "sha256_html": "6e14bfff415efd222a2f5913f85e2d1eeee2e2ea8f8ff5a0b7f5e369f1d1cae7",
+      "sha256_text": "19fdd1b43ca28bb8738cddc3cc8dc207695e64ea00c5a1575547a37ba45beff1"
+    },
+    {
+      "original": "http://lancegooden.com/issue/our-veterans/",
+      "timestamp": "20241105065919",
+      "wayback": "https://web.archive.org/web/20241105065919/http://lancegooden.com/issue/our-veterans/",
+      "wayback_raw": "https://web.archive.org/web/20241105065919id_/http://lancegooden.com/issue/our-veterans/",
+      "file": "archive/2024/gooden-tx/issue-our-veterans.html",
+      "text_file": "archive/2024/gooden-tx/issue-our-veterans.txt",
+      "bytes": 34637,
+      "sha256_html": "1f4291959cfe5ba58a5eb0f3a6003960972fff1180515f816fa92fa1dce3d2e7",
+      "sha256_text": "875abb0dc4cee4d02ceca30d239fd27f50370a642b529b30ac0e89b931724973"
+    },
+    {
+      "original": "http://lancegooden.com/issue/pro-life/",
+      "timestamp": "20241105065920",
+      "wayback": "https://web.archive.org/web/20241105065920/http://lancegooden.com/issue/pro-life/",
+      "wayback_raw": "https://web.archive.org/web/20241105065920id_/http://lancegooden.com/issue/pro-life/",
+      "file": "archive/2024/gooden-tx/issue-pro-life.html",
+      "text_file": "archive/2024/gooden-tx/issue-pro-life.txt",
+      "bytes": 34875,
+      "sha256_html": "99d818d0427236b0ef0db485e792a4dc7e8f354dd3aa9a8884ce379fb4b81da1",
+      "sha256_text": "0ff94167c45d82309821139459aab099158ec42b2c632e148104b3bd1e5df10a"
+    },
+    {
+      "original": "http://lancegooden.com/issue/taxes-and-spending/",
+      "timestamp": "20241105065921",
+      "wayback": "https://web.archive.org/web/20241105065921/http://lancegooden.com/issue/taxes-and-spending/",
+      "wayback_raw": "https://web.archive.org/web/20241105065921id_/http://lancegooden.com/issue/taxes-and-spending/",
+      "file": "archive/2024/gooden-tx/issue-taxes-and-spending.html",
+      "text_file": "archive/2024/gooden-tx/issue-taxes-and-spending.txt",
+      "bytes": 35005,
+      "sha256_html": "11cac5e23477ba1647bc0f867431ee37543359ce82dfe9faf464d562e10afddc",
+      "sha256_text": "12f7467018a8db7972a8c8b763b43a23be63693f8aa22bfcde5db6923c91509f"
+    },
+    {
+      "original": "http://lancegooden.com/issues/embed/",
+      "timestamp": "20241031190352",
+      "wayback": "https://web.archive.org/web/20241031190352/http://lancegooden.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241031190352id_/http://lancegooden.com/issues/embed/",
+      "file": "archive/2024/gooden-tx/issues-embed.html",
+      "text_file": "archive/2024/gooden-tx/issues-embed.txt",
+      "bytes": 20793,
+      "sha256_html": "8cc6bd6473c72b7f0d039ecab0948ab7bbc64bb5fcef007271f7f106dab97cac",
+      "sha256_text": "a2164cdaedb0ab7e424fc6d0a8f33a7f157f61bde70ce4cb621e384f03ab6d2f"
+    }
+  ],
+  "snapshots_found": {
+    "lancegooden.com": 59
+  },
+  "generated_utc": "2026-11-26T08:12:20Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
