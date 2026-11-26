@@ -1,0 +1,50 @@
+{
+  "name": "John Joyce",
+  "domains_tried": [
+    "johnjoyceforcongress.com",
+    "drjohnjoyce.com"
+  ],
+  "pages": [
+    {
+      "original": "http://www.johnjoyceforcongress.com/",
+      "timestamp": "20241105124800",
+      "wayback": "https://web.archive.org/web/20241105124800/http://www.johnjoyceforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105124800id_/http://www.johnjoyceforcongress.com/",
+      "file": "archive/2024/joyce-pa/home.html",
+      "text_file": "archive/2024/joyce-pa/home.txt",
+      "bytes": 56973,
+      "sha256_html": "050b9b03f02e4f10ff62d28f5eac0552032b82f7c239d753d27af4218784fcc4",
+      "sha256_text": "66d9e019acafa073c8dd0ccf6a75620167343a8707019bfd3d12ff1cb1ab3e00"
+    },
+    {
+      "original": "https://www.johnjoyceforcongress.com/issues",
+      "timestamp": "20241105124632",
+      "wayback": "https://web.archive.org/web/20241105124632/https://www.johnjoyceforcongress.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105124632id_/https://www.johnjoyceforcongress.com/issues",
+      "file": "archive/2024/joyce-pa/issues.html",
+      "text_file": "archive/2024/joyce-pa/issues.txt",
+      "bytes": 63221,
+      "sha256_html": "fb7ef2576bd15f0ee921f68b6852d9727c40838bbf53716d537a9655c9fdfe71",
+      "sha256_text": "418d03dd93cb53dd0a997b02f30c567015a385eaf4c41322de7e45c8e25c346e"
+    },
+    {
+      "original": "https://www.johnjoyceforcongress.com/issues-3",
+      "timestamp": "20241105124628",
+      "wayback": "https://web.archive.org/web/20241105124628/https://www.johnjoyceforcongress.com/issues-3",
+      "wayback_raw": "https://web.archive.org/web/20241105124628id_/https://www.johnjoyceforcongress.com/issues-3",
+      "file": "archive/2024/joyce-pa/issues-3.html",
+      "text_file": "archive/2024/joyce-pa/issues-3.txt",
+      "bytes": 57761,
+      "sha256_html": "d981af695e59ab2f76024c14bba33d0b084ea7a1ed36670e43bca9a3211d5073",
+      "sha256_text": "fdc7b13f823251cd4ef137a8a76a7789d3c11f28394f2fd03aacc7b38bdcf606"
+    }
+  ],
+  "snapshots_found": {
+    "johnjoyceforcongress.com": 23
+  },
+  "generated_utc": "2026-11-26T09:04:37Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
