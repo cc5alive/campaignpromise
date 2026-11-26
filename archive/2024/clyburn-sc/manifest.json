@@ -1,0 +1,38 @@
+{
+  "name": "James E. Clyburn",
+  "domains_tried": [
+    "clyburnforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://clyburnforcongress.com/",
+      "timestamp": "20241105174317",
+      "wayback": "https://web.archive.org/web/20241105174317/https://clyburnforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105174317id_/https://clyburnforcongress.com/",
+      "file": "archive/2024/clyburn-sc/home.html",
+      "text_file": "archive/2024/clyburn-sc/home.txt",
+      "bytes": 101128,
+      "sha256_html": "4b604c6db05d00ec4e942a2ea3209c4a881e4bbc5d78ae68073563ba96e8dc1b",
+      "sha256_text": "8bd04fb6e008c4188dd8f07008aea3b7a00658054c7760f5ccc3772df61054b0"
+    },
+    {
+      "original": "https://clyburnforcongress.com/about/",
+      "timestamp": "20241105174413",
+      "wayback": "https://web.archive.org/web/20241105174413/https://clyburnforcongress.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105174413id_/https://clyburnforcongress.com/about/",
+      "file": "archive/2024/clyburn-sc/about.html",
+      "text_file": "archive/2024/clyburn-sc/about.txt",
+      "bytes": 65090,
+      "sha256_html": "08a32a0ccb72014ae32d0bdb1a34abee4dae5246ba0cde06c2c498f04298a2b3",
+      "sha256_text": "17186da1867a899c9ef8208f82930f9a09f35b0fe9f6aaeb9904fcbec20c3eb8"
+    }
+  ],
+  "snapshots_found": {
+    "clyburnforcongress.com": 1
+  },
+  "generated_utc": "2026-11-26T07:35:18Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
