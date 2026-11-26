@@ -1,0 +1,38 @@
+{
+  "name": "Blake D. Moore",
+  "domains_tried": [
+    "electmoore.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.electmoore.com/",
+      "timestamp": "20241105112354",
+      "wayback": "https://web.archive.org/web/20241105112354/https://www.electmoore.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105112354id_/https://www.electmoore.com/",
+      "file": "archive/2024/moore-ut/home.html",
+      "text_file": "archive/2024/moore-ut/home.txt",
+      "bytes": 138725,
+      "sha256_html": "24ab6a9614ba3228579853b70d5892d38c21346ebb0612c138fe473c66c22a77",
+      "sha256_text": "b8b38ba1703c5a105c9b46517fe43e90d9eba376084ee150c2d0f4eaea409584"
+    },
+    {
+      "original": "https://www.electmoore.com/fighting-for-utah",
+      "timestamp": "20241105112402",
+      "wayback": "https://web.archive.org/web/20241105112402/https://www.electmoore.com/fighting-for-utah",
+      "wayback_raw": "https://web.archive.org/web/20241105112402id_/https://www.electmoore.com/fighting-for-utah",
+      "file": "archive/2024/moore-ut/fighting-for-utah.html",
+      "text_file": "archive/2024/moore-ut/fighting-for-utah.txt",
+      "bytes": 135993,
+      "sha256_html": "fa57cb885e6c9db46474f828832ade46fe4ea95e28e1040dd03730d042154048",
+      "sha256_text": "50d6a47fff1e016a73bc9a59ea649ff457128a467b42d78ec3c31cb33067dc32"
+    }
+  ],
+  "snapshots_found": {
+    "electmoore.com": 13
+  },
+  "generated_utc": "2026-11-26T08:44:57Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
