@@ -1,0 +1,148 @@
+{
+  "name": "Tommy Tuberville",
+  "domains_tried": [
+    "tommyforsenate.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.tommyforsenate.com/",
+      "timestamp": "20241015014407",
+      "wayback": "https://web.archive.org/web/20241015014407/https://www.tommyforsenate.com/",
+      "wayback_raw": "https://web.archive.org/web/20241015014407id_/https://www.tommyforsenate.com/",
+      "file": "archive/2024/tuberville-al/home.html",
+      "text_file": "archive/2024/tuberville-al/home.txt",
+      "bytes": 85245,
+      "sha256_html": "2c2d14445ba85a24983ef3e6f68752ac07122d4847a3950dd75f4e976d4d22fb",
+      "sha256_text": "37bbc6c29fd7a579152377c3acd00cfb985aacb29423b5424955abab761cd69f"
+    },
+    {
+      "original": "https://www.tommyforsenate.com/issues/",
+      "timestamp": "20241015013850",
+      "wayback": "https://web.archive.org/web/20241015013850/https://www.tommyforsenate.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241015013850id_/https://www.tommyforsenate.com/issues/",
+      "file": "archive/2024/tuberville-al/issues.html",
+      "text_file": "archive/2024/tuberville-al/issues.txt",
+      "bytes": 74031,
+      "sha256_html": "f229dfbd4ba44a9ef08bcd221555affa68ccd47deb40fac956def16913bacafb",
+      "sha256_text": "d5db10eb80b8ef914299534f6f66bba775bdee79af21ac43689dfd6b4c2a5369"
+    },
+    {
+      "original": "https://www.tommyforsenate.com/issues/core-values/",
+      "timestamp": "20241015014102",
+      "wayback": "https://web.archive.org/web/20241015014102/https://www.tommyforsenate.com/issues/core-values/",
+      "wayback_raw": "https://web.archive.org/web/20241015014102id_/https://www.tommyforsenate.com/issues/core-values/",
+      "file": "archive/2024/tuberville-al/issues-core-values.html",
+      "text_file": "archive/2024/tuberville-al/issues-core-values.txt",
+      "bytes": 56676,
+      "sha256_html": "8f61f08c50dc2a864f16b61691a89adb1a7ab87b595531f00f59afb95bc72505",
+      "sha256_text": "c01c2ea717ec1f5c29e50acfd7a484a54f43c46ac1dff50f2c54af6ed05eb275"
+    },
+    {
+      "original": "https://www.tommyforsenate.com/issues/economy/",
+      "timestamp": "20241015014109",
+      "wayback": "https://web.archive.org/web/20241015014109/https://www.tommyforsenate.com/issues/economy/",
+      "wayback_raw": "https://web.archive.org/web/20241015014109id_/https://www.tommyforsenate.com/issues/economy/",
+      "file": "archive/2024/tuberville-al/issues-economy.html",
+      "text_file": "archive/2024/tuberville-al/issues-economy.txt",
+      "bytes": 55710,
+      "sha256_html": "f93febb1b831ddcd36a6011565ef8887e6337acc9fa62b35372d298d76d010a3",
+      "sha256_text": "94355e4e1282dea9c257670a1647d4104b64954b206be73d45f8a028d9c90fa3"
+    },
+    {
+      "original": "https://www.tommyforsenate.com/issues/gun-rights/",
+      "timestamp": "20241015014104",
+      "wayback": "https://web.archive.org/web/20241015014104/https://www.tommyforsenate.com/issues/gun-rights/",
+      "wayback_raw": "https://web.archive.org/web/20241015014104id_/https://www.tommyforsenate.com/issues/gun-rights/",
+      "file": "archive/2024/tuberville-al/issues-gun-rights.html",
+      "text_file": "archive/2024/tuberville-al/issues-gun-rights.txt",
+      "bytes": 55618,
+      "sha256_html": "5448f799490a17ac87c7ee6e892d50a267235303f31a8d4c4cf12965841746ab",
+      "sha256_text": "1478155b278a35514280961ffc544c485892166abc8f61f48db31964cd191f9f"
+    },
+    {
+      "original": "https://www.tommyforsenate.com/issues/health-care/",
+      "timestamp": "20241015014104",
+      "wayback": "https://web.archive.org/web/20241015014104/https://www.tommyforsenate.com/issues/health-care/",
+      "wayback_raw": "https://web.archive.org/web/20241015014104id_/https://www.tommyforsenate.com/issues/health-care/",
+      "file": "archive/2024/tuberville-al/issues-health-care.html",
+      "text_file": "archive/2024/tuberville-al/issues-health-care.txt",
+      "bytes": 55557,
+      "sha256_html": "c255e591dc9e829a0a95cfcf47750311131384aca4b7b4c9d6580025880bdd3b",
+      "sha256_text": "0ccd3fb0fff00ec17c2907b7cf4cfd71978420f70c74027e46ee3ca2faa1d7ed"
+    },
+    {
+      "original": "https://www.tommyforsenate.com/issues/immigration-border-security/",
+      "timestamp": "20241015014108",
+      "wayback": "https://web.archive.org/web/20241015014108/https://www.tommyforsenate.com/issues/immigration-border-security/",
+      "wayback_raw": "https://web.archive.org/web/20241015014108id_/https://www.tommyforsenate.com/issues/immigration-border-security/",
+      "file": "archive/2024/tuberville-al/issues-immigration-border-security.html",
+      "text_file": "archive/2024/tuberville-al/issues-immigration-border-security.txt",
+      "bytes": 56106,
+      "sha256_html": "2e24d74379096609add80523321ab836f0df84d59d3e72c5f726a3c295c9c32b",
+      "sha256_text": "f0175f1de5bd1b5fd2a0c98898649ae8c8837ccc746970c4acbf3c857fadae3c"
+    },
+    {
+      "original": "https://www.tommyforsenate.com/issues/improving-education/",
+      "timestamp": "20241015014106",
+      "wayback": "https://web.archive.org/web/20241015014106/https://www.tommyforsenate.com/issues/improving-education/",
+      "wayback_raw": "https://web.archive.org/web/20241015014106id_/https://www.tommyforsenate.com/issues/improving-education/",
+      "file": "archive/2024/tuberville-al/issues-improving-education.html",
+      "text_file": "archive/2024/tuberville-al/issues-improving-education.txt",
+      "bytes": 56295,
+      "sha256_html": "df4f2a440445e343d54da6f5d83d88824bef7a613e0fd2008d55470024ca3810",
+      "sha256_text": "7df728f687632abac6a8a9632781f48026fdbe7f61b12dcd3ae2209c13308631"
+    },
+    {
+      "original": "https://www.tommyforsenate.com/issues/investigate-the-investigators/",
+      "timestamp": "20241015014102",
+      "wayback": "https://web.archive.org/web/20241015014102/https://www.tommyforsenate.com/issues/investigate-the-investigators/",
+      "wayback_raw": "https://web.archive.org/web/20241015014102id_/https://www.tommyforsenate.com/issues/investigate-the-investigators/",
+      "file": "archive/2024/tuberville-al/issues-investigate-the-investigators.html",
+      "text_file": "archive/2024/tuberville-al/issues-investigate-the-investigators.txt",
+      "bytes": 56389,
+      "sha256_html": "e1f3843b74434e4f824f5492394da1794b30dc138f65ca0b8739183b199d6d68",
+      "sha256_text": "e7ad06c25c462cb1729af256df8d7f5717587123d75ddfebdf1d050a45eb3c20"
+    },
+    {
+      "original": "https://www.tommyforsenate.com/issues/protecting-life/",
+      "timestamp": "20241015014107",
+      "wayback": "https://web.archive.org/web/20241015014107/https://www.tommyforsenate.com/issues/protecting-life/",
+      "wayback_raw": "https://web.archive.org/web/20241015014107id_/https://www.tommyforsenate.com/issues/protecting-life/",
+      "file": "archive/2024/tuberville-al/issues-protecting-life.html",
+      "text_file": "archive/2024/tuberville-al/issues-protecting-life.txt",
+      "bytes": 56106,
+      "sha256_html": "f0cc31282bbc0aade52b842b6ec5adb1f370e374d3358765777af8fa5d7afe8c",
+      "sha256_text": "65ba7bc47660039db426de2ac8bd8408a1b17748ffc29e370b7ee9e91fc53179"
+    },
+    {
+      "original": "https://www.tommyforsenate.com/issues/security/",
+      "timestamp": "20241015014107",
+      "wayback": "https://web.archive.org/web/20241015014107/https://www.tommyforsenate.com/issues/security/",
+      "wayback_raw": "https://web.archive.org/web/20241015014107id_/https://www.tommyforsenate.com/issues/security/",
+      "file": "archive/2024/tuberville-al/issues-security.html",
+      "text_file": "archive/2024/tuberville-al/issues-security.txt",
+      "bytes": 56043,
+      "sha256_html": "8f069106ee06e099f9401bb26805b3e1c41b544d96ec1fecdccce2db61ed984b",
+      "sha256_text": "c9b4b1549fd1c5cb783070a48e7d4b2b159f44a9e0bde1ea293baca46e371ed7"
+    },
+    {
+      "original": "https://www.tommyforsenate.com/issues/serving-those-who-served/",
+      "timestamp": "20241015014101",
+      "wayback": "https://web.archive.org/web/20241015014101/https://www.tommyforsenate.com/issues/serving-those-who-served/",
+      "wayback_raw": "https://web.archive.org/web/20241015014101id_/https://www.tommyforsenate.com/issues/serving-those-who-served/",
+      "file": "archive/2024/tuberville-al/issues-serving-those-who-served.html",
+      "text_file": "archive/2024/tuberville-al/issues-serving-those-who-served.txt",
+      "bytes": 56275,
+      "sha256_html": "428d88a2822808e61b6f741025c3ff142284e113bb1390947f5dd4732f6f4c27",
+      "sha256_text": "0856633cc89fc43936db3405d52526026b7e08dd8ceb5fdb6c4dd80b8501ccf3"
+    }
+  ],
+  "snapshots_found": {
+    "tommyforsenate.com": 60
+  },
+  "generated_utc": "2026-11-26T08:18:10Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
