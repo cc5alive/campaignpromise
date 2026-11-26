@@ -1,0 +1,38 @@
+{
+  "name": "Greg Stanton",
+  "domains_tried": [
+    "stantonforarizona.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.stantonforarizona.com/",
+      "timestamp": "20241105134212",
+      "wayback": "https://web.archive.org/web/20241105134212/https://www.stantonforarizona.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105134212id_/https://www.stantonforarizona.com/",
+      "file": "archive/2024/stanton-az/home.html",
+      "text_file": "archive/2024/stanton-az/home.txt",
+      "bytes": 791026,
+      "sha256_html": "ee3a92503d6b2853d170f1ab053719d00c40438ea345e1a8f78837f4e525ab8c",
+      "sha256_text": "cae70b464395eeea41adff7ed088ce55e911187c2877e7c0ce68ef5168ec3029"
+    },
+    {
+      "original": "https://www.stantonforarizona.com/issues",
+      "timestamp": "20241105134223",
+      "wayback": "https://web.archive.org/web/20241105134223/https://www.stantonforarizona.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105134223id_/https://www.stantonforarizona.com/issues",
+      "file": "archive/2024/stanton-az/issues.html",
+      "text_file": "archive/2024/stanton-az/issues.txt",
+      "bytes": 437164,
+      "sha256_html": "92c049252ffc6c06c9ca3c033f7c61cd825271b53cfabb488dfcfa62ab620eeb",
+      "sha256_text": "6429dd664fb0e37c4ed6f802b6b8769b56ceacc9eb1a064ddf54b1881a6b95af"
+    }
+  ],
+  "snapshots_found": {
+    "stantonforarizona.com": 27
+  },
+  "generated_utc": "2026-11-26T08:02:39Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
