@@ -1,0 +1,38 @@
+{
+  "name": "Trent Kelly",
+  "domains_tried": [
+    "kellyformississippi.com"
+  ],
+  "pages": [
+    {
+      "original": "https://kellyformississippi.com/",
+      "timestamp": "20241105155002",
+      "wayback": "https://web.archive.org/web/20241105155002/https://kellyformississippi.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105155002id_/https://kellyformississippi.com/",
+      "file": "archive/2024/kelly-ms/home.html",
+      "text_file": "archive/2024/kelly-ms/home.txt",
+      "bytes": 36754,
+      "sha256_html": "eca2ba854d9b0a96d70ab2eb746aabd9beddc0cc92068af40a16cc9f4975f313",
+      "sha256_text": "650a892e0deffca9bf7e60db7dcbf4b6514bd223df55c655a5923ea170110279"
+    },
+    {
+      "original": "https://kellyformississippi.com/about/",
+      "timestamp": "20241105155158",
+      "wayback": "https://web.archive.org/web/20241105155158/https://kellyformississippi.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105155158id_/https://kellyformississippi.com/about/",
+      "file": "archive/2024/kelly-ms/about.html",
+      "text_file": "archive/2024/kelly-ms/about.txt",
+      "bytes": 37740,
+      "sha256_html": "8799325386fa75443649c8468fbec1db0710784cfdbc491b0ac23128d0d04acf",
+      "sha256_text": "df6440ab72617f54672769fbe3070f0d32bb640b464183f462bb5df32c1aa445"
+    }
+  ],
+  "snapshots_found": {
+    "kellyformississippi.com": 4
+  },
+  "generated_utc": "2026-11-26T07:29:38Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
