@@ -1,0 +1,148 @@
+{
+  "name": "Jake Ellzey",
+  "domains_tried": [
+    "ellzeyfortexas.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.ellzeyfortexas.com/",
+      "timestamp": "20241105070158",
+      "wayback": "https://web.archive.org/web/20241105070158/https://www.ellzeyfortexas.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105070158id_/https://www.ellzeyfortexas.com/",
+      "file": "archive/2024/ellzey-tx/home.html",
+      "text_file": "archive/2024/ellzey-tx/home.txt",
+      "bytes": 481278,
+      "sha256_html": "ef7112292c3e0337f047f0aa07d05a904bb22f0a668039ed657d8551dc3e012a",
+      "sha256_text": "b31a4561ac3b1a62ba4ac99a98a42eb4470bf46e56a4092d0e6eee8098764eb4"
+    },
+    {
+      "original": "https://www.ellzeyfortexas.com/issues",
+      "timestamp": "20241105070224",
+      "wayback": "https://web.archive.org/web/20241105070224/https://www.ellzeyfortexas.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105070224id_/https://www.ellzeyfortexas.com/issues",
+      "file": "archive/2024/ellzey-tx/issues.html",
+      "text_file": "archive/2024/ellzey-tx/issues.txt",
+      "bytes": 546827,
+      "sha256_html": "7b02636b8056dce01efc63ea7b6690cb202f639d6b7f6b8e61f9cba1581a6618",
+      "sha256_text": "cd740b48c904fbca3ee079ea109b013a222b3dc24ed69c28d0f8dc7fcc0bbc39"
+    },
+    {
+      "original": "https://www.ellzeyfortexas.com/petition-american-values",
+      "timestamp": "20241105070657",
+      "wayback": "https://web.archive.org/web/20241105070657/https://www.ellzeyfortexas.com/petition-american-values",
+      "wayback_raw": "https://web.archive.org/web/20241105070657id_/https://www.ellzeyfortexas.com/petition-american-values",
+      "file": "archive/2024/ellzey-tx/petition-american-values.html",
+      "text_file": "archive/2024/ellzey-tx/petition-american-values.txt",
+      "bytes": 423152,
+      "sha256_html": "0d34da0a8b3a16848ad13680eeb1a7812bac9879f6fab449d77b8c494e2d3bc3",
+      "sha256_text": "5a1467d3f758152440ae6441ec39645836bbcbd91763b9e60fb7d9d318ab01f8"
+    },
+    {
+      "original": "https://www.ellzeyfortexas.com/stand-with-jake",
+      "timestamp": "20241105070655",
+      "wayback": "https://web.archive.org/web/20241105070655/https://www.ellzeyfortexas.com/stand-with-jake",
+      "wayback_raw": "https://web.archive.org/web/20241105070655id_/https://www.ellzeyfortexas.com/stand-with-jake",
+      "file": "archive/2024/ellzey-tx/stand-with-jake.html",
+      "text_file": "archive/2024/ellzey-tx/stand-with-jake.txt",
+      "bytes": 437719,
+      "sha256_html": "2a2ebb142711368fafd5a0397e72db4ed2edb72a7aabc560df4826d544b06adf",
+      "sha256_text": "7066ac159f32f645d7f78b7c2b73fa381c2f8942df2c4f742c98712d471507f1"
+    },
+    {
+      "original": "https://www.ellzeyfortexas.com/voting-record",
+      "timestamp": "20241105070655",
+      "wayback": "https://web.archive.org/web/20241105070655/https://www.ellzeyfortexas.com/voting-record",
+      "wayback_raw": "https://web.archive.org/web/20241105070655id_/https://www.ellzeyfortexas.com/voting-record",
+      "file": "archive/2024/ellzey-tx/voting-record.html",
+      "text_file": "archive/2024/ellzey-tx/voting-record.txt",
+      "bytes": 452956,
+      "sha256_html": "58a63001cdb635c2c445609465257c69d17cb3c4335d9fc80eeaf589165f2e5c",
+      "sha256_text": "5341be06d0d2300f320041c75e758599f03f49e02303bc2b9854fbbeea6f477c"
+    },
+    {
+      "original": "https://www.ellzeyfortexas.com/media/issues",
+      "timestamp": "20241102075537",
+      "wayback": "https://web.archive.org/web/20241102075537/https://www.ellzeyfortexas.com/media/issues",
+      "wayback_raw": "https://web.archive.org/web/20241102075537id_/https://www.ellzeyfortexas.com/media/issues",
+      "file": "archive/2024/ellzey-tx/media-issues.html",
+      "text_file": "archive/2024/ellzey-tx/media-issues.txt",
+      "bytes": 658752,
+      "sha256_html": "12e1542e6632e30341190ca24156358b970baa5d07a37ee31d48fde3842d39be",
+      "sha256_text": "8302c2cbfe4d08a9bf5f0e6f9c86a1ee5eb6692d172a12c1645d97be056b0cd7"
+    },
+    {
+      "original": "https://www.ellzeyfortexas.com/media/petition-american-values",
+      "timestamp": "20241102075814",
+      "wayback": "https://web.archive.org/web/20241102075814/https://www.ellzeyfortexas.com/media/petition-american-values",
+      "wayback_raw": "https://web.archive.org/web/20241102075814id_/https://www.ellzeyfortexas.com/media/petition-american-values",
+      "file": "archive/2024/ellzey-tx/media-petition-american-values.html",
+      "text_file": "archive/2024/ellzey-tx/media-petition-american-values.txt",
+      "bytes": 658896,
+      "sha256_html": "41a8d18b5b6ef35242aa11d299cdedb765f7249c93f576e1cdbe99b9d8d95af9",
+      "sha256_text": "8302c2cbfe4d08a9bf5f0e6f9c86a1ee5eb6692d172a12c1645d97be056b0cd7"
+    },
+    {
+      "original": "https://www.ellzeyfortexas.com/media/stand-with-jake",
+      "timestamp": "20241102081816",
+      "wayback": "https://web.archive.org/web/20241102081816/https://www.ellzeyfortexas.com/media/stand-with-jake",
+      "wayback_raw": "https://web.archive.org/web/20241102081816id_/https://www.ellzeyfortexas.com/media/stand-with-jake",
+      "file": "archive/2024/ellzey-tx/media-stand-with-jake.html",
+      "text_file": "archive/2024/ellzey-tx/media-stand-with-jake.txt",
+      "bytes": 658824,
+      "sha256_html": "5a3b523e1782e7dd0813daa4ba8efe63068a52466ac4068d16b6e19d990306b1",
+      "sha256_text": "8302c2cbfe4d08a9bf5f0e6f9c86a1ee5eb6692d172a12c1645d97be056b0cd7"
+    },
+    {
+      "original": "https://www.ellzeyfortexas.com/media/voting-record",
+      "timestamp": "20241102075259",
+      "wayback": "https://web.archive.org/web/20241102075259/https://www.ellzeyfortexas.com/media/voting-record",
+      "wayback_raw": "https://web.archive.org/web/20241102075259id_/https://www.ellzeyfortexas.com/media/voting-record",
+      "file": "archive/2024/ellzey-tx/media-voting-record.html",
+      "text_file": "archive/2024/ellzey-tx/media-voting-record.txt",
+      "bytes": 658808,
+      "sha256_html": "02efa88bb505a6858350b31c496cdf0d90adbb9943fb937df5a8e28170c09781",
+      "sha256_text": "8302c2cbfe4d08a9bf5f0e6f9c86a1ee5eb6692d172a12c1645d97be056b0cd7"
+    },
+    {
+      "original": "https://www.ellzeyfortexas.com/media/media/issues",
+      "timestamp": "20241102190501",
+      "wayback": "https://web.archive.org/web/20241102190501/https://www.ellzeyfortexas.com/media/media/issues",
+      "wayback_raw": "https://web.archive.org/web/20241102190501id_/https://www.ellzeyfortexas.com/media/media/issues",
+      "file": "archive/2024/ellzey-tx/media-media-issues.html",
+      "text_file": "archive/2024/ellzey-tx/media-media-issues.txt",
+      "bytes": 659582,
+      "sha256_html": "02c2c62de034090a5deb77fdb53eea6afa20ecacfb9ae4b2f8e6a12d4b901ef9",
+      "sha256_text": "8302c2cbfe4d08a9bf5f0e6f9c86a1ee5eb6692d172a12c1645d97be056b0cd7"
+    },
+    {
+      "original": "https://www.ellzeyfortexas.com/media/media/petition-american-values",
+      "timestamp": "20241102190852",
+      "wayback": "https://web.archive.org/web/20241102190852/https://www.ellzeyfortexas.com/media/media/petition-american-values",
+      "wayback_raw": "https://web.archive.org/web/20241102190852id_/https://www.ellzeyfortexas.com/media/media/petition-american-values",
+      "file": "archive/2024/ellzey-tx/media-media-petition-american-values.html",
+      "text_file": "archive/2024/ellzey-tx/media-media-petition-american-values.txt",
+      "bytes": 659726,
+      "sha256_html": "5f07cd4c92af9c32d8042eed32f7fd0b98ef29a88072f84c6bc709de68ac6a5b",
+      "sha256_text": "8302c2cbfe4d08a9bf5f0e6f9c86a1ee5eb6692d172a12c1645d97be056b0cd7"
+    },
+    {
+      "original": "https://www.ellzeyfortexas.com/media/media/stand-with-jake",
+      "timestamp": "20241102192208",
+      "wayback": "https://web.archive.org/web/20241102192208/https://www.ellzeyfortexas.com/media/media/stand-with-jake",
+      "wayback_raw": "https://web.archive.org/web/20241102192208id_/https://www.ellzeyfortexas.com/media/media/stand-with-jake",
+      "file": "archive/2024/ellzey-tx/media-media-stand-with-jake.html",
+      "text_file": "archive/2024/ellzey-tx/media-media-stand-with-jake.txt",
+      "bytes": 659654,
+      "sha256_html": "c8d2efff37ed063ad25f36b9fdf8730dfd3b36bb0542d0aae0d388e1bc6b9060",
+      "sha256_text": "8302c2cbfe4d08a9bf5f0e6f9c86a1ee5eb6692d172a12c1645d97be056b0cd7"
+    }
+  ],
+  "snapshots_found": {
+    "ellzeyfortexas.com": 891
+  },
+  "generated_utc": "2026-11-26T08:50:43Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
