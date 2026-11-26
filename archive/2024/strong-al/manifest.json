@@ -1,0 +1,60 @@
+{
+  "name": "Dale W. Strong",
+  "domains_tried": [
+    "dalestrongforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://dalestrongforcongress.com/",
+      "timestamp": "20241105035300",
+      "wayback": "https://web.archive.org/web/20241105035300/https://dalestrongforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105035300id_/https://dalestrongforcongress.com/",
+      "file": "archive/2024/strong-al/home.html",
+      "text_file": "archive/2024/strong-al/home.txt",
+      "bytes": 16547,
+      "sha256_html": "83c0844c57e47c531e07d12f597752ecd044dd9a409a84a683daf1942c6ab50e",
+      "sha256_text": "22e9fb5abcfda7e1771c06df853dea8348f2addf4bf335ce903efc21bdc203a0"
+    },
+    {
+      "original": "https://www.dalestrongforcongress.com/issues",
+      "timestamp": "20241105035231",
+      "wayback": "https://web.archive.org/web/20241105035231/https://www.dalestrongforcongress.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105035231id_/https://www.dalestrongforcongress.com/issues",
+      "file": "archive/2024/strong-al/issues.html",
+      "text_file": "archive/2024/strong-al/issues.txt",
+      "bytes": 15927,
+      "sha256_html": "7876ef1e2bc0c802ab06dacd8e1e8677bc291c0f7d87a5fbfa2f41ec36b74416",
+      "sha256_text": "f9cec5a719a5c6a97fa2705f87450d224334ca3d6cda7963d05c37eea06c2ffb"
+    },
+    {
+      "original": "https://www.dalestrongforcongress.com/blog-posts/dale-strong-candidate-for-congress-receives-endorsement-from-the-fraternal-order-of-police",
+      "timestamp": "20241105035234",
+      "wayback": "https://web.archive.org/web/20241105035234/https://www.dalestrongforcongress.com/blog-posts/dale-strong-candidate-for-congress-receives-endorsement-from-the-fraternal-order-of-police",
+      "wayback_raw": "https://web.archive.org/web/20241105035234id_/https://www.dalestrongforcongress.com/blog-posts/dale-strong-candidate-for-congress-receives-endorsement-from-the-fraternal-order-of-police",
+      "file": "archive/2024/strong-al/blog-posts-dale-strong-candidate-for-congress-receives-endorsement-from-the-fraternal-order-of-police.html",
+      "text_file": "archive/2024/strong-al/blog-posts-dale-strong-candidate-for-congress-receives-endorsement-from-the-fraternal-order-of-police.txt",
+      "bytes": 11082,
+      "sha256_html": "736a1e68aac82e8076e0bc6372644195b49191234c9a893caf2993abb813f078",
+      "sha256_text": "6f77a77be1c2c6848b99a613c20ddcef8f9f48b5d386acd063f99f5f2ae0d4a5"
+    },
+    {
+      "original": "https://www.dalestrongforcongress.com/about",
+      "timestamp": "20241105035230",
+      "wayback": "https://web.archive.org/web/20241105035230/https://www.dalestrongforcongress.com/about",
+      "wayback_raw": "https://web.archive.org/web/20241105035230id_/https://www.dalestrongforcongress.com/about",
+      "file": "archive/2024/strong-al/about.html",
+      "text_file": "archive/2024/strong-al/about.txt",
+      "bytes": 13189,
+      "sha256_html": "670527727bb4b39c4e8d50b8900f5b0a65f38b44c97f414cd16f676b9bba6375",
+      "sha256_text": "d36e4dc2660db97a5cd36aa90168494bfc7be457e3f4247188dca65b29bfab54"
+    }
+  ],
+  "snapshots_found": {
+    "dalestrongforcongress.com": 10
+  },
+  "generated_utc": "2026-11-26T08:56:16Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
