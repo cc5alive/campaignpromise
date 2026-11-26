@@ -1,0 +1,43 @@
+Congress could take ‘a number of years’ to fully understand artificial intelligence: Rep. Issa – Darrell Issa for Congress
+Skip to content
+Navigation Menu
+ABOUT
+ENDORSEMENTS
+NEWS
+ISSUES
+GET INVOLVED
+CONTACT
+DONATE
+Congress could take ‘a number of years’ to fully understand artificial intelligence: Rep. Issa
+May 4, 2023
+May 8, 2023
+Issa suggested that while the US can innovate on AI faster, China is better at keeping secrets
+By
+Nikolas Lanum
+,
+Jon Michael Raasch
+Rep. Darrell Issa, R-Calif., on Tuesday praised House Speaker Kevin McCarthy’s new effort to educate Congress on
+artificial intelligence (AI)
+, but predicted it may be some time until a substantial number of representatives become well-versed on the topic.
+Speaking with Fox News Digital at the Milken Institute Global Conference, Issa admitted that while he may not know nearly enough to be considered an expert on AI, he has been growing alongside technological advances that have cropped up across his time in business, military and legislation.
+“I’ve been able to grow with it and I’m not really nearly where I need to be. And that’s why Speaker McCarthy has formalized the education using MIT and other organizations to educate members of Congress. And he’s holding forums he’s not requiring, but he’s encouraging in a very, very explicit way that we all get educated enough to be part of the solution and not be taken out of fear or lack of knowledge,” Issa said.
+Last week, lawmakers heard from MIT Professors Antonio Torralba and Aleksander Madry as part of a session McCarthy had set up. McCarthy
+also revealed
+that he had spoken with OpenAI CEO Sam Altman about possibly speaking with members in a similar setting.
+“You know, the speaker went through 15 rounds of votes to become the speaker just over 100 days ago,” Issa added. “So, the fact that this was something he had done before he was Speaker and these initiated practically on day one is a good start. But there’s no question all the way Congress works. It will take a number of years to get our members to where more than a handful really understand where AI is going and, quite frankly, how it can hurt us.”
+Issa, a former technology industry business leader, said that every committee of Congress, including Energy and Commerce and the Select Subcommittee on Weaponization of the Federal Government, needs to be wary of how AI could be used to suppress legitimate thought, promote disinformation as well as take and create copyright.
+While all the above things are being looked at, Issa noted that Congress has a long history of being “a little too far behind.”
+For example, Issa recalled how Congress had a standard that limited the AES encryption requirements for data in transit, a move that large tech corporations like Microsoft criticized. Several industries subsequently shipped their products overseas because of concerns around bad actors cracking and stealing their software. Issa noted that it took years for Congress to lift the ban championed by the CIA and FBI to raise it to a higher level of security.
+AI’s capability continues to be used daily in criminal activities. The U.S. government and its allies in NATO have expressed concern that cyber-attacks on national infrastructures and private companies have increased exponentially. With new tools, criminals are scaling up their data-gathering operations with AI to expand traditional attack vectors, such as spearfishing.
+As such, Issa said that while data protection has always been a cat-and-mouse game, it is no longer sufficient for the government to hold yearlong listening sessions with industry leaders before coming out with cybersecurity proposals.
+“That can’t happen,” Issa said. “We have to, in real-time, look at vendors like Amazon, like IBM and Microsoft and quite candidly like Oracle and say, what are you doing and how fast can we implement that? And most importantly, can we share information about successfully fighting false information and nefarious activities? Can we share among trusted players? Some of those trusted players are global companies. So, the reality is these are companies that also operate in the countries often where the bad guys are coming from.”
+Issa also pointed out that Congress has had fifteen years to look into “Big Data” to understand that large databases could ingratiate with machine learning and rapidly evolve to create new opportunities, such as gaming the stock market.
+“Considering the pros and cons of the US free market and China’s closed society, Issa asserted that while America can innovate faster, China can keep secrets better. He also expressed concern that innovative American universities will remain a prime target for Chinese infiltration and data extraction.
+“It’s not that we’re in competition with China, it’s that we’re in competition with China, and our competition is being stolen by China,” Issa said. “So, one of the first things we have to do is we have to work in new and better ways to make sure that our innovation belongs to, if you will, the free market. And their innovation has to compete with their own people and not use the backs and minds of ours.”
+What we have is the idea that the next generation of computers can, in fact, come up with the ideas of how you beat markets or do something, and Congress has to react quickly,” Issa said. “I think that an important thing to understand is this is a global problem and this is a problem to every company. If you’re a very, very small user, all you do is go to McDonald’s and buy a burger. But that software package that usually lets you go to the kiosk, it’s made in China and it can potentially collect all that data all the way up to, you know, Elon Musk and the data that may be available for launching his most advanced rockets.”
+According to
+a recent report
+published in the Harvard International Review, AI programs in authoritarian countries, especially China, are catching up to the models available within the U.S. tech industry. Furthermore, tech moguls, members of Congress and President Joe Biden’s cabinet have continued to discuss the potential benefits and pitfalls of accelerating AI development to maintain a lead against the Chinese Communist Party (CCP).
+Watch Video Interview Here
+Source:
+https://www.foxnews.com/media/congress-take-numberof-years-fully-understand-artificial-intelligence-rep-issa
