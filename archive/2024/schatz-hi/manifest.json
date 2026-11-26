@@ -1,0 +1,38 @@
+{
+  "name": "Brian Schatz",
+  "domains_tried": [
+    "brianschatz.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.brianschatz.com/",
+      "timestamp": "20241102090225",
+      "wayback": "https://web.archive.org/web/20241102090225/https://www.brianschatz.com/",
+      "wayback_raw": "https://web.archive.org/web/20241102090225id_/https://www.brianschatz.com/",
+      "file": "archive/2024/schatz-hi/home.html",
+      "text_file": "archive/2024/schatz-hi/home.txt",
+      "bytes": 90432,
+      "sha256_html": "26649b340191e25705a0de187753ea6959816aeac689b5d90a8acb43df220357",
+      "sha256_text": "0c1ee6bca7c975df9839c31864a45a70d91717b4add814e667febff2a1f41a27"
+    },
+    {
+      "original": "https://www.brianschatz.com/about/",
+      "timestamp": "20241102081540",
+      "wayback": "https://web.archive.org/web/20241102081540/https://www.brianschatz.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241102081540id_/https://www.brianschatz.com/about/",
+      "file": "archive/2024/schatz-hi/about.html",
+      "text_file": "archive/2024/schatz-hi/about.txt",
+      "bytes": 81878,
+      "sha256_html": "50ae82089b979959c7cef2ff0382a6112955f77ac9d672d1a27cc4104be3048e",
+      "sha256_text": "077a8fe779ef7950565f5b811259c3c82ac26c553684227c9b824d02d57f9904"
+    }
+  ],
+  "snapshots_found": {
+    "brianschatz.com": 3
+  },
+  "generated_utc": "2026-11-26T08:36:19Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
