@@ -1,0 +1,27 @@
+{
+  "name": "Cindy Hyde-Smith",
+  "domains_tried": [
+    "cindyhydesmith.com"
+  ],
+  "pages": [
+    {
+      "original": "https://cindyhydesmith.com/",
+      "timestamp": "20240913105841",
+      "wayback": "https://web.archive.org/web/20240913105841/https://cindyhydesmith.com/",
+      "wayback_raw": "https://web.archive.org/web/20240913105841id_/https://cindyhydesmith.com/",
+      "file": "archive/2024/hyde-smith-ms/home.html",
+      "text_file": "archive/2024/hyde-smith-ms/home.txt",
+      "bytes": 96317,
+      "sha256_html": "f575c07577ee989191985a81a4f300c0f3d2c9b331faaba47fc4dc2749950854",
+      "sha256_text": "b0e661e1293effd366ca2b2c152738f01cc6ebe5211dfb7a75c9bf815e425dce"
+    }
+  ],
+  "snapshots_found": {
+    "cindyhydesmith.com": 3
+  },
+  "generated_utc": "2026-11-26T07:58:19Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
