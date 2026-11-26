@@ -1,0 +1,71 @@
+{
+  "name": "Daniel S. Goldman",
+  "domains_tried": [
+    "dangoldmanforny.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.dangoldmanforny.com/",
+      "timestamp": "20241105072724",
+      "wayback": "https://web.archive.org/web/20241105072724/https://www.dangoldmanforny.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105072724id_/https://www.dangoldmanforny.com/",
+      "file": "archive/2024/goldman-ny/home.html",
+      "text_file": "archive/2024/goldman-ny/home.txt",
+      "bytes": 506683,
+      "sha256_html": "0ae66b8e32ff05a83edda2e88cd9126aa390ff581a22529b973347c6722ec9e3",
+      "sha256_text": "a1e0368b54f8f3e3819d3129335ca89ee824e7ee2b3b9b884b02223190626a3d"
+    },
+    {
+      "original": "https://www.dangoldmanforny.com/communityplan",
+      "timestamp": "20241105073314",
+      "wayback": "https://web.archive.org/web/20241105073314/https://www.dangoldmanforny.com/communityplan",
+      "wayback_raw": "https://web.archive.org/web/20241105073314id_/https://www.dangoldmanforny.com/communityplan",
+      "file": "archive/2024/goldman-ny/communityplan.html",
+      "text_file": "archive/2024/goldman-ny/communityplan.txt",
+      "bytes": 458565,
+      "sha256_html": "c3c0a3f33f1ba0c34c14df7f8eb9b68e8f219ff1b98bb69a319f46665fe53d0f",
+      "sha256_text": "a8d5ea957e69815053e12da295cd4d32bed0409d446ac835ec06bb19cfd83cb1"
+    },
+    {
+      "original": "https://www.dangoldmanforny.com/priorities",
+      "timestamp": "20241105073641",
+      "wayback": "https://web.archive.org/web/20241105073641/https://www.dangoldmanforny.com/priorities",
+      "wayback_raw": "https://web.archive.org/web/20241105073641id_/https://www.dangoldmanforny.com/priorities",
+      "file": "archive/2024/goldman-ny/priorities.html",
+      "text_file": "archive/2024/goldman-ny/priorities.txt",
+      "bytes": 260669,
+      "sha256_html": "71349fab8ee1be547f72c212afda6cb13365dc4a14fb8d6056cbcfddb425d92d",
+      "sha256_text": "a3eb2e704fc9ebe0a9a26ffc8171e96d0074729f68aacb63af27627239df07f4"
+    },
+    {
+      "original": "https://www.dangoldmanforny.com/zh/communityplan",
+      "timestamp": "20241105073353",
+      "wayback": "https://web.archive.org/web/20241105073353/https://www.dangoldmanforny.com/zh/communityplan",
+      "wayback_raw": "https://web.archive.org/web/20241105073353id_/https://www.dangoldmanforny.com/zh/communityplan",
+      "file": "archive/2024/goldman-ny/zh-communityplan.html",
+      "text_file": "archive/2024/goldman-ny/zh-communityplan.txt",
+      "bytes": 445042,
+      "sha256_html": "882419af11d6b4fb1f26f3c1f60534255b92fbd380f76db4142a1ce1c252f4a3",
+      "sha256_text": "4bd5aa34971240848fdc77a215dca8f5a12f72f1e28259a8deef32b67884754b"
+    },
+    {
+      "original": "https://www.dangoldmanforny.com/zh/priorities",
+      "timestamp": "20241105073804",
+      "wayback": "https://web.archive.org/web/20241105073804/https://www.dangoldmanforny.com/zh/priorities",
+      "wayback_raw": "https://web.archive.org/web/20241105073804id_/https://www.dangoldmanforny.com/zh/priorities",
+      "file": "archive/2024/goldman-ny/zh-priorities.html",
+      "text_file": "archive/2024/goldman-ny/zh-priorities.txt",
+      "bytes": 260035,
+      "sha256_html": "78e0d495ca36533604630eb754db15c242d175a94083d7794e8ac8910dc1dd11",
+      "sha256_text": "a3eb2e704fc9ebe0a9a26ffc8171e96d0074729f68aacb63af27627239df07f4"
+    }
+  ],
+  "snapshots_found": {
+    "dangoldmanforny.com": 79
+  },
+  "generated_utc": "2026-11-26T09:09:23Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
