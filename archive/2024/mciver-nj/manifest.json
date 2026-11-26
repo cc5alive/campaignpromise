@@ -1,0 +1,28 @@
+{
+  "name": "LaMonica McIver",
+  "domains_tried": [
+    "lamonicamciver.com",
+    "mciverforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.lamonicamciver.com/",
+      "timestamp": "20240914200923",
+      "wayback": "https://web.archive.org/web/20240914200923/https://www.lamonicamciver.com/",
+      "wayback_raw": "https://web.archive.org/web/20240914200923id_/https://www.lamonicamciver.com/",
+      "file": "archive/2024/mciver-nj/home.html",
+      "text_file": "archive/2024/mciver-nj/home.txt",
+      "bytes": 579733,
+      "sha256_html": "feab97d40b91c56f0e20433199b225b2f2075f4e804c5cffae9ea237822dc0ab",
+      "sha256_text": "1ed829796f4d9298ac7f991df70fdbd4bbdcc0eeafbf4b63ff2477566deb296d"
+    }
+  ],
+  "snapshots_found": {
+    "lamonicamciver.com": 61
+  },
+  "generated_utc": "2026-11-26T09:08:35Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
