@@ -1,0 +1,27 @@
+{
+  "name": "Scott Fitzgerald",
+  "domains_tried": [
+    "scottfitzgeraldforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://scottfitzgeraldforcongress.com/",
+      "timestamp": "20241105202214",
+      "wayback": "https://web.archive.org/web/20241105202214/https://scottfitzgeraldforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105202214id_/https://scottfitzgeraldforcongress.com/",
+      "file": "archive/2024/fitzgerald-wi/home.html",
+      "text_file": "archive/2024/fitzgerald-wi/home.txt",
+      "bytes": 93068,
+      "sha256_html": "70ee7297446b1c10af72ebdb16602a223a7e4c3503123f61271bcedd63fd1f40",
+      "sha256_text": "19f239091afccd6cd15456e3ac7fe247514ec1f48c489732b8f3794299073f66"
+    }
+  ],
+  "snapshots_found": {
+    "scottfitzgeraldforcongress.com": 1315
+  },
+  "generated_utc": "2026-11-26T08:45:41Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
