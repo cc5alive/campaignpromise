@@ -1,0 +1,148 @@
+{
+  "name": "Scott H. Peters",
+  "domains_tried": [
+    "scottpeters.com"
+  ],
+  "pages": [
+    {
+      "original": "https://scottpeters.com/",
+      "timestamp": "20241105051111",
+      "wayback": "https://web.archive.org/web/20241105051111/https://scottpeters.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105051111id_/https://scottpeters.com/",
+      "file": "archive/2024/peters-ca/home.html",
+      "text_file": "archive/2024/peters-ca/home.txt",
+      "bytes": 761319,
+      "sha256_html": "75d1414e05f885515408422ae7640f8ce65361995342319b906c3e1d0564ea78",
+      "sha256_text": "f3328534baef50fb344994ee75f7c167ad4f1f1b626a0116efb61f783e003d28"
+    },
+    {
+      "original": "https://scottpeters.com/2019-priorities-survey/",
+      "timestamp": "20241105050739",
+      "wayback": "https://web.archive.org/web/20241105050739/https://scottpeters.com/2019-priorities-survey/",
+      "wayback_raw": "https://web.archive.org/web/20241105050739id_/https://scottpeters.com/2019-priorities-survey/",
+      "file": "archive/2024/peters-ca/2019-priorities-survey.html",
+      "text_file": "archive/2024/peters-ca/2019-priorities-survey.txt",
+      "bytes": 764901,
+      "sha256_html": "4ebdeee86b65a1a0d026a176ba2fec6250667a7afebf5ade342a37c39447ce12",
+      "sha256_text": "56a3881673cf16fd82e7d20a861840ef3b2eadb93197d86df6c649051d99616b"
+    },
+    {
+      "original": "https://scottpeters.com/accomplishments/",
+      "timestamp": "20241105051944",
+      "wayback": "https://web.archive.org/web/20241105051944/https://scottpeters.com/accomplishments/",
+      "wayback_raw": "https://web.archive.org/web/20241105051944id_/https://scottpeters.com/accomplishments/",
+      "file": "archive/2024/peters-ca/accomplishments.html",
+      "text_file": "archive/2024/peters-ca/accomplishments.txt",
+      "bytes": 821428,
+      "sha256_html": "9c61f5eb66db2eea75d95e22772b2d33766683023928071fe608faae2c2c69ec",
+      "sha256_text": "ec233a063f0861f5c81ff2872a19a08d7c6aac42e5e6bc37a5549bd4022aaa60"
+    },
+    {
+      "original": "https://scottpeters.com/accomplishments/education/",
+      "timestamp": "20241105050114",
+      "wayback": "https://web.archive.org/web/20241105050114/https://scottpeters.com/accomplishments/education/",
+      "wayback_raw": "https://web.archive.org/web/20241105050114id_/https://scottpeters.com/accomplishments/education/",
+      "file": "archive/2024/peters-ca/accomplishments-education.html",
+      "text_file": "archive/2024/peters-ca/accomplishments-education.txt",
+      "bytes": 754389,
+      "sha256_html": "dc2b333eede1470752e46fb9924a1f92e2de9c7b3abd979bf210404e381abc9b",
+      "sha256_text": "e0ed1e7ebdd2b549c20b3b7ba909495c9e6188ca1ead8054645f81c1931d0afd"
+    },
+    {
+      "original": "https://scottpeters.com/accomplishments/energy-and-environment/",
+      "timestamp": "20241105050113",
+      "wayback": "https://web.archive.org/web/20241105050113/https://scottpeters.com/accomplishments/energy-and-environment/",
+      "wayback_raw": "https://web.archive.org/web/20241105050113id_/https://scottpeters.com/accomplishments/energy-and-environment/",
+      "file": "archive/2024/peters-ca/accomplishments-energy-and-environment.html",
+      "text_file": "archive/2024/peters-ca/accomplishments-energy-and-environment.txt",
+      "bytes": 766854,
+      "sha256_html": "e763d3543d12836f54c9919fb03bd090217820d0a9d4c1a62a740fa1747054fe",
+      "sha256_text": "b5a234c8a44327e38550fe29f00b18f0d4b7f8de1990b3647096650ef9b3e3bb"
+    },
+    {
+      "original": "https://scottpeters.com/accomplishments/equal-rights/",
+      "timestamp": "20241105050028",
+      "wayback": "https://web.archive.org/web/20241105050028/https://scottpeters.com/accomplishments/equal-rights/",
+      "wayback_raw": "https://web.archive.org/web/20241105050028id_/https://scottpeters.com/accomplishments/equal-rights/",
+      "file": "archive/2024/peters-ca/accomplishments-equal-rights.html",
+      "text_file": "archive/2024/peters-ca/accomplishments-equal-rights.txt",
+      "bytes": 756386,
+      "sha256_html": "591ade4e552a540458aca85380399197d88c442af6634f2118ae5413cd7b2511",
+      "sha256_text": "3afe49e56418f822cc78d94e63019c45213d71dadc1659b3b893305b82a8310a"
+    },
+    {
+      "original": "https://scottpeters.com/accomplishments/government-reform/",
+      "timestamp": "20241105050422",
+      "wayback": "https://web.archive.org/web/20241105050422/https://scottpeters.com/accomplishments/government-reform/",
+      "wayback_raw": "https://web.archive.org/web/20241105050422id_/https://scottpeters.com/accomplishments/government-reform/",
+      "file": "archive/2024/peters-ca/accomplishments-government-reform.html",
+      "text_file": "archive/2024/peters-ca/accomplishments-government-reform.txt",
+      "bytes": 756059,
+      "sha256_html": "19ff98fadfa6a7fa600db03c738819a5ca53788fa98537a1826e01bccfa412be",
+      "sha256_text": "21bae95f3ace4e9723205d7b7db709270372423c3df88d8da1c16f3541a97a93"
+    },
+    {
+      "original": "https://scottpeters.com/accomplishments/jobs-the-economy/",
+      "timestamp": "20241105050109",
+      "wayback": "https://web.archive.org/web/20241105050109/https://scottpeters.com/accomplishments/jobs-the-economy/",
+      "wayback_raw": "https://web.archive.org/web/20241105050109id_/https://scottpeters.com/accomplishments/jobs-the-economy/",
+      "file": "archive/2024/peters-ca/accomplishments-jobs-the-economy.html",
+      "text_file": "archive/2024/peters-ca/accomplishments-jobs-the-economy.txt",
+      "bytes": 759099,
+      "sha256_html": "a4a580e50a43b868535eac3d43097ccce4b21be65681b68d38c75bb4fae90cb1",
+      "sha256_text": "ecc052e34b3ecf78c96b6ee831d81831ece701b4c9012cc6f9df55e9b1ac8ae0"
+    },
+    {
+      "original": "https://scottpeters.com/accomplishments/public-safety/",
+      "timestamp": "20241105050103",
+      "wayback": "https://web.archive.org/web/20241105050103/https://scottpeters.com/accomplishments/public-safety/",
+      "wayback_raw": "https://web.archive.org/web/20241105050103id_/https://scottpeters.com/accomplishments/public-safety/",
+      "file": "archive/2024/peters-ca/accomplishments-public-safety.html",
+      "text_file": "archive/2024/peters-ca/accomplishments-public-safety.txt",
+      "bytes": 755824,
+      "sha256_html": "b262bff2eaeb355f18537dc5f85d8fccd18e38f8dc9a3b09b56f69ad272ad1a3",
+      "sha256_text": "2bc4b9a6285583d3d97259a06f05fbc650776fe59324f5c4977c2d80fd92718b"
+    },
+    {
+      "original": "https://scottpeters.com/accomplishments/seniors-and-the-disabled/",
+      "timestamp": "20241105050023",
+      "wayback": "https://web.archive.org/web/20241105050023/https://scottpeters.com/accomplishments/seniors-and-the-disabled/",
+      "wayback_raw": "https://web.archive.org/web/20241105050023id_/https://scottpeters.com/accomplishments/seniors-and-the-disabled/",
+      "file": "archive/2024/peters-ca/accomplishments-seniors-and-the-disabled.html",
+      "text_file": "archive/2024/peters-ca/accomplishments-seniors-and-the-disabled.txt",
+      "bytes": 752649,
+      "sha256_html": "f2983504fa0b792b39b27df6754f60f450d5cc44e56c326766638697ed90db86",
+      "sha256_text": "527049a30216ab9ee5f3a06db8417da5153b459bef176df766e9addb77231af0"
+    },
+    {
+      "original": "https://scottpeters.com/accomplishments/veterans/",
+      "timestamp": "20241105050044",
+      "wayback": "https://web.archive.org/web/20241105050044/https://scottpeters.com/accomplishments/veterans/",
+      "wayback_raw": "https://web.archive.org/web/20241105050044id_/https://scottpeters.com/accomplishments/veterans/",
+      "file": "archive/2024/peters-ca/accomplishments-veterans.html",
+      "text_file": "archive/2024/peters-ca/accomplishments-veterans.txt",
+      "bytes": 753412,
+      "sha256_html": "4b054b4da112e0d9e3dc6d868f47cdb16d9ad7e178c8720d47efbbc1ef4b881f",
+      "sha256_text": "c3b857d434279ef302906f39c5d2e08fa8eb267e0519d8870758c450b840f478"
+    },
+    {
+      "original": "https://scottpeters.com/in-the-news/bipartisan-freshman-united-solutions-caucus-issues-statement-endorsing-reid-mcconnell-plan/",
+      "timestamp": "20241105052721",
+      "wayback": "https://web.archive.org/web/20241105052721/https://scottpeters.com/in-the-news/bipartisan-freshman-united-solutions-caucus-issues-statement-endorsing-reid-mcconnell-plan/",
+      "wayback_raw": "https://web.archive.org/web/20241105052721id_/https://scottpeters.com/in-the-news/bipartisan-freshman-united-solutions-caucus-issues-statement-endorsing-reid-mcconnell-plan/",
+      "file": "archive/2024/peters-ca/in-the-news-bipartisan-freshman-united-solutions-caucus-issues-statement-endorsing-reid-mcconnell-plan.html",
+      "text_file": "archive/2024/peters-ca/in-the-news-bipartisan-freshman-united-solutions-caucus-issues-statement-endorsing-reid-mcconnell-plan.txt",
+      "bytes": 751116,
+      "sha256_html": "d147973a6b78e8158570a50073f63638f1c76276b8c34daf9637306143dc0fe2",
+      "sha256_text": "167430721056a56c181dead4e1515762c3900404c431d1c7c1aee48ed8b4108c"
+    }
+  ],
+  "snapshots_found": {
+    "scottpeters.com": 835
+  },
+  "generated_utc": "2026-11-26T08:46:28Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
