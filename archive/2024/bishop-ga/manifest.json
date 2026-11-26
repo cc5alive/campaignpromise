@@ -1,0 +1,32 @@
+{
+  "name": "Sanford D. Bishop, Jr.",
+  "domains_tried": [
+    "sanfordbishop.com"
+  ],
+  "pages": [
+    {
+      "original": "https://sanfordbishop.com/issues/",
+      "timestamp": "20241105045821",
+      "wayback": "https://web.archive.org/web/20241105045821/https://sanfordbishop.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105045821id_/https://sanfordbishop.com/issues/",
+      "file": "archive/2024/bishop-ga/issues.html",
+      "text_file": "archive/2024/bishop-ga/issues.txt",
+      "bytes": 89122,
+      "sha256_html": "cf01de54ecdae34bc25dbef8da904a1d22fe7eeb1c83debc127baedaed809cb3",
+      "sha256_text": "0624f4f8b2490310af8aefda72ec6936ab7fcaa944eaf3944e675396a5172f49"
+    },
+    {
+      "original": "https://sanfordbishop.com/about/",
+      "timestamp": "20241105045719",
+      "error": "no response"
+    }
+  ],
+  "snapshots_found": {
+    "sanfordbishop.com": 0
+  },
+  "generated_utc": "2026-11-26T07:26:46Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
