@@ -1,0 +1,60 @@
+{
+  "name": "Lisa C. McClain",
+  "domains_tried": [
+    "lisamcclainforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://lisamcclainforcongress.com/",
+      "timestamp": "20241105122904",
+      "wayback": "https://web.archive.org/web/20241105122904/https://lisamcclainforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105122904id_/https://lisamcclainforcongress.com/",
+      "file": "archive/2024/mcclain-mi/home.html",
+      "text_file": "archive/2024/mcclain-mi/home.txt",
+      "bytes": 204380,
+      "sha256_html": "58511060208857e1ebdb4a9a2d9148f5d181fff83c0d014e84db61e9f34bd9ce",
+      "sha256_text": "0773f4103d2708b43500218b7c1c2d9d312c39cb9c25e3f0d80ec2d2653cf569"
+    },
+    {
+      "original": "https://lisamcclainforcongress.com/covid-19-info-%26-issues",
+      "timestamp": "20241105121916",
+      "wayback": "https://web.archive.org/web/20241105121916/https://lisamcclainforcongress.com/covid-19-info-%26-issues",
+      "wayback_raw": "https://web.archive.org/web/20241105121916id_/https://lisamcclainforcongress.com/covid-19-info-%26-issues",
+      "file": "archive/2024/mcclain-mi/covid-19-info-26-issues.html",
+      "text_file": "archive/2024/mcclain-mi/covid-19-info-26-issues.txt",
+      "bytes": 168159,
+      "sha256_html": "be289b9c8bca5ded4dbb7ff9c1d9fc8a9a2b87f32bd47476c0c67dba2791b525",
+      "sha256_text": "a8fb499c17758d2f7a25c216eba760d892a18aec2809a3ee5dcf6ef6ea992915"
+    },
+    {
+      "original": "https://lisamcclainforcongress.com/issues",
+      "timestamp": "20241105121938",
+      "wayback": "https://web.archive.org/web/20241105121938/https://lisamcclainforcongress.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105121938id_/https://lisamcclainforcongress.com/issues",
+      "file": "archive/2024/mcclain-mi/issues.html",
+      "text_file": "archive/2024/mcclain-mi/issues.txt",
+      "bytes": 192287,
+      "sha256_html": "01704fa643f1558ccdc6062697323a6e57cb5604a09c6d9854d38f1f52ee7889",
+      "sha256_text": "17460bb605a8b2d1c325785e79809ed01dd17a4cc7a5f936c39e96406131624c"
+    },
+    {
+      "original": "https://lisamcclainforcongress.com/home/f/gop-congresswomen-elect-really-wanting-to-fight-back",
+      "timestamp": "20241105122205",
+      "wayback": "https://web.archive.org/web/20241105122205/https://lisamcclainforcongress.com/home/f/gop-congresswomen-elect-really-wanting-to-fight-back",
+      "wayback_raw": "https://web.archive.org/web/20241105122205id_/https://lisamcclainforcongress.com/home/f/gop-congresswomen-elect-really-wanting-to-fight-back",
+      "file": "archive/2024/mcclain-mi/home-f-gop-congresswomen-elect-really-wanting-to-fight-back.html",
+      "text_file": "archive/2024/mcclain-mi/home-f-gop-congresswomen-elect-really-wanting-to-fight-back.txt",
+      "bytes": 209830,
+      "sha256_html": "efc120b2c9fe33483ecfd07e19e3d0953c22ca0cb7d057c87c9db60628d66060",
+      "sha256_text": "0803f9645ebaf0ad51a08b03e119be07e64cb5789f73d45be7e15f61512b6be7"
+    }
+  ],
+  "snapshots_found": {
+    "lisamcclainforcongress.com": 55
+  },
+  "generated_utc": "2026-11-26T08:31:41Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
