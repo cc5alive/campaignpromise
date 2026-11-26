@@ -1,0 +1,142 @@
+{
+  "name": "Jerrold Nadler",
+  "domains_tried": [
+    "jerrynadler.com"
+  ],
+  "pages": [
+    {
+      "original": "https://jerrynadler.com/",
+      "timestamp": "20241105172409",
+      "wayback": "https://web.archive.org/web/20241105172409/https://jerrynadler.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105172409id_/https://jerrynadler.com/",
+      "file": "archive/2024/nadler-ny/home.html",
+      "text_file": "archive/2024/nadler-ny/home.txt",
+      "bytes": 36784,
+      "sha256_html": "92131347f9296c26c676fcd4198b2b61270bdfd4c98eef8622d22ceb32380fff",
+      "sha256_text": "1fa5276b3be348ebd30c5d2d68d32ca292bb9e6719a4e96f7c8a0b7c0df130bc"
+    },
+    {
+      "original": "https://jerrynadler.com/accomplishments/",
+      "timestamp": "20241105172842",
+      "wayback": "https://web.archive.org/web/20241105172842/https://jerrynadler.com/accomplishments/",
+      "wayback_raw": "https://web.archive.org/web/20241105172842id_/https://jerrynadler.com/accomplishments/",
+      "file": "archive/2024/nadler-ny/accomplishments.html",
+      "text_file": "archive/2024/nadler-ny/accomplishments.txt",
+      "bytes": 36124,
+      "sha256_html": "c9dab87c1c15b1d4742a2458cf7755522b114248042ad4e0ef25f1680eea2c16",
+      "sha256_text": "90137c1c6aba0bb632bb875613ea6c7c48199a2dea51f9d7798f2f1fa44297cb"
+    },
+    {
+      "original": "https://jerrynadler.com/jerrys-priorities/",
+      "timestamp": "20241105172840",
+      "wayback": "https://web.archive.org/web/20241105172840/https://jerrynadler.com/jerrys-priorities/",
+      "wayback_raw": "https://web.archive.org/web/20241105172840id_/https://jerrynadler.com/jerrys-priorities/",
+      "file": "archive/2024/nadler-ny/jerrys-priorities.html",
+      "text_file": "archive/2024/nadler-ny/jerrys-priorities.txt",
+      "bytes": 38733,
+      "sha256_html": "0a6bbe19513b38ee4e51995774e8d29e36c99b341ac6e4f303eb057309e7a6de",
+      "sha256_text": "4ef4ac1dc8c1f24c73a4b76d71d9f9ebf0413c175336a732d977ab20504bfaf6"
+    },
+    {
+      "original": "https://jerrynadler.com/accomplishments/embed/",
+      "timestamp": "20241104035038",
+      "wayback": "https://web.archive.org/web/20241104035038/https://jerrynadler.com/accomplishments/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241104035038id_/https://jerrynadler.com/accomplishments/embed/",
+      "file": "archive/2024/nadler-ny/accomplishments-embed.html",
+      "text_file": "archive/2024/nadler-ny/accomplishments-embed.txt",
+      "bytes": 19515,
+      "sha256_html": "65fd55cbff63d703f3b65a2a9e7d3527c2f22212327f9af7e60b4c58564161ba",
+      "sha256_text": "65bfef2b5af080a140b2ba810ca42b94a3290e6cdebb05baf2d25b800461234f"
+    },
+    {
+      "original": "https://jerrynadler.com/issues/9-11-survivors/",
+      "timestamp": "20241105172440",
+      "wayback": "https://web.archive.org/web/20241105172440/https://jerrynadler.com/issues/9-11-survivors/",
+      "wayback_raw": "https://web.archive.org/web/20241105172440id_/https://jerrynadler.com/issues/9-11-survivors/",
+      "file": "archive/2024/nadler-ny/issues-9-11-survivors.html",
+      "text_file": "archive/2024/nadler-ny/issues-9-11-survivors.txt",
+      "bytes": 38802,
+      "sha256_html": "de1a96dbf81b452267a4345cf08bb00d09c73692a3b04156664db3143dbc5e96",
+      "sha256_text": "d0f3198aa7c768b1c963bbef31aa4a6fa49dda570d56e413b01b5459f4b7eb1f"
+    },
+    {
+      "original": "https://jerrynadler.com/issues/defending-our-democracy/",
+      "timestamp": "20241105172425",
+      "error": "no response"
+    },
+    {
+      "original": "https://jerrynadler.com/issues/delivering-for-new-yorkers/",
+      "timestamp": "20241105172438",
+      "wayback": "https://web.archive.org/web/20241105172438/https://jerrynadler.com/issues/delivering-for-new-yorkers/",
+      "wayback_raw": "https://web.archive.org/web/20241105172438id_/https://jerrynadler.com/issues/delivering-for-new-yorkers/",
+      "file": "archive/2024/nadler-ny/issues-delivering-for-new-yorkers.html",
+      "text_file": "archive/2024/nadler-ny/issues-delivering-for-new-yorkers.txt",
+      "bytes": 39466,
+      "sha256_html": "56fa6e0d3b989db7381c038b0cddba84b61e1ee33eda1fd40a0aabde695ba9c8",
+      "sha256_text": "a6a134433d1e861161cb61e8cf817f14a2af5dcb3fa692e4dfcf08f3c403cda9"
+    },
+    {
+      "original": "https://jerrynadler.com/issues/disability-rights/",
+      "timestamp": "20241105172440",
+      "wayback": "https://web.archive.org/web/20241105172440/https://jerrynadler.com/issues/disability-rights/",
+      "wayback_raw": "https://web.archive.org/web/20241105172440id_/https://jerrynadler.com/issues/disability-rights/",
+      "file": "archive/2024/nadler-ny/issues-disability-rights.html",
+      "text_file": "archive/2024/nadler-ny/issues-disability-rights.txt",
+      "bytes": 39394,
+      "sha256_html": "ab73f00190e208414f3045ccdcb995a003cb15d35f036d1db3e92f10bc3a0153",
+      "sha256_text": "39b63c9dde5c009d20f1f8b92bd4e2b620f8c2c112c43d8732856df8d15c06f9"
+    },
+    {
+      "original": "https://jerrynadler.com/issues/immigration/",
+      "timestamp": "20241105172436",
+      "wayback": "https://web.archive.org/web/20241105172436/https://jerrynadler.com/issues/immigration/",
+      "wayback_raw": "https://web.archive.org/web/20241105172436id_/https://jerrynadler.com/issues/immigration/",
+      "file": "archive/2024/nadler-ny/issues-immigration.html",
+      "text_file": "archive/2024/nadler-ny/issues-immigration.txt",
+      "bytes": 38886,
+      "sha256_html": "b93e91cbd4ff25a33883553a878ea45246f57a93abcc8adcdf48de1aea9a49ca",
+      "sha256_text": "8689f187ea5da6028623005b970eac7a11a9729020d704a55093f38f21f928a4"
+    },
+    {
+      "original": "https://jerrynadler.com/issues/israel/",
+      "timestamp": "20241105172439",
+      "wayback": "https://web.archive.org/web/20241105172439/https://jerrynadler.com/issues/israel/",
+      "wayback_raw": "https://web.archive.org/web/20241105172439id_/https://jerrynadler.com/issues/israel/",
+      "file": "archive/2024/nadler-ny/issues-israel.html",
+      "text_file": "archive/2024/nadler-ny/issues-israel.txt",
+      "bytes": 38556,
+      "sha256_html": "22a697adca8eb10775c26903756277d6cf4d65bf1683a026813a770346075e89",
+      "sha256_text": "5215b34264ad8ec4ad3d6cf14ffa0348989b21c61a234d28377a5044eb04bf26"
+    },
+    {
+      "original": "https://jerrynadler.com/issues/lbgtqia-rights/",
+      "timestamp": "20241105172422",
+      "wayback": "https://web.archive.org/web/20241105172422/https://jerrynadler.com/issues/lbgtqia-rights/",
+      "wayback_raw": "https://web.archive.org/web/20241105172422id_/https://jerrynadler.com/issues/lbgtqia-rights/",
+      "file": "archive/2024/nadler-ny/issues-lbgtqia-rights.html",
+      "text_file": "archive/2024/nadler-ny/issues-lbgtqia-rights.txt",
+      "bytes": 39152,
+      "sha256_html": "c26e8f42f33a2fa8fc706dcbe01c80c4675a17a916c30adb04a97f8dac27182c",
+      "sha256_text": "24026334d20f261f3e7b1d2dae6dc8d261c6fb9c56271304e434dc8b39b856c4"
+    },
+    {
+      "original": "https://jerrynadler.com/issues/legalizing-marijuana/",
+      "timestamp": "20241105172437",
+      "wayback": "https://web.archive.org/web/20241105172437/https://jerrynadler.com/issues/legalizing-marijuana/",
+      "wayback_raw": "https://web.archive.org/web/20241105172437id_/https://jerrynadler.com/issues/legalizing-marijuana/",
+      "file": "archive/2024/nadler-ny/issues-legalizing-marijuana.html",
+      "text_file": "archive/2024/nadler-ny/issues-legalizing-marijuana.txt",
+      "bytes": 38887,
+      "sha256_html": "d893a6cfebf2bd014485a3341f7e81589cf80c9b37c6195efb373908e78e80e9",
+      "sha256_text": "4a964460a00b93925753cd0c344255f975d356bf7312c7b71e4d80924b28ff08"
+    }
+  ],
+  "snapshots_found": {
+    "jerrynadler.com": 89
+  },
+  "generated_utc": "2026-11-26T08:15:43Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
