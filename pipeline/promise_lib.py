@@ -11,7 +11,9 @@ LABEL = {"S1582": "GENIUS Act", "S5": "Laken Riley Act", "HR29": "Laken Riley Ac
          "S331": "HALT Fentanyl Act", "HR21": "Born-Alive Abortion Survivors Protection Act",
          "S6": "Born-Alive Abortion Survivors Protection Act",
          "HR1834": "3-year ACA premium tax credit extension", "S3385": "3-year ACA premium tax credit extension",
-         "HR4": "Rescissions Act of 2025"}
+         "HR4": "Rescissions Act of 2025", "HR22": "SAVE Act", "HR2913": "Ukraine Support Act",
+         "HR1041": "Veterans 2nd Amendment Protection Act", "HR1958": "Deporting Fraudsters Act",
+         "HR498": "Do No Harm in Medicaid Act", "HR7008": "Stop Insider Trading Act"}
 
 
 def norm_id(raw):

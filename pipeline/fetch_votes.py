@@ -37,6 +37,13 @@ TARGETS = {
     "HR1834": "3-year extension of enhanced ACA premium tax credits (passed House Jan 8, 2026 under the title Breaking the Gridlock Act)",
     "HR4": "Rescissions Act of 2025 ($9 billion spending cut)",
     "S3385": "3-year extension of enhanced ACA premium tax credits (Senate Democratic bill, Dec 11, 2025)",
+    # Round 7: more votes that test promises from both parties
+    "HR22": "SAVE Act (proof of citizenship to register to vote)",
+    "HR2913": "Ukraine Support Act",
+    "HR1041": "Veterans 2nd Amendment Protection Act",
+    "HR1958": "Deporting Fraudsters Act",
+    "HR498": "Do No Harm in Medicaid Act",
+    "HR7008": "Stop Insider Trading Act (partial stock ban plus voter ID)",
 }
 # Every roll call seen (both chambers), without member positions: lets us find the
 # official record for any new issue without guessing roll numbers.
