@@ -1,0 +1,38 @@
+{
+  "name": "Tom Cotton",
+  "domains_tried": [
+    "tomcotton.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.tomcotton.com/",
+      "timestamp": "20241105114950",
+      "wayback": "https://web.archive.org/web/20241105114950/https://www.tomcotton.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105114950id_/https://www.tomcotton.com/",
+      "file": "archive/2024/cotton-ar/home.html",
+      "text_file": "archive/2024/cotton-ar/home.txt",
+      "bytes": 45386,
+      "sha256_html": "fd3c86c7173629541efd7ddd07796af87ae221bfc72c35c85f8ecdf0d9c2f37e",
+      "sha256_text": "211642e3654832206f08e32e5fdf36492c7ddd27095c823d682e4ba8302fe231"
+    },
+    {
+      "original": "https://www.tomcotton.com/issues",
+      "timestamp": "20240912160928",
+      "wayback": "https://web.archive.org/web/20240912160928/https://www.tomcotton.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20240912160928id_/https://www.tomcotton.com/issues",
+      "file": "archive/2024/cotton-ar/issues.html",
+      "text_file": "archive/2024/cotton-ar/issues.txt",
+      "bytes": 34543,
+      "sha256_html": "5dfcf88cb3cc0735643035a758300cba786433807eb55dc8e6f43357842b45e4",
+      "sha256_text": "8e215b242c4394b1990ed16bc0a555006021787b9f60414af10065e37102bd11"
+    }
+  ],
+  "snapshots_found": {
+    "tomcotton.com": 4
+  },
+  "generated_utc": "2026-11-26T08:38:49Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
