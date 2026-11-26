@@ -1,0 +1,27 @@
+{
+  "name": "Kweisi Mfume",
+  "domains_tried": [
+    "mfumeforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://mfumeforcongress.com/",
+      "timestamp": "20241105074819",
+      "wayback": "https://web.archive.org/web/20241105074819/https://mfumeforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105074819id_/https://mfumeforcongress.com/",
+      "file": "archive/2024/mfume-md/home.html",
+      "text_file": "archive/2024/mfume-md/home.txt",
+      "bytes": 168356,
+      "sha256_html": "dfc08ac9405f7402aafd096349265219752c8dadf6d8e28266c0e63e4451d510",
+      "sha256_text": "b43c3ab1ab00e8de1a0a6d89052834d63365c86617f8618912aace0f3d937ce6"
+    }
+  ],
+  "snapshots_found": {
+    "mfumeforcongress.com": 5
+  },
+  "generated_utc": "2026-11-26T08:15:32Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
