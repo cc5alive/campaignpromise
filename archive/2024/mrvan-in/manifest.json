@@ -1,0 +1,82 @@
+{
+  "name": "Frank J. Mrvan",
+  "domains_tried": [
+    "mrvanforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://mrvanforcongress.com/",
+      "timestamp": "20241105054301",
+      "wayback": "https://web.archive.org/web/20241105054301/https://mrvanforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105054301id_/https://mrvanforcongress.com/",
+      "file": "archive/2024/mrvan-in/home.html",
+      "text_file": "archive/2024/mrvan-in/home.txt",
+      "bytes": 91590,
+      "sha256_html": "eb2f9dbb7a956f8924ff1768be2b0ea112aec296f4fb98ca390d315832fd71a0",
+      "sha256_text": "b937894fab1fb99c4365508ffc9c44161a36c38b90bbe9fd5e5c0d11914cf89c"
+    },
+    {
+      "original": "https://mrvanforcongress.com/issues/",
+      "timestamp": "20241105054644",
+      "wayback": "https://web.archive.org/web/20241105054644/https://mrvanforcongress.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105054644id_/https://mrvanforcongress.com/issues/",
+      "file": "archive/2024/mrvan-in/issues.html",
+      "text_file": "archive/2024/mrvan-in/issues.txt",
+      "bytes": 76569,
+      "sha256_html": "afb6b691bcb1cba8566a952f57ae8a7bf136bfc618171773c8d6e52202a559ec",
+      "sha256_text": "a8fc501f57273f2db769d35c061b6d33ab7620791419bccedcd929f55dda26b0"
+    },
+    {
+      "original": "https://mrvanforcongress.com/issues/embed/",
+      "timestamp": "20241101043045",
+      "wayback": "https://web.archive.org/web/20241101043045/https://mrvanforcongress.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241101043045id_/https://mrvanforcongress.com/issues/embed/",
+      "file": "archive/2024/mrvan-in/issues-embed.html",
+      "text_file": "archive/2024/mrvan-in/issues-embed.txt",
+      "bytes": 19671,
+      "sha256_html": "2573fc33baa93ffcf37569b8fac09b10debde2d7111bceead8e06b932b29bc18",
+      "sha256_text": "4cfe413b6e76316c2b90451e7d3b12cc886261dd5fbe51a42a413d1791a6acc8"
+    },
+    {
+      "original": "https://mrvanforcongress.com/news/may-25-2020-nwi-times-watch-now-wettest-may-on-record-taking-its-toll-on-region/",
+      "timestamp": "20241105055321",
+      "wayback": "https://web.archive.org/web/20241105055321/https://mrvanforcongress.com/news/may-25-2020-nwi-times-watch-now-wettest-may-on-record-taking-its-toll-on-region/",
+      "wayback_raw": "https://web.archive.org/web/20241105055321id_/https://mrvanforcongress.com/news/may-25-2020-nwi-times-watch-now-wettest-may-on-record-taking-its-toll-on-region/",
+      "file": "archive/2024/mrvan-in/news-may-25-2020-nwi-times-watch-now-wettest-may-on-record-taking-its-toll-on-region.html",
+      "text_file": "archive/2024/mrvan-in/news-may-25-2020-nwi-times-watch-now-wettest-may-on-record-taking-its-toll-on-region.txt",
+      "bytes": 48239,
+      "sha256_html": "7fe2c1982731fc20b2babb09df76d508690e8a9535c93b80c8b1e103aa830cd0",
+      "sha256_text": "50788dbbad8ff152f7f223ede93c38897e9039f89a326b8f8b462c5639b88eda"
+    },
+    {
+      "original": "https://mrvanforcongress.com/news/october-3-2020-nwi-times-fallen-heroes-memorial-for-police-officers-firefighters-ems-workers-dedicated-in-highland/",
+      "timestamp": "20241105055313",
+      "wayback": "https://web.archive.org/web/20241105055313/https://mrvanforcongress.com/news/october-3-2020-nwi-times-fallen-heroes-memorial-for-police-officers-firefighters-ems-workers-dedicated-in-highland/",
+      "wayback_raw": "https://web.archive.org/web/20241105055313id_/https://mrvanforcongress.com/news/october-3-2020-nwi-times-fallen-heroes-memorial-for-police-officers-firefighters-ems-workers-dedicated-in-highland/",
+      "file": "archive/2024/mrvan-in/news-october-3-2020-nwi-times-fallen-heroes-memorial-for-police-officers-firefighters-ems-workers-dedicated-in-highland.html",
+      "text_file": "archive/2024/mrvan-in/news-october-3-2020-nwi-times-fallen-heroes-memorial-for-police-officers-firefighters-ems-workers-dedicated-in-highland.txt",
+      "bytes": 48928,
+      "sha256_html": "a2bc00859e8aafdd8b38bcdf378f4314f27dac0bb0558c4d62709def22bee74c",
+      "sha256_text": "580c9f086f1aa936b792a93d385e1ad2bbb7c656a3d61aea0e794e36862a8eea"
+    },
+    {
+      "original": "https://mrvanforcongress.com/about/",
+      "timestamp": "20241105054654",
+      "wayback": "https://web.archive.org/web/20241105054654/https://mrvanforcongress.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105054654id_/https://mrvanforcongress.com/about/",
+      "file": "archive/2024/mrvan-in/about.html",
+      "text_file": "archive/2024/mrvan-in/about.txt",
+      "bytes": 52710,
+      "sha256_html": "9829b978340e9c119c535809ea573fc105301755c8219c415b62029bddd6aa53",
+      "sha256_text": "99279e44f4031a7fb31061145d4d38d979e482a4999d10025ee44ed3d11051ba"
+    }
+  ],
+  "snapshots_found": {
+    "mrvanforcongress.com": 61
+  },
+  "generated_utc": "2026-11-26T08:31:32Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
