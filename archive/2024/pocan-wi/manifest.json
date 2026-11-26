@@ -1,0 +1,27 @@
+{
+  "name": "Mark Pocan",
+  "domains_tried": [
+    "pocanforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://pocanforcongress.com/",
+      "timestamp": "20241105161404",
+      "wayback": "https://web.archive.org/web/20241105161404/https://pocanforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105161404id_/https://pocanforcongress.com/",
+      "file": "archive/2024/pocan-wi/home.html",
+      "text_file": "archive/2024/pocan-wi/home.txt",
+      "bytes": 60133,
+      "sha256_html": "11462c6cf01d26aee0b984b684f7e6e6e2107ceb40d8cd7bbd122899a8af5d8c",
+      "sha256_text": "4a48ee08afb7d074ee2c44298341857d6dd752e12ce2a64bd65f4523cf917c87"
+    }
+  ],
+  "snapshots_found": {
+    "pocanforcongress.com": 25
+  },
+  "generated_utc": "2026-11-26T08:46:26Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
