@@ -1,6 +1,6 @@
 {
  "reviewed_by": "Claude Opus 5.5 (claude-opus-5-5), an AI model made by Anthropic, at CC's request. No human approves, rejects or edits these decisions.",
- "date": "2026-11-15",
+ "date": "2026-11-25",
  "rules": [
   "Approve when the vote directly tests the specific commitment.",
   "A vote on a whole bill counts, in both directions, when the promised item was a central, widely reported provision (H.R.1's tax-cut extension, Medicaid and SNAP cuts, Planned Parenthood funding ban, border wall and Border Patrol/ICE money).",
@@ -905,6 +905,186 @@
   "R5-042": {
    "decision": "Edit",
    "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken."
+  },
+  "R6-001": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-002": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-003": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-004": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-005": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-006": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-007": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-008": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-009": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-010": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-011": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-012": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-013": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-014": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-015": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-016": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-017": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-018": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-019": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-020": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-021": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-022": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-023": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-024": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-025": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-026": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-027": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-028": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-029": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-030": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-031": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-032": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-033": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-034": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-035": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-036": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-037": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-038": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-039": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-040": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-041": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-042": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-043": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-044": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R6-045": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
   }
  }
 }

@@ -268,6 +268,7 @@ footer{border-top:1px solid var(--rule);color:var(--muted);font-size:12px;paddin
     </ol>
     <p>So far: __M_TOTAL__ drafts for __M_MEMBERS_REVIEWED__ members. __M_APPROVED__ approved, __M_SHOWN_NOT_SCORED__ shown but not scored, __M_REJECTED__ rejected. Of the approved promises, __M_TESTED__ have been tested by a vote: __M_ALIGNED__ aligned, __M_NOT_ALIGNED__ not aligned, __M_MIXED__ mixed.</p>
     <p>Most promises tested so far are party positions tested by party-line votes, so most come out aligned. Specific, local or bipartisan promises are harder to match to a floor vote and are more often shown but not scored.</p>
+    <p><b>Why most scored members are Republicans so far.</b> Republicans control both chambers, so most bills that reached a floor vote in 2025–26 were Republican priorities: tax cuts, border and ICE funding, spending cuts, abortion limits. Republican promises on those subjects can each be tested by a different vote. Many Democratic promises, such as protecting abortion rights or passing immigration reform, have had no floor vote yet, and several Democratic promises point to the same bill (H.R. 1), which counts only once. This reflects which votes exist, not a choice of whom to score. We are adding more votes, including Senate amendment votes, to test promises on both sides.</p>
     <h3>The rules Claude Opus 5.5 follows</h3>
     <ul id="rules"></ul>
     <p class="layer">Source: <a href="https://github.com/cc5alive/campaignpromise/blob/main/data/promises/review_decisions.json">review_decisions.json</a> and <a href="https://github.com/cc5alive/campaignpromise/blob/main/pipeline/scoring.py">scoring.py</a>.</p>
@@ -399,6 +400,7 @@ const VS = {"aligned":["vs-aligned","Aligned"],"not aligned":["vs-notaligned","N
 const ORDER = ["not aligned","mixed","aligned","not yet tested","shown, not scored"];
 function voteRow(v){
   const o = v.role==="related" ? '<span class="vs vs-muted">Related, not scored</span>' :
+    v.role==="elsewhere" ? '<span class="vs vs-muted" title="Each vote counts once per member">Counted on another promise</span>' :
     v.out==="not counted" ? '<span class="vs vs-muted">Not counted</span>' :
     '<span class="vs '+(v.out==="aligned"?"vs-aligned":"vs-notaligned")+'">'+(v.out==="aligned"?"Aligned":"Not aligned")+'</span>';
   return '<div class="vrow"><div>'+esc(v.bill)+' <span class="vq">· '+esc(v.q)+' · '+esc(v.date)+'</span></div><div class="vo">'+o+'</div>'+

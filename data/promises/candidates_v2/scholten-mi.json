@@ -1,0 +1,36 @@
+{
+ "member": "scholten-mi",
+ "pages": 3,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Health care"
+   ],
+   "sentence": "I support policies that will ban insurance companies from raising rates on people when they get sick, denying people coverage for having a pre-existing condition or dropping them when they get sick.",
+   "page": "https://hillaryscholten.com/priorities/",
+   "file": "archive/2024/scholten-mi/priorities.html",
+   "snapshot": "20241105112425"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Health care"
+   ],
+   "sentence": "I am committed to preventing insurance companies from increasing premiums and deductibles while reducing coverage.",
+   "page": "https://hillaryscholten.com/priorities/",
+   "file": "archive/2024/scholten-mi/priorities.html",
+   "snapshot": "20241105112425"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Health care"
+   ],
+   "sentence": "I vote to cap the cost of critical prescription drugs and insulin, and I defend the Affordable Care Act and work every day to expand on it.",
+   "page": "https://hillaryscholten.com/priorities/",
+   "file": "archive/2024/scholten-mi/priorities.html",
+   "snapshot": "20241105112425"
+  }
+ ]
+}

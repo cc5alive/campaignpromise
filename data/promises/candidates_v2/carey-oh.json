@@ -1,0 +1,47 @@
+{
+ "member": "carey-oh",
+ "pages": 2,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "He will be a courageous fighter for the people and our economy, is strong on the Border, and taught on Crime.",
+   "page": "https://www.careyforcongress.com/",
+   "file": "archive/2024/carey-oh/home.html",
+   "snapshot": "20241105212430"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Taxes",
+    "Federal spending"
+   ],
+   "sentence": "This would help to cut duplicative and wasteful programs, ultimately saving taxpayer dollars.",
+   "page": "https://www.careyforcongress.com/priorities",
+   "file": "archive/2024/carey-oh/priorities.html",
+   "snapshot": "20241105212417"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "This bipartisan bill will encourage more skilled labor and help build our workforce by allowing employers a $1,500 tax credit for each of their employees who participate in qualified apprenticeship programs.",
+   "page": "https://www.careyforcongress.com/priorities",
+   "file": "archive/2024/carey-oh/priorities.html",
+   "snapshot": "20241105212417"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "Mike Carey is working to end antiquated regulations on the Social Security benefits of retired public employees such as teachers, police officers and firefighters.",
+   "page": "https://www.careyforcongress.com/priorities",
+   "file": "archive/2024/carey-oh/priorities.html",
+   "snapshot": "20241105212417"
+  }
+ ]
+}

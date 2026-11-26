@@ -1,0 +1,36 @@
+{
+ "member": "elfreth-md",
+ "pages": 2,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Health care"
+   ],
+   "sentence": "On Capitol Hill, she will fight to protect the Affordable Care Act from right-wing attacks and to expand coverage to the nearly 30 million Americans without health insurance.",
+   "page": "https://elfrethformaryland.com/issues/",
+   "file": "archive/2024/elfreth-md/issues.html",
+   "snapshot": "20241105163939"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "She will also work to expand cancer screenings for first responders, guarantee that Medicare can negotiate drug prices for our Seniors, and reduce costs for millions of Americans.",
+   "page": "https://elfrethformaryland.com/issues/",
+   "file": "archive/2024/elfreth-md/issues.html",
+   "snapshot": "20241105163939"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "Sarah is proud to support Amendment 1 – The Right to Reproductive Freedom Amendment in Maryland.",
+   "page": "https://elfrethformaryland.com/issues/",
+   "file": "archive/2024/elfreth-md/issues.html",
+   "snapshot": "20241105163939"
+  }
+ ]
+}

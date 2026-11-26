@@ -1,0 +1,522 @@
+[
+ {
+  "member": "bacon-ne",
+  "cand": 0,
+  "cand_dir": "candidates_v2",
+  "kind": "Pledge",
+  "issue": "Taxes",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "baldwin-wi",
+  "cand": 9,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Health care",
+  "votes": [
+   "senate-1-00644"
+  ],
+  "note": ""
+ },
+ {
+  "member": "barrett-mi",
+  "cand": 0,
+  "cand_dir": "candidates_v2",
+  "kind": "Pledge",
+  "issue": "Fentanyl",
+  "votes": [
+   "house-2025-166"
+  ],
+  "note": ""
+ },
+ {
+  "member": "biggs-az",
+  "cand": 4,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Immigration",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "budzinski-il",
+  "cand": 3,
+  "cand_dir": "candidates_v2",
+  "kind": "Pledge",
+  "issue": "Taxes",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "burchett-tn",
+  "cand": 2,
+  "cand_dir": "candidates_v2",
+  "kind": "Pledge",
+  "issue": "Immigration",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "cammack-fl",
+  "cand": 1,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Taxes",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "cantwell-wa",
+  "cand": 12,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Medicaid",
+  "votes": [
+   "senate-1-00372"
+  ],
+  "note": ""
+ },
+ {
+  "member": "cramer-nd",
+  "cand": 5,
+  "cand_dir": "candidates_v2",
+  "kind": "Pledge",
+  "issue": "Abortion",
+  "votes": [
+   "senate-1-00011"
+  ],
+  "note": ""
+ },
+ {
+  "member": "evans-co",
+  "cand": 7,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Abortion",
+  "votes": [
+   "house-2025-027",
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "gillibrand-ny",
+  "cand": 2,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Taxes",
+  "votes": [
+   "senate-1-00372"
+  ],
+  "note": ""
+ },
+ {
+  "member": "goldman-tx",
+  "cand": 7,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Crypto",
+  "votes": [
+   "house-2025-199",
+   "house-2025-200"
+  ],
+  "note": ""
+ },
+ {
+  "member": "gottheimer-nj",
+  "cand": 4,
+  "cand_dir": "candidates_v2",
+  "kind": "Pledge",
+  "issue": "Taxes",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "harris-md",
+  "cand": 7,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Immigration",
+  "votes": [
+   "house-2025-006",
+   "house-2025-023"
+  ],
+  "note": ""
+ },
+ {
+  "member": "harris-md",
+  "cand": 5,
+  "cand_dir": "candidates_v2",
+  "kind": "Pledge",
+  "issue": "Federal spending",
+  "votes": [
+   "house-2025-168"
+  ],
+  "note": ""
+ },
+ {
+  "member": "hawley-mo",
+  "cand": 1,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Immigration",
+  "votes": [
+   "senate-1-00372"
+  ],
+  "note": ""
+ },
+ {
+  "member": "hunt-tx",
+  "cand": 7,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Federal spending",
+  "votes": [
+   "house-2025-168"
+  ],
+  "note": ""
+ },
+ {
+  "member": "hunt-tx",
+  "cand": 8,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Abortion",
+  "votes": [
+   "house-2025-027"
+  ],
+  "note": ""
+ },
+ {
+  "member": "garcia-ca",
+  "cand": 0,
+  "cand_dir": "candidates_v2",
+  "kind": "Pledge",
+  "issue": "Medicaid",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "hamadeh-az",
+  "cand": 0,
+  "cand_dir": "candidates_v2",
+  "kind": "Pledge",
+  "issue": "Immigration",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "hageman-wy",
+  "cand": 3,
+  "cand_dir": "candidates_v2",
+  "kind": "Pledge",
+  "issue": "Federal spending",
+  "votes": [
+   "house-2025-168"
+  ],
+  "note": ""
+ },
+ {
+  "member": "hageman-wy",
+  "cand": 2,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Abortion",
+  "votes": [
+   "house-2025-027"
+  ],
+  "note": ""
+ },
+ {
+  "member": "hurd-co",
+  "cand": 4,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Immigration",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "jr-pa",
+  "cand": 3,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Immigration",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "jr-pa",
+  "cand": 0,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Federal spending",
+  "votes": [
+   "house-2025-168",
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "kennedy-ut",
+  "cand": 9,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Federal spending",
+  "votes": [
+   "house-2025-168"
+  ],
+  "note": ""
+ },
+ {
+  "member": "kiggans-va",
+  "cand": 5,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Abortion",
+  "votes": [
+   "house-2025-027"
+  ],
+  "note": ""
+ },
+ {
+  "member": "mccormick-pa",
+  "cand": 1,
+  "cand_dir": "candidates_v2",
+  "kind": "Pledge",
+  "issue": "Taxes",
+  "votes": [
+   "senate-1-00372"
+  ],
+  "note": ""
+ },
+ {
+  "member": "mccormick-pa",
+  "cand": 10,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Fentanyl",
+  "votes": [
+   "senate-1-00127"
+  ],
+  "note": ""
+ },
+ {
+  "member": "moskowitz-fl",
+  "cand": 5,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Health care",
+  "votes": [
+   "house-2026-011"
+  ],
+  "note": ""
+ },
+ {
+  "member": "nunn-ia",
+  "cand": 0,
+  "cand_dir": "candidates_v2",
+  "kind": "Pledge",
+  "issue": "Abortion",
+  "votes": [
+   "house-2025-027"
+  ],
+  "note": ""
+ },
+ {
+  "member": "ogles-tn",
+  "cand": 2,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Immigration",
+  "votes": [
+   "house-2025-006",
+   "house-2025-023"
+  ],
+  "note": ""
+ },
+ {
+  "member": "perry-pa",
+  "cand": 1,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Abortion",
+  "votes": [
+   "house-2025-027",
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "pettersen-co",
+  "cand": 1,
+  "cand_dir": "candidates_v2",
+  "kind": "Pledge",
+  "issue": "Taxes",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "pettersen-co",
+  "cand": 3,
+  "cand_dir": "candidates_v2",
+  "kind": "Pledge",
+  "issue": "Health care",
+  "votes": [
+   "house-2026-011"
+  ],
+  "note": ""
+ },
+ {
+  "member": "randall-wa",
+  "cand": 8,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Crypto",
+  "votes": [
+   "house-2025-199",
+   "house-2025-200"
+  ],
+  "note": ""
+ },
+ {
+  "member": "schiff-ca",
+  "cand": 6,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Taxes",
+  "votes": [
+   "senate-1-00372"
+  ],
+  "note": ""
+ },
+ {
+  "member": "sorensen-il",
+  "cand": 0,
+  "cand_dir": "candidates_v2",
+  "kind": "Pledge",
+  "issue": "Health care",
+  "votes": [
+   "house-2026-011"
+  ],
+  "note": ""
+ },
+ {
+  "member": "steil-wi",
+  "cand": 1,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Federal spending",
+  "votes": [
+   "house-2025-168"
+  ],
+  "note": ""
+ },
+ {
+  "member": "stevens-mi",
+  "cand": 12,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Health care",
+  "votes": [
+   "house-2026-011"
+  ],
+  "note": ""
+ },
+ {
+  "member": "vasquez-nm",
+  "cand": 4,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Taxes",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "wagner-mo",
+  "cand": 1,
+  "cand_dir": "candidates_v2",
+  "kind": "Pledge",
+  "issue": "Federal spending",
+  "votes": [
+   "house-2025-168"
+  ],
+  "note": ""
+ },
+ {
+  "member": "whitesides-ca",
+  "cand": 8,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Crypto",
+  "votes": [
+   "house-2025-199",
+   "house-2025-200"
+  ],
+  "note": ""
+ },
+ {
+  "member": "wittman-va",
+  "cand": 5,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Immigration",
+  "votes": [
+   "house-2025-006",
+   "house-2025-023"
+  ],
+  "note": ""
+ },
+ {
+  "member": "wittman-va",
+  "cand": 4,
+  "cand_dir": "candidates_v2",
+  "kind": "Stated position",
+  "issue": "Immigration",
+  "votes": [
+   "house-2025-145",
+   "house-2025-190"
+  ],
+  "note": ""
+ }
+]

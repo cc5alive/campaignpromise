@@ -1,0 +1,76 @@
+{
+ "member": "whitehouse-ri",
+ "pages": 12,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "We can never fully repay the debt of gratitude we owe to servicemembers and military families who sacrifice so much for our nation.",
+   "page": "https://whitehouseforsenate.com/issues/",
+   "file": "archive/2024/whitehouse-ri/issues.html",
+   "snapshot": "20241105072600"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Health care"
+   ],
+   "sentence": "I will defend the Affordable Care Act and the Inflation Reduction Act from Republican attempts to take us back to the bad old days when people could be denied coverage for pre-existing conditions and seniors had to ration their insulin to keep food on the table.",
+   "page": "https://whitehouseforsenate.com/issues/health-care/",
+   "file": "archive/2024/whitehouse-ri/issues-health-care.html",
+   "snapshot": "20241105072630"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "Let me be clear: I will fight with every available tool any attempt to roll back, slim down, or push further out of reach the Social Security and Medicare benefits that seniors have earned and paid for over a lifetime of hard work.",
+   "page": "https://whitehouseforsenate.com/issues/protecting-social-security-medicare/",
+   "file": "archive/2024/whitehouse-ri/issues-protecting-social-security-medicare.html",
+   "snapshot": "20241105072629"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "With Republicans seeking a nationwide abortion ban – even in Rhode Island – and threatening access to IVF, I will continue defending women’s rights to make their own family planning decisions and determine the course of their own lives.",
+   "page": "https://whitehouseforsenate.com/issues/reproductive-freedom/",
+   "file": "archive/2024/whitehouse-ri/issues-reproductive-freedom.html",
+   "snapshot": "20241105072633"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "I’m fighting to restore fairness to the tax code, protect unions, bring homeownership within reach, and make sure women are paid fairly.",
+   "page": "https://whitehouseforsenate.com/issues/creating-opportunity-lowering-costs/",
+   "file": "archive/2024/whitehouse-ri/issues-creating-opportunity-lowering-costs.html",
+   "snapshot": "20241105072632"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Fentanyl"
+   ],
+   "sentence": "I’ve been on a mission to help end the opioid addiction crisis that has afflicted so many families from every walk of life, and to help more Rhode Islanders succeed on the long, noble road of recovery.",
+   "page": "https://whitehouseforsenate.com/issues/health-care/",
+   "file": "archive/2024/whitehouse-ri/issues-health-care.html",
+   "snapshot": "20241105072630"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "I support codifying Roe into federal law to reverse the damage this captured Supreme Court has done to women’s freedoms.",
+   "page": "https://whitehouseforsenate.com/issues/reproductive-freedom/",
+   "file": "archive/2024/whitehouse-ri/issues-reproductive-freedom.html",
+   "snapshot": "20241105072633"
+  }
+ ]
+}

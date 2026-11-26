@@ -3,16 +3,16 @@
  "summary": {
   "reviewer": "Claude Opus 5.5",
   "reviewer_full": "Claude Opus 5.5 (claude-opus-5-5), an AI model made by Anthropic",
-  "total": 224,
-  "approved": 127,
-  "shown_not_scored": 80,
+  "total": 269,
+  "approved": 158,
+  "shown_not_scored": 94,
   "rejected": 17,
-  "tested": 112,
-  "aligned": 108,
-  "not_aligned": 3,
+  "tested": 143,
+  "aligned": 137,
+  "not_aligned": 5,
   "mixed": 1,
   "untested": 15,
-  "members_reviewed": 121
+  "members_reviewed": 127
  },
  "rules": [
   "Approve when the vote directly tests the specific commitment.",
@@ -24,6 +24,7 @@
   "Score a promise only with votes that directly test it; show other relevant votes as related, not scored.",
   "The Laken Riley Act (detention of immigrants charged with crimes) scores promises about immigration enforcement, deportation or ending illegal immigration. For promises that only say 'secure the border', it is a related vote.",
   "A promise is aligned when every scored vote matches it, not aligned when every scored vote goes against it, and mixed otherwise. 'Present' and 'Not voting' are not counted.",
+  "A vote counts toward at most one promise per member, so a single bill cannot stack up a member's score.",
   "A member's score (promises aligned out of promises tested) is shown only once at least 3 of their promises have been tested."
  ],
  "promises": [
@@ -3201,10 +3202,10 @@
    "issue": "Taxes",
    "kind": "Pledge",
    "quote": "I’m the only candidate running who has signed the Taxpayer’s Protection Pledge and will work to lower the tax burden on all Americans as a member of Congress.",
-   "status": "aligned",
+   "status": "shown, not scored",
    "decision": "Approve",
    "reason": "Edit applied: quote replaced with the full sentence from the same page.",
-   "note": "",
+   "note": "Some votes already count toward another of this member's promises; each vote counts once.",
    "src": {
     "orig": "https://tombarrettforcongress.com/issues",
     "wb": "https://web.archive.org/web/20241105184916/https://tombarrettforcongress.com/issues",
@@ -3217,20 +3218,18 @@
      "q": "final passage",
      "date": "2025-05-22",
      "pos": "Yea",
-     "role": "scored",
-     "out": "aligned",
-     "src": "https://clerk.house.gov/evs/2025/roll145.xml",
-     "keep": "Yea"
+     "role": "elsewhere",
+     "out": "elsewhere",
+     "src": "https://clerk.house.gov/evs/2025/roll145.xml"
     },
     {
      "bill": "2025 reconciliation bill (H.R. 1)",
      "q": "final passage (Senate version)",
      "date": "2025-07-03",
      "pos": "Aye",
-     "role": "scored",
-     "out": "aligned",
-     "src": "https://clerk.house.gov/evs/2025/roll190.xml",
-     "keep": "Yea"
+     "role": "elsewhere",
+     "out": "elsewhere",
+     "src": "https://clerk.house.gov/evs/2025/roll190.xml"
     }
    ]
   },
@@ -3371,10 +3370,10 @@
    "issue": "Taxes",
    "kind": "Stated position",
    "quote": "These values continue to guide her today as she works to cut taxes and eliminate burdensome regulations so local businesses, like her parent's, can grow and create more jobs.",
-   "status": "aligned",
+   "status": "shown, not scored",
    "decision": "Approve",
    "reason": "Vote directly tests the commitment.",
-   "note": "",
+   "note": "Some votes already count toward another of this member's promises; each vote counts once.",
    "src": {
     "orig": "https://annwagner.com/about/",
     "wb": "https://web.archive.org/web/20241105043958/https://annwagner.com/about/",
@@ -3387,20 +3386,18 @@
      "q": "final passage",
      "date": "2025-05-22",
      "pos": "Yea",
-     "role": "scored",
-     "out": "aligned",
-     "src": "https://clerk.house.gov/evs/2025/roll145.xml",
-     "keep": "Yea"
+     "role": "elsewhere",
+     "out": "elsewhere",
+     "src": "https://clerk.house.gov/evs/2025/roll145.xml"
     },
     {
      "bill": "2025 reconciliation bill (H.R. 1)",
      "q": "final passage (Senate version)",
      "date": "2025-07-03",
      "pos": "Aye",
-     "role": "scored",
-     "out": "aligned",
-     "src": "https://clerk.house.gov/evs/2025/roll190.xml",
-     "keep": "Yea"
+     "role": "elsewhere",
+     "out": "elsewhere",
+     "src": "https://clerk.house.gov/evs/2025/roll190.xml"
     }
    ]
   },
@@ -7607,10 +7604,10 @@
    "issue": "Immigration",
    "kind": "Stated position",
    "quote": "In order to secure our border, we need to finish building our border wall, provide more resources to border patrol, and keep Title 42 and Remain in Mexico policies in place in order to stem the tide of illegal crossings.",
-   "status": "aligned",
+   "status": "shown, not scored",
    "decision": "Approve",
    "reason": "Vote directly tests the commitment.",
-   "note": "H.R.1 included funding for border wall construction. He did not vote on the House's first passage in May.",
+   "note": "H.R.1 included funding for border wall construction. He did not vote on the House's first passage in May. Some votes already count toward another of this member's promises; each vote counts once.",
    "src": {
     "orig": "https://garbarinoforny.com/issues/border-security/",
     "wb": "https://web.archive.org/web/20241105131017/https://garbarinoforny.com/issues/border-security/",
@@ -7623,20 +7620,18 @@
      "q": "final passage",
      "date": "2025-05-22",
      "pos": "Not Voting",
-     "role": "scored",
-     "out": "not counted",
-     "src": "https://clerk.house.gov/evs/2025/roll145.xml",
-     "keep": "Yea"
+     "role": "elsewhere",
+     "out": "elsewhere",
+     "src": "https://clerk.house.gov/evs/2025/roll145.xml"
     },
     {
      "bill": "2025 reconciliation bill (H.R. 1)",
      "q": "final passage (Senate version)",
      "date": "2025-07-03",
      "pos": "Aye",
-     "role": "scored",
-     "out": "aligned",
-     "src": "https://clerk.house.gov/evs/2025/roll190.xml",
-     "keep": "Yea"
+     "role": "elsewhere",
+     "out": "elsewhere",
+     "src": "https://clerk.house.gov/evs/2025/roll190.xml"
     }
    ]
   },
@@ -8693,6 +8688,1720 @@
      "role": "related",
      "out": "related",
      "src": "https://clerk.house.gov/evs/2025/roll027.xml"
+    }
+   ]
+  },
+  {
+   "member": "Don Bacon",
+   "bioguide": "B001298",
+   "party": "R",
+   "chamber": "House",
+   "state": "NE",
+   "id": "R6-001",
+   "issue": "Taxes",
+   "kind": "Pledge",
+   "quote": "In Congress, I am working to ease the cost of living, cut taxes, and reduce our national debt.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "",
+   "src": {
+    "orig": "https://donjbacon.com/",
+    "wb": "https://web.archive.org/web/20241105160007/https://donjbacon.com/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage",
+     "date": "2025-05-22",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll145.xml",
+     "keep": "Yea"
+    },
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage (Senate version)",
+     "date": "2025-07-03",
+     "pos": "Aye",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll190.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Tammy Baldwin",
+   "bioguide": "B001230",
+   "party": "D",
+   "chamber": "Senate",
+   "state": "WI",
+   "id": "R6-002",
+   "issue": "Health care",
+   "kind": "Stated position",
+   "quote": "Tammy supports building on the Affordable Care Act and making sure everyone has access to affordable health care.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "",
+   "src": {
+    "orig": "https://www.tammybaldwin.com/issues/healthcare/",
+    "wb": "https://web.archive.org/web/20241006041621/https://www.tammybaldwin.com/issues/healthcare/",
+    "date": "Oct 6, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "3-year ACA premium tax credit extension",
+     "q": "vote to start debate (needed 60)",
+     "date": "2025-12-11",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00644.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Tom Barrett",
+   "bioguide": "B001321",
+   "party": "R",
+   "chamber": "House",
+   "state": "MI",
+   "id": "R6-003",
+   "issue": "Fentanyl",
+   "kind": "Pledge",
+   "quote": "I’ll vote to make our communities safe, secure the border, get fentanyl off our streets, and get government out of the way of our job-creators.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "",
+   "src": {
+    "orig": "https://tombarrettforcongress.com/",
+    "wb": "https://web.archive.org/web/20241105184841/https://tombarrettforcongress.com/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "HALT Fentanyl Act",
+     "q": "final passage",
+     "date": "2025-06-12",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll166.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Andy Biggs",
+   "bioguide": "B001302",
+   "party": "R",
+   "chamber": "House",
+   "state": "AZ",
+   "id": "R6-004",
+   "issue": "Immigration",
+   "kind": "Stated position",
+   "quote": "Congress must assure that we fund, begin, and complete the border wall.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "",
+   "src": {
+    "orig": "https://biggsforcongress.com/issues/",
+    "wb": "https://web.archive.org/web/20241105081444/https://biggsforcongress.com/issues/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage",
+     "date": "2025-05-22",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll145.xml",
+     "keep": "Yea"
+    },
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage (Senate version)",
+     "date": "2025-07-03",
+     "pos": "Aye",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll190.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Nikki Budzinski",
+   "bioguide": "B001315",
+   "party": "D",
+   "chamber": "House",
+   "state": "IL",
+   "id": "R6-005",
+   "issue": "Taxes",
+   "kind": "Pledge",
+   "quote": "Repeal the Trump tax cuts that benefit the super-rich over working people",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "",
+   "src": {
+    "orig": "https://nikkiforcongress.com/budzinski-releases-plan-for-middle-class-relief-and-rising-costs/",
+    "wb": "https://web.archive.org/web/20241103084709/https://nikkiforcongress.com/budzinski-releases-plan-for-middle-class-relief-and-rising-costs/",
+    "date": "Nov 3, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage",
+     "date": "2025-05-22",
+     "pos": "Nay",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll145.xml",
+     "keep": "Nay"
+    },
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage (Senate version)",
+     "date": "2025-07-03",
+     "pos": "No",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll190.xml",
+     "keep": "Nay"
+    }
+   ]
+  },
+  {
+   "member": "Tim Burchett",
+   "bioguide": "B001309",
+   "party": "R",
+   "chamber": "House",
+   "state": "TN",
+   "id": "R6-006",
+   "issue": "Immigration",
+   "kind": "Pledge",
+   "quote": "He will work with President Trump to build the wall.",
+   "status": "shown, not scored",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "Some votes already count toward another of this member's promises; each vote counts once.",
+   "src": {
+    "orig": "https://www.burchettforcongress.com/issue/immigration/",
+    "wb": "https://web.archive.org/web/20241105094616/https://www.burchettforcongress.com/issue/immigration/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage",
+     "date": "2025-05-22",
+     "pos": "Yea",
+     "role": "elsewhere",
+     "out": "elsewhere",
+     "src": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage (Senate version)",
+     "date": "2025-07-03",
+     "pos": "Aye",
+     "role": "elsewhere",
+     "out": "elsewhere",
+     "src": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ]
+  },
+  {
+   "member": "Kat Cammack",
+   "bioguide": "C001039",
+   "party": "R",
+   "chamber": "House",
+   "state": "FL",
+   "id": "R6-007",
+   "issue": "Taxes",
+   "kind": "Stated position",
+   "quote": "An ardent budget hawk, she believes taxes should be low and that we must keep government spending minimal and efficient.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "",
+   "src": {
+    "orig": "https://katforcongress.com/",
+    "wb": "https://web.archive.org/web/20241105100246/https://katforcongress.com/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage",
+     "date": "2025-05-22",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll145.xml",
+     "keep": "Yea"
+    },
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage (Senate version)",
+     "date": "2025-07-03",
+     "pos": "Aye",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll190.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Maria Cantwell",
+   "bioguide": "C000127",
+   "party": "D",
+   "chamber": "Senate",
+   "state": "WA",
+   "id": "R6-008",
+   "issue": "Medicaid",
+   "kind": "Stated position",
+   "quote": "Cantwell is committed to expanding Medicaid and bringing affordable health care to more Americans.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "",
+   "src": {
+    "orig": "https://www.cantwell.com/planned-parenthood",
+    "wb": "https://web.archive.org/web/20241014045518/https://www.cantwell.com/planned-parenthood",
+    "date": "Oct 14, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage",
+     "date": "2025-07-01",
+     "pos": "Nay",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml",
+     "keep": "Nay"
+    }
+   ]
+  },
+  {
+   "member": "Kevin Cramer",
+   "bioguide": "C001096",
+   "party": "R",
+   "chamber": "Senate",
+   "state": "ND",
+   "id": "R6-009",
+   "issue": "Abortion",
+   "kind": "Pledge",
+   "quote": "I am committed to advancing policies that promote a culture of life, supporting measures that protect the rights of the unborn, and providing resources to empower women facing unplanned pregnancies.",
+   "status": "shown, not scored",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "Some votes already count toward another of this member's promises; each vote counts once.",
+   "src": {
+    "orig": "https://kevincramer.org/issues/",
+    "wb": "https://web.archive.org/web/20241105112129/https://kevincramer.org/issues/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "q": "vote to start debate (needed 60)",
+     "date": "2025-01-22",
+     "pos": "Yea",
+     "role": "elsewhere",
+     "out": "elsewhere",
+     "src": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00011.xml"
+    }
+   ]
+  },
+  {
+   "member": "Gabe Evans",
+   "bioguide": "E000300",
+   "party": "R",
+   "chamber": "House",
+   "state": "CO",
+   "id": "R6-010",
+   "issue": "Abortion",
+   "kind": "Stated position",
+   "quote": "I am pro-life, believe abortion stops a beating heart, and oppose taxpayer funded abortion.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "Some votes already count toward another of this member's promises; each vote counts once.",
+   "src": {
+    "orig": "https://electgabeevans.com/issues/american-values/",
+    "wb": "https://web.archive.org/web/20241105204609/https://electgabeevans.com/issues/american-values/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "q": "final passage",
+     "date": "2025-01-23",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll027.xml",
+     "keep": "Yea"
+    },
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage",
+     "date": "2025-05-22",
+     "pos": "Yea",
+     "role": "elsewhere",
+     "out": "elsewhere",
+     "src": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage (Senate version)",
+     "date": "2025-07-03",
+     "pos": "Aye",
+     "role": "elsewhere",
+     "out": "elsewhere",
+     "src": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ]
+  },
+  {
+   "member": "Kirsten E. Gillibrand",
+   "bioguide": "G000555",
+   "party": "D",
+   "chamber": "Senate",
+   "state": "NY",
+   "id": "R6-011",
+   "issue": "Taxes",
+   "kind": "Stated position",
+   "quote": "And we need to reverse the Trump tax plan’s massive corporate tax cut and make sure that wealthy Americans and companies pay their fair share in taxes—we should be looking out for middle-class families, not giving handouts to millionaires and corporations.",
+   "status": "shown, not scored",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "Some votes already count toward another of this member's promises; each vote counts once.",
+   "src": {
+    "orig": "https://kirstengillibrand.com/issues/economy/",
+    "wb": "https://web.archive.org/web/20240811181012/https://kirstengillibrand.com/issues/economy/",
+    "date": "Aug 11, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage",
+     "date": "2025-07-01",
+     "pos": "Nay",
+     "role": "elsewhere",
+     "out": "elsewhere",
+     "src": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml"
+    }
+   ]
+  },
+  {
+   "member": "Craig A. Goldman",
+   "bioguide": "G000601",
+   "party": "R",
+   "chamber": "House",
+   "state": "TX",
+   "id": "R6-012",
+   "issue": "Crypto",
+   "kind": "Stated position",
+   "quote": "As an example, the new digital economy, including Cryptocurrency, holds great promise and potential to create another wave of jobs, technological innovation and economic opportunity.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "",
+   "src": {
+    "orig": "https://www.craiggoldman.org/issues/",
+    "wb": "https://web.archive.org/web/20241105052223/https://www.craiggoldman.org/issues/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "CLARITY Act",
+     "q": "final passage",
+     "date": "2025-07-17",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll199.xml",
+     "keep": "Yea"
+    },
+    {
+     "bill": "GENIUS Act",
+     "q": "final passage",
+     "date": "2025-07-17",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll200.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Josh Gottheimer",
+   "bioguide": "G000583",
+   "party": "D",
+   "chamber": "House",
+   "state": "NJ",
+   "id": "R6-013",
+   "issue": "Taxes",
+   "kind": "Pledge",
+   "quote": "You sent me to Congress to fight for lower taxes and Jersey Values.",
+   "status": "not aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "H.R.1 extended the 2017 tax cuts, a central provision. A no vote counts against this promise even if the member opposed the bill for other reasons, such as its cap on the state and local tax deduction.",
+   "src": {
+    "orig": "https://www.josh4jersey.com/",
+    "wb": "https://web.archive.org/web/20241105235836/https://www.josh4jersey.com/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage",
+     "date": "2025-05-22",
+     "pos": "Nay",
+     "role": "scored",
+     "out": "not aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll145.xml",
+     "keep": "Yea"
+    },
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage (Senate version)",
+     "date": "2025-07-03",
+     "pos": "No",
+     "role": "scored",
+     "out": "not aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll190.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Andy Harris",
+   "bioguide": "H001052",
+   "party": "R",
+   "chamber": "House",
+   "state": "MD",
+   "id": "R6-014",
+   "issue": "Immigration",
+   "kind": "Stated position",
+   "quote": "We should fully support enforcing existing immigration laws, securing our borders, and denying criminal, illegal immigrants safety in sanctuary states.",
+   "status": "shown, not scored",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "Some votes already count toward another of this member's promises; each vote counts once.",
+   "src": {
+    "orig": "https://www.andyharris.com/issues",
+    "wb": "https://web.archive.org/web/20241105183449/https://www.andyharris.com/issues",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Laken Riley Act (House version)",
+     "q": "final passage",
+     "date": "2025-01-07",
+     "pos": "Yea",
+     "role": "elsewhere",
+     "out": "elsewhere",
+     "src": "https://clerk.house.gov/evs/2025/roll006.xml"
+    },
+    {
+     "bill": "Laken Riley Act",
+     "q": "final passage",
+     "date": "2025-01-22",
+     "pos": "Yea",
+     "role": "elsewhere",
+     "out": "elsewhere",
+     "src": "https://clerk.house.gov/evs/2025/roll023.xml"
+    }
+   ]
+  },
+  {
+   "member": "Andy Harris",
+   "bioguide": "H001052",
+   "party": "R",
+   "chamber": "House",
+   "state": "MD",
+   "id": "R6-015",
+   "issue": "Federal spending",
+   "kind": "Pledge",
+   "quote": "Moreover, the power of the purse is in the House, and being on the Appropriations Committee allows me to fight for lower debt and deficit - working to try and bring some financial sanity to Washington - even pushing for a balanced budget in the near future.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "",
+   "src": {
+    "orig": "https://www.andyharris.com/",
+    "wb": "https://web.archive.org/web/20241105183408/https://www.andyharris.com/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Rescissions Act of 2025",
+     "q": "final passage",
+     "date": "2025-06-12",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll168.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Josh Hawley",
+   "bioguide": "H001089",
+   "party": "R",
+   "chamber": "Senate",
+   "state": "MO",
+   "id": "R6-016",
+   "issue": "Immigration",
+   "kind": "Stated position",
+   "quote": "America needs a border wall and an immigration policy to protect Americans",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "",
+   "src": {
+    "orig": "https://joshhawley.com/hawley-america-needs-border-wall-immigration-policy-protect-americans/",
+    "wb": "https://web.archive.org/web/20241014183736/https://joshhawley.com/hawley-america-needs-border-wall-immigration-policy-protect-americans/",
+    "date": "Oct 14, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage",
+     "date": "2025-07-01",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Wesley Hunt",
+   "bioguide": "H001095",
+   "party": "R",
+   "chamber": "House",
+   "state": "TX",
+   "id": "R6-017",
+   "issue": "Federal spending",
+   "kind": "Stated position",
+   "quote": "We must stop Washington’s addiction to bloated spending.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "",
+   "src": {
+    "orig": "https://wesleyfortexas.com/wesley-on-the-issues/",
+    "wb": "https://web.archive.org/web/20241105145348/https://wesleyfortexas.com/wesley-on-the-issues/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Rescissions Act of 2025",
+     "q": "final passage",
+     "date": "2025-06-12",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll168.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Wesley Hunt",
+   "bioguide": "H001095",
+   "party": "R",
+   "chamber": "House",
+   "state": "TX",
+   "id": "R6-018",
+   "issue": "Abortion",
+   "kind": "Stated position",
+   "quote": "I am Pro-Life and believe each life is a precious gift in the image of God.",
+   "status": "shown, not scored",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "Some votes already count toward another of this member's promises; each vote counts once.",
+   "src": {
+    "orig": "https://wesleyfortexas.com/wesley-on-the-issues/",
+    "wb": "https://web.archive.org/web/20241105145348/https://wesleyfortexas.com/wesley-on-the-issues/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "q": "final passage",
+     "date": "2025-01-23",
+     "pos": "Yea",
+     "role": "elsewhere",
+     "out": "elsewhere",
+     "src": "https://clerk.house.gov/evs/2025/roll027.xml"
+    }
+   ]
+  },
+  {
+   "member": "Robert Garcia",
+   "bioguide": "G000598",
+   "party": "D",
+   "chamber": "House",
+   "state": "CA",
+   "id": "R6-019",
+   "issue": "Medicaid",
+   "kind": "Pledge",
+   "quote": "In Congress, I will fight to protect and expand eligibility and benefits for Medicaid, Social Security and Medicare.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "",
+   "src": {
+    "orig": "https://robertgarcia.com/what-im-fighting-for/",
+    "wb": "https://web.archive.org/web/20241105044727/https://robertgarcia.com/what-im-fighting-for/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage",
+     "date": "2025-05-22",
+     "pos": "Nay",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll145.xml",
+     "keep": "Nay"
+    },
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage (Senate version)",
+     "date": "2025-07-03",
+     "pos": "No",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll190.xml",
+     "keep": "Nay"
+    }
+   ]
+  },
+  {
+   "member": "Abraham J. Hamadeh",
+   "bioguide": "H001098",
+   "party": "R",
+   "chamber": "House",
+   "state": "AZ",
+   "id": "R6-020",
+   "issue": "Immigration",
+   "kind": "Pledge",
+   "quote": "In Congress, I will make border security a top priority by allocating resources to target and end illegal border crossings and crimes at the border.",
+   "status": "shown, not scored",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "Some votes already count toward another of this member's promises; each vote counts once.",
+   "src": {
+    "orig": "https://www.abeforaz.com/our-issues",
+    "wb": "https://web.archive.org/web/20241105202611/https://www.abeforaz.com/our-issues",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage",
+     "date": "2025-05-22",
+     "pos": "Yea",
+     "role": "elsewhere",
+     "out": "elsewhere",
+     "src": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage (Senate version)",
+     "date": "2025-07-03",
+     "pos": "Aye",
+     "role": "elsewhere",
+     "out": "elsewhere",
+     "src": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ]
+  },
+  {
+   "member": "Harriet M. Hageman",
+   "bioguide": "H001096",
+   "party": "R",
+   "chamber": "House",
+   "state": "WY",
+   "id": "R6-021",
+   "issue": "Federal spending",
+   "kind": "Pledge",
+   "quote": "We need a leader who will tirelessly oppose the disastrous policies of President Joe Biden, and I will go to Washington to cut wasteful spending, end the regulatory state, demand election integrity reforms, and eliminate harmful policies like Critical Race Theory.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "",
+   "src": {
+    "orig": "https://www.hagemanforwyoming.com/post/hageman-wyoming-needs-a-representative-who-shares-our-values",
+    "wb": "https://web.archive.org/web/20241105192222/https://www.hagemanforwyoming.com/post/hageman-wyoming-needs-a-representative-who-shares-our-values",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Rescissions Act of 2025",
+     "q": "final passage",
+     "date": "2025-06-12",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll168.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Harriet M. Hageman",
+   "bioguide": "H001096",
+   "party": "R",
+   "chamber": "House",
+   "state": "WY",
+   "id": "R6-022",
+   "issue": "Abortion",
+   "kind": "Stated position",
+   "quote": "Abortion will one day be remembered as a grave stain on American history.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "",
+   "src": {
+    "orig": "https://www.hagemanforwyoming.com/issues",
+    "wb": "https://web.archive.org/web/20241105192306/https://www.hagemanforwyoming.com/issues",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "q": "final passage",
+     "date": "2025-01-23",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll027.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Jeff Hurd",
+   "bioguide": "H001100",
+   "party": "R",
+   "chamber": "House",
+   "state": "CO",
+   "id": "R6-023",
+   "issue": "Immigration",
+   "kind": "Stated position",
+   "quote": "Border Patrol and law enforcement must be given all resources necessary to enforce the law.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "",
+   "src": {
+    "orig": "https://jeffhurdforcolorado.com/issues/",
+    "wb": "https://web.archive.org/web/20241105185940/https://jeffhurdforcolorado.com/issues/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage",
+     "date": "2025-05-22",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll145.xml",
+     "keep": "Yea"
+    },
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage (Senate version)",
+     "date": "2025-07-03",
+     "pos": "Aye",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll190.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Robert P. Bresnahan, Jr.",
+   "bioguide": "B001327",
+   "party": "R",
+   "chamber": "House",
+   "state": "PA",
+   "id": "R6-024",
+   "issue": "Immigration",
+   "kind": "Stated position",
+   "quote": "We must secure the border, build the wall, and reverse the Biden/Harris failed policies to stop the flow of illegal drugs and criminals into our communities.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "",
+   "src": {
+    "orig": "https://robforpa.com/",
+    "wb": "https://web.archive.org/web/20241105225656/https://robforpa.com/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage",
+     "date": "2025-05-22",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll145.xml",
+     "keep": "Yea"
+    },
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage (Senate version)",
+     "date": "2025-07-03",
+     "pos": "Aye",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll190.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Robert P. Bresnahan, Jr.",
+   "bioguide": "B001327",
+   "party": "R",
+   "chamber": "House",
+   "state": "PA",
+   "id": "R6-025",
+   "issue": "Federal spending",
+   "kind": "Stated position",
+   "quote": "We need to stop the reckless spending, get inflation under control, and cut taxes so you can keep more of the money you earn for your family.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "",
+   "src": {
+    "orig": "https://robforpa.com/",
+    "wb": "https://web.archive.org/web/20241105225656/https://robforpa.com/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Rescissions Act of 2025",
+     "q": "final passage",
+     "date": "2025-06-12",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll168.xml",
+     "keep": "Yea"
+    },
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage",
+     "date": "2025-05-22",
+     "pos": "Yea",
+     "role": "related",
+     "out": "related",
+     "src": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage (Senate version)",
+     "date": "2025-07-03",
+     "pos": "Aye",
+     "role": "related",
+     "out": "related",
+     "src": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ]
+  },
+  {
+   "member": "Mike Kennedy",
+   "bioguide": "K000403",
+   "party": "R",
+   "chamber": "House",
+   "state": "UT",
+   "id": "R6-026",
+   "issue": "Federal spending",
+   "kind": "Stated position",
+   "quote": "Mike supports rolling back discretionary spending to pre-pandemic levels, freezing it at those levels to make thoughtful decisions about where money should go, and ensuring any future increases are kept below inflation.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "",
+   "src": {
+    "orig": "https://mikekennedyforutah.com/issues/",
+    "wb": "https://web.archive.org/web/20241105164910/https://mikekennedyforutah.com/issues/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Rescissions Act of 2025",
+     "q": "final passage",
+     "date": "2025-06-12",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll168.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Jennifer A. Kiggans",
+   "bioguide": "K000399",
+   "party": "R",
+   "chamber": "House",
+   "state": "VA",
+   "id": "R6-027",
+   "issue": "Abortion",
+   "kind": "Stated position",
+   "quote": "While extreme politicians have overly politicized this issue, she believes abortion laws should be determined at the state level, but is firmly opposed to radical state policies which would allow abortions up to the moment of birth.",
+   "status": "shown, not scored",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "Some votes already count toward another of this member's promises; each vote counts once.",
+   "src": {
+    "orig": "https://jenforcongress.com/issues/",
+    "wb": "https://web.archive.org/web/20241105201933/https://jenforcongress.com/issues/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "q": "final passage",
+     "date": "2025-01-23",
+     "pos": "Yea",
+     "role": "elsewhere",
+     "out": "elsewhere",
+     "src": "https://clerk.house.gov/evs/2025/roll027.xml"
+    }
+   ]
+  },
+  {
+   "member": "David McCormick",
+   "bioguide": "M001243",
+   "party": "R",
+   "chamber": "Senate",
+   "state": "PA",
+   "id": "R6-028",
+   "issue": "Taxes",
+   "kind": "Pledge",
+   "quote": "Reversing the irresponsible Harris-Casey spending spree and cut taxes and regulations that hold back workers and small businesses.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "",
+   "src": {
+    "orig": "https://www.davemccormickpa.com/daves-keystone-agenda/",
+    "wb": "https://web.archive.org/web/20241105204936/https://www.davemccormickpa.com/daves-keystone-agenda/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage",
+     "date": "2025-07-01",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "David McCormick",
+   "bioguide": "M001243",
+   "party": "R",
+   "chamber": "Senate",
+   "state": "PA",
+   "id": "R6-029",
+   "issue": "Fentanyl",
+   "kind": "Stated position",
+   "quote": "He believes the federal government needs to go after the suppliers and traffickers that produce and bring fentanyl into the United States and sanction the financial flows that facilitate it.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "",
+   "src": {
+    "orig": "https://www.davemccormickpa.com/issues/",
+    "wb": "https://web.archive.org/web/20241104153058/https://www.davemccormickpa.com/issues/",
+    "date": "Nov 4, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "HALT Fentanyl Act",
+     "q": "final passage",
+     "date": "2025-03-14",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00127.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Jared Moskowitz",
+   "bioguide": "M001217",
+   "party": "D",
+   "chamber": "House",
+   "state": "FL",
+   "id": "R6-030",
+   "issue": "Health care",
+   "kind": "Stated position",
+   "quote": "He is also working to protect and expand the Affordable Care Act, which has extended coverage to millions in our country – including those with preexisting conditions who previously had no access to the care they needed.",
+   "status": "shown, not scored",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "Some votes already count toward another of this member's promises; each vote counts once.",
+   "src": {
+    "orig": "https://jaredforflorida.com/issues/",
+    "wb": "https://web.archive.org/web/20241105141803/https://jaredforflorida.com/issues/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "3-year ACA premium tax credit extension",
+     "q": "final passage",
+     "date": "2026-01-08",
+     "pos": "Yea",
+     "role": "elsewhere",
+     "out": "elsewhere",
+     "src": "https://clerk.house.gov/evs/2026/roll011.xml"
+    }
+   ]
+  },
+  {
+   "member": "Zachary Nunn",
+   "bioguide": "N000193",
+   "party": "R",
+   "chamber": "House",
+   "state": "IA",
+   "id": "R6-031",
+   "issue": "Abortion",
+   "kind": "Pledge",
+   "quote": "As a faith-oriented man, Zach will always stand with Iowa’s most vulnerable – that means protecting our seniors, our disabled, and our unborn.",
+   "status": "shown, not scored",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "Some votes already count toward another of this member's promises; each vote counts once.",
+   "src": {
+    "orig": "https://zachnunn.com/issues/",
+    "wb": "https://web.archive.org/web/20241105155958/https://zachnunn.com/issues/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "q": "final passage",
+     "date": "2025-01-23",
+     "pos": "Yea",
+     "role": "elsewhere",
+     "out": "elsewhere",
+     "src": "https://clerk.house.gov/evs/2025/roll027.xml"
+    }
+   ]
+  },
+  {
+   "member": "Andrew Ogles",
+   "bioguide": "O000175",
+   "party": "R",
+   "chamber": "House",
+   "state": "TN",
+   "id": "R6-032",
+   "issue": "Immigration",
+   "kind": "Stated position",
+   "quote": "We need enforcement measures that ensure visitors leave our country when they’re supposed to, we need to provide law enforcement with the necessary tools to enforce current immigration laws, and we need common-sense reform that will attract and keep highly-skilled entrepreneurs so that immigrants can continue to thrive in the land of opportunity.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "",
+   "src": {
+    "orig": "https://andyogles.com/issues/",
+    "wb": "https://web.archive.org/web/20241105054606/https://andyogles.com/issues/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Laken Riley Act (House version)",
+     "q": "final passage",
+     "date": "2025-01-07",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll006.xml",
+     "keep": "Yea"
+    },
+    {
+     "bill": "Laken Riley Act",
+     "q": "final passage",
+     "date": "2025-01-22",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll023.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Scott Perry",
+   "bioguide": "P000605",
+   "party": "R",
+   "chamber": "House",
+   "state": "PA",
+   "id": "R6-033",
+   "issue": "Abortion",
+   "kind": "Stated position",
+   "quote": "He opposes late-term and partial birth abortion, as well as forcing Taxpayers to fund abortion.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "Some votes already count toward another of this member's promises; each vote counts once.",
+   "src": {
+    "orig": "https://patriotsforperry.com/",
+    "wb": "https://web.archive.org/web/20241105145627/https://patriotsforperry.com/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Born-Alive Abortion Survivors Protection Act",
+     "q": "final passage",
+     "date": "2025-01-23",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll027.xml",
+     "keep": "Yea"
+    },
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage",
+     "date": "2025-05-22",
+     "pos": "Yea",
+     "role": "elsewhere",
+     "out": "elsewhere",
+     "src": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage (Senate version)",
+     "date": "2025-07-03",
+     "pos": "Aye",
+     "role": "elsewhere",
+     "out": "elsewhere",
+     "src": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ]
+  },
+  {
+   "member": "Brittany Pettersen",
+   "bioguide": "P000620",
+   "party": "D",
+   "chamber": "House",
+   "state": "CO",
+   "id": "R6-034",
+   "issue": "Taxes",
+   "kind": "Pledge",
+   "quote": "She will fight to repeal the 2017 Trump tax cuts that only benefited the wealthy and largest corporations, and will work to help give breaks to the middle class who have been left holding the bag for far too long.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "",
+   "src": {
+    "orig": "https://brittanypettersen.com/issues/",
+    "wb": "https://web.archive.org/web/20241101024454/https://brittanypettersen.com/issues/",
+    "date": "Nov 1, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage",
+     "date": "2025-05-22",
+     "pos": "Nay",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll145.xml",
+     "keep": "Nay"
+    },
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage (Senate version)",
+     "date": "2025-07-03",
+     "pos": "No",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll190.xml",
+     "keep": "Nay"
+    }
+   ]
+  },
+  {
+   "member": "Brittany Pettersen",
+   "bioguide": "P000620",
+   "party": "D",
+   "chamber": "House",
+   "state": "CO",
+   "id": "R6-035",
+   "issue": "Health care",
+   "kind": "Pledge",
+   "quote": "I will fight to protect the ACA from partisan attacks and work to strengthen the access and quality of care provided.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "",
+   "src": {
+    "orig": "https://brittanypettersen.com/issues/",
+    "wb": "https://web.archive.org/web/20241101024454/https://brittanypettersen.com/issues/",
+    "date": "Nov 1, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "3-year ACA premium tax credit extension",
+     "q": "final passage",
+     "date": "2026-01-08",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll011.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Emily Randall",
+   "bioguide": "R000621",
+   "party": "D",
+   "chamber": "House",
+   "state": "WA",
+   "id": "R6-036",
+   "issue": "Crypto",
+   "kind": "Stated position",
+   "quote": "I believe in the importance of driving technological innovation and economic growth, including through blockchain technology and the digital asset industry.",
+   "status": "not aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The GENIUS Act and CLARITY Act set the first federal rules for stablecoins and digital assets. A no vote counts against this statement of support for the digital asset industry.",
+   "src": {
+    "orig": "https://electemilyrandall.com/issues/lowering-costs-for-families/",
+    "wb": "https://web.archive.org/web/20241104155818/https://electemilyrandall.com/issues/lowering-costs-for-families/",
+    "date": "Nov 4, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "CLARITY Act",
+     "q": "final passage",
+     "date": "2025-07-17",
+     "pos": "Nay",
+     "role": "scored",
+     "out": "not aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll199.xml",
+     "keep": "Yea"
+    },
+    {
+     "bill": "GENIUS Act",
+     "q": "final passage",
+     "date": "2025-07-17",
+     "pos": "Nay",
+     "role": "scored",
+     "out": "not aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll200.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Adam B. Schiff",
+   "bioguide": "S001150",
+   "party": "D",
+   "chamber": "Senate",
+   "state": "CA",
+   "id": "R6-037",
+   "issue": "Taxes",
+   "kind": "Stated position",
+   "quote": "Adam opposed the Trump administration’s tax giveaway to the wealthy and large corporations and continues to fight for a tax code that helps working people— instead of tax cheats.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "",
+   "src": {
+    "orig": "https://www.adamschiff.com/issue/accomplishments/",
+    "wb": "https://web.archive.org/web/20241105155837/https://www.adamschiff.com/issue/accomplishments/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage",
+     "date": "2025-07-01",
+     "pos": "Nay",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml",
+     "keep": "Nay"
+    }
+   ]
+  },
+  {
+   "member": "Eric Sorensen",
+   "bioguide": "S001225",
+   "party": "D",
+   "chamber": "House",
+   "state": "IL",
+   "id": "R6-038",
+   "issue": "Health care",
+   "kind": "Pledge",
+   "quote": "Eric will always work to defend and improve the Affordable Care Act to protect health care coverage for people with pre-existing conditions.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "",
+   "src": {
+    "orig": "https://www.ericforillinois.com/issues",
+    "wb": "https://web.archive.org/web/20241105183423/https://www.ericforillinois.com/issues",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "3-year ACA premium tax credit extension",
+     "q": "final passage",
+     "date": "2026-01-08",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll011.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Bryan Steil",
+   "bioguide": "S001213",
+   "party": "R",
+   "chamber": "House",
+   "state": "WI",
+   "id": "R6-039",
+   "issue": "Federal spending",
+   "kind": "Stated position",
+   "quote": "We must end the massive government spending coming from Congress.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "",
+   "src": {
+    "orig": "https://steilforwisconsin.com/issues/",
+    "wb": "https://web.archive.org/web/20241015055957/https://steilforwisconsin.com/issues/",
+    "date": "Oct 15, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Rescissions Act of 2025",
+     "q": "final passage",
+     "date": "2025-06-12",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll168.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Haley M. Stevens",
+   "bioguide": "S001215",
+   "party": "D",
+   "chamber": "House",
+   "state": "MI",
+   "id": "R6-040",
+   "issue": "Health care",
+   "kind": "Stated position",
+   "quote": "The ACA is working, and Congress must continue to strengthen and expand it.",
+   "status": "shown, not scored",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "Some votes already count toward another of this member's promises; each vote counts once.",
+   "src": {
+    "orig": "https://haleystevensforcongress.com/issues/healthcare/",
+    "wb": "https://web.archive.org/web/20241031105925/https://haleystevensforcongress.com/issues/healthcare/",
+    "date": "Oct 31, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "3-year ACA premium tax credit extension",
+     "q": "final passage",
+     "date": "2026-01-08",
+     "pos": "Yea",
+     "role": "elsewhere",
+     "out": "elsewhere",
+     "src": "https://clerk.house.gov/evs/2026/roll011.xml"
+    }
+   ]
+  },
+  {
+   "member": "Gabe Vasquez",
+   "bioguide": "V000136",
+   "party": "D",
+   "chamber": "House",
+   "state": "NM",
+   "id": "R6-041",
+   "issue": "Taxes",
+   "kind": "Stated position",
+   "quote": "This starts with raising the minimum wage to $15 an hour, supporting workers’ right to organize and join a union, passing the Protecting the Right to Organize (PRO) Act, increasing support for our small businesses, and repealing the Trump tax cuts for the wealthiest one-percent.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "",
+   "src": {
+    "orig": "https://gabeforcongress.com/issues/",
+    "wb": "https://web.archive.org/web/20241105174827/https://gabeforcongress.com/issues/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage",
+     "date": "2025-05-22",
+     "pos": "Nay",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll145.xml",
+     "keep": "Nay"
+    },
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage (Senate version)",
+     "date": "2025-07-03",
+     "pos": "No",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll190.xml",
+     "keep": "Nay"
+    }
+   ]
+  },
+  {
+   "member": "Ann Wagner",
+   "bioguide": "W000812",
+   "party": "R",
+   "chamber": "House",
+   "state": "MO",
+   "id": "R6-042",
+   "issue": "Federal spending",
+   "kind": "Pledge",
+   "quote": "She will also use her business experience to get Washington’s spending under control.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "",
+   "src": {
+    "orig": "https://annwagner.com/about/",
+    "wb": "https://web.archive.org/web/20241105043958/https://annwagner.com/about/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Rescissions Act of 2025",
+     "q": "final passage",
+     "date": "2025-06-12",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll168.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "George Whitesides",
+   "bioguide": "W000830",
+   "party": "D",
+   "chamber": "House",
+   "state": "CA",
+   "id": "R6-043",
+   "issue": "Crypto",
+   "kind": "Stated position",
+   "quote": "George supports responsible cryptocurrency regulations that protect consumers while fostering innovation and competition in the digital asset space, and establish a framework to support American leadership in this growing sector.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "",
+   "src": {
+    "orig": "https://www.georgewhitesides.com/policies/",
+    "wb": "https://web.archive.org/web/20241031053851/https://www.georgewhitesides.com/policies/",
+    "date": "Oct 31, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "CLARITY Act",
+     "q": "final passage",
+     "date": "2025-07-17",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll199.xml",
+     "keep": "Yea"
+    },
+    {
+     "bill": "GENIUS Act",
+     "q": "final passage",
+     "date": "2025-07-17",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll200.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Robert J. Wittman",
+   "bioguide": "W000804",
+   "party": "R",
+   "chamber": "House",
+   "state": "VA",
+   "id": "R6-044",
+   "issue": "Immigration",
+   "kind": "Stated position",
+   "quote": "We have laws on the books— we must ensure that our nation’s current immigration laws are enforced, immigration programs work properly, and that we provide the resources for law enforcement officials to get their jobs done.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "",
+   "src": {
+    "orig": "https://robwittman.com/issues/",
+    "wb": "https://web.archive.org/web/20241105172358/https://robwittman.com/issues/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Laken Riley Act (House version)",
+     "q": "final passage",
+     "date": "2025-01-07",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll006.xml",
+     "keep": "Yea"
+    },
+    {
+     "bill": "Laken Riley Act",
+     "q": "final passage",
+     "date": "2025-01-22",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll023.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Robert J. Wittman",
+   "bioguide": "W000804",
+   "party": "R",
+   "chamber": "House",
+   "state": "VA",
+   "id": "R6-045",
+   "issue": "Immigration",
+   "kind": "Stated position",
+   "quote": "We must also invest in our Border Patrol agents and law enforcement officers.",
+   "status": "shown, not scored",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "Some votes already count toward another of this member's promises; each vote counts once.",
+   "src": {
+    "orig": "https://robwittman.com/issues/",
+    "wb": "https://web.archive.org/web/20241105172358/https://robwittman.com/issues/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage",
+     "date": "2025-05-22",
+     "pos": "Yea",
+     "role": "elsewhere",
+     "out": "elsewhere",
+     "src": "https://clerk.house.gov/evs/2025/roll145.xml"
+    },
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "final passage (Senate version)",
+     "date": "2025-07-03",
+     "pos": "Aye",
+     "role": "elsewhere",
+     "out": "elsewhere",
+     "src": "https://clerk.house.gov/evs/2025/roll190.xml"
     }
    ]
   }

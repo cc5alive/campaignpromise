@@ -21,13 +21,18 @@ def wayback_date(ts):
 
 def build_promises():
     P, review = load_all()
-    by_member, published = {}, []
+    by_member, published, used = {}, [], {}
     for p in P:
-        scored, related = S.plan(p) if p["decision"] == "Approve" else ({}, [v["id"] for v in p["votes"]])
+        if p["decision"] == "Approve":
+            scored, related, elsewhere = S.plan(p, used.setdefault(p["member"], set()))
+        else:
+            scored, related, elsewhere = {}, [v["id"] for v in p["votes"]], []
         votes = []
         for v in p["votes"]:
             if v["id"] in scored:
                 role, out = "scored", S.outcome(v["vote"], scored[v["id"]])
+            elif v["id"] in elsewhere:
+                role, out = "elsewhere", "elsewhere"
             else:
                 role, out = "related", "related"
             votes.append({"bill": v["bill"], "q": v["question"], "date": v["date"], "pos": v["vote"],
@@ -38,6 +43,8 @@ def build_promises():
             status = "rejected"
         elif p["decision"] == "Edit":
             status = "shown, not scored"
+        elif not outs and elsewhere and not any(v["role"] == "scored" for v in votes):
+            status = "shown, not scored"
         elif not outs:
             status = "not yet tested"
         else:
@@ -46,7 +53,8 @@ def build_promises():
         src = p["source"]
         rec = {"id": p["id"], "issue": p["issue"], "kind": p["kind"], "quote": p["quote"], "status": status,
                "decision": p["decision"], "reason": p["reason"],
-               "note": S.NOTES.get(p["id"], p["note"] if p["decision"] == "Approve" else ""),
+               "note": " ".join(x for x in [S.NOTES.get(p["id"], p["note"] if p["decision"] == "Approve" else ""),
+                                 "Some votes already count toward another of this member's promises; each vote counts once." if elsewhere else ""] if x),
                "src": {"orig": src.get("original"), "wb": src.get("wayback"),
                        "date": wayback_date(src["snapshot"]) if src.get("snapshot") else None,
                        "via": src.get("quoted_by")},
@@ -57,7 +65,7 @@ def build_promises():
             by_member.setdefault(p["bioguide"], []).append(rec)
     c = Counter(x["status"] for x in published)
     meta = {"reviewer": REVIEWER, "reviewer_full": REVIEWER_FULL, "rules": review["rules"] + S.RULES,
-            "total": len(published), "approved": sum(x["decision"] == "Approve" for x in published),
+            "total": len(published), "approved": c["aligned"] + c["not aligned"] + c["mixed"] + c["not yet tested"],
             "shown_not_scored": c["shown, not scored"], "rejected": c["rejected"],
             "tested": c["aligned"] + c["not aligned"] + c["mixed"], "aligned": c["aligned"],
             "not_aligned": c["not aligned"], "mixed": c["mixed"], "untested": c["not yet tested"],

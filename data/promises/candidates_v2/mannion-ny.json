@@ -1,0 +1,86 @@
+{
+ "member": "mannion-ny",
+ "pages": 12,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "In Congress, John will work with both Democrats and Republicans to fix our broken immigration system.",
+   "page": "https://www.mannionforny.com/on-the-issues/immigration/",
+   "file": "archive/2024/mannion-ny/on-the-issues-immigration.html",
+   "snapshot": "20241105155305"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "In Congress, John will continue to champion women’s rights and reproductive freedoms, including by:",
+   "page": "https://www.mannionforny.com/on-the-issues/reproductive-rights-freedoms/",
+   "file": "archive/2024/mannion-ny/on-the-issues-reproductive-rights-freedoms.html",
+   "snapshot": "20241105155312"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Health care"
+   ],
+   "sentence": "Additionally, John believes that people who have private health insurance should be able to keep their existing plan.",
+   "page": "https://www.mannionforny.com/on-the-issues/healthcare/",
+   "file": "archive/2024/mannion-ny/on-the-issues-healthcare.html",
+   "snapshot": "20241105155316"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "The crisis unfolding at the southern border must be dealt with in a comprehensive and transformative way that is sensible, humane, and secure.",
+   "page": "https://www.mannionforny.com/on-the-issues/immigration/",
+   "file": "archive/2024/mannion-ny/on-the-issues-immigration.html",
+   "snapshot": "20241105155305"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "Ensuring that the immigration process is secure, proper, and humane for legal asylum seekers, DREAMers, and refugees.",
+   "page": "https://www.mannionforny.com/on-the-issues/immigration/",
+   "file": "archive/2024/mannion-ny/on-the-issues-immigration.html",
+   "snapshot": "20241105155305"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "Supporting the Women’s Health Protection Act to protect the right to access abortion care nationwide.",
+   "page": "https://www.mannionforny.com/on-the-issues/reproductive-rights-freedoms/",
+   "file": "archive/2024/mannion-ny/on-the-issues-reproductive-rights-freedoms.html",
+   "snapshot": "20241105155312"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "John Mannion supports our Social Security and Medicare programs.",
+   "page": "https://www.mannionforny.com/on-the-issues/social-security/",
+   "file": "archive/2024/mannion-ny/on-the-issues-social-security.html",
+   "snapshot": "20241105155324"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "Social Security and Medicare must be protected from cuts or elimination.",
+   "page": "https://www.mannionforny.com/on-the-issues/social-security/",
+   "file": "archive/2024/mannion-ny/on-the-issues-social-security.html",
+   "snapshot": "20241105155324"
+  }
+ ]
+}

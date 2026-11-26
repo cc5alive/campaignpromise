@@ -71,10 +71,12 @@ s("R5-002 R5-006 R5-007 R5-008 R5-009 R5-013 R5-015 R5-017 R5-018 R5-019 R5-020 
 s("R5-016 R5-026 R5-027", A, RETESTED)
 s("R5-001 R5-003 R5-004 R5-005 R5-010 R5-011 R5-012 R5-022 R5-029 R5-030 R5-031 R5-033 R5-034 R5-035 R5-039 R5-041 R5-042", E, RELATED)
 s("R5-014", A, "Edit applied: the note labels the source as a 2022 press release that was still on the campaign site in 2024.")
+# Round 6 (Nov 25, 2026): second pass over every archived member with fewer than 3 tested promises
+s(" ".join(f"R6-{i:03d}" for i in range(1, 46)), A, "Vote directly tests the commitment.")
 
 def all_ids():
     ids = []
-    for f, pre in (("pilot_round1", "P"), ("round2", "R2"), ("round3", "R3"), ("issues", "NI"), ("round4", "R4"), ("round5", "R5")):
+    for f, pre in (("pilot_round1", "P"), ("round2", "R2"), ("round3", "R3"), ("issues", "NI"), ("round4", "R4"), ("round5", "R5"), ("round6", "R6")):
         d = json.loads((ROOT / f"data/promises/{f}_drafts.json").read_text())
         ps = d.get("promises") or d.get("drafts")
         ids += [f"{pre}-{i:03d}" for i in range(1, len(ps) + 1)]
@@ -84,7 +86,7 @@ if __name__ == "__main__":
     ids = all_ids()
     missing = [i for i in ids if i not in D]; extra = [i for i in D if i not in ids]
     assert not missing and not extra, (missing, extra)
-    out = {"reviewed_by": "Claude Opus 5.5 (claude-opus-5-5), an AI model made by Anthropic, at CC's request. No human approves, rejects or edits these decisions.", "date": "2026-11-15", "rules": RULES,
+    out = {"reviewed_by": "Claude Opus 5.5 (claude-opus-5-5), an AI model made by Anthropic, at CC's request. No human approves, rejects or edits these decisions.", "date": "2026-11-25", "rules": RULES,
            "decisions": {i: D[i] for i in ids}}
     (ROOT / "data/promises/review_decisions.json").write_text(json.dumps(out, indent=1, ensure_ascii=False), encoding="utf-8")
     from collections import Counter
