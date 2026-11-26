@@ -1,0 +1,27 @@
+{
+  "name": "W. Gregory Steube",
+  "domains_tried": [
+    "electgregsteube.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.electgregsteube.com/",
+      "timestamp": "20241105041226",
+      "wayback": "https://web.archive.org/web/20241105041226/https://www.electgregsteube.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105041226id_/https://www.electgregsteube.com/",
+      "file": "archive/2024/steube-fl/home.html",
+      "text_file": "archive/2024/steube-fl/home.txt",
+      "bytes": 93577,
+      "sha256_html": "034a628127f6ef35f1067f81f8c02742e0cab31b13ce634c622f843e5de2256c",
+      "sha256_text": "a01d175036072815f8485827dddee101efd1d7b4945e8ed66de4e2e0be9f0786"
+    }
+  ],
+  "snapshots_found": {
+    "electgregsteube.com": 8
+  },
+  "generated_utc": "2026-11-26T08:03:56Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
