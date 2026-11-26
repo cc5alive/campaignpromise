@@ -1,0 +1,49 @@
+{
+  "name": "Brett Guthrie",
+  "domains_tried": [
+    "brettguthrie.com"
+  ],
+  "pages": [
+    {
+      "original": "https://brettguthrie.com/",
+      "timestamp": "20241105150238",
+      "wayback": "https://web.archive.org/web/20241105150238/https://brettguthrie.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105150238id_/https://brettguthrie.com/",
+      "file": "archive/2024/guthrie-ky/home.html",
+      "text_file": "archive/2024/guthrie-ky/home.txt",
+      "bytes": 105792,
+      "sha256_html": "33eda9cad32d499e4aaab2c55d0f4679f5011288bc44147022cf68af979c1c50",
+      "sha256_text": "d1e950dc2d75d47d033684e5141dc0cd09483b7ceff5bdadec351fd0a161a7f7"
+    },
+    {
+      "original": "https://brettguthrie.com/conservative-fighter-rep-brett-guthrie-files-for-re-election/",
+      "timestamp": "20241105150505",
+      "wayback": "https://web.archive.org/web/20241105150505/https://brettguthrie.com/conservative-fighter-rep-brett-guthrie-files-for-re-election/",
+      "wayback_raw": "https://web.archive.org/web/20241105150505id_/https://brettguthrie.com/conservative-fighter-rep-brett-guthrie-files-for-re-election/",
+      "file": "archive/2024/guthrie-ky/conservative-fighter-rep-brett-guthrie-files-for-re-election.html",
+      "text_file": "archive/2024/guthrie-ky/conservative-fighter-rep-brett-guthrie-files-for-re-election.txt",
+      "bytes": 68663,
+      "sha256_html": "5fbd2d1f5ed14ede10fd2e09ebb08ed1703fcc222a7bdc8035b23a0825c32d25",
+      "sha256_text": "59681e312334505a61fc59624eec134ac3f52507cceb543b5d766f11e0851423"
+    },
+    {
+      "original": "https://brettguthrie.com/conservative-fighter-rep-brett-guthrie-files-for-re-election/embed/",
+      "timestamp": "20241104025720",
+      "wayback": "https://web.archive.org/web/20241104025720/https://brettguthrie.com/conservative-fighter-rep-brett-guthrie-files-for-re-election/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241104025720id_/https://brettguthrie.com/conservative-fighter-rep-brett-guthrie-files-for-re-election/embed/",
+      "file": "archive/2024/guthrie-ky/conservative-fighter-rep-brett-guthrie-files-for-re-election-embed.html",
+      "text_file": "archive/2024/guthrie-ky/conservative-fighter-rep-brett-guthrie-files-for-re-election-embed.txt",
+      "bytes": 20785,
+      "sha256_html": "2d9915b508deca764d1bd97d49bf4377f918351926dc924a34555be23d548e69",
+      "sha256_text": "9d979650b9e7e77f09f2b5cdbb616ae8355464e31f7e94b3fac870c39296a3f9"
+    }
+  ],
+  "snapshots_found": {
+    "brettguthrie.com": 94
+  },
+  "generated_utc": "2026-11-26T07:53:31Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
