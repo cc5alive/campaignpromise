@@ -1,0 +1,60 @@
+{
+  "name": "Daniel Meuser",
+  "domains_tried": [
+    "meuserforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.meuserforcongress.com/",
+      "timestamp": "20241105182244",
+      "wayback": "https://web.archive.org/web/20241105182244/https://www.meuserforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105182244id_/https://www.meuserforcongress.com/",
+      "file": "archive/2024/meuser-pa/home.html",
+      "text_file": "archive/2024/meuser-pa/home.txt",
+      "bytes": 39636,
+      "sha256_html": "d18ad0262f6f3f3ca3eeaa89ea2470991fdb1b12476beb701768b36d9a2ee3c4",
+      "sha256_text": "5ac22641c966ed62b72d007420c59ef8ac9fb31d2198b756dffd10f62578c629"
+    },
+    {
+      "original": "https://www.meuserforcongress.com/home-issues",
+      "timestamp": "20241105181607",
+      "wayback": "https://web.archive.org/web/20241105181607/https://www.meuserforcongress.com/home-issues",
+      "wayback_raw": "https://web.archive.org/web/20241105181607id_/https://www.meuserforcongress.com/home-issues",
+      "file": "archive/2024/meuser-pa/home-issues.html",
+      "text_file": "archive/2024/meuser-pa/home-issues.txt",
+      "bytes": 30750,
+      "sha256_html": "bd616544fc8b7ee73754bd8155b39d9785862f28ef588f93eae6308ad6237829",
+      "sha256_text": "303bd7bdfdd94533537e2b7c054512df10612493f823770ef6fec04d162e2579"
+    },
+    {
+      "original": "https://www.meuserforcongress.com/issues",
+      "timestamp": "20241105181554",
+      "wayback": "https://web.archive.org/web/20241105181554/https://www.meuserforcongress.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105181554id_/https://www.meuserforcongress.com/issues",
+      "file": "archive/2024/meuser-pa/issues.html",
+      "text_file": "archive/2024/meuser-pa/issues.txt",
+      "bytes": 26857,
+      "sha256_html": "1439d59f31324eeb66400675fe2fd64898f64655301d62176fbe8cb79c2fa68c",
+      "sha256_text": "28c5ac34e0ddd54de53876125400c7d852fd5e6091c274dda7f974dd5b19f987"
+    },
+    {
+      "original": "https://www.meuserforcongress.com/about",
+      "timestamp": "20241105181553",
+      "wayback": "https://web.archive.org/web/20241105181553/https://www.meuserforcongress.com/about",
+      "wayback_raw": "https://web.archive.org/web/20241105181553id_/https://www.meuserforcongress.com/about",
+      "file": "archive/2024/meuser-pa/about.html",
+      "text_file": "archive/2024/meuser-pa/about.txt",
+      "bytes": 27608,
+      "sha256_html": "388367da884261b379236ee67f83538343a9839c7503cf22fcd79e0b93735890",
+      "sha256_text": "5d1600325d9d15eff764b851ee2bf3e0b281e2907bd9b618c09f52ed6502663e"
+    }
+  ],
+  "snapshots_found": {
+    "meuserforcongress.com": 52
+  },
+  "generated_utc": "2026-11-26T08:09:26Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
