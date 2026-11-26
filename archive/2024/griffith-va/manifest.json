@@ -1,0 +1,49 @@
+{
+  "name": "H. Morgan Griffith",
+  "domains_tried": [
+    "morgangriffithforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.morgangriffithforcongress.com/",
+      "timestamp": "20241105100629",
+      "wayback": "https://web.archive.org/web/20241105100629/https://www.morgangriffithforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105100629id_/https://www.morgangriffithforcongress.com/",
+      "file": "archive/2024/griffith-va/home.html",
+      "text_file": "archive/2024/griffith-va/home.txt",
+      "bytes": 225148,
+      "sha256_html": "3d1f389d0cf2db8c57406bf2ee7b57f954ef084e55f4776034ea99003a382822",
+      "sha256_text": "ed90dbcdd0e149a7299175f8b8ce480d66be9bb9902df3ccbc4302e9d578a7ce"
+    },
+    {
+      "original": "http://www.morgangriffithforcongress.com/issues/",
+      "timestamp": "20241105041650",
+      "wayback": "https://web.archive.org/web/20241105041650/http://www.morgangriffithforcongress.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105041650id_/http://www.morgangriffithforcongress.com/issues/",
+      "file": "archive/2024/griffith-va/issues.html",
+      "text_file": "archive/2024/griffith-va/issues.txt",
+      "bytes": 160592,
+      "sha256_html": "d0fa95e062f064d84b6b212de288a4fb92a0bb907fed0531f669df0ce22d3ca9",
+      "sha256_text": "4c732110aa6285bd673b739bdf52ead29fc4565374825d4b9d55be96fbef6fbd"
+    },
+    {
+      "original": "https://www.morgangriffithforcongress.com/issues/embed/",
+      "timestamp": "20241101075146",
+      "wayback": "https://web.archive.org/web/20241101075146/https://www.morgangriffithforcongress.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241101075146id_/https://www.morgangriffithforcongress.com/issues/embed/",
+      "file": "archive/2024/griffith-va/issues-embed.html",
+      "text_file": "archive/2024/griffith-va/issues-embed.txt",
+      "bytes": 20907,
+      "sha256_html": "c0f148d1b3b6b47c34182ca8a4b341a46ed91048ffd091fe31c5f3086a5f3456",
+      "sha256_text": "9b4160798d43db0b2ab5d4a2b2ab0a7369c9ae3843a0dbac6e8736f19cfa0f83"
+    }
+  ],
+  "snapshots_found": {
+    "morgangriffithforcongress.com": 33
+  },
+  "generated_utc": "2026-11-26T07:49:13Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
