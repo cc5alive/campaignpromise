@@ -1,0 +1,71 @@
+{
+  "name": "Sydney Kamlager-Dove",
+  "domains_tried": [
+    "sydneykamlager.com"
+  ],
+  "pages": [
+    {
+      "original": "https://sydneykamlager.com/",
+      "timestamp": "20241105110028",
+      "wayback": "https://web.archive.org/web/20241105110028/https://sydneykamlager.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105110028id_/https://sydneykamlager.com/",
+      "file": "archive/2024/kamlager-dove-ca/home.html",
+      "text_file": "archive/2024/kamlager-dove-ca/home.txt",
+      "bytes": 112396,
+      "sha256_html": "7200b1f34b871789c8f7b194beb3ae77c7a21898cee38f29fb711744ab6aec06",
+      "sha256_text": "75f84a3bb9539fb2f82e77b82895ffe0d68b2b65602416ffa5a95cbb41f09963"
+    },
+    {
+      "original": "https://sydneykamlager.com/accomplishments/",
+      "timestamp": "20241105110233",
+      "wayback": "https://web.archive.org/web/20241105110233/https://sydneykamlager.com/accomplishments/",
+      "wayback_raw": "https://web.archive.org/web/20241105110233id_/https://sydneykamlager.com/accomplishments/",
+      "file": "archive/2024/kamlager-dove-ca/accomplishments.html",
+      "text_file": "archive/2024/kamlager-dove-ca/accomplishments.txt",
+      "bytes": 88727,
+      "sha256_html": "77fff10b80167e9680907c7891c9e31a6182591fcfdf1a44e8e124e58322460d",
+      "sha256_text": "29be33bd35825e3986ed5bac8209e31b18349f1f84bb98eb29cd4f630a472036"
+    },
+    {
+      "original": "https://sydneykamlager.com/accomplishments-2/",
+      "timestamp": "20241105110910",
+      "wayback": "https://web.archive.org/web/20241105110910/https://sydneykamlager.com/accomplishments-2/",
+      "wayback_raw": "https://web.archive.org/web/20241105110910id_/https://sydneykamlager.com/accomplishments-2/",
+      "file": "archive/2024/kamlager-dove-ca/accomplishments-2.html",
+      "text_file": "archive/2024/kamlager-dove-ca/accomplishments-2.txt",
+      "bytes": 87709,
+      "sha256_html": "6991bb43b19b6c0100adf7e48d739886876c46026c77dae92a00ed81a7567883",
+      "sha256_text": "35188d20656df82ec03968afd91e6912cd2538cc1f7537b4233e325c695133db"
+    },
+    {
+      "original": "https://sydneykamlager.com/priorities/",
+      "timestamp": "20241105110908",
+      "wayback": "https://web.archive.org/web/20241105110908/https://sydneykamlager.com/priorities/",
+      "wayback_raw": "https://web.archive.org/web/20241105110908id_/https://sydneykamlager.com/priorities/",
+      "file": "archive/2024/kamlager-dove-ca/priorities.html",
+      "text_file": "archive/2024/kamlager-dove-ca/priorities.txt",
+      "bytes": 98583,
+      "sha256_html": "dd2269e2cd4b8e592336dfe15f79347ab9200ccc735f8cd86673ac26acbc43d4",
+      "sha256_text": "9be00bcc3d88f4d685aeb20bfb6c4f8ff05eb14a2bddf283cb399ca14b887acb"
+    },
+    {
+      "original": "https://sydneykamlager.com/accomplishments/embed/",
+      "timestamp": "20241103090546",
+      "wayback": "https://web.archive.org/web/20241103090546/https://sydneykamlager.com/accomplishments/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241103090546id_/https://sydneykamlager.com/accomplishments/embed/",
+      "file": "archive/2024/kamlager-dove-ca/accomplishments-embed.html",
+      "text_file": "archive/2024/kamlager-dove-ca/accomplishments-embed.txt",
+      "bytes": 88699,
+      "sha256_html": "b9e19d39f14c461b9d3d2390d466e2d42ea1401dbaca6844fd5c179c38580c39",
+      "sha256_text": "29be33bd35825e3986ed5bac8209e31b18349f1f84bb98eb29cd4f630a472036"
+    }
+  ],
+  "snapshots_found": {
+    "sydneykamlager.com": 20
+  },
+  "generated_utc": "2026-11-26T08:58:06Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
