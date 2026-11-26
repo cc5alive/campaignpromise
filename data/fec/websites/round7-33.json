@@ -1,0 +1,50 @@
+{
+ "committees": {
+  "C00842765": {
+   "name": "CELESTE FOR CONGRESS",
+   "website": "HTTP://WWW.CELESTEFORUTAH.COM/",
+   "error": null
+  },
+  "C00859892": {
+   "name": "VINCE FONG FOR CONGRESS",
+   "website": null,
+   "error": null
+  },
+  "C00858415": {
+   "name": "RULLI FOR OHIO",
+   "website": "MICHAELRULLI.COM",
+   "error": null
+  },
+  "C00878603": {
+   "name": "LAMONICA MCIVER FOR CONGRESS",
+   "website": null,
+   "error": null
+  },
+  "C00875518": {
+   "name": "TONY WIED FOR CONGRESS",
+   "website": null,
+   "error": null
+  },
+  "C00868513": {
+   "name": "CLEO FIELDS FOR CONGRESS",
+   "website": "WWW.CLEOFIELDS.COM",
+   "error": null
+  },
+  "C00838110": {
+   "name": "STUTZMAN FOR CONGRESS",
+   "website": "WWW.STUTZMANFORCONGRESS.COM",
+   "error": null
+  },
+  "C00850420": {
+   "name": "CISNEROS FOR CONGRESS",
+   "website": "HTTP://CISNEROSFORCONGRESS.COM/",
+   "error": null
+  },
+  "C00860213": {
+   "name": "DAVE TAYLOR FOR CONGRESS",
+   "website": "WWW.DAVETAYLORFORCONGRSS.COM",
+   "error": null
+  }
+ },
+ "searches": {}
+}
