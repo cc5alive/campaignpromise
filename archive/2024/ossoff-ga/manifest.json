@@ -1,0 +1,27 @@
+{
+  "name": "Jon Ossoff",
+  "domains_tried": [
+    "electjon.com"
+  ],
+  "pages": [
+    {
+      "original": "https://electjon.com/",
+      "timestamp": "20241019160038",
+      "wayback": "https://web.archive.org/web/20241019160038/https://electjon.com/",
+      "wayback_raw": "https://web.archive.org/web/20241019160038id_/https://electjon.com/",
+      "file": "archive/2024/ossoff-ga/home.html",
+      "text_file": "archive/2024/ossoff-ga/home.txt",
+      "bytes": 256958,
+      "sha256_html": "44cbe823b8cb4f5031f0127950eacae5713fc52b9424b75851863721f7f10415",
+      "sha256_text": "b93465c920fbdab6b9b14f72c6b6e538c1af3654eafddb3819585cf08d0d64e8"
+    }
+  ],
+  "snapshots_found": {
+    "electjon.com": 12
+  },
+  "generated_utc": "2026-11-26T08:46:48Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
