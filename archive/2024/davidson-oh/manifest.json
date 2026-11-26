@@ -1,0 +1,27 @@
+{
+  "name": "Warren Davidson",
+  "domains_tried": [
+    "davidsonforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.davidsonforcongress.com/",
+      "timestamp": "20241105093051",
+      "wayback": "https://web.archive.org/web/20241105093051/https://www.davidsonforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105093051id_/https://www.davidsonforcongress.com/",
+      "file": "archive/2024/davidson-oh/home.html",
+      "text_file": "archive/2024/davidson-oh/home.txt",
+      "bytes": 341647,
+      "sha256_html": "368f46e3b23a021d874da937724c4f6940692a3729851f742687d306d0aeca29",
+      "sha256_text": "b3643250d8442ab4ac7b1b659276f2f8b119ea3fffbe762c0f04342c70f6ca03"
+    }
+  ],
+  "snapshots_found": {
+    "davidsonforcongress.com": 1
+  },
+  "generated_utc": "2026-11-26T07:38:12Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
