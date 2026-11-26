@@ -1,0 +1,38 @@
+{
+  "name": "Cleo Fields",
+  "domains_tried": [
+    "cleofields.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.cleofields.com/",
+      "timestamp": "20241105215625",
+      "wayback": "https://web.archive.org/web/20241105215625/https://www.cleofields.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105215625id_/https://www.cleofields.com/",
+      "file": "archive/2024/fields-la/home.html",
+      "text_file": "archive/2024/fields-la/home.txt",
+      "bytes": 911396,
+      "sha256_html": "1f2d44fd5160150d2d75c7f6b6a4860c0deba1c659d25bd3017baeb28b18407b",
+      "sha256_text": "d095b7ebe0b0d56b67eebd17d960c3e07c9b5e30aa9a9d867a3489d41570b757"
+    },
+    {
+      "original": "https://www.cleofields.com/issues",
+      "timestamp": "20241105173147",
+      "wayback": "https://web.archive.org/web/20241105173147/https://www.cleofields.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105173147id_/https://www.cleofields.com/issues",
+      "file": "archive/2024/fields-la/issues.html",
+      "text_file": "archive/2024/fields-la/issues.txt",
+      "bytes": 750894,
+      "sha256_html": "9e20e195cc6f7db4f7d5e74bed749768f3152b39158b22e1cef5f5eb9dbb7eaa",
+      "sha256_text": "1ff7f22f82bc0970abd95b78a5b3b1b53a2c88069829774edf322fd961f41fb8"
+    }
+  ],
+  "snapshots_found": {
+    "cleofields.com": 150
+  },
+  "generated_utc": "2026-11-26T09:16:31Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
