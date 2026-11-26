@@ -1,0 +1,49 @@
+{
+  "name": "Mike Kelly",
+  "domains_tried": [
+    "mikekellyforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.mikekellyforcongress.com/",
+      "timestamp": "20241105100142",
+      "wayback": "https://web.archive.org/web/20241105100142/https://www.mikekellyforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105100142id_/https://www.mikekellyforcongress.com/",
+      "file": "archive/2024/kelly-pa/home.html",
+      "text_file": "archive/2024/kelly-pa/home.txt",
+      "bytes": 183496,
+      "sha256_html": "db928f1829b24ddd239c901260a694d605c6a924b08c4b5eb3fe872e34129262",
+      "sha256_text": "cde7dd52eeab7e42c6343e5b1c6bff6350f6e22325cda98f8f07fa9341f23ae3"
+    },
+    {
+      "original": "https://www.mikekellyforcongress.com/issues/",
+      "timestamp": "20241105035250",
+      "wayback": "https://web.archive.org/web/20241105035250/https://www.mikekellyforcongress.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105035250id_/https://www.mikekellyforcongress.com/issues/",
+      "file": "archive/2024/kelly-pa/issues.html",
+      "text_file": "archive/2024/kelly-pa/issues.txt",
+      "bytes": 186368,
+      "sha256_html": "4aa8e2117097e0b53cc60afc34fb08c5cd43070b489ea39b34ce18210510c3a2",
+      "sha256_text": "f081330b7519bff2a625aae94a51dbbcd7c32545778c5c4d312d6540387b3105"
+    },
+    {
+      "original": "https://www.mikekellyforcongress.com/issues/embed/",
+      "timestamp": "20241103065310",
+      "wayback": "https://web.archive.org/web/20241103065310/https://www.mikekellyforcongress.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241103065310id_/https://www.mikekellyforcongress.com/issues/embed/",
+      "file": "archive/2024/kelly-pa/issues-embed.html",
+      "text_file": "archive/2024/kelly-pa/issues-embed.txt",
+      "bytes": 22356,
+      "sha256_html": "089ee90efb677c5b98bc6f0f5e74743a79aa86a2fffcfd3cb970729fb507ea60",
+      "sha256_text": "b0d16b1ca6240c3d6d4f6fa687928ca23a914347c7a126989f7a61c0c64de57e"
+    }
+  ],
+  "snapshots_found": {
+    "mikekellyforcongress.com": 54
+  },
+  "generated_utc": "2026-11-26T07:59:28Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
