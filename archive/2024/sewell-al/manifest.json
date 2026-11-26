@@ -1,0 +1,49 @@
+{
+  "name": "Terri A. Sewell",
+  "domains_tried": [
+    "sewellforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://sewellforcongress.com/",
+      "timestamp": "20241105072342",
+      "wayback": "https://web.archive.org/web/20241105072342/https://sewellforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105072342id_/https://sewellforcongress.com/",
+      "file": "archive/2024/sewell-al/home.html",
+      "text_file": "archive/2024/sewell-al/home.txt",
+      "bytes": 39841,
+      "sha256_html": "5e9ddf1d153a7c0e1624302209dcc4e6379ffc9fa10ed52d845be260876f0ed3",
+      "sha256_text": "298348ae81278b033441ebd00390c879a601561003daae34ecb2f2e987c97847"
+    },
+    {
+      "original": "https://sewellforcongress.com/issues/",
+      "timestamp": "20241105072343",
+      "wayback": "https://web.archive.org/web/20241105072343/https://sewellforcongress.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105072343id_/https://sewellforcongress.com/issues/",
+      "file": "archive/2024/sewell-al/issues.html",
+      "text_file": "archive/2024/sewell-al/issues.txt",
+      "bytes": 38885,
+      "sha256_html": "e59b2eb2b29d518d09f73d9a82734f1e810d1180efdde8dc8db57fc8b2c30b18",
+      "sha256_text": "f8ee3b60d039a5e773f07c5598367b146549fc6b24bb6e0695529c580f3400e7"
+    },
+    {
+      "original": "https://sewellforcongress.com/issues/embed/",
+      "timestamp": "20241101021030",
+      "wayback": "https://web.archive.org/web/20241101021030/https://sewellforcongress.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241101021030id_/https://sewellforcongress.com/issues/embed/",
+      "file": "archive/2024/sewell-al/issues-embed.html",
+      "text_file": "archive/2024/sewell-al/issues-embed.txt",
+      "bytes": 19990,
+      "sha256_html": "6cc63f74d499d4150dad79de0eeabc5be985235053bbf1c4721a3ede8a4e8385",
+      "sha256_text": "94097601dd62983fbc41acc5e6c8a99f055cb691f690b4b735da57d04183ebfd"
+    }
+  ],
+  "snapshots_found": {
+    "sewellforcongress.com": 360
+  },
+  "generated_utc": "2026-11-26T08:21:51Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
