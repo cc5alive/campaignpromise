@@ -1,0 +1,148 @@
+{
+  "name": "Marc A. Veasey",
+  "domains_tried": [
+    "marcveasey.com"
+  ],
+  "pages": [
+    {
+      "original": "https://marcveasey.com/",
+      "timestamp": "20241105132029",
+      "wayback": "https://web.archive.org/web/20241105132029/https://marcveasey.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105132029id_/https://marcveasey.com/",
+      "file": "archive/2024/veasey-tx/home.html",
+      "text_file": "archive/2024/veasey-tx/home.txt",
+      "bytes": 53602,
+      "sha256_html": "fbb8de8a98a50d37dcdfc837bdd4f9cd16e79dc72fc7cdec9c8e996952723447",
+      "sha256_text": "d07441d1e4fe71d9dc40824403c3ea0573f7c02af45810d3411964d78b1d74b0"
+    },
+    {
+      "original": "https://marcveasey.com/issues/",
+      "timestamp": "20241105131950",
+      "wayback": "https://web.archive.org/web/20241105131950/https://marcveasey.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105131950id_/https://marcveasey.com/issues/",
+      "file": "archive/2024/veasey-tx/issues.html",
+      "text_file": "archive/2024/veasey-tx/issues.txt",
+      "bytes": 57989,
+      "sha256_html": "81955657b58674aefdd23b7316544df1d4c6eacdc6fa2bfc87e917306f87114d",
+      "sha256_text": "c8acff81e598b1de35d202679b1139b6e908f0fbf57ef4defe5bf32a3978940d"
+    },
+    {
+      "original": "https://marcveasey.com/issues-list/",
+      "timestamp": "20241105132141",
+      "wayback": "https://web.archive.org/web/20241105132141/https://marcveasey.com/issues-list/",
+      "wayback_raw": "https://web.archive.org/web/20241105132141id_/https://marcveasey.com/issues-list/",
+      "file": "archive/2024/veasey-tx/issues-list.html",
+      "text_file": "archive/2024/veasey-tx/issues-list.txt",
+      "bytes": 54031,
+      "sha256_html": "07b4d4d380e2465159ce41e7e9c59f63e3862659d0d96f2663eda8715c416b5c",
+      "sha256_text": "fa1439c4085ae92a88fdef7b0b577ee7bdd1afeaa0effa72e12175e35fa73e0d"
+    },
+    {
+      "original": "https://marcveasey.com/record/",
+      "timestamp": "20241105131953",
+      "wayback": "https://web.archive.org/web/20241105131953/https://marcveasey.com/record/",
+      "wayback_raw": "https://web.archive.org/web/20241105131953id_/https://marcveasey.com/record/",
+      "file": "archive/2024/veasey-tx/record.html",
+      "text_file": "archive/2024/veasey-tx/record.txt",
+      "bytes": 55682,
+      "sha256_html": "3b8b2336eca2b5f2822bf6955786b9a4af98fff0d401d8122474d03d85f55cee",
+      "sha256_text": "bc3e57aff0dfac4b17c3ad959b24e5d4970a618571e01f5203ff959ce410fe37"
+    },
+    {
+      "original": "https://marcveasey.com/issues/embed/",
+      "timestamp": "20241101121457",
+      "wayback": "https://web.archive.org/web/20241101121457/https://marcveasey.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241101121457id_/https://marcveasey.com/issues/embed/",
+      "file": "archive/2024/veasey-tx/issues-embed.html",
+      "text_file": "archive/2024/veasey-tx/issues-embed.txt",
+      "bytes": 20073,
+      "sha256_html": "0abc32a524741ce22cea9635c2ae02f8d35be328caa20c634e0d5042bcbfbd64",
+      "sha256_text": "6efd3d33a090acb949bad4dcb85f938305202f7397aeec0ce3b64720cc49bbe4"
+    },
+    {
+      "original": "https://marcveasey.com/issues/marc-hardware-edited/",
+      "timestamp": "20241102133243",
+      "wayback": "https://web.archive.org/web/20241102133243/https://marcveasey.com/issues/marc-hardware-edited/",
+      "wayback_raw": "https://web.archive.org/web/20241102133243id_/https://marcveasey.com/issues/marc-hardware-edited/",
+      "file": "archive/2024/veasey-tx/issues-marc-hardware-edited.html",
+      "text_file": "archive/2024/veasey-tx/issues-marc-hardware-edited.txt",
+      "bytes": 50101,
+      "sha256_html": "b93b4c7d76cfee561ac72648e6f2cb6adf30784e66a24d3df52f798bdfdf69b4",
+      "sha256_text": "5a5d4e37fb5413a7e1d07a80942dc2e61d388cf3afa737c15091c4f32c07338d"
+    },
+    {
+      "original": "https://marcveasey.com/issues/marc-hardware-edited-2/",
+      "timestamp": "20241102133144",
+      "wayback": "https://web.archive.org/web/20241102133144/https://marcveasey.com/issues/marc-hardware-edited-2/",
+      "wayback_raw": "https://web.archive.org/web/20241102133144id_/https://marcveasey.com/issues/marc-hardware-edited-2/",
+      "file": "archive/2024/veasey-tx/issues-marc-hardware-edited-2.html",
+      "text_file": "archive/2024/veasey-tx/issues-marc-hardware-edited-2.txt",
+      "bytes": 50149,
+      "sha256_html": "f00eab77ee0cc7d5d660fcbdf502ec81792affd2ad43c57058e205cc0070ab04",
+      "sha256_text": "24dc28553eab3a133b63d487ba9c8773ebc0cce9acdc701b8336d5e63fe94bfa"
+    },
+    {
+      "original": "https://marcveasey.com/issues/veasey-issues-edited/",
+      "timestamp": "20241102133415",
+      "wayback": "https://web.archive.org/web/20241102133415/https://marcveasey.com/issues/veasey-issues-edited/",
+      "wayback_raw": "https://web.archive.org/web/20241102133415id_/https://marcveasey.com/issues/veasey-issues-edited/",
+      "file": "archive/2024/veasey-tx/issues-veasey-issues-edited.html",
+      "text_file": "archive/2024/veasey-tx/issues-veasey-issues-edited.txt",
+      "bytes": 50101,
+      "sha256_html": "98afedd4f35535f14f6cbd2b2c3ddbf486fb555c48abd32843ddb586fe6654f5",
+      "sha256_text": "9b521aa4e20271a965941d111310164f3d7a57fe49d8039c76b5e85717007fb8"
+    },
+    {
+      "original": "https://marcveasey.com/record/dhmxx1ixkayoum_/",
+      "timestamp": "20241102124154",
+      "wayback": "https://web.archive.org/web/20241102124154/https://marcveasey.com/record/dhmxx1ixkayoum_/",
+      "wayback_raw": "https://web.archive.org/web/20241102124154id_/https://marcveasey.com/record/dhmxx1ixkayoum_/",
+      "file": "archive/2024/veasey-tx/record-dhmxx1ixkayoum.html",
+      "text_file": "archive/2024/veasey-tx/record-dhmxx1ixkayoum.txt",
+      "bytes": 49981,
+      "sha256_html": "665d3080a12d5235e7f76083e5dfc0742d7fe371d0a2f201db8c06f5aed68673",
+      "sha256_text": "14eba82f27263775a7f2a0c1f5c32704a16191ffe917efa40e03da83b2e226e2"
+    },
+    {
+      "original": "https://marcveasey.com/record/dhmxx1ixkayoum_-2/",
+      "timestamp": "20241102123817",
+      "wayback": "https://web.archive.org/web/20241102123817/https://marcveasey.com/record/dhmxx1ixkayoum_-2/",
+      "wayback_raw": "https://web.archive.org/web/20241102123817id_/https://marcveasey.com/record/dhmxx1ixkayoum_-2/",
+      "file": "archive/2024/veasey-tx/record-dhmxx1ixkayoum-2.html",
+      "text_file": "archive/2024/veasey-tx/record-dhmxx1ixkayoum-2.txt",
+      "bytes": 49997,
+      "sha256_html": "d4e6d902092aa3a1d4c8399876adf86d9e83142a1d770537a098b6761e0b82af",
+      "sha256_text": "14eba82f27263775a7f2a0c1f5c32704a16191ffe917efa40e03da83b2e226e2"
+    },
+    {
+      "original": "https://marcveasey.com/record/embed/",
+      "timestamp": "20241101070833",
+      "wayback": "https://web.archive.org/web/20241101070833/https://marcveasey.com/record/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241101070833id_/https://marcveasey.com/record/embed/",
+      "file": "archive/2024/veasey-tx/record-embed.html",
+      "text_file": "archive/2024/veasey-tx/record-embed.txt",
+      "bytes": 20029,
+      "sha256_html": "322ac4ba5ea118008707167e7cfc9a7965e08508021cee1a7dfb9c4da057a7d1",
+      "sha256_text": "9e452901aa6bdf254fc77687b2e7cb878d6ff236ae5a271080e76b586d1efb6c"
+    },
+    {
+      "original": "https://marcveasey.com/blog/issue/civil-rights-and-equality/",
+      "timestamp": "20241105132053",
+      "wayback": "https://web.archive.org/web/20241105132053/https://marcveasey.com/blog/issue/civil-rights-and-equality/",
+      "wayback_raw": "https://web.archive.org/web/20241105132053id_/https://marcveasey.com/blog/issue/civil-rights-and-equality/",
+      "file": "archive/2024/veasey-tx/blog-issue-civil-rights-and-equality.html",
+      "text_file": "archive/2024/veasey-tx/blog-issue-civil-rights-and-equality.txt",
+      "bytes": 53678,
+      "sha256_html": "8593eabdfec7bd5e39bd59f1a09e669eb0c87973acabb5af7763e1c04449fac4",
+      "sha256_text": "dfcaf6e99cd17d5c410f7ac2197ed9771a64bf7f292784ad387c8c0996946285"
+    }
+  ],
+  "snapshots_found": {
+    "marcveasey.com": 228
+  },
+  "generated_utc": "2026-11-26T08:46:19Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
