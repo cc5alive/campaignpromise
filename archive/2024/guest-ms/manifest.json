@@ -1,0 +1,60 @@
+{
+  "name": "Michael Guest",
+  "domains_tried": [
+    "michaelguest.ms"
+  ],
+  "pages": [
+    {
+      "original": "https://michaelguest.ms/",
+      "timestamp": "20241105143331",
+      "wayback": "https://web.archive.org/web/20241105143331/https://michaelguest.ms/",
+      "wayback_raw": "https://web.archive.org/web/20241105143331id_/https://michaelguest.ms/",
+      "file": "archive/2024/guest-ms/home.html",
+      "text_file": "archive/2024/guest-ms/home.txt",
+      "bytes": 71601,
+      "sha256_html": "a3198715d8a06bedb15c608c3e0dd26c06fa10e7fb1aafcb05f5697c942af8ab",
+      "sha256_text": "49814f785b3127d122e71e1cee055e3b75d6dba436f3d510e96a0b4594f11e41"
+    },
+    {
+      "original": "https://michaelguest.ms/stand-with-israel/",
+      "timestamp": "20241105143747",
+      "wayback": "https://web.archive.org/web/20241105143747/https://michaelguest.ms/stand-with-israel/",
+      "wayback_raw": "https://web.archive.org/web/20241105143747id_/https://michaelguest.ms/stand-with-israel/",
+      "file": "archive/2024/guest-ms/stand-with-israel.html",
+      "text_file": "archive/2024/guest-ms/stand-with-israel.txt",
+      "bytes": 84359,
+      "sha256_html": "ed4f98f8c30e3829cb8c81217efb8755e80cbff42d14c90d4b5d8580a4033615",
+      "sha256_text": "5130a941ab9935d53a5e72ec07d5099a705e3427817a22136be2556b5170c0bf"
+    },
+    {
+      "original": "https://michaelguest.ms/about-michael/michael-police-mobile/",
+      "timestamp": "20241103140502",
+      "wayback": "https://web.archive.org/web/20241103140502/https://michaelguest.ms/about-michael/michael-police-mobile/",
+      "wayback_raw": "https://web.archive.org/web/20241103140502id_/https://michaelguest.ms/about-michael/michael-police-mobile/",
+      "file": "archive/2024/guest-ms/about-michael-michael-police-mobile.html",
+      "text_file": "archive/2024/guest-ms/about-michael-michael-police-mobile.txt",
+      "bytes": 59874,
+      "sha256_html": "4f3cc4ffdea73aa15074c2dc030f11fa8814f8843b9c079528df0686ebe396bc",
+      "sha256_text": "a5faeab4f64637dc3dafce6ae65779e5e5c8d20ff092e56a4cfdfc368615c5ad"
+    },
+    {
+      "original": "https://michaelguest.ms/about-michael/michael-police-revised-3/",
+      "timestamp": "20241103140052",
+      "wayback": "https://web.archive.org/web/20241103140052/https://michaelguest.ms/about-michael/michael-police-revised-3/",
+      "wayback_raw": "https://web.archive.org/web/20241103140052id_/https://michaelguest.ms/about-michael/michael-police-revised-3/",
+      "file": "archive/2024/guest-ms/about-michael-michael-police-revised-3.html",
+      "text_file": "archive/2024/guest-ms/about-michael-michael-police-revised-3.txt",
+      "bytes": 60082,
+      "sha256_html": "911def4b159efeac9dc5f699d7a7c8524984362feca2f06e291e9bc4efd60f59",
+      "sha256_text": "37cc28fa0a619ce6401c8df9de93fa420ce1fbb566d2d810e22cc45b111dbc7e"
+    }
+  ],
+  "snapshots_found": {
+    "michaelguest.ms": 85
+  },
+  "generated_utc": "2026-11-26T08:10:07Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
