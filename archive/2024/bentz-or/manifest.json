@@ -1,0 +1,60 @@
+{
+  "name": "Cliff Bentz",
+  "domains_tried": [
+    "cliffbentz.com"
+  ],
+  "pages": [
+    {
+      "original": "https://cliffbentz.com/",
+      "timestamp": "20241105054957",
+      "wayback": "https://web.archive.org/web/20241105054957/https://cliffbentz.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105054957id_/https://cliffbentz.com/",
+      "file": "archive/2024/bentz-or/home.html",
+      "text_file": "archive/2024/bentz-or/home.txt",
+      "bytes": 84968,
+      "sha256_html": "b96e8ad54462374e0dc552d9294cd2dfbd5c6b8c12a74f48c8159cf2d0be836c",
+      "sha256_text": "db031e8581c1f31b8bf99adcafe452b495785b644d48268da34a4de0f7a384f2"
+    },
+    {
+      "original": "https://cliffbentz.com/issues/",
+      "timestamp": "20241105055241",
+      "wayback": "https://web.archive.org/web/20241105055241/https://cliffbentz.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105055241id_/https://cliffbentz.com/issues/",
+      "file": "archive/2024/bentz-or/issues.html",
+      "text_file": "archive/2024/bentz-or/issues.txt",
+      "bytes": 93863,
+      "sha256_html": "01f3e1f74e578dfb20e3d63eff53b3340b7356e1c6ca57e5014aeb1f5c24119a",
+      "sha256_text": "72fb95a3fd66a8a52f3ce61153c193c13b89960dff50fb4b0aabcfeb0058e54f"
+    },
+    {
+      "original": "https://cliffbentz.com/stand-with-israel/",
+      "timestamp": "20241105055646",
+      "wayback": "https://web.archive.org/web/20241105055646/https://cliffbentz.com/stand-with-israel/",
+      "wayback_raw": "https://web.archive.org/web/20241105055646id_/https://cliffbentz.com/stand-with-israel/",
+      "file": "archive/2024/bentz-or/stand-with-israel.html",
+      "text_file": "archive/2024/bentz-or/stand-with-israel.txt",
+      "bytes": 68810,
+      "sha256_html": "7e3473bf510937bd8da3269e9f00c2edccb0e6b28d4a2080190a280c2faa6ab3",
+      "sha256_text": "8c42078fdb018d571772a05a51359d7056d7c5daf27bbd322135f3cbde443d12"
+    },
+    {
+      "original": "https://cliffbentz.com/issues/embed/",
+      "timestamp": "20241103111546",
+      "wayback": "https://web.archive.org/web/20241103111546/https://cliffbentz.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241103111546id_/https://cliffbentz.com/issues/embed/",
+      "file": "archive/2024/bentz-or/issues-embed.html",
+      "text_file": "archive/2024/bentz-or/issues-embed.txt",
+      "bytes": 93824,
+      "sha256_html": "7fed20a12ca318eee19b4cffd203e081555fb0168fa29837d3a6b4add1e151c7",
+      "sha256_text": "72fb95a3fd66a8a52f3ce61153c193c13b89960dff50fb4b0aabcfeb0058e54f"
+    }
+  ],
+  "snapshots_found": {
+    "cliffbentz.com": 60
+  },
+  "generated_utc": "2026-11-26T08:39:56Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
