@@ -1,0 +1,71 @@
+{
+  "name": "August Pfluger",
+  "domains_tried": [
+    "augustpfluger.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.augustpfluger.com/",
+      "timestamp": "20241031012808",
+      "wayback": "https://web.archive.org/web/20241031012808/https://www.augustpfluger.com/",
+      "wayback_raw": "https://web.archive.org/web/20241031012808id_/https://www.augustpfluger.com/",
+      "file": "archive/2024/pfluger-tx/home.html",
+      "text_file": "archive/2024/pfluger-tx/home.txt",
+      "bytes": 178228,
+      "sha256_html": "8819e52778b7282612e73916dcaa6fe85f711c17aa3629c1f9b9d89b06f4a068",
+      "sha256_text": "007b913b95284283c04424003a3af74610edd81d6333a433ad88d292fdc79394"
+    },
+    {
+      "original": "https://www.augustpfluger.com/stand-with-israel/",
+      "timestamp": "20240915232237",
+      "wayback": "https://web.archive.org/web/20240915232237/https://www.augustpfluger.com/stand-with-israel/",
+      "wayback_raw": "https://web.archive.org/web/20240915232237id_/https://www.augustpfluger.com/stand-with-israel/",
+      "file": "archive/2024/pfluger-tx/stand-with-israel.html",
+      "text_file": "archive/2024/pfluger-tx/stand-with-israel.txt",
+      "bytes": 67195,
+      "sha256_html": "90054bb0ef9b3d70c95c6a85af19e896431373c0f2036a1032523ce72ed49e23",
+      "sha256_text": "48ea11b60d9d4868a1de754d45cd363687224dcb89e5fa940c7e94c3e7d67ac7"
+    },
+    {
+      "original": "https://www.augustpfluger.com/stand-with-law-enforcement/",
+      "timestamp": "20240916004153",
+      "wayback": "https://web.archive.org/web/20240916004153/https://www.augustpfluger.com/stand-with-law-enforcement/",
+      "wayback_raw": "https://web.archive.org/web/20240916004153id_/https://www.augustpfluger.com/stand-with-law-enforcement/",
+      "file": "archive/2024/pfluger-tx/stand-with-law-enforcement.html",
+      "text_file": "archive/2024/pfluger-tx/stand-with-law-enforcement.txt",
+      "bytes": 67217,
+      "sha256_html": "abe24d8282a0bee571ba6853590c2ffc49f2c37ad34a01abd2f5aa23668e759c",
+      "sha256_text": "17166654cb2c3139ada86e44ed6bbe8662fd63e7bea5e697aacd71df21c93960"
+    },
+    {
+      "original": "https://www.augustpfluger.com/stand-with-law-enforcement-2/",
+      "timestamp": "20240813160032",
+      "wayback": "https://web.archive.org/web/20240813160032/https://www.augustpfluger.com/stand-with-law-enforcement-2/",
+      "wayback_raw": "https://web.archive.org/web/20240813160032id_/https://www.augustpfluger.com/stand-with-law-enforcement-2/",
+      "file": "archive/2024/pfluger-tx/stand-with-law-enforcement-2.html",
+      "text_file": "archive/2024/pfluger-tx/stand-with-law-enforcement-2.txt",
+      "bytes": 68342,
+      "sha256_html": "9f822cbcfe5bebbda2b3485c51aff7011003fcb7351d112b92267fe098a4b02c",
+      "sha256_text": "17166654cb2c3139ada86e44ed6bbe8662fd63e7bea5e697aacd71df21c93960"
+    },
+    {
+      "original": "https://www.augustpfluger.com/standwithisrael/",
+      "timestamp": "20240915235215",
+      "wayback": "https://web.archive.org/web/20240915235215/https://www.augustpfluger.com/standwithisrael/",
+      "wayback_raw": "https://web.archive.org/web/20240915235215id_/https://www.augustpfluger.com/standwithisrael/",
+      "file": "archive/2024/pfluger-tx/standwithisrael.html",
+      "text_file": "archive/2024/pfluger-tx/standwithisrael.txt",
+      "bytes": 67337,
+      "sha256_html": "de352673f637c421a5bf3f887bae6af082505e820adbe321b0d8349f6c926b84",
+      "sha256_text": "9bd79f9b86f01fc4ced07369bc6224f146744fd137decfaf4555b99c0d83830a"
+    }
+  ],
+  "snapshots_found": {
+    "augustpfluger.com": 49
+  },
+  "generated_utc": "2026-11-26T08:42:14Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
