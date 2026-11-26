@@ -1,0 +1,148 @@
+{
+  "name": "Marilyn Strickland",
+  "domains_tried": [
+    "stricklandforwashington.com"
+  ],
+  "pages": [
+    {
+      "original": "https://stricklandforwashington.com/",
+      "timestamp": "20241105221300",
+      "wayback": "https://web.archive.org/web/20241105221300/https://stricklandforwashington.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105221300id_/https://stricklandforwashington.com/",
+      "file": "archive/2024/strickland-wa/home.html",
+      "text_file": "archive/2024/strickland-wa/home.txt",
+      "bytes": 84399,
+      "sha256_html": "dae1c0477015aac30d197dac2a417d6f131da0b611cae68364ab89f172c64cab",
+      "sha256_text": "0756160bd8178de9a7e15689a2d837b65cfc4c2f6c8bad0bdea4341501603812"
+    },
+    {
+      "original": "https://stricklandforwashington.com/priorities/",
+      "timestamp": "20240911155803",
+      "wayback": "https://web.archive.org/web/20240911155803/https://stricklandforwashington.com/priorities/",
+      "wayback_raw": "https://web.archive.org/web/20240911155803id_/https://stricklandforwashington.com/priorities/",
+      "file": "archive/2024/strickland-wa/priorities.html",
+      "text_file": "archive/2024/strickland-wa/priorities.txt",
+      "bytes": 64917,
+      "sha256_html": "8f08bd26ba73028ee63f9ef697f34a16d3c8bd76a4bc0bce2f6060d13c8e0bad",
+      "sha256_text": "497c33bab2255be962fa3065a7a88e3cfac0c1ea0e947c6990145201873e204b"
+    },
+    {
+      "original": "https://stricklandforwashington.com/priorities-2024/",
+      "timestamp": "20241105000103",
+      "wayback": "https://web.archive.org/web/20241105000103/https://stricklandforwashington.com/priorities-2024/",
+      "wayback_raw": "https://web.archive.org/web/20241105000103id_/https://stricklandforwashington.com/priorities-2024/",
+      "file": "archive/2024/strickland-wa/priorities-2024.html",
+      "text_file": "archive/2024/strickland-wa/priorities-2024.txt",
+      "bytes": 65895,
+      "sha256_html": "f4561f23a52244116f06a8fba443d50a3e30d734c221a57faa345825c29a2d4b",
+      "sha256_text": "c75d2e33704f12a4980d91bf37f2bf0c8e9c89bb0bb76ec442a9f1e8b73f948f"
+    },
+    {
+      "original": "https://stricklandforwashington.com/priorities-new/",
+      "timestamp": "20240911170309",
+      "wayback": "https://web.archive.org/web/20240911170309/https://stricklandforwashington.com/priorities-new/",
+      "wayback_raw": "https://web.archive.org/web/20240911170309id_/https://stricklandforwashington.com/priorities-new/",
+      "file": "archive/2024/strickland-wa/priorities-new.html",
+      "text_file": "archive/2024/strickland-wa/priorities-new.txt",
+      "bytes": 74816,
+      "sha256_html": "6fd07f59cc8e9f6caa855a6ea196178f9c89cee1b858b9522514fee1314339ba",
+      "sha256_text": "c16051761631483b24017742b9095cdcc96e56a25ca82992e1e99fb38d95e496"
+    },
+    {
+      "original": "https://stricklandforwashington.com/priorities/climate-change/",
+      "timestamp": "20241105000714",
+      "wayback": "https://web.archive.org/web/20241105000714/https://stricklandforwashington.com/priorities/climate-change/",
+      "wayback_raw": "https://web.archive.org/web/20241105000714id_/https://stricklandforwashington.com/priorities/climate-change/",
+      "file": "archive/2024/strickland-wa/priorities-climate-change.html",
+      "text_file": "archive/2024/strickland-wa/priorities-climate-change.txt",
+      "bytes": 45086,
+      "sha256_html": "2e4448f3285d115020563e04c19e2ba0d02c03c0ed33ec3a7f6ee7373fdb0ab7",
+      "sha256_text": "fb715f9d40eb77b6b10f6e2955671bb472bceebb98250df20bc67045558783c9"
+    },
+    {
+      "original": "https://stricklandforwashington.com/priorities/criminal-justice-reform/",
+      "timestamp": "20241105000713",
+      "wayback": "https://web.archive.org/web/20241105000713/https://stricklandforwashington.com/priorities/criminal-justice-reform/",
+      "wayback_raw": "https://web.archive.org/web/20241105000713id_/https://stricklandforwashington.com/priorities/criminal-justice-reform/",
+      "file": "archive/2024/strickland-wa/priorities-criminal-justice-reform.html",
+      "text_file": "archive/2024/strickland-wa/priorities-criminal-justice-reform.txt",
+      "bytes": 44746,
+      "sha256_html": "d5f33609830e25e8b8c38b5e0087af62d887e8169b073d194b7d99717f33af91",
+      "sha256_text": "f1d8aaa6e3900a6d1574bd248c4f770f8d3a8f3221cbe2bb78095d982f610961"
+    },
+    {
+      "original": "https://stricklandforwashington.com/priorities/education-opportunity/",
+      "timestamp": "20241105000716",
+      "wayback": "https://web.archive.org/web/20241105000716/https://stricklandforwashington.com/priorities/education-opportunity/",
+      "wayback_raw": "https://web.archive.org/web/20241105000716id_/https://stricklandforwashington.com/priorities/education-opportunity/",
+      "file": "archive/2024/strickland-wa/priorities-education-opportunity.html",
+      "text_file": "archive/2024/strickland-wa/priorities-education-opportunity.txt",
+      "bytes": 45195,
+      "sha256_html": "c333c5fbe423be4b98892e837f3e55183807dcaee262db5d4c6d77e048088340",
+      "sha256_text": "76ad37e521ce6d2e80a796cf4c79ce5de418decac4f697ea0347cf1a412015dd"
+    },
+    {
+      "original": "https://stricklandforwashington.com/priorities/gas-prices/",
+      "timestamp": "20241105000709",
+      "wayback": "https://web.archive.org/web/20241105000709/https://stricklandforwashington.com/priorities/gas-prices/",
+      "wayback_raw": "https://web.archive.org/web/20241105000709id_/https://stricklandforwashington.com/priorities/gas-prices/",
+      "file": "archive/2024/strickland-wa/priorities-gas-prices.html",
+      "text_file": "archive/2024/strickland-wa/priorities-gas-prices.txt",
+      "bytes": 43559,
+      "sha256_html": "6bce399433a0a7790ef548dc01f66954665212cc8b4853e39b4d36d952d56de4",
+      "sha256_text": "519bd839c13fdd11063ce8818a4cd612af6d14b6e556de57f151b86d66903a6f"
+    },
+    {
+      "original": "https://stricklandforwashington.com/priorities/gun-violence/",
+      "timestamp": "20241105000711",
+      "wayback": "https://web.archive.org/web/20241105000711/https://stricklandforwashington.com/priorities/gun-violence/",
+      "wayback_raw": "https://web.archive.org/web/20241105000711id_/https://stricklandforwashington.com/priorities/gun-violence/",
+      "file": "archive/2024/strickland-wa/priorities-gun-violence.html",
+      "text_file": "archive/2024/strickland-wa/priorities-gun-violence.txt",
+      "bytes": 44992,
+      "sha256_html": "02b926609c0b3dbc1e0ac02985348451a50b87a9d73f8d33323657d12f49bd28",
+      "sha256_text": "53eed0bdfbb16dba454dd4391f4289a5869625003b0f23c0076dfa52cc9d10c3"
+    },
+    {
+      "original": "https://stricklandforwashington.com/priorities/housing-crisis/",
+      "timestamp": "20241105000715",
+      "wayback": "https://web.archive.org/web/20241105000715/https://stricklandforwashington.com/priorities/housing-crisis/",
+      "wayback_raw": "https://web.archive.org/web/20241105000715id_/https://stricklandforwashington.com/priorities/housing-crisis/",
+      "file": "archive/2024/strickland-wa/priorities-housing-crisis.html",
+      "text_file": "archive/2024/strickland-wa/priorities-housing-crisis.txt",
+      "bytes": 45110,
+      "sha256_html": "c6fd7d963113fe69d96e6bacce5fa55792bb7e4a7678af0f637502f9c500d6d8",
+      "sha256_text": "c185c356de8d9151872e523780db45bdcf80230725bf0a56db6c04a33c5c103d"
+    },
+    {
+      "original": "https://stricklandforwashington.com/priorities/immigration/",
+      "timestamp": "20241105000707",
+      "wayback": "https://web.archive.org/web/20241105000707/https://stricklandforwashington.com/priorities/immigration/",
+      "wayback_raw": "https://web.archive.org/web/20241105000707id_/https://stricklandforwashington.com/priorities/immigration/",
+      "file": "archive/2024/strickland-wa/priorities-immigration.html",
+      "text_file": "archive/2024/strickland-wa/priorities-immigration.txt",
+      "bytes": 44711,
+      "sha256_html": "b8285b75c780e312905c5470f8ae867da8e28dd589a97c9af95f6605087e743a",
+      "sha256_text": "06e8719a4b6386cc916ad7d1cccea313edc66bbd648719c760cf4755e10217d0"
+    },
+    {
+      "original": "https://stricklandforwashington.com/priorities/inclusive-economy/",
+      "timestamp": "20241105000115",
+      "wayback": "https://web.archive.org/web/20241105000115/https://stricklandforwashington.com/priorities/inclusive-economy/",
+      "wayback_raw": "https://web.archive.org/web/20241105000115id_/https://stricklandforwashington.com/priorities/inclusive-economy/",
+      "file": "archive/2024/strickland-wa/priorities-inclusive-economy.html",
+      "text_file": "archive/2024/strickland-wa/priorities-inclusive-economy.txt",
+      "bytes": 45668,
+      "sha256_html": "108044d989b349eab7df3eae99ee7ca26f3c193ed3388e851cc58cfaa28d2522",
+      "sha256_text": "8c62aa0c8eaa53a0d21fa9378688d89c18b3b5f934d10b010e04bfa9cad82d5f"
+    }
+  ],
+  "snapshots_found": {
+    "stricklandforwashington.com": 505
+  },
+  "generated_utc": "2026-11-26T08:44:13Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
