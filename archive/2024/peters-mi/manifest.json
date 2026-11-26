@@ -1,0 +1,27 @@
+{
+  "name": "Gary C. Peters",
+  "domains_tried": [
+    "petersformichigan.com"
+  ],
+  "pages": [
+    {
+      "original": "https://petersformichigan.com/",
+      "timestamp": "20241013010426",
+      "wayback": "https://web.archive.org/web/20241013010426/https://petersformichigan.com/",
+      "wayback_raw": "https://web.archive.org/web/20241013010426id_/https://petersformichigan.com/",
+      "file": "archive/2024/peters-mi/home.html",
+      "text_file": "archive/2024/peters-mi/home.txt",
+      "bytes": 35638,
+      "sha256_html": "6d8217efd89d36f6a715f71864351b00b3dbc6972d255e64708c6fd76448ad48",
+      "sha256_text": "9b40395a0e9634b29140a3004ef131f0191c2e44c89579e67184223e6f6c515a"
+    }
+  ],
+  "snapshots_found": {
+    "petersformichigan.com": 11
+  },
+  "generated_utc": "2026-11-26T08:15:41Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
