@@ -1,0 +1,71 @@
+{
+  "name": "Ron Estes",
+  "domains_tried": [
+    "estesforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://estesforcongress.com/",
+      "timestamp": "20241105143930",
+      "wayback": "https://web.archive.org/web/20241105143930/https://estesforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105143930id_/https://estesforcongress.com/",
+      "file": "archive/2024/estes-ks/home.html",
+      "text_file": "archive/2024/estes-ks/home.txt",
+      "bytes": 23176,
+      "sha256_html": "b5e4ce6f537c935c8332fb69607b726c7f0b586bf9177217bfffcde039e12e66",
+      "sha256_text": "65e9e833c0fce06e21b0a602728397f671b2b8669aef4ee0f38d58cf962b0173"
+    },
+    {
+      "original": "https://estesforcongress.com/endorsement-family-policy-alliance-of-kansas/",
+      "timestamp": "20241105150553",
+      "wayback": "https://web.archive.org/web/20241105150553/https://estesforcongress.com/endorsement-family-policy-alliance-of-kansas/",
+      "wayback_raw": "https://web.archive.org/web/20241105150553id_/https://estesforcongress.com/endorsement-family-policy-alliance-of-kansas/",
+      "file": "archive/2024/estes-ks/endorsement-family-policy-alliance-of-kansas.html",
+      "text_file": "archive/2024/estes-ks/endorsement-family-policy-alliance-of-kansas.txt",
+      "bytes": 21677,
+      "sha256_html": "d49b472e7f17baf89826b819f2cc18157c0258e7772eaed35d6a59e3e792469b",
+      "sha256_text": "1d7e1935c53f8a9845f08643f03a2c829ff2d5bea15a0223951a92d7e854950b"
+    },
+    {
+      "original": "https://estesforcongress.com/issues/",
+      "timestamp": "20241105143924",
+      "wayback": "https://web.archive.org/web/20241105143924/https://estesforcongress.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105143924id_/https://estesforcongress.com/issues/",
+      "file": "archive/2024/estes-ks/issues.html",
+      "text_file": "archive/2024/estes-ks/issues.txt",
+      "bytes": 18953,
+      "sha256_html": "bc0f232d3115f7467abcf1d147b3d191aa56a2a5354a4f399ec113c0eb5753be",
+      "sha256_text": "0c16620347a66a1c01cc6c4f64a8306aca02dfcc34cb30d33225d8b487a2275a"
+    },
+    {
+      "original": "https://estesforcongress.com/endorsement-family-policy-alliance-of-kansas/embed/",
+      "timestamp": "20241105165703",
+      "wayback": "https://web.archive.org/web/20241105165703/https://estesforcongress.com/endorsement-family-policy-alliance-of-kansas/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241105165703id_/https://estesforcongress.com/endorsement-family-policy-alliance-of-kansas/embed/",
+      "file": "archive/2024/estes-ks/endorsement-family-policy-alliance-of-kansas-embed.html",
+      "text_file": "archive/2024/estes-ks/endorsement-family-policy-alliance-of-kansas-embed.txt",
+      "bytes": 19515,
+      "sha256_html": "5f928c623092252b150f34a7022f9447009058f598c23a1462c8aa85e52d0574",
+      "sha256_text": "1c7fd6b1ff205852b609dd28ed8c0bbb8cfe064fa0eca29925dd01d4d77491f2"
+    },
+    {
+      "original": "https://estesforcongress.com/issues/embed/",
+      "timestamp": "20241105144314",
+      "wayback": "https://web.archive.org/web/20241105144314/https://estesforcongress.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241105144314id_/https://estesforcongress.com/issues/embed/",
+      "file": "archive/2024/estes-ks/issues-embed.html",
+      "text_file": "archive/2024/estes-ks/issues-embed.txt",
+      "bytes": 19418,
+      "sha256_html": "6040101ca87b8ac666d0c93d19ead9b23b66b396dfc61923fe60e43976e1f481",
+      "sha256_text": "100c735fdaf643800a6d0c08d0b03388f1f88ba3e22342ab1377fd5dc603d990"
+    }
+  ],
+  "snapshots_found": {
+    "estesforcongress.com": 401
+  },
+  "generated_utc": "2026-11-26T07:56:26Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
