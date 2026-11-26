@@ -1,0 +1,27 @@
+{
+  "name": "Katie Boyd Britt",
+  "domains_tried": [
+    "katiebrittforsenate.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.katiebrittforsenate.com/",
+      "timestamp": "20241007235814",
+      "wayback": "https://web.archive.org/web/20241007235814/https://www.katiebrittforsenate.com/",
+      "wayback_raw": "https://web.archive.org/web/20241007235814id_/https://www.katiebrittforsenate.com/",
+      "file": "archive/2024/britt-al/home.html",
+      "text_file": "archive/2024/britt-al/home.txt",
+      "bytes": 289601,
+      "sha256_html": "743dd2f71d8ade077ee2c51998035ac9a52964018cb9cbeb9dc8cf155771d9f5",
+      "sha256_text": "51b33e4949d88b11e5d2a37703b2e998683204b99f132a1f7e8acf3f10611579"
+    }
+  ],
+  "snapshots_found": {
+    "katiebrittforsenate.com": 1
+  },
+  "generated_utc": "2026-11-26T08:53:25Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
