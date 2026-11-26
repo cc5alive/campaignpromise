@@ -1,0 +1,71 @@
+{
+  "name": "Morgan Luttrell",
+  "domains_tried": [
+    "morganluttrell.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.morganluttrell.com/",
+      "timestamp": "20241105044924",
+      "wayback": "https://web.archive.org/web/20241105044924/https://www.morganluttrell.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105044924id_/https://www.morganluttrell.com/",
+      "file": "archive/2024/luttrell-tx/home.html",
+      "text_file": "archive/2024/luttrell-tx/home.txt",
+      "bytes": 693069,
+      "sha256_html": "127c4704449e3b313492ce504f7239e70feccfe68ddf593142f4c878af97bd62",
+      "sha256_text": "bdb1cc2c1a9562b1ba5ea6f7ae83b2d70a5bd9ed02a9baab2a67dac6a47860d3"
+    },
+    {
+      "original": "https://www.morganluttrell.com/priorities",
+      "timestamp": "20241105045024",
+      "wayback": "https://web.archive.org/web/20241105045024/https://www.morganluttrell.com/priorities",
+      "wayback_raw": "https://web.archive.org/web/20241105045024id_/https://www.morganluttrell.com/priorities",
+      "file": "archive/2024/luttrell-tx/priorities.html",
+      "text_file": "archive/2024/luttrell-tx/priorities.txt",
+      "bytes": 571632,
+      "sha256_html": "34c002ca414adcc8e0739efcdefbddd6ec88a32aadbb9018203303f07f2f0dfd",
+      "sha256_text": "871611b87e6adae6595327e1bce4dde18ebc0360118efb629da595ff90c5df4a"
+    },
+    {
+      "original": "https://www.morganluttrell.com/media/priorities",
+      "timestamp": "20241101105419",
+      "wayback": "https://web.archive.org/web/20241101105419/https://www.morganluttrell.com/media/priorities",
+      "wayback_raw": "https://web.archive.org/web/20241101105419id_/https://www.morganluttrell.com/media/priorities",
+      "file": "archive/2024/luttrell-tx/media-priorities.html",
+      "text_file": "archive/2024/luttrell-tx/media-priorities.txt",
+      "bytes": 742099,
+      "sha256_html": "ae7d1b3303471c12792ad33d5a0e6d21d1b05658b149ac5e78e43c27e1421ac4",
+      "sha256_text": "73c3d85e9ee778952893eebe8dde9531e7be58a8fbf68337460684f34c830716"
+    },
+    {
+      "original": "https://www.morganluttrell.com/media/media/priorities",
+      "timestamp": "20241102195804",
+      "wayback": "https://web.archive.org/web/20241102195804/https://www.morganluttrell.com/media/media/priorities",
+      "wayback_raw": "https://web.archive.org/web/20241102195804id_/https://www.morganluttrell.com/media/media/priorities",
+      "file": "archive/2024/luttrell-tx/media-media-priorities.html",
+      "text_file": "archive/2024/luttrell-tx/media-media-priorities.txt",
+      "bytes": 742153,
+      "sha256_html": "c1a1bf985d4c2456be1577b0ef5c5427cfc310ad11ed2611b61305e37b0390a8",
+      "sha256_text": "73c3d85e9ee778952893eebe8dde9531e7be58a8fbf68337460684f34c830716"
+    },
+    {
+      "original": "https://www.morganluttrell.com/media/wix-thunderbolt/dist/priorities",
+      "timestamp": "20241102120949",
+      "wayback": "https://web.archive.org/web/20241102120949/https://www.morganluttrell.com/media/wix-thunderbolt/dist/priorities",
+      "wayback_raw": "https://web.archive.org/web/20241102120949id_/https://www.morganluttrell.com/media/wix-thunderbolt/dist/priorities",
+      "file": "archive/2024/luttrell-tx/media-wix-thunderbolt-dist-priorities.html",
+      "text_file": "archive/2024/luttrell-tx/media-wix-thunderbolt-dist-priorities.txt",
+      "bytes": 742220,
+      "sha256_html": "d416a2f23a36bf8e7c8afaa435f70abcb86866a7fc135f57abd2e6e08ab73bb9",
+      "sha256_text": "73c3d85e9ee778952893eebe8dde9531e7be58a8fbf68337460684f34c830716"
+    }
+  ],
+  "snapshots_found": {
+    "morganluttrell.com": 808
+  },
+  "generated_utc": "2026-11-26T09:12:53Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
