@@ -1,0 +1,148 @@
+{
+  "name": "Rand Paul",
+  "domains_tried": [
+    "randpaul.com"
+  ],
+  "pages": [
+    {
+      "original": "https://randpaul.com/",
+      "timestamp": "20241105102109",
+      "wayback": "https://web.archive.org/web/20241105102109/https://randpaul.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105102109id_/https://randpaul.com/",
+      "file": "archive/2024/paul-ky/home.html",
+      "text_file": "archive/2024/paul-ky/home.txt",
+      "bytes": 102711,
+      "sha256_html": "be36f9c4b213b55e2a839208dfe64e93b1d20a85211d72cc660821af78cdb025",
+      "sha256_text": "b057e883097ef0ccc0b50a4e8dcee117d80cd075c664862e835a26c55a044d5e"
+    },
+    {
+      "original": "https://randpaul.com/issues/",
+      "timestamp": "20241102134010",
+      "wayback": "https://web.archive.org/web/20241102134010/https://randpaul.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241102134010id_/https://randpaul.com/issues/",
+      "file": "archive/2024/paul-ky/issues.html",
+      "text_file": "archive/2024/paul-ky/issues.txt",
+      "bytes": 55981,
+      "sha256_html": "1f00191e9afc74a668fbc91a36a520e5cf211bf2e5dc2c95bdd8796e7ce011e2",
+      "sha256_text": "7368df2d5399f8a6bf1335bea1cfed6d978cde6f7bf51902a1225767f88d1f27"
+    },
+    {
+      "original": "https://randpaul.com/sens-rand-paul-bernie-sanders-and-mike-lee-issue-joint-resolution-to-put-yemeni-people-before-profits/",
+      "timestamp": "20240914050514",
+      "wayback": "https://web.archive.org/web/20240914050514/https://randpaul.com/sens-rand-paul-bernie-sanders-and-mike-lee-issue-joint-resolution-to-put-yemeni-people-before-profits/",
+      "wayback_raw": "https://web.archive.org/web/20240914050514id_/https://randpaul.com/sens-rand-paul-bernie-sanders-and-mike-lee-issue-joint-resolution-to-put-yemeni-people-before-profits/",
+      "file": "archive/2024/paul-ky/sens-rand-paul-bernie-sanders-and-mike-lee-issue-joint-resolution-to-put-yemeni-people-before-profits.html",
+      "text_file": "archive/2024/paul-ky/sens-rand-paul-bernie-sanders-and-mike-lee-issue-joint-resolution-to-put-yemeni-people-before-profits.txt",
+      "bytes": 43840,
+      "sha256_html": "dfd5808930e79a57976d236bd4709b3992d58b62c62b58044770f446bfdfe4de",
+      "sha256_text": "170463c033594f359fd28d492ff7b083352b0c45eb6616c398ea4dfaf9560611"
+    },
+    {
+      "original": "https://randpaul.com/vision/",
+      "timestamp": "20240914044227",
+      "wayback": "https://web.archive.org/web/20240914044227/https://randpaul.com/vision/",
+      "wayback_raw": "https://web.archive.org/web/20240914044227id_/https://randpaul.com/vision/",
+      "file": "archive/2024/paul-ky/vision.html",
+      "text_file": "archive/2024/paul-ky/vision.txt",
+      "bytes": 44428,
+      "sha256_html": "20f11b6ff93989363b5c359d5b1ed47fdee785ad3c5fc118b326978d68cac0d0",
+      "sha256_text": "90afa71fee3c360f1ab5880d884f0c9ed627d8aa24b8c905f4f80816bad68443"
+    },
+    {
+      "original": "https://randpaul.com/about/rand-issues-featured-photo/",
+      "timestamp": "20240914032818",
+      "wayback": "https://web.archive.org/web/20240914032818/https://randpaul.com/about/rand-issues-featured-photo/",
+      "wayback_raw": "https://web.archive.org/web/20240914032818id_/https://randpaul.com/about/rand-issues-featured-photo/",
+      "file": "archive/2024/paul-ky/about-rand-issues-featured-photo.html",
+      "text_file": "archive/2024/paul-ky/about-rand-issues-featured-photo.txt",
+      "bytes": 48005,
+      "sha256_html": "52c96ce731f70e5fdaac1db92328fa113503faf0e927db0c13e3a50af1259b65",
+      "sha256_text": "00566b5ac53af3cc55a8681dcf12fe8d73cb9c58bf39a97c06f1f8564ec497d8"
+    },
+    {
+      "original": "https://randpaul.com/issue/america-first/",
+      "timestamp": "20240914050935",
+      "wayback": "https://web.archive.org/web/20240914050935/https://randpaul.com/issue/america-first/",
+      "wayback_raw": "https://web.archive.org/web/20240914050935id_/https://randpaul.com/issue/america-first/",
+      "file": "archive/2024/paul-ky/issue-america-first.html",
+      "text_file": "archive/2024/paul-ky/issue-america-first.txt",
+      "bytes": 52917,
+      "sha256_html": "446e8493ae5d66050fd23a164718e34deace30f5f4a10281afc145073b46035b",
+      "sha256_text": "3658a7e46d2f614987ab3bc9bcb63f7e45f53528962d19fa643a785aa3930a9f"
+    },
+    {
+      "original": "https://randpaul.com/issue/audit-the-fed/",
+      "timestamp": "20240914051438",
+      "wayback": "https://web.archive.org/web/20240914051438/https://randpaul.com/issue/audit-the-fed/",
+      "wayback_raw": "https://web.archive.org/web/20240914051438id_/https://randpaul.com/issue/audit-the-fed/",
+      "file": "archive/2024/paul-ky/issue-audit-the-fed.html",
+      "text_file": "archive/2024/paul-ky/issue-audit-the-fed.txt",
+      "bytes": 53178,
+      "sha256_html": "586c9fe0530b73d006ffe9fdf7142af823baf24614bf698b5acf8c6c267bdf68",
+      "sha256_text": "d4d9fff4a51af115584ac6179deccced7ff0ad12f6fafb19a7854fbd257b19da"
+    },
+    {
+      "original": "https://randpaul.com/issue/criminal-justice/",
+      "timestamp": "20241102153437",
+      "wayback": "https://web.archive.org/web/20241102153437/https://randpaul.com/issue/criminal-justice/",
+      "wayback_raw": "https://web.archive.org/web/20241102153437id_/https://randpaul.com/issue/criminal-justice/",
+      "file": "archive/2024/paul-ky/issue-criminal-justice.html",
+      "text_file": "archive/2024/paul-ky/issue-criminal-justice.txt",
+      "bytes": 53363,
+      "sha256_html": "0fe0d189ae84c513b11eb4743226cf8a2d406d47a8581f5a3f6759f80c0d405f",
+      "sha256_text": "1b42ad5156f4bee5c16e3b7b0ed32d924f53cd6674ac6fd18fd191d493191c4b"
+    },
+    {
+      "original": "https://randpaul.com/issue/education-schools/",
+      "timestamp": "20241014103304",
+      "wayback": "https://web.archive.org/web/20241014103304/https://randpaul.com/issue/education-schools/",
+      "wayback_raw": "https://web.archive.org/web/20241014103304id_/https://randpaul.com/issue/education-schools/",
+      "file": "archive/2024/paul-ky/issue-education-schools.html",
+      "text_file": "archive/2024/paul-ky/issue-education-schools.txt",
+      "bytes": 52900,
+      "sha256_html": "35d858d0773b506ce48deeb27daef6d6ddf04bb683ce50bdbaae0bbe06c72b47",
+      "sha256_text": "a84ba66df6f30ceea6099589fab6a9707657fea889b0763642a00e6935182779"
+    },
+    {
+      "original": "https://randpaul.com/issue/fighting-for-the-bill-of-rights/",
+      "timestamp": "20241102153359",
+      "wayback": "https://web.archive.org/web/20241102153359/https://randpaul.com/issue/fighting-for-the-bill-of-rights/",
+      "wayback_raw": "https://web.archive.org/web/20241102153359id_/https://randpaul.com/issue/fighting-for-the-bill-of-rights/",
+      "file": "archive/2024/paul-ky/issue-fighting-for-the-bill-of-rights.html",
+      "text_file": "archive/2024/paul-ky/issue-fighting-for-the-bill-of-rights.txt",
+      "bytes": 53475,
+      "sha256_html": "597391d51a733fdd809b3e5191605bbd0bfc888907be761f3682a451c44b2a63",
+      "sha256_text": "63d76104964668ebf88fcb41dbd73228f0bf76bfadcc86d44b654acfe624c4de"
+    },
+    {
+      "original": "https://randpaul.com/issue/firefauci/",
+      "timestamp": "20241102140357",
+      "wayback": "https://web.archive.org/web/20241102140357/https://randpaul.com/issue/firefauci/",
+      "wayback_raw": "https://web.archive.org/web/20241102140357id_/https://randpaul.com/issue/firefauci/",
+      "file": "archive/2024/paul-ky/issue-firefauci.html",
+      "text_file": "archive/2024/paul-ky/issue-firefauci.txt",
+      "bytes": 52764,
+      "sha256_html": "e22c0dde0982b7a26305cdbb5d9661fe599f95c615b36b57518bebaa9c2a7e84",
+      "sha256_text": "4b88855bced0f205a5a5e1a13cac399e2dc63b060ba5854326283c0e8e7d67ee"
+    },
+    {
+      "original": "https://randpaul.com/issue/foreign-policy-and-defense/",
+      "timestamp": "20240914045012",
+      "wayback": "https://web.archive.org/web/20240914045012/https://randpaul.com/issue/foreign-policy-and-defense/",
+      "wayback_raw": "https://web.archive.org/web/20240914045012id_/https://randpaul.com/issue/foreign-policy-and-defense/",
+      "file": "archive/2024/paul-ky/issue-foreign-policy-and-defense.html",
+      "text_file": "archive/2024/paul-ky/issue-foreign-policy-and-defense.txt",
+      "bytes": 53348,
+      "sha256_html": "a64d4ffc4acafed43da8dc72ecef4638b0b7121120313c613b21080c4dd474d0",
+      "sha256_text": "2b141f7f1a75cdafbd1fadc2a3509fbffec7955691e44f9162b8a914b4589f55"
+    }
+  ],
+  "snapshots_found": {
+    "randpaul.com": 73
+  },
+  "generated_utc": "2026-11-26T08:22:00Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
