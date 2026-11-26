@@ -1,0 +1,148 @@
+{
+  "name": "Yvette D. Clarke",
+  "domains_tried": [
+    "voteyvette.com"
+  ],
+  "pages": [
+    {
+      "original": "http://voteyvette.com/",
+      "timestamp": "20241105152154",
+      "wayback": "https://web.archive.org/web/20241105152154/http://voteyvette.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105152154id_/http://voteyvette.com/",
+      "file": "archive/2024/clarke-ny/home.html",
+      "text_file": "archive/2024/clarke-ny/home.txt",
+      "bytes": 55920,
+      "sha256_html": "cd4805b5cd558b9ecbb59b8600bdfdd0da8f339db481d665dcc0bd2ed464df17",
+      "sha256_text": "62d9bedf3a3939c6dc155085233fd67aa184a816bf582347218636c15c866521"
+    },
+    {
+      "original": "http://voteyvette.com/issues/",
+      "timestamp": "20241105161618",
+      "wayback": "https://web.archive.org/web/20241105161618/http://voteyvette.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105161618id_/http://voteyvette.com/issues/",
+      "file": "archive/2024/clarke-ny/issues.html",
+      "text_file": "archive/2024/clarke-ny/issues.txt",
+      "bytes": 48982,
+      "sha256_html": "79ebb229c2918d1ce5bcafa9c7b334db3752dd76d5dcbc01413ae6ce64cba459",
+      "sha256_text": "2e75b5063db415301435700c1902c9454dddf4631e32ac6f1968efc031052e04"
+    },
+    {
+      "original": "https://voteyvette.com/press/brooklyns-black-elected-officials-call-on-governor-mayor-to-create-sweeping-revitalization-plan-for-black-communities-in-wake-of-covid-19/",
+      "timestamp": "20241105153003",
+      "wayback": "https://web.archive.org/web/20241105153003/https://voteyvette.com/press/brooklyns-black-elected-officials-call-on-governor-mayor-to-create-sweeping-revitalization-plan-for-black-communities-in-wake-of-covid-19/",
+      "wayback_raw": "https://web.archive.org/web/20241105153003id_/https://voteyvette.com/press/brooklyns-black-elected-officials-call-on-governor-mayor-to-create-sweeping-revitalization-plan-for-black-communities-in-wake-of-covid-19/",
+      "file": "archive/2024/clarke-ny/press-brooklyns-black-elected-officials-call-on-governor-mayor-to-create-sweeping-revitalization-plan-for-black-communities-in-wake-of-covid-19.html",
+      "text_file": "archive/2024/clarke-ny/press-brooklyns-black-elected-officials-call-on-governor-mayor-to-create-sweeping-revitalization-plan-for-black-communities-in-wake-of-covid-19.txt",
+      "bytes": 39737,
+      "sha256_html": "c34b6960a89a8b0344f34a6d2b2eb9149c5447971b7bb324c6a7882acc395437",
+      "sha256_text": "8e69a444733ed35c430dd49f5cc66c4d444d46c2dd1b3e9bb75440f4d084973f"
+    },
+    {
+      "original": "https://voteyvette.com/press/caribbeat-caribbean-rooted-artist-laura-james-wields-art-and-prayer-power-to-fight-covid-19-fears/",
+      "timestamp": "20241105153011",
+      "wayback": "https://web.archive.org/web/20241105153011/https://voteyvette.com/press/caribbeat-caribbean-rooted-artist-laura-james-wields-art-and-prayer-power-to-fight-covid-19-fears/",
+      "wayback_raw": "https://web.archive.org/web/20241105153011id_/https://voteyvette.com/press/caribbeat-caribbean-rooted-artist-laura-james-wields-art-and-prayer-power-to-fight-covid-19-fears/",
+      "file": "archive/2024/clarke-ny/press-caribbeat-caribbean-rooted-artist-laura-james-wields-art-and-prayer-power-to-fight-covid-19-fears.html",
+      "text_file": "archive/2024/clarke-ny/press-caribbeat-caribbean-rooted-artist-laura-james-wields-art-and-prayer-power-to-fight-covid-19-fears.txt",
+      "bytes": 39056,
+      "sha256_html": "cf020dec97e5decbe1a2d0bebf00cfbeae3d826769ca688efa5b11051a01a349",
+      "sha256_text": "03e2092e18ddc67a55db37b2ca033b43aab78949902b184c2e360a77dd50b890"
+    },
+    {
+      "original": "https://voteyvette.com/press/central-brooklyn-lawmakers-demand-more-police-accountability/",
+      "timestamp": "20241105152359",
+      "wayback": "https://web.archive.org/web/20241105152359/https://voteyvette.com/press/central-brooklyn-lawmakers-demand-more-police-accountability/",
+      "wayback_raw": "https://web.archive.org/web/20241105152359id_/https://voteyvette.com/press/central-brooklyn-lawmakers-demand-more-police-accountability/",
+      "file": "archive/2024/clarke-ny/press-central-brooklyn-lawmakers-demand-more-police-accountability.html",
+      "text_file": "archive/2024/clarke-ny/press-central-brooklyn-lawmakers-demand-more-police-accountability.txt",
+      "bytes": 38791,
+      "sha256_html": "5be8015e48c3fafc7a4cfbd8c61093a5882c2f33818eab43298d94c9e4fd7f64",
+      "sha256_text": "1d9773c08e98b679e749cd1959233bad0b33bdb456f7334727e6653ff36c134b"
+    },
+    {
+      "original": "https://voteyvette.com/press/clarkes-fight-for-tenant-rights-legal-assistance/",
+      "timestamp": "20241105152215",
+      "wayback": "https://web.archive.org/web/20241105152215/https://voteyvette.com/press/clarkes-fight-for-tenant-rights-legal-assistance/",
+      "wayback_raw": "https://web.archive.org/web/20241105152215id_/https://voteyvette.com/press/clarkes-fight-for-tenant-rights-legal-assistance/",
+      "file": "archive/2024/clarke-ny/press-clarkes-fight-for-tenant-rights-legal-assistance.html",
+      "text_file": "archive/2024/clarke-ny/press-clarkes-fight-for-tenant-rights-legal-assistance.txt",
+      "bytes": 38259,
+      "sha256_html": "a3884d3c14b71a527d8f228d53dd8462cc26216de7b0019e883d89cfc6735096",
+      "sha256_text": "7495bb3982eb068daebca3a9f944358131adf66d5a866bff7351ad89eb921579"
+    },
+    {
+      "original": "https://voteyvette.com/press/covid-19-update-endangering-staff-and-inmates-alike-elected-officials-stand-up-for-incarcerated-brooklynites/",
+      "timestamp": "20241105152721",
+      "wayback": "https://web.archive.org/web/20241105152721/https://voteyvette.com/press/covid-19-update-endangering-staff-and-inmates-alike-elected-officials-stand-up-for-incarcerated-brooklynites/",
+      "wayback_raw": "https://web.archive.org/web/20241105152721id_/https://voteyvette.com/press/covid-19-update-endangering-staff-and-inmates-alike-elected-officials-stand-up-for-incarcerated-brooklynites/",
+      "file": "archive/2024/clarke-ny/press-covid-19-update-endangering-staff-and-inmates-alike-elected-officials-stand-up-for-incarcerated-brooklynites.html",
+      "text_file": "archive/2024/clarke-ny/press-covid-19-update-endangering-staff-and-inmates-alike-elected-officials-stand-up-for-incarcerated-brooklynites.txt",
+      "bytes": 40195,
+      "sha256_html": "1843ca66435327952a7083d34350aae59e68a1361ffd9033c9112fd0f2efc538",
+      "sha256_text": "774d28222d1833c34d9017f1ee819b5d9f10ae5ee0a4c57a1518f7ac35f0bcdd"
+    },
+    {
+      "original": "https://voteyvette.com/press/fighting-for-immigrants-on-the-front-lines-nyic-endorsements/",
+      "timestamp": "20241105153330",
+      "wayback": "https://web.archive.org/web/20241105153330/https://voteyvette.com/press/fighting-for-immigrants-on-the-front-lines-nyic-endorsements/",
+      "wayback_raw": "https://web.archive.org/web/20241105153330id_/https://voteyvette.com/press/fighting-for-immigrants-on-the-front-lines-nyic-endorsements/",
+      "file": "archive/2024/clarke-ny/press-fighting-for-immigrants-on-the-front-lines-nyic-endorsements.html",
+      "text_file": "archive/2024/clarke-ny/press-fighting-for-immigrants-on-the-front-lines-nyic-endorsements.txt",
+      "bytes": 38370,
+      "sha256_html": "2fd2854d85858a24499845cb8bd8d9852f78550d0e7150369a83589a3ad275de",
+      "sha256_text": "ee4fa090a6b6a2b7e0cfe9bb4d4ee7d1d1aa046d64877901bc4d52b6fe86bde6"
+    },
+    {
+      "original": "https://voteyvette.com/press/house-democrats-outline-immigration-priorities-for-next-coronavirus-relief-measure/",
+      "timestamp": "20241105153327",
+      "wayback": "https://web.archive.org/web/20241105153327/https://voteyvette.com/press/house-democrats-outline-immigration-priorities-for-next-coronavirus-relief-measure/",
+      "wayback_raw": "https://web.archive.org/web/20241105153327id_/https://voteyvette.com/press/house-democrats-outline-immigration-priorities-for-next-coronavirus-relief-measure/",
+      "file": "archive/2024/clarke-ny/press-house-democrats-outline-immigration-priorities-for-next-coronavirus-relief-measure.html",
+      "text_file": "archive/2024/clarke-ny/press-house-democrats-outline-immigration-priorities-for-next-coronavirus-relief-measure.txt",
+      "bytes": 38746,
+      "sha256_html": "9a2c137bdbb8e5c9a0a73286f0ac8fa9607bfc6de4762737305842a066a9ced6",
+      "sha256_text": "e502670d38aef08c42b029f6f44fdcf2231df853d4dd0f53a80cf1320293695a"
+    },
+    {
+      "original": "https://voteyvette.com/press/house-resolution-lumps-broken-windows-with-police-brutality/",
+      "timestamp": "20241105152020",
+      "wayback": "https://web.archive.org/web/20241105152020/https://voteyvette.com/press/house-resolution-lumps-broken-windows-with-police-brutality/",
+      "wayback_raw": "https://web.archive.org/web/20241105152020id_/https://voteyvette.com/press/house-resolution-lumps-broken-windows-with-police-brutality/",
+      "file": "archive/2024/clarke-ny/press-house-resolution-lumps-broken-windows-with-police-brutality.html",
+      "text_file": "archive/2024/clarke-ny/press-house-resolution-lumps-broken-windows-with-police-brutality.txt",
+      "bytes": 38944,
+      "sha256_html": "55cdffab538a51634403b83836934e6a1cd7932bd0b048025d8d95b9a005a856",
+      "sha256_text": "6c0a9cba94921fc69482127c40e4bf93c9fd980ab70c8a1fde956f31a354c2cc"
+    },
+    {
+      "original": "https://voteyvette.com/press/rep-clarke-fights-for-home-ownerships/",
+      "timestamp": "20241105152224",
+      "wayback": "https://web.archive.org/web/20241105152224/https://voteyvette.com/press/rep-clarke-fights-for-home-ownerships/",
+      "wayback_raw": "https://web.archive.org/web/20241105152224id_/https://voteyvette.com/press/rep-clarke-fights-for-home-ownerships/",
+      "file": "archive/2024/clarke-ny/press-rep-clarke-fights-for-home-ownerships.html",
+      "text_file": "archive/2024/clarke-ny/press-rep-clarke-fights-for-home-ownerships.txt",
+      "bytes": 38032,
+      "sha256_html": "fc78dd4b13414a3608844246d909d0a7152bb5359379530cc31319b02925c9a3",
+      "sha256_text": "af0d18e7cee1c4e13087807298fa61801c1f50fac0210769c1ab778ec556ab91"
+    },
+    {
+      "original": "https://voteyvette.com/press/trump-unrelenting-immigration-policy/",
+      "timestamp": "20241105152234",
+      "wayback": "https://web.archive.org/web/20241105152234/https://voteyvette.com/press/trump-unrelenting-immigration-policy/",
+      "wayback_raw": "https://web.archive.org/web/20241105152234id_/https://voteyvette.com/press/trump-unrelenting-immigration-policy/",
+      "file": "archive/2024/clarke-ny/press-trump-unrelenting-immigration-policy.html",
+      "text_file": "archive/2024/clarke-ny/press-trump-unrelenting-immigration-policy.txt",
+      "bytes": 38007,
+      "sha256_html": "7ccca0104d6c7a3321033d95766d171d59654d73c3f482b524a60cd56bef4755",
+      "sha256_text": "edb915f5f46e17f25e9f2ec80a373fa61f37e40096573fc09b6ee2999110178b"
+    }
+  ],
+  "snapshots_found": {
+    "voteyvette.com": 121
+  },
+  "generated_utc": "2026-11-26T07:29:12Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
