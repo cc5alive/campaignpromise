@@ -1,0 +1,38 @@
+{
+  "name": "John Cornyn",
+  "domains_tried": [
+    "johncornyn.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.johncornyn.com/",
+      "timestamp": "20241104180018",
+      "wayback": "https://web.archive.org/web/20241104180018/https://www.johncornyn.com/",
+      "wayback_raw": "https://web.archive.org/web/20241104180018id_/https://www.johncornyn.com/",
+      "file": "archive/2024/cornyn-tx/home.html",
+      "text_file": "archive/2024/cornyn-tx/home.txt",
+      "bytes": 70876,
+      "sha256_html": "c1d3e1058f7968284a34d3a02a5096efd0a596e3726902901ae5511a9da96c80",
+      "sha256_text": "0ee89c18e097b298aee6662ddf67cf02fb3146bdd38e9b84311dda517496e385"
+    },
+    {
+      "original": "https://www.johncornyn.com/priorities/",
+      "timestamp": "20241104170436",
+      "wayback": "https://web.archive.org/web/20241104170436/https://www.johncornyn.com/priorities/",
+      "wayback_raw": "https://web.archive.org/web/20241104170436id_/https://www.johncornyn.com/priorities/",
+      "file": "archive/2024/cornyn-tx/priorities.html",
+      "text_file": "archive/2024/cornyn-tx/priorities.txt",
+      "bytes": 45313,
+      "sha256_html": "5733631045a88d4bf176fe44e9a3dd1c8aff7389f2d72fbec1a6400ab7a9b7b1",
+      "sha256_text": "7b1469628845cb6c4e52710b3b084715ba018283cbf134a045fbd427e7633f93"
+    }
+  ],
+  "snapshots_found": {
+    "johncornyn.com": 1
+  },
+  "generated_utc": "2026-11-26T07:23:25Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
