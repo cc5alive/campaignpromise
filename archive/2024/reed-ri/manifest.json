@@ -1,0 +1,49 @@
+{
+  "name": "Jack Reed",
+  "domains_tried": [
+    "jackreed.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.jackreed.com/",
+      "timestamp": "20241030071942",
+      "wayback": "https://web.archive.org/web/20241030071942/https://www.jackreed.com/",
+      "wayback_raw": "https://web.archive.org/web/20241030071942id_/https://www.jackreed.com/",
+      "file": "archive/2024/reed-ri/home.html",
+      "text_file": "archive/2024/reed-ri/home.txt",
+      "bytes": 33085,
+      "sha256_html": "779308501d4ffb875566a82518e7158c29268dc76f9be4251ac4e7bdb85b2861",
+      "sha256_text": "dbd1d5b50193901dabb9f94b710b08c98d93a5bb403dea6e9970f3702dd1e4ad"
+    },
+    {
+      "original": "https://www.jackreed.com/act/jr-priorities",
+      "timestamp": "20241010011158",
+      "wayback": "https://web.archive.org/web/20241010011158/https://www.jackreed.com/act/jr-priorities",
+      "wayback_raw": "https://web.archive.org/web/20241010011158id_/https://www.jackreed.com/act/jr-priorities",
+      "file": "archive/2024/reed-ri/act-jr-priorities.html",
+      "text_file": "archive/2024/reed-ri/act-jr-priorities.txt",
+      "bytes": 34739,
+      "sha256_html": "bb059770232292a063d43bbdec68181e4920ca3411083b51041b698a67c99109",
+      "sha256_text": "ba97de843498b4c54f3fc19ddbd7ca5b6a31d448cf18ec80d10e1f4f868d6294"
+    },
+    {
+      "original": "https://www.jackreed.com/about",
+      "timestamp": "20241002173840",
+      "wayback": "https://web.archive.org/web/20241002173840/https://www.jackreed.com/about",
+      "wayback_raw": "https://web.archive.org/web/20241002173840id_/https://www.jackreed.com/about",
+      "file": "archive/2024/reed-ri/about.html",
+      "text_file": "archive/2024/reed-ri/about.txt",
+      "bytes": 32958,
+      "sha256_html": "dbab6f24cad46bebabcdf69a0eea670b421e5d90df9f31aa2cabb2ac9d4eaa74",
+      "sha256_text": "33be37f62d475ffd514a35648c809d6b2e0613ceff7e5eb7322a01a307f567db"
+    }
+  ],
+  "snapshots_found": {
+    "jackreed.com": 3
+  },
+  "generated_utc": "2026-11-26T07:16:33Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
