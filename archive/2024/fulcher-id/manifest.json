@@ -1,0 +1,93 @@
+{
+  "name": "Russ Fulcher",
+  "domains_tried": [
+    "russfulcher.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.russfulcher.com/",
+      "timestamp": "20241105210429",
+      "wayback": "https://web.archive.org/web/20241105210429/https://www.russfulcher.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105210429id_/https://www.russfulcher.com/",
+      "file": "archive/2024/fulcher-id/home.html",
+      "text_file": "archive/2024/fulcher-id/home.txt",
+      "bytes": 880628,
+      "sha256_html": "a6ffac13313e40159a32390341651bf3166fc716c595c55c91a81485c3fb98c4",
+      "sha256_text": "dc1e8130f7941cf3950fbff03147476c3d0d22be086414ffbb1b403cfddd58eb"
+    },
+    {
+      "original": "https://www.russfulcher.com/copy-of-issues",
+      "timestamp": "20241105211228",
+      "wayback": "https://web.archive.org/web/20241105211228/https://www.russfulcher.com/copy-of-issues",
+      "wayback_raw": "https://web.archive.org/web/20241105211228id_/https://www.russfulcher.com/copy-of-issues",
+      "file": "archive/2024/fulcher-id/copy-of-issues.html",
+      "text_file": "archive/2024/fulcher-id/copy-of-issues.txt",
+      "bytes": 564384,
+      "sha256_html": "011af8902b6c77a26a37a9969c4a7cc3718711c54c68d50fdef425ef77bec026",
+      "sha256_text": "1ded4bede46281430f91e08219b241d9698abe86274ba50b32a355978498a920"
+    },
+    {
+      "original": "https://www.russfulcher.com/issues",
+      "timestamp": "20241105210436",
+      "wayback": "https://web.archive.org/web/20241105210436/https://www.russfulcher.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105210436id_/https://www.russfulcher.com/issues",
+      "file": "archive/2024/fulcher-id/issues.html",
+      "text_file": "archive/2024/fulcher-id/issues.txt",
+      "bytes": 565648,
+      "sha256_html": "e4429a710a9b038fbf185c12e086bdc2bc78fcafcf8f62d12f7576b5efac5e69",
+      "sha256_text": "ea8688ddb0f6c5a6f9fcd520a65e193a172f4f2c342235b0fe974491b000ed85"
+    },
+    {
+      "original": "https://www.russfulcher.com/members-area/my/copy-of-issues",
+      "timestamp": "20241103040605",
+      "wayback": "https://web.archive.org/web/20241103040605/https://www.russfulcher.com/members-area/my/copy-of-issues",
+      "wayback_raw": "https://web.archive.org/web/20241103040605id_/https://www.russfulcher.com/members-area/my/copy-of-issues",
+      "file": "archive/2024/fulcher-id/members-area-my-copy-of-issues.html",
+      "text_file": "archive/2024/fulcher-id/members-area-my-copy-of-issues.txt",
+      "bytes": 1865185,
+      "sha256_html": "275967ed4741e8b7a9ece8b8ea055e9f6d35e926c5bd699f61435611f0a642a1",
+      "sha256_text": "bce51319da1e2847ccd823d8c9a1f98600f4cc808ea3fe21e3e356d463602dfd"
+    },
+    {
+      "original": "https://www.russfulcher.com/members-area/my/issues",
+      "timestamp": "20241103041231",
+      "wayback": "https://web.archive.org/web/20241103041231/https://www.russfulcher.com/members-area/my/issues",
+      "wayback_raw": "https://web.archive.org/web/20241103041231id_/https://www.russfulcher.com/members-area/my/issues",
+      "file": "archive/2024/fulcher-id/members-area-my-issues.html",
+      "text_file": "archive/2024/fulcher-id/members-area-my-issues.txt",
+      "bytes": 1865121,
+      "sha256_html": "e8582d6cecdbb9d7c81a1ca1dda3544c28bbb1cbcff724a2c73850773ce94030",
+      "sha256_text": "bce51319da1e2847ccd823d8c9a1f98600f4cc808ea3fe21e3e356d463602dfd"
+    },
+    {
+      "original": "https://www.russfulcher.com/members-area/my/wix-thunderbolt/dist/copy-of-issues",
+      "timestamp": "20241104050811",
+      "wayback": "https://web.archive.org/web/20241104050811/https://www.russfulcher.com/members-area/my/wix-thunderbolt/dist/copy-of-issues",
+      "wayback_raw": "https://web.archive.org/web/20241104050811id_/https://www.russfulcher.com/members-area/my/wix-thunderbolt/dist/copy-of-issues",
+      "file": "archive/2024/fulcher-id/members-area-my-wix-thunderbolt-dist-copy-of-issues.html",
+      "text_file": "archive/2024/fulcher-id/members-area-my-wix-thunderbolt-dist-copy-of-issues.txt",
+      "bytes": 1865042,
+      "sha256_html": "a42e621a245b9f24df35c083b7d166d5ce2775a30ffa889a84ab4a0a5371c07a",
+      "sha256_text": "bce51319da1e2847ccd823d8c9a1f98600f4cc808ea3fe21e3e356d463602dfd"
+    },
+    {
+      "original": "https://www.russfulcher.com/members-area/my/wix-thunderbolt/dist/issues",
+      "timestamp": "20241104051138",
+      "wayback": "https://web.archive.org/web/20241104051138/https://www.russfulcher.com/members-area/my/wix-thunderbolt/dist/issues",
+      "wayback_raw": "https://web.archive.org/web/20241104051138id_/https://www.russfulcher.com/members-area/my/wix-thunderbolt/dist/issues",
+      "file": "archive/2024/fulcher-id/members-area-my-wix-thunderbolt-dist-issues.html",
+      "text_file": "archive/2024/fulcher-id/members-area-my-wix-thunderbolt-dist-issues.txt",
+      "bytes": 1865037,
+      "sha256_html": "b6b10485cf72104c971076f0058d0f422e5ea36b60bee688e196ef0586f35c61",
+      "sha256_text": "bce51319da1e2847ccd823d8c9a1f98600f4cc808ea3fe21e3e356d463602dfd"
+    }
+  ],
+  "snapshots_found": {
+    "russfulcher.com": 966
+  },
+  "generated_utc": "2026-11-26T08:04:52Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
