@@ -1,0 +1,26 @@
+{
+  "name": "Shri Thanedar",
+  "domains_tried": [
+    "shriforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://shriforcongress.com/issues/",
+      "timestamp": "20241105042920",
+      "error": "no response"
+    },
+    {
+      "original": "https://shriforcongress.com/about/",
+      "timestamp": "20241105042351",
+      "error": "no response"
+    }
+  ],
+  "snapshots_found": {
+    "shriforcongress.com": 0
+  },
+  "generated_utc": "2026-11-26T09:13:03Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
