@@ -1,0 +1,49 @@
+{
+  "name": "Kevin Mullin",
+  "domains_tried": [
+    "kevinmullinforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.kevinmullinforcongress.com/",
+      "timestamp": "20241105181141",
+      "wayback": "https://web.archive.org/web/20241105181141/https://www.kevinmullinforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105181141id_/https://www.kevinmullinforcongress.com/",
+      "file": "archive/2024/mullin-ca/home.html",
+      "text_file": "archive/2024/mullin-ca/home.txt",
+      "bytes": 510086,
+      "sha256_html": "590fa1e130506d15bba1474f411decbfacb41bbfc03a646a7a7bfc2112c90adf",
+      "sha256_text": "8fc87e0cbbc8d3cc16e7e37776ed2a70cfb68a664d7ada6681fead9169023cab"
+    },
+    {
+      "original": "https://www.kevinmullinforcongress.com/issues",
+      "timestamp": "20241105181148",
+      "wayback": "https://web.archive.org/web/20241105181148/https://www.kevinmullinforcongress.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105181148id_/https://www.kevinmullinforcongress.com/issues",
+      "file": "archive/2024/mullin-ca/issues.html",
+      "text_file": "archive/2024/mullin-ca/issues.txt",
+      "bytes": 464095,
+      "sha256_html": "85fc75da08526a4879f6dc4a0a51e8dd7fb9828e81f0a62e324a83551466e2e8",
+      "sha256_text": "09cd7aeb7a95e13936c95f8e9d1aed12ebab7d4246ad1dead80cd7c71af4cd2d"
+    },
+    {
+      "original": "https://www.kevinmullinforcongress.com/local-issues-survey-u",
+      "timestamp": "20241105181719",
+      "wayback": "https://web.archive.org/web/20241105181719/https://www.kevinmullinforcongress.com/local-issues-survey-u",
+      "wayback_raw": "https://web.archive.org/web/20241105181719id_/https://www.kevinmullinforcongress.com/local-issues-survey-u",
+      "file": "archive/2024/mullin-ca/local-issues-survey-u.html",
+      "text_file": "archive/2024/mullin-ca/local-issues-survey-u.txt",
+      "bytes": 422481,
+      "sha256_html": "30e17cbbc248a454fae3cde7d90426c89b9e5e8f89624c5431d721512af839ea",
+      "sha256_text": "b09f809d8d2235bc08ac8bdcbf30a15969ec82f92790422113cb0d7640516120"
+    }
+  ],
+  "snapshots_found": {
+    "kevinmullinforcongress.com": 19
+  },
+  "generated_utc": "2026-11-26T08:57:11Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
