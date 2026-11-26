@@ -1,0 +1,148 @@
+{
+  "name": "Ron Wyden",
+  "domains_tried": [
+    "standtallforamerica.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.standtallforamerica.com/",
+      "timestamp": "20241101062926",
+      "wayback": "https://web.archive.org/web/20241101062926/https://www.standtallforamerica.com/",
+      "wayback_raw": "https://web.archive.org/web/20241101062926id_/https://www.standtallforamerica.com/",
+      "file": "archive/2024/wyden-or/home.html",
+      "text_file": "archive/2024/wyden-or/home.txt",
+      "bytes": 18158,
+      "sha256_html": "8c5ed1e4a8f2e98ca47658220576c4f255cf5c65edba22c6190189f79a746371",
+      "sha256_text": "dcafcc5dc5baa9c904a5be893898f3b19d138f9650448c7bbec89d50a4bcfd5b"
+    },
+    {
+      "original": "https://www.standtallforamerica.com/issues/",
+      "timestamp": "20241010150023",
+      "wayback": "https://web.archive.org/web/20241010150023/https://www.standtallforamerica.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241010150023id_/https://www.standtallforamerica.com/issues/",
+      "file": "archive/2024/wyden-or/issues.html",
+      "text_file": "archive/2024/wyden-or/issues.txt",
+      "bytes": 16639,
+      "sha256_html": "d04ada801787714967dad8399e402407d26605fdc700f126971bbe7b958e1ea8",
+      "sha256_text": "25f7d09080fef59865dd847bd81c2bc78232b03e9b98af2b922f67613a848648"
+    },
+    {
+      "original": "https://www.standtallforamerica.com/issues/climate-crisis/",
+      "timestamp": "20241010150656",
+      "wayback": "https://web.archive.org/web/20241010150656/https://www.standtallforamerica.com/issues/climate-crisis/",
+      "wayback_raw": "https://web.archive.org/web/20241010150656id_/https://www.standtallforamerica.com/issues/climate-crisis/",
+      "file": "archive/2024/wyden-or/issues-climate-crisis.html",
+      "text_file": "archive/2024/wyden-or/issues-climate-crisis.txt",
+      "bytes": 17066,
+      "sha256_html": "8de8587e5bedc82ececddb40dce2979d3f5b51ddeec751edf07734ac3b6a35ad",
+      "sha256_text": "a364416b84437fb45da83f1640b5bb6eb523f0515c1a99b79b85271f6a4eec0c"
+    },
+    {
+      "original": "https://www.standtallforamerica.com/issues/equality/",
+      "timestamp": "20241010131824",
+      "wayback": "https://web.archive.org/web/20241010131824/https://www.standtallforamerica.com/issues/equality/",
+      "wayback_raw": "https://web.archive.org/web/20241010131824id_/https://www.standtallforamerica.com/issues/equality/",
+      "file": "archive/2024/wyden-or/issues-equality.html",
+      "text_file": "archive/2024/wyden-or/issues-equality.txt",
+      "bytes": 18070,
+      "sha256_html": "c2064ae99c36e5c0148bbff7cb0d1fe558d586ed6e4a9b9e8047c9b05f6ff362",
+      "sha256_text": "ab47a6f76dd328c46b3909dbbfc0b31cd71436c4ad59789abf4bc978215606a5"
+    },
+    {
+      "original": "https://www.standtallforamerica.com/issues/health-care/",
+      "timestamp": "20241010150246",
+      "wayback": "https://web.archive.org/web/20241010150246/https://www.standtallforamerica.com/issues/health-care/",
+      "wayback_raw": "https://web.archive.org/web/20241010150246id_/https://www.standtallforamerica.com/issues/health-care/",
+      "file": "archive/2024/wyden-or/issues-health-care.html",
+      "text_file": "archive/2024/wyden-or/issues-health-care.txt",
+      "bytes": 17444,
+      "sha256_html": "14b3185decccc8b6dfb82d081a1c7067d0aeead57b469707a328cc6f336ed8eb",
+      "sha256_text": "a6961d94ebb196b4ec0aa4e0415fa5e8af0f94920298b510d983820e5052ba55"
+    },
+    {
+      "original": "https://www.standtallforamerica.com/issues/jobs-economy/",
+      "timestamp": "20240926144811",
+      "wayback": "https://web.archive.org/web/20240926144811/https://www.standtallforamerica.com/issues/jobs-economy/",
+      "wayback_raw": "https://web.archive.org/web/20240926144811id_/https://www.standtallforamerica.com/issues/jobs-economy/",
+      "file": "archive/2024/wyden-or/issues-jobs-economy.html",
+      "text_file": "archive/2024/wyden-or/issues-jobs-economy.txt",
+      "bytes": 19438,
+      "sha256_html": "f74309d280f837e1795b3cf6fe40902cec80e98f2893de24298973d5d6ff256c",
+      "sha256_text": "b684611de2e094f4976487ff3a0fb1187033c2ff8f69d472d97ce7551f0d5c7c"
+    },
+    {
+      "original": "https://www.standtallforamerica.com/issues/national-security/",
+      "timestamp": "20241010144206",
+      "wayback": "https://web.archive.org/web/20241010144206/https://www.standtallforamerica.com/issues/national-security/",
+      "wayback_raw": "https://web.archive.org/web/20241010144206id_/https://www.standtallforamerica.com/issues/national-security/",
+      "file": "archive/2024/wyden-or/issues-national-security.html",
+      "text_file": "archive/2024/wyden-or/issues-national-security.txt",
+      "bytes": 17110,
+      "sha256_html": "b6156bf34047dc602d3cabcc68407ba098e6e644c493923e0a8aa00e5f4a49a8",
+      "sha256_text": "9c5077f8b89e6825994d8622e20428cdedaf8f75fd0496edf9de345ae6298321"
+    },
+    {
+      "original": "https://www.standtallforamerica.com/issues/seniors/",
+      "timestamp": "20240921150430",
+      "wayback": "https://web.archive.org/web/20240921150430/https://www.standtallforamerica.com/issues/seniors/",
+      "wayback_raw": "https://web.archive.org/web/20240921150430id_/https://www.standtallforamerica.com/issues/seniors/",
+      "file": "archive/2024/wyden-or/issues-seniors.html",
+      "text_file": "archive/2024/wyden-or/issues-seniors.txt",
+      "bytes": 17816,
+      "sha256_html": "89497ed0ef2ae638a93eb89af4a0bac0e8ee3b09100bfb9f5f605762d1b7320c",
+      "sha256_text": "d04e884e45a8a096e4f720478b12edfd66d4bf2d2ad5a2534cb24b767f20b830"
+    },
+    {
+      "original": "https://www.standtallforamerica.com/issues/veterans/",
+      "timestamp": "20241010130615",
+      "wayback": "https://web.archive.org/web/20241010130615/https://www.standtallforamerica.com/issues/veterans/",
+      "wayback_raw": "https://web.archive.org/web/20241010130615id_/https://www.standtallforamerica.com/issues/veterans/",
+      "file": "archive/2024/wyden-or/issues-veterans.html",
+      "text_file": "archive/2024/wyden-or/issues-veterans.txt",
+      "bytes": 16798,
+      "sha256_html": "02f394b6527a5447674174b49609da491c87565022724eaf1599363cd8779a43",
+      "sha256_text": "cd0324f473159da84daff7e9f74e07a38c2ed4d7cdd3c4914eddd0187cb5262d"
+    },
+    {
+      "original": "https://www.standtallforamerica.com/issues/voting-elections/",
+      "timestamp": "20241010142034",
+      "wayback": "https://web.archive.org/web/20241010142034/https://www.standtallforamerica.com/issues/voting-elections/",
+      "wayback_raw": "https://web.archive.org/web/20241010142034id_/https://www.standtallforamerica.com/issues/voting-elections/",
+      "file": "archive/2024/wyden-or/issues-voting-elections.html",
+      "text_file": "archive/2024/wyden-or/issues-voting-elections.txt",
+      "bytes": 17436,
+      "sha256_html": "792d5b86a87c63135d976e1713f25096b543a9d97fc3689b2e8ac2850ec33743",
+      "sha256_text": "ba055f6f0279b8bea48bbe448f5284bc0f715ab2bb6efc84a866cd5d0209c836"
+    },
+    {
+      "original": "https://www.standtallforamerica.com/2022/06/30/i-wont-compromise-these-core-values/",
+      "timestamp": "20240813181253",
+      "wayback": "https://web.archive.org/web/20240813181253/https://www.standtallforamerica.com/2022/06/30/i-wont-compromise-these-core-values/",
+      "wayback_raw": "https://web.archive.org/web/20240813181253id_/https://www.standtallforamerica.com/2022/06/30/i-wont-compromise-these-core-values/",
+      "file": "archive/2024/wyden-or/2022-06-30-i-wont-compromise-these-core-values.html",
+      "text_file": "archive/2024/wyden-or/2022-06-30-i-wont-compromise-these-core-values.txt",
+      "bytes": 18422,
+      "sha256_html": "7f43da38160c3f7004a996fc26d322482760494d698468684029dfa101a3766d",
+      "sha256_text": "b3152224475e795176b0b84330ebb53a90354d0061059fbb42fec21da59bb052"
+    },
+    {
+      "original": "https://www.standtallforamerica.com/2023/03/22/my-plan-combat-housing-crisis/",
+      "timestamp": "20240813182229",
+      "wayback": "https://web.archive.org/web/20240813182229/https://www.standtallforamerica.com/2023/03/22/my-plan-combat-housing-crisis/",
+      "wayback_raw": "https://web.archive.org/web/20240813182229id_/https://www.standtallforamerica.com/2023/03/22/my-plan-combat-housing-crisis/",
+      "file": "archive/2024/wyden-or/2023-03-22-my-plan-combat-housing-crisis.html",
+      "text_file": "archive/2024/wyden-or/2023-03-22-my-plan-combat-housing-crisis.txt",
+      "bytes": 18481,
+      "sha256_html": "0d3886a9b7e7ae0aa66dcf5c6137720e041a3fc46020269d2f0e30c4dc2febec",
+      "sha256_text": "2c0bd3a3e059673986e31afdde83acdebc66690dfbe63ba73e201d17e850a090"
+    }
+  ],
+  "snapshots_found": {
+    "standtallforamerica.com": 70
+  },
+  "generated_utc": "2026-11-26T08:34:09Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
