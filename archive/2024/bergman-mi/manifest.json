@@ -1,0 +1,49 @@
+{
+  "name": "Jack Bergman",
+  "domains_tried": [
+    "bergmanforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.bergmanforcongress.com/",
+      "timestamp": "20241105113412",
+      "wayback": "https://web.archive.org/web/20241105113412/https://www.bergmanforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105113412id_/https://www.bergmanforcongress.com/",
+      "file": "archive/2024/bergman-mi/home.html",
+      "text_file": "archive/2024/bergman-mi/home.txt",
+      "bytes": 131939,
+      "sha256_html": "70ac0f11919d260407929c64f8c2a230e9c047e53e6917a72ba7115fcbbc4687",
+      "sha256_text": "a37cc0e463681ff02f709b64969683ad7a9774e6c4e021c1d0d2da958ed062f0"
+    },
+    {
+      "original": "https://www.bergmanforcongress.com/bergman-stands-in-solidarity-with-u-p-weatherman",
+      "timestamp": "20241105035317",
+      "wayback": "https://web.archive.org/web/20241105035317/https://www.bergmanforcongress.com/bergman-stands-in-solidarity-with-u-p-weatherman",
+      "wayback_raw": "https://web.archive.org/web/20241105035317id_/https://www.bergmanforcongress.com/bergman-stands-in-solidarity-with-u-p-weatherman",
+      "file": "archive/2024/bergman-mi/bergman-stands-in-solidarity-with-u-p-weatherman.html",
+      "text_file": "archive/2024/bergman-mi/bergman-stands-in-solidarity-with-u-p-weatherman.txt",
+      "bytes": 64626,
+      "sha256_html": "6bbfee7a85603d013866038c7726c796e2f3600a0e0445ab98ed875a672bf947",
+      "sha256_text": "08d3c16457cd4941e970c45a4de872efff007d025f8005011fb88392a8b1d608"
+    },
+    {
+      "original": "https://www.bergmanforcongress.com/issues",
+      "timestamp": "20241105035247",
+      "wayback": "https://web.archive.org/web/20241105035247/https://www.bergmanforcongress.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105035247id_/https://www.bergmanforcongress.com/issues",
+      "file": "archive/2024/bergman-mi/issues.html",
+      "text_file": "archive/2024/bergman-mi/issues.txt",
+      "bytes": 103760,
+      "sha256_html": "9e078c319bcf90ae7327784331f2a5eff03d483584b4100333c23252713fc987",
+      "sha256_text": "b642ad8f7383b948f7bdc321e2ed374233df868b66b5799bd9c6e753a6ddc9b3"
+    }
+  ],
+  "snapshots_found": {
+    "bergmanforcongress.com": 38
+  },
+  "generated_utc": "2026-11-26T07:54:13Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}

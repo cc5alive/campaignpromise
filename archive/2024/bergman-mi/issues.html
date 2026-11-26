@@ -1,0 +1,1851 @@
+<!doctype html >
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"
+      class="">
+<head>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    window._currentDevice = 'desktop';
+    window.Parameters = window.Parameters || {
+        HomeUrl: 'https://www.bergmanforcongress.com/',
+        AccountUUID: 'e544062576a54db2ab97c0f4e29f4af0',
+        SystemID: 'US_DIRECT_PRODUCTION',
+        SiteAlias: '929984f2',
+        SiteType: atob('RFVEQU9ORQ=='),
+        PublicationDate: 'Fri May 31 18:31:26 UTC 2024',
+        ExternalUid: null,
+        IsSiteMultilingual: false,
+        InitialPostAlias: '',
+        InitialDynamicItem: '',
+        DynamicPageInfo: {
+            isDynamicPage: false,
+            base64JsonRowData: 'null',
+        },
+        InitialPageAlias: 'issues',
+        InitialPageUuid: 'c5933ca341f44e94aded0831b36eb30b',
+        InitialPageId: '1137836594',
+        InitialEncodedPageAlias: 'aXNzdWVz',
+        CurrentPageUrl: '',
+        IsCurrentHomePage: false,
+        AllowAjax: false,
+        AfterAjaxCommand: null,
+        HomeLinkText: 'Back To Home',
+        UseGalleryModule: false,
+        CurrentThemeName: 'Layout Theme',
+        ThemeVersion: '44600',
+        DefaultPageAlias: '',
+        RemoveDID: true,
+        WidgetStyleID: null,
+        IsHeaderFixed: false,
+        IsHeaderSkinny: false,
+        IsBfs: true,
+        StorePageAlias: 'null',
+        StorePagesUrls: 'e30=',
+        IsNewStore: 'false',
+        StorePath: '',
+        StoreId: 'null',
+        StoreVersion: 0,
+        StoreBaseUrl: '',
+        StoreCleanUrl: true,
+        StoreDisableScrolling: true,
+        IsStoreSuspended: false,
+        NotificationSubDomain: 'bergmanforcongress',
+        HasCustomDomain: true,
+        SimpleSite: false,
+        showCookieNotification: false,
+        cookiesNotificationMarkup: 'null',
+        translatedPageUrl: '',
+        isFastMigrationSite: false,
+        sidebarPosition: 'NA',
+        currentLanguage: 'en',
+        currentLocale: 'en',
+        NavItems: '{}',
+        errors: {
+            general: 'There was an error connecting to the page.<br/> Make sure you are not offline.',
+            password: 'Incorrect name/password combination',
+            tryAgain: 'Try again'
+        },
+        NavigationAreaParams: {
+            ShowBackToHomeOnInnerPages: true,
+            NavbarSize: -1,
+            NavbarLiveHomePage: 'https://www.bergmanforcongress.com/',
+            BlockContainerSelector: '.dmBody',
+            NavbarSelector: '#dmNav:has(a)',
+            SubNavbarSelector: '#subnav_main'
+        },
+        hasCustomCode: true,
+        planID: '7',
+        customTemplateId: 'null',
+        siteTemplateId: 'null',
+        productId: 'DM_DIRECT',
+        disableTracking: false,
+        pageType: 'FROM_SCRATCH',
+        isRuntimeServer: true,
+        isInEditor: false,
+        hasNativeStore: false,
+        defaultLang: 'en',
+        hamburgerMigration: null
+    };
+
+    window.Parameters.LayoutID = {};
+    window.Parameters.LayoutID[window._currentDevice] = 6;
+    window.Parameters.LayoutVariationID = {};
+    window.Parameters.LayoutVariationID[window._currentDevice] = 5;
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Injecting site-wide to the head -->
+
+
+
+
+<!-- End Injecting site-wide to the head -->
+
+<!-- Inject secured cdn script -->
+
+
+<!-- ========= Meta Tags ========= -->
+<!-- PWA settings -->
+<script>
+    function toHash(str) {
+        var hash = 5381, i = str.length;
+        while (i) {
+            hash = hash * 33 ^ str.charCodeAt(--i)
+        }
+        return hash >>> 0
+    }
+</script>
+<script>
+    (function (global) {
+    //const cacheKey = global.cacheKey;
+    const isOffline = 'onLine' in navigator && navigator.onLine === false;
+    const hasServiceWorkerSupport = 'serviceWorker' in navigator;
+    if (isOffline) {
+        console.log('offline mode');
+    }
+    if (!hasServiceWorkerSupport) {
+        console.log('service worker is not supported');
+    }
+    if (hasServiceWorkerSupport && !isOffline) {
+        window.addEventListener('load', function () {
+            const serviceWorkerPath = '/runtime-service-worker.js?v=3';
+            navigator.serviceWorker
+                .register(serviceWorkerPath, { scope: './' })
+                .then(
+                    function (registration) {
+                        // Registration was successful
+                        console.log(
+                            'ServiceWorker registration successful with scope: ',
+                            registration.scope
+                        );
+                    },
+                    function (err) {
+                        // registration failed :(
+                        console.log('ServiceWorker registration failed: ', err);
+                    }
+                )
+                .catch(function (err) {
+                    console.log(err);
+                });
+        });
+
+        // helper function to refresh the page
+        var refreshPage = (function () {
+            var refreshing;
+            return function () {
+                if (refreshing) return;
+                // prevent multiple refreshes
+                var refreshkey = 'refreshed' + location.href;
+                var prevRefresh = localStorage.getItem(refreshkey);
+                if (prevRefresh) {
+                    localStorage.removeItem(refreshkey);
+                    if (Date.now() - prevRefresh < 30000) {
+                        return; // dont go into a refresh loop
+                    }
+                }
+                refreshing = true;
+                localStorage.setItem(refreshkey, Date.now());
+                console.log('refereshing page');
+                window.location.reload();
+            };
+        })();
+
+        function messageServiceWorker(data) {
+            return new Promise(function (resolve, reject) {
+                if (navigator.serviceWorker.controller) {
+                    var worker = navigator.serviceWorker.controller;
+                    var messageChannel = new MessageChannel();
+                    messageChannel.port1.onmessage = replyHandler;
+                    worker.postMessage(data, [messageChannel.port2]);
+                    function replyHandler(event) {
+                        resolve(event.data);
+                    }
+                } else {
+                    resolve();
+                }
+            });
+        }
+    }
+})(window);
+</script>
+<!-- Add manifest -->
+<!-- End PWA settings -->
+
+
+<meta http-equiv="Content-type" content="text/html;charset=utf-8">
+<meta charset="utf-8">
+
+<link rel="canonical" href="https://www.bergmanforcongress.com/issues">
+
+<meta id="view" name="viewport" content="initial-scale=1, minimum-scale=1, maximum-scale=5, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<title>Issues
+</title>
+
+<!--Add favorites icons-->
+
+<link rel="apple-touch-icon" href="https://irp-cdn.multiscreensite.com/929984f2/dms3rep/multi/bergmanfavicon.png"/>
+
+<link rel="icon" type="image/x-icon" href="https://irp-cdn.multiscreensite.com/929984f2/site_favicon_16_1616455622618.ico"/>
+
+<!-- End favorite icons -->
+<link rel="preconnect" href="https://lirp.cdn-website.com/"/>
+
+
+
+<!-- render the required CSS and JS in the head section -->
+<script>
+    window.SystemID = 'US_DIRECT_PRODUCTION';
+
+    if (!window.dmAPI) {
+        window.dmAPI = {
+            registerExternalRuntimeComponent: function () {
+            },
+            getCurrentDeviceType: function () {
+                return window._currentDevice;
+            },
+            runOnReady: (ns, fn) => {
+                const safeFn = dmAPI.toSafeFn(fn);
+                ns = ns || 'global_' + Math.random().toString(36).slice(2, 11);
+                const eventName = 'afterAjax.' + ns;
+
+                if (document.readyState === 'complete') {
+                    $.DM.events.off(eventName).on(eventName, safeFn);
+                    setTimeout(function () {
+                        safeFn({
+                            isAjax: false,
+                        });
+                    }, 0);
+                } else {
+                    window?.waitForDeferred?.('dmAjax', () => {
+                        $.DM.events.off(eventName).on(eventName, safeFn);
+                        safeFn({
+                            isAjax: false,
+                        });
+                    });
+                }
+            },
+            toSafeFn: (fn) => {
+                if (fn?.safe) {
+                    return fn;
+                }
+                const safeFn = function (...args) {
+                    try {
+                        return fn?.apply(null, args);
+                    } catch (e) {
+                        console.log('function failed ' + e.message);
+                    }
+                };
+                safeFn.safe = true;
+                return safeFn;
+            }
+        };
+    }
+
+    if (!window.requestIdleCallback) {
+        window.requestIdleCallback = function (fn) {
+            setTimeout(fn, 0);
+        }
+    }
+</script>
+
+<!-- loadCSS function header.jsp-->
+
+
+
+
+
+
+<script id="d-js-load-css">
+/**
+ * There are a few <link> tags with CSS resource in them that are preloaded in the page
+ * in each of those there is a "onload" handler which invokes the loadCSS callback
+ * defined here.
+ * We are monitoring 3 main CSS files - the runtime, the global and the page.
+ * When each load we check to see if we can append them all in a batch. If threre
+ * is no page css (which may happen on inner pages) then we do not wait for it
+ */
+(function () {
+  let cssLinks = {};
+  function loadCssLink(link) {
+    link.onload = null;
+    link.rel = "stylesheet";
+    link.type = "text/css";
+  }
+  
+    function checkCss() {
+      const pageCssLink = document.querySelector("[id*='CssLink']");
+      const widgetCssLink = document.querySelector("[id*='widgetCSS']");
+
+        if (cssLinks && cssLinks.runtime && cssLinks.global && (!pageCssLink || cssLinks.page) && (!widgetCssLink || cssLinks.widget)) {
+            const storedRuntimeCssLink = cssLinks.runtime;
+            const storedPageCssLink = cssLinks.page;
+            const storedGlobalCssLink = cssLinks.global;
+            const storedWidgetCssLink = cssLinks.widget;
+
+            storedGlobalCssLink.disabled = true;
+            loadCssLink(storedGlobalCssLink);
+
+            if (storedPageCssLink) {
+                storedPageCssLink.disabled = true;
+                loadCssLink(storedPageCssLink);
+            }
+
+            if(storedWidgetCssLink) {
+                storedWidgetCssLink.disabled = true;
+                loadCssLink(storedWidgetCssLink);
+            }
+
+            storedRuntimeCssLink.disabled = true;
+            loadCssLink(storedRuntimeCssLink);
+
+            requestAnimationFrame(() => {
+                setTimeout(() => {
+                    storedRuntimeCssLink.disabled = false;
+                    storedGlobalCssLink.disabled = false;
+                    if (storedPageCssLink) {
+                      storedPageCssLink.disabled = false;
+                    }
+                    if (storedWidgetCssLink) {
+                      storedWidgetCssLink.disabled = false;
+                    }
+                    // (SUP-4179) Clear the accumulated cssLinks only when we're
+                    // sure that the document has finished loading and the document 
+                    // has been parsed.
+                    if(document.readyState === 'interactive') {
+                      cssLinks = null;
+                    }
+                }, 0);
+            });
+        }
+    }
+  
+
+  function loadCSS(link) {
+    try {
+      var urlParams = new URLSearchParams(window.location.search);
+      var noCSS = !!urlParams.get("nocss");
+      var cssTimeout = urlParams.get("cssTimeout") || 0;
+
+      if (noCSS) {
+        return;
+      }
+      if (link.href && link.href.includes("d-css-runtime")) {
+        cssLinks.runtime = link;
+        checkCss();
+      } else if (link.id === "siteGlobalCss") {
+        cssLinks.global = link;
+        checkCss();
+      } 
+      
+      else if (link.id && link.id.includes("CssLink")) {
+        cssLinks.page = link;
+        checkCss();
+      } else if (link.id && link.id.includes("widgetCSS")) {
+        cssLinks.widget = link;
+        checkCss();
+      }
+      
+      else {
+        requestIdleCallback(function () {
+          window.setTimeout(function () {
+            loadCssLink(link);
+          }, parseInt(cssTimeout, 10));
+        });
+      }
+    } catch (e) {
+      throw e
+    }
+  }
+  window.loadCSS = window.loadCSS || loadCSS;
+})();
+</script>
+
+
+
+<script data-role="deferred-init" type="text/javascript">
+    /* usage: window.getDeferred(<deferred name>).resolve() or window.getDeferred(<deferred name>).promise.then(...)*/
+    function Def() {
+        this.promise = new Promise((function (a, b) {
+            this.resolve = a, this.reject = b
+        }).bind(this))
+    }
+
+    const defs = {};
+    window.getDeferred = function (a) {
+        return null == defs[a] && (defs[a] = new Def), defs[a]
+    }
+    window.waitForDeferred = function (b, a, c) {
+        let d = window?.getDeferred?.(b);
+        d
+            ? d.promise.then(a)
+            : c && ["complete", "interactive"].includes(document.readyState)
+                ? setTimeout(a, 1)
+                : c
+                    ? document.addEventListener("DOMContentLoaded", a)
+                    : console.error(`Deferred  does not exist`);
+    };
+</script>
+<style id="forceCssIncludes">
+    /* This file is auto-generated from a `scss` file with the same name */
+
+.videobgwrapper{overflow:hidden;position:absolute;z-index:0;width:100%;height:100%;top:0;left:0;pointer-events:none;border-radius:inherit}.videobgframe{position:absolute;width:101%;height:100%;top:50%;left:50%;transform:translateY(-50%) translateX(-50%);object-fit:fill}#dm video.videobgframe{margin:0}@media (max-width:767px){.dmRoot .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:80vh}}@media (min-width:1025px){.dmRoot .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:45vh}}@media (min-width:768px) and (max-width:1024px){.responsiveTablet .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:45vh}}#dm [data-show-on-page-only]{display:none!important}#dmRoot div.stickyHeaderFix div.site_content{margin-top:0!important}#dmRoot div.stickyHeaderFix div.hamburger-header-container{position:relative}
+    
+
+</style>
+<style id="cssVariables" type="text/css">
+    
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Google Fonts Include -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- loadCSS function fonts.jsp-->
+
+
+
+<link type="text/css" rel="stylesheet" href="https://irp.cdn-website.com/fonts/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&amp;subset=latin-ext&amp;display=swap"  />
+
+
+
+
+
+<!-- RT CSS Include d-css-runtime-desktop-one-package-structured-global-->
+<link rel="stylesheet" type="text/css" href="https://static.cdn-website.com/mnlt/production/4882/_dm/s/rt/dist/css/d-css-runtime-desktop-one-package-structured-global.min.css" />
+
+<!-- End of RT CSS Include -->
+
+<link type="text/css" rel="stylesheet" href="https://irp.cdn-website.com/WIDGET_CSS/bd639cc0d7be44cc8b7fa798589737d7.css" id="widgetCSS" />
+
+<!-- Support `img` size attributes -->
+<style>img[width][height] {
+    height: auto;
+}</style>
+
+<!-- Support showing sticky element on page only -->
+<style>
+    body[data-page-alias="issues"] #dm [data-show-on-page-only="issues"] {
+        display: block !important;
+    }
+</style>
+
+<!-- This is populated in Ajax navigation -->
+<style id="pageAdditionalWidgetsCss" type="text/css">
+</style>
+
+
+
+
+<!-- Site CSS -->
+<link type="text/css" rel="stylesheet" href="https://irp.cdn-website.com/929984f2/files/929984f2_1.min.css?v=146" id="siteGlobalCss" />
+
+
+
+<style id="customWidgetStyle" type="text/css">
+    
+</style>
+<style id="innerPagesStyle" type="text/css">
+    
+</style>
+
+
+<style
+        id="additionalGlobalCss" type="text/css"
+>
+</style>
+
+<style id="pagestyle" type="text/css">
+    *#dm *.dmBody div.dmforminput textarea
+{
+	font-style:italic !important;
+}
+*#dm *.dmBody div.dmforminput *.fileUploadLink
+{
+	font-style:italic !important;
+}
+*#dm *.dmBody div.checkboxwrapper span
+{
+	font-style:italic !important;
+}
+*#dm *.dmBody div.radiowrapper span
+{
+	font-style:italic !important;
+}
+*#dm *.dmBody div.caption-container *.caption-text *.rteBlock
+{
+	color:rgba(153,153,153,1) !important;
+}
+*#dm *.dmBody div.u_1199295055 hr
+{
+	border-top-width:3px !important;
+	border-top-style:solid !important;
+	color:rgba(206,23,49,1) !important;
+}
+*#dm *.dmBody div.u_1264647786 hr
+{
+	border-top-width:3px !important;
+	border-top-style:solid !important;
+	color:rgba(206,23,49,1) !important;
+}
+*#dm *.dmBody div.u_1477639862
+{
+	background-repeat:no-repeat !important;
+	background-image:url(https://lirp.cdn-website.com/md/unsplash/dms3rep/multi/opt/photo-1600485513918-dc9fe2ebc21d-2880w.jpg) !important;
+	background-size:cover !important;
+}
+*#dm *.dmBody div.u_1264171365 hr
+{
+	border-top-width:3px !important;
+	border-top-style:solid !important;
+	color:rgba(206,23,49,1) !important;
+}
+*#dm *.dmBody div.u_1396050774
+{
+	background-repeat:no-repeat !important;
+	background-image:url(https://lirp.cdn-website.com/md/unsplash/dms3rep/multi/opt/photo-1508945620753-e2344dfbda6b-2880w.jpg) !important;
+	background-size:cover !important;
+}
+*#dm *.dmBody div.u_1769613038 hr
+{
+	border-top-width:3px !important;
+	border-top-style:solid !important;
+	color:rgba(206,23,49,1) !important;
+}
+*#dm *.dmBody div.u_1029346699
+{
+	background-repeat:no-repeat !important;
+	background-image:url(https://lirp.cdn-website.com/md/unsplash/dms3rep/multi/opt/photo-1474995143851-50d1b4226f65-2880w.jpg) !important;
+	background-size:cover !important;
+}
+*#dm *.dmBody div.u_1502572055 hr
+{
+	border-top-width:3px !important;
+	border-top-style:solid !important;
+	color:rgba(206,23,49,1) !important;
+}
+*#dm *.dmBody div.u_1442774705
+{
+	background-repeat:no-repeat !important;
+	background-image:url(https://lirp.cdn-website.com/929984f2/dms3rep/multi/opt/defense-2880w.jpg) !important;
+	background-size:cover !important;
+}
+*#dm *.dmBody div.u_1626717723 hr
+{
+	border-top-width:3px !important;
+	border-top-style:solid !important;
+	color:rgba(206,23,49,1) !important;
+}
+*#dm *.dmBody div.u_1634825759
+{
+	background-repeat:no-repeat !important;
+	background-image:url(https://lirp.cdn-website.com/md/unsplash/dms3rep/multi/opt/photo-1509062522246-3755977927d7-2880w.jpg) !important;
+	background-size:cover !important;
+}
+*#dm *.dmBody div.u_1317586617 hr
+{
+	border-top-width:3px !important;
+	border-top-style:solid !important;
+	color:rgba(206,23,49,1) !important;
+}
+*#dm *.dmBody div.u_1695051957
+{
+	background-repeat:no-repeat !important;
+	background-image:url(https://lirp.cdn-website.com/md/unsplash/dms3rep/multi/opt/photo-1498174979972-c9de7e6a93d6-2880w.jpg) !important;
+	background-size:cover !important;
+}
+*#dm *.dmBody div.u_1754666293 hr
+{
+	border-top-width:3px !important;
+	border-top-style:solid !important;
+	color:rgba(206,23,49,1) !important;
+}
+*#dm *.dmBody div.u_1788090591
+{
+	background-repeat:no-repeat !important;
+	background-image:url(https://lirp.cdn-website.com/md/unsplash/dms3rep/multi/opt/photo-1546869372-ea4688a18235-2880w.jpg) !important;
+	background-size:cover !important;
+}
+*#dm *.dmBody div.u_1415536937 hr
+{
+	border-top-width:3px !important;
+	border-top-style:solid !important;
+	color:rgba(206,23,49,1) !important;
+}
+*#dm *.dmBody div.u_1844141704
+{
+	background-repeat:no-repeat !important;
+	background-image:url(https://lirp.cdn-website.com/md/unsplash/dms3rep/multi/opt/photo-1544829894-eb023ba95a38-2880w.jpg) !important;
+	background-size:cover !important;
+}
+*#dm *.dmBody nav.u_1427477433
+{
+	color:white !important;
+}
+*#dm *.dmBody *.u_1391748924:before
+{
+	opacity:0.5 !important;
+	background-color:rgb(255,255,255) !important;
+}
+*#dm *.dmBody *.u_1391748924.before
+{
+	opacity:0.5 !important;
+	background-color:rgb(255,255,255) !important;
+}
+*#dm *.dmBody *.u_1391748924>*.bgExtraLayerOverlay
+{
+	opacity:0.5 !important;
+	background-color:rgb(255,255,255) !important;
+}
+*#dm *.dmBody div.u_1391748924:before
+{
+	background-color:rgba(0,0,0,1) !important;
+	opacity:0.2 !important;
+}
+*#dm *.dmBody div.u_1391748924.before
+{
+	background-color:rgba(0,0,0,1) !important;
+	opacity:0.2 !important;
+}
+*#dm *.dmBody div.u_1391748924>*.bgExtraLayerOverlay
+{
+	background-color:rgba(0,0,0,1) !important;
+	opacity:0.2 !important;
+}
+*#dm *.dmBody div.u_1391748924
+{
+	background-repeat:no-repeat !important;
+	background-image:url(https://lirp.cdn-website.com/929984f2/dms3rep/multi/opt/bergmanpic6-2880w.JPG) !important;
+}
+*#dm *.dmBody div.u_1932103845
+{
+	background-repeat:no-repeat !important;
+	background-image:url('https://lirp.cdn-website.com/929984f2/dms3rep/multi/opt/Veterans+issue-2880w.jpg') !important;
+	background-size:cover !important;
+}
+
+</style>
+
+<style id="pagestyleDevice" type="text/css">
+    *#dm *.dmBody div.caption-container *.caption-text *.rteBlock
+{
+	font-size:16px !important;
+}
+*#dm *.dmBody div.u_1199295055
+{
+	width:100px !important;
+}
+*#dm *.dmBody div.u_1925384599
+{
+	padding-top:100px !important;
+	padding-left:100px !important;
+	padding-bottom:100px !important;
+	padding-right:100px !important;
+	width:auto !important;
+}
+*#dm *.dmBody div.u_1264647786
+{
+	width:100px !important;
+}
+*#dm *.dmBody div.u_1252820502
+{
+	margin-left:0 !important;
+	padding-top:0 !important;
+	padding-left:30px !important;
+	padding-bottom:0 !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	margin-right:0 !important;
+	padding-right:0 !important;
+}
+*#dm *.dmBody div.u_1498592646
+{
+	margin-left:0 !important;
+	padding-top:0 !important;
+	padding-left:100px !important;
+	padding-bottom:100px !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	margin-right:0 !important;
+	padding-right:100px !important;
+	width:auto !important;
+}
+*#dm *.dmBody div.u_1029048342
+{
+	margin-left:0 !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	margin-right:0 !important;
+	padding-right:30px !important;
+}
+*#dm *.dmBody div.u_1477639862
+{
+	padding-top:0 !important;
+	padding-bottom:0 !important;
+	padding-right:0 !important;
+	padding-left:0 !important;
+}
+*#dm *.dmBody div.u_1932103845
+{
+	padding-top:0 !important;
+	padding-bottom:0 !important;
+	padding-right:0 !important;
+	padding-left:0 !important;
+}
+*#dm *.dmBody div.u_1264171365
+{
+	width:100px !important;
+}
+*#dm *.dmBody div.u_1010050405
+{
+	margin-left:0 !important;
+	padding-top:0 !important;
+	padding-left:30px !important;
+	padding-bottom:0 !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	margin-right:0 !important;
+	padding-right:0 !important;
+}
+*#dm *.dmBody div.u_1396050774
+{
+	padding-top:0 !important;
+	padding-bottom:0 !important;
+	padding-right:0 !important;
+	padding-left:0 !important;
+}
+*#dm *.dmBody div.u_1489952358
+{
+	padding-top:0 !important;
+	padding-left:100px !important;
+	padding-bottom:100px !important;
+	padding-right:100px !important;
+	width:auto !important;
+	margin-left:0 !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	margin-right:0 !important;
+}
+*#dm *.dmBody div.u_1769613038
+{
+	width:100px !important;
+}
+*#dm *.dmBody div.u_1572057824
+{
+	padding-top:0 !important;
+	padding-left:100px !important;
+	padding-bottom:100px !important;
+	padding-right:100px !important;
+	width:auto !important;
+}
+*#dm *.dmBody div.u_1623589334
+{
+	margin-left:0 !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	margin-right:0 !important;
+	padding-right:30px !important;
+}
+*#dm *.dmBody div.u_1029346699
+{
+	padding-top:0 !important;
+	padding-bottom:0 !important;
+	padding-right:0 !important;
+	padding-left:0 !important;
+}
+*#dm *.dmBody div.u_1502572055
+{
+	width:100px !important;
+}
+*#dm *.dmBody div.u_1636555033
+{
+	margin-left:0 !important;
+	padding-top:0 !important;
+	padding-left:30px !important;
+	padding-bottom:0 !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	margin-right:0 !important;
+	padding-right:0 !important;
+}
+*#dm *.dmBody div.u_1442774705
+{
+	padding-top:0 !important;
+	padding-bottom:0 !important;
+	padding-right:0 !important;
+	padding-left:0 !important;
+}
+*#dm *.dmBody div.u_1310101865
+{
+	padding-top:0 !important;
+	padding-left:100px !important;
+	padding-bottom:100px !important;
+	padding-right:100px !important;
+	width:auto !important;
+}
+*#dm *.dmBody div.u_1626717723
+{
+	width:100px !important;
+}
+*#dm *.dmBody div.u_1901013635
+{
+	padding-top:0 !important;
+	padding-left:100px !important;
+	padding-bottom:100px !important;
+	padding-right:100px !important;
+	width:auto !important;
+}
+*#dm *.dmBody div.u_1448664910
+{
+	margin-left:0 !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	margin-right:0 !important;
+	padding-right:30px !important;
+}
+*#dm *.dmBody div.u_1634825759
+{
+	padding-top:0 !important;
+	padding-bottom:0 !important;
+	padding-right:0 !important;
+	padding-left:0 !important;
+}
+*#dm *.dmBody div.u_1317586617
+{
+	width:100px !important;
+}
+*#dm *.dmBody div.u_1725565019
+{
+	margin-left:0 !important;
+	padding-top:0 !important;
+	padding-left:30px !important;
+	padding-bottom:0 !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	margin-right:0 !important;
+	padding-right:0 !important;
+}
+*#dm *.dmBody div.u_1695051957
+{
+	padding-top:0 !important;
+	padding-bottom:0 !important;
+	padding-right:0 !important;
+	padding-left:0 !important;
+}
+*#dm *.dmBody div.u_1048107255
+{
+	padding-top:0 !important;
+	padding-left:100px !important;
+	padding-bottom:100px !important;
+	padding-right:100px !important;
+	width:auto !important;
+}
+*#dm *.dmBody div.u_1754666293
+{
+	width:100px !important;
+}
+*#dm *.dmBody div.u_1278673786
+{
+	padding-top:0 !important;
+	padding-left:100px !important;
+	padding-bottom:100px !important;
+	padding-right:100px !important;
+	width:auto !important;
+}
+*#dm *.dmBody div.u_1999832052
+{
+	margin-left:0 !important;
+	padding-top:0 !important;
+	padding-left:0 !important;
+	padding-bottom:0 !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	margin-right:0 !important;
+	padding-right:30px !important;
+}
+*#dm *.dmBody div.u_1788090591
+{
+	padding-top:0 !important;
+	padding-bottom:0 !important;
+	padding-right:0 !important;
+	padding-left:0 !important;
+	background-position:50% 50% !important;
+}
+*#dm *.dmBody div.u_1415536937
+{
+	width:100px !important;
+}
+*#dm *.dmBody div.u_1208102788
+{
+	margin-left:0 !important;
+	padding-top:0 !important;
+	padding-left:30px !important;
+	padding-bottom:0 !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	margin-right:0 !important;
+	padding-right:0 !important;
+}
+*#dm *.dmBody div.u_1312615705
+{
+	padding-top:0 !important;
+	padding-left:100px !important;
+	padding-bottom:100px !important;
+	padding-right:100px !important;
+	width:auto !important;
+}
+*#dm *.dmBody div.u_1844141704
+{
+	padding-top:0 !important;
+	padding-bottom:0 !important;
+	padding-right:0 !important;
+	padding-left:0 !important;
+	background-position:50% 50% !important;
+}
+*#dm *.dmBody div.u_Infrastructure
+{
+	padding-top:100px !important;
+	padding-left:100px !important;
+	padding-bottom:100px !important;
+	padding-right:100px !important;
+	width:auto !important;
+}
+*#dm *.dmBody div.u_SecondAmendment
+{
+	margin-left:0 !important;
+	padding-top:0 !important;
+	padding-left:100px !important;
+	padding-bottom:100px !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	margin-right:0 !important;
+	padding-right:100px !important;
+	width:auto !important;
+}
+*#dm *.dmBody div.u_BetterJobs
+{
+	padding-top:0 !important;
+	padding-left:100px !important;
+	padding-bottom:100px !important;
+	padding-right:100px !important;
+	width:auto !important;
+	margin-left:0 !important;
+	margin-top:0 !important;
+	margin-bottom:0 !important;
+	margin-right:0 !important;
+}
+*#dm *.dmBody div.u_ProtectingLife
+{
+	padding-top:0 !important;
+	padding-left:100px !important;
+	padding-bottom:100px !important;
+	padding-right:100px !important;
+	width:auto !important;
+}
+*#dm *.dmBody div.u_Defense
+{
+	padding-top:0 !important;
+	padding-left:100px !important;
+	padding-bottom:100px !important;
+	padding-right:100px !important;
+	width:auto !important;
+}
+*#dm *.dmBody div.u_Education
+{
+	padding-top:0 !important;
+	padding-left:100px !important;
+	padding-bottom:100px !important;
+	padding-right:100px !important;
+	width:auto !important;
+}
+*#dm *.dmBody div.u_Immigration
+{
+	padding-top:0 !important;
+	padding-left:100px !important;
+	padding-bottom:100px !important;
+	padding-right:100px !important;
+	width:auto !important;
+}
+*#dm *.dmBody div.u_NaturalResources
+{
+	padding-top:0 !important;
+	padding-left:100px !important;
+	padding-bottom:100px !important;
+	padding-right:100px !important;
+	width:auto !important;
+}
+*#dm *.dmBody div.u_OpioidEpidemic
+{
+	padding-top:0 !important;
+	padding-left:100px !important;
+	padding-bottom:100px !important;
+	padding-right:100px !important;
+	width:auto !important;
+}
+*#dm *.dmBody div.u_pa_3777938
+{
+	padding-top:0 !important;
+	padding-left:100px !important;
+	padding-bottom:100px !important;
+	padding-right:100px !important;
+	width:auto !important;
+}
+*#dm *.dmBody h1.u_1013762302
+{
+	display:block !important;
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:100% !important;
+	position:relative !important;
+	height:auto !important;
+	padding-top:2px !important;
+	padding-left:0 !important;
+	padding-bottom:2px !important;
+	margin-right:auto !important;
+	margin-left:auto !important;
+	max-width:100% !important;
+	margin-top:8px !important;
+	margin-bottom:8px !important;
+	padding-right:0 !important;
+	min-width:0 !important;
+	text-align:center !important;
+}
+*#dm *.dmBody div.u_1391748924
+{
+	padding-top:80px !important;
+	padding-left:40px !important;
+	padding-bottom:80px !important;
+	padding-right:40px !important;
+	float:none !important;
+	top:0 !important;
+	left:0 !important;
+	width:auto !important;
+	position:relative !important;
+	height:auto !important;
+	max-width:100% !important;
+	min-width:0 !important;
+	text-align:center !important;
+	background-attachment:fixed !important;
+	background-size:cover !important;
+	background-position:100% 100% !important;
+	background-repeat:no-repeat !important;
+}
+
+</style>
+
+<!-- Flex Sections CSS -->
+
+
+
+
+
+<style id="globalFontSizeStyle" type="text/css">
+    .font-size-45, .size-45, .size-45 > font { font-size: 45px !important; }.font-size-40, .size-40, .size-40 > font { font-size: 40px !important; }.font-size-18, .size-18, .size-18 > font { font-size: 18px !important; }.font-size-16, .size-16, .size-16 > font { font-size: 16px !important; }.font-size-13, .size-13, .size-13 > font { font-size: 13px !important; }
+</style>
+<style id="pageFontSizeStyle" type="text/css">
+</style>
+
+
+
+
+<style id="hideAnimFix">
+    .dmDesktopBody:not(.editGrid) [data-anim-desktop]:not([data-anim-desktop='none']), .dmDesktopBody:not(.editGrid) [data-anim-extended] {
+        visibility: hidden;
+    }
+
+    .dmDesktopBody:not(.editGrid) .dmNewParagraph[data-anim-desktop]:not([data-anim-desktop='none']), .dmDesktopBody:not(.editGrid) .dmNewParagraph[data-anim-extended] {
+        visibility: hidden !important;
+    }
+</style>
+
+
+
+
+<style id="fontFallbacks">
+    @font-face {
+  font-family: "Roboto Fallback";
+  src: local('Arial');
+  ascent-override: 92.6709%;
+  descent-override: 24.3871%;
+  size-adjust: 100.1106%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Montserrat Fallback";
+  src: local('Arial');
+  ascent-override: 84.9466%;
+  descent-override: 22.0264%;
+  size-adjust: 113.954%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Verdana Fallback";
+  src: local('Arial');
+  ascent-override: 87.306%;
+  descent-override: 18.2329%;
+  size-adjust: 115.1549%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Arial Fallback";
+  src: local('Arial');
+  line-gap-override: 0%;
+ }
+</style>
+
+
+<!-- End render the required css and JS in the head section -->
+
+
+
+
+
+
+
+
+
+  <link type="application/rss+xml" rel="alternate" href="https://www.bergmanforcongress.com//feed/rss2"/>
+  <link type="application/atom+xml" rel="alternate" href="https://www.bergmanforcongress.com//feed/atom"/>
+  <meta property="og:type" content="website"/>
+
+  <meta name="twitter:card" content="summary"/>
+  <meta name="twitter:image" content="https://lirp.cdn-website.com/929984f2/dms3rep/multi/opt/bergmansocialsharing-1920w.png"/>
+  <meta property="og:image" content="https://lirp.cdn-website.com/929984f2/dms3rep/multi/opt/bergmansocialsharing-1920w.png"/>
+
+
+
+
+<!-- SYS- VVNfRElSRUNUX1BST0RVQ1RJT04= -->
+</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body id="dmRoot" data-page-alias="issues"  class="dmRoot dmDesktopBody fix-mobile-scrolling addCanvasBorder dmResellerSite dmLargeBody responsiveTablet "
+      style="padding:0;margin:0;"
+      
+    >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ========= Site Content ========= -->
+<div id="dm" class='dmwr'>
+    
+    <div class="dm_wrapper standard-var5 widgetStyle-3 standard">
+         <div dmwrapped="true" id="1901957768" class="dm-home-page" themewaschanged="true"> <div dmtemplateid="StandardLayoutMultiD" class="standardHeaderLayout dm-bfs dm-layout-sec hasAnimations hasStickyHeader rows-1200 hamburger-reverse dmPageBody d-page-1716942098 dmFreeHeader" id="dm-outer-wrapper" data-page-class="1716942098" data-soch="true" data-background-parallax-selector=".dmHomeSection1, .dmSectionParallex"> <div id="dmStyle_outerContainer" class="dmOuter"> <div id="dmStyle_innerContainer" class="dmInner"> <div class="dmLayoutWrapper standard-var dmStandardDesktop"> <div> <div id="iscrollBody"> <div id="site_content"> <div class="dmHeaderContainer fHeader d-header-wrapper"> <div id="hcontainer" class="u_hcontainer dmHeader p_hfcontainer" freeheader="true" headerlayout="b58ba5b5703b4cd7b5f5f7951565dc87===horizontal-layout-5" layout="78f5c343822e4eb3aac27f4ad5d13812===header" data-scrollable-target="body" data-scrollable-target-threshold="1" data-scroll-responder-id="1" logo-size-target="60%" has-shadow="true"> <div dm:templateorder="85" class="dmHeaderResp dmHeaderStack noSwitch" id="1709005236"> <div class="u_1990959177 dmRespRow dmDefaultListContentRow fullBleedChanged fullBleedMode" style="text-align:center" id="1990959177"> <div class="dmRespColsWrapper" id="1162386554"> <div class="u_1271869758 small-12 dmRespCol large-3 medium-3" id="1271869758"> <div class="u_1495241429 imageWidget align-center" data-widget-type="image" id="1495241429" data-element-type="image"> <a href="/" id="1086913973"><img src="https://lirp.cdn-website.com/929984f2/dms3rep/multi/opt/jb-logo-2022-1920w.png" id="1397987621" class="" data-dm-image-path="https://irp.cdn-website.com/929984f2/dms3rep/multi/jb-logo-2022.png" width="700" height="250" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+</div> 
+ <div class="u_1522429831 dmRespCol small-12 large-7 medium-7" id="1522429831"> <nav class="u_1427477433 effect-bottom main-navigation unifiednav dmLinksMenu" role="navigation" layout-main="horizontal_nav_layout_6" layout-sub="submenu_horizontal_1" data-show-vertical-sub-items="HOVER" id="1427477433" dmle_extension="onelinksmenu" data-element-type="onelinksmenu" wr="true" icon="true" surround="true" adwords="" navigation-id="unifiedNav"> <ul role="menubar" class="unifiednav__container  " data-auto="navigation-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/about-us" class="unifiednav__item  dmUDNavigationItem_010101766027  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         About
+        " data-auto="page-text-style">About<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/issues" class="unifiednav__item  dmNavItemSelected  dmUDNavigationItem_010101972863  " target="" data-target-page-alias="" data-auto="selected-page"> <span class="nav-item-text " data-link-text="
+         Issues
+        " data-auto="page-text-style">Issues<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/#JoinUs" class="unifiednav__item  dmUDNavigationItem_010101753115  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         Join Us
+        " data-auto="page-text-style">Join Us<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/blog" class="unifiednav__item  dmUDNavigationItem_010101330139  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         News
+        " data-auto="page-text-style">News<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="https://secure.winred.com/the-bergman-victory-committee/eoq-2024" class="unifiednav__item  dmUDNavigationItem_010101710733  " target="_blank" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         Contribute
+        " data-auto="page-text-style">Contribute<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="https://bergman-for-congress.myshopify.com" class="unifiednav__item  dmUDNavigationItem_010101951941  " target="_blank" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         Bergman Brigade Store
+        " data-auto="page-text-style">Bergman Brigade Store<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</nav> 
+</div> 
+ <div class="u_1937805975 dmRespCol small-12 large-2 medium-2" id="1937805975"> <div class="u_1454496638 align-center text-align-center dmSocialHub" id="1454496638" dmle_extension="social_hub" data-element-type="social_hub" wr="true" networks="" icon="true" surround="true" adwords=""> <div class="socialHubWrapper"> <div class="socialHubInnerDiv "> <a href="https://www.facebook.com/bergmanforcongress/" target="_blank" dm_dont_rewrite_url="true" aria-label="facebook" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event(&apos;socialLink&apos;, &apos;click&apos;, &apos;Facebook&apos;)"> <span class="dmSocialFacebook dm-social-icons-facebook oneIcon socialHubIcon style5" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+ <a href="https://twitter.com/JackBergman_MI1" target="_blank" dm_dont_rewrite_url="true" aria-label="twitter" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event(&apos;socialLink&apos;, &apos;click&apos;, &apos;Twitter&apos;)"> <span class="dmSocialTwitter dm-social-icons-twitter oneIcon socialHubIcon style5" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+ <a href="https://www.instagram.com/repjackbergman/?hl=en" target="_blank" dm_dont_rewrite_url="true" aria-label="instagram" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event(&apos;socialLink&apos;, &apos;click&apos;, &apos;Instagram&apos;)"> <span class="dmSocialInstagram dm-social-icons-instagram oneIcon socialHubIcon style5" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+ <a href="https://www.youtube.com/channel/UCKrkKLwcZs7bUehe6ub9Vsg" target="_blank" dm_dont_rewrite_url="true" aria-label="youtube" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event(&apos;socialLink&apos;, &apos;click&apos;, &apos;Youtube&apos;)"> <span class="dmSocialYoutube dm-social-icons-youtube oneIcon socialHubIcon style5" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="stickyHeaderSpacer" id="stickyHeaderSpacer" data-new="true"></div> 
+ <div class="dmRespRow dmRespRowStable dmRespRowNoPadding dmPageTitleRow "> <div class="dmRespColsWrapper"> <div class="large-12 dmRespCol"> <div id="innerBar" class="innerBar lineInnerBar dmDisplay_None"> <div class="titleLine display_None"><hr/></div> 
+<!-- Page title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts --> <div id="pageTitleText"> <div class="innerPageTitle">Issues</div> 
+</div> 
+ <div class="titleLine display_None"><hr/></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div dmwrapped="true" id="dmFirstContainer" class="dmBody u_dmStyle_template_issues dm-home-page" themewaschanged="true"> <div id="allWrapper" class="allWrapper"><!-- navigation placeholders --> <div id="dm_content" class="dmContent"> <div dm:templateorder="170" class="dmHomeRespTmpl mainBorder dmRespRowsWrapper dmFullRowRespTmpl" id="1716942098"> <div class="u_1391748924 dmRespRow hasBackgroundOverlay dmSectionNoParallax" style="text-align: center;" id="1391748924"> <div class="dmRespColsWrapper" id="1960405439"> <div class="dmRespCol small-12 medium-12 large-12 u_1983370811" id="1983370811"> <span id="1775821864"></span> 
+ <h1 class="u_1013762302 dmNewParagraph" data-element-type="paragraph" id="1013762302" style="transition: opacity 1s ease-in-out 0s;"><font style="color: rgb(255, 255, 255);" class="m-font-size-36 lh-1 font-size-45">Issues</font></h1></div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_Infrastructure" id="Infrastructure" data-anchor="Infrastructure"> <div class="dmRespColsWrapper" id="1993940521"> <div class="u_1477639862 dmRespCol small-12 large-5 medium-5" id="1477639862"> <div data-element-type="spacer" class="dmSpacer u_1946309041" id="1946309041"></div> 
+</div> 
+ <div class="u_1252820502 dmRespCol small-12 large-7 medium-7" id="1252820502"> <div class="u_1588826816 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1588826816" style="transition: opacity 1s ease-in-out 0s;"> <h1 class="m-size-28 size-40"><span class="m-font-size-28 font-size-40" style="display: initial;">Broadband Infrastructure</span></h1> 
+</div> 
+ <div class="dmDividerWrapper clearfix u_1264647786" data-element-type="dDividerId" data-layout="divider-style-1" data-widget-version="2" id="1264647786"><hr class="dmDivider" style="border-width:2px; border-top-style:solid; color:grey;" id="1975834590"/></div> 
+ <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1001626370" style="transition: opacity 1s ease-in-out 0s;"><p class="m-size-14 size-18" style="line-height: initial;"><span class="font-size-18 m-font-size-14" style="display: initial; font-weight: bold; font-style: italic;">Rural Broadband Connectivity, Now!</span></p><p style="line-height: initial;"><span class="m-font-size-13 font-size-16" style="display:initial;font-family:Roboto, 'Roboto Fallback';"><br/></span><span style="display: initial;">Our families and businesses need reliable, fast, affordable internet &ndash; that&rsquo;s why Congressman Jack Bergman is achieving and fighting for more connectivity than ever before.</span></p><p style="line-height: initial;"><span style="display: initial;">&nbsp;</span></p><p style="line-height: initial;"><span style="display: initial;">Whether you need to schedule a telehealth appointment with your primary care provider, attend an online class, join a zoom conference, shop online for a big birthday, or start an online career - broadband access is more important than ever, especially in rural and remote communities which have been sidelined for too long.</span></p><p style="line-height: initial;"><span style="display: initial;">&nbsp;</span></p><p style="line-height: initial;"><span style="display: initial;">As a member of the Bipartisan House Rural Broadband Caucus and having started a Rural Connectivity Advisory Committee in Michigan&rsquo;s First Congressional District, Jack Bergman has been supporting key programs to bring high speed broadband to your Michigan home and business as well as to improve telehealth access across our Nation.&nbsp;</span></p><p style="line-height: initial;"><span style="display: initial;"><br/></span></p><p class="m-size-14 size-18" style="line-height: initial;"><span class="font-size-18 m-font-size-14" style="display: initial; font-weight: bold; font-style: italic;">Results:</span></p><p style="line-height: initial;"><span style="display: initial;"><br/></span></p><p style="line-height: initial;"><span class="" style="display: initial;"><span style="display: initial;">Congressman Bergman has voted to provide billions of dollars for broadband infrastructure reserved for rural and remote areas in Michigan&rsquo;s First Congressional District.</span> 
+</span></p><p style="line-height: initial;"><span style="display: initial;"><br/></span></p><p style="line-height: initial;"><span class="" style="display: initial;"><span style="display: initial;">For Fiscal Year 2021 alone, Congressman Bergman got more than</span> 
+</span><span style="display: initial; font-weight: bold;">$2 billion</span><span class="" style="display: initial;"> <span style="display: initial;">in broadband funds signed into law through programs such as the NTIA Broadband Infrastructure Deployment Grant Program and Tribal Broadband Connectivity Program. Congressman Bergman is advocating for local applicants seeking funds through these programs. He has helped achieve key local investments through these programs such as through the Distance Learning and Telemedicine Grants (</span></span><span style="display: initial; font-weight: bold;">$2.5 million +</span><span class="" style="display: initial;"> <span style="display: initial;">for MI-1) and the USDA ReConnect Broadband Grant/Loan Program (</span></span><span style="display: initial; font-weight: bold;">$3.5 million +</span><span class="" style="display: initial;"> <span style="display: initial;">for MI-1), a program that he voted to establish.&nbsp;</span></span></p><p style="line-height: initial;"><span style="display: initial;"><br/></span></p><p style="line-height: initial;"><span class="" style="display: initial;"><span style="display: initial;">In 2020, with COVID-19 suddenly increasing the necessity of broadband, Rep. Bergman voted for nearly</span> 
+</span><span style="display: initial; font-weight: bold;">$3.5 billion</span><span class="" style="display: initial;"> <span style="display: initial;">in emergency broadband funding for telehealth, mapping, and keeping families connected.&nbsp;</span></span></p><p style="line-height: initial;"><span style="display: initial;">&nbsp;</span></p><p style="line-height: initial;"><span class="" style="display: initial;"><span style="display: initial;">Congressman Bergman has also been closely involved in more largescale broadband infrastructure programs operated by the Federal Communications Commission (FCC), including the new Rural Digital Opportunity Fund (RDOF). The Rural Digital Opportunity Fund Phase I Auction results in 2021 yielded more than</span> 
+</span><span style="display: initial; font-weight: bold;">$200 million</span><span class="" style="display: initial;"> <span style="display: initial;">to build new broadband infrastructure to over 84,000 locations in MI-1. Jack Bergman, working with local providers receiving funding, has pressured the FCC to ensure these funds are implemented swiftly and efficiently.</span></span></p><p style="line-height: initial;"><span style="display: initial;">&nbsp;</span></p><p style="line-height: initial;"><span style="display: initial; font-weight: bold; font-style: italic;">Innovative Solutions</span></p><p style="line-height: initial;"><span style="display: initial;">&nbsp;</span></p><p style="line-height: initial;"><span style="display: initial;">Congressman Bergman is leading legislative proposals to bridge the digital divide.</span></p><p style="line-height: initial;"><span style="display: initial;">&nbsp;</span></p><p style="line-height: initial;"><span style="display: initial;">He has introduced bills such as:</span></p><p style="line-height: initial;"><span style="display: initial;"><br/></span></p><p style="line-height: initial;"><span class="" style="font-style: italic; display: initial;"><span style="font-style: italic; display: initial;">H.R.4905 - the Big Tech Accountability for Broadband Act,</span> 
+</span><span style="display: initial;">which would force Big Tech companies to pay into key rural broadband programs that they benefit from. The programs targeted in this bill are currently by fees on your phone bill, a hidden tax on seniors and working families!</span></p><p style="line-height: initial;"><span style="display: initial;">&nbsp;</span></p><p style="line-height: initial;"><span style="font-style: italic; display: initial;">H.R.1610 - the Rural Broadband Window of Opportunity Act</span><span class="" style="display: initial;"> <span style="display: initial;">is another bill introduced by Jack Bergman, which would require the FCC to expedite and approve broadband funding application that would serve areas with shorter building seasons, such as areas prone to large snowfall. Anybody who has ever built anything in MI-1 knows that even a small delay before a long winter can be costly.</span></span></p><p style="line-height: initial;"><span style="display: initial;"><br/></span></p><p style="line-height: initial;"><span style="display: initial;">H</span><span class="" style="display: initial; font-style: italic;"><span style="display: initial; font-style: italic;">.R.1362 - the BOOST Act.</span> 
+</span><span style="display: initial;">This bill would offer a tax credit up to $400 for certain taxpayers to buy a broadband communications signal booster.<br/></span></p></div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_SecondAmendment mobile-columns-reversed" id="SecondAmendment" data-anchor="Second Amendment"> <div class="dmRespColsWrapper" id="1314234378"> <div class="u_1029048342 dmRespCol small-12 large-7 medium-7" id="1029048342"> <div class="u_1460162853 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1460162853" style="transition: opacity 1s ease-in-out 0s;"> <h1 class="m-size-28 size-40"><span class="m-font-size-28 font-size-40" style="display: initial;"><span class="m-font-size-28 font-size-40" style="display: initial;">Veterans' Champion</span> 
+</span></h1> 
+</div> 
+ <div class="dmDividerWrapper clearfix u_1199295055" data-element-type="dDividerId" data-layout="divider-style-1" data-widget-version="2" id="1199295055"><hr class="dmDivider" style="border-width:2px; border-top-style:solid; color:grey;" id="1469202584"/></div> 
+ <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1763070775" style="transition: opacity 1s ease-in-out 0s;"><p><span style="font-weight: bold; display: initial;">Veterans&rsquo; Champion in Congress</span></p><p><span style="display: initial;"><br/></span></p><p><span style="display: initial;">40 years in the Marine Corps and now in his capacity as a leader in the House Veterans Affairs Committee (HVAC), Congressman Bergman has committed his career in Congress to those who served and sacrificed to defend our Nation and our freedoms. He has built his record on tackling the hard issues from toxic exposure and mental health to care in the community and appeals reform.&nbsp;</span></p><p><span style="display: initial;">&nbsp;</span></p><p><span style="display: initial;">Representing you on HVAC, Congressman Bergman has assumed leadership roles on the Oversight and Investigations Subcommittee and now as the Ranking Member of the Health Subcommittee. In these positions, Congressman Bergman is a fierce watchdog against waste, fraud and abuse &ndash; keeping VA&rsquo;s eye focused on the Veteran as an individual with unique needs.</span></p><p><span style="display: initial;"><br/></span></p><p><span style="display: initial;">He uses his position on the Committee to get results for Veterans, including passing new laws to streamline education benefits and save money for servicemembers in boot camp (Public Law 116-315) as well as support and defend the integrity of veteran-owned small businesses (Public Law 116-183). Last Congress, Congressman Bergman spearheaded the national debate on Veterans&rsquo; suicide by achieving passage of his bill, the IMPROVE Wellbeing for Veterans Act (Public Law 116-17), a new VA community grant program to connect Veterans in and outside of the VA system with supportive services.</span></p><p style="line-height: 1.38;"><span class="m-font-size-16" m-font-size-set="true" style="display: initial;"><br/></span></p><p><span style="display: initial;">Right now, Congressman Bergman is working on critical new legislation to support Veterans&rsquo; Caregivers</span><span class="" style="display: initial; font-style: italic;"> <span style="display: initial; font-style: italic;">(H.R.4625 - VA Caregiver Transparency Act),</span> 
+</span><span class="" style="display: initial;"><span style="display: initial;">conduct an independent assessment to audit VA&rsquo;s health services</span> 
+</span><span style="display: initial; font-style: italic;">(H.R.4626 - VA AIM Act)</span><span class="" style="display: initial;"><span style="display: initial;">, and to close various gaps in Veterans care</span> 
+</span><span style="display: initial; font-style: italic;">(H.R.4624 - Guaranteeing Healthcare Access to Personnel Who Served (GHAPS) Act)</span><span style="display: initial;">. Specifically, the GHAPS Act would allow Veterans to self-schedule appointments in the community, improve VA telehealth, protect access to community care, and ensure access to evidence-based care for Veterans with treatment-resistant depression.&nbsp;</span></p><p><span style="display: initial;"><br/></span></p><p><span style="display: initial;">Additional actions and achievements in Veterans policy for Congressman Bergman include:</span></p><p style="line-height: 1.38;"><span class="m-font-size-16" m-font-size-set="true" style="display: initial;"><br/></span></p><p><span class="" style="display: initial;"><span style="display: initial;">Co-introducing comprehensive legislation to care for and provide benefits to all Veterans with toxic exposure</span> 
+</span><span style="display: initial; font-style: italic;">(H.R.2127 - TEAM Act).</span></p><p><span style="display: initial;"><br/></span></p><p><span style="display: initial;">Lead the charge against the Biden VA&rsquo;s attempts to pay for elective transgender surgeries with tax-payer dollars through letters and amendments.</span></p><p><span style="display: initial;"><br/></span></p><p><span style="display: initial;">Co-lead of the bipartisan Congressional Military Transition Assistance Pathway (MTAP) Caucus.</span></p><p><span style="display: initial;"><br/></span></p><p><span class="" style="display: initial;"><span style="display: initial;">Passed legislation in the House to designate the Gaylord VA facility in the name of Navy Corspman Steve Andrews</span> 
+</span><span style="display: initial; font-style: italic;">(H.R.1281).</span></p></div> 
+</div> 
+ <div class="u_1932103845 dmRespCol small-12 large-5 medium-5" id="1932103845"> <div data-element-type="spacer" class="dmSpacer u_1228515520" id="1228515520"></div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_BetterJobs" id="BetterJobs" data-anchor="Better Jobs"> <div class="dmRespColsWrapper" id="1346372163"> <div class="u_1396050774 dmRespCol small-12 large-5 medium-5" id="1396050774"> <div data-element-type="spacer" class="dmSpacer u_1184107744" id="1184107744"></div> 
+</div> 
+ <div class="u_1010050405 dmRespCol small-12 large-7 medium-7" id="1010050405"> <div class="u_1880114033 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1880114033" style="transition: opacity 1s ease-in-out 0s;"> <h1 class="m-size-28 size-40"><span class="m-font-size-28 font-size-40" style="display: initial;">Protecting Michigan's Agriculture</span></h1> 
+</div> 
+ <div class="dmDividerWrapper clearfix u_1264171365" data-element-type="dDividerId" data-layout="divider-style-1" data-widget-version="2" id="1264171365"><hr class="dmDivider" style="border-width:2px; border-top-style:solid; color:grey;" id="1663452790"/></div> 
+ <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1801312465" style="transition: opacity 1s ease-in-out 0s;"><p style="line-height: 1.38;"><span style="font-weight: 700; display: initial; font-style: italic;">Support for the American Producer</span></p><p style="line-height: 1.38;"><span style="display: initial;"><br/></span></p><p style="line-height: 1.38;"><span style="display: initial;">From the farmers, ranchers, and growers to the canners, marketers, and so on, Michigan&rsquo;s First Congressional District is home to a vibrant agricultural community as well as our Nation&rsquo;s smartest and hardest working producers. In order to unleash their full potential, Congressman Bergman believes the federal government should always stand as an ally &ndash; and never impose burdensome anti-growth regulations on the men and women who feed America.&nbsp;</span></p><p style="line-height: 1.38;"><span style="display: initial;"><br/></span></p><p style="line-height: 1.38;"><span style="font-weight: 700; display: initial; font-style: italic;">Overcoming Challenges and Creating Opportunities</span></p><p style="line-height: 1.38;"><span style="display: initial;"><br/></span></p><p style="line-height: 1.38;"><span class="" style="display: initial;"><span style="display: initial;">Congressman Bergman has been a fierce advocate for pro-agriculture policies, tirelessly having urged swift passage &ndash; through speeches, letters, and an Op-Ed in the Detroit News &ndash;&nbsp; of the United States - Mexico - Canada Trade Agreement (USMCA). With his help, the</span> 
+</span><span class="" style="display: initial; font-weight: bold;"><span style="display: initial; font-weight: bold;">USMCA</span> 
+</span><span style="display: initial;">is now the law of the land, casting aside the historical unfair playing field for our farmers to ensure they can compete on an international level. With Michigan exporting billions of dollars worth of goods to Canada and Mexico each year, our state&rsquo;s agriculture industry &ndash; such as our dairy farmers who previously struggled to access Canadian markets &ndash; have the groundwork to thrive.</span></p><p style="line-height: 1.38;"><span style="display: initial;"><br/></span></p><p style="line-height: 1.38;"><span class="" style="display: initial;"><span style="display: initial;">Here in the Nation&rsquo;s Cherry Capital, Congressman Bergman has led the continued battle against unfair trade practices, having worked with federal agencies and local industry stakeholders. For example, he led the Michigan congressional delegation in the fight against Turkey&rsquo;s anti-competitive practice of dumping cheap, government subsidized product into our markets. To further support Michigan&rsquo;s First District tart cherry industry, Congressman Bergman helped secure more than $60 million in surplus product purchases from USDA and advocated for cherry-specific pest research.</span> 
+</span></p><p style="line-height: 1.38;"><span style="display: initial;"><br/></span></p><p style="line-height: 1.38;"><span style="display: initial;">Congressman Bergman helped pass the critical H.R. 4996 - the Ocean Shipping Reform Act.</span></p><p style="line-height: 1.38;"><span style="display: initial;"><br/></span></p><p style="line-height: 1.38;"><span class="" style="display: initial;"><span style="display: initial;">Congressman Bergman also helped establish the</span> 
+</span><span style="display: initial; font-weight: bold;">Coronavirus Food Assistance Program (CFAP)</span><span class="" style="display: initial;"> <span style="display: initial;">and achieved inclusion for cherry and apple growers in this farm-saving $16 billion direct payment program.</span></span></p><p style="line-height: 1.38;"><span style="display: initial;"><br/></span></p><p style="line-height: 1.38;"><span style="display: initial;">Additionally, Congressman Bergman is proud to fight for apple, dairy, potato, sugar, and the entire spectrum of products from Northern Michigan and the Upper Peninsula. Each sector and profession throughout our agricultural industry has unique needs, but one prevalent issue is guest labor. The H-2A program has proven to be costly and difficult to use for many employers, which is why Rep. Bergman is supporting legislation to tame skyrocketing wage rates through cosponsorship of H.R.5887 - Keep Food Local and Affordable Act of 2021.&nbsp;</span></p><p style="line-height: 1.38;"><span style="display: initial;"><br/></span></p><p style="line-height: 1.38;"><span style="font-weight: 700; display: initial; font-style: italic;">Plowing Ahead</span></p><p style="line-height: 1.38;"><span style="display: initial;">Congressman Bergman is able to run on a solid pro-producer, pro-agriculture, and pro-growth platform due to the incredible support and education he has received and continues to seek from Michigan&rsquo;s First agricultural community. There is much work left to accomplish - including passing a new Farm Bill.<br/></span></p></div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_ProtectingLife mobile-columns-reversed" id="ProtectingLife" data-anchor="Protecting Life"> <div class="dmRespColsWrapper" id="1530856020"> <div class="u_1623589334 dmRespCol small-12 large-7 medium-7" id="1623589334"> <div class="u_1884577605 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1884577605" style="transition: opacity 1s ease-in-out 0s;"> <h1 class="m-size-28 size-40"><span class="font-size-40 m-font-size-28" style="display: initial;">Protecting Life - From Birth to Natural Death</span></h1> 
+</div> 
+ <div class="dmDividerWrapper clearfix u_1769613038" data-element-type="dDividerId" data-layout="divider-style-1" data-widget-version="2" id="1769613038"><hr class="dmDivider" style="border-width:2px; border-top-style:solid; color:grey;" id="1097886133"/></div> 
+ <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1806491484" style="transition: opacity 1s ease-in-out 0s;"><p class="size-16 m-size-16"><span class="font-size-16 m-font-size-16" style="display:initial;font-family:Roboto, 'Roboto Fallback';" m-font-size-set="true">The first inalienable right described in the Declaration of Independence is the right to life, and the job of Congress is to protect our rights - not take them away. That includes the lives of those yet born.</span></p><p><br/></p><p class="size-16 m-size-16"><span class="font-size-16 m-font-size-16" style="display:initial;font-family:Roboto, 'Roboto Fallback';" m-font-size-set="true">Rather than treating pregnancy or children as a problem, we should work together to create a society that welcomes them into our communities with loving and open arms. We must remember that every person is a unique child of God, full of potential. As a member of Congress, Congressman Bergman has worked to protect the unborn and move the pro-life message forward.</span></p><p><span style="display: initial;" class="m-font-size-16" m-font-size-set="true"><br/></span></p><p class="size-16 m-size-16"><span class="font-size-16 m-font-size-16" style="display:initial;font-family:Roboto, 'Roboto Fallback';"><span class="font-size-16 m-font-size-16" style="display:initial;font-family:Roboto, 'Roboto Fallback';" m-font-size-set="true">Congressman Bergman is a Member of the Congressional Pro Life Caucus, and has cosponsored the</span> 
+</span><span class="font-size-16 m-font-size-16" style="display:initial;font-family:Roboto, 'Roboto Fallback';font-style:italic;" m-font-size-set="true">No Taxpayer Funding for Abortion Act (H.R. 18)</span><span class="font-size-16 m-font-size-16" style="display:initial;font-family:Roboto, 'Roboto Fallback';"><span class="font-size-16 m-font-size-16" style="display:initial;font-family:Roboto, 'Roboto Fallback';" m-font-size-set="true">. This legislation prohibits the use of federal funds for abortions or for health coverage that includes abortions.</span> 
+</span></p><p><span style="display: initial;" class="m-font-size-16" m-font-size-set="true"><br/></span></p><p class="size-16 m-size-16"><span class="font-size-16 m-font-size-16" style="display:initial;font-family:Roboto, 'Roboto Fallback';"><span class="font-size-16 m-font-size-16" style="display:initial;font-family:Roboto, 'Roboto Fallback';" m-font-size-set="true">Since coming to Congress, Congressman Bergman has also supported the</span> 
+</span><span class="font-size-16 m-font-size-16" style="display:initial;font-family:Roboto, 'Roboto Fallback';font-style:italic;" m-font-size-set="true">Pain Capable Unborn Child Protection Act (H.R.1080)</span><span class="font-size-16 m-font-size-16" style="display:initial;font-family:Roboto, 'Roboto Fallback';"> <span class="font-size-16 m-font-size-16" style="display:initial;font-family:Roboto, 'Roboto Fallback';" m-font-size-set="true">which bans abortions after the 20</span></span><sup class="font-size-16 m-font-size-16" style="display:initial;font-family:Roboto, 'Roboto Fallback';" m-font-size-set="true">th</sup><span class="font-size-16 m-font-size-16" style="display:initial;font-family:Roboto, 'Roboto Fallback';"> <span class="font-size-16 m-font-size-16" style="display:initial;font-family:Roboto, 'Roboto Fallback';" m-font-size-set="true">week of pregnancy. This legislation is widely supported throughout the First District and across the country.</span></span></p><p><span style="display: initial;" class="m-font-size-16" m-font-size-set="true"><br/></span></p><p class="size-16 m-size-16"><span class="font-size-16 m-font-size-16" style="display:initial;font-family:Roboto, 'Roboto Fallback';" m-font-size-set="true">Congressman Bergman has supported other important pro-life legislation, such as:</span></p><p><span style="display: initial;" class="m-font-size-16" m-font-size-set="true"><br/></span></p><p class="size-16 m-size-16"><span class="font-size-16 m-font-size-16" style="display:initial;font-family:Roboto, 'Roboto Fallback';font-style:italic;" m-font-size-set="true">-&nbsp; &nbsp; &nbsp; &nbsp;The Born Alive Abortion Survivors Protection Act:</span><span class="font-size-16 m-font-size-16" style="display:initial;font-family:Roboto, 'Roboto Fallback';"> <span class="font-size-16 m-font-size-16" style="display:initial;font-family:Roboto, 'Roboto Fallback';" m-font-size-set="true">this legislation would protect a child born alive after surviving an abortion and require healthcare practitioners present to exercise the same care to preserve the life and health of the child as a non-aborted child who was premature.<br/></span></span></p><p><span class="font-size-16 m-font-size-16" style="display:initial;font-family:Roboto, 'Roboto Fallback';"><span class="font-size-16 m-font-size-16" style="display:initial;font-family:Roboto, 'Roboto Fallback';" m-font-size-set="true">&nbsp; &nbsp; &nbsp;</span> 
+</span></p><p class="size-16 m-size-16"><span class="font-size-16 m-font-size-16" style="display:initial;font-family:Roboto, 'Roboto Fallback';" m-font-size-set="true">-&nbsp; &nbsp; &nbsp; &nbsp;</span><span class="font-size-16 m-font-size-16" style="display:initial;font-family:Roboto, 'Roboto Fallback';font-style:italic;"><span class="font-size-16 m-font-size-16" style="display:initial;font-family:Roboto, 'Roboto Fallback';font-style:italic;" m-font-size-set="true">The Conscious Protection Act:</span> 
+</span><span class="font-size-16 m-font-size-16" style="display:initial;font-family:Roboto, 'Roboto Fallback';" m-font-size-set="true">this legislation would prohibit the federal government and state and local governments that receive federal financial assistance for health-related activities penalizing or discriminating against a health care provider based on the provider's refusal to be involved in, or provide coverage for, abortion.</span></p><p><span style="display: initial;" class="m-font-size-16" m-font-size-set="true"><br/></span></p><p style="line-height: 1.38;" class="m-size-16"><span style="display: initial;" class="m-font-size-16" m-font-size-set="true">- H.R. 243, the Title X Abortion Provider Prohibition Act of 2021.</span></p><p style="line-height: 1.38;"><span style="display: initial;" class="m-font-size-16" m-font-size-set="true"><br/></span></p><p style="line-height: 1.38;" class="m-size-16"><span style="display: initial;" class="m-font-size-16" m-font-size-set="true">- H.R. 28, the Protecting Life in Crisis Act of 2021.</span><span style="display: initial;"><br/></span></p></div> 
+</div> 
+ <div class="u_1029346699 dmRespCol small-12 large-5 medium-5" id="1029346699"> <div data-element-type="spacer" class="dmSpacer u_1929894343" id="1929894343"></div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_Defense" id="Defense" data-anchor="Defense"> <div class="dmRespColsWrapper" id="1899129215"> <div class="u_1442774705 dmRespCol small-12 large-5 medium-5" id="1442774705"> <div data-element-type="spacer" class="dmSpacer u_1094020240" id="1094020240"></div> 
+</div> 
+ <div class="u_1636555033 dmRespCol small-12 large-7 medium-7" id="1636555033"> <div class="u_1282251053 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1282251053" style="transition: opacity 1s ease-in-out 0s;"> <h1 class="m-size-28 size-40"><span class="m-font-size-28 font-size-40" style="display: initial;">National Security<span class="ql-cursor">﻿</span></span></h1> 
+</div> 
+ <div class="dmDividerWrapper clearfix u_1502572055" data-element-type="dDividerId" data-layout="divider-style-1" data-widget-version="2" id="1502572055"><hr class="dmDivider" style="border-width:2px; border-top-style:solid; color:grey;" id="1229015122"/></div> 
+ <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1886854797" style="transition: opacity 1s ease-in-out 0s;"><p style="line-height: 1.66em;"><span class="" style="font-weight: 300; display: initial;"><span style="font-weight: 300; display: initial;">As someone who was personally involved in the fight to defend our country from terrorism, Congressman Bergman knows what the military needs to defeat our enemies. He has seen the horrors of war and understands that, under the Constitution, the most important vote a member of Congress can make is whether or not to send our troops into battle.</span> 
+</span></p><p style="line-height: 1.66em;"><span style="display: initial;"><br/></span></p><p style="line-height: 1.66em;"><span style="font-weight: 300; display: initial;">He is fully committed to only support the use of troops when it is absolutely necessary. When the threat requires the deployment of our military, Congressman Bergman will ensure that our troops are trained and equipped to win decisively and return home to their families.</span></p></div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_Education mobile-columns-reversed" id="Education" data-anchor="Education"> <div class="dmRespColsWrapper" id="1509948696"> <div class="u_1448664910 dmRespCol small-12 large-7 medium-7" id="1448664910"> <div class="u_1724437732 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1724437732" style="transition: opacity 1s ease-in-out 0s;"> <h1 class="m-size-28 size-40"><span class="m-font-size-28 font-size-40" style="display: initial;">Education</span></h1> 
+</div> 
+ <div class="dmDividerWrapper clearfix u_1626717723" data-element-type="dDividerId" data-layout="divider-style-1" data-widget-version="2" id="1626717723"><hr class="dmDivider" style="border-width:2px; border-top-style:solid; color:grey;" id="1557096320"/></div> 
+ <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1278766333" style="transition: opacity 1s ease-in-out 0s;"><p style="line-height: 1.66em;"><span style="font-weight: 300; display: initial;">Thomas Jefferson once said, &ldquo;An educated citizenry is a vital requisite for our survival as a free people.&rdquo; He was right! The government monopoly on education for a large portion of Americans is a tragedy and should be viewed as the modern civil rights issue of our time. We need to offer education reform that supports more choice in education, from public schooling to home schooling. Everyone in the United States deserves a great education.</span></p></div> 
+</div> 
+ <div class="u_1634825759 dmRespCol small-12 large-5 medium-5" id="1634825759"> <div data-element-type="spacer" class="dmSpacer u_1355584518" id="1355584518"></div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_Immigration" id="Immigration" data-anchor="Immigration"> <div class="dmRespColsWrapper" id="1698405088"> <div class="u_1695051957 dmRespCol small-12 large-5 medium-5" id="1695051957"> <div data-element-type="spacer" class="dmSpacer u_1105195601" id="1105195601"></div> 
+</div> 
+ <div class="u_1725565019 dmRespCol small-12 large-7 medium-7" id="1725565019"> <div class="u_1008424995 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1008424995" style="transition: opacity 1s ease-in-out 0s;"> <h1 class="m-size-28 size-40"><span class="m-font-size-28 font-size-40" style="display: initial;">Immigration</span></h1> 
+</div> 
+ <div class="dmDividerWrapper clearfix u_1317586617" data-element-type="dDividerId" data-layout="divider-style-1" data-widget-version="2" id="1317586617"><hr class="dmDivider" style="border-width:2px; border-top-style:solid; color:grey;" id="1190919445"/></div> 
+ <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1882888552" style="transition: opacity 1s ease-in-out 0s;"><p><span style="display: initial; font-weight: bold;">Border security is National Security.</span></p><p><span style="display: initial;"><br/></span></p><p><span style="display: initial;">We are a welcoming Nation, but we are a Nation of rule of law. While we must continue being generous, we should never allow it for people who intend to do us harm or who violate our immigration laws.</span></p><p><br/></p><p><span class="" style="display: initial;"><span style="display: initial;">It's past time to secure our Southern Border.</span> 
+</span></p><p><br/></p><p><span style="display: initial;">Congressman Bergman has supported important policies to secure our border and put our Country first.</span></p><p><span style="display: initial;"><br/></span></p><p><span style="display: initial;">He cosponsored legislation to address the current crisis and some of its root causes, such as&nbsp;</span><a href="https://www.congress.gov/bill/117th-congress/house-bill/88?q=%7B%22search%22%3A%5B%22%5C%22southern+border%5C%22%22%5D%7D&r=2&s=1" target="_blank" runtime_url="https://www.congress.gov/bill/117th-congress/house-bill/88?q=%7B%22search%22%3A%5B%22%5C%22southern+border%5C%22%22%5D%7D&r=2&s=1" style="display: initial;">H.R.88 - the BUILD WALL Act of 2021</a><span style="display: initial;">, which would use assets seized from Mexican cartels to build further border security infrastructure.</span></p><p><span style="display: initial;"><br/></span></p><p><span class="" style="display: initial;"><span style="display: initial;">He sponsored</span> 
+</span><a href="https://www.congress.gov/bill/117th-congress/house-bill/894?q=%7B%22search%22%3A%5B%22sanctuary+cities%22%5D%7D&r=1&s=1" target="_blank" runtime_url="https://www.congress.gov/bill/117th-congress/house-bill/894?q=%7B%22search%22%3A%5B%22sanctuary+cities%22%5D%7D&r=1&s=1" style="display: initial;">H.R. 894 &ndash; No Tax Breaks for Sanctuary Cities Act</a><span style="display: initial;">&nbsp;to revoke the tax exemption for bonds issued by jurisdictions which refuse to comply with immigration enforcement.</span></p><p><span style="display: initial;"><br/></span></p><p><span style="display: initial;">Congressman Bergman cosponsored&nbsp;</span><a href="https://www.congress.gov/bill/117th-congress/house-bill/1901?q=%7B%22search%22%3A%22immigration+loopholes%22%7D" target="_blank" runtime_url="https://www.congress.gov/bill/117th-congress/house-bill/1901?q=%7B%22search%22%3A%22immigration+loopholes%22%7D" style="display: initial;">H.R.1901 &ndash; Fix Immigration Loopholes Act</a><span style="display: initial;">, which would both disincentivize illegal immigration by increasing the integrity of our Nation&rsquo;s asylum process and also protect children from becoming human trafficking victims by ensuring they are processed efficiently to be quickly and safely returned home and only released to a parent or legal guardian.</span></p><p><br/></p><p style="line-height: 1.66em;"><span style="display: initial;">In 2019, Rep. Bergman&nbsp;</span><a href="https://bergman.house.gov/news/documentsingle.aspx?DocumentID=501" target="_blank" runtime_url="https://bergman.house.gov/news/documentsingle.aspx?DocumentID=501" style="display: initial;">supported an additional $1.9 billion</a><span style="display: initial;">&nbsp;for border wall and security funding.</span></p></div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_NaturalResources mobile-columns-reversed" id="NaturalResources" data-anchor="Natural Resources"> <div class="dmRespColsWrapper" id="1839532939"> <div class="u_1999832052 dmRespCol small-12 large-7 medium-7" id="1999832052"> <div class="u_1456619294 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1456619294" style="transition: opacity 1s ease-in-out 0s;"> <h1 class="m-size-28 size-40"><span class="font-size-40 m-font-size-28" style="display: initial;">Protecting Our Natural Resources</span></h1> 
+</div> 
+ <div class="dmDividerWrapper clearfix u_1754666293" data-element-type="dDividerId" data-layout="divider-style-1" data-widget-version="2" id="1754666293"><hr class="dmDivider" style="border-width:2px; border-top-style:solid; color:grey;" id="1432857553"/></div> 
+ <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1571139819" style="transition: opacity 1s ease-in-out 0s;"><p style="line-height: 1.66em;"><span style="display: initial; font-weight: 300;">We live where we do for a reason. This land that we call home is the most beautiful place in all of our nation, and we cannot allow our Natural Resources to be damaged. That is why I have successfully led the fight to ensure that all Great Lakes funding remain in place since taking office. I have fought to ensure a plan is in place to stop Asian carp from entering our Great lakes, and have introduced legislation to effectively control the Cormorants that are devastating our fish population. Through the Great Lakes Restoration Initiative, I helped secure the largest investment in the Great Lakes in over two decades &mdash; ensuring we protect our most important resource for generations to come.</span><span style="display: initial;"><span class="ql-cursor">﻿</span></span></p></div> 
+</div> 
+ <div class="u_1788090591 dmRespCol small-12 large-5 medium-5" id="1788090591"> <div data-element-type="spacer" class="dmSpacer u_1317814068" id="1317814068"></div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_OpioidEpidemic" id="OpioidEpidemic" data-anchor="Opioid Epidemic"> <div class="dmRespColsWrapper" id="1949819100"> <div class="u_1844141704 dmRespCol small-12 large-5 medium-5" id="1844141704"> <div data-element-type="spacer" class="dmSpacer u_1681915782" id="1681915782"></div> 
+</div> 
+ <div class="u_1208102788 dmRespCol small-12 large-7 medium-7" id="1208102788"> <div class="u_1368088361 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1368088361" style="transition: opacity 1s ease-in-out 0s;"> <h1 class="m-size-28 size-40"><span class="m-font-size-28 font-size-40" style="display: initial;">Opioid Epidemic</span></h1> 
+</div> 
+ <div class="dmDividerWrapper clearfix u_1415536937" data-element-type="dDividerId" data-layout="divider-style-1" data-widget-version="2" id="1415536937"><hr class="dmDivider" style="border-width:2px; border-top-style:solid; color:grey;" id="1459059795"/></div> 
+ <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1286648949" style="transition: opacity 1s ease-in-out 0s;"><p style="line-height: 1.66em;"><span style="display: initial; font-weight: 300;">According to CDC more than 1 million people died since 1999 from a drug overdose and more than 75% of drug overdose deaths in 2021 involved an opioid.</span></p><p style="line-height: 1.66em;"><span style="display: initial; font-weight: 300;"><span class="ql-cursor">﻿</span></span></p><p style="line-height: 1.66em;"><span style="display: initial; font-weight: 300;">This is not a simple problem and there are no simple solutions, but Congress must take a comprehensive approach to target every factor in this issue. I will continue to engage with various groups in our communities so I can effectively address the issues specific to Northern Michigan and the Upper Peninsula.</span></p></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmFooterContainer"> <div id="fcontainer" class="u_fcontainer f_hcontainer dmFooter p_hfcontainer"> <div dm:templateorder="250" class="dmFooterResp generalFooter" id="1943048428"> <div class="u_1517761045 dmRespRow" style="text-align: center;" id="1517761045"> <div class="dmRespColsWrapper" id="1432187162"> <div class="u_1224777551 dmRespCol small-12 medium-4 large-4" id="1224777551"> <div class="u_1133784704 imageWidget align-center" data-element-type="image" data-widget-type="image" id="1133784704"> <a href="/" id="1064803882"><img src="https://lirp.cdn-website.com/929984f2/dms3rep/multi/opt/jb-logo-2022-1920w.png" id="1035543237" class="" data-dm-image-path="https://irp.cdn-website.com/929984f2/dms3rep/multi/jb-logo-2022.png" data-hover-effect="zoomout" width="700" height="250" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+</div> 
+ <div class="u_1656591279 dmRespCol small-12 medium-4 large-4" id="1656591279"> <div class="dmNewParagraph u_1290447941" data-element-type="paragraph" id="1290447941" style="transition: none 0s ease 0s; text-align: left; display: block;" data-version="5"> <h5 class="m-text-align-center"><span style="display: initial; font-weight: 700; color: rgb(255, 255, 255);">STAY CONNECTED</span></h5> 
+</div> <div class="dmNewParagraph u_1106084938" data-element-type="paragraph" id="1106084938" style="transition:none;display:block;line-height:initial;" data-version="5"><p style="line-height: 1.5;" class="m-text-align-center"><a href="tel:(231)631-1998" type="call" style="display: initial; text-decoration: none; color: rgb(255, 255, 255);">(231)631-1998</a></p><p class="text-align-left m-text-align-center" style="line-height: 1.5;"><a href="mailto:press@bergmanforcongress.com" type="email" style="display: initial; text-decoration: none; color: rgb(255, 255, 255);">press@bergmanforcongress.com</a></p></div> <div class="u_1576282822 align-center text-align-center dmSocialHub" id="1576282822" dmle_extension="social_hub" data-element-type="social_hub" wr="true" networks="" icon="true" surround="true" adwords=""> <div class="socialHubWrapper"> <div class="socialHubInnerDiv "> <a href="https://www.facebook.com/bergmanforcongress/" target="_blank" dm_dont_rewrite_url="true" aria-label="facebook" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event(&apos;socialLink&apos;, &apos;click&apos;, &apos;Facebook&apos;)"> <span class="dmSocialFacebook dm-social-icons-facebook oneIcon socialHubIcon style5" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+ <a href="https://twitter.com/JackBergman_MI1" target="_blank" dm_dont_rewrite_url="true" aria-label="twitter" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event(&apos;socialLink&apos;, &apos;click&apos;, &apos;Twitter&apos;)"> <span class="dmSocialTwitter dm-social-icons-twitter oneIcon socialHubIcon style5" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+ <a href="https://www.instagram.com/repjackbergman/?hl=en" target="_blank" dm_dont_rewrite_url="true" aria-label="instagram" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event(&apos;socialLink&apos;, &apos;click&apos;, &apos;Instagram&apos;)"> <span class="dmSocialInstagram dm-social-icons-instagram oneIcon socialHubIcon style5" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+ <a href="https://www.youtube.com/channel/UCKrkKLwcZs7bUehe6ub9Vsg" target="_blank" dm_dont_rewrite_url="true" aria-label="youtube" onclick="dm_gaq_push_event &amp;&amp; dm_gaq_push_event(&apos;socialLink&apos;, &apos;click&apos;, &apos;Youtube&apos;)"> <span class="dmSocialYoutube dm-social-icons-youtube oneIcon socialHubIcon style5" aria-hidden="true" data-hover-effect=""></span> 
+</a> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1826429093 dmRespCol small-12 medium-4 large-4" id="1826429093"> <div class="dmNewParagraph u_1388272042" data-element-type="paragraph" id="1388272042" style="transition: none 0s ease 0s; text-align: left; display: block;" data-version="5"> <h5 class="m-text-align-center"><span style="display: initial; font-weight: 700; color: rgb(255, 255, 255);">JOIN OUR TEAM</span></h5> 
+</div> <div class="u_1741081919 dmNewParagraph" data-element-type="paragraph" id="1741081919" style="line-height:initial;" data-version="5"><p class="m-text-align-center"><span style="color: rgb(255, 255, 255); display: initial;">Sign up to get involved.</span></p></div> <a data-display-type="block" class="u_1204443888 align-center dmButtonLink dmWidget dmWwr default dmOnlyButton dmDefaultGradient" file="false" href="/contact-us" data-element-type="dButtonLinkId" id="1204443888"> <span class="iconBg" id="1064078348"> <span class="icon hasFontIcon icon-star" id="1645238313"></span> 
+</span> 
+ <span class="text" id="1787666602">VOLUNTEER</span> 
+</a> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1051992310" id="1051992310"> <div class="dmRespColsWrapper" id="1360038561"> <div class="dmRespCol large-12 medium-12 small-12 u_1134448856" id="1134448856"> <div class="u_1564806677 imageWidget align-center" data-element-type="image" data-widget-type="image" id="1564806677"><img src="https://irp.cdn-website.com/929984f2/dms3rep/multi/paid-for-by-bergman.svg" alt="" id="1068853480" class="" data-dm-image-path="https://irp.cdn-website.com/929984f2/dms3rep/multi/paid-for-by-bergman.svg" width="300" height="30" onerror="handleImageLoadError(this)"/></div> 
+ <div class="u_1700255677 dmNewParagraph" data-element-type="paragraph" data-version="5" id="1700255677" style="transition: none 0s ease 0s; text-align: left; display: block;"><p class="text-align-center size-13 m-size-10"><span style="color: rgb(153, 153, 153); display: initial;" class="font-size-13 m-font-size-10" m-font-size-set="true">Jack Bergman is a retired member of the United States Marine Corps. The use of his military rank, job titles, and photographs in uniform does not imply endorsement by the Department of the Navy, the Marine Corps, or the Department of Defense.</span><span style="display: initial;"><br/></span></p></div> 
+ <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1584727533" style="transition: opacity 1s ease-in-out 0s;"><p class="text-align-center m-text-align-center m-size-10"><span m-font-size-set="true" style="display: unset;" class="m-font-size-10">By providing your cell phone or mobile phone number you are consenting to receive calls and texts, including autodialed and automated calls and texts, to that number with</span></p><p class="text-align-center m-text-align-center m-size-10"><span m-font-size-set="true" style="display: unset;" class="m-font-size-10">campaign notifications from Bergman for Congress Reply HELP for help, STOP to end.</span></p><p class="text-align-center m-text-align-center m-size-10"><span m-font-size-set="true" style="display: unset;" class="m-font-size-10">Msg&amp;DataRatesMayApply. Message frequency may vary.</span></p><p class="text-align-center m-text-align-center m-size-10"><a href="/mobile-messaging-disclaimer" runtime_url="/mobile-messaging-disclaimer" type="page" style="display: unset; color: rgb(148, 148, 148);" m-font-size-set="true" class="m-font-size-10">Mobile Messaging Terms of Service</a></p></div> 
+ <div class="u_1409551233 widget-1f5975 dmCustomWidget" data-lazy-load="" data-title="" id="1409551233" dmle_extension="custom_extension" data-element-type="custom_extension" icon="false" surround="false" data-widget-id="1f5975986930429f819d4cd2154b5c4a" data-widget-version="22" data-widget-config="eyJjb3B5cmlnaHRUZXh0IjoiPHAgY2xhc3M9XCJydGVCbG9ja1wiPjxzcGFuIHN0eWxlPVwiY29sb3I6cmdiKDI1NSwgMjU1LCAyNTUpXCI+QWxsIFJpZ2h0cyBSZXNlcnZlZCB8IEphY2sgQmVyZ21hbiBmb3IgQ29uZ3Jlc3MgfCBQb3dlcmVkIGJ5IDwvc3Bhbj48c3BhbiBzdHlsZT1cImNvbG9yOnJnYigyMDEsIDIxMSwgODYpXCI+PGEgdHlwZT1cInVybFwiIHRhcmdldD1cIl9ibGFua1wiIGhyZWY9XCJodHRwczovL3d3dy5zcGlyZWxpZ2h0LmNvbS9cIiBkYXRhLXJ1bnRpbWUtdXJsPVwiaHR0cHM6Ly93d3cuc3BpcmVsaWdodC5jb20vXCI+U3BpcmVsaWdodCBXZWI8L2E+PC9zcGFuPjwvcD4ifQ=="> <div class="copyright"> <div>&copy; 2024&nbsp;</div> 
+ <div><p class="rteBlock"><span style="color:rgb(255, 255, 255)">All Rights Reserved | Jack Bergman for Congress | Powered by</span> 
+<span style="color:rgb(201, 211, 86)"><a type="url" target="_blank" href="https://www.spirelight.com/" data-runtime-url="https://www.spirelight.com/">Spirelight Web</a></span></p></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div id="1236746004" dmle_extension="powered_by" data-element-type="powered_by" icon="true" surround="false"></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+
+    </div>
+</div>
+<!--  Add full CSS and Javascript before the close tag of the body if needed -->
+<!-- ========= JS Section ========= -->
+<script>
+    var isWLR = true;
+
+    window.customWidgetsFunctions = {};
+    window.customWidgetsStrings = {};
+    window.collections = {};
+    window.currentLanguage = "ENGLISH"
+    window.isSitePreview = false;
+</script>
+<script>
+    window.customWidgetsFunctions["1f5975986930429f819d4cd2154b5c4a~22"] = function (element, data, api) {
+        null
+    };
+</script>
+<script type="text/javascript">
+
+    var d_version = "production_4882";
+    var build = "2024-10-31T11_48_12";
+    window['v' + 'ersion'] = d_version;
+
+    function buildEditorParent() {
+        window.isMultiScreen = true;
+        window.editorParent = {};
+        window.previewParent = {};
+        window.assetsCacheQueryParam = "?version=2024-10-31T11_48_12";
+        try {
+            var _p = window.parent;
+            if (_p && _p.document && _p.$ && _p.$.dmfw) {
+                window.editorParent = _p;
+            } else if (_p.isSitePreview) {
+                window.previewParent = _p;
+            }
+        } catch (e) {
+
+        }
+    }
+
+    buildEditorParent();
+</script>
+
+<!-- Load jQuery -->
+<script type="text/javascript" id='d-js-jquery'
+        src="https://static.cdn-website.com/libs/jquery/jquery-3.7.0.min.js"></script>
+<!-- End Load jQuery -->
+<!-- Injecting site-wide before scripts -->
+<!-- End Injecting site-wide to the head -->
+
+
+<script>
+    var _jquery = window.$;
+
+    var jqueryAliases = ['$', 'jquery', 'jQuery'];
+
+    jqueryAliases.forEach((alias) => {
+        Object.defineProperty(window, alias, {
+            get() {
+                return _jquery;
+            },
+            set() {
+                console.warn("Trying to over-write the global jquery object!");
+            }
+        });
+    });
+    window.jQuery.migrateMute = true;
+</script>
+<script>
+    window.cookiesNotificationMarkupPreview = 'null';
+</script>
+
+<!-- HEAD RT JS Include -->
+<script id='d-js-params'>
+    window.INSITE = window.INSITE || {};
+    window.INSITE.device = "desktop";
+
+    window.rtCommonProps = {};
+    rtCommonProps["rt.ajax.ajaxScriptsFix"] =true;
+    rtCommonProps["rt.pushnotifs.sslframe.encoded"] = 'aHR0cHM6Ly97c3ViZG9tYWlufS5wdXNoLW5vdGlmcy5jb20=';
+    rtCommonProps["runtimecollector.url"] = 'https://rtc.multiscreensite.com';
+    rtCommonProps["performance.tabletPreview.removeScroll"] = 'false';
+    rtCommonProps["inlineEditGrid.snap"] =true;
+    rtCommonProps["popup.insite.cookie.ttl"] = '0.5';
+    rtCommonProps["rt.pushnotifs.force.button"] =true;
+    rtCommonProps["common.mapbox.token"] = 'pk.eyJ1IjoiZGFubnliMTIzIiwiYSI6ImNqMGljZ256dzAwMDAycXBkdWxwbDgzeXYifQ.Ck5P-0NKPVKAZ6SH98gxxw';
+    rtCommonProps["common.mapbox.js.override"] =false;
+    rtCommonProps["common.here.appId"] = 'iYvDjIQ2quyEu0rg0hLo';
+    rtCommonProps["common.here.appCode"] = '1hcIxLJcbybmtBYTD9Z1UA';
+    rtCommonProps["isCoverage.test"] =false;
+    rtCommonProps["ecommerce.ecwid.script"] = 'https://app.multiscreenstore.com/script.js';
+    rtCommonProps["feature.flag.mappy.kml"] =false;
+    rtCommonProps["common.resources.dist.cdn"] =true;
+    rtCommonProps["common.build.dist.folder"] = 'production/4882';
+    rtCommonProps["common.resources.cdn.host"] = 'https://static.cdn-website.com';
+    rtCommonProps["common.resources.folder"] = 'https://static.cdn-website.com/mnlt/production/4882';
+    rtCommonProps["feature.flag.runtime.backgroundSlider.preload.slowly"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.enabled"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.respectCssAnimationProps.enabled"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.jitAnimation.enabled"] =true;
+    rtCommonProps["feature.flag.sites.google.analytics.gtag"] =true;
+    rtCommonProps["feature.flag.runOnReadyNewTask"] =true;
+    rtCommonProps["isAutomation.test"] =false;
+
+    
+    rtCommonProps['common.mapsProvider'] = 'mapbox';
+    
+    rtCommonProps['common.mapsProvider.version'] = '0.52.0';
+    rtCommonProps['common.geocodeProvider'] = 'mapbox';
+    rtCommonProps['common.map.defaults.radiusSize'] = '1500';
+    rtCommonProps['common.map.defaults.radiusBg'] = 'rgba(255, 255, 255, 0.4)';
+    rtCommonProps['common.map.defaults.strokeColor'] = 'rgba(255, 255, 255, 1)';
+    rtCommonProps['common.map.defaults.strokeSize'] = '2';
+    rtCommonProps['server.for.resources'] = '';
+    rtCommonProps['feature.flag.lazy.widgets'] = true;
+    rtCommonProps['feature.flag.single.wow'] = false;
+    rtCommonProps['feature.flag.disallowPopupsInEditor'] = true;
+    rtCommonProps['feature.flag.mark.anchors'] = true;
+    rtCommonProps['captcha.public.key'] = '6LffcBsUAAAAAMU-MYacU-6QHY4iDtUEYv_Ppwlz';
+    rtCommonProps['captcha.invisible.public.key'] = '6LeiWB8UAAAAAHYnVJM7_-7ap6bXCUNGiv7bBPME';
+    rtCommonProps["images.sizes.small"] =160;
+    rtCommonProps["images.sizes.mobile"] =640;
+    rtCommonProps["images.sizes.tablet"] =1280;
+    rtCommonProps["images.sizes.desktop"] =1920;
+    rtCommonProps["modules.resources.cdn"] =true;
+    rtCommonProps["import.images.storage.imageCDN"] = 'https://lirp.cdn-website.com/';
+    rtCommonProps["facebook.api.version"] = '7.0';
+    rtCommonProps["feature.flag.runtime.inp.threshold"] =150;
+    rtCommonProps["feature.flag.performance.logs"] =true;
+    rtCommonProps["site.widget.form.captcha.type"] = 'g_recaptcha';
+    rtCommonProps["friendly.captcha.site.key"] = 'FCMGSQG9GVNMFS8K';
+    rtCommonProps["cookiebot.mapbox.consent.category"] = 'marketing';
+    rtCommonProps["platform.monolith.personalization.dateTimeCondition.popupMsgAction.moveToclient.enabled"] =false;
+
+    // feature flags that's used out of runtime module (in  legacy files)
+    rtCommonProps["site.runtime.video.background.ssr"] =true;
+
+    window.rtFlags = {};
+    rtFlags["unsuspendEcwidStoreOnRuntime.enabled"] =true;
+    rtFlags["scripts.widgetCount.enabled"] =true;
+    rtFlags["ecom.ecwid.categoryPage.modifyLinks"] = true;
+    rtFlags["ecom.ecwid.delegateNavigationToEcwid.enabled"] = false;
+    rtFlags["ecom.ecwidNewUrlStructure.enabled"] = false;
+    rtFlags["ecom.ecwid.old.store.fix.scrolling.enabled"] = true;
+    rtFlags["ecom.ecwid.old.store.fix.facebook.share"] = true;
+    rtFlags["ecom.ecwid.fallBackInCaseLinksNotFound.enabled"] = true;
+    rtFlags["feature.flag.photo.gallery.exact.size"] =true;
+    rtFlags["new.store.fix.ecwid.back.bug"] =true;
+    rtFlags["facebook.runtime.widgets.upgrade"] =true;
+    rtFlags["ecom.ecwid.solve.url.modifications"] = true;
+    rtFlags["ecom.ecwid.configOptions"] = true;
+    rtFlags["geocode.search.localize"] =false;
+    rtFlags["feature.flag.runtime.newAnimation.asyncInit.setTimeout.enabled"] =false;
+    rtFlags["site.contact.form.fix.for.attribute"] =true;
+    rtFlags["contact.form.date.format.enabled"] = true;
+    rtFlags["twitter.heightLimit.enabled"] = true;
+    rtFlags["ecom.ecwid.fixTranslations.enabled"] = true;
+    rtFlags["runtime.load.script.native"] =true;
+    rtFlags["editor.classicHybrid.photogallery.fix"] =true;
+    rtFlags["runtime.lottieOverflow"] =false;
+    rtFlags["runtime.monitoring.sentry.ignoreErrors"] = "";
+    rtFlags["ecom.ecwid.old.store.fix.scrolling.detect.enable"] =true;
+    rtFlags["contact.form.browserValidation.enabled"] =true;
+</script>
+<script src="https://static.cdn-website.com/mnlt/production/4882/_dm/s/rt/dist/scripts/d-js-one-runtime-unified-desktop.min.js"  id="d-js-core"></script>
+<!-- End of HEAD RT JS Include -->
+<script src="https://static.cdn-website.com/mnlt/production/4882/_dm/s/rt/dist/scripts/d-js-jquery-migrate.min.js" ></script>
+<script>
+    
+    $(window).bind("orientationchange", function (e) {
+        $.layoutManager.initLayout();
+        
+    });
+    $(document).resize(function () {
+        
+    });
+</script>
+<script type="text/javascript" id="d_track_campaign">
+(function() {
+ 	var campaign = (/utm_campaign=([^&]*)/).exec(window.location.search);
+
+ 	if (campaign && campaign != null && campaign.length > 1) {
+ 		campaign = campaign[1];
+ 		document.cookie = "_dm_rt_campaign=" + campaign + ";expires=" + new Date().getTime() + 24*60*60*1000 + ";domain=" + window.location.hostname + ";path=/";
+ 	}
+}());
+</script>
+<script type="text/javascript" >
+  var _dm_gaq = {};
+  var _gaq = _gaq || [];
+  var _dm_insite = [];
+</script>
+
+<script type="text/javascript" id="d_track_sp">
+;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
+p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script","//d32hwlnfiv2gyn.cloudfront.net/sp-2.0.0-dm-0.1.min.js","snowplow"));
+window.dmsnowplow  = window.snowplow;
+
+dmsnowplow('newTracker', 'cf', 'd32hwlnfiv2gyn.cloudfront.net', { // Initialise a tracker
+  appId: '929984f2'
+});
+
+// snowplow queries element styles so we wait until CSS calculations are done.
+requestAnimationFrame(() => {
+	dmsnowplow('trackPageView');
+	_dm_insite.forEach((rule) => {
+		// Specifically in popup only the client knows if it is shown or not so we don't always want to track its impression here
+		// the tracking is in popup.js
+		if (rule.actionName !== "popup") {
+			dmsnowplow('trackStructEvent', 'insite', 'impression', rule.ruleType, rule.ruleId);
+		}
+		window?.waitForDeferred?.('dmAjax', () => {
+			$.DM.events.trigger('event-ruleTriggered', {value: rule});
+		});
+	});
+});
+</script>
+   <div style="display:none;" id="P6iryBW0Wu"></div>
+
+<!-- photoswipe markup -->
+
+
+
+
+
+
+
+
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    <!-- Background of PhotoSwipe. 
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. 
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                <!--  Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+<div id="fb-root"
+        data-locale="en"></div>
+<!-- Alias: 929984f2 -->
+<div class="dmPopupMask" id="dmPopupMask"></div>
+<div id="dmPopup" class="dmPopup">
+	<div class="dmPopupCloseWrapper"> <div class="dmPopupClose dm-common-icons-close oneIcon" onclick="dmHidePopup(event);"></div> </div>
+ 	<div class="dmPopupTitle"> <span></span> Share by:</div> 
+	<div class="data"></div>
+</div><script id="d_track_personalization">
+	window?.waitForDeferred?.('dmAjax', () => {
+		// Collects client data and updates cookies used by smart sites
+		window.expireDays = 365;
+		window.visitLength = 30 * 60000;
+		$.setCookie("dm_timezone_offset", (new Date()).getTimezoneOffset(), window.expireDays);
+			setSmartSiteCookiesInternal("dm_this_page_view","dm_last_page_view","dm_total_visits","dm_last_visit");
+	});
+</script>
+<script type="text/javascript">
+    
+    Parameters.NavigationAreaParams.MoreButtonText = 'MORE';
+    
+    Parameters.NavigationAreaParams.LessButtonText = 'LESS';
+    Parameters.HomeLinkText = 'Home';
+    </script>
+<!--  End Script tags -->
+
+<!--  Begin Body End Markup -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PDKVC7');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PDKVC7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><!--  End Body End Markup -->
+
+<!--  Site Wide Html Markup -->
+<!--  Site Wide Html Markup -->
+</body>
+</html>
