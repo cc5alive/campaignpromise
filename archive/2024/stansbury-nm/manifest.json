@@ -1,0 +1,60 @@
+{
+  "name": "Melanie A. Stansbury",
+  "domains_tried": [
+    "melaniefornm.com"
+  ],
+  "pages": [
+    {
+      "original": "https://melaniefornm.com/",
+      "timestamp": "20241105210010",
+      "wayback": "https://web.archive.org/web/20241105210010/https://melaniefornm.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105210010id_/https://melaniefornm.com/",
+      "file": "archive/2024/stansbury-nm/home.html",
+      "text_file": "archive/2024/stansbury-nm/home.txt",
+      "bytes": 223266,
+      "sha256_html": "a3b77812e240b2bf185d2bd6eb7f445f741086fb22b10096fc86c48dce6433cb",
+      "sha256_text": "f731d3b330c9f62e83ce358b516c784d14b9907b6e3f3cd96c907e6dc80fe122"
+    },
+    {
+      "original": "https://melaniefornm.com/issues",
+      "timestamp": "20241105210039",
+      "wayback": "https://web.archive.org/web/20241105210039/https://melaniefornm.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105210039id_/https://melaniefornm.com/issues",
+      "file": "archive/2024/stansbury-nm/issues.html",
+      "text_file": "archive/2024/stansbury-nm/issues.txt",
+      "bytes": 183688,
+      "sha256_html": "6b167f1d207b18ae8652942f4c7da0f684c4f6286349ea9e7689ce765870d6e1",
+      "sha256_text": "23ac62701e2b52c7d6b60393bc89ff1bf4f551fdd5c22564f098c1bd19b6756c"
+    },
+    {
+      "original": "https://melaniefornm.com/en/issues",
+      "timestamp": "20240909094538",
+      "wayback": "https://web.archive.org/web/20240909094538/https://melaniefornm.com/en/issues",
+      "wayback_raw": "https://web.archive.org/web/20240909094538id_/https://melaniefornm.com/en/issues",
+      "file": "archive/2024/stansbury-nm/en-issues.html",
+      "text_file": "archive/2024/stansbury-nm/en-issues.txt",
+      "bytes": 82499,
+      "sha256_html": "5c03f90d8409868cb64d4db5f7403225654dcd853885e93153561950ec81e129",
+      "sha256_text": "01b60edabcd26560f6b12d46610a62c65dba8c64f3c6804ea83a2830d095aad1"
+    },
+    {
+      "original": "https://melaniefornm.com/about",
+      "timestamp": "20241105210036",
+      "wayback": "https://web.archive.org/web/20241105210036/https://melaniefornm.com/about",
+      "wayback_raw": "https://web.archive.org/web/20241105210036id_/https://melaniefornm.com/about",
+      "file": "archive/2024/stansbury-nm/about.html",
+      "text_file": "archive/2024/stansbury-nm/about.txt",
+      "bytes": 189379,
+      "sha256_html": "6b13b8d3e69ea7561afedab7b0d8223027662fe753d580348d72a810e49304c5",
+      "sha256_text": "a4319669fec802b0ae86f017407ef678e02e544ebab2c037f6d25f181e42bb7b"
+    }
+  ],
+  "snapshots_found": {
+    "melaniefornm.com": 14
+  },
+  "generated_utc": "2026-11-26T08:49:00Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
