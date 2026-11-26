@@ -1,0 +1,148 @@
+{
+  "name": "Gregory F. Murphy",
+  "domains_tried": [
+    "murphy4congress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://murphy4congress.com/",
+      "timestamp": "20241105201817",
+      "wayback": "https://web.archive.org/web/20241105201817/https://murphy4congress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105201817id_/https://murphy4congress.com/",
+      "file": "archive/2024/murphy-nc/home.html",
+      "text_file": "archive/2024/murphy-nc/home.txt",
+      "bytes": 85707,
+      "sha256_html": "31df2b06809cb1e4f7b1a7984d18ddd886ea5783585c3e1aa936a572a3610c07",
+      "sha256_text": "d26454a006cd457b98d0a43b471aca41a4aa5eb7c3ae09403add3894d012c909"
+    },
+    {
+      "original": "https://murphy4congress.com/accomplishments/",
+      "timestamp": "20241105202828",
+      "wayback": "https://web.archive.org/web/20241105202828/https://murphy4congress.com/accomplishments/",
+      "wayback_raw": "https://web.archive.org/web/20241105202828id_/https://murphy4congress.com/accomplishments/",
+      "file": "archive/2024/murphy-nc/accomplishments.html",
+      "text_file": "archive/2024/murphy-nc/accomplishments.txt",
+      "bytes": 59210,
+      "sha256_html": "ab9707db729589e37386e68bfbe31d1bdef9e0c27eff283486f8ead311befb15",
+      "sha256_text": "0d6356b278d3ade663634b2c0cadb26956d0f130ab0f54df8e0d29f276473910"
+    },
+    {
+      "original": "https://murphy4congress.com/issues/",
+      "timestamp": "20241105201836",
+      "wayback": "https://web.archive.org/web/20241105201836/https://murphy4congress.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105201836id_/https://murphy4congress.com/issues/",
+      "file": "archive/2024/murphy-nc/issues.html",
+      "text_file": "archive/2024/murphy-nc/issues.txt",
+      "bytes": 58587,
+      "sha256_html": "94345ff0afd78c29928c9a4a4cc1c5160b770ef8b07fb0b6b6a32cec31d9a132",
+      "sha256_text": "a3a7f612d08e0ede34812110f9f37196f1646b35771415b05675fe5416beca16"
+    },
+    {
+      "original": "https://murphy4congress.com/issues/covid/",
+      "timestamp": "20241105202129",
+      "wayback": "https://web.archive.org/web/20241105202129/https://murphy4congress.com/issues/covid/",
+      "wayback_raw": "https://web.archive.org/web/20241105202129id_/https://murphy4congress.com/issues/covid/",
+      "file": "archive/2024/murphy-nc/issues-covid.html",
+      "text_file": "archive/2024/murphy-nc/issues-covid.txt",
+      "bytes": 57120,
+      "sha256_html": "e3bdf5d8caa0869e83d12aa3a8f1a3ec585bc82a1d0c732e67f57a2ec70ade6b",
+      "sha256_text": "0426e0a61dc4c86026c2b162cf71b46a94b6e25f473f014107776a199f734032"
+    },
+    {
+      "original": "https://murphy4congress.com/issues/healthcare/",
+      "timestamp": "20241105201852",
+      "wayback": "https://web.archive.org/web/20241105201852/https://murphy4congress.com/issues/healthcare/",
+      "wayback_raw": "https://web.archive.org/web/20241105201852id_/https://murphy4congress.com/issues/healthcare/",
+      "file": "archive/2024/murphy-nc/issues-healthcare.html",
+      "text_file": "archive/2024/murphy-nc/issues-healthcare.txt",
+      "bytes": 57157,
+      "sha256_html": "dfb60c9a0182d17fff41bca32f46964c473c3d8a5801899ac71e7c68c9a6d163",
+      "sha256_text": "40996a12936bafd2950b9afb873280c499cef19a3380b9a89c58233bcd435f9b"
+    },
+    {
+      "original": "https://murphy4congress.com/issues/pro-life/",
+      "timestamp": "20241105201919",
+      "wayback": "https://web.archive.org/web/20241105201919/https://murphy4congress.com/issues/pro-life/",
+      "wayback_raw": "https://web.archive.org/web/20241105201919id_/https://murphy4congress.com/issues/pro-life/",
+      "file": "archive/2024/murphy-nc/issues-pro-life.html",
+      "text_file": "archive/2024/murphy-nc/issues-pro-life.txt",
+      "bytes": 57273,
+      "sha256_html": "e863141f90064dadbf30b6ee38ea28a82289fce4ee7d347a71af8d2889a5ef23",
+      "sha256_text": "9283f2cd08be48d1efafc1da04598bab126c4bfa8230d32125c347d057d71594"
+    },
+    {
+      "original": "https://murphy4congress.com/issues/second-amendment/",
+      "timestamp": "20241105201952",
+      "wayback": "https://web.archive.org/web/20241105201952/https://murphy4congress.com/issues/second-amendment/",
+      "wayback_raw": "https://web.archive.org/web/20241105201952id_/https://murphy4congress.com/issues/second-amendment/",
+      "file": "archive/2024/murphy-nc/issues-second-amendment.html",
+      "text_file": "archive/2024/murphy-nc/issues-second-amendment.txt",
+      "bytes": 57386,
+      "sha256_html": "494aac05abce635e78b78e38ac6b359a5992ab4710fb81bf690dd61828c28530",
+      "sha256_text": "b559f53c9b3dfb3e8516d3567786fe18c0a904a50f52429b90d4a861ac41ae8a"
+    },
+    {
+      "original": "https://murphy4congress.com/issues/tax-economy/",
+      "timestamp": "20241105202117",
+      "wayback": "https://web.archive.org/web/20241105202117/https://murphy4congress.com/issues/tax-economy/",
+      "wayback_raw": "https://web.archive.org/web/20241105202117id_/https://murphy4congress.com/issues/tax-economy/",
+      "file": "archive/2024/murphy-nc/issues-tax-economy.html",
+      "text_file": "archive/2024/murphy-nc/issues-tax-economy.txt",
+      "bytes": 57340,
+      "sha256_html": "e0a8fd9f667757866fe9f7392ea2ad2d82761a335897b0fd9f81c1af8c72ecbb",
+      "sha256_text": "77f077aea73d5a8560eaa531af11b2a8845d722a4aa76095308e4c06f83a92c4"
+    },
+    {
+      "original": "https://murphy4congress.com/issues/veterans/",
+      "timestamp": "20241105202058",
+      "wayback": "https://web.archive.org/web/20241105202058/https://murphy4congress.com/issues/veterans/",
+      "wayback_raw": "https://web.archive.org/web/20241105202058id_/https://murphy4congress.com/issues/veterans/",
+      "file": "archive/2024/murphy-nc/issues-veterans.html",
+      "text_file": "archive/2024/murphy-nc/issues-veterans.txt",
+      "bytes": 57398,
+      "sha256_html": "c6437e48bcb64affd7ff400658dd32b79a8921283badb19b34c3f1ae4d163069",
+      "sha256_text": "12e9f705fb67f344498fdb4877ec332c9964526dc2c90b0a5c22f207b13676fe"
+    },
+    {
+      "original": "https://murphy4congress.com/issues/covid/embed/",
+      "timestamp": "20241101143750",
+      "wayback": "https://web.archive.org/web/20241101143750/https://murphy4congress.com/issues/covid/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241101143750id_/https://murphy4congress.com/issues/covid/embed/",
+      "file": "archive/2024/murphy-nc/issues-covid-embed.html",
+      "text_file": "archive/2024/murphy-nc/issues-covid-embed.txt",
+      "bytes": 20674,
+      "sha256_html": "1d908a9061a9853c57d5bf21ac686cca5e571bcb4b4cf70f2555fdc52e39f681",
+      "sha256_text": "371943b5cd1218d2921b478aa7f16989267a197219e043825bc013e5b8ad7c4b"
+    },
+    {
+      "original": "https://murphy4congress.com/issues/healthcare/embed/",
+      "timestamp": "20241101143539",
+      "wayback": "https://web.archive.org/web/20241101143539/https://murphy4congress.com/issues/healthcare/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241101143539id_/https://murphy4congress.com/issues/healthcare/embed/",
+      "file": "archive/2024/murphy-nc/issues-healthcare-embed.html",
+      "text_file": "archive/2024/murphy-nc/issues-healthcare-embed.txt",
+      "bytes": 21060,
+      "sha256_html": "f00362eef53c3e880d13e48e8a05380b8bc6e2c012551c2128987c7d849abb8a",
+      "sha256_text": "828641c9d422d08280687b9d49820d86dcf08742cb6115eff4f983b0eaf2ccba"
+    },
+    {
+      "original": "https://murphy4congress.com/issues/pro-life/embed/",
+      "timestamp": "20241101093604",
+      "wayback": "https://web.archive.org/web/20241101093604/https://murphy4congress.com/issues/pro-life/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241101093604id_/https://murphy4congress.com/issues/pro-life/embed/",
+      "file": "archive/2024/murphy-nc/issues-pro-life-embed.html",
+      "text_file": "archive/2024/murphy-nc/issues-pro-life-embed.txt",
+      "bytes": 20672,
+      "sha256_html": "70a27bf2e8bd3599b64a6cb771d8ac15ab3a5fa933eb779ad73b28fa0d4b6412",
+      "sha256_text": "48aa84d8f9f3b98b4a88f30bea811d472ce6602fc77a72584e242c4b1b05a089"
+    }
+  ],
+  "snapshots_found": {
+    "murphy4congress.com": 39
+  },
+  "generated_utc": "2026-11-26T08:14:40Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
