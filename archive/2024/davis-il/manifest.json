@@ -1,0 +1,61 @@
+{
+  "name": "Danny K. Davis",
+  "domains_tried": [
+    "dannykdavis.com",
+    "dannydavisforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.dannykdavis.com/",
+      "timestamp": "20241105102614",
+      "wayback": "https://web.archive.org/web/20241105102614/https://www.dannykdavis.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105102614id_/https://www.dannykdavis.com/",
+      "file": "archive/2024/davis-il/home.html",
+      "text_file": "archive/2024/davis-il/home.txt",
+      "bytes": 1072438,
+      "sha256_html": "494ff6d442f76ab406211abfd7742f4c7ba3970f56e05c8863fe19a5035ca984",
+      "sha256_text": "d3a318f7f5394370bdbdbe5f375e8ee64a43d0228dbf48dea62611e69f7a4c61"
+    },
+    {
+      "original": "https://www.dannykdavis.com/platform",
+      "timestamp": "20241105102705",
+      "wayback": "https://web.archive.org/web/20241105102705/https://www.dannykdavis.com/platform",
+      "wayback_raw": "https://web.archive.org/web/20241105102705id_/https://www.dannykdavis.com/platform",
+      "file": "archive/2024/davis-il/platform.html",
+      "text_file": "archive/2024/davis-il/platform.txt",
+      "bytes": 993517,
+      "sha256_html": "115336c9e0a8ab51a6b70e96a171a73f6f0faa21f378622561b47262ebe2fa2a",
+      "sha256_text": "fb13dbf9497f909a3e694d18a659d01e129d82f5df7be9e9fbf481d3d49f8aff"
+    },
+    {
+      "original": "https://www.dannykdavis.com/event-details/platform",
+      "timestamp": "20241104193729",
+      "wayback": "https://web.archive.org/web/20241104193729/https://www.dannykdavis.com/event-details/platform",
+      "wayback_raw": "https://web.archive.org/web/20241104193729id_/https://www.dannykdavis.com/event-details/platform",
+      "file": "archive/2024/davis-il/event-details-platform.html",
+      "text_file": "archive/2024/davis-il/event-details-platform.txt",
+      "bytes": 1171905,
+      "sha256_html": "a414c70e6707bff32ab6a015792ef7b125d37b34b76faff6514f416e1b564419",
+      "sha256_text": "ab9d481e024bed0cfd9a4fe1947428229e62fc176129b4edae324fe0091d47f9"
+    },
+    {
+      "original": "https://www.dannykdavis.com/post/congressman-danny-k-davis-highlights-key-issues-on-milwaukee-radio-show-as-surrogate-for-vp-kamala",
+      "timestamp": "20241105102935",
+      "wayback": "https://web.archive.org/web/20241105102935/https://www.dannykdavis.com/post/congressman-danny-k-davis-highlights-key-issues-on-milwaukee-radio-show-as-surrogate-for-vp-kamala",
+      "wayback_raw": "https://web.archive.org/web/20241105102935id_/https://www.dannykdavis.com/post/congressman-danny-k-davis-highlights-key-issues-on-milwaukee-radio-show-as-surrogate-for-vp-kamala",
+      "file": "archive/2024/davis-il/post-congressman-danny-k-davis-highlights-key-issues-on-milwaukee-radio-show-as-surrogate-for-vp-kamala.html",
+      "text_file": "archive/2024/davis-il/post-congressman-danny-k-davis-highlights-key-issues-on-milwaukee-radio-show-as-surrogate-for-vp-kamala.txt",
+      "bytes": 1096000,
+      "sha256_html": "137179f15706df6a49c57160ad6394bbc5f179e3dfdb9aeffc94960b7471f816",
+      "sha256_text": "2d7d26aaba7ebfce7ba1e71a0a0a44d32c9a96537d3f0cbcc3b509065840c850"
+    }
+  ],
+  "snapshots_found": {
+    "dannykdavis.com": 215
+  },
+  "generated_utc": "2026-11-26T08:57:54Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
