@@ -1,0 +1,27 @@
+{
+  "name": "Chuck Edwards",
+  "domains_tried": [
+    "chuckedwardsforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.chuckedwardsforcongress.com/",
+      "timestamp": "20241105114832",
+      "wayback": "https://web.archive.org/web/20241105114832/https://www.chuckedwardsforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105114832id_/https://www.chuckedwardsforcongress.com/",
+      "file": "archive/2024/edwards-nc/home.html",
+      "text_file": "archive/2024/edwards-nc/home.txt",
+      "bytes": 22262,
+      "sha256_html": "8bb5a35a5d4d276328386e56b937eee0c2719ab68d8835824e22d1c19602ab83",
+      "sha256_text": "80884b95fed946ac62d13624afddc38aacbbcae1e7d6809502987e59cb8ae98a"
+    }
+  ],
+  "snapshots_found": {
+    "chuckedwardsforcongress.com": 12
+  },
+  "generated_utc": "2026-11-26T09:07:56Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
