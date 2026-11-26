@@ -1,0 +1,38 @@
+{
+  "name": "Steve Womack",
+  "domains_tried": [
+    "womackforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.womackforcongress.com/",
+      "timestamp": "20241105133252",
+      "wayback": "https://web.archive.org/web/20241105133252/https://www.womackforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105133252id_/https://www.womackforcongress.com/",
+      "file": "archive/2024/womack-ar/home.html",
+      "text_file": "archive/2024/womack-ar/home.txt",
+      "bytes": 118571,
+      "sha256_html": "aa481e851f0d3784391e0305d4b03313c1a3cba7cf12e3b58a32c834160cc473",
+      "sha256_text": "8941fa174f38caf54c47cc10a979e2f34985be37b9b16fc4811af6c739f71338"
+    },
+    {
+      "original": "https://www.womackforcongress.com/about",
+      "timestamp": "20241105042633",
+      "wayback": "https://web.archive.org/web/20241105042633/https://www.womackforcongress.com/about",
+      "wayback_raw": "https://web.archive.org/web/20241105042633id_/https://www.womackforcongress.com/about",
+      "file": "archive/2024/womack-ar/about.html",
+      "text_file": "archive/2024/womack-ar/about.txt",
+      "bytes": 89490,
+      "sha256_html": "71c44954ced91e7ed30f52d8e8f915d54f1df919889e541b184e9e914c8e938b",
+      "sha256_text": "c89c5a7d1aa3ab38a55809d271f2f70bd9cbb2d4bb04145b118508b7c8bae9f8"
+    }
+  ],
+  "snapshots_found": {
+    "womackforcongress.com": 16
+  },
+  "generated_utc": "2026-11-26T08:32:31Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
