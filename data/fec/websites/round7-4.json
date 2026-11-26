@@ -1,0 +1,50 @@
+{
+ "committees": {
+  "C00464073": {
+   "name": "FRIENDS OF SCOTT DESJARLAIS",
+   "website": "WWW.SCOTTDESJARLAIS.COM",
+   "error": null
+  },
+  "C00286500": {
+   "name": "DOGGETT FOR CONGRESS",
+   "website": "HTTP://WWW.VOTEDOGGETT.COM",
+   "error": null
+  },
+  "C00461822": {
+   "name": "CHUCK FLEISCHMANN FOR CONGRESS COMMITTEE, INC.",
+   "website": "WWW.CHUCKFORCONGRESS.COM",
+   "error": null
+  },
+  "C00386748": {
+   "name": "VIRGINIA FOXX FOR CONGRESS",
+   "website": "WWW.VIRGINIAFOXX.COM",
+   "error": null
+  },
+  "C00462697": {
+   "name": "GARAMENDI FOR CONGRESS",
+   "website": "HTTP://GARAMENDI.ORG",
+   "error": null
+  },
+  "C00461806": {
+   "name": "GOSAR FOR CONGRESS",
+   "website": "WWW.DRPAULGOSAR.COM",
+   "error": null
+  },
+  "C00230482": {
+   "name": "GRASSLEY COMMITTEE, INC.",
+   "website": "WWW.GRASSLEYWORKS.COM",
+   "error": null
+  },
+  "C00359034": {
+   "name": "GRAVES FOR CONGRESS",
+   "website": "GRAVESFORCONGRESS.COM",
+   "error": null
+  },
+  "C00578567": {
+   "name": "KEEP AL GREEN IN CONGRESS",
+   "website": "ALGREEN.ORG",
+   "error": null
+  }
+ },
+ "searches": {}
+}
