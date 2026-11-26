@@ -1,0 +1,148 @@
+{
+  "name": "Steny H. Hoyer",
+  "domains_tried": [
+    "hoyerforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.hoyerforcongress.com/",
+      "timestamp": "20241105101353",
+      "wayback": "https://web.archive.org/web/20241105101353/https://www.hoyerforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105101353id_/https://www.hoyerforcongress.com/",
+      "file": "archive/2024/hoyer-md/home.html",
+      "text_file": "archive/2024/hoyer-md/home.txt",
+      "bytes": 30619,
+      "sha256_html": "50423075dd4afa9ad2edf2a752e16baf2130a037ab25d14a2604c83a1bd5bcf3",
+      "sha256_text": "7a3b27d15e665af6dbdd69161976dd6e816d424a6179a83ea1d982d8181d432d"
+    },
+    {
+      "original": "https://www.hoyerforcongress.com/issues",
+      "timestamp": "20241105091425",
+      "wayback": "https://web.archive.org/web/20241105091425/https://www.hoyerforcongress.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105091425id_/https://www.hoyerforcongress.com/issues",
+      "file": "archive/2024/hoyer-md/issues.html",
+      "text_file": "archive/2024/hoyer-md/issues.txt",
+      "bytes": 23815,
+      "sha256_html": "eb9d73d02c94bfae4e7e1843d6063bf667e5e64ab681bedda18f1ea7a02e33e0",
+      "sha256_text": "ed41539e4c2bba16e8e3f1b0603625749b55d76b49a5de441aa935621e6ce59f"
+    },
+    {
+      "original": "https://www.hoyerforcongress.com/issues/education",
+      "timestamp": "20241105091416",
+      "wayback": "https://web.archive.org/web/20241105091416/https://www.hoyerforcongress.com/issues/education",
+      "wayback_raw": "https://web.archive.org/web/20241105091416id_/https://www.hoyerforcongress.com/issues/education",
+      "file": "archive/2024/hoyer-md/issues-education.html",
+      "text_file": "archive/2024/hoyer-md/issues-education.txt",
+      "bytes": 20819,
+      "sha256_html": "29936acf3435d76bbf1411e34db2c3fedf34e5865a6314822fd1c10e00ee01c2",
+      "sha256_text": "fbcc7c2c25a080184be9bc4554a92d68563b5bff29af25494c19a59a346d36d6"
+    },
+    {
+      "original": "https://www.hoyerforcongress.com/issues/environment",
+      "timestamp": "20241105091423",
+      "wayback": "https://web.archive.org/web/20241105091423/https://www.hoyerforcongress.com/issues/environment",
+      "wayback_raw": "https://web.archive.org/web/20241105091423id_/https://www.hoyerforcongress.com/issues/environment",
+      "file": "archive/2024/hoyer-md/issues-environment.html",
+      "text_file": "archive/2024/hoyer-md/issues-environment.txt",
+      "bytes": 21277,
+      "sha256_html": "fb2ff3df37f3d6dfd879b2bc1922db7b93a40d0910cfb6b10eeb478c6c3e0830",
+      "sha256_text": "de06ce1ca5422918b16c38d523c97ced219508033a5a630c5e8f23132f909bec"
+    },
+    {
+      "original": "https://www.hoyerforcongress.com/issues/federal-employees",
+      "timestamp": "20241105091409",
+      "wayback": "https://web.archive.org/web/20241105091409/https://www.hoyerforcongress.com/issues/federal-employees",
+      "wayback_raw": "https://web.archive.org/web/20241105091409id_/https://www.hoyerforcongress.com/issues/federal-employees",
+      "file": "archive/2024/hoyer-md/issues-federal-employees.html",
+      "text_file": "archive/2024/hoyer-md/issues-federal-employees.txt",
+      "bytes": 19758,
+      "sha256_html": "354cd2c35efc65985a79a3a1203d321b002a493823af27b658e4fb03dc9ba6e6",
+      "sha256_text": "e81d7bd662ee6bd2802531d23b94283907e93cccc61683f1f33259c43735a563"
+    },
+    {
+      "original": "https://www.hoyerforcongress.com/issues/health-care",
+      "timestamp": "20241105091407",
+      "wayback": "https://web.archive.org/web/20241105091407/https://www.hoyerforcongress.com/issues/health-care",
+      "wayback_raw": "https://web.archive.org/web/20241105091407id_/https://www.hoyerforcongress.com/issues/health-care",
+      "file": "archive/2024/hoyer-md/issues-health-care.html",
+      "text_file": "archive/2024/hoyer-md/issues-health-care.txt",
+      "bytes": 21176,
+      "sha256_html": "e91c37e687721f7eea9eb7023ac0378f4bc70c511094076c6eb8df5681548d08",
+      "sha256_text": "4e2f450dd7392358b5b4e6aae856e5f8cee08f502c4fb2398d17053a1c60e5ce"
+    },
+    {
+      "original": "https://www.hoyerforcongress.com/issues/jobs-economy",
+      "timestamp": "20241105091419",
+      "wayback": "https://web.archive.org/web/20241105091419/https://www.hoyerforcongress.com/issues/jobs-economy",
+      "wayback_raw": "https://web.archive.org/web/20241105091419id_/https://www.hoyerforcongress.com/issues/jobs-economy",
+      "file": "archive/2024/hoyer-md/issues-jobs-economy.html",
+      "text_file": "archive/2024/hoyer-md/issues-jobs-economy.txt",
+      "bytes": 21354,
+      "sha256_html": "7f5d34c86c15f6710f3afe6fab44540cdceda22edc04d984456e2c8b8cdaaff9",
+      "sha256_text": "9eb9c37c624a06497d0a146ad5be9376662124929e55595c36e03bd9bd1a1282"
+    },
+    {
+      "original": "https://www.hoyerforcongress.com/issues/racial-equity-equal-justice-all",
+      "timestamp": "20241105091418",
+      "wayback": "https://web.archive.org/web/20241105091418/https://www.hoyerforcongress.com/issues/racial-equity-equal-justice-all",
+      "wayback_raw": "https://web.archive.org/web/20241105091418id_/https://www.hoyerforcongress.com/issues/racial-equity-equal-justice-all",
+      "file": "archive/2024/hoyer-md/issues-racial-equity-equal-justice-all.html",
+      "text_file": "archive/2024/hoyer-md/issues-racial-equity-equal-justice-all.txt",
+      "bytes": 22058,
+      "sha256_html": "c11b789d6f2e90f07793b65bf9ee4f44d5300cf1c09e5cf42b8fa648a24bb0f4",
+      "sha256_text": "fef3658cee17ee72edaf35e25e02e92a071060cc28e6399fda545cf5d0cbb9e7"
+    },
+    {
+      "original": "https://www.hoyerforcongress.com/issues/transportation",
+      "timestamp": "20241105091410",
+      "wayback": "https://web.archive.org/web/20241105091410/https://www.hoyerforcongress.com/issues/transportation",
+      "wayback_raw": "https://web.archive.org/web/20241105091410id_/https://www.hoyerforcongress.com/issues/transportation",
+      "file": "archive/2024/hoyer-md/issues-transportation.html",
+      "text_file": "archive/2024/hoyer-md/issues-transportation.txt",
+      "bytes": 20264,
+      "sha256_html": "53eca9477582fb9a210c76cc576e5b7dc9e6c4d7d6d4ead38b31f1fa921653ef",
+      "sha256_text": "4a5793f82caa4387a52a8e660ddd68dcc15606629948366b6cb741de8498ca14"
+    },
+    {
+      "original": "https://www.hoyerforcongress.com/issues/veterans",
+      "timestamp": "20241105091424",
+      "wayback": "https://web.archive.org/web/20241105091424/https://www.hoyerforcongress.com/issues/veterans",
+      "wayback_raw": "https://web.archive.org/web/20241105091424id_/https://www.hoyerforcongress.com/issues/veterans",
+      "file": "archive/2024/hoyer-md/issues-veterans.html",
+      "text_file": "archive/2024/hoyer-md/issues-veterans.txt",
+      "bytes": 19756,
+      "sha256_html": "ccfdae059b201ed5a39ac9753c11681fd21e729c96c57eed51ed9e6db86873fa",
+      "sha256_text": "8a00f5e94a183551f014371aaac4d3a8e3d021947cd41a37afcbc0abdd13b3a7"
+    },
+    {
+      "original": "https://www.hoyerforcongress.com/news-clips/107-added-national-fallen-firefighters-memorial",
+      "timestamp": "20241105092218",
+      "wayback": "https://web.archive.org/web/20241105092218/https://www.hoyerforcongress.com/news-clips/107-added-national-fallen-firefighters-memorial",
+      "wayback_raw": "https://web.archive.org/web/20241105092218id_/https://www.hoyerforcongress.com/news-clips/107-added-national-fallen-firefighters-memorial",
+      "file": "archive/2024/hoyer-md/news-clips-107-added-national-fallen-firefighters-memorial.html",
+      "text_file": "archive/2024/hoyer-md/news-clips-107-added-national-fallen-firefighters-memorial.txt",
+      "bytes": 22214,
+      "sha256_html": "f55c0bd6f1d1700180fd3a2ee2b0ec1252192f74ca4cfb2630bf6f10b3ded4fc",
+      "sha256_text": "ceffa2e715307483e3fbf7cd1c03e4388981f4f10b46eb42fcb26e400fbdbcb6"
+    },
+    {
+      "original": "https://www.hoyerforcongress.com/news-clips/biden-brings-back-plans-move-fbi-headquarters-suburbs-2023-budget-request",
+      "timestamp": "20241105091625",
+      "wayback": "https://web.archive.org/web/20241105091625/https://www.hoyerforcongress.com/news-clips/biden-brings-back-plans-move-fbi-headquarters-suburbs-2023-budget-request",
+      "wayback_raw": "https://web.archive.org/web/20241105091625id_/https://www.hoyerforcongress.com/news-clips/biden-brings-back-plans-move-fbi-headquarters-suburbs-2023-budget-request",
+      "file": "archive/2024/hoyer-md/news-clips-biden-brings-back-plans-move-fbi-headquarters-suburbs-2023-budget-request.html",
+      "text_file": "archive/2024/hoyer-md/news-clips-biden-brings-back-plans-move-fbi-headquarters-suburbs-2023-budget-request.txt",
+      "bytes": 25080,
+      "sha256_html": "b161ed6c47f01f4adfd3f416a784f190b056411c7208ae0a72af1286d279296f",
+      "sha256_text": "0afe0a5df318309af69308258c50b437996d485113acd59c1596bcc1a89a2bca"
+    }
+  ],
+  "snapshots_found": {
+    "hoyerforcongress.com": 557
+  },
+  "generated_utc": "2026-11-26T07:56:46Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
