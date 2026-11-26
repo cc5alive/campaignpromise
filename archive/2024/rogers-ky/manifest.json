@@ -1,0 +1,60 @@
+{
+  "name": "Harold Rogers",
+  "domains_tried": [
+    "congressmanhalrogers.com"
+  ],
+  "pages": [
+    {
+      "original": "https://congressmanhalrogers.com/",
+      "timestamp": "20241105181243",
+      "wayback": "https://web.archive.org/web/20241105181243/https://congressmanhalrogers.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105181243id_/https://congressmanhalrogers.com/",
+      "file": "archive/2024/rogers-ky/home.html",
+      "text_file": "archive/2024/rogers-ky/home.txt",
+      "bytes": 58206,
+      "sha256_html": "d9f00d23024796984eb33b69b1074a6a2f824357bece61098f3e56a91818c0cd",
+      "sha256_text": "dedbaf6ccb4cc751227af903f6e2f2bc690ca82cd2f9270de61dbd8de4afca76"
+    },
+    {
+      "original": "https://congressmanhalrogers.com/2018/03/05/wymt-issues-and-answers/",
+      "timestamp": "20241105181240",
+      "wayback": "https://web.archive.org/web/20241105181240/https://congressmanhalrogers.com/2018/03/05/wymt-issues-and-answers/",
+      "wayback_raw": "https://web.archive.org/web/20241105181240id_/https://congressmanhalrogers.com/2018/03/05/wymt-issues-and-answers/",
+      "file": "archive/2024/rogers-ky/2018-03-05-wymt-issues-and-answers.html",
+      "text_file": "archive/2024/rogers-ky/2018-03-05-wymt-issues-and-answers.txt",
+      "bytes": 41732,
+      "sha256_html": "faba085c24d0461177495c78e5dc4d8db9d5c44a5cacb2d60263c9ce7f7c41a2",
+      "sha256_text": "ee5ddd56ee653d67e283f7282252994ff9b1a2ba6c11e434b934282e4a2614bb"
+    },
+    {
+      "original": "https://congressmanhalrogers.com/2018/03/05/wymt-issues-and-answers/embed/",
+      "timestamp": "20241103003539",
+      "wayback": "https://web.archive.org/web/20241103003539/https://congressmanhalrogers.com/2018/03/05/wymt-issues-and-answers/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241103003539id_/https://congressmanhalrogers.com/2018/03/05/wymt-issues-and-answers/embed/",
+      "file": "archive/2024/rogers-ky/2018-03-05-wymt-issues-and-answers-embed.html",
+      "text_file": "archive/2024/rogers-ky/2018-03-05-wymt-issues-and-answers-embed.txt",
+      "bytes": 34836,
+      "sha256_html": "4a30fc5013eb00643d75b31fa05ca611d74aa000422e3bbd64691b1835549c4e",
+      "sha256_text": "cef2cbabb08bc01f6571cd12560fa4445edf86e1361a24af5463877cb5d356b5"
+    },
+    {
+      "original": "https://congressmanhalrogers.com/about/",
+      "timestamp": "20241105181241",
+      "wayback": "https://web.archive.org/web/20241105181241/https://congressmanhalrogers.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105181241id_/https://congressmanhalrogers.com/about/",
+      "file": "archive/2024/rogers-ky/about.html",
+      "text_file": "archive/2024/rogers-ky/about.txt",
+      "bytes": 49937,
+      "sha256_html": "f77cb445b29bca9fcf302461091c87e9aba1424d86fd65807434d343dc6854dd",
+      "sha256_text": "1f0b1ec9c2db116d112f5cc28f9632b37379e16cea8278ebf025fecdbfeb0604"
+    }
+  ],
+  "snapshots_found": {
+    "congressmanhalrogers.com": 183
+  },
+  "generated_utc": "2026-11-26T08:17:48Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
