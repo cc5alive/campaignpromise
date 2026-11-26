@@ -1,0 +1,148 @@
+{
+  "name": "Joyce Beatty",
+  "domains_tried": [
+    "beattyforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://beattyforcongress.com/",
+      "timestamp": "20241105053101",
+      "wayback": "https://web.archive.org/web/20241105053101/https://beattyforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105053101id_/https://beattyforcongress.com/",
+      "file": "archive/2024/beatty-oh/home.html",
+      "text_file": "archive/2024/beatty-oh/home.txt",
+      "bytes": 70569,
+      "sha256_html": "074b65a9f8724e87d4d5b68de8497f4e8de0be5dcf5031b29a39745d3f1bb500",
+      "sha256_text": "bcdfea4388f798450a9f575bee3412e6d288d30a44c4e10fa7af8db83b5f0700"
+    },
+    {
+      "original": "https://beattyforcongress.com/how-a-democratic-minority-engagement-program-is-fighting-ohios-voter-roll-purges-and-their-impact-on-black-people/",
+      "timestamp": "20241105053253",
+      "wayback": "https://web.archive.org/web/20241105053253/https://beattyforcongress.com/how-a-democratic-minority-engagement-program-is-fighting-ohios-voter-roll-purges-and-their-impact-on-black-people/",
+      "wayback_raw": "https://web.archive.org/web/20241105053253id_/https://beattyforcongress.com/how-a-democratic-minority-engagement-program-is-fighting-ohios-voter-roll-purges-and-their-impact-on-black-people/",
+      "file": "archive/2024/beatty-oh/how-a-democratic-minority-engagement-program-is-fighting-ohios-voter-roll-purges-and-their-impact-on-black-people.html",
+      "text_file": "archive/2024/beatty-oh/how-a-democratic-minority-engagement-program-is-fighting-ohios-voter-roll-purges-and-their-impact-on-black-people.txt",
+      "bytes": 54031,
+      "sha256_html": "d60f144f6dc4fc124a3c273b2775c6758f569126ad3e72a9e9cc71599d03ce44",
+      "sha256_text": "69df8ef25e93ea8bd3f0d9fbaf1c0a323698f3b28075db39365cd4860cea7b19"
+    },
+    {
+      "original": "https://beattyforcongress.com/issues/",
+      "timestamp": "20241105053758",
+      "wayback": "https://web.archive.org/web/20241105053758/https://beattyforcongress.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105053758id_/https://beattyforcongress.com/issues/",
+      "file": "archive/2024/beatty-oh/issues.html",
+      "text_file": "archive/2024/beatty-oh/issues.txt",
+      "bytes": 45458,
+      "sha256_html": "b2a4b1a50b7d293cf57a27a73b72d71c9be54ec7e4ba8618c5ff03cccd76fe88",
+      "sha256_text": "2ba6d8c8b509470b02500b241838540b9b40636b4ff24eee65fca2a45b289ac5"
+    },
+    {
+      "original": "https://beattyforcongress.com/issues-page/",
+      "timestamp": "20241105053100",
+      "wayback": "https://web.archive.org/web/20241105053100/https://beattyforcongress.com/issues-page/",
+      "wayback_raw": "https://web.archive.org/web/20241105053100id_/https://beattyforcongress.com/issues-page/",
+      "file": "archive/2024/beatty-oh/issues-page.html",
+      "text_file": "archive/2024/beatty-oh/issues-page.txt",
+      "bytes": 51315,
+      "sha256_html": "61c3fff31e5f7e6980590b35e5cff710458b496202a064f7edc09dc6c7a9f7d8",
+      "sha256_text": "ea734240114c33f81392474f91a7a94dbe9b0686f014610ee5f106b1f1da8ef8"
+    },
+    {
+      "original": "https://beattyforcongress.com/how-a-democratic-minority-engagement-program-is-fighting-ohios-voter-roll-purges-and-their-impact-on-black-people/embed/",
+      "timestamp": "20241105054024",
+      "wayback": "https://web.archive.org/web/20241105054024/https://beattyforcongress.com/how-a-democratic-minority-engagement-program-is-fighting-ohios-voter-roll-purges-and-their-impact-on-black-people/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241105054024id_/https://beattyforcongress.com/how-a-democratic-minority-engagement-program-is-fighting-ohios-voter-roll-purges-and-their-impact-on-black-people/embed/",
+      "file": "archive/2024/beatty-oh/how-a-democratic-minority-engagement-program-is-fighting-ohios-voter-roll-purges-and-their-impact-on-black-people-embed.html",
+      "text_file": "archive/2024/beatty-oh/how-a-democratic-minority-engagement-program-is-fighting-ohios-voter-roll-purges-and-their-impact-on-black-people-embed.txt",
+      "bytes": 21468,
+      "sha256_html": "67f0a17bc818a081a13f6acf9913f172629b01298bed1cde01a68785148cd386",
+      "sha256_text": "7ea15d0464c45f3a9b594939acf25af614f8b8d55501395af72f620fcf6f74ae"
+    },
+    {
+      "original": "https://beattyforcongress.com/issues-page/embed/",
+      "timestamp": "20241105053348",
+      "wayback": "https://web.archive.org/web/20241105053348/https://beattyforcongress.com/issues-page/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241105053348id_/https://beattyforcongress.com/issues-page/embed/",
+      "file": "archive/2024/beatty-oh/issues-page-embed.html",
+      "text_file": "archive/2024/beatty-oh/issues-page-embed.txt",
+      "bytes": 19571,
+      "sha256_html": "9b0265dbb692a7c36ac5a00f34066c98bc53063859cef8fdda01e07e0f61a417",
+      "sha256_text": "4b7c1ddfd96250dafdfcb0a58c6b8a09dfa3852632c4526072b1a3218de80903"
+    },
+    {
+      "original": "https://beattyforcongress.com/issues/balancing-the-budget/",
+      "timestamp": "20241105053807",
+      "wayback": "https://web.archive.org/web/20241105053807/https://beattyforcongress.com/issues/balancing-the-budget/",
+      "wayback_raw": "https://web.archive.org/web/20241105053807id_/https://beattyforcongress.com/issues/balancing-the-budget/",
+      "file": "archive/2024/beatty-oh/issues-balancing-the-budget.html",
+      "text_file": "archive/2024/beatty-oh/issues-balancing-the-budget.txt",
+      "bytes": 47375,
+      "sha256_html": "f1e058fda149f1d48057bd2580884e12c8836294c3525c1ad48d7a942a7445a7",
+      "sha256_text": "13402760d2644a34996bdb67438fa6800574cac1cdf625462b31f81c9336ca5d"
+    },
+    {
+      "original": "https://beattyforcongress.com/issues/creating-jobs/",
+      "timestamp": "20241105053802",
+      "wayback": "https://web.archive.org/web/20241105053802/https://beattyforcongress.com/issues/creating-jobs/",
+      "wayback_raw": "https://web.archive.org/web/20241105053802id_/https://beattyforcongress.com/issues/creating-jobs/",
+      "file": "archive/2024/beatty-oh/issues-creating-jobs.html",
+      "text_file": "archive/2024/beatty-oh/issues-creating-jobs.txt",
+      "bytes": 47368,
+      "sha256_html": "95e75e09565fefe4c3e181efcd7d79aecaf5abc46c6919cb699ce9b2e0939ace",
+      "sha256_text": "9d3876f01e35453a955f44df58946e729572e328a89711ffc4d99333904ac89b"
+    },
+    {
+      "original": "https://beattyforcongress.com/issues/growing-our-economy/",
+      "timestamp": "20241105053803",
+      "wayback": "https://web.archive.org/web/20241105053803/https://beattyforcongress.com/issues/growing-our-economy/",
+      "wayback_raw": "https://web.archive.org/web/20241105053803id_/https://beattyforcongress.com/issues/growing-our-economy/",
+      "file": "archive/2024/beatty-oh/issues-growing-our-economy.html",
+      "text_file": "archive/2024/beatty-oh/issues-growing-our-economy.txt",
+      "bytes": 47403,
+      "sha256_html": "a1357135636199f55814fb913a5a750216356f758511c149350643da6f7ba0d9",
+      "sha256_text": "adc92e0627f5352cf53ca75645552b2154c9f88e97ab6ccb106a0c3421d524b0"
+    },
+    {
+      "original": "https://beattyforcongress.com/issues/protecting-medicare/",
+      "timestamp": "20241105053805",
+      "wayback": "https://web.archive.org/web/20241105053805/https://beattyforcongress.com/issues/protecting-medicare/",
+      "wayback_raw": "https://web.archive.org/web/20241105053805id_/https://beattyforcongress.com/issues/protecting-medicare/",
+      "file": "archive/2024/beatty-oh/issues-protecting-medicare.html",
+      "text_file": "archive/2024/beatty-oh/issues-protecting-medicare.txt",
+      "bytes": 47280,
+      "sha256_html": "f35dfacb0dea2e23b5984a3b1e1aaf0152a9ba8289abf3d7ea3d6aa1d403fa79",
+      "sha256_text": "85e1bc37834e6805163edf5f8a0778bcdb06740916346cb4f4d3e6a3f1b11f1a"
+    },
+    {
+      "original": "https://beattyforcongress.com/issues/protecting-seniors/",
+      "timestamp": "20241105053800",
+      "wayback": "https://web.archive.org/web/20241105053800/https://beattyforcongress.com/issues/protecting-seniors/",
+      "wayback_raw": "https://web.archive.org/web/20241105053800id_/https://beattyforcongress.com/issues/protecting-seniors/",
+      "file": "archive/2024/beatty-oh/issues-protecting-seniors.html",
+      "text_file": "archive/2024/beatty-oh/issues-protecting-seniors.txt",
+      "bytes": 46790,
+      "sha256_html": "c799afa39b63292159fe4efc90ea91992dff1cb9263c62bf68f04bb2396540d8",
+      "sha256_text": "971275b3a781103ece3c447c89a31237edc52ed2aaa590024c78366435a269bf"
+    },
+    {
+      "original": "https://beattyforcongress.com/issues/balancing-the-budget/embed/",
+      "timestamp": "20241105054656",
+      "wayback": "https://web.archive.org/web/20241105054656/https://beattyforcongress.com/issues/balancing-the-budget/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241105054656id_/https://beattyforcongress.com/issues/balancing-the-budget/embed/",
+      "file": "archive/2024/beatty-oh/issues-balancing-the-budget-embed.html",
+      "text_file": "archive/2024/beatty-oh/issues-balancing-the-budget-embed.txt",
+      "bytes": 20781,
+      "sha256_html": "9441e16982671953904cce696e11e3fd20cd3064e6cf068d4e35f6be3dc26e55",
+      "sha256_text": "bc4daca3a49fbc5cd0bf99c9109e22cf68a8cf18aa30081c67f3202551610316"
+    }
+  ],
+  "snapshots_found": {
+    "beattyforcongress.com": 289
+  },
+  "generated_utc": "2026-11-26T08:44:26Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
