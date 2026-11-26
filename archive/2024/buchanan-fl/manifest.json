@@ -1,0 +1,65 @@
+{
+  "name": "Vern Buchanan",
+  "domains_tried": [
+    "vernbuchanan.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.vernbuchanan.com/",
+      "timestamp": "20241105083444",
+      "error": "no response"
+    },
+    {
+      "original": "https://www.vernbuchanan.com/issues",
+      "timestamp": "20241105075607",
+      "wayback": "https://web.archive.org/web/20241105075607/https://www.vernbuchanan.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105075607id_/https://www.vernbuchanan.com/issues",
+      "file": "archive/2024/buchanan-fl/issues.html",
+      "text_file": "archive/2024/buchanan-fl/issues.txt",
+      "bytes": 71862,
+      "sha256_html": "057bdfef3bd63473532cac95ff80ccdba5fcd1fcc7e49981a74c7c79f6e0a3a7",
+      "sha256_text": "3150b0135ff113097c0c4173d3da1ccfec9a869915955d53147589366fb303aa"
+    },
+    {
+      "original": "https://www.vernbuchanan.com/priorities",
+      "timestamp": "20241105075607",
+      "wayback": "https://web.archive.org/web/20241105075607/https://www.vernbuchanan.com/priorities",
+      "wayback_raw": "https://web.archive.org/web/20241105075607id_/https://www.vernbuchanan.com/priorities",
+      "file": "archive/2024/buchanan-fl/priorities.html",
+      "text_file": "archive/2024/buchanan-fl/priorities.txt",
+      "bytes": 72011,
+      "sha256_html": "cf8b06f36df2801b957631f012841c75df50f15a26acaa8075ae173375f416ba",
+      "sha256_text": "8630413dc9c04b5c688f40fe5fb6cff2a01481259683ed09ebb5f25eb3904e5f"
+    },
+    {
+      "original": "https://www.vernbuchanan.com/2024/4/rejecting-woke-liberal-policies",
+      "timestamp": "20241105075700",
+      "wayback": "https://web.archive.org/web/20241105075700/https://www.vernbuchanan.com/2024/4/rejecting-woke-liberal-policies",
+      "wayback_raw": "https://web.archive.org/web/20241105075700id_/https://www.vernbuchanan.com/2024/4/rejecting-woke-liberal-policies",
+      "file": "archive/2024/buchanan-fl/2024-4-rejecting-woke-liberal-policies.html",
+      "text_file": "archive/2024/buchanan-fl/2024-4-rejecting-woke-liberal-policies.txt",
+      "bytes": 73199,
+      "sha256_html": "ba95e1f9b1b363cde983dab1414a31bcc1ce6a3e548745962d8e872f11fb77b5",
+      "sha256_text": "70bb961600008d14d70a86a08422df42e437dd43337cbd4fcf4b98ccba5be073"
+    },
+    {
+      "original": "https://www.vernbuchanan.com/about",
+      "timestamp": "20241105075546",
+      "wayback": "https://web.archive.org/web/20241105075546/https://www.vernbuchanan.com/about",
+      "wayback_raw": "https://web.archive.org/web/20241105075546id_/https://www.vernbuchanan.com/about",
+      "file": "archive/2024/buchanan-fl/about.html",
+      "text_file": "archive/2024/buchanan-fl/about.txt",
+      "bytes": 74209,
+      "sha256_html": "0aa2a9e41cc1ae62666ccb0e6f29f4134bdc669e9dea20eb8d52eb8d62f0068f",
+      "sha256_text": "a2359ed3c798290c9e74d0e10163af8c40d93ce0f83e7c914e39a69e2957ed61"
+    }
+  ],
+  "snapshots_found": {
+    "vernbuchanan.com": 20
+  },
+  "generated_utc": "2026-11-26T07:33:13Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
