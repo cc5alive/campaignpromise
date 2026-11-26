@@ -1,0 +1,21 @@
+{
+  "name": "Richard J. Durbin",
+  "domains_tried": [
+    "dickdurbin.com"
+  ],
+  "pages": [
+    {
+      "original": "https://dickdurbin.com/",
+      "timestamp": "20241031072518",
+      "error": "no response"
+    }
+  ],
+  "snapshots_found": {
+    "dickdurbin.com": 1
+  },
+  "generated_utc": "2026-11-26T07:24:40Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
