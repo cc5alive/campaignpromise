@@ -1,0 +1,148 @@
+{
+  "name": "Mike Quigley",
+  "domains_tried": [
+    "quigleyforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://quigleyforcongress.com/",
+      "timestamp": "20241105205921",
+      "wayback": "https://web.archive.org/web/20241105205921/https://quigleyforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105205921id_/https://quigleyforcongress.com/",
+      "file": "archive/2024/quigley-il/home.html",
+      "text_file": "archive/2024/quigley-il/home.txt",
+      "bytes": 86494,
+      "sha256_html": "7e7e85ecc051bd0cf57e59b71bbefcd5ed7b64f0f149d3da53597a003ed78b12",
+      "sha256_text": "ae62137856046e5c0b65c0c09656018293ce8e4d2f3b7483d4f80043132236b3"
+    },
+    {
+      "original": "https://quigleyforcongress.com/issues/",
+      "timestamp": "20241105210021",
+      "wayback": "https://web.archive.org/web/20241105210021/https://quigleyforcongress.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105210021id_/https://quigleyforcongress.com/issues/",
+      "file": "archive/2024/quigley-il/issues.html",
+      "text_file": "archive/2024/quigley-il/issues.txt",
+      "bytes": 108888,
+      "sha256_html": "7e5ebab4835dc6f70aea11e39c6652938b84e39ead6d790b4979ac314bb814c2",
+      "sha256_text": "b7a65f98925f0057b3420d1b93f7a385d12ed1007ce4fde374fd6f03c1e69d9b"
+    },
+    {
+      "original": "https://quigleyforcongress.com/making-america-stronger-with-a-national-energy-plan/",
+      "timestamp": "20241105210728",
+      "wayback": "https://web.archive.org/web/20241105210728/https://quigleyforcongress.com/making-america-stronger-with-a-national-energy-plan/",
+      "wayback_raw": "https://web.archive.org/web/20241105210728id_/https://quigleyforcongress.com/making-america-stronger-with-a-national-energy-plan/",
+      "file": "archive/2024/quigley-il/making-america-stronger-with-a-national-energy-plan.html",
+      "text_file": "archive/2024/quigley-il/making-america-stronger-with-a-national-energy-plan.txt",
+      "bytes": 87639,
+      "sha256_html": "5701e4a3ac307117208a69058c00d0df738dc5d91b671cf311bfa88c4f946b3d",
+      "sha256_text": "de09d9a8242d122d04b0ed7d384dda4bc73afcf2ddecaa0a574a945461575643"
+    },
+    {
+      "original": "https://quigleyforcongress.com/planned-parenthood-il-action-announces-political-endorsements/",
+      "timestamp": "20241105210731",
+      "wayback": "https://web.archive.org/web/20241105210731/https://quigleyforcongress.com/planned-parenthood-il-action-announces-political-endorsements/",
+      "wayback_raw": "https://web.archive.org/web/20241105210731id_/https://quigleyforcongress.com/planned-parenthood-il-action-announces-political-endorsements/",
+      "file": "archive/2024/quigley-il/planned-parenthood-il-action-announces-political-endorsements.html",
+      "text_file": "archive/2024/quigley-il/planned-parenthood-il-action-announces-political-endorsements.txt",
+      "bytes": 75081,
+      "sha256_html": "902a1ac0d8e2b4735864212ef37264336efdb11b72a612d971a06153a4d0d33a",
+      "sha256_text": "0b06ea05eb1795091596b75758cd9c345b98b3d3ae81ab74476162d9ecaddadf"
+    },
+    {
+      "original": "https://quigleyforcongress.com/quigley-applaudes-dhs-for-recognizing-lgbt-families-in-federal-immigration-policies/",
+      "timestamp": "20241105210655",
+      "wayback": "https://web.archive.org/web/20241105210655/https://quigleyforcongress.com/quigley-applaudes-dhs-for-recognizing-lgbt-families-in-federal-immigration-policies/",
+      "wayback_raw": "https://web.archive.org/web/20241105210655id_/https://quigleyforcongress.com/quigley-applaudes-dhs-for-recognizing-lgbt-families-in-federal-immigration-policies/",
+      "file": "archive/2024/quigley-il/quigley-applaudes-dhs-for-recognizing-lgbt-families-in-federal-immigration-policies.html",
+      "text_file": "archive/2024/quigley-il/quigley-applaudes-dhs-for-recognizing-lgbt-families-in-federal-immigration-policies.txt",
+      "bytes": 74949,
+      "sha256_html": "14d7c34effb2a8e36cf117cdfae92ee015e7878478796dcc0bed8ac061cd3a26",
+      "sha256_text": "5662f52563a88b5b1fc3eb56a4587638d958445f62245cd455b1a59e679c9ad0"
+    },
+    {
+      "original": "https://quigleyforcongress.com/issues/embed/",
+      "timestamp": "20241101192739",
+      "wayback": "https://web.archive.org/web/20241101192739/https://quigleyforcongress.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241101192739id_/https://quigleyforcongress.com/issues/embed/",
+      "file": "archive/2024/quigley-il/issues-embed.html",
+      "text_file": "archive/2024/quigley-il/issues-embed.txt",
+      "bytes": 20791,
+      "sha256_html": "ee4b63b89004765d5e9c02e243cf24221a28308f3e3a1d761d4861bdd44681ac",
+      "sha256_text": "c91ed44cc5a07df9d5e65094bb09d7ce1c4d47d00c1c6d7100978c7881c28c01"
+    },
+    {
+      "original": "https://quigleyforcongress.com/issues/issues-header/",
+      "timestamp": "20241105210313",
+      "wayback": "https://web.archive.org/web/20241105210313/https://quigleyforcongress.com/issues/issues-header/",
+      "wayback_raw": "https://web.archive.org/web/20241105210313id_/https://quigleyforcongress.com/issues/issues-header/",
+      "file": "archive/2024/quigley-il/issues-issues-header.html",
+      "text_file": "archive/2024/quigley-il/issues-issues-header.txt",
+      "bytes": 40342,
+      "sha256_html": "8e83be4bd744475006c9758a476ad1049fa1abf7bf7377a9677982776b654e37",
+      "sha256_text": "5b68088c02f4dc14ea54f3f28336d1de4c8367b571378f9c9784fdf26f6fa4e7"
+    },
+    {
+      "original": "https://quigleyforcongress.com/issues/issues-header-2/",
+      "timestamp": "20241105210510",
+      "wayback": "https://web.archive.org/web/20241105210510/https://quigleyforcongress.com/issues/issues-header-2/",
+      "wayback_raw": "https://web.archive.org/web/20241105210510id_/https://quigleyforcongress.com/issues/issues-header-2/",
+      "file": "archive/2024/quigley-il/issues-issues-header-2.html",
+      "text_file": "archive/2024/quigley-il/issues-issues-header-2.txt",
+      "bytes": 40399,
+      "sha256_html": "8b05fbe7789b13c321f7c8bbf578b7267c0fdfaabc84cfe28f0561c2eff0c5b9",
+      "sha256_text": "9cb94ac84b181fe2c9e23609c02b19b80c4c2f45664d250d81c7c39e72282a78"
+    },
+    {
+      "original": "https://quigleyforcongress.com/making-america-stronger-with-a-national-energy-plan/embed/",
+      "timestamp": "20241103085138",
+      "wayback": "https://web.archive.org/web/20241103085138/https://quigleyforcongress.com/making-america-stronger-with-a-national-energy-plan/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241103085138id_/https://quigleyforcongress.com/making-america-stronger-with-a-national-energy-plan/embed/",
+      "file": "archive/2024/quigley-il/making-america-stronger-with-a-national-energy-plan-embed.html",
+      "text_file": "archive/2024/quigley-il/making-america-stronger-with-a-national-energy-plan-embed.txt",
+      "bytes": 22215,
+      "sha256_html": "dafdc43bc32edac2ce39cd204ff1cbf14f90fd0fd33f6ef0aba3e4d735ebdbee",
+      "sha256_text": "a98c67daaf7acf30097bfcd2a83253a012b552d169c48cafb94fa9af88153591"
+    },
+    {
+      "original": "https://quigleyforcongress.com/planned-parenthood-il-action-announces-political-endorsements/embed/",
+      "timestamp": "20241103084759",
+      "wayback": "https://web.archive.org/web/20241103084759/https://quigleyforcongress.com/planned-parenthood-il-action-announces-political-endorsements/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241103084759id_/https://quigleyforcongress.com/planned-parenthood-il-action-announces-political-endorsements/embed/",
+      "file": "archive/2024/quigley-il/planned-parenthood-il-action-announces-political-endorsements-embed.html",
+      "text_file": "archive/2024/quigley-il/planned-parenthood-il-action-announces-political-endorsements-embed.txt",
+      "bytes": 22293,
+      "sha256_html": "7428c881b88422155af07c05666bd0a1dd769c74916745948a947e4fef0415ac",
+      "sha256_text": "d575d51b97f27ef4f8a7ae23ad85d48b205b26df7e1ea61e790e17c672cf545f"
+    },
+    {
+      "original": "https://quigleyforcongress.com/quigley-applaudes-dhs-for-recognizing-lgbt-families-in-federal-immigration-policies/embed/",
+      "timestamp": "20241103085028",
+      "wayback": "https://web.archive.org/web/20241103085028/https://quigleyforcongress.com/quigley-applaudes-dhs-for-recognizing-lgbt-families-in-federal-immigration-policies/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241103085028id_/https://quigleyforcongress.com/quigley-applaudes-dhs-for-recognizing-lgbt-families-in-federal-immigration-policies/embed/",
+      "file": "archive/2024/quigley-il/quigley-applaudes-dhs-for-recognizing-lgbt-families-in-federal-immigration-policies-embed.html",
+      "text_file": "archive/2024/quigley-il/quigley-applaudes-dhs-for-recognizing-lgbt-families-in-federal-immigration-policies-embed.txt",
+      "bytes": 22551,
+      "sha256_html": "8d3035415c2bcc6dd37f059e8fd9162f48d671c23348b6b0c94a253585e1500c",
+      "sha256_text": "40b7dafe91c4b21ab248c2279004895618d02a905197e566e25cf2448a42339d"
+    },
+    {
+      "original": "https://quigleyforcongress.com/about/",
+      "timestamp": "20241105210026",
+      "wayback": "https://web.archive.org/web/20241105210026/https://quigleyforcongress.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105210026id_/https://quigleyforcongress.com/about/",
+      "file": "archive/2024/quigley-il/about.html",
+      "text_file": "archive/2024/quigley-il/about.txt",
+      "bytes": 93759,
+      "sha256_html": "074a04d01a673b87d2e5f7459676501915d30cd1f5b64d1dc23ef0c7042f0b40",
+      "sha256_text": "42bbb65fe9f127e3b72d73f0d84b2297a82df41566d79664e6794701d1185b27"
+    }
+  ],
+  "snapshots_found": {
+    "quigleyforcongress.com": 158
+  },
+  "generated_utc": "2026-11-26T08:16:45Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
