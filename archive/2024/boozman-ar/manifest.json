@@ -1,0 +1,49 @@
+{
+  "name": "John Boozman",
+  "domains_tried": [
+    "boozmanforarkansas.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.boozmanforarkansas.com/",
+      "timestamp": "20241105114843",
+      "wayback": "https://web.archive.org/web/20241105114843/https://www.boozmanforarkansas.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105114843id_/https://www.boozmanforarkansas.com/",
+      "file": "archive/2024/boozman-ar/home.html",
+      "text_file": "archive/2024/boozman-ar/home.txt",
+      "bytes": 24967,
+      "sha256_html": "e1c16b926dcdd2f2baeb373998d216ddc47bb13cb23c2f557bf2c3fb43cafaa8",
+      "sha256_text": "1d4e6282512a8bf36d98a28d376e129e10713dcd0dab6a3499ff786ceb36bc04"
+    },
+    {
+      "original": "https://www.boozmanforarkansas.com/issues",
+      "timestamp": "20241004185231",
+      "wayback": "https://web.archive.org/web/20241004185231/https://www.boozmanforarkansas.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241004185231id_/https://www.boozmanforarkansas.com/issues",
+      "file": "archive/2024/boozman-ar/issues.html",
+      "text_file": "archive/2024/boozman-ar/issues.txt",
+      "bytes": 23962,
+      "sha256_html": "7d1347738af0accd054b9e06039ec027cdb5008764ad57dc865205a4a82a35cc",
+      "sha256_text": "10fa0712732d4a3bdfa95f6a6cd0ba69137041a92f115a1770df1f6fbb2931ab"
+    },
+    {
+      "original": "https://www.boozmanforarkansas.com/news/googles-accelerating-broadband-agenda",
+      "timestamp": "20240916055248",
+      "wayback": "https://web.archive.org/web/20240916055248/https://www.boozmanforarkansas.com/news/googles-accelerating-broadband-agenda",
+      "wayback_raw": "https://web.archive.org/web/20240916055248id_/https://www.boozmanforarkansas.com/news/googles-accelerating-broadband-agenda",
+      "file": "archive/2024/boozman-ar/news-googles-accelerating-broadband-agenda.html",
+      "text_file": "archive/2024/boozman-ar/news-googles-accelerating-broadband-agenda.txt",
+      "bytes": 9520,
+      "sha256_html": "d1029b276863c21e1649f2ce94953b7455de92ba5cd6c97948bc2c90311d72e2",
+      "sha256_text": "7ccfe097c299dcb25bc105863cc92eff09e4164c745ca4e7a1282286bf011944"
+    }
+  ],
+  "snapshots_found": {
+    "boozmanforarkansas.com": 19
+  },
+  "generated_utc": "2026-11-26T07:21:26Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
