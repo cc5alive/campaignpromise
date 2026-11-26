@@ -1,0 +1,38 @@
+{
+  "name": "Tracey Mann",
+  "domains_tried": [
+    "traceymann.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.traceymann.com/",
+      "timestamp": "20241105051546",
+      "wayback": "https://web.archive.org/web/20241105051546/https://www.traceymann.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105051546id_/https://www.traceymann.com/",
+      "file": "archive/2024/mann-ks/home.html",
+      "text_file": "archive/2024/mann-ks/home.txt",
+      "bytes": 167110,
+      "sha256_html": "6f0ed5ce00bdb0462eb79263189db65dd76809c7d18ec5dfdd9ce3d3dba4d867",
+      "sha256_text": "f36f8ae1f41183e208a280a74066ea4292043220904055e22143e96eb9b43d66"
+    },
+    {
+      "original": "https://www.traceymann.com/about",
+      "timestamp": "20241105051552",
+      "wayback": "https://web.archive.org/web/20241105051552/https://www.traceymann.com/about",
+      "wayback_raw": "https://web.archive.org/web/20241105051552id_/https://www.traceymann.com/about",
+      "file": "archive/2024/mann-ks/about.html",
+      "text_file": "archive/2024/mann-ks/about.txt",
+      "bytes": 146775,
+      "sha256_html": "48bf00d1d53be02867841f6e6aa7080d33c5e38ae27200f40d92a980b36e75e2",
+      "sha256_text": "5e425ba62b76829584ced1a558f7125dbb24054be29001afaa7b59b14a86c1c4"
+    }
+  ],
+  "snapshots_found": {
+    "traceymann.com": 16
+  },
+  "generated_utc": "2026-11-26T08:30:23Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
