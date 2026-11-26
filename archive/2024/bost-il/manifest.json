@@ -1,0 +1,27 @@
+{
+  "name": "Mike Bost",
+  "domains_tried": [
+    "bostforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "http://bostforcongress.com/",
+      "timestamp": "20241105110103",
+      "wayback": "https://web.archive.org/web/20241105110103/http://bostforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105110103id_/http://bostforcongress.com/",
+      "file": "archive/2024/bost-il/home.html",
+      "text_file": "archive/2024/bost-il/home.txt",
+      "bytes": 86724,
+      "sha256_html": "0487587633d7e3851c9176e1ddebba5ec94c07efef0dd7afeb0d718c73175939",
+      "sha256_text": "7781ce202bcdd3e35a542b3f243ac4dfc43b414f3e1b59c18e25186a62de7088"
+    }
+  ],
+  "snapshots_found": {
+    "bostforcongress.com": 898
+  },
+  "generated_utc": "2026-11-26T08:51:39Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
