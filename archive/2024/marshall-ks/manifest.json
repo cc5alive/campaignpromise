@@ -1,0 +1,27 @@
+{
+  "name": "Roger Marshall",
+  "domains_tried": [
+    "kansansformarshall.com"
+  ],
+  "pages": [
+    {
+      "original": "https://kansansformarshall.com/",
+      "timestamp": "20241105092242",
+      "wayback": "https://web.archive.org/web/20241105092242/https://kansansformarshall.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105092242id_/https://kansansformarshall.com/",
+      "file": "archive/2024/marshall-ks/home.html",
+      "text_file": "archive/2024/marshall-ks/home.txt",
+      "bytes": 12203,
+      "sha256_html": "28ad11e38840de6aaf6ab4e471be028b975a84d3d357295a04499ebd775b7059",
+      "sha256_text": "bf2f066e7f24e80a6e20bad5bb8960df311b3a6b3ac1dc2c20a93369b18fc4de"
+    }
+  ],
+  "snapshots_found": {
+    "kansansformarshall.com": 3
+  },
+  "generated_utc": "2026-11-26T07:52:34Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
