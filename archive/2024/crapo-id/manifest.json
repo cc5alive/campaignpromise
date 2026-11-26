@@ -1,0 +1,60 @@
+{
+  "name": "Mike Crapo",
+  "domains_tried": [
+    "crapoforsenate.com"
+  ],
+  "pages": [
+    {
+      "original": "https://crapoforsenate.com/",
+      "timestamp": "20241105094410",
+      "wayback": "https://web.archive.org/web/20241105094410/https://crapoforsenate.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105094410id_/https://crapoforsenate.com/",
+      "file": "archive/2024/crapo-id/home.html",
+      "text_file": "archive/2024/crapo-id/home.txt",
+      "bytes": 98600,
+      "sha256_html": "01d09eaa1c69038fcd7c9ee9b37d8bef9840fa47beb565ff976bf6276e277660",
+      "sha256_text": "4f6ce1a2f2ddd2abc38f7efdee68bee8184a6129294b647726e99dcda2d9f41a"
+    },
+    {
+      "original": "https://crapoforsenate.com/crapo-aa-highlights-fight-veterans/",
+      "timestamp": "20241104081816",
+      "wayback": "https://web.archive.org/web/20241104081816/https://crapoforsenate.com/crapo-aa-highlights-fight-veterans/",
+      "wayback_raw": "https://web.archive.org/web/20241104081816id_/https://crapoforsenate.com/crapo-aa-highlights-fight-veterans/",
+      "file": "archive/2024/crapo-id/crapo-aa-highlights-fight-veterans.html",
+      "text_file": "archive/2024/crapo-id/crapo-aa-highlights-fight-veterans.txt",
+      "bytes": 45054,
+      "sha256_html": "e62b14fbcfd11fce6b64c9a279e11bdcfb1d0da5eb48bdfc4d61ee4ce75fcd86",
+      "sha256_text": "6c181ca7a97b6f072fac3a98d90d701b41f104106b40b2eb15e1b6aa9cc88715"
+    },
+    {
+      "original": "https://crapoforsenate.com/crapo-fights-irs-overreach/",
+      "timestamp": "20241104073236",
+      "wayback": "https://web.archive.org/web/20241104073236/https://crapoforsenate.com/crapo-fights-irs-overreach/",
+      "wayback_raw": "https://web.archive.org/web/20241104073236id_/https://crapoforsenate.com/crapo-fights-irs-overreach/",
+      "file": "archive/2024/crapo-id/crapo-fights-irs-overreach.html",
+      "text_file": "archive/2024/crapo-id/crapo-fights-irs-overreach.txt",
+      "bytes": 44750,
+      "sha256_html": "12858f3c0d44560ef4bba5a54a4fc71f16a6ff0748fb31fdb9b8f6a78b8b2d29",
+      "sha256_text": "c62c28b11c09882aab07da6d410fe11785d913618a9c1ed9b835914bfefe71b8"
+    },
+    {
+      "original": "https://crapoforsenate.com/the-issues/",
+      "timestamp": "20241104081426",
+      "wayback": "https://web.archive.org/web/20241104081426/https://crapoforsenate.com/the-issues/",
+      "wayback_raw": "https://web.archive.org/web/20241104081426id_/https://crapoforsenate.com/the-issues/",
+      "file": "archive/2024/crapo-id/the-issues.html",
+      "text_file": "archive/2024/crapo-id/the-issues.txt",
+      "bytes": 58077,
+      "sha256_html": "af51012c7d671b2346743d332cae8aa9327b8d3be4e612e51ca6fbaa110d4730",
+      "sha256_text": "e93f259bf5b54cc9f168401e84b14f049a4c5232f09131da2e1ab9ae7fadc34c"
+    }
+  ],
+  "snapshots_found": {
+    "crapoforsenate.com": 22
+  },
+  "generated_utc": "2026-11-26T07:35:23Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
