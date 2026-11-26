@@ -1,0 +1,71 @@
+{
+  "name": "Shontel M. Brown",
+  "domains_tried": [
+    "shontelbrown.com"
+  ],
+  "pages": [
+    {
+      "original": "https://shontelbrown.com/",
+      "timestamp": "20241105062714",
+      "wayback": "https://web.archive.org/web/20241105062714/https://shontelbrown.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105062714id_/https://shontelbrown.com/",
+      "file": "archive/2024/brown-oh/home.html",
+      "text_file": "archive/2024/brown-oh/home.txt",
+      "bytes": 56601,
+      "sha256_html": "33d2bee5b0115d8db52bcece352e9cf3ffff059f4a72562ab16594babf5dff5b",
+      "sha256_text": "1f3b0eb3c33aec596556fd46c5f9a082fb170bb3d825e23311cdee4b448432b2"
+    },
+    {
+      "original": "https://shontelbrown.com/accomplishments/",
+      "timestamp": "20241105062752",
+      "wayback": "https://web.archive.org/web/20241105062752/https://shontelbrown.com/accomplishments/",
+      "wayback_raw": "https://web.archive.org/web/20241105062752id_/https://shontelbrown.com/accomplishments/",
+      "file": "archive/2024/brown-oh/accomplishments.html",
+      "text_file": "archive/2024/brown-oh/accomplishments.txt",
+      "bytes": 45483,
+      "sha256_html": "62c4defb6f07264eb51f325ce97cb5cbf80c1d1e26b4b4d4cac48075ff7c8629",
+      "sha256_text": "fcb96ca5dd43775676ffc84de52856503465054b2d9973839f4ee3d6cfd12608"
+    },
+    {
+      "original": "https://shontelbrown.com/priorities/",
+      "timestamp": "20241105063258",
+      "wayback": "https://web.archive.org/web/20241105063258/https://shontelbrown.com/priorities/",
+      "wayback_raw": "https://web.archive.org/web/20241105063258id_/https://shontelbrown.com/priorities/",
+      "file": "archive/2024/brown-oh/priorities.html",
+      "text_file": "archive/2024/brown-oh/priorities.txt",
+      "bytes": 51487,
+      "sha256_html": "7d0715691d5848b3af83a6087e0e319eba94ff175f53f9fe30454f150ef69137",
+      "sha256_text": "e8039e5435e1f5fea8d70aeb388e1ad18922fee40c7e773e4ba939bd19c1b8b0"
+    },
+    {
+      "original": "https://shontelbrown.com/accomplishments/embed/",
+      "timestamp": "20241101120328",
+      "wayback": "https://web.archive.org/web/20241101120328/https://shontelbrown.com/accomplishments/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241101120328id_/https://shontelbrown.com/accomplishments/embed/",
+      "file": "archive/2024/brown-oh/accomplishments-embed.html",
+      "text_file": "archive/2024/brown-oh/accomplishments-embed.txt",
+      "bytes": 45500,
+      "sha256_html": "f1ff8e6429bce9fe86388ba313eedc74a0b88ca130c57fceaedbb45d9128ea6c",
+      "sha256_text": "fcb96ca5dd43775676ffc84de52856503465054b2d9973839f4ee3d6cfd12608"
+    },
+    {
+      "original": "https://shontelbrown.com/priorities/embed/",
+      "timestamp": "20241103012256",
+      "wayback": "https://web.archive.org/web/20241103012256/https://shontelbrown.com/priorities/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241103012256id_/https://shontelbrown.com/priorities/embed/",
+      "file": "archive/2024/brown-oh/priorities-embed.html",
+      "text_file": "archive/2024/brown-oh/priorities-embed.txt",
+      "bytes": 51504,
+      "sha256_html": "b47fa473c7708692ec89ac8548cd73f5035dd5b9fb7f9c8ee68b7778985e48f2",
+      "sha256_text": "e8039e5435e1f5fea8d70aeb388e1ad18922fee40c7e773e4ba939bd19c1b8b0"
+    }
+  ],
+  "snapshots_found": {
+    "shontelbrown.com": 44
+  },
+  "generated_utc": "2026-11-26T08:50:57Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
