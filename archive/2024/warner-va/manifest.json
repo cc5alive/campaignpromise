@@ -1,0 +1,93 @@
+{
+  "name": "Mark R. Warner",
+  "domains_tried": [
+    "markwarnerva.com"
+  ],
+  "pages": [
+    {
+      "original": "https://markwarnerva.com/",
+      "timestamp": "20241030072525",
+      "wayback": "https://web.archive.org/web/20241030072525/https://markwarnerva.com/",
+      "wayback_raw": "https://web.archive.org/web/20241030072525id_/https://markwarnerva.com/",
+      "file": "archive/2024/warner-va/home.html",
+      "text_file": "archive/2024/warner-va/home.txt",
+      "bytes": 47655,
+      "sha256_html": "7a51c842a70ea09ea01bd1ca9fbb2ddc007e8cef624898672132df038ad31875",
+      "sha256_text": "6bfd8c52e846b639c75878d6e8a5c80bc2d7f1b967f36d89af183d05ef3b7b36"
+    },
+    {
+      "original": "https://markwarnerva.com/on-the-issues/",
+      "timestamp": "20240913111751",
+      "wayback": "https://web.archive.org/web/20240913111751/https://markwarnerva.com/on-the-issues/",
+      "wayback_raw": "https://web.archive.org/web/20240913111751id_/https://markwarnerva.com/on-the-issues/",
+      "file": "archive/2024/warner-va/on-the-issues.html",
+      "text_file": "archive/2024/warner-va/on-the-issues.txt",
+      "bytes": 40235,
+      "sha256_html": "e5f24a72bad4692c716f1aefa02d6de1cfbd8c0dbdbd0e52723b864e68b168d4",
+      "sha256_text": "bdb9b1bb5bf5ff3eb874db7a3f7886461304e08afe5b9c66125de29435e5c3bc"
+    },
+    {
+      "original": "https://markwarnerva.com/on-the-issues/civil-rights/",
+      "timestamp": "20240814143136",
+      "wayback": "https://web.archive.org/web/20240814143136/https://markwarnerva.com/on-the-issues/civil-rights/",
+      "wayback_raw": "https://web.archive.org/web/20240814143136id_/https://markwarnerva.com/on-the-issues/civil-rights/",
+      "file": "archive/2024/warner-va/on-the-issues-civil-rights.html",
+      "text_file": "archive/2024/warner-va/on-the-issues-civil-rights.txt",
+      "bytes": 34860,
+      "sha256_html": "d8fe59119aa732736158f32ad7f4aa53359b016fdfd48bfd04ef42aa0a2d9277",
+      "sha256_text": "e73b3c86b35f8cc45ac5ea4443c443159d0d06bc64c1e6c01f766b2121460d65"
+    },
+    {
+      "original": "https://markwarnerva.com/on-the-issues/energy-and-environment/",
+      "timestamp": "20241027234255",
+      "wayback": "https://web.archive.org/web/20241027234255/https://markwarnerva.com/on-the-issues/energy-and-environment/",
+      "wayback_raw": "https://web.archive.org/web/20241027234255id_/https://markwarnerva.com/on-the-issues/energy-and-environment/",
+      "file": "archive/2024/warner-va/on-the-issues-energy-and-environment.html",
+      "text_file": "archive/2024/warner-va/on-the-issues-energy-and-environment.txt",
+      "bytes": 33754,
+      "sha256_html": "31decfab0d9429ae6c9b5d503c62311c8f317c838f0324d378f5a7fc0a813bf1",
+      "sha256_text": "08fbbb09693363148f79d387a52d43ad079282532b55e1eef95b60e341ebf27f"
+    },
+    {
+      "original": "https://markwarnerva.com/on-the-issues/health-care/",
+      "timestamp": "20240814125457",
+      "wayback": "https://web.archive.org/web/20240814125457/https://markwarnerva.com/on-the-issues/health-care/",
+      "wayback_raw": "https://web.archive.org/web/20240814125457id_/https://markwarnerva.com/on-the-issues/health-care/",
+      "file": "archive/2024/warner-va/on-the-issues-health-care.html",
+      "text_file": "archive/2024/warner-va/on-the-issues-health-care.txt",
+      "bytes": 35757,
+      "sha256_html": "0dc0d1fa60a5487e382c14c3ed1b71b13839c3681bb331a8e2a61f561400d497",
+      "sha256_text": "1e8e85285d6c3127bb82954318ce7977050d7acb57f3586da0e8110b3ad29b2d"
+    },
+    {
+      "original": "https://markwarnerva.com/on-the-issues/rural-virginia/",
+      "timestamp": "20240814130706",
+      "wayback": "https://web.archive.org/web/20240814130706/https://markwarnerva.com/on-the-issues/rural-virginia/",
+      "wayback_raw": "https://web.archive.org/web/20240814130706id_/https://markwarnerva.com/on-the-issues/rural-virginia/",
+      "file": "archive/2024/warner-va/on-the-issues-rural-virginia.html",
+      "text_file": "archive/2024/warner-va/on-the-issues-rural-virginia.txt",
+      "bytes": 33526,
+      "sha256_html": "1325516c7a80ce122ed2e1828539e29b77dfa9e97bf51a7505881a4697a879eb",
+      "sha256_text": "1dc8b9009a8d640e4520a518384ab6ac8200d1539f989ec268153167188cc532"
+    },
+    {
+      "original": "https://markwarnerva.com/2020/10/warner-says-broadband-access-is-an-infrastructure-issue/",
+      "timestamp": "20240913111004",
+      "wayback": "https://web.archive.org/web/20240913111004/https://markwarnerva.com/2020/10/warner-says-broadband-access-is-an-infrastructure-issue/",
+      "wayback_raw": "https://web.archive.org/web/20240913111004id_/https://markwarnerva.com/2020/10/warner-says-broadband-access-is-an-infrastructure-issue/",
+      "file": "archive/2024/warner-va/2020-10-warner-says-broadband-access-is-an-infrastructure-issue.html",
+      "text_file": "archive/2024/warner-va/2020-10-warner-says-broadband-access-is-an-infrastructure-issue.txt",
+      "bytes": 32530,
+      "sha256_html": "3b0af1bd14a3dc7cc404dd4bc83cea602017f3e67a5104a7e69c53bd9357b5da",
+      "sha256_text": "88f0e90bce088f6474e346d4b171920d0906e5121f50546c3a4960fdcc652fac"
+    }
+  ],
+  "snapshots_found": {
+    "markwarnerva.com": 46
+  },
+  "generated_utc": "2026-11-26T07:15:30Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
