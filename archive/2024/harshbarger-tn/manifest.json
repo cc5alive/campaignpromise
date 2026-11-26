@@ -1,0 +1,38 @@
+{
+  "name": "Diana Harshbarger",
+  "domains_tried": [
+    "votediana.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.votediana.com/",
+      "timestamp": "20241105160312",
+      "wayback": "https://web.archive.org/web/20241105160312/https://www.votediana.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105160312id_/https://www.votediana.com/",
+      "file": "archive/2024/harshbarger-tn/home.html",
+      "text_file": "archive/2024/harshbarger-tn/home.txt",
+      "bytes": 182727,
+      "sha256_html": "e6b94046d157dc6376699cb5d742d75df9039b98f20b112af858c2117555563d",
+      "sha256_text": "29f25ec3951c270e94f7efc413e2dfdb1d2d1b261d0b786be408254ef7d66a2d"
+    },
+    {
+      "original": "https://www.votediana.com/issues",
+      "timestamp": "20241105160327",
+      "wayback": "https://web.archive.org/web/20241105160327/https://www.votediana.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105160327id_/https://www.votediana.com/issues",
+      "file": "archive/2024/harshbarger-tn/issues.html",
+      "text_file": "archive/2024/harshbarger-tn/issues.txt",
+      "bytes": 127505,
+      "sha256_html": "8d70552c57a1d68406c5dc197b2e754fb2921b67edb9fd80c771bf5fb622df04",
+      "sha256_text": "aeefb241e9a21a275069ff4fb5c1b5e1141d721c9d2ce91c85113ee4047707bf"
+    }
+  ],
+  "snapshots_found": {
+    "votediana.com": 26
+  },
+  "generated_utc": "2026-11-26T08:40:20Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
