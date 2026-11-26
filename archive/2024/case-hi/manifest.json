@@ -1,0 +1,60 @@
+{
+  "name": "Ed Case",
+  "domains_tried": [
+    "edcase.com"
+  ],
+  "pages": [
+    {
+      "original": "https://edcase.com/",
+      "timestamp": "20241105052603",
+      "wayback": "https://web.archive.org/web/20241105052603/https://edcase.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105052603id_/https://edcase.com/",
+      "file": "archive/2024/case-hi/home.html",
+      "text_file": "archive/2024/case-hi/home.txt",
+      "bytes": 177325,
+      "sha256_html": "6968e01d9da1449ec4e9625f9ac89d63adc593f10a437261daa7d47c3c0b8c96",
+      "sha256_text": "d0fd4f1105765e251ccfe9758b0f5bb1df127611a3ae036dbfd4b80454882b53"
+    },
+    {
+      "original": "https://edcase.com/agenda/",
+      "timestamp": "20241105052746",
+      "wayback": "https://web.archive.org/web/20241105052746/https://edcase.com/agenda/",
+      "wayback_raw": "https://web.archive.org/web/20241105052746id_/https://edcase.com/agenda/",
+      "file": "archive/2024/case-hi/agenda.html",
+      "text_file": "archive/2024/case-hi/agenda.txt",
+      "bytes": 167237,
+      "sha256_html": "cbe6a6cbc68ea944f522d2e64a891d1c9786b5ab099e6529011e750b5b03daf2",
+      "sha256_text": "4be98411a4a94512ab0be838a9b1835fb052d11c7708f0095a75cf351327ba75"
+    },
+    {
+      "original": "https://edcase.com/congressional-record-2/",
+      "timestamp": "20241105053558",
+      "wayback": "https://web.archive.org/web/20241105053558/https://edcase.com/congressional-record-2/",
+      "wayback_raw": "https://web.archive.org/web/20241105053558id_/https://edcase.com/congressional-record-2/",
+      "file": "archive/2024/case-hi/congressional-record-2.html",
+      "text_file": "archive/2024/case-hi/congressional-record-2.txt",
+      "bytes": 156188,
+      "sha256_html": "0f58c122d005fcd1df544e29bdd7a4cd3ca9fe295f73f65fd65f0f00b7f34e11",
+      "sha256_text": "677ac6ffa31226a93f9f15e082f489bfb12c11f44081dce63806d70f38f068a0"
+    },
+    {
+      "original": "https://edcase.com/agenda/embed/",
+      "timestamp": "20241103014737",
+      "wayback": "https://web.archive.org/web/20241103014737/https://edcase.com/agenda/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241103014737id_/https://edcase.com/agenda/embed/",
+      "file": "archive/2024/case-hi/agenda-embed.html",
+      "text_file": "archive/2024/case-hi/agenda-embed.txt",
+      "bytes": 19804,
+      "sha256_html": "4ce0da99553ac64d9d310f640a4af0e381ab476bee422099e9d6d07ba9da78b8",
+      "sha256_text": "41bb390069ffe9538781ab0181fced5a43b675ef46b34fb10ae605cf9f7a6f19"
+    }
+  ],
+  "snapshots_found": {
+    "edcase.com": 35
+  },
+  "generated_utc": "2026-11-26T08:02:22Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
