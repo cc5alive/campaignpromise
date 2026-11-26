@@ -1,0 +1,38 @@
+{
+  "name": "Donald S. Beyer, Jr.",
+  "domains_tried": [
+    "friendsofdonbeyer.com"
+  ],
+  "pages": [
+    {
+      "original": "https://friendsofdonbeyer.com/",
+      "timestamp": "20241105080318",
+      "wayback": "https://web.archive.org/web/20241105080318/https://friendsofdonbeyer.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105080318id_/https://friendsofdonbeyer.com/",
+      "file": "archive/2024/beyer-va/home.html",
+      "text_file": "archive/2024/beyer-va/home.txt",
+      "bytes": 70461,
+      "sha256_html": "516c6ee678264fd2102cd3bcb80a1d44cb395bf411cef0447132b4d2a11a41ef",
+      "sha256_text": "e930167b5774b8817e4988b9797e5a076d5fd35302e970a73290c658accf306e"
+    },
+    {
+      "original": "https://friendsofdonbeyer.com/issues/",
+      "timestamp": "20241105080544",
+      "wayback": "https://web.archive.org/web/20241105080544/https://friendsofdonbeyer.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105080544id_/https://friendsofdonbeyer.com/issues/",
+      "file": "archive/2024/beyer-va/issues.html",
+      "text_file": "archive/2024/beyer-va/issues.txt",
+      "bytes": 87011,
+      "sha256_html": "95ff7972fad6bef0c0f52d70528c577e89771367dd25e3dfed45a12e8065168c",
+      "sha256_text": "884b9b0d5f286b145d587375d165dc6323d61dd6a2342089e925822128e20e25"
+    }
+  ],
+  "snapshots_found": {
+    "friendsofdonbeyer.com": 1
+  },
+  "generated_utc": "2026-11-26T07:33:02Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
