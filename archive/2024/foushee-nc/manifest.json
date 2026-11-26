@@ -1,0 +1,38 @@
+{
+  "name": "Valerie P. Foushee",
+  "domains_tried": [
+    "valeriefoushee.com"
+  ],
+  "pages": [
+    {
+      "original": "https://valeriefoushee.com/",
+      "timestamp": "20241105122928",
+      "wayback": "https://web.archive.org/web/20241105122928/https://valeriefoushee.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105122928id_/https://valeriefoushee.com/",
+      "file": "archive/2024/foushee-nc/home.html",
+      "text_file": "archive/2024/foushee-nc/home.txt",
+      "bytes": 32156,
+      "sha256_html": "b6c3b5d2fc28f7b3b83e8f3abd9225fed49624be86ff64b12adf2659a04d1cda",
+      "sha256_text": "41c3ff49be5d1c970fca35e1e64a44b15d49bb474be3b71bbbf3ad935f7f3b8c"
+    },
+    {
+      "original": "https://valeriefoushee.com/issues",
+      "timestamp": "20241105122930",
+      "wayback": "https://web.archive.org/web/20241105122930/https://valeriefoushee.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105122930id_/https://valeriefoushee.com/issues",
+      "file": "archive/2024/foushee-nc/issues.html",
+      "text_file": "archive/2024/foushee-nc/issues.txt",
+      "bytes": 29386,
+      "sha256_html": "58493de37a2fa25e746503e29a3145f85e740867d0fd65660647de7001b73f34",
+      "sha256_text": "2ae61f90ed3d005ecd7ba3225c4f3b54b5d7abd6f9af9004cdccf111c2c42c54"
+    }
+  ],
+  "snapshots_found": {
+    "valeriefoushee.com": 4
+  },
+  "generated_utc": "2026-11-26T09:05:59Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
