@@ -1,0 +1,148 @@
+{
+  "name": "Steve Daines",
+  "domains_tried": [
+    "stevedaines.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.stevedaines.com/",
+      "timestamp": "20241105114826",
+      "wayback": "https://web.archive.org/web/20241105114826/https://www.stevedaines.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105114826id_/https://www.stevedaines.com/",
+      "file": "archive/2024/daines-mt/home.html",
+      "text_file": "archive/2024/daines-mt/home.txt",
+      "bytes": 28790,
+      "sha256_html": "4e859ea070da5d90b3e019ee2d89706a0068d172ea931b19ec92f93620aa69a3",
+      "sha256_text": "8663d711e1aaae6bbffe14ceb048d0d4066ba71a6d5490e83e679873b5742b25"
+    },
+    {
+      "original": "https://www.stevedaines.com/fight-for-montana/",
+      "timestamp": "20240924183003",
+      "wayback": "https://web.archive.org/web/20240924183003/https://www.stevedaines.com/fight-for-montana/",
+      "wayback_raw": "https://web.archive.org/web/20240924183003id_/https://www.stevedaines.com/fight-for-montana/",
+      "file": "archive/2024/daines-mt/fight-for-montana.html",
+      "text_file": "archive/2024/daines-mt/fight-for-montana.txt",
+      "bytes": 44199,
+      "sha256_html": "7bbeb34601f76f90d7304ea8a820516dcfecddf47df142aa97448aae9cbd2624",
+      "sha256_text": "59e9f736122d58222768d452f80e09e215682766d0a76308cf8b6af22c7767d4"
+    },
+    {
+      "original": "https://www.stevedaines.com/fighting/",
+      "timestamp": "20241010134533",
+      "wayback": "https://web.archive.org/web/20241010134533/https://www.stevedaines.com/fighting/",
+      "wayback_raw": "https://web.archive.org/web/20241010134533id_/https://www.stevedaines.com/fighting/",
+      "file": "archive/2024/daines-mt/fighting.html",
+      "text_file": "archive/2024/daines-mt/fighting.txt",
+      "bytes": 44072,
+      "sha256_html": "7b3e2049821ce57c8efa55b97ba37feadce9d25c93f4a935258bbee3de923192",
+      "sha256_text": "676cee16402a0587c332f44d809f0d251a23577efbac2a50ba70b5dcba3b9f6a"
+    },
+    {
+      "original": "https://www.stevedaines.com/issues/issue-one/",
+      "timestamp": "20241010142449",
+      "wayback": "https://web.archive.org/web/20241010142449/https://www.stevedaines.com/issues/issue-one/",
+      "wayback_raw": "https://web.archive.org/web/20241010142449id_/https://www.stevedaines.com/issues/issue-one/",
+      "file": "archive/2024/daines-mt/issues-issue-one.html",
+      "text_file": "archive/2024/daines-mt/issues-issue-one.txt",
+      "bytes": 26810,
+      "sha256_html": "1f3d84d7724398dffe30b711ac81779b7ec205b0ebf813171607b75857ae37b1",
+      "sha256_text": "0cf3292b9219a0e6af5140ac4f7b893ef8dd18b62a5c2508047311771ec4187f"
+    },
+    {
+      "original": "https://www.stevedaines.com/issues/issue-two/",
+      "timestamp": "20241010135800",
+      "wayback": "https://web.archive.org/web/20241010135800/https://www.stevedaines.com/issues/issue-two/",
+      "wayback_raw": "https://web.archive.org/web/20241010135800id_/https://www.stevedaines.com/issues/issue-two/",
+      "file": "archive/2024/daines-mt/issues-issue-two.html",
+      "text_file": "archive/2024/daines-mt/issues-issue-two.txt",
+      "bytes": 27719,
+      "sha256_html": "7bfe90d6d79661fe1ee3ff7b5fca83b874c0da0de8d8772550841580acec8412",
+      "sha256_text": "80ff845bdcd2640f4550c3c84e173dd7441c56fa5eb6fdb626b4c8e483db3858"
+    },
+    {
+      "original": "https://www.stevedaines.com/2018/06/great-falls-tribune-two-montana-groups-to-share-100k-to-fight-drug-abuse/",
+      "timestamp": "20240924182556",
+      "wayback": "https://web.archive.org/web/20240924182556/https://www.stevedaines.com/2018/06/great-falls-tribune-two-montana-groups-to-share-100k-to-fight-drug-abuse/",
+      "wayback_raw": "https://web.archive.org/web/20240924182556id_/https://www.stevedaines.com/2018/06/great-falls-tribune-two-montana-groups-to-share-100k-to-fight-drug-abuse/",
+      "file": "archive/2024/daines-mt/2018-06-great-falls-tribune-two-montana-groups-to-share-100k-to-fight-drug-abuse.html",
+      "text_file": "archive/2024/daines-mt/2018-06-great-falls-tribune-two-montana-groups-to-share-100k-to-fight-drug-abuse.txt",
+      "bytes": 28901,
+      "sha256_html": "d0356e701bb9f62aafa1cccc754247afa493313114eacdcfc258206dc706e4ed",
+      "sha256_text": "e5f345bce6dc010ae558d5e746dca8db884a336d7589bf485c6859b75df1c90a"
+    },
+    {
+      "original": "https://www.stevedaines.com/2018/09/montana-standard-daines-kavanaugh-is-well-qualified/",
+      "timestamp": "20240924182833",
+      "wayback": "https://web.archive.org/web/20240924182833/https://www.stevedaines.com/2018/09/montana-standard-daines-kavanaugh-is-well-qualified/",
+      "wayback_raw": "https://web.archive.org/web/20240924182833id_/https://www.stevedaines.com/2018/09/montana-standard-daines-kavanaugh-is-well-qualified/",
+      "file": "archive/2024/daines-mt/2018-09-montana-standard-daines-kavanaugh-is-well-qualified.html",
+      "text_file": "archive/2024/daines-mt/2018-09-montana-standard-daines-kavanaugh-is-well-qualified.txt",
+      "bytes": 28702,
+      "sha256_html": "0321b3f463a4d0f6a4890bb2f4b2ab7960bf23f0f8d233bd3b6607e8124c2579",
+      "sha256_text": "3314ea9686ad7c08f91163be643b819a95d740a621df773ffb06263c824dd5de"
+    },
+    {
+      "original": "https://www.stevedaines.com/2018/12/fox-news-sen-daines-proud-of-trump-for-standing-firm-on-border-wall/",
+      "timestamp": "20240924182850",
+      "wayback": "https://web.archive.org/web/20240924182850/https://www.stevedaines.com/2018/12/fox-news-sen-daines-proud-of-trump-for-standing-firm-on-border-wall/",
+      "wayback_raw": "https://web.archive.org/web/20240924182850id_/https://www.stevedaines.com/2018/12/fox-news-sen-daines-proud-of-trump-for-standing-firm-on-border-wall/",
+      "file": "archive/2024/daines-mt/2018-12-fox-news-sen-daines-proud-of-trump-for-standing-firm-on-border-wall.html",
+      "text_file": "archive/2024/daines-mt/2018-12-fox-news-sen-daines-proud-of-trump-for-standing-firm-on-border-wall.txt",
+      "bytes": 27784,
+      "sha256_html": "f1b8f769744f5d621f5b2055301d0b833e916f6f1518b6acf0dba6ec645d45e4",
+      "sha256_text": "f36c1733d92fba283a6aa8c1b3ae0e8e4cb679e877709d9c3536111681a6ec1e"
+    },
+    {
+      "original": "https://www.stevedaines.com/2019/04/helena-independent-record-daines-calls-prescription-drug-pricing-broken-at-helena-event/",
+      "timestamp": "20240924182623",
+      "wayback": "https://web.archive.org/web/20240924182623/https://www.stevedaines.com/2019/04/helena-independent-record-daines-calls-prescription-drug-pricing-broken-at-helena-event/",
+      "wayback_raw": "https://web.archive.org/web/20240924182623id_/https://www.stevedaines.com/2019/04/helena-independent-record-daines-calls-prescription-drug-pricing-broken-at-helena-event/",
+      "file": "archive/2024/daines-mt/2019-04-helena-independent-record-daines-calls-prescription-drug-pricing-broken-at-helena-event.html",
+      "text_file": "archive/2024/daines-mt/2019-04-helena-independent-record-daines-calls-prescription-drug-pricing-broken-at-helena-event.txt",
+      "bytes": 28287,
+      "sha256_html": "b5d194b3ad9b19da76f3287e116feed10f90770d1eb721504cfcdffc8ef77154",
+      "sha256_text": "2c7af04717e4c0672ac5b1dd7f8cdff18c7e1364d085692663a8181511ad24d0"
+    },
+    {
+      "original": "https://www.stevedaines.com/2019/04/nbc-montana-daines-releases-grant-guidebook-to-help-fight-meth-crisis/",
+      "timestamp": "20240924182639",
+      "wayback": "https://web.archive.org/web/20240924182639/https://www.stevedaines.com/2019/04/nbc-montana-daines-releases-grant-guidebook-to-help-fight-meth-crisis/",
+      "wayback_raw": "https://web.archive.org/web/20240924182639id_/https://www.stevedaines.com/2019/04/nbc-montana-daines-releases-grant-guidebook-to-help-fight-meth-crisis/",
+      "file": "archive/2024/daines-mt/2019-04-nbc-montana-daines-releases-grant-guidebook-to-help-fight-meth-crisis.html",
+      "text_file": "archive/2024/daines-mt/2019-04-nbc-montana-daines-releases-grant-guidebook-to-help-fight-meth-crisis.txt",
+      "bytes": 27907,
+      "sha256_html": "8d42cee3c8d15702c31af2bcb0b09214ef47c8abdf7f3422cb264da7823b2279",
+      "sha256_text": "d2f67d22e897cef6c2bdee6e175d863902c93f1f50f276c00177d7500348efa6"
+    },
+    {
+      "original": "https://www.stevedaines.com/2019/06/montana-standard-daines-trump-reverses-decision-to-close-anaconda-job-corps/",
+      "timestamp": "20240924182538",
+      "wayback": "https://web.archive.org/web/20240924182538/https://www.stevedaines.com/2019/06/montana-standard-daines-trump-reverses-decision-to-close-anaconda-job-corps/",
+      "wayback_raw": "https://web.archive.org/web/20240924182538id_/https://www.stevedaines.com/2019/06/montana-standard-daines-trump-reverses-decision-to-close-anaconda-job-corps/",
+      "file": "archive/2024/daines-mt/2019-06-montana-standard-daines-trump-reverses-decision-to-close-anaconda-job-corps.html",
+      "text_file": "archive/2024/daines-mt/2019-06-montana-standard-daines-trump-reverses-decision-to-close-anaconda-job-corps.txt",
+      "bytes": 28281,
+      "sha256_html": "08c3a37ecc9d1d4bb94a6f277827d4a3dd0b49c9a6445a37895eab512e5c7c1c",
+      "sha256_text": "10ed762d59ebc5018cefaf5fb482b5cff07f1e489edb73fdcc5df4001467e916"
+    },
+    {
+      "original": "https://www.stevedaines.com/2019/08/helena-independent-record-daines-promotes-wildfire-protection-bill-on-tour-of-helena-fire-that-led-to-500-homes-evacuated/",
+      "timestamp": "20240924182835",
+      "wayback": "https://web.archive.org/web/20240924182835/https://www.stevedaines.com/2019/08/helena-independent-record-daines-promotes-wildfire-protection-bill-on-tour-of-helena-fire-that-led-to-500-homes-evacuated/",
+      "wayback_raw": "https://web.archive.org/web/20240924182835id_/https://www.stevedaines.com/2019/08/helena-independent-record-daines-promotes-wildfire-protection-bill-on-tour-of-helena-fire-that-led-to-500-homes-evacuated/",
+      "file": "archive/2024/daines-mt/2019-08-helena-independent-record-daines-promotes-wildfire-protection-bill-on-tour-of-helena-fire-that-led-to-500-homes-evacuated.html",
+      "text_file": "archive/2024/daines-mt/2019-08-helena-independent-record-daines-promotes-wildfire-protection-bill-on-tour-of-helena-fire-that-led-to-500-homes-evacuated.txt",
+      "bytes": 29795,
+      "sha256_html": "2e0dbb8a753f5f9367ce983c83fe9736d47a1a8211784c143c31d233963aa75e",
+      "sha256_text": "391dd62287ab71490ae13b0c83f69a9dd3fbd8a95f620ba53dbcb8d39a8b99a1"
+    }
+  ],
+  "snapshots_found": {
+    "stevedaines.com": 165
+  },
+  "generated_utc": "2026-11-26T08:42:54Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
