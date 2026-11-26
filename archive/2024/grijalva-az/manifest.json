@@ -1,0 +1,27 @@
+{
+  "name": "Adelita S. Grijalva",
+  "domains_tried": [
+    "adelitaforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://adelitaforcongress.com/",
+      "timestamp": "20241002154042",
+      "wayback": "https://web.archive.org/web/20241002154042/https://adelitaforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241002154042id_/https://adelitaforcongress.com/",
+      "file": "archive/2024/grijalva-az/home.html",
+      "text_file": "archive/2024/grijalva-az/home.txt",
+      "bytes": 3487,
+      "sha256_html": "cddc0a37cee946c1cc5ceefed78029451b5a45eb972ef9761bd4281ce93f769b",
+      "sha256_text": "87faa8b07aadd237a0630f7ec111c6268bb295a7109e30526748b43b91b8421c"
+    }
+  ],
+  "snapshots_found": {
+    "adelitaforcongress.com": 1
+  },
+  "generated_utc": "2026-11-26T09:20:52Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
