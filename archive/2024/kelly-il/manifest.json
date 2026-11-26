@@ -1,0 +1,27 @@
+{
+  "name": "Robin L. Kelly",
+  "domains_tried": [
+    "robinkellyforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "http://www.robinkellyforcongress.com/",
+      "timestamp": "20241105005800",
+      "wayback": "https://web.archive.org/web/20241105005800/http://www.robinkellyforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105005800id_/http://www.robinkellyforcongress.com/",
+      "file": "archive/2024/kelly-il/home.html",
+      "text_file": "archive/2024/kelly-il/home.txt",
+      "bytes": 9157,
+      "sha256_html": "ddff7bf0b866a76e8d6e02c3049f5c88c2f03e43e9f4a533b0b1935930c010c5",
+      "sha256_text": "788248ec72c885d5303266d00c05178ca1a5799124b6ac549d92083206f4a2f3"
+    }
+  ],
+  "snapshots_found": {
+    "robinkellyforcongress.com": 1
+  },
+  "generated_utc": "2026-11-26T08:45:46Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
