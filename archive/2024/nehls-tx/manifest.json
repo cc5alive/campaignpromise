@@ -1,0 +1,60 @@
+{
+  "name": "Troy E. Nehls",
+  "domains_tried": [
+    "nehlsforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://nehlsforcongress.com/",
+      "timestamp": "20241105163850",
+      "wayback": "https://web.archive.org/web/20241105163850/https://nehlsforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105163850id_/https://nehlsforcongress.com/",
+      "file": "archive/2024/nehls-tx/home.html",
+      "text_file": "archive/2024/nehls-tx/home.txt",
+      "bytes": 106041,
+      "sha256_html": "052ddd4d1dc616f859cdab69a4b98416a7ecb494d8615e66d186b185154e7a3a",
+      "sha256_text": "f6d6c1a21823e69750e52f78beab8db7f2fa568efdf6b22422665bd40df32231"
+    },
+    {
+      "original": "https://nehlsforcongress.com/issues/",
+      "timestamp": "20241105163841",
+      "wayback": "https://web.archive.org/web/20241105163841/https://nehlsforcongress.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105163841id_/https://nehlsforcongress.com/issues/",
+      "file": "archive/2024/nehls-tx/issues.html",
+      "text_file": "archive/2024/nehls-tx/issues.txt",
+      "bytes": 116727,
+      "sha256_html": "aa09d76bbee549d92fd29ac567f4ab0b0fe096a518623b8db53eb6fdcfd26b2e",
+      "sha256_text": "e36fe8d93ec33b137fdf769b1b1d7dde548b6be5a6d33419e600038ed684c2d9"
+    },
+    {
+      "original": "https://nehlsforcongress.com/issues/embed/",
+      "timestamp": "20241102113953",
+      "wayback": "https://web.archive.org/web/20241102113953/https://nehlsforcongress.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241102113953id_/https://nehlsforcongress.com/issues/embed/",
+      "file": "archive/2024/nehls-tx/issues-embed.html",
+      "text_file": "archive/2024/nehls-tx/issues-embed.txt",
+      "bytes": 23551,
+      "sha256_html": "25d710e7dec5c66eb764c14f1a81da02c5e58bfa74497625a707e8c26f535d64",
+      "sha256_text": "bc67da50a9b4dd91ae4ef78dc49e26fef4c1bee09c21cbc9bf20c3c3b8080fe9"
+    },
+    {
+      "original": "https://nehlsforcongress.com/about/",
+      "timestamp": "20241105163840",
+      "wayback": "https://web.archive.org/web/20241105163840/https://nehlsforcongress.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105163840id_/https://nehlsforcongress.com/about/",
+      "file": "archive/2024/nehls-tx/about.html",
+      "text_file": "archive/2024/nehls-tx/about.txt",
+      "bytes": 101766,
+      "sha256_html": "966e7c10c9991817903c6aa75265fe9a9d5725313fda9f4bfa17fe0e05631e8b",
+      "sha256_text": "8c7445dfb2a11202fcd4902c745af92d444ae756cc49d12203ab4bccd5055bee"
+    }
+  ],
+  "snapshots_found": {
+    "nehlsforcongress.com": 39
+  },
+  "generated_utc": "2026-11-26T08:42:29Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
