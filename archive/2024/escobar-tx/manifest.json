@@ -1,0 +1,49 @@
+{
+  "name": "Veronica Escobar",
+  "domains_tried": [
+    "veronicaescobar.com"
+  ],
+  "pages": [
+    {
+      "original": "https://veronicaescobar.com/",
+      "timestamp": "20241105044848",
+      "wayback": "https://web.archive.org/web/20241105044848/https://veronicaescobar.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105044848id_/https://veronicaescobar.com/",
+      "file": "archive/2024/escobar-tx/home.html",
+      "text_file": "archive/2024/escobar-tx/home.txt",
+      "bytes": 171012,
+      "sha256_html": "139d7d94dadffb75771991e6d6bea8b0c63caca1e2dfb85c51f13e062445ca91",
+      "sha256_text": "877ac5c363022dd8a2dd903980b5c23ae2fd5b906803603ec80d970af0a778e7"
+    },
+    {
+      "original": "https://veronicaescobar.com/issues/",
+      "timestamp": "20241105044726",
+      "wayback": "https://web.archive.org/web/20241105044726/https://veronicaescobar.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105044726id_/https://veronicaescobar.com/issues/",
+      "file": "archive/2024/escobar-tx/issues.html",
+      "text_file": "archive/2024/escobar-tx/issues.txt",
+      "bytes": 142613,
+      "sha256_html": "df396b00dc24a304a1503eeba00dab6f7ab607d614bfcdde2967419cff6271ac",
+      "sha256_text": "bdb4fd413dc8457bb142029f9e52f814c9edfbd137f740dc5b7d0635d10542b6"
+    },
+    {
+      "original": "https://veronicaescobar.com/issues/embed/",
+      "timestamp": "20241103065058",
+      "wayback": "https://web.archive.org/web/20241103065058/https://veronicaescobar.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241103065058id_/https://veronicaescobar.com/issues/embed/",
+      "file": "archive/2024/escobar-tx/issues-embed.html",
+      "text_file": "archive/2024/escobar-tx/issues-embed.txt",
+      "bytes": 20834,
+      "sha256_html": "19dcb380583da4b7dfbae2760d0061ef0dcefebe9fc9122ac1e856a13314ea8f",
+      "sha256_text": "6f67422387a9c8adc81ce7faedbd06d9c472857bc32d33a2f4a21a66baa6ed8c"
+    }
+  ],
+  "snapshots_found": {
+    "veronicaescobar.com": 17
+  },
+  "generated_utc": "2026-11-26T08:13:38Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
