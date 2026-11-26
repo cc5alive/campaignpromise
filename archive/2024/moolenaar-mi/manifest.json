@@ -1,0 +1,38 @@
+{
+  "name": "John R. Moolenaar",
+  "domains_tried": [
+    "johnmoolenaarforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.johnmoolenaarforcongress.com/",
+      "timestamp": "20241105142427",
+      "wayback": "https://web.archive.org/web/20241105142427/https://www.johnmoolenaarforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105142427id_/https://www.johnmoolenaarforcongress.com/",
+      "file": "archive/2024/moolenaar-mi/home.html",
+      "text_file": "archive/2024/moolenaar-mi/home.txt",
+      "bytes": 179534,
+      "sha256_html": "8ebb755def4975636e7ea3dc8a26b765fe8b7ac10435b8ab1d25cf99b9abe446",
+      "sha256_text": "66ec76d8e324aa0f7b1f9d1e7d3ad0c3184f809f0d84a404db0705c6d68387a1"
+    },
+    {
+      "original": "https://www.johnmoolenaarforcongress.com/issues",
+      "timestamp": "20241105142432",
+      "wayback": "https://web.archive.org/web/20241105142432/https://www.johnmoolenaarforcongress.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105142432id_/https://www.johnmoolenaarforcongress.com/issues",
+      "file": "archive/2024/moolenaar-mi/issues.html",
+      "text_file": "archive/2024/moolenaar-mi/issues.txt",
+      "bytes": 187579,
+      "sha256_html": "63be6a4c636e16c4d662e1d167c1474dd0bd2010243e8da91a774b8a96a6a73a",
+      "sha256_text": "3082ecdde614d7472878160b2457a0dd8b7ca50291234b38f643b398847ffc8f"
+    }
+  ],
+  "snapshots_found": {
+    "johnmoolenaarforcongress.com": 1
+  },
+  "generated_utc": "2026-11-26T07:21:27Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
