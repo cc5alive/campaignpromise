@@ -1,0 +1,38 @@
+{
+  "name": "Paul Tonko",
+  "domains_tried": [
+    "paultonko.com"
+  ],
+  "pages": [
+    {
+      "original": "https://paultonko.com/",
+      "timestamp": "20241105201052",
+      "wayback": "https://web.archive.org/web/20241105201052/https://paultonko.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105201052id_/https://paultonko.com/",
+      "file": "archive/2024/tonko-ny/home.html",
+      "text_file": "archive/2024/tonko-ny/home.txt",
+      "bytes": 140587,
+      "sha256_html": "46f12ec1c847fe575d5cdca91dcf131368c692bfda4af92dabd62c850b67cb84",
+      "sha256_text": "1571142213dec93d3f4d1f999bc65d1b544035a77b79d5a6913100da3be74d41"
+    },
+    {
+      "original": "https://paultonko.com/issues",
+      "timestamp": "20241105201115",
+      "wayback": "https://web.archive.org/web/20241105201115/https://paultonko.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105201115id_/https://paultonko.com/issues",
+      "file": "archive/2024/tonko-ny/issues.html",
+      "text_file": "archive/2024/tonko-ny/issues.txt",
+      "bytes": 70623,
+      "sha256_html": "f6df9d9b433594ef793e690927a30dff7447931979e7db0386841acee6b75cb1",
+      "sha256_text": "1d3c04d82299912f2b26a06000847741024d03a493b2079382863a30c68da45d"
+    }
+  ],
+  "snapshots_found": {
+    "paultonko.com": 9
+  },
+  "generated_utc": "2026-11-26T08:26:34Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
