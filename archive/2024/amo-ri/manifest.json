@@ -1,0 +1,27 @@
+{
+  "name": "Gabe Amo",
+  "domains_tried": [
+    "gabeamo.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.gabeamo.com/",
+      "timestamp": "20241105184314",
+      "wayback": "https://web.archive.org/web/20241105184314/https://www.gabeamo.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105184314id_/https://www.gabeamo.com/",
+      "file": "archive/2024/amo-ri/home.html",
+      "text_file": "archive/2024/amo-ri/home.txt",
+      "bytes": 49094,
+      "sha256_html": "63664a3fcd77892233b0b8ba201170d0ace2471cdd56691fd33d8c755e669b42",
+      "sha256_text": "d859cfd056178287d9310f626bbf7eaab91337c22f2dcc0c523d8fb4d859e8c7"
+    }
+  ],
+  "snapshots_found": {
+    "gabeamo.com": 14
+  },
+  "generated_utc": "2026-11-26T09:14:58Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
