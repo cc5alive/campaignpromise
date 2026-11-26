@@ -1,0 +1,27 @@
+{
+  "name": "Glenn Grothman",
+  "domains_tried": [
+    "glenngrothman.com"
+  ],
+  "pages": [
+    {
+      "original": "https://glenngrothman.com/",
+      "timestamp": "20241105183827",
+      "wayback": "https://web.archive.org/web/20241105183827/https://glenngrothman.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105183827id_/https://glenngrothman.com/",
+      "file": "archive/2024/grothman-wi/home.html",
+      "text_file": "archive/2024/grothman-wi/home.txt",
+      "bytes": 98112,
+      "sha256_html": "7e5ed2258f0c16df2d200cb642d07124c7aef1c06b899ec571b9a1694af13f4f",
+      "sha256_text": "de8114bb1b5bcb49f68a83ea84124f75d41ea2fff0b7e1c2628f7b475154b86b"
+    }
+  ],
+  "snapshots_found": {
+    "glenngrothman.com": 49
+  },
+  "generated_utc": "2026-11-26T07:23:30Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
