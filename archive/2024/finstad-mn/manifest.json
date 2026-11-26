@@ -1,0 +1,71 @@
+{
+  "name": "Brad Finstad",
+  "domains_tried": [
+    "finstadforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://finstadforcongress.com/",
+      "timestamp": "20241105034724",
+      "wayback": "https://web.archive.org/web/20241105034724/https://finstadforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105034724id_/https://finstadforcongress.com/",
+      "file": "archive/2024/finstad-mn/home.html",
+      "text_file": "archive/2024/finstad-mn/home.txt",
+      "bytes": 141779,
+      "sha256_html": "185c45677f79ea845e0b08359ddb1dcd6dc298545b5f110347c12cabafc5b4df",
+      "sha256_text": "5646e64eb5d396ec0088b24fa59f14c1ff180fdbf502b4e88c325153c8ea5eb7"
+    },
+    {
+      "original": "https://finstadforcongress.com/finstad-campaign-releases-television-and-radio-ads/",
+      "timestamp": "20241105035124",
+      "wayback": "https://web.archive.org/web/20241105035124/https://finstadforcongress.com/finstad-campaign-releases-television-and-radio-ads/",
+      "wayback_raw": "https://web.archive.org/web/20241105035124id_/https://finstadforcongress.com/finstad-campaign-releases-television-and-radio-ads/",
+      "file": "archive/2024/finstad-mn/finstad-campaign-releases-television-and-radio-ads.html",
+      "text_file": "archive/2024/finstad-mn/finstad-campaign-releases-television-and-radio-ads.txt",
+      "bytes": 157004,
+      "sha256_html": "f6de54bc78f3b3afab67e1a054e57a338dd785f6b4d36d366a4e767fd406591d",
+      "sha256_text": "15f66824354aa118578dcba2fe662a8c02fbf7115ac4d3984b91ffaeadd600fc"
+    },
+    {
+      "original": "https://finstadforcongress.com/minnesotas-largest-police-association-endorses-brad-finstad-for-congress-in-mn-1-special-election/",
+      "timestamp": "20241105035141",
+      "wayback": "https://web.archive.org/web/20241105035141/https://finstadforcongress.com/minnesotas-largest-police-association-endorses-brad-finstad-for-congress-in-mn-1-special-election/",
+      "wayback_raw": "https://web.archive.org/web/20241105035141id_/https://finstadforcongress.com/minnesotas-largest-police-association-endorses-brad-finstad-for-congress-in-mn-1-special-election/",
+      "file": "archive/2024/finstad-mn/minnesotas-largest-police-association-endorses-brad-finstad-for-congress-in-mn-1-special-election.html",
+      "text_file": "archive/2024/finstad-mn/minnesotas-largest-police-association-endorses-brad-finstad-for-congress-in-mn-1-special-election.txt",
+      "bytes": 155821,
+      "sha256_html": "75219d2e1e733c13aabcd9cb621f5599059437ac5aea42926bea46195a1228e3",
+      "sha256_text": "ea0e82bbc642c0f7eabf66c58d598a7386981becea8e8993d0a64c5cb5e40231"
+    },
+    {
+      "original": "https://finstadforcongress.com/finstad-campaign-releases-television-and-radio-ads/embed/",
+      "timestamp": "20241103073845",
+      "wayback": "https://web.archive.org/web/20241103073845/https://finstadforcongress.com/finstad-campaign-releases-television-and-radio-ads/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241103073845id_/https://finstadforcongress.com/finstad-campaign-releases-television-and-radio-ads/embed/",
+      "file": "archive/2024/finstad-mn/finstad-campaign-releases-television-and-radio-ads-embed.html",
+      "text_file": "archive/2024/finstad-mn/finstad-campaign-releases-television-and-radio-ads-embed.txt",
+      "bytes": 21200,
+      "sha256_html": "c2d0ea8c4cd16e64a87fa1887b8e0ac5b513e55d1f500d4f33b8e9568b2c2432",
+      "sha256_text": "a52fb94782dc0e648f402296415a1d05024b0591fbe369dc51425c2dfb80aca8"
+    },
+    {
+      "original": "https://finstadforcongress.com/minnesotas-largest-police-association-endorses-brad-finstad-for-congress-in-mn-1-special-election/embed/",
+      "timestamp": "20241103074922",
+      "wayback": "https://web.archive.org/web/20241103074922/https://finstadforcongress.com/minnesotas-largest-police-association-endorses-brad-finstad-for-congress-in-mn-1-special-election/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241103074922id_/https://finstadforcongress.com/minnesotas-largest-police-association-endorses-brad-finstad-for-congress-in-mn-1-special-election/embed/",
+      "file": "archive/2024/finstad-mn/minnesotas-largest-police-association-endorses-brad-finstad-for-congress-in-mn-1-special-election-embed.html",
+      "text_file": "archive/2024/finstad-mn/minnesotas-largest-police-association-endorses-brad-finstad-for-congress-in-mn-1-special-election-embed.txt",
+      "bytes": 20930,
+      "sha256_html": "d4c4d60b5351aeffeb94cefc774aaf550ef93b3e2a7c902540e823c62826e471",
+      "sha256_text": "f008b3ac0d1e111e647ec87e08152d43e9ec8cd6a88be7f7610af819bb8aefcf"
+    }
+  ],
+  "snapshots_found": {
+    "finstadforcongress.com": 59
+  },
+  "generated_utc": "2026-11-26T08:54:21Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
