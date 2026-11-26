@@ -1,0 +1,38 @@
+{
+  "name": "Bruce Westerman",
+  "domains_tried": [
+    "brucewesterman.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.brucewesterman.com/",
+      "timestamp": "20241105171208",
+      "wayback": "https://web.archive.org/web/20241105171208/https://www.brucewesterman.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105171208id_/https://www.brucewesterman.com/",
+      "file": "archive/2024/westerman-ar/home.html",
+      "text_file": "archive/2024/westerman-ar/home.txt",
+      "bytes": 19230,
+      "sha256_html": "3c907d0eed1fee0087ad5b36d434ce1cfa3395b0698747d4fd40112743e8d7da",
+      "sha256_text": "635456a09860c8f890d1bec799d2cbc6ef397b5a6ed078ac48a5a82365070f90"
+    },
+    {
+      "original": "https://www.brucewesterman.com/issues/",
+      "timestamp": "20241105041855",
+      "wayback": "https://web.archive.org/web/20241105041855/https://www.brucewesterman.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105041855id_/https://www.brucewesterman.com/issues/",
+      "file": "archive/2024/westerman-ar/issues.html",
+      "text_file": "archive/2024/westerman-ar/issues.txt",
+      "bytes": 15160,
+      "sha256_html": "693af76230d53f3dac867b442157091269e0dabb3743cb8dfbbbec113522cf22",
+      "sha256_text": "e5d4e6b259c7ff41655fad975133518dd0a81affb4a5cfcb74a75dfd66bd19b2"
+    }
+  ],
+  "snapshots_found": {
+    "brucewesterman.com": 3
+  },
+  "generated_utc": "2026-11-26T08:48:09Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
