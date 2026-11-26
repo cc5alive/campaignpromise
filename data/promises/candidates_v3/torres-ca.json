@@ -1,0 +1,36 @@
+{
+ "member": "torres-ca",
+ "pages": 12,
+ "candidates": [
+  {
+   "score": 5,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "I’m a proud to work alongside my fellow Congresswomen in the Democratic Women’s Caucus to fight for: 💵 Equal Pay 🏥 Better health care 🤰 Reproductive freedom ✊ Equality for all By being here & speaking out we’re making #HERStory every day. #WomensHistoryMonth",
+   "page": "https://www.normatorres.com/",
+   "file": "archive/2024/torres-ca/home.html",
+   "snapshot": "20241105174727"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "Three-day, 40-mile walk held in support of immigration bill authored by Congresswoman Norma Torres",
+   "page": "https://www.normatorres.com/issues-immigration",
+   "file": "archive/2024/torres-ca/issues-immigration.html",
+   "snapshot": "20241105174820"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "She understands that we can secure our border and deliver the empathy and humanity that so many of our southern neighbors need right now.",
+   "page": "https://www.normatorres.com/issues-immigration",
+   "file": "archive/2024/torres-ca/issues-immigration.html",
+   "snapshot": "20241105174820"
+  }
+ ]
+}

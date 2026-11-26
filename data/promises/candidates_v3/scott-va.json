@@ -1,0 +1,36 @@
+{
+ "member": "scott-va",
+ "pages": 7,
+ "candidates": [
+  {
+   "score": 5,
+   "topics": [
+    "Health care"
+   ],
+   "sentence": "For the last decade, Bobby has helped lead the fight against Republican attempts to repeal Obamacare.",
+   "page": "https://www.bobbyscottforcongress.com/fighting-for-our-students",
+   "file": "archive/2024/scott-va/fighting-for-our-students.html",
+   "snapshot": "20241105063204"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Health care"
+   ],
+   "sentence": "As chairman of the Education and Labor Committee, Bobby is also leading the fight against the Trump Administration's ongoing sabotage of Obamacare.",
+   "page": "https://www.bobbyscottforcongress.com/fighting-for-our-students",
+   "file": "archive/2024/scott-va/fighting-for-our-students.html",
+   "snapshot": "20241105063204"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "These savings would be reinvested to expand Medicare benefits, strengthen community health centers, and support other vital public health programs.",
+   "page": "https://www.bobbyscottforcongress.com/fighting-for-our-students",
+   "file": "archive/2024/scott-va/fighting-for-our-students.html",
+   "snapshot": "20241105063204"
+  }
+ ]
+}

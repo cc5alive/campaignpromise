@@ -1,0 +1,66 @@
+{
+ "member": "escobar-tx",
+ "pages": 3,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "Veronica Escobar will be one of seven national co-chairs leading",
+   "page": "https://veronicaescobar.com/",
+   "file": "archive/2024/escobar-tx/home.html",
+   "snapshot": "20241105044848"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Elections"
+   ],
+   "sentence": "Congress must continue to fight to pass federal voting rights legislation that will:",
+   "page": "https://veronicaescobar.com/issues/",
+   "file": "archive/2024/escobar-tx/issues.html",
+   "snapshot": "20241105044726"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "That’s why I’m committed to fighting for better and more affordable access to healthcare, fair wages for workers, meaningful and long-lasting immigration reform, and solutions to the climate crisis that affect all of us.”",
+   "page": "https://veronicaescobar.com/",
+   "file": "archive/2024/escobar-tx/home.html",
+   "snapshot": "20241105044848"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "I fight to protect and expand Social Security for our seniors.",
+   "page": "https://veronicaescobar.com/issues/",
+   "file": "archive/2024/escobar-tx/issues.html",
+   "snapshot": "20241105044726"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "While Republicans continue to threaten to cut Medicare and Social Security, I understand how devastating that would be for more than 10 million seniors.",
+   "page": "https://veronicaescobar.com/issues/",
+   "file": "archive/2024/escobar-tx/issues.html",
+   "snapshot": "20241105044726"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "We must also open pathways to citizenship and allow people to apply for asylum in their home countries instead of at our border.",
+   "page": "https://veronicaescobar.com/issues/",
+   "file": "archive/2024/escobar-tx/issues.html",
+   "snapshot": "20241105044726"
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "member": "moulton-ma",
+ "pages": 3,
+ "candidates": [
+  {
+   "score": 5,
+   "topics": [
+    "Health care"
+   ],
+   "sentence": "That’s why I support President Obama’s original plan to make private health insurance work better, alongside a public option.",
+   "page": "https://sethmoulton.com/priorities/",
+   "file": "archive/2024/moulton-ma/priorities.html",
+   "snapshot": "20241031012018"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "This must include access to reproductive healthcare and contraceptive services so women can make the right choices for themselves and their families.",
+   "page": "https://sethmoulton.com/priorities/",
+   "file": "archive/2024/moulton-ma/priorities.html",
+   "snapshot": "20241031012018"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Ukraine"
+   ],
+   "sentence": "On top of that, Vance has used his time in the Senate to politicize the military, withhold aid to those fighting for their lives in Ukraine, and vote against the legislation that funds our own armed forces.",
+   "page": "https://sethmoulton.com/press-releases/2024/8/8/statement-on-jd-vances-false-attacks-on-tim-walz-service-record",
+   "file": "archive/2024/moulton-ma/press-releases-2024-8-8-statement-on-jd-vances-false-attacks-on-tim-walz-service-record.html",
+   "snapshot": "20241031012021"
+  }
+ ]
+}

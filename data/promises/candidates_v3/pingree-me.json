@@ -1,0 +1,47 @@
+{
+ "member": "pingree-me",
+ "pages": 11,
+ "candidates": [
+  {
+   "score": 9,
+   "topics": [
+    "Fentanyl",
+    "Social Security & Medicare"
+   ],
+   "sentence": "During this campaign, I’ve heard time and again what really matters to the people of our state – access to quality affordable healthcare; protecting Social Security and Medicare from cuts; ensuring the economy works for everyone; and tackling the opioid crisis – and I pledge to keep fighting every day for our shared Maine values.”",
+   "page": "https://www.chelliepingree.com/pingree-pledges-to-continue-fighting-for-maine-in-congress/",
+   "file": "archive/2024/pingree-me/pingree-pledges-to-continue-fighting-for-maine-in-congress.html",
+   "snapshot": "20241105085800"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "She believes the federal government should use its considerable buying power to negotiate for Medicare patients.",
+   "page": "https://www.chelliepingree.com/issues/",
+   "file": "archive/2024/pingree-me/issues.html",
+   "snapshot": "20241105085747"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "Ultimately, Chellie believes that the time has come to pass Medicare for All.",
+   "page": "https://www.chelliepingree.com/issues/",
+   "file": "archive/2024/pingree-me/issues.html",
+   "snapshot": "20241105085747"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "Chellie is committed to protecting Roe v.",
+   "page": "https://www.chelliepingree.com/issues/",
+   "file": "archive/2024/pingree-me/issues.html",
+   "snapshot": "20241105085747"
+  }
+ ]
+}

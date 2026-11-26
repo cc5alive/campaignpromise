@@ -1,0 +1,28 @@
+{
+ "member": "bost-il",
+ "pages": 1,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Abortion",
+    "Guns"
+   ],
+   "sentence": "He is a strong defender of our Second Amendment rights, stands up for the lives of unborn children, and fights against big-government bureaucracy.",
+   "page": "http://bostforcongress.com/",
+   "file": "archive/2024/bost-il/home.html",
+   "snapshot": "20241105110103"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Immigration",
+    "Guns"
+   ],
+   "sentence": "Mike is fighting to Secure the Border, Grow the Economy, Protect Life, and Defend the Second Amendment.",
+   "page": "http://bostforcongress.com/",
+   "file": "archive/2024/bost-il/home.html",
+   "snapshot": "20241105110103"
+  }
+ ]
+}

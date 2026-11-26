@@ -1,0 +1,66 @@
+{
+ "member": "welch-vt",
+ "pages": 3,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Elections"
+   ],
+   "sentence": "He will continue to champion voting rights and campaign finance reform that returns power to the people.",
+   "page": "https://welchforvermont.com/",
+   "file": "archive/2024/welch-vt/home.html",
+   "snapshot": "20241103140414"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "In this urgent moment, Peter is proud to be an ally in the fight to protect and expand reproductive freedom in Vermont and across the country and will continue to be a steadfast partner in this fight if elected to the Senate.",
+   "page": "https://welchforvermont.com/issues/reproductive-rights/",
+   "file": "archive/2024/welch-vt/issues-reproductive-rights.html",
+   "snapshot": "20241103134257"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "Peter is dedicated to the fight to save and protect reproductive rights.",
+   "page": "https://welchforvermont.com/",
+   "file": "archive/2024/welch-vt/home.html",
+   "snapshot": "20241103140414"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Elections"
+   ],
+   "sentence": "Racial justice efforts must include environmental justice, economic justice, the protection of voting rights, and address disparities in health care and our criminal justice system.",
+   "page": "https://welchforvermont.com/",
+   "file": "archive/2024/welch-vt/home.html",
+   "snapshot": "20241103140414"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "Wade into law and protect reproductive freedom for all.",
+   "page": "https://welchforvermont.com/issues/reproductive-rights/",
+   "file": "archive/2024/welch-vt/issues-reproductive-rights.html",
+   "snapshot": "20241103134257"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "Support fully funding Planned Parenthood and Title X family planning services.",
+   "page": "https://welchforvermont.com/issues/reproductive-rights/",
+   "file": "archive/2024/welch-vt/issues-reproductive-rights.html",
+   "snapshot": "20241103134257"
+  }
+ ]
+}

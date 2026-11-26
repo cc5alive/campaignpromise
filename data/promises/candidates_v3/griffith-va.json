@@ -1,0 +1,66 @@
+{
+ "member": "griffith-va",
+ "pages": 3,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "This will take time, but Morgan is working on legislation that would force Congress to spend no more than it receives, require the President to submit a balanced budget, and require a supermajority vote to increase the national debt limit.",
+   "page": "http://www.morgangriffithforcongress.com/issues/",
+   "file": "archive/2024/griffith-va/issues.html",
+   "snapshot": "20241105041650"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "As our conservative voice in Congress, Morgan fought to protect our conservative values and makes no apology for defending the 2nd Amendment or the right to life.",
+   "page": "https://www.morgangriffithforcongress.com/",
+   "file": "archive/2024/griffith-va/home.html",
+   "snapshot": "20241105100629"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Elections"
+   ],
+   "sentence": "Free, fair, and secure elections are the foundation for our democracy.",
+   "page": "http://www.morgangriffithforcongress.com/issues/",
+   "file": "archive/2024/griffith-va/issues.html",
+   "snapshot": "20241105041650"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Elections"
+   ],
+   "sentence": "Morgan supports commonsense solutions to secure our elections, such as requiring voter ID, clearing the deceased from voter rolls, and requiring proof of citizenship to register to vote.",
+   "page": "http://www.morgangriffithforcongress.com/issues/",
+   "file": "archive/2024/griffith-va/issues.html",
+   "snapshot": "20241105041650"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "The national debt caused by the wasteful and excessive spending of Congress must come to an end.",
+   "page": "http://www.morgangriffithforcongress.com/issues/",
+   "file": "archive/2024/griffith-va/issues.html",
+   "snapshot": "20241105041650"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "Morgan is working to secure our border and crack down on illegal immigration.",
+   "page": "http://www.morgangriffithforcongress.com/issues/",
+   "file": "archive/2024/griffith-va/issues.html",
+   "snapshot": "20241105041650"
+  }
+ ]
+}

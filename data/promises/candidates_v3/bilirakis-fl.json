@@ -1,0 +1,27 @@
+{
+ "member": "bilirakis-fl",
+ "pages": 4,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Immigration",
+    "Taxes"
+   ],
+   "sentence": "Gus has worked to cut taxes for Middle Class Americans, create jobs by supporting small businesses, and secure our southern border.",
+   "page": "https://bilirakisforcongress.com/",
+   "file": "archive/2024/bilirakis-fl/home.html",
+   "snapshot": "20241105155130"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "The Alliance of Community Health Plans’ Legislative Champion Award in recognition of his work to preserve Medicare Advantage, improve affordability options for healthcare and support positive patient outcomes within the healthcare system.",
+   "page": "https://bilirakisforcongress.com/guss-conservative-record/",
+   "file": "archive/2024/bilirakis-fl/guss-conservative-record.html",
+   "snapshot": "20241105155251"
+  }
+ ]
+}

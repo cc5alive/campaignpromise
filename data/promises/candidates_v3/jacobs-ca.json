@@ -1,0 +1,37 @@
+{
+ "member": "jacobs-ca",
+ "pages": 11,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Abortion",
+    "Guns"
+   ],
+   "sentence": "We must act boldly to address climate change, end the epidemic of gun violence plaguing our schools and communities, fight for housing that’s affordable for everyone and health care as a human right, and defend access to reproductive care.",
+   "page": "https://www.sarajacobsforca.com/",
+   "file": "archive/2024/jacobs-ca/home.html",
+   "snapshot": "20241105075905"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "Congresswoman Jacobs will serve as the Freshman Representative to the House Democratic Steering and Policy Committee and sits on the House Committee on Foreign Affairs.",
+   "page": "https://sarajacobsforca.com/news/congresswoman-sara-jacobs-discusses-priorities-new-congress-including-new-covid-relief-package",
+   "file": "archive/2024/jacobs-ca/news-congresswoman-sara-jacobs-discusses-priorities-new-congress-including-new-covid-relief-package.html",
+   "snapshot": "20241105090427"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "The majority of Americans support the right to abortion.",
+   "page": "https://www.sarajacobsforca.com/",
+   "file": "archive/2024/jacobs-ca/home.html",
+   "snapshot": "20241105075905"
+  }
+ ]
+}

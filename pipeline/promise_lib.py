@@ -4,8 +4,8 @@ from datetime import datetime
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-ROUNDS = ["pilot_round1", "round2", "round3", "issues", "round4", "round5", "round6", "round7"]
-PREFIX = {"P": "P", "ROUND2": "R2", "ROUND3": "R3", "ISSUES": "NI", "ROUND4": "R4", "ROUND5": "R5", "ROUND6": "R6", "ROUND7": "R7"}
+ROUNDS = ["pilot_round1", "round2", "round3", "issues", "round4", "round5", "round6", "round7", "round8"]
+PREFIX = {"P": "P", "ROUND2": "R2", "ROUND3": "R3", "ISSUES": "NI", "ROUND4": "R4", "ROUND5": "R5", "ROUND6": "R6", "ROUND7": "R7", "ROUND8": "R8"}
 LABEL = {"S1582": "GENIUS Act", "S5": "Laken Riley Act", "HR29": "Laken Riley Act (House version)",
          "HR1": "2025 reconciliation bill (H.R. 1)", "HR3633": "CLARITY Act", "HR1919": "Anti-CBDC Act",
          "S331": "HALT Fentanyl Act", "HR21": "Born-Alive Abortion Survivors Protection Act",

@@ -1,0 +1,26 @@
+{
+ "member": "blumenthal-ct",
+ "pages": 2,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "He will continue to lead the fight against Republican attempts to pass a nationwide abortion ban.",
+   "page": "https://richardblumenthal.com/about/",
+   "file": "archive/2024/blumenthal-ct/about.html",
+   "snapshot": "20241105011907"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "He has pushed to end the billions of dollars they receive in windfall profits and tax giveaways.",
+   "page": "https://richardblumenthal.com/about/",
+   "file": "archive/2024/blumenthal-ct/about.html",
+   "snapshot": "20241105011907"
+  }
+ ]
+}

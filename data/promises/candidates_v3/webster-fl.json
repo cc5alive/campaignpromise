@@ -1,0 +1,57 @@
+{
+ "member": "webster-fl",
+ "pages": 2,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "Dan Webster is committed to ensuring America keeps the promise of Social Security so seniors don’t have the rug pulled out from under them.",
+   "page": "https://www.electwebster.com/issues",
+   "file": "archive/2024/webster-fl/issues.html",
+   "snapshot": "20241105184605"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Social Security & Medicare",
+    "Taxes"
+   ],
+   "sentence": "He also pushed legislation to end the double-tax on social security benefits.",
+   "page": "https://www.electwebster.com/issues",
+   "file": "archive/2024/webster-fl/issues.html",
+   "snapshot": "20241105184605"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "America must stop being the world care giver and protect its people and borders.",
+   "page": "https://www.electwebster.com/issues",
+   "file": "archive/2024/webster-fl/issues.html",
+   "snapshot": "20241105184605"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "Dan Webster believes border security is national security.",
+   "page": "https://www.electwebster.com/issues",
+   "file": "archive/2024/webster-fl/issues.html",
+   "snapshot": "20241105184605"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "He championed President Trump’s efforts to build the wall and continues fighting to secure our southwest border.",
+   "page": "https://www.electwebster.com/issues",
+   "file": "archive/2024/webster-fl/issues.html",
+   "snapshot": "20241105184605"
+  }
+ ]
+}

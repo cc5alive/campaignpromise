@@ -1,0 +1,26 @@
+{
+ "member": "letlow-la",
+ "pages": 5,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "Julia has been a devout Christian her entire life and will always fight for the unborn.",
+   "page": "https://www.julialetlow.com/theissues",
+   "file": "archive/2024/letlow-la/theissues.html",
+   "snapshot": "20241105074649"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "Julia will work to end the Windfall Elimination Provision (WEP) which unfairly penalizes retirees' Social Security benefits.",
+   "page": "https://www.julialetlow.com/theissues",
+   "file": "archive/2024/letlow-la/theissues.html",
+   "snapshot": "20241105074649"
+  }
+ ]
+}

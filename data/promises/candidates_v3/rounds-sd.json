@@ -1,0 +1,86 @@
+{
+ "member": "rounds-sd",
+ "pages": 2,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "Mike will defend and protect Medicare.",
+   "page": "https://roundsforsenate.com/about/on-the-issues/",
+   "file": "archive/2024/rounds-sd/about-on-the-issues.html",
+   "snapshot": "20241103100301"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Health care"
+   ],
+   "sentence": "Mike opposes Obamacare and would work to repeal and replace it with market-based, patient-centered solutions.",
+   "page": "https://roundsforsenate.com/about/on-the-issues/",
+   "file": "archive/2024/rounds-sd/about-on-the-issues.html",
+   "snapshot": "20241103100301"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "Mike supports Medicare for our seniors.",
+   "page": "https://roundsforsenate.com/about/on-the-issues/",
+   "file": "archive/2024/rounds-sd/about-on-the-issues.html",
+   "snapshot": "20241103100301"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "Mike supports a balanced budget amendment.",
+   "page": "https://roundsforsenate.com/about/on-the-issues/",
+   "file": "archive/2024/rounds-sd/about-on-the-issues.html",
+   "snapshot": "20241103100301"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "For that reason, Mike does not currently support the budget plan offered by congressman Ryan, specifically because of the unclear revisions to Medicare.",
+   "page": "https://roundsforsenate.com/about/on-the-issues/",
+   "file": "archive/2024/rounds-sd/about-on-the-issues.html",
+   "snapshot": "20241103100301"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "The federal deficit is approaching $18 trillion dollars and we must reverse this trend before it crushes our economy.",
+   "page": "https://roundsforsenate.com/about/on-the-issues/",
+   "file": "archive/2024/rounds-sd/about-on-the-issues.html",
+   "snapshot": "20241103100301"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "Mike does not believe in higher taxes on energy producers.",
+   "page": "https://roundsforsenate.com/about/on-the-issues/",
+   "file": "archive/2024/rounds-sd/about-on-the-issues.html",
+   "snapshot": "20241103100301"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "Mike believes the primary responsibility of the federal government is funding and training armed forces adequately to protect our citizens and to secure our borders.",
+   "page": "https://roundsforsenate.com/about/on-the-issues/",
+   "file": "archive/2024/rounds-sd/about-on-the-issues.html",
+   "snapshot": "20241103100301"
+  }
+ ]
+}

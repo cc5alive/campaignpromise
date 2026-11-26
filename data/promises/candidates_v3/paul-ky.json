@@ -1,0 +1,66 @@
+{
+ "member": "paul-ky",
+ "pages": 12,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "I will fight to protect every unborn child.",
+   "page": "https://randpaul.com/issues/",
+   "file": "archive/2024/paul-ky/issues.html",
+   "snapshot": "20241102134010"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "My Economic Freedom Zone legislation will establish free-market enterprise zones and dramatically reduce taxes in order to help facilitate the creation of new jobs, entrepreneurial opportunities, enhance and renew educational opportunities and increase community involvement in bankrupt or economically distressed areas.",
+   "page": "https://randpaul.com/issue/education-schools/",
+   "file": "archive/2024/paul-ky/issue-education-schools.html",
+   "snapshot": "20241014103304"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "I will defend all of the liberties that we are guaranteed by our nation’s Constitution: our right to free speech, our right to bear arms, and every other enumerated protection that we have been given to protect us from an overreaching federal government.",
+   "page": "https://randpaul.com/issue/fighting-for-the-bill-of-rights/",
+   "file": "archive/2024/paul-ky/issue-fighting-for-the-bill-of-rights.html",
+   "snapshot": "20241102153359"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "America has accumulated almost $30 TRILLION in debt, creating a fiscal crisis that must be taken seriously.",
+   "page": "https://randpaul.com/issues/",
+   "file": "archive/2024/paul-ky/issues.html",
+   "snapshot": "20241102134010"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "We must further simplify the tax code and downsize the IRS so we can unleash an economic boom that creates millions of jobs, boosts wages, and expands opportunity for all.",
+   "page": "https://randpaul.com/issue/education-schools/",
+   "file": "archive/2024/paul-ky/issue-education-schools.html",
+   "snapshot": "20241014103304"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "We must defend the entire Constitution with the same furor and the same passion that we defend the Second Amendment.",
+   "page": "https://randpaul.com/issue/fighting-for-the-bill-of-rights/",
+   "file": "archive/2024/paul-ky/issue-fighting-for-the-bill-of-rights.html",
+   "snapshot": "20241102153359"
+  }
+ ]
+}

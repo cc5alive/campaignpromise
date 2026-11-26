@@ -1,0 +1,27 @@
+{
+ "member": "bean-fl",
+ "pages": 9,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Social Security & Medicare",
+    "Federal spending"
+   ],
+   "sentence": "By mandating that the Secretary of Health and Human Services (HHS) must explain every new furnishing of an item or service within 30 days, the Act holds the potential to significantly reduce fraudulent Medicare spending, offering hope for a more transparent and accountable system.",
+   "page": "https://aaronbean.com/bean-introduces-bill-fighting-medicare-fraud/",
+   "file": "archive/2024/bean-fl/bean-introduces-bill-fighting-medicare-fraud.html",
+   "snapshot": "20241105063231"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "Bean’s ‘Prompt Reporting and Oversight for Medicare Providing Transparency’ (PROMPT) Act represents a significant step forward in the fight against Medicare fraud.",
+   "page": "https://aaronbean.com/bean-introduces-bill-fighting-medicare-fraud/",
+   "file": "archive/2024/bean-fl/bean-introduces-bill-fighting-medicare-fraud.html",
+   "snapshot": "20241105063231"
+  }
+ ]
+}

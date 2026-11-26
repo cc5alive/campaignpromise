@@ -1,0 +1,57 @@
+{
+ "member": "kustoff-tn",
+ "pages": 6,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Immigration",
+    "Fentanyl"
+   ],
+   "sentence": "We must stop illegal immigration and put an end to drug trafficking and the spread of opioids.",
+   "page": "https://www.kustoffforcongress.com/issues/",
+   "file": "archive/2024/kustoff-tn/issues.html",
+   "snapshot": "20241105145908"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Health care"
+   ],
+   "sentence": "I will continue to work to dismantle Obamacare once and for all so we can offer the best healthcare in the world.",
+   "page": "https://www.kustoffforcongress.com/issues/",
+   "file": "archive/2024/kustoff-tn/issues.html",
+   "snapshot": "20241105145908"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "In Congress, he will fight mandates and regulation that are crushing small businesses, and will stand up against wasteful government spending.",
+   "page": "https://www.kustoffforcongress.com/about/",
+   "file": "archive/2024/kustoff-tn/about.html",
+   "snapshot": "20241105150027"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "A secure country must have secure borders.",
+   "page": "https://www.kustoffforcongress.com/issues/",
+   "file": "archive/2024/kustoff-tn/issues.html",
+   "snapshot": "20241105145908"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "Our fight against ISIS and other terrorists must include securing the border.",
+   "page": "https://www.kustoffforcongress.com/issues/",
+   "file": "archive/2024/kustoff-tn/issues.html",
+   "snapshot": "20241105145908"
+  }
+ ]
+}

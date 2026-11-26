@@ -1,0 +1,58 @@
+{
+ "member": "walberg-mi",
+ "pages": 12,
+ "candidates": [
+  {
+   "score": 9,
+   "topics": [
+    "Immigration",
+    "Fentanyl"
+   ],
+   "sentence": "Border security remains a top priority for Tim as he helped the House pass H.R. 2, Secure the Border Act, the strongest border security bill in history that will help slow the ever-increasing fentanyl which pours across our border daily.",
+   "page": "https://www.walbergforcongress.com/issues/fixing-biden-crises",
+   "file": "archive/2024/walberg-mi/issues-fixing-biden-crises.html",
+   "snapshot": "20241031182031"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Health care",
+    "Taxes"
+   ],
+   "sentence": "Tim supports lowering prescription drug prices and patient-centered reforms such as ending lawsuit abuse, allowing the purchase of insurance across state lines, expanding the use and flexibility of health savings accounts, reducing fraud, and giving individuals the same tax treatment as corporations when purchasing health insurance.",
+   "page": "https://www.walbergforcongress.com/issues/building-healthy-economy",
+   "file": "archive/2024/walberg-mi/issues-building-healthy-economy.html",
+   "snapshot": "20241105000018"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "Tim will preserve the promise of Social Security and Medicare.",
+   "page": "https://www.walbergforcongress.com/issues/defending-our-values",
+   "file": "archive/2024/walberg-mi/issues-defending-our-values.html",
+   "snapshot": "20241105002509"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "\"We want to defend life; and if the Supreme Court makes a decision [on abortion] — which will probably be very soon — however that comes down, the law ought to be followed.",
+   "page": "https://www.walbergforcongress.com/news/rep-walberg-newsmax-violence-wont-force-me-background-pro-life-issues",
+   "file": "archive/2024/walberg-mi/news-rep-walberg-newsmax-violence-wont-force-me-background-pro-life-issues.html",
+   "snapshot": "20241101050218"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "He has also hosted numerous resource fairs for veterans around the district and his staff is helpful to cut through bureaucratic red tape so veterans can receive the benefits they deserve.",
+   "page": "https://www.walbergforcongress.com/issues/protecting-our-national-security",
+   "file": "archive/2024/walberg-mi/issues-protecting-our-national-security.html",
+   "snapshot": "20241104230844"
+  }
+ ]
+}

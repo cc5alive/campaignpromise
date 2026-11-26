@@ -1,0 +1,86 @@
+{
+ "member": "hoyer-md",
+ "pages": 12,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Health care"
+   ],
+   "sentence": "This legislation will lower the cost of health care for Marylanders.",
+   "page": "https://www.hoyerforcongress.com/issues/health-care",
+   "file": "archive/2024/hoyer-md/issues-health-care.html",
+   "snapshot": "20241105091407"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "It will make sure that no Marylander pays more than $35 a month for insulin and bring down the costs of prescription drugs by allowing Medicare to negotiate the price of prescription drugs.",
+   "page": "https://www.hoyerforcongress.com/issues/health-care",
+   "file": "archive/2024/hoyer-md/issues-health-care.html",
+   "snapshot": "20241105091407"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "Additionally, he opposes the arbitrary and untargeted spending cuts known as sequestration, which resulted in furloughs for many federal employees in 2013.",
+   "page": "https://www.hoyerforcongress.com/issues/federal-employees",
+   "file": "archive/2024/hoyer-md/issues-federal-employees.html",
+   "snapshot": "20241105091409"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Health care"
+   ],
+   "sentence": "For the past decade, the Affordable Care Act (ACA) has helped bring coverage to millions more Americans, significantly slowed the growth in costs, and brought an end to discriminatory practices that left many suddenly without coverage or access to care when they needed it most.",
+   "page": "https://www.hoyerforcongress.com/issues/health-care",
+   "file": "archive/2024/hoyer-md/issues-health-care.html",
+   "snapshot": "20241105091407"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "Congressman Hoyer believes that reproductive health care decisions ought to be made between women and their doctors, and has been a supporter in Congress of stronger access to and greater protections for women's health care.",
+   "page": "https://www.hoyerforcongress.com/issues/health-care",
+   "file": "archive/2024/hoyer-md/issues-health-care.html",
+   "snapshot": "20241105091407"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "Congressman Hoyer has always been a staunch supporter of gun safety laws that keep our communities safe.",
+   "page": "https://www.hoyerforcongress.com/issues/racial-equity-equal-justice-all",
+   "file": "archive/2024/hoyer-md/issues-racial-equity-equal-justice-all.html",
+   "snapshot": "20241105091418"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "For years, he has supported universal background checks for gun carriers, and he brought H.R. 8, the Bipartisan Background Checks Act to the House Floor for a vote to tighten loopholes in current gun laws.",
+   "page": "https://www.hoyerforcongress.com/issues/racial-equity-equal-justice-all",
+   "file": "archive/2024/hoyer-md/issues-racial-equity-equal-justice-all.html",
+   "snapshot": "20241105091418"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "He wants to put an end to the gun violence epidemic that has roiled communities across the country, including right here in Maryland.",
+   "page": "https://www.hoyerforcongress.com/issues/racial-equity-equal-justice-all",
+   "file": "archive/2024/hoyer-md/issues-racial-equity-equal-justice-all.html",
+   "snapshot": "20241105091418"
+  }
+ ]
+}

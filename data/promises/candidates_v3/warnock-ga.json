@@ -1,0 +1,137 @@
+{
+ "member": "warnock-ga",
+ "pages": 12,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Taxes",
+    "Federal spending"
+   ],
+   "sentence": "Warnock is fighting to ease the pinch at the pump by suspending the federal gas tax and pushing the White House to take immediate action to bring down gas prices.",
+   "page": "https://warnockforgeorgia.com/issues/cutting-cost/",
+   "file": "archive/2024/warnock-ga/issues-cutting-cost.html",
+   "snapshot": "20241006071204"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "This is a win for Georgia and will finally allow Medicare to negotiate prescription drug prices, lowering costs while",
+   "page": "https://warnockforgeorgia.com/issues/cutting-cost/",
+   "file": "archive/2024/warnock-ga/issues-cutting-cost.html",
+   "snapshot": "20241006071204"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "He will keep our promise to Dreamers, and stand up for thoughtful management and oversight of ICE.",
+   "page": "https://warnockforgeorgia.com/issues/immigration/",
+   "file": "archive/2024/warnock-ga/issues-immigration.html",
+   "snapshot": "20240923225922"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "to combat discrimination against immigrant communities and will continue to support peaceful humanitarian policies toward refugees.",
+   "page": "https://warnockforgeorgia.com/issues/immigration/",
+   "file": "archive/2024/warnock-ga/issues-immigration.html",
+   "snapshot": "20240923225922"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "Fighting for workers also means Reverend Warnock will oppose Washington tax breaks that benefit the richest of the rich while leaving behind the poor and working families that need help the most.",
+   "page": "https://warnockforgeorgia.com/issues/jobs/",
+   "file": "archive/2024/warnock-ga/issues-jobs.html",
+   "snapshot": "20240917095647"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Elections"
+   ],
+   "sentence": "Reverend Raphael Warnock is running for Senate to fight for affordable health care, protect voting rights, and ensure the dignity of working people.",
+   "page": "https://warnockforgeorgia.com/",
+   "file": "archive/2024/warnock-ga/home.html",
+   "snapshot": "20241019080258"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "The United States is and has always been a nation of immigrants",
+   "page": "https://warnockforgeorgia.com/issues/",
+   "file": "archive/2024/warnock-ga/issues.html",
+   "snapshot": "20240917114835"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "Fighting to include federal debt forgiveness for all of Georgia’s small farmers (",
+   "page": "https://warnockforgeorgia.com/issues/agriculture/",
+   "file": "archive/2024/warnock-ga/issues-agriculture.html",
+   "snapshot": "20240824033409"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "That’s why he’s fighting to address supply chain issues, bring down prices, suspend the federal gas tax, and lower the cost of prescription drugs for hardworking families.",
+   "page": "https://warnockforgeorgia.com/issues/cutting-cost/",
+   "file": "archive/2024/warnock-ga/issues-cutting-cost.html",
+   "snapshot": "20241006071204"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Health care"
+   ],
+   "sentence": "Reverend Warnock is committed to continue to fight back against efforts to dismantle the law’s protections for the more than 1.8 million Georgians with pre-existing conditions and provisions allowing anyone under the age of 26 to remain on their parent’s insurance.",
+   "page": "https://warnockforgeorgia.com/issues/healthcare/",
+   "file": "archive/2024/warnock-ga/issues-healthcare.html",
+   "snapshot": "20241006075304"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "He is also fighting to cap the costs of prescriptions for seniors on Medicare and to allow Medicare to negotiate drug prices with pharmaceutical companies.",
+   "page": "https://warnockforgeorgia.com/issues/healthcare/",
+   "file": "archive/2024/warnock-ga/issues-healthcare.html",
+   "snapshot": "20241006075304"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "Reverend Warnock is committed to expanding affordable access to health care, including through a public option and early Medicare buy-in.",
+   "page": "https://warnockforgeorgia.com/issues/healthcare/",
+   "file": "archive/2024/warnock-ga/issues-healthcare.html",
+   "snapshot": "20241006075304"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "Reverend Warnock is working to reform our immigration system by fighting to keep families together, end the use of privatized prisons and ensure due process under the law.",
+   "page": "https://warnockforgeorgia.com/issues/immigration/",
+   "file": "archive/2024/warnock-ga/issues-immigration.html",
+   "snapshot": "20240923225922"
+  }
+ ]
+}

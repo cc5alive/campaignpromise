@@ -1,0 +1,36 @@
+{
+ "member": "davis-il",
+ "pages": 4,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "He will work to close the wealth gap by implementing progressive tax reforms, expanding access to affordable housing, and investing in programs that promote economic mobility for low-income and minority communities.",
+   "page": "https://www.dannykdavis.com/platform",
+   "file": "archive/2024/davis-il/platform.html",
+   "snapshot": "20241105102705"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "\"She understands the struggles of working families and has a plan to cut costs, reduce taxes for the middle class, and take on corporate greed.",
+   "page": "https://www.dannykdavis.com/post/congressman-danny-k-davis-highlights-key-issues-on-milwaukee-radio-show-as-surrogate-for-vp-kamala",
+   "file": "archive/2024/davis-il/post-congressman-danny-k-davis-highlights-key-issues-on-milwaukee-radio-show-as-surrogate-for-vp-kamala.html",
+   "snapshot": "20241105102935"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Health care"
+   ],
+   "sentence": "\"Vice President Harris is committed to addressing the systemic challenges facing Black Americans, including expanding access to capital, lowering health care costs, and increasing homeownership.",
+   "page": "https://www.dannykdavis.com/post/congressman-danny-k-davis-highlights-key-issues-on-milwaukee-radio-show-as-surrogate-for-vp-kamala",
+   "file": "archive/2024/davis-il/post-congressman-danny-k-davis-highlights-key-issues-on-milwaukee-radio-show-as-surrogate-for-vp-kamala.html",
+   "snapshot": "20241105102935"
+  }
+ ]
+}

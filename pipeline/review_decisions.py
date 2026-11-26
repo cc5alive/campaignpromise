@@ -76,11 +76,13 @@ s(" ".join(f"R6-{i:03d}" for i in range(1, 46)), A, "Vote directly tests the com
 # Round 7 (Nov 25, 2026): new votes on Ukraine aid, the SAVE Act, veterans and gun background checks, and Medicaid coverage of gender transition for minors
 s(" ".join(f"R7-{i:03d}" for i in range(1, 48) if i not in (7, 45)), A, "Vote directly tests the commitment.")
 s("R7-007", E, RELATED + " Her support for Ukraine aid is conditioned on it not being tied to offensive military aid; the Ukraine Support Act included military financing, so a kept-or-broken call would rest on a contested reading.")
+# Round 8 (Nov 26, 2026): 279 newly archived members
+s(" ".join(f"R8-{i:03d}" for i in range(1, 197)), A, "Vote directly tests the commitment.")
 s("R7-045", E, RELATED + " The Stop Insider Trading Act was a partial ban (no new stock purchases) bundled with a voter ID requirement, so a vote against it does not clearly break a promise to end congressional stock trading.")
 
 def all_ids():
     ids = []
-    for f, pre in (("pilot_round1", "P"), ("round2", "R2"), ("round3", "R3"), ("issues", "NI"), ("round4", "R4"), ("round5", "R5"), ("round6", "R6"), ("round7", "R7")):
+    for f, pre in (("pilot_round1", "P"), ("round2", "R2"), ("round3", "R3"), ("issues", "NI"), ("round4", "R4"), ("round5", "R5"), ("round6", "R6"), ("round7", "R7"), ("round8", "R8")):
         d = json.loads((ROOT / f"data/promises/{f}_drafts.json").read_text())
         ps = d.get("promises") or d.get("drafts")
         ids += [f"{pre}-{i:03d}" for i in range(1, len(ps) + 1)]

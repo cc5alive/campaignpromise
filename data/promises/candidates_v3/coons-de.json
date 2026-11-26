@@ -1,0 +1,56 @@
+{
+ "member": "coons-de",
+ "pages": 9,
+ "candidates": [
+  {
+   "score": 5,
+   "topics": [
+    "Elections"
+   ],
+   "sentence": "Chris is leading efforts to protect the right to vote for all Americans and to ensure that exercising your right to vote is safe.",
+   "page": "https://www.chriscoons.com/issue/civil-rights/",
+   "file": "archive/2024/coons-de/issue-civil-rights.html",
+   "snapshot": "20240914023257"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "Chris believes that every American deserves the right to live without fear of gun violence in their communities.",
+   "page": "https://chriscoons.com/issue/gun-violence/",
+   "file": "archive/2024/coons-de/issue-gun-violence.html",
+   "snapshot": "20240919053716"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "Chris has shown time and again that he’s not afraid to stand up to the NRA, and he has been a champion for universal background checks, bills to keep guns out of the hands of stalkers and domestic abusers, and legislation to keep weapons of war out of our communities.",
+   "page": "https://chriscoons.com/issue/gun-violence/",
+   "file": "archive/2024/coons-de/issue-gun-violence.html",
+   "snapshot": "20240919053716"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Health care"
+   ],
+   "sentence": "Chris has been a leader in the Senate to protect and expand the Affordable Care Act.",
+   "page": "https://chriscoons.com/issue/health-care/",
+   "file": "archive/2024/coons-de/issue-health-care.html",
+   "snapshot": "20241008182803"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "Protected women’s access to health care by fighting to protect Planned Parenthood and blocking right-wing efforts to deny women the care they deserve.",
+   "page": "https://chriscoons.com/issue/health-care/",
+   "file": "archive/2024/coons-de/issue-health-care.html",
+   "snapshot": "20241008182803"
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "member": "murphy-nc",
+ "pages": 12,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "Murphy will continue to fight for the Second Amendment rights for North Carolina’s Third District.",
+   "page": "https://murphy4congress.com/issues/second-amendment/",
+   "file": "archive/2024/murphy-nc/issues-second-amendment.html",
+   "snapshot": "20241105201952"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Taxes",
+    "Federal spending"
+   ],
+   "sentence": "Yet thanks to out of control government spending, the fight for lower taxes for the American people must continue.",
+   "page": "https://murphy4congress.com/issues/tax-economy/",
+   "file": "archive/2024/murphy-nc/issues-tax-economy.html",
+   "snapshot": "20241105202117"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "Murphy has cosponsored numerous other bills to protect the lives of the unborn.",
+   "page": "https://murphy4congress.com/issues/pro-life/",
+   "file": "archive/2024/murphy-nc/issues-pro-life.html",
+   "snapshot": "20241105201919"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "He fundamentally believes in the constitutional right to bear arms for law-abiding citizens so they may protect themselves and their families.",
+   "page": "https://murphy4congress.com/issues/second-amendment/",
+   "file": "archive/2024/murphy-nc/issues-second-amendment.html",
+   "snapshot": "20241105201952"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "Murphy has spent his time in Congress fighting to simplify the tax code for working families and to lower the rates they have to pay, regardless of income.",
+   "page": "https://murphy4congress.com/issues/tax-economy/",
+   "file": "archive/2024/murphy-nc/issues-tax-economy.html",
+   "snapshot": "20241105202117"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "As our debt continues to rise irresponsibly under democratic rule, he has pledged to cut the amount of money the government spends annually.",
+   "page": "https://murphy4congress.com/issues/tax-economy/",
+   "file": "archive/2024/murphy-nc/issues-tax-economy.html",
+   "snapshot": "20241105202117"
+  }
+ ]
+}

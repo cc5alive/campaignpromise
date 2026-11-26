@@ -1,0 +1,37 @@
+{
+ "member": "risch-id",
+ "pages": 2,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Medicaid",
+    "Social Security & Medicare"
+   ],
+   "sentence": "I strongly support the changes we have made to improve and expand these services, including waiving restrictions on the use of telehealth by Medicaid and Medicare.",
+   "page": "https://senatorrisch.com/issues/",
+   "file": "archive/2024/risch-id/issues.html",
+   "snapshot": "20241007025123"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "As Idaho’s Governor I put an end to sky rocketing property tax bills that were forcing middle income families and the elderly from their homes, reducing property taxes by 20%.",
+   "page": "https://senatorrisch.com/issues/",
+   "file": "archive/2024/risch-id/issues.html",
+   "snapshot": "20241007025123"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "As a hunter and gun owner, I’ll always stand proudly to defend and protect Idahoans 2nd Amendment rights.",
+   "page": "https://senatorrisch.com/issues/",
+   "file": "archive/2024/risch-id/issues.html",
+   "snapshot": "20241007025123"
+  }
+ ]
+}

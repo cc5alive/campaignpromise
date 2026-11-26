@@ -1,0 +1,26 @@
+{
+ "member": "leger-fernandez-nm",
+ "pages": 12,
+ "candidates": [
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "Protect our communities and families from gun violence.",
+   "page": "https://www.teresaforall.com/issues",
+   "file": "archive/2024/leger-fernandez-nm/issues.html",
+   "snapshot": "20241105192420"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Elections"
+   ],
+   "sentence": "Strengthening our democracy and fighting to protect the right to vote.",
+   "page": "https://www.teresaforall.com/issues",
+   "file": "archive/2024/leger-fernandez-nm/issues.html",
+   "snapshot": "20241105192420"
+  }
+ ]
+}

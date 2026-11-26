@@ -1,0 +1,28 @@
+{
+ "member": "degette-co",
+ "pages": 12,
+ "candidates": [
+  {
+   "score": 6,
+   "topics": [
+    "Health care",
+    "Medicaid",
+    "Social Security & Medicare"
+   ],
+   "sentence": "The RFI would seek feedback on approaches to: identify culturally competent and evidence-based interventions in populations served by these programs; reduce costs in Medicare and Medicaid; increase patient satisfaction for Medicare and Medicaid beneficiaries; identify beneficiaries’ health insurance literacy levels; and identify ways for CMS to use Medicare and Medicaid pay policies to improve health literacy.",
+   "page": "https://degette.com/media/inside-health-policy-degette-upton-ask-how-to-modernize-cms-in-cures-2-0-concept-paper/",
+   "file": "archive/2024/degette-co/media-inside-health-policy-degette-upton-ask-how-to-modernize-cms-in-cures-2-0-concept-paper.html",
+   "snapshot": "20241105040028"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "Magazine: First-Ever Legislation to Repeal Helms Amendment: Abortion Is Health Care Everywhere Act",
+   "page": "https://degette.com/media/colorado-politics-degette-requests-timeline-for-trump-administrations-vaccination-plan/",
+   "file": "archive/2024/degette-co/media-colorado-politics-degette-requests-timeline-for-trump-administrations-vaccination-plan.html",
+   "snapshot": "20241105040030"
+  }
+ ]
+}

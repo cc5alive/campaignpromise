@@ -1,0 +1,108 @@
+{
+ "member": "van-hollen-md",
+ "pages": 3,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "He will not rest until we end the epidemic of gun violence.",
+   "page": "https://vanhollen.org/",
+   "file": "archive/2024/van-hollen-md/home.html",
+   "snapshot": "20241030071656"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Health care",
+    "Federal spending"
+   ],
+   "sentence": "He has championed measures to reduce prescription drug and health care costs, address the medical debt crisis, and end health disparities that mostly impact women and minorities.",
+   "page": "https://vanhollen.org/issues/",
+   "file": "archive/2024/van-hollen-md/issues.html",
+   "snapshot": "20241011212033"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Immigration",
+    "Guns"
+   ],
+   "sentence": "Chris has been a key leader in the fight for social justice, racial equity, comprehensive immigration reform, and gun safety.",
+   "page": "https://vanhollen.org/about/",
+   "file": "archive/2024/van-hollen-md/about.html",
+   "snapshot": "20241011210149"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "He is the author of Build Back Better measures to end tax giveaways to the super wealthy so we can invest more in the success of every American.",
+   "page": "https://vanhollen.org/",
+   "file": "archive/2024/van-hollen-md/home.html",
+   "snapshot": "20241030071656"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "Chris believes deeply in the promises we make to those who have earned the dignity of a secure retirement after paying into Medicare and Social Security all their working lives.",
+   "page": "https://vanhollen.org/",
+   "file": "archive/2024/van-hollen-md/home.html",
+   "snapshot": "20241030071656"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Elections"
+   ],
+   "sentence": "Throughout his public service, Chris has worked to protect the right to vote and fight back against discriminatory attempts to disenfranchise Americans.",
+   "page": "https://vanhollen.org/",
+   "file": "archive/2024/van-hollen-md/home.html",
+   "snapshot": "20241030071656"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Elections"
+   ],
+   "sentence": "Lewis Voting Rights Act, he believes we must urgently fortify our democracy against the “Big Lie” and GOP voter suppression laws.",
+   "page": "https://vanhollen.org/",
+   "file": "archive/2024/van-hollen-md/home.html",
+   "snapshot": "20241030071656"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Food assistance"
+   ],
+   "sentence": "Chris pushed for and won vital funding for economic relief to help Maryland families, workers, and small businesses during the pandemic, including direct support payments for families, rental and food assistance, delivery of essential resources to seniors, and critical funding to ramp up efforts to beat the virus and improve accessibility and equity of vaccine distribution.",
+   "page": "https://vanhollen.org/issues/",
+   "file": "archive/2024/van-hollen-md/issues.html",
+   "snapshot": "20241011212033"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "Chris believes that enabling immigrants to become a strong and vital part of our country is not just consistent with our values, but is a proven path to strengthening our economic future.",
+   "page": "https://vanhollen.org/issues/",
+   "file": "archive/2024/van-hollen-md/issues.html",
+   "snapshot": "20241011212033"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Elections"
+   ],
+   "sentence": "As the author of the original DISCLOSE Act to end secret money in our elections, he has been at the vanguard of our mission to protect our democracy, safeguard voting rights, and end big money in politics.",
+   "page": "https://vanhollen.org/about/",
+   "file": "archive/2024/van-hollen-md/about.html",
+   "snapshot": "20241011210149"
+  }
+ ]
+}

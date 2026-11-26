@@ -277,7 +277,7 @@ footer{border-top:1px solid var(--rule);color:var(--muted);font-size:12px;paddin
     <p>AI can make mistakes. That is why every quote links to its archived source, every vote links to the official roll call, and every decision, including the __M_REJECTED__ rejected drafts, is published with its reason in <a href="https://github.com/cc5alive/campaignpromise/blob/main/data/promises/published.json">published.json</a>.</p>
     <h3>Promises and votes</h3>
     <ol>
-      <li><b>Archive.</b> Campaign websites as they stood in the 2024 race are saved from the Internet Archive's Wayback Machine.</li>
+      <li><b>Archive.</b> Campaign websites as they stood in fall 2024 (August to Election Day) are saved from the Internet Archive's Wayback Machine. For most members that is their 2024 campaign; for senators not up in 2024, it is their campaign site as it stood then.</li>
       <li><b>Select.</b> Claude Opus 5.5 reads the saved pages and picks sentences that state a commitment ("Pledge") or a position ("Stated position").</li>
       <li><b>Verify.</b> A script confirms each quote appears word for word in the archived page. Quotes that don't are dropped.</li>
       <li><b>Match votes.</b> Votes come from official House Clerk and Senate roll-call files. Claude Opus 5.5 picks votes that directly test each promise and decides which position keeps it.</li>
@@ -425,7 +425,7 @@ function voteRow(v){
 }
 function promiseCard(p){
   const [cls,lab] = VS[p.status];
-  const src = p.src.wb ? '<a href="'+esc(p.src.wb)+'">2024 campaign site, archived '+esc(p.src.date)+'</a>' :
+  const src = p.src.wb ? '<a href="'+esc(p.src.wb)+'">Campaign site, archived '+esc(p.src.date)+'</a>' :
     p.src.via ? 'Campaign site, as quoted by <a href="'+esc(p.src.via.split(" ")[0])+'">Ballotpedia</a>' : '';
   return '<div class="prom"><div class="ph"><span class="layer">'+esc(p.issue)+' · '+esc(p.kind)+'</span><span class="vs '+cls+'">'+lab+'</span></div>'+
     '<blockquote>“'+esc(p.quote)+'”</blockquote><div class="layer">'+src+'</div>'+

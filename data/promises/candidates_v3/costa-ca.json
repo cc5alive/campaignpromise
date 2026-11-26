@@ -1,0 +1,56 @@
+{
+ "member": "costa-ca",
+ "pages": 6,
+ "candidates": [
+  {
+   "score": 5,
+   "topics": [
+    "Fentanyl"
+   ],
+   "sentence": "That is why, Jim Costa has fought for federal funding to support law enforcement and first responders, help domestic violence victims, and crack down on fentanyl in the San Joaquin Valley.",
+   "page": "https://www.jimcosta.com/issues",
+   "file": "archive/2024/costa-ca/issues.html",
+   "snapshot": "20241105065628"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "That is why, he is fighting against extreme Republicans attempts to restrict access to reproductive care.",
+   "page": "https://www.jimcosta.com/issues",
+   "file": "archive/2024/costa-ca/issues.html",
+   "snapshot": "20241105065628"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "He supported legislation to protect women’s rights to travel out of state for reproductive healthcare.",
+   "page": "https://www.jimcosta.com/issues",
+   "file": "archive/2024/costa-ca/issues.html",
+   "snapshot": "20241105065628"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "He supports comprehensive, bipartisan immigration reform that keeps families together, secures our borders, and fixes our broken immigration system.",
+   "page": "https://www.jimcosta.com/issues",
+   "file": "archive/2024/costa-ca/issues.html",
+   "snapshot": "20241105065628"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Food assistance"
+   ],
+   "sentence": "To protect these life-saving benefits, he is fighting against Republican’s attempts to cut SNAP and other nutrition programs.",
+   "page": "https://www.jimcosta.com/issues",
+   "file": "archive/2024/costa-ca/issues.html",
+   "snapshot": "20241105065628"
+  }
+ ]
+}

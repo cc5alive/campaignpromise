@@ -1273,6 +1273,790 @@
   "R7-047": {
    "decision": "Approve",
    "reason": "Vote directly tests the commitment."
+  },
+  "R8-001": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-002": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-003": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-004": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-005": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-006": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-007": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-008": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-009": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-010": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-011": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-012": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-013": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-014": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-015": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-016": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-017": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-018": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-019": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-020": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-021": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-022": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-023": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-024": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-025": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-026": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-027": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-028": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-029": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-030": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-031": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-032": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-033": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-034": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-035": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-036": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-037": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-038": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-039": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-040": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-041": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-042": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-043": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-044": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-045": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-046": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-047": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-048": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-049": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-050": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-051": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-052": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-053": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-054": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-055": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-056": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-057": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-058": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-059": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-060": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-061": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-062": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-063": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-064": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-065": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-066": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-067": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-068": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-069": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-070": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-071": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-072": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-073": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-074": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-075": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-076": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-077": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-078": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-079": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-080": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-081": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-082": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-083": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-084": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-085": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-086": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-087": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-088": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-089": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-090": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-091": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-092": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-093": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-094": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-095": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-096": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-097": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-098": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-099": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-100": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-101": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-102": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-103": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-104": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-105": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-106": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-107": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-108": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-109": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-110": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-111": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-112": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-113": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-114": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-115": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-116": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-117": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-118": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-119": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-120": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-121": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-122": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-123": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-124": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-125": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-126": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-127": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-128": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-129": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-130": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-131": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-132": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-133": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-134": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-135": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-136": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-137": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-138": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-139": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-140": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-141": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-142": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-143": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-144": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-145": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-146": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-147": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-148": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-149": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-150": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-151": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-152": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-153": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-154": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-155": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-156": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-157": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-158": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-159": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-160": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-161": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-162": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-163": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-164": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-165": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-166": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-167": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-168": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-169": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-170": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-171": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-172": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-173": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-174": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-175": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-176": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-177": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-178": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-179": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-180": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-181": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-182": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-183": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-184": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-185": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-186": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-187": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-188": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-189": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-190": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-191": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-192": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-193": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-194": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-195": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R8-196": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
   }
  }
 }

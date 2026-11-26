@@ -1,0 +1,27 @@
+{
+ "member": "franklin-fl",
+ "pages": 2,
+ "candidates": [
+  {
+   "score": 9,
+   "topics": [
+    "Abortion",
+    "Guns"
+   ],
+   "sentence": "He will defend the Second Amendment, and he will fight for the unborn.",
+   "page": "https://www.votescottfranklin.com/about",
+   "file": "archive/2024/franklin-fl/about.html",
+   "snapshot": "20241105210807"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "He will ensure that our nation builds the wall to keep our borders secure.",
+   "page": "https://www.votescottfranklin.com/about",
+   "file": "archive/2024/franklin-fl/about.html",
+   "snapshot": "20241105210807"
+  }
+ ]
+}

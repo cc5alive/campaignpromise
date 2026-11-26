@@ -1,0 +1,26 @@
+{
+ "member": "auchincloss-ma",
+ "pages": 3,
+ "candidates": [
+  {
+   "score": 5,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "With abortion access in jeopardy across the country, it’s more important than ever that we elect leaders who'll protect the freedom to choose.",
+   "page": "https://www.jakeforma.com/",
+   "file": "archive/2024/auchincloss-ma/home.html",
+   "snapshot": "20241105203523"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "focused on electing like-minded lawmakers willing to take on the gun lobby and fight for common-sense gun safety legislation as Democrats look to take back the U.S.",
+   "page": "https://www.jakeforma.com/",
+   "file": "archive/2024/auchincloss-ma/home.html",
+   "snapshot": "20241105203523"
+  }
+ ]
+}

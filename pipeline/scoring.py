@@ -28,6 +28,8 @@ AGAINST = {
     # Round 7: oppose voter ID / proof-of-citizenship laws; expand background checks; protect gender-affirming care.
     "R7-010", "R7-011", "R7-031", "R7-032", "R7-033", "R7-034", "R7-035", "R7-036", "R7-037", "R7-038",
     "R7-039", "R7-040", "R7-041", "R7-042", "R7-043", "R7-044",
+    # Round 8: oppose the PP defunding, background checks, protect Medicaid, repeal tax cuts for the wealthy, oppose the wall
+    "R8-030", "R8-033", "R8-041", "R8-043", "R8-056", "R8-061", "R8-066", "R8-087", "R8-101", "R8-109", "R8-111", "R8-112", "R8-134", "R8-154", "R8-163", "R8-170", "R8-178", "R8-194",
 }
 
 # Plain-language note shown with any promise scored by these votes.
@@ -44,6 +46,11 @@ NOTES = {
     "P-012": "The Laken Riley Act expanded mandatory ICE detention and H.R.1 added about $75 billion for ICE, so a no vote keeps this promise.",
     "R4-045": "H.R.1 funded new Border Patrol agents, a central provision. A no vote counts against this promise even if the member opposed the bill for other reasons.",
     "R5-036": "H.R.1 funded Border Patrol personnel and border infrastructure, a central provision. A no vote counts against this promise even if the member opposed the bill for other reasons.",
+    "R8-047": "Quoted from Tim Scott's 2024 presidential campaign site, which carried his platform in the 2024 race. It is tested here by his votes as a senator.",
+    "R8-048": "Quoted from Tim Scott's 2024 presidential campaign site, which carried his platform in the 2024 race. It is tested here by his votes as a senator.",
+    "R8-049": "Quoted from Tim Scott's 2024 presidential campaign site, which carried his platform in the 2024 race. It is tested here by his votes as a senator.",
+    "R8-154": "H.R.1 cut projected Medicaid spending, a central and widely reported provision, so a no vote keeps this promise.",
+    "R8-080": "A statement on his 2020 campaign site (he was not up in 2024). H.R.1 extended the 2017 tax cuts, a central provision; he voted against the final bill, citing its Medicaid cuts. A no vote counts against this promise even if the member opposed the bill for other reasons.",
     "R7-046": "Quoted from the issues page of berniesanders.com as it stood on Nov 5, 2024; the page carries the platform from his presidential campaigns. A yes vote on the Murray amendment would have kept Planned Parenthood's Medicaid funding.",
     "R7-047": "A yes vote on the Kim amendment would have removed H.R.1's limits on Medicaid provider taxes and payments, which account for much of the bill's Medicaid cuts.",
     "R6-013": "H.R.1 extended the 2017 tax cuts, a central provision. A no vote counts against this promise even if the member opposed the bill for other reasons, such as its cap on the state and local tax deduction.",

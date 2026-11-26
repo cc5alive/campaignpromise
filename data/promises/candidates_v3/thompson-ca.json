@@ -1,0 +1,26 @@
+{
+ "member": "thompson-ca",
+ "pages": 2,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "We must make sure the promise of Social Security and Medicare is 100 percent certain for generations to come.",
+   "page": "https://www.mikethompsonforcongress.com/issues",
+   "file": "archive/2024/thompson-ca/issues.html",
+   "snapshot": "20241105092400"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "As a hunter and gun owner, I believe that we should protect the Second Amendment right of law-abiding individuals to own firearms.",
+   "page": "https://www.mikethompsonforcongress.com/issues",
+   "file": "archive/2024/thompson-ca/issues.html",
+   "snapshot": "20241105092400"
+  }
+ ]
+}

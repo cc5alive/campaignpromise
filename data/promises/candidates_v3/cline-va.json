@@ -1,0 +1,77 @@
+{
+ "member": "cline-va",
+ "pages": 12,
+ "candidates": [
+  {
+   "score": 9,
+   "topics": [
+    "Taxes",
+    "Federal spending"
+   ],
+   "sentence": "I will hold Washington accountable by putting an end to wasteful spending and returning as many tax dollars as possible back to the citizens – after all, it’s your money, not the government’s money!",
+   "page": "https://bencline.com/issues/stop-the-waste/",
+   "file": "archive/2024/cline-va/issues-stop-the-waste.html",
+   "snapshot": "20241105093127"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "I have always been a champion of pro-life legislation that protects our God-given right to life, and I’ll never stop fighting for the unborn.",
+   "page": "https://bencline.com/issues/protecting-the-unborn/",
+   "file": "archive/2024/cline-va/issues-protecting-the-unborn.html",
+   "snapshot": "20241105093130"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "I promise to fight every day to defend the Second Amendment so that we can protect ourselves and our families.",
+   "page": "https://bencline.com/issues/support-the-2nd-amendment/",
+   "file": "archive/2024/cline-va/issues-support-the-2nd-amendment.html",
+   "snapshot": "20241105093119"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Elections"
+   ],
+   "sentence": "I support voter ID requirements which will ensure only legal votes are cast, as well as safeguards to ensure your ballot is protected throughout the counting process.",
+   "page": "https://bencline.com/issues/upholding-election-integrity/",
+   "file": "archive/2024/cline-va/issues-upholding-election-integrity.html",
+   "snapshot": "20241105093126"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "Support The 2nd Amendment",
+   "page": "https://bencline.com/issues/",
+   "file": "archive/2024/cline-va/issues.html",
+   "snapshot": "20241105103923"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "We have a duty to protect the weakest among us – the unborn.",
+   "page": "https://bencline.com/issues/protecting-the-unborn/",
+   "file": "archive/2024/cline-va/issues-protecting-the-unborn.html",
+   "snapshot": "20241105093130"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "Support The 2nd Amendment - Ben Cline for Congress",
+   "page": "https://bencline.com/issues/support-the-2nd-amendment/",
+   "file": "archive/2024/cline-va/issues-support-the-2nd-amendment.html",
+   "snapshot": "20241105093119"
+  }
+ ]
+}

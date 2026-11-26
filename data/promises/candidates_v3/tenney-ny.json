@@ -1,0 +1,26 @@
+{
+ "member": "tenney-ny",
+ "pages": 2,
+ "candidates": [
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "We must ensure the security of our nation’s border immediately.",
+   "page": "https://claudiaforcongress.com/issues/",
+   "file": "archive/2024/tenney-ny/issues.html",
+   "snapshot": "20241105060217"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "Claudia knows we must stop the flow of illegal-immigrants that is putting our nation’s security at risk and placing…",
+   "page": "https://claudiaforcongress.com/issues/",
+   "file": "archive/2024/tenney-ny/issues.html",
+   "snapshot": "20241105060217"
+  }
+ ]
+}

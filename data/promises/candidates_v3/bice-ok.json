@@ -1,0 +1,46 @@
+{
+ "member": "bice-ok",
+ "pages": 12,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "As a proud gun owner, Bice never backs down when it comes to the 2nd Amendment.",
+   "page": "https://biceforcongress.com/issues/",
+   "file": "archive/2024/bice-ok/issues.html",
+   "snapshot": "20241105142541"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "The safety of Americans is at risk–action must be taken to restore order, security, and control of our border.",
+   "page": "https://biceforcongress.com/issues/",
+   "file": "archive/2024/bice-ok/issues.html",
+   "snapshot": "20241105142541"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "Representative Bice believes it is not fair to individuals who are working through the immigration process legally to grant citizenship to those who have entered the country illegally.",
+   "page": "https://biceforcongress.com/issues/",
+   "file": "archive/2024/bice-ok/issues.html",
+   "snapshot": "20241105142541"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "She also fights for accountability and transparency for Veterans Affairs.",
+   "page": "https://biceforcongress.com/issues/",
+   "file": "archive/2024/bice-ok/issues.html",
+   "snapshot": "20241105142541"
+  }
+ ]
+}

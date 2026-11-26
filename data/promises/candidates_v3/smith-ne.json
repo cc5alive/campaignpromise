@@ -1,0 +1,68 @@
+{
+ "member": "smith-ne",
+ "pages": 4,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Taxes",
+    "Abortion"
+   ],
+   "sentence": "Adrian is unwavering in his support for pro-life legislation and opposition to taxpayer funding for abortions.",
+   "page": "https://joinadrian.com/issues/",
+   "file": "archive/2024/smith-ne/issues.html",
+   "snapshot": "20241105051908"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Health care",
+    "Social Security & Medicare"
+   ],
+   "sentence": "Adrian has sponsored and voted for legislation to defund and repeal Obamacare, to protect Medicare patients, to expand hydropower for rural consumers, to promote markets for our local farmers and ranchers, and to limit costly and burdensome regulations imposed by the federal government and hold it accountable.",
+   "page": "https://joinadrian.com/",
+   "file": "archive/2024/smith-ne/home.html",
+   "snapshot": "20241105090351"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "Adrian supports and promotes adoption as an alternative to abortion.",
+   "page": "https://joinadrian.com/issues/",
+   "file": "archive/2024/smith-ne/issues.html",
+   "snapshot": "20241105051908"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "Border Patrol the resources needed to secure the border and stop the inflow of drugs and criminals.",
+   "page": "https://joinadrian.com/issues/",
+   "file": "archive/2024/smith-ne/issues.html",
+   "snapshot": "20241105051908"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "Adrian believes the federal government must return to the border policies that were working before being recklessly reversed by the Biden administration.",
+   "page": "https://joinadrian.com/issues/",
+   "file": "archive/2024/smith-ne/issues.html",
+   "snapshot": "20241105051908"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "Adrian supports the Second Amendment and opposes Democrat attempts to impose new gun control measures on the American people.",
+   "page": "https://joinadrian.com/issues/",
+   "file": "archive/2024/smith-ne/issues.html",
+   "snapshot": "20241105051908"
+  }
+ ]
+}

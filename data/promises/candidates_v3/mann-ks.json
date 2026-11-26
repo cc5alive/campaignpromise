@@ -1,0 +1,26 @@
+{
+ "member": "mann-ks",
+ "pages": 2,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "I believe that life begins at conception and will fight to protect the innocent life of the unborn.",
+   "page": "https://www.traceymann.com/",
+   "file": "archive/2024/mann-ks/home.html",
+   "snapshot": "20241105051546"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "We must secure our southern border by constructing a wall.",
+   "page": "https://www.traceymann.com/",
+   "file": "archive/2024/mann-ks/home.html",
+   "snapshot": "20241105051546"
+  }
+ ]
+}

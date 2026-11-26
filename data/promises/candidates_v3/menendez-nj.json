@@ -1,0 +1,76 @@
+{
+ "member": "menendez-nj",
+ "pages": 12,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "And we know that Republicans will not stop with abortion and will keep pushing to places that none of us want to go.",
+   "page": "https://www.robmenendez.com/issues/healthcare/",
+   "file": "archive/2024/menendez-nj/issues-healthcare.html",
+   "snapshot": "20241105120859"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "Support tax fairness for our district by restoring the full SALT deduction;",
+   "page": "https://www.robmenendez.com/issues/affordability/",
+   "file": "archive/2024/menendez-nj/issues-affordability.html",
+   "snapshot": "20241105120901"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "I joined the Gun Violence Prevention Task Force to protect our communities from these senseless acts of violence, and since taking office in January 2023, I have cosponsored more than twenty gun violence prevention bills, including the Bipartisan Background Checks Act, the Assault Weapons Ban, the Federal Extreme Risk Protection Order Act, and Ethan’s Law.",
+   "page": "https://www.robmenendez.com/issues/gun-control/",
+   "file": "archive/2024/menendez-nj/issues-gun-control.html",
+   "snapshot": "20241105120847"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Health care"
+   ],
+   "sentence": "It is crucial that we lower the cost of quality health insurance, protect the right to choose, improve equity and access to medical care, and make sure that every American receives the best healthcare possible regardless of ability to pay.",
+   "page": "https://www.robmenendez.com/issues/healthcare/",
+   "file": "archive/2024/menendez-nj/issues-healthcare.html",
+   "snapshot": "20241105120859"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "Repeal the Hyde Amendment, which only serves to make it harder for women of limited means to access abortions.",
+   "page": "https://www.robmenendez.com/issues/healthcare/",
+   "file": "archive/2024/menendez-nj/issues-healthcare.html",
+   "snapshot": "20241105120859"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Elections"
+   ],
+   "sentence": "I am proud to be a cosponsor of the Freedom to Vote Act, which would protect the right to vote and establish Election Day as a Federal Holiday; as well as the John R.",
+   "page": "https://www.robmenendez.com/issues/voting-rights/",
+   "file": "archive/2024/menendez-nj/issues-voting-rights.html",
+   "snapshot": "20241105120844"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Elections"
+   ],
+   "sentence": "Stand up and fight against every Republican attempt to attack the right to vote.",
+   "page": "https://www.robmenendez.com/issues/voting-rights/",
+   "file": "archive/2024/menendez-nj/issues-voting-rights.html",
+   "snapshot": "20241105120844"
+  }
+ ]
+}

@@ -1,0 +1,99 @@
+{
+ "member": "mcclellan-va",
+ "pages": 12,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Health care",
+    "Abortion",
+    "Elections"
+   ],
+   "sentence": "She passed landmark laws to protect voting rights, safeguard abortion access, tackle climate change, rebuild crumbling schools, expand Obamacare in Virginia, protect workers rights, and reform Virginia’s criminal justice system.",
+   "page": "https://jennifermcclellan.com/",
+   "file": "archive/2024/mcclellan-va/home.html",
+   "snapshot": "20241105064048"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Health care"
+   ],
+   "sentence": "will help close the gap of uninsured children by creating a health insurance program similar to the Family Access to Medical Insurance Security Plan for undocumented children, as recommended by the work group",
+   "page": "https://jennifermcclellan.com/2022-legislative-agenda/",
+   "file": "archive/2024/mcclellan-va/2022-legislative-agenda.html",
+   "snapshot": "20241105054416"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "It will also decrease prison overcrowding and lower the cost to Virginia taxpayers; nationally, pretrial detention costs taxpayers $13.6 billion.",
+   "page": "https://jennifermcclellan.com/2022-legislative-agenda/",
+   "file": "archive/2024/mcclellan-va/2022-legislative-agenda.html",
+   "snapshot": "20241105054416"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Immigration",
+    "Elections"
+   ],
+   "sentence": "Championed protections for immigrants and new Americans – fighting to ensure their access to voting rights and economic opportunity through legislation to",
+   "page": "https://jennifermcclellan.com/issue/equity-inclusivity-and-racial-justice/",
+   "file": "archive/2024/mcclellan-va/issue-equity-inclusivity-and-racial-justice.html",
+   "snapshot": "20241105053405"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "As a member of Congress, Jenn will work to close loopholes and protect Virginians from gun violence.",
+   "page": "https://jennifermcclellan.com/issue/gun-violence/",
+   "file": "archive/2024/mcclellan-va/issue-gun-violence.html",
+   "snapshot": "20241105053455"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "Jenn will work to ensure that access to mental health and reproductive health resources are part of a comprehensive health care system.",
+   "page": "https://jennifermcclellan.com/issue/health-care-and-abortion-access/",
+   "file": "archive/2024/mcclellan-va/issue-health-care-and-abortion-access.html",
+   "snapshot": "20241105053256"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Health care"
+   ],
+   "sentence": "under the Affordable Care Act, which will provide more affordable health insurance for approximately 300,000 Virginians",
+   "page": "https://jennifermcclellan.com/issue/health-care-and-abortion-access/",
+   "file": "archive/2024/mcclellan-va/issue-health-care-and-abortion-access.html",
+   "snapshot": "20241105053256"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "The bill would also protect children involved in sports by establishing annual background checks and child abuse prevention training for staff working with youth-serving athletic associations and agencies.",
+   "page": "https://jennifermcclellan.com/2022-legislative-agenda/",
+   "file": "archive/2024/mcclellan-va/2022-legislative-agenda.html",
+   "snapshot": "20241105054416"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "As the first member of the House of Delegates to be pregnant while in office, Jenn has been a fierce advocate for protecting access to reproductive care and supports for new mothers.",
+   "page": "https://jennifermcclellan.com/issue/health-care-and-abortion-access/",
+   "file": "archive/2024/mcclellan-va/issue-health-care-and-abortion-access.html",
+   "snapshot": "20241105053256"
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "member": "buchanan-fl",
+ "pages": 5,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Health care",
+    "Social Security & Medicare"
+   ],
+   "sentence": "With 220,000 Medicare beneficiaries in Florida’s 16th District, Buchanan is committed to preserving Medicare’s long-term solvency for senior citizens, as well as bringing down the cost of health care for all Americans.",
+   "page": "https://www.vernbuchanan.com/about",
+   "file": "archive/2024/buchanan-fl/about.html",
+   "snapshot": "20241105075546"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "He will continue to be a strong advocate for protecting and strengthening Medicare for both today’s seniors and future generations.",
+   "page": "https://www.vernbuchanan.com/about",
+   "file": "archive/2024/buchanan-fl/about.html",
+   "snapshot": "20241105075546"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "Buchanan previously served as chairman of the Tax Policy Subcommittee and played a key role in passage of a sweeping tax cut bill.",
+   "page": "https://www.vernbuchanan.com/about",
+   "file": "archive/2024/buchanan-fl/about.html",
+   "snapshot": "20241105075546"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "He has worked to enact tax incentives to help small businesses, end burdensome regulations and limit frivolous lawsuits.",
+   "page": "https://www.vernbuchanan.com/about",
+   "file": "archive/2024/buchanan-fl/about.html",
+   "snapshot": "20241105075546"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "Buchanan was awarded the “Champion for Healthy Seniors” award by a leading advocacy group for protecting Medicare and fighting for lower prescription drug costs.",
+   "page": "https://www.vernbuchanan.com/about",
+   "file": "archive/2024/buchanan-fl/about.html",
+   "snapshot": "20241105075546"
+  }
+ ]
+}

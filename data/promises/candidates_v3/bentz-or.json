@@ -1,0 +1,36 @@
+{
+ "member": "bentz-or",
+ "pages": 4,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "I will work in Congress – just as I did in the state senate – to strengthen our economy by directing investments toward rural Oregon, reducing regulations, lowering taxes and supporting President Trump’s policies that make our economy even stronger.",
+   "page": "https://cliffbentz.com/issues/",
+   "file": "archive/2024/bentz-or/issues.html",
+   "snapshot": "20241105055241"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "I will join President Trump in stopping illegal immigration by improving border security and by building/completing the wall.",
+   "page": "https://cliffbentz.com/issues/",
+   "file": "archive/2024/bentz-or/issues.html",
+   "snapshot": "20241105055241"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "I have always been pro-life.",
+   "page": "https://cliffbentz.com/issues/",
+   "file": "archive/2024/bentz-or/issues.html",
+   "snapshot": "20241105055241"
+  }
+ ]
+}

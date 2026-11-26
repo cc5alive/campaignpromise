@@ -1,0 +1,36 @@
+{
+ "member": "castor-fl",
+ "pages": 1,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Elections"
+   ],
+   "sentence": "If re-elected, she will focus on Tampa Bay, not Washington D.C., and will continue to support small businesses, protect our water, lower the cost of housing and healthcare, fight for women’s rights and voting rights.",
+   "page": "https://www.castorforcongress.com/",
+   "file": "archive/2024/castor-fl/home.html",
+   "snapshot": "20241105113724"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "While some Republicans in Congress seek to undermine our country's promise of security to older Americans, Kathy continues to stand tall to protect Medicare and Social Security.",
+   "page": "https://www.castorforcongress.com/",
+   "file": "archive/2024/castor-fl/home.html",
+   "snapshot": "20241105113724"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "Kathy is committed to the health and economic security of our older neighbors and has worked consistently to strengthen Medicare and Social Security.",
+   "page": "https://www.castorforcongress.com/",
+   "file": "archive/2024/castor-fl/home.html",
+   "snapshot": "20241105113724"
+  }
+ ]
+}

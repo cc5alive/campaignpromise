@@ -1,0 +1,26 @@
+{
+ "member": "fine-fl",
+ "pages": 1,
+ "candidates": [
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "Secure our borders and give the Sheriff the power to arrest illegal immigrants.",
+   "page": "https://www.voterandyfine.com/",
+   "file": "archive/2024/fine-fl/home.html",
+   "snapshot": "20241019041045"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "Protect the Second Amendment at all costs.",
+   "page": "https://www.voterandyfine.com/",
+   "file": "archive/2024/fine-fl/home.html",
+   "snapshot": "20241019041045"
+  }
+ ]
+}

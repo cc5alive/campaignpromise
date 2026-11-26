@@ -1,0 +1,116 @@
+{
+ "member": "hern-ok",
+ "pages": 12,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Health care"
+   ],
+   "sentence": "Kevin believes Obamacare will ultimately result in higher cost of care, less access to care, and he believes it reduces the choice of care.",
+   "page": "https://hernforcongress.com/issue/healthcare-reform/",
+   "file": "archive/2024/hern-ok/issue-healthcare-reform.html",
+   "snapshot": "20241105123059"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "Kevin believes that all life is sacred and begins at conception, and will lead the way in Washington on pro-life issues and give voice to the voiceless.",
+   "page": "https://hernforcongress.com/issue/standing-up-for-conservative-values/",
+   "file": "archive/2024/hern-ok/issue-standing-up-for-conservative-values.html",
+   "snapshot": "20241105123100"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Health care"
+   ],
+   "sentence": "Kevin supports repealing Obamacare, and favors replacing it with a health care reform that lowers costs and improves services for patients.",
+   "page": "https://hernforcongress.com/issues/",
+   "file": "archive/2024/hern-ok/issues.html",
+   "snapshot": "20241105123044"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "The Obama Administration ignored the rule of law, failed to secure the border, and allowed illegal immigrants to cross into the United States undeterred.",
+   "page": "https://hernforcongress.com/issues/",
+   "file": "archive/2024/hern-ok/issues.html",
+   "snapshot": "20241105123044"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "Kevin prides himself on maintaining and fighting to maintain fundamental freedoms of the American citizen, which includes gun rights.",
+   "page": "https://hernforcongress.com/issues/",
+   "file": "archive/2024/hern-ok/issues.html",
+   "snapshot": "20241105123044"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "Kevin believes in the Second Amendment, that every American has...",
+   "page": "https://hernforcongress.com/issues/",
+   "file": "archive/2024/hern-ok/issues.html",
+   "snapshot": "20241105123044"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "Kevin believes in a simplified tax system; that money earned should stay in the pockets of those who earned it.",
+   "page": "https://hernforcongress.com/issue/economy-and-jobs/",
+   "file": "archive/2024/hern-ok/issue-economy-and-jobs.html",
+   "snapshot": "20241105123059"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "Kevin believes that the only route to repairing America’s economy is to cut spending.",
+   "page": "https://hernforcongress.com/issue/economy-and-jobs/",
+   "file": "archive/2024/hern-ok/issue-economy-and-jobs.html",
+   "snapshot": "20241105123059"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "Kevin Hern strongly opposes the Obama Administration’s policy of taking unconstitutional, unilateral actions on immigration.",
+   "page": "https://hernforcongress.com/issue/immigration/",
+   "file": "archive/2024/hern-ok/issue-immigration.html",
+   "snapshot": "20241105123100"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "He believes we must enforce our existing laws, secure our borders, and ensure the American people that we are keeping their families safe from dangerous criminals.",
+   "page": "https://hernforcongress.com/issue/immigration/",
+   "file": "archive/2024/hern-ok/issue-immigration.html",
+   "snapshot": "20241105123100"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "Kevin believes in the Second Amendment, that every American has the right to own, carry and use a firearm.",
+   "page": "https://hernforcongress.com/issue/second-amendment/",
+   "file": "archive/2024/hern-ok/issue-second-amendment.html",
+   "snapshot": "20241105123100"
+  }
+ ]
+}

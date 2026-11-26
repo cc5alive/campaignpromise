@@ -1,0 +1,26 @@
+{
+ "member": "case-hi",
+ "pages": 4,
+ "candidates": [
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "Support expanded legal immigration while curtailing illegal immigration",
+   "page": "https://edcase.com/agenda/",
+   "file": "archive/2024/case-hi/agenda.html",
+   "snapshot": "20241105052746"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "We must preserve and strengthen Social Security and Medicare and fulfill our commitments to our veterans and others.",
+   "page": "https://edcase.com/agenda/",
+   "file": "archive/2024/case-hi/agenda.html",
+   "snapshot": "20241105052746"
+  }
+ ]
+}

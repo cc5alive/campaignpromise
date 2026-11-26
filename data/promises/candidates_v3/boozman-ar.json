@@ -1,0 +1,56 @@
+{
+ "member": "boozman-ar",
+ "pages": 3,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "No immigration reform will be effective until our border is secure, and that starts by enforcing the law, finishing the wall, and holding employers accountable.",
+   "page": "https://www.boozmanforarkansas.com/issues",
+   "file": "archive/2024/boozman-ar/issues.html",
+   "snapshot": "20241004185231"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Elections"
+   ],
+   "sentence": "It is my priority to continue working every day to pass common sense election integrity laws to ensure that every eligible Arkansan can vote and trust that vote will be counted.",
+   "page": "https://www.boozmanforarkansas.com/issues",
+   "file": "archive/2024/boozman-ar/issues.html",
+   "snapshot": "20241004185231"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "I am taking action to curb inflation, secure our borders, defend our constitutional rights, and push back radical leftist agendas.",
+   "page": "https://www.boozmanforarkansas.com/",
+   "file": "archive/2024/boozman-ar/home.html",
+   "snapshot": "20241105114843"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "protect the 2nd amendment",
+   "page": "https://www.boozmanforarkansas.com/",
+   "file": "archive/2024/boozman-ar/home.html",
+   "snapshot": "20241105114843"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Elections"
+   ],
+   "sentence": "As your Senator, I have always stood up for voter ID laws and the security of our election system.",
+   "page": "https://www.boozmanforarkansas.com/issues",
+   "file": "archive/2024/boozman-ar/issues.html",
+   "snapshot": "20241004185231"
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "member": "himes-ct",
+ "pages": 12,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "The plan will also provide direct housing and nutrition assistance, extend and expand unemployment insurance and boost families through enhanced tax credits.",
+   "page": "https://www.himesforcongress.com/the-american-rescue-plan/",
+   "file": "archive/2024/himes-ct/the-american-rescue-plan.html",
+   "snapshot": "20241105103232"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "Jim understands that Social Security is a critical part of our promise and support and stability to the American people.",
+   "page": "https://www.himesforcongress.com/priorities/healthcare-social-security/",
+   "file": "archive/2024/himes-ct/priorities-healthcare-social-security.html",
+   "snapshot": "20241105103229"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "He is looking out for all his constituents, fighting for accessible and affordable health care for all, taking on special interests like the NRA to end gun violence, creating economic opportunities for working families, keeping our country safe, and protecting our democracy.",
+   "page": "https://www.himesforcongress.com/",
+   "file": "archive/2024/himes-ct/home.html",
+   "snapshot": "20241105102838"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "Jim is proud to fight for common sense gun safety legislation, including implementing background checks, no fly no buy, an assault weapons ban, full funding for the Bureau of Alcohol, Tobacco, Firearms, and Explosives, better mental health screening before gun purchases, and limited magazine sizes.",
+   "page": "https://www.himesforcongress.com/priorities/common-sense-gun-safety/",
+   "file": "archive/2024/himes-ct/priorities-common-sense-gun-safety.html",
+   "snapshot": "20241105103231"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "College or post-graduate training is no longer a luxury, yet far too many students end up with insurmountable debt in their efforts to earn a higher degree.",
+   "page": "https://www.himesforcongress.com/priorities/education/",
+   "file": "archive/2024/himes-ct/priorities-education.html",
+   "snapshot": "20241105103235"
+  }
+ ]
+}

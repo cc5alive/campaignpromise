@@ -1,0 +1,28 @@
+{
+ "member": "lummis-wy",
+ "pages": 2,
+ "candidates": [
+  {
+   "score": 9,
+   "topics": [
+    "Federal spending",
+    "Abortion",
+    "Guns"
+   ],
+   "sentence": "However, she doesn’t believe in staying in office too long and after successfully working to reduce wasteful government spending on the powerful House Appropriations Committee, stop the government’s infringement on our civil liberties, protect the rights of the unborn and stand up for our Second Amendment, Cynthia returned to Wyoming.",
+   "page": "https://lummisforwyoming.com/",
+   "file": "archive/2024/lummis-wy/home.html",
+   "snapshot": "20241015192511"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "on the ‘No New Tax Pledge’",
+   "page": "https://lummisforwyoming.com/",
+   "file": "archive/2024/lummis-wy/home.html",
+   "snapshot": "20241015192511"
+  }
+ ]
+}

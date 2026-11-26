@@ -1,0 +1,26 @@
+{
+ "member": "luttrell-tx",
+ "pages": 5,
+ "candidates": [
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "PROTECT THE 2ND AMENDMENT",
+   "page": "https://www.morganluttrell.com/",
+   "file": "archive/2024/luttrell-tx/home.html",
+   "snapshot": "20241105044924"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "FINISH THE WALL, SECURE THE BORDER",
+   "page": "https://www.morganluttrell.com/",
+   "file": "archive/2024/luttrell-tx/home.html",
+   "snapshot": "20241105044924"
+  }
+ ]
+}

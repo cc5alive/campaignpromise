@@ -1,0 +1,50 @@
+{
+ "member": "amodei-nv",
+ "pages": 6,
+ "candidates": [
+  {
+   "score": 6,
+   "topics": [
+    "Immigration",
+    "Federal spending",
+    "Abortion"
+   ],
+   "sentence": "On the Record: Congressional incumbent Mark Amodei on elections, abortion, immigration and government spending – Amodei For Nevada",
+   "page": "https://amodeifornevada.com/record-congressional-incumbent-mark-amodei-elections-abortion-immigration-government-spending/",
+   "file": "archive/2024/amodei-nv/record-congressional-incumbent-mark-amodei-elections-abortion-immigration-government-spending.html",
+   "snapshot": "20241105123519"
+  },
+  {
+   "score": 6,
+   "topics": [
+    "Immigration",
+    "Federal spending",
+    "Abortion"
+   ],
+   "sentence": "On the Record: Congressional incumbent Mark Amodei on elections, abortion, immigration and government spending",
+   "page": "https://amodeifornevada.com/record-congressional-incumbent-mark-amodei-elections-abortion-immigration-government-spending/",
+   "file": "archive/2024/amodei-nv/record-congressional-incumbent-mark-amodei-elections-abortion-immigration-government-spending.html",
+   "snapshot": "20241105123519"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Ukraine"
+   ],
+   "sentence": "Amodei called the Biden Administration’s support for Ukraine slow in terms of equipment assistance, but he stopped short of saying the United States should send troops to the Eastern European nation.",
+   "page": "https://amodeifornevada.com/record-congressional-incumbent-mark-amodei-elections-abortion-immigration-government-spending/",
+   "file": "archive/2024/amodei-nv/record-congressional-incumbent-mark-amodei-elections-abortion-immigration-government-spending.html",
+   "snapshot": "20241105123519"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "When asked whether he supports weaking protections for abortions, Amodei said his belief doesn’t matter because Nevada voters have already weighed in on the issue.",
+   "page": "https://amodeifornevada.com/record-congressional-incumbent-mark-amodei-elections-abortion-immigration-government-spending/",
+   "file": "archive/2024/amodei-nv/record-congressional-incumbent-mark-amodei-elections-abortion-immigration-government-spending.html",
+   "snapshot": "20241105123519"
+  }
+ ]
+}

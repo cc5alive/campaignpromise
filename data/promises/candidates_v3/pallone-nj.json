@@ -1,0 +1,46 @@
+{
+ "member": "pallone-nj",
+ "pages": 2,
+ "candidates": [
+  {
+   "score": 5,
+   "topics": [
+    "Health care"
+   ],
+   "sentence": "Frank continues to oppose the Trump Administration’s callous attempts to roll back the ACA’s protections and undermine a woman’s right to make her own health care decisions.",
+   "page": "https://www.pallonefornewjersey.com/about",
+   "file": "archive/2024/pallone-nj/about.html",
+   "snapshot": "20241105193911"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Elections"
+   ],
+   "sentence": "Frank also believes that the right to vote is the foundation of our democracy.",
+   "page": "https://www.pallonefornewjersey.com/about",
+   "file": "archive/2024/pallone-nj/about.html",
+   "snapshot": "20241105193911"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "He opposed the passage of the GOP tax scam that gave the ultra-wealthy a tax cut, and he continues to fight the repeal of the SALT deduction cap that hurts states like New Jersey.",
+   "page": "https://www.pallonefornewjersey.com/about",
+   "file": "archive/2024/pallone-nj/about.html",
+   "snapshot": "20241105193911"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "He also knows that we must continue to honor our commitment to seniors who depend on Medicare and Social Security.",
+   "page": "https://www.pallonefornewjersey.com/about",
+   "file": "archive/2024/pallone-nj/about.html",
+   "snapshot": "20241105193911"
+  }
+ ]
+}

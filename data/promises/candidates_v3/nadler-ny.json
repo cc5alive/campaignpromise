@@ -1,0 +1,26 @@
+{
+ "member": "nadler-ny",
+ "pages": 12,
+ "candidates": [
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "Working to extend the Child Tax Credit to support working parents",
+   "page": "https://jerrynadler.com/accomplishments/",
+   "file": "archive/2024/nadler-ny/accomplishments.html",
+   "snapshot": "20241105172842"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "Jerry is committed to fighting for comprehensive immigration reform and equally committed to protecting immigrants from Republicans and their hateful, divisive rhetoric.",
+   "page": "https://jerrynadler.com/issues/immigration/",
+   "file": "archive/2024/nadler-ny/issues-immigration.html",
+   "snapshot": "20241105172436"
+  }
+ ]
+}

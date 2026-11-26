@@ -1,0 +1,46 @@
+{
+ "member": "tokuda-hi",
+ "pages": 9,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "Getting sick or injured should never be the reason why someone goes into crippling debt.",
+   "page": "https://www.tokudaforhawaii.com/issues/",
+   "file": "archive/2024/tokuda-hi/issues.html",
+   "snapshot": "20241105054202"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "Everyone should have access to the reproductive healthcare they need, and I will keep fighting until every person has the freedom to make decisions about their own body, life, and future, without interference from politicians.",
+   "page": "https://www.tokudaforhawaii.com/issues/",
+   "file": "archive/2024/tokuda-hi/issues.html",
+   "snapshot": "20241105054202"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "I also support policies like increasing the minimum wage and canceling student loan debt so that higher education is a possibility for anyone.",
+   "page": "https://www.tokudaforhawaii.com/issues/",
+   "file": "archive/2024/tokuda-hi/issues.html",
+   "snapshot": "20241105054202"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "We must take decisive action to ensure public safety and prevent further tragedies caused by gun violence.",
+   "page": "https://www.tokudaforhawaii.com/issues/",
+   "file": "archive/2024/tokuda-hi/issues.html",
+   "snapshot": "20241105054202"
+  }
+ ]
+}

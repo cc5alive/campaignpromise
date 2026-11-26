@@ -1,0 +1,66 @@
+{
+ "member": "cloud-tx",
+ "pages": 12,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "Without a serious congressional commitment to responsible spending, our country will remain on a path to fiscal ruin.",
+   "page": "https://www.cloudforcongress.com/vision/federal-spending-and-debt/",
+   "file": "archive/2024/cloud-tx/vision-federal-spending-and-debt.html",
+   "snapshot": "20241105044020"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "Sign our petition to support our efforts and join the movement to protect our 2nd Amendment Rights.",
+   "page": "https://www.cloudforcongress.com/vision/2ndamendment/",
+   "file": "archive/2024/cloud-tx/vision-2ndamendment.html",
+   "snapshot": "20241105043848"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "Cloud believes in a comprehensive approach to solving this crisis.He took a rare opportunity to testify in front of the House Oversight Committee on how Texas’ 27th Congressional District has been impacted by the criminal activity on the southern border.",
+   "page": "https://www.cloudforcongress.com/vision/border-security/",
+   "file": "archive/2024/cloud-tx/vision-border-security.html",
+   "snapshot": "20241105043907"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "Congress should cut cane along the Rio Grande to help CBP prevent cartels from hiding.",
+   "page": "https://www.cloudforcongress.com/vision/border-security/",
+   "file": "archive/2024/cloud-tx/vision-border-security.html",
+   "snapshot": "20241105043907"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "Finally, Texas needs to stand up to the lack of the federal governments interest in controlling the border.",
+   "page": "https://www.cloudforcongress.com/vision/border-security/",
+   "file": "archive/2024/cloud-tx/vision-border-security.html",
+   "snapshot": "20241105043907"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "We owe our veterans a tremendous debt and must ensure veterans have access to quality health care and education.",
+   "page": "https://www.cloudforcongress.com/vision/energy-and-trade/",
+   "file": "archive/2024/cloud-tx/vision-energy-and-trade.html",
+   "snapshot": "20241105044023"
+  }
+ ]
+}

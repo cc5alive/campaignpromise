@@ -1,0 +1,36 @@
+{
+ "member": "warner-va",
+ "pages": 7,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Health care"
+   ],
+   "sentence": "He will continue to fight for coverage for all of his constituents and stand up any attempt by the Trump administration to repeal the Affordable Care Act or take us backward.",
+   "page": "https://markwarnerva.com/on-the-issues/health-care/",
+   "file": "archive/2024/warner-va/on-the-issues-health-care.html",
+   "snapshot": "20240814125457"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Health care"
+   ],
+   "sentence": "This important bill will ensure that miners will not lose their health insurance or pensions should their coal company declare bankruptcy.",
+   "page": "https://markwarnerva.com/on-the-issues/rural-virginia/",
+   "file": "archive/2024/warner-va/on-the-issues-rural-virginia.html",
+   "snapshot": "20240814130706"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Fentanyl"
+   ],
+   "sentence": "He was proud to support and helped write portions of the 2018 opioid crisis response bill which allocated an additional $8.4 billion to fighting the opioid epidemic on all fronts.",
+   "page": "https://markwarnerva.com/on-the-issues/health-care/",
+   "file": "archive/2024/warner-va/on-the-issues-health-care.html",
+   "snapshot": "20240814125457"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "member": "fry-sc",
+ "pages": 3,
+ "candidates": [
+  {
+   "score": 6,
+   "topics": [
+    "Taxes",
+    "Abortion",
+    "Guns"
+   ],
+   "sentence": "As Chief Majority Whip in the State House, he fought to lower taxes, defend the unborn, and safeguard the 2nd Amendment.",
+   "page": "https://russellfrysc.com/about/",
+   "file": "archive/2024/fry-sc/about.html",
+   "snapshot": "20241105052136"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Ukraine"
+   ],
+   "sentence": "End foreign influence – STOP China, Russia, and other foreign adversaries from buying up American farmland.",
+   "page": "https://russellfrysc.com/issues/",
+   "file": "archive/2024/fry-sc/issues.html",
+   "snapshot": "20241105052128"
+  }
+ ]
+}

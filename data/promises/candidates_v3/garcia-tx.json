@@ -1,0 +1,47 @@
+{
+ "member": "garcia-tx",
+ "pages": 2,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Elections"
+   ],
+   "sentence": "From being selected by Speaker Nancy Pelosi to serve as an impeachment manager to presenting the case in front of the US Senate to fighting for voting rights here in Texas, Sylvia understands that our nation is facing a crisis like never before.",
+   "page": "https://www.sylviaforcongress.com/issues",
+   "file": "archive/2024/garcia-tx/issues.html",
+   "snapshot": "20241105154648"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "She fights for fair immigration policy rooted in deeply held moral beliefs.",
+   "page": "https://www.sylviaforcongress.com/issues",
+   "file": "archive/2024/garcia-tx/issues.html",
+   "snapshot": "20241105154648"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "She also supports expansion of TPS rights to any country in need, and an overhaul of our immigration system.",
+   "page": "https://www.sylviaforcongress.com/issues",
+   "file": "archive/2024/garcia-tx/issues.html",
+   "snapshot": "20241105154648"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration",
+    "Federal spending"
+   ],
+   "sentence": "Back home, Sylvia has led the fight against Governor Abbott’s wasteful spending on Operation Lone Star and militarization of our border communities.",
+   "page": "https://www.sylviaforcongress.com/issues",
+   "file": "archive/2024/garcia-tx/issues.html",
+   "snapshot": "20241105154648"
+  }
+ ]
+}

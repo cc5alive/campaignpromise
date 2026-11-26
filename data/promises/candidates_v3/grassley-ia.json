@@ -1,0 +1,38 @@
+{
+ "member": "grassley-ia",
+ "pages": 2,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "Delivered historic infrastructure investment for Iowa communities that are bringing tax dollars back to Iowa to improve roads, fix bridges, update locks and dams, build out rural broadband in underserved areas, upgrade airports, and improve sewage and water quality systems that will boost economic development and quality of life in local communities across Iowa.",
+   "page": "https://grassleyworks.com/",
+   "file": "archive/2024/grassley-ia/home.html",
+   "snapshot": "20241105111548"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "He passed the landmark First Step Act signed into law by President Trump that will protect taxpayer dollars and prevent criminals from committing more crimes when they leave prison.",
+   "page": "https://grassleyworks.com/issues/",
+   "file": "archive/2024/grassley-ia/issues.html",
+   "snapshot": "20241102112751"
+  },
+  {
+   "score": 6,
+   "topics": [
+    "Medicaid",
+    "Social Security & Medicare",
+    "Federal spending"
+   ],
+   "sentence": "From his oversight work exposing the FBI’s mishandling of the Olympic gymnast sex abuse scandal to fighting fraud in Medicare and Medicaid, Senator Grassley is a warrior against wasteful spending and abuse.",
+   "page": "https://grassleyworks.com/issues/",
+   "file": "archive/2024/grassley-ia/issues.html",
+   "snapshot": "20241102112751"
+  }
+ ]
+}

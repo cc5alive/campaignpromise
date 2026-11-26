@@ -1,0 +1,46 @@
+{
+ "member": "newhouse-wa",
+ "pages": 5,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "Without strong borders and enforceable laws, the Radical Left will transform our country’s culture and value system.",
+   "page": "https://www.dannewhouse.com/",
+   "file": "archive/2024/newhouse-wa/home.html",
+   "snapshot": "20241105114010"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "Dan Newhouse is 100% pro-life and will defend the unborn.",
+   "page": "https://www.dannewhouse.com/",
+   "file": "archive/2024/newhouse-wa/home.html",
+   "snapshot": "20241105114010"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "Dan Newhouse wants to defund all sanctuary cities, fully secure our border, build a wall on the southern border, and fix our dange...",
+   "page": "https://www.dannewhouse.com/",
+   "file": "archive/2024/newhouse-wa/home.html",
+   "snapshot": "20241105114010"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "Dan Newhouse believes it is our duty to preserve Medicare and Social Security for current a...",
+   "page": "https://www.dannewhouse.com/",
+   "file": "archive/2024/newhouse-wa/home.html",
+   "snapshot": "20241105114010"
+  }
+ ]
+}
