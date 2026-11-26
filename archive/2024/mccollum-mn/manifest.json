@@ -1,0 +1,71 @@
+{
+  "name": "Betty McCollum",
+  "domains_tried": [
+    "mccollumforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.mccollumforcongress.com/",
+      "timestamp": "20241105061332",
+      "wayback": "https://web.archive.org/web/20241105061332/https://www.mccollumforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105061332id_/https://www.mccollumforcongress.com/",
+      "file": "archive/2024/mccollum-mn/home.html",
+      "text_file": "archive/2024/mccollum-mn/home.txt",
+      "bytes": 120562,
+      "sha256_html": "8284a603aad92703f969b8bf8848e15b166b13f69ece8e519e5b5aa62316af47",
+      "sha256_text": "30ed7916a8fc0c26a674f81fafe0f0544e62213db20343cfb882632360a7b907"
+    },
+    {
+      "original": "https://www.mccollumforcongress.com/priorities",
+      "timestamp": "20241105061401",
+      "wayback": "https://web.archive.org/web/20241105061401/https://www.mccollumforcongress.com/priorities",
+      "wayback_raw": "https://web.archive.org/web/20241105061401id_/https://www.mccollumforcongress.com/priorities",
+      "file": "archive/2024/mccollum-mn/priorities.html",
+      "text_file": "archive/2024/mccollum-mn/priorities.txt",
+      "bytes": 126583,
+      "sha256_html": "2e613e5d5cbfd401bac2d77c6e823493fc641b0405b7f57ba1baa927991ac693",
+      "sha256_text": "22081caeff3385ac2ee577a4bcdd71e5f28aa5860be6669b170a1cc03bfeceb8"
+    },
+    {
+      "original": "https://www.mccollumforcongress.com/news/minnesota-2024-voter-guide-whos-running-where-they-stand-on-the-issues",
+      "timestamp": "20241105061429",
+      "wayback": "https://web.archive.org/web/20241105061429/https://www.mccollumforcongress.com/news/minnesota-2024-voter-guide-whos-running-where-they-stand-on-the-issues",
+      "wayback_raw": "https://web.archive.org/web/20241105061429id_/https://www.mccollumforcongress.com/news/minnesota-2024-voter-guide-whos-running-where-they-stand-on-the-issues",
+      "file": "archive/2024/mccollum-mn/news-minnesota-2024-voter-guide-whos-running-where-they-stand-on-the-issues.html",
+      "text_file": "archive/2024/mccollum-mn/news-minnesota-2024-voter-guide-whos-running-where-they-stand-on-the-issues.txt",
+      "bytes": 102030,
+      "sha256_html": "9d312f49fca2054c17636e42d0d4b433131171a1551152f4d7905319468f1a1a",
+      "sha256_text": "d0400d6d5627ddff364bea1017ccbb3236fc18719a079a94e7eed25037f36506"
+    },
+    {
+      "original": "https://www.mccollumforcongress.com/news/vp-harris-makes-historic-visit-to-planned-parenthood-in-saint-paul",
+      "timestamp": "20241105061434",
+      "wayback": "https://web.archive.org/web/20241105061434/https://www.mccollumforcongress.com/news/vp-harris-makes-historic-visit-to-planned-parenthood-in-saint-paul",
+      "wayback_raw": "https://web.archive.org/web/20241105061434id_/https://www.mccollumforcongress.com/news/vp-harris-makes-historic-visit-to-planned-parenthood-in-saint-paul",
+      "file": "archive/2024/mccollum-mn/news-vp-harris-makes-historic-visit-to-planned-parenthood-in-saint-paul.html",
+      "text_file": "archive/2024/mccollum-mn/news-vp-harris-makes-historic-visit-to-planned-parenthood-in-saint-paul.txt",
+      "bytes": 101917,
+      "sha256_html": "853e25403e771c44687c03fb9277bb02f9a12b9f984c3c203f27385df43668de",
+      "sha256_text": "8b58d89268a47d107f177a3aa275f06aa00b607a12735175e3dd6cfe21619f21"
+    },
+    {
+      "original": "https://www.mccollumforcongress.com/about",
+      "timestamp": "20241105061339",
+      "wayback": "https://web.archive.org/web/20241105061339/https://www.mccollumforcongress.com/about",
+      "wayback_raw": "https://web.archive.org/web/20241105061339id_/https://www.mccollumforcongress.com/about",
+      "file": "archive/2024/mccollum-mn/about.html",
+      "text_file": "archive/2024/mccollum-mn/about.txt",
+      "bytes": 105592,
+      "sha256_html": "77652d47a7a2cfef3e35386242ce2df6c88179ee8a7cbf963da66f7f6f0b302d",
+      "sha256_text": "1f6ae66fa4a4629061761413b774fbba621d77579c8105466baf3d4e42ff41b2"
+    }
+  ],
+  "snapshots_found": {
+    "mccollumforcongress.com": 113
+  },
+  "generated_utc": "2026-11-26T08:06:08Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
