@@ -1,0 +1,50 @@
+{
+ "committees": {
+  "C00539825": {
+   "name": "CAPITO FOR WEST VIRGINIA",
+   "website": "WWW.CAPITOLFORSENATE.COM",
+   "error": null
+  },
+  "C00442921": {
+   "name": "ANDRE CARSON FOR CONGRESS",
+   "website": "WWW.ANDRECARSONFORCONGRESS.COM",
+   "error": null
+  },
+  "C00371203": {
+   "name": "JOHN CARTER FOR CONGRESS",
+   "website": "WWW.JOHNCARTERFORCONGRESS.COM",
+   "error": null
+  },
+  "C00543983": {
+   "name": "BILL CASSIDY FOR US SENATE",
+   "website": "WWW.BILLCASSIDY.COM",
+   "error": null
+  },
+  "C00410761": {
+   "name": "CASTOR FOR CONGRESS",
+   "website": "HTTP://WWW.CASTORFORCONGRESS.COM",
+   "error": null
+  },
+  "C00458125": {
+   "name": "JUDY CHU FOR CONGRESS",
+   "website": null,
+   "error": null
+  },
+  "C00415331": {
+   "name": "CLARKE FOR CONGRESS",
+   "website": "VOTEYVETTE.COM",
+   "error": null
+  },
+  "C00395848": {
+   "name": "CLEAVER FOR CONGRESS",
+   "website": "WWW.CLEAVER4CONGRESS.COM",
+   "error": null
+  },
+  "C00255562": {
+   "name": "FRIENDS OF JIM CLYBURN",
+   "website": "CLYBURNFORCONGRESS.COM",
+   "error": null
+  }
+ },
+ "searches": {}
+}
