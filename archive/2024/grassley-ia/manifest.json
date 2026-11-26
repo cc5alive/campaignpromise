@@ -1,0 +1,38 @@
+{
+  "name": "Chuck Grassley",
+  "domains_tried": [
+    "grassleyworks.com"
+  ],
+  "pages": [
+    {
+      "original": "https://grassleyworks.com/",
+      "timestamp": "20241105111548",
+      "wayback": "https://web.archive.org/web/20241105111548/https://grassleyworks.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105111548id_/https://grassleyworks.com/",
+      "file": "archive/2024/grassley-ia/home.html",
+      "text_file": "archive/2024/grassley-ia/home.txt",
+      "bytes": 122186,
+      "sha256_html": "18a3551765beae685c0c6ec1bf6c790fa5f52d587e3678e05288b078ee230ba3",
+      "sha256_text": "ee031ffb55e2530ac3d53d810590a58d4295bb569a0407e56e66b1fbc2eb77fb"
+    },
+    {
+      "original": "https://grassleyworks.com/issues/",
+      "timestamp": "20241102112751",
+      "wayback": "https://web.archive.org/web/20241102112751/https://grassleyworks.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241102112751id_/https://grassleyworks.com/issues/",
+      "file": "archive/2024/grassley-ia/issues.html",
+      "text_file": "archive/2024/grassley-ia/issues.txt",
+      "bytes": 85876,
+      "sha256_html": "6822ac52cbc9e18cdf93dfa0e25cb63f143654ab4639a68d32c1c2ccc340439f",
+      "sha256_text": "c50d4c90574b6e3f017388de39e8f438fa3f5e5981c059e758ff7fabc15f041c"
+    }
+  ],
+  "snapshots_found": {
+    "grassleyworks.com": 1
+  },
+  "generated_utc": "2026-11-26T07:58:12Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
