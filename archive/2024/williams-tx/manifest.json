@@ -1,0 +1,38 @@
+{
+  "name": "Roger Williams",
+  "domains_tried": [
+    "rogerforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.rogerforcongress.com/",
+      "timestamp": "20241105184818",
+      "wayback": "https://web.archive.org/web/20241105184818/https://www.rogerforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105184818id_/https://www.rogerforcongress.com/",
+      "file": "archive/2024/williams-tx/home.html",
+      "text_file": "archive/2024/williams-tx/home.txt",
+      "bytes": 46569,
+      "sha256_html": "12f3da38a57525fee9eafdd50bf396c3b4f35db7ba53582bc3a3ef543e3d9e39",
+      "sha256_text": "8b5ef9fef1ab27cc7cfd6a7cbd96d7f860c5927c2af661727ef89c01e05b8137"
+    },
+    {
+      "original": "https://www.rogerforcongress.com/about/",
+      "timestamp": "20241105184928",
+      "wayback": "https://web.archive.org/web/20241105184928/https://www.rogerforcongress.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105184928id_/https://www.rogerforcongress.com/about/",
+      "file": "archive/2024/williams-tx/about.html",
+      "text_file": "archive/2024/williams-tx/about.txt",
+      "bytes": 21916,
+      "sha256_html": "f4e53bf7658fe466d969c01b2f6a9e4c2f3e4c35c7d0b6865785259dbcc48ab4",
+      "sha256_text": "b8ec4d049e410f04cc7f421a4b5cddd31514192bc96eb6d9a71a7aac525d51d0"
+    }
+  ],
+  "snapshots_found": {
+    "rogerforcongress.com": 18
+  },
+  "generated_utc": "2026-11-26T08:44:47Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
