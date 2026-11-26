@@ -1,0 +1,27 @@
+{
+  "name": "Cory A. Booker",
+  "domains_tried": [
+    "corybooker.com"
+  ],
+  "pages": [
+    {
+      "original": "https://corybooker.com/",
+      "timestamp": "20241031070005",
+      "wayback": "https://web.archive.org/web/20241031070005/https://corybooker.com/",
+      "wayback_raw": "https://web.archive.org/web/20241031070005id_/https://corybooker.com/",
+      "file": "archive/2024/booker-nj/home.html",
+      "text_file": "archive/2024/booker-nj/home.txt",
+      "bytes": 59176,
+      "sha256_html": "d767d12f7fd3e2aa768e41fabbde34dfcc764665b98ee5f0c295745eca53d21c",
+      "sha256_text": "a9ca7f7ff11a216abd8fb1be606408c367baf15219e6822f954374806a2395a8"
+    }
+  ],
+  "snapshots_found": {
+    "corybooker.com": 5
+  },
+  "generated_utc": "2026-11-26T08:46:56Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
