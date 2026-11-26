@@ -1,0 +1,38 @@
+{
+  "name": "Troy Balderson",
+  "domains_tried": [
+    "baldersonforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.baldersonforcongress.com/",
+      "timestamp": "20241105161259",
+      "wayback": "https://web.archive.org/web/20241105161259/https://www.baldersonforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105161259id_/https://www.baldersonforcongress.com/",
+      "file": "archive/2024/balderson-oh/home.html",
+      "text_file": "archive/2024/balderson-oh/home.txt",
+      "bytes": 32217,
+      "sha256_html": "3c506c0c1c55f10bb19b19ba99f9af1bee150f06213dad7af6cab9019d63c9bd",
+      "sha256_text": "99784d79f4f0f505fc9b347f589546a24864802e420df04c7090817ea08f7f8f"
+    },
+    {
+      "original": "https://www.baldersonforcongress.com/issues",
+      "timestamp": "20241105161304",
+      "wayback": "https://web.archive.org/web/20241105161304/https://www.baldersonforcongress.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105161304id_/https://www.baldersonforcongress.com/issues",
+      "file": "archive/2024/balderson-oh/issues.html",
+      "text_file": "archive/2024/balderson-oh/issues.txt",
+      "bytes": 19296,
+      "sha256_html": "4f0ad736383785111eb972e63750a559d38e15b4a8209f9bb1b8806a3dfdb0f0",
+      "sha256_text": "14c2e0d98a44e71da3ebc4511a68001fe2ee76483bcb809b7fc6eb7d7046ac8f"
+    }
+  ],
+  "snapshots_found": {
+    "baldersonforcongress.com": 7
+  },
+  "generated_utc": "2026-11-26T08:01:01Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
