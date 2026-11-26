@@ -1,0 +1,38 @@
+{
+  "name": "Frank Pallone, Jr.",
+  "domains_tried": [
+    "pallonefornewjersey.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.pallonefornewjersey.com/",
+      "timestamp": "20241105193909",
+      "wayback": "https://web.archive.org/web/20241105193909/https://www.pallonefornewjersey.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105193909id_/https://www.pallonefornewjersey.com/",
+      "file": "archive/2024/pallone-nj/home.html",
+      "text_file": "archive/2024/pallone-nj/home.txt",
+      "bytes": 27190,
+      "sha256_html": "c46540e2f1bdc9d11a77b0a1f855714a9b46074b2c2b212ef0f5f8236d184195",
+      "sha256_text": "9772cb4234ade7374deb5aee61a3ec5eed71bf60ff8a6893e11d842604ea3ba1"
+    },
+    {
+      "original": "https://www.pallonefornewjersey.com/about",
+      "timestamp": "20241105193911",
+      "wayback": "https://web.archive.org/web/20241105193911/https://www.pallonefornewjersey.com/about",
+      "wayback_raw": "https://web.archive.org/web/20241105193911id_/https://www.pallonefornewjersey.com/about",
+      "file": "archive/2024/pallone-nj/about.html",
+      "text_file": "archive/2024/pallone-nj/about.txt",
+      "bytes": 19968,
+      "sha256_html": "7721a518afbf439c75400e51b0e70528497c0744b6ef1de32d9f2cbecdab2ad8",
+      "sha256_text": "d5aa6ff3c48c7d5d5bd910dffbc6e154e28315d0c85924401412dea5dacf8293"
+    }
+  ],
+  "snapshots_found": {
+    "pallonefornewjersey.com": 8
+  },
+  "generated_utc": "2026-11-26T08:14:02Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
