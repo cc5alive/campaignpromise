@@ -1,0 +1,38 @@
+{
+  "name": "Tom McClintock",
+  "domains_tried": [
+    "tommcclintock.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.tommcclintock.com/",
+      "timestamp": "20241105104451",
+      "wayback": "https://web.archive.org/web/20241105104451/https://www.tommcclintock.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105104451id_/https://www.tommcclintock.com/",
+      "file": "archive/2024/mcclintock-ca/home.html",
+      "text_file": "archive/2024/mcclintock-ca/home.txt",
+      "bytes": 40823,
+      "sha256_html": "afeeb05f2ce55be5a531f89f9e3f9f0f9d847945b9e569fcefb72cd9797cda0e",
+      "sha256_text": "ab5c76ef1350bca71407f5c92fca1f945fdfd38d3fc9bdbfa0da9e4ea488c8cf"
+    },
+    {
+      "original": "https://www.tommcclintock.com/issues/",
+      "timestamp": "20241105104716",
+      "wayback": "https://web.archive.org/web/20241105104716/https://www.tommcclintock.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105104716id_/https://www.tommcclintock.com/issues/",
+      "file": "archive/2024/mcclintock-ca/issues.html",
+      "text_file": "archive/2024/mcclintock-ca/issues.txt",
+      "bytes": 36812,
+      "sha256_html": "8518e861ca18817dce95e10ade9c4f9dfaa147184db3cba4287a852da3c30d65",
+      "sha256_text": "c36d3457a8913932aa081748165ad44e59590bee5f825e779a1405288e581387"
+    }
+  ],
+  "snapshots_found": {
+    "tommcclintock.com": 1
+  },
+  "generated_utc": "2026-11-26T08:12:13Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
