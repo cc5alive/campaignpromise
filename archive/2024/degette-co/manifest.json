@@ -1,0 +1,148 @@
+{
+  "name": "Diana DeGette",
+  "domains_tried": [
+    "degette.com"
+  ],
+  "pages": [
+    {
+      "original": "https://degette.com/",
+      "timestamp": "20241105212123",
+      "wayback": "https://web.archive.org/web/20241105212123/https://degette.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105212123id_/https://degette.com/",
+      "file": "archive/2024/degette-co/home.html",
+      "text_file": "archive/2024/degette-co/home.txt",
+      "bytes": 40271,
+      "sha256_html": "c5a27528756369662799e1acc1933328e128562dc7d2f9933a87179c226f79b1",
+      "sha256_text": "46a3cf1604e512328b5f697b2bb7b7b5299caea3d9b0b1a64bf75d57139c225e"
+    },
+    {
+      "original": "https://degette.com/her-priorities/",
+      "timestamp": "20241105040022",
+      "wayback": "https://web.archive.org/web/20241105040022/https://degette.com/her-priorities/",
+      "wayback_raw": "https://web.archive.org/web/20241105040022id_/https://degette.com/her-priorities/",
+      "file": "archive/2024/degette-co/her-priorities.html",
+      "text_file": "archive/2024/degette-co/her-priorities.txt",
+      "bytes": 40617,
+      "sha256_html": "448f36ca7632b855807f635bf23e991fa4350804c9366f230009ea02cf92f3ba",
+      "sha256_text": "60629178538c215babd76f25aa0a718878ec22ada90f37e4862899de1fc5bf11"
+    },
+    {
+      "original": "https://degette.com/her-priorities/embed/",
+      "timestamp": "20241105040117",
+      "wayback": "https://web.archive.org/web/20241105040117/https://degette.com/her-priorities/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241105040117id_/https://degette.com/her-priorities/embed/",
+      "file": "archive/2024/degette-co/her-priorities-embed.html",
+      "text_file": "archive/2024/degette-co/her-priorities-embed.txt",
+      "bytes": 18353,
+      "sha256_html": "3f94eb17404f9476792f9a8f8e2be8f35f7a5c7d61629f42e77038ee67c33b8b",
+      "sha256_text": "977c7f062bcf717d831c7045d12965a3218728ae917bccd0fdc8efa8738f8f17"
+    },
+    {
+      "original": "https://degette.com/media/cbs-denver-lawmakers-raise-concerns-over-safety-guidelines-at-food-processing-plants/",
+      "timestamp": "20241105040035",
+      "wayback": "https://web.archive.org/web/20241105040035/https://degette.com/media/cbs-denver-lawmakers-raise-concerns-over-safety-guidelines-at-food-processing-plants/",
+      "wayback_raw": "https://web.archive.org/web/20241105040035id_/https://degette.com/media/cbs-denver-lawmakers-raise-concerns-over-safety-guidelines-at-food-processing-plants/",
+      "file": "archive/2024/degette-co/media-cbs-denver-lawmakers-raise-concerns-over-safety-guidelines-at-food-processing-plants.html",
+      "text_file": "archive/2024/degette-co/media-cbs-denver-lawmakers-raise-concerns-over-safety-guidelines-at-food-processing-plants.txt",
+      "bytes": 45056,
+      "sha256_html": "29bf9f1bf9338fce834b3bdf2bf0e718ebc75be3f6aad18da41a1b97520fb74f",
+      "sha256_text": "3abbea37bca17b4f066ae30eda8f2b66beb25ecc15450d144d17f4efb091ff4f"
+    },
+    {
+      "original": "https://degette.com/media/cbs-denver-rep-diana-degette-plans-to-create-national-clean-energy-standard/",
+      "timestamp": "20241105040033",
+      "wayback": "https://web.archive.org/web/20241105040033/https://degette.com/media/cbs-denver-rep-diana-degette-plans-to-create-national-clean-energy-standard/",
+      "wayback_raw": "https://web.archive.org/web/20241105040033id_/https://degette.com/media/cbs-denver-rep-diana-degette-plans-to-create-national-clean-energy-standard/",
+      "file": "archive/2024/degette-co/media-cbs-denver-rep-diana-degette-plans-to-create-national-clean-energy-standard.html",
+      "text_file": "archive/2024/degette-co/media-cbs-denver-rep-diana-degette-plans-to-create-national-clean-energy-standard.txt",
+      "bytes": 40546,
+      "sha256_html": "0be1bc806915b4ed601d8459979d535805a28500e66a2766ec6d00ef2f277585",
+      "sha256_text": "51e166ed4a8b2cb4c9b3c9a4243f292eb371a38e81fe9b0e7b2a98aec95d5346"
+    },
+    {
+      "original": "https://degette.com/media/cbs4-denver-rep-diana-degette-plans-to-create-national-clean-energy-standard/",
+      "timestamp": "20241105040026",
+      "wayback": "https://web.archive.org/web/20241105040026/https://degette.com/media/cbs4-denver-rep-diana-degette-plans-to-create-national-clean-energy-standard/",
+      "wayback_raw": "https://web.archive.org/web/20241105040026id_/https://degette.com/media/cbs4-denver-rep-diana-degette-plans-to-create-national-clean-energy-standard/",
+      "file": "archive/2024/degette-co/media-cbs4-denver-rep-diana-degette-plans-to-create-national-clean-energy-standard.html",
+      "text_file": "archive/2024/degette-co/media-cbs4-denver-rep-diana-degette-plans-to-create-national-clean-energy-standard.txt",
+      "bytes": 39477,
+      "sha256_html": "278ec2fba42e4af81ac5a280a66e77933e82d4728984234b1af74f00940b2f56",
+      "sha256_text": "957a426d43d2732b0343f1cfa573fc57cdfc8c6837e8a2c44b013a6dff409230"
+    },
+    {
+      "original": "https://degette.com/media/colorado-politics-degette-announces-covid-19-oversight-agenda/",
+      "timestamp": "20241105040043",
+      "wayback": "https://web.archive.org/web/20241105040043/https://degette.com/media/colorado-politics-degette-announces-covid-19-oversight-agenda/",
+      "wayback_raw": "https://web.archive.org/web/20241105040043id_/https://degette.com/media/colorado-politics-degette-announces-covid-19-oversight-agenda/",
+      "file": "archive/2024/degette-co/media-colorado-politics-degette-announces-covid-19-oversight-agenda.html",
+      "text_file": "archive/2024/degette-co/media-colorado-politics-degette-announces-covid-19-oversight-agenda.txt",
+      "bytes": 40320,
+      "sha256_html": "5eff46b1e5642f01500c8dc9a16d6149d94eb31cf18d4c89c861db241413b0b4",
+      "sha256_text": "7986bae6ee2377619ff70c897d5c9166ba2c489556e16e96f8e97b7a076836f9"
+    },
+    {
+      "original": "https://degette.com/media/colorado-politics-degette-requests-timeline-for-trump-administrations-vaccination-plan/",
+      "timestamp": "20241105040030",
+      "wayback": "https://web.archive.org/web/20241105040030/https://degette.com/media/colorado-politics-degette-requests-timeline-for-trump-administrations-vaccination-plan/",
+      "wayback_raw": "https://web.archive.org/web/20241105040030id_/https://degette.com/media/colorado-politics-degette-requests-timeline-for-trump-administrations-vaccination-plan/",
+      "file": "archive/2024/degette-co/media-colorado-politics-degette-requests-timeline-for-trump-administrations-vaccination-plan.html",
+      "text_file": "archive/2024/degette-co/media-colorado-politics-degette-requests-timeline-for-trump-administrations-vaccination-plan.txt",
+      "bytes": 41212,
+      "sha256_html": "e93d91ae8f737439eeb3078ab79546848ac6b73ffe120a1501ab6ce27d26f40a",
+      "sha256_text": "9d15330613907ecd9fbed466b8f301d8d3c882a365e312d7f20cee9c1db1773c"
+    },
+    {
+      "original": "https://degette.com/media/colorado-times-recorder-degette-presses-trump-administration-on-shortage-of-drug-inspectors/",
+      "timestamp": "20241105040029",
+      "wayback": "https://web.archive.org/web/20241105040029/https://degette.com/media/colorado-times-recorder-degette-presses-trump-administration-on-shortage-of-drug-inspectors/",
+      "wayback_raw": "https://web.archive.org/web/20241105040029id_/https://degette.com/media/colorado-times-recorder-degette-presses-trump-administration-on-shortage-of-drug-inspectors/",
+      "file": "archive/2024/degette-co/media-colorado-times-recorder-degette-presses-trump-administration-on-shortage-of-drug-inspectors.html",
+      "text_file": "archive/2024/degette-co/media-colorado-times-recorder-degette-presses-trump-administration-on-shortage-of-drug-inspectors.txt",
+      "bytes": 39595,
+      "sha256_html": "bf719113047a638d818f3af09726a6302964fdc0466420847ad8e1ed606e4549",
+      "sha256_text": "5017bae6f174705303a2c91e5fc34402356bd67472ae7b4ca784fa289ab5ecec"
+    },
+    {
+      "original": "https://degette.com/media/colorado-times-reporter-degette-lift-trump-ban-on-fetal-tissue-research-to-find-covid-19-cure/",
+      "timestamp": "20241105040027",
+      "wayback": "https://web.archive.org/web/20241105040027/https://degette.com/media/colorado-times-reporter-degette-lift-trump-ban-on-fetal-tissue-research-to-find-covid-19-cure/",
+      "wayback_raw": "https://web.archive.org/web/20241105040027id_/https://degette.com/media/colorado-times-reporter-degette-lift-trump-ban-on-fetal-tissue-research-to-find-covid-19-cure/",
+      "file": "archive/2024/degette-co/media-colorado-times-reporter-degette-lift-trump-ban-on-fetal-tissue-research-to-find-covid-19-cure.html",
+      "text_file": "archive/2024/degette-co/media-colorado-times-reporter-degette-lift-trump-ban-on-fetal-tissue-research-to-find-covid-19-cure.txt",
+      "bytes": 42755,
+      "sha256_html": "974d44d2f672ab27ecf60abeb0e61ce7901212727f0590262fe0a9b6d525709c",
+      "sha256_text": "c48c007f706410ddb619cd44d38ad4557aa8f0fd6ff1e767ac5d4858e6d89d36"
+    },
+    {
+      "original": "https://degette.com/media/inside-health-policy-degette-upton-ask-how-to-modernize-cms-in-cures-2-0-concept-paper/",
+      "timestamp": "20241105040028",
+      "wayback": "https://web.archive.org/web/20241105040028/https://degette.com/media/inside-health-policy-degette-upton-ask-how-to-modernize-cms-in-cures-2-0-concept-paper/",
+      "wayback_raw": "https://web.archive.org/web/20241105040028id_/https://degette.com/media/inside-health-policy-degette-upton-ask-how-to-modernize-cms-in-cures-2-0-concept-paper/",
+      "file": "archive/2024/degette-co/media-inside-health-policy-degette-upton-ask-how-to-modernize-cms-in-cures-2-0-concept-paper.html",
+      "text_file": "archive/2024/degette-co/media-inside-health-policy-degette-upton-ask-how-to-modernize-cms-in-cures-2-0-concept-paper.txt",
+      "bytes": 43663,
+      "sha256_html": "78046bfce49c868b978901ec4b340f4b5ad9b8616bd14acfa9364259825cc355",
+      "sha256_text": "87bc7a2445a9d4ac3e6bd2dc7496777da13fdfcb8ea30b9d6c29ed411fe68d19"
+    },
+    {
+      "original": "https://degette.com/media/policy-medicine-feedback-solicited-for-cures-2-0/",
+      "timestamp": "20241105040032",
+      "wayback": "https://web.archive.org/web/20241105040032/https://degette.com/media/policy-medicine-feedback-solicited-for-cures-2-0/",
+      "wayback_raw": "https://web.archive.org/web/20241105040032id_/https://degette.com/media/policy-medicine-feedback-solicited-for-cures-2-0/",
+      "file": "archive/2024/degette-co/media-policy-medicine-feedback-solicited-for-cures-2-0.html",
+      "text_file": "archive/2024/degette-co/media-policy-medicine-feedback-solicited-for-cures-2-0.txt",
+      "bytes": 41007,
+      "sha256_html": "3371df8961d8c7ee753ac89744af97eb4306b52478502f6d3193bea8cebf7bb9",
+      "sha256_text": "05584173619029a8c15173153e3711a64125eb679879c0f1a63f0f34ab38c0d1"
+    }
+  ],
+  "snapshots_found": {
+    "degette.com": 296
+  },
+  "generated_utc": "2026-11-26T07:37:42Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
