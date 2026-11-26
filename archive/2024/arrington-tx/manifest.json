@@ -1,0 +1,38 @@
+{
+  "name": "Jodey C. Arrington",
+  "domains_tried": [
+    "jodeyarrington.com"
+  ],
+  "pages": [
+    {
+      "original": "https://jodeyarrington.com/",
+      "timestamp": "20241105175447",
+      "wayback": "https://web.archive.org/web/20241105175447/https://jodeyarrington.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105175447id_/https://jodeyarrington.com/",
+      "file": "archive/2024/arrington-tx/home.html",
+      "text_file": "archive/2024/arrington-tx/home.txt",
+      "bytes": 46571,
+      "sha256_html": "af89802fe96bd75dcc114de47800163899bd41c409365d61f16b0b9ae177a266",
+      "sha256_text": "770b2bb76abdcf21f0672fff9d91a97361cbfe1f6dce1b62d200d8e71b2a252c"
+    },
+    {
+      "original": "https://jodeyarrington.com/your-issues/",
+      "timestamp": "20241105175456",
+      "wayback": "https://web.archive.org/web/20241105175456/https://jodeyarrington.com/your-issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105175456id_/https://jodeyarrington.com/your-issues/",
+      "file": "archive/2024/arrington-tx/your-issues.html",
+      "text_file": "archive/2024/arrington-tx/your-issues.txt",
+      "bytes": 41266,
+      "sha256_html": "39454734bd169ba213ce8b05a7972620620747a4935e572ff74ca04c58af0843",
+      "sha256_text": "d82d1a5a65ecea2e37173e17acb9b93bff89211a5c83a26dc232cf882262f15c"
+    }
+  ],
+  "snapshots_found": {
+    "jodeyarrington.com": 5
+  },
+  "generated_utc": "2026-11-26T07:56:08Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
