@@ -44,6 +44,8 @@ NOTES = {
     "P-012": "The Laken Riley Act expanded mandatory ICE detention and H.R.1 added about $75 billion for ICE, so a no vote keeps this promise.",
     "R4-045": "H.R.1 funded new Border Patrol agents, a central provision. A no vote counts against this promise even if the member opposed the bill for other reasons.",
     "R5-036": "H.R.1 funded Border Patrol personnel and border infrastructure, a central provision. A no vote counts against this promise even if the member opposed the bill for other reasons.",
+    "R7-046": "Quoted from the issues page of berniesanders.com as it stood on Nov 5, 2024; the page carries the platform from his presidential campaigns. A yes vote on the Murray amendment would have kept Planned Parenthood's Medicaid funding.",
+    "R7-047": "A yes vote on the Kim amendment would have removed H.R.1's limits on Medicaid provider taxes and payments, which account for much of the bill's Medicaid cuts.",
     "R6-013": "H.R.1 extended the 2017 tax cuts, a central provision. A no vote counts against this promise even if the member opposed the bill for other reasons, such as its cap on the state and local tax deduction.",
     "R6-036": "The GENIUS Act and CLARITY Act set the first federal rules for stablecoins and digital assets. A no vote counts against this statement of support for the digital asset industry.",
     "P-014": "H.R.1 barred Medicaid payments to Planned Parenthood for one year, a central provision. A no vote counts against this promise.",

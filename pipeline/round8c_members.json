@@ -1,0 +1,287 @@
+{
+ "_note": "Round 8c: members with no website on their FEC committee registration; candidate domains are checked against Wayback snapshots by the archiver, and any that have none are dropped.",
+ "window": {
+  "from": "20240801",
+  "to": "20241105"
+ },
+ "members": [
+  {
+   "key": "chu-ca",
+   "bioguide": "C001080",
+   "name": "Judy Chu",
+   "last": "Chu",
+   "party": "D",
+   "chamber": "House",
+   "state": "CA",
+   "campaign_committee": "C00458125",
+   "domains": [
+    "judychu.net",
+    "judychu.com"
+   ]
+  },
+  {
+   "key": "davis-il",
+   "bioguide": "D000096",
+   "name": "Danny K. Davis",
+   "last": "Davis",
+   "party": "D",
+   "chamber": "House",
+   "state": "IL",
+   "campaign_committee": "C00172619",
+   "domains": [
+    "dannykdavis.com",
+    "dannydavisforcongress.com"
+   ]
+  },
+  {
+   "key": "lofgren-ca",
+   "bioguide": "L000397",
+   "name": "Zoe Lofgren",
+   "last": "Lofgren",
+   "party": "D",
+   "chamber": "House",
+   "state": "CA",
+   "campaign_committee": "C00289603",
+   "domains": [
+    "zoelofgren.com"
+   ]
+  },
+  {
+   "key": "simpson-id",
+   "bioguide": "S001148",
+   "name": "Michael K. Simpson",
+   "last": "Simpson",
+   "party": "R",
+   "chamber": "House",
+   "state": "ID",
+   "campaign_committee": "C00331397",
+   "domains": [
+    "simpsonforcongress.com",
+    "mikesimpson.com"
+   ]
+  },
+  {
+   "key": "huffman-ca",
+   "bioguide": "H001068",
+   "name": "Jared Huffman",
+   "last": "Huffman",
+   "party": "D",
+   "chamber": "House",
+   "state": "CA",
+   "campaign_committee": "C00536680",
+   "domains": [
+    "huffmanforcongress.com",
+    "jaredhuffman.com"
+   ]
+  },
+  {
+   "key": "vargas-ca",
+   "bioguide": "V000130",
+   "name": "Juan Vargas",
+   "last": "Vargas",
+   "party": "D",
+   "chamber": "House",
+   "state": "CA",
+   "campaign_committee": "C00497321",
+   "domains": [
+    "juanvargasforcongress.com",
+    "vargasforcongress.com"
+   ]
+  },
+  {
+   "key": "watson-coleman-nj",
+   "bioguide": "W000822",
+   "name": "Bonnie Watson Coleman",
+   "last": "Watson Coleman",
+   "party": "D",
+   "chamber": "House",
+   "state": "NJ",
+   "campaign_committee": null,
+   "domains": [
+    "bonniewatsoncoleman.org",
+    "bonniewatsoncoleman.com"
+   ]
+  },
+  {
+   "key": "ernst-ia",
+   "bioguide": "E000295",
+   "name": "Joni Ernst",
+   "last": "Ernst",
+   "party": "R",
+   "chamber": "Senate",
+   "state": "IA",
+   "campaign_committee": "C00546788",
+   "domains": [
+    "joniernst.com"
+   ]
+  },
+  {
+   "key": "barragan-ca",
+   "bioguide": "B001300",
+   "name": "Nanette Diaz Barrag\u00e1n",
+   "last": "Barrag\u00e1n",
+   "party": "D",
+   "chamber": "House",
+   "state": "CA",
+   "campaign_committee": "C00577353",
+   "domains": [
+    "barraganforcongress.com",
+    "nanettebarragan.com"
+   ]
+  },
+  {
+   "key": "smucker-pa",
+   "bioguide": "S001199",
+   "name": "Lloyd Smucker",
+   "last": "Smucker",
+   "party": "R",
+   "chamber": "House",
+   "state": "PA",
+   "campaign_committee": "C00599464",
+   "domains": [
+    "smuckerforcongress.com",
+    "lloydsmucker.com"
+   ]
+  },
+  {
+   "key": "kustoff-tn",
+   "bioguide": "K000392",
+   "name": "David Kustoff",
+   "last": "Kustoff",
+   "party": "R",
+   "chamber": "House",
+   "state": "TN",
+   "campaign_committee": "C00614826",
+   "domains": [
+    "kustoffforcongress.com",
+    "davidkustoff.com"
+   ]
+  },
+  {
+   "key": "joyce-pa",
+   "bioguide": "J000302",
+   "name": "John Joyce",
+   "last": "Joyce",
+   "party": "R",
+   "chamber": "House",
+   "state": "PA",
+   "campaign_committee": "C00674259",
+   "domains": [
+    "johnjoyceforcongress.com",
+    "drjohnjoyce.com"
+   ]
+  },
+  {
+   "key": "miller-wv",
+   "bioguide": "M001205",
+   "name": "Carol D. Miller",
+   "last": "Miller",
+   "party": "R",
+   "chamber": "House",
+   "state": "WV",
+   "campaign_committee": "C00653220",
+   "domains": [
+    "carolforcongress.com",
+    "carolmillerforcongress.com"
+   ]
+  },
+  {
+   "key": "flood-ne",
+   "bioguide": "F000474",
+   "name": "Mike Flood",
+   "last": "Flood",
+   "party": "R",
+   "chamber": "House",
+   "state": "NE",
+   "campaign_committee": "C00801241",
+   "domains": [
+    "floodforcongress.com",
+    "mikeflood.com"
+   ]
+  },
+  {
+   "key": "zinke-mt",
+   "bioguide": "Z000018",
+   "name": "Ryan K. Zinke",
+   "last": "Zinke",
+   "party": "R",
+   "chamber": "House",
+   "state": "MT",
+   "campaign_committee": null,
+   "domains": [
+    "ryanzinke.com",
+    "zinkeforcongress.com"
+   ]
+  },
+  {
+   "key": "jackson-il",
+   "bioguide": "J000309",
+   "name": "Jonathan L. Jackson",
+   "last": "Jackson",
+   "party": "D",
+   "chamber": "House",
+   "state": "IL",
+   "campaign_committee": "C00802603",
+   "domains": [
+    "jonathanjacksonforcongress.com",
+    "jonathanjackson.com"
+   ]
+  },
+  {
+   "key": "alford-mo",
+   "bioguide": "A000379",
+   "name": "Mark Alford",
+   "last": "Alford",
+   "party": "R",
+   "chamber": "House",
+   "state": "MO",
+   "campaign_committee": "C00792598",
+   "domains": [
+    "alfordforcongress.com",
+    "markalford.com"
+   ]
+  },
+  {
+   "key": "fong-ca",
+   "bioguide": "F000480",
+   "name": "Vince Fong",
+   "last": "Fong",
+   "party": "R",
+   "chamber": "House",
+   "state": "CA",
+   "campaign_committee": "C00859892",
+   "domains": [
+    "vincefong.com",
+    "vincefongforcongress.com"
+   ]
+  },
+  {
+   "key": "mciver-nj",
+   "bioguide": "M001229",
+   "name": "LaMonica McIver",
+   "last": "McIver",
+   "party": "D",
+   "chamber": "House",
+   "state": "NJ",
+   "campaign_committee": "C00878603",
+   "domains": [
+    "lamonicamciver.com",
+    "mciverforcongress.com"
+   ]
+  },
+  {
+   "key": "wied-wi",
+   "bioguide": "W000829",
+   "name": "Tony Wied",
+   "last": "Wied",
+   "party": "R",
+   "chamber": "House",
+   "state": "WI",
+   "campaign_committee": "C00875518",
+   "domains": [
+    "tonywied.com",
+    "wiedforcongress.com"
+   ]
+  }
+ ]
+}

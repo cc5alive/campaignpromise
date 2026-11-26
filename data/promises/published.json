@@ -3,16 +3,16 @@
  "summary": {
   "reviewer": "Claude Opus 5.5",
   "reviewer_full": "Claude Opus 5.5 (claude-opus-5-5), an AI model made by Anthropic",
-  "total": 314,
-  "approved": 201,
+  "total": 316,
+  "approved": 203,
   "shown_not_scored": 96,
   "rejected": 17,
-  "tested": 185,
-  "aligned": 179,
+  "tested": 187,
+  "aligned": 181,
   "not_aligned": 5,
   "mixed": 1,
   "untested": 16,
-  "members_reviewed": 132
+  "members_reviewed": 133
  },
  "rules": [
   "Approve when the vote directly tests the specific commitment.",
@@ -11885,6 +11885,72 @@
      "role": "related",
      "out": "related",
      "src": "https://clerk.house.gov/evs/2026/roll280.xml"
+    }
+   ]
+  },
+  {
+   "member": "Bernard Sanders",
+   "bioguide": "S000033",
+   "party": "I",
+   "chamber": "Senate",
+   "state": "VT",
+   "id": "R7-046",
+   "issue": "Abortion funding",
+   "kind": "Pledge",
+   "quote": "Guarantee health care through Medicare for All, repeal the Hyde Amendment and fully fund Planned Parenthood, Title X, and other initiatives that protect women’s health, access to contraception, and the availability of a safe and legal abortion.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "Quoted from the issues page of berniesanders.com as it stood on Nov 5, 2024; the page carries the platform from his presidential campaigns. A yes vote on the Murray amendment would have kept Planned Parenthood's Medicaid funding.",
+   "src": {
+    "orig": "https://berniesanders.com/issues/",
+    "wb": "https://web.archive.org/web/20241105170538/https://berniesanders.com/issues/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "Murray amendment to strike the Planned Parenthood defunding (motion to waive the budget rules)",
+     "date": "2025-06-30",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00344.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Maria Cantwell",
+   "bioguide": "C000127",
+   "party": "D",
+   "chamber": "Senate",
+   "state": "WA",
+   "id": "R7-047",
+   "issue": "Medicaid",
+   "kind": "Stated position",
+   "quote": "Working together, we can grow the economy, protect the environment, build clean energy jobs, provide educational opportunities for all people at all stages of life, protect Social Security, Medicare and Medicaid, and ensure that housing, health care, and retirement remain affordable for working families.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "A yes vote on the Kim amendment would have removed H.R.1's limits on Medicaid provider taxes and payments, which account for much of the bill's Medicaid cuts.",
+   "src": {
+    "orig": "https://www.cantwell.com/issues/",
+    "wb": "https://web.archive.org/web/20241101182946/https://www.cantwell.com/issues/",
+    "date": "Nov 1, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "2025 reconciliation bill (H.R. 1)",
+     "q": "Kim amendment to strike the limits on Medicaid provider payments",
+     "date": "2025-07-01",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00361.xml",
+     "keep": "Yea"
     }
    ]
   }

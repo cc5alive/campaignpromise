@@ -1265,6 +1265,14 @@
   "R7-045": {
    "decision": "Edit",
    "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken. The Stop Insider Trading Act was a partial ban (no new stock purchases) bundled with a voter ID requirement, so a vote against it does not clearly break a promise to end congressional stock trading."
+  },
+  "R7-046": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-047": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
   }
  }
 }

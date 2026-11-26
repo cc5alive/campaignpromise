@@ -16,6 +16,14 @@ LABEL = {"S1582": "GENIUS Act", "S5": "Laken Riley Act", "HR29": "Laken Riley Ac
          "HR498": "Do No Harm in Medicaid Act", "HR7008": "Stop Insider Trading Act"}
 
 
+# Plain labels for amendment votes, whose official question text names only the procedure.
+VOTE_LABEL = {
+    "senate-1-00344": "Murray amendment to strike the Planned Parenthood defunding (motion to waive the budget rules)",
+    "senate-1-00361": "Kim amendment to strike the limits on Medicaid provider payments",
+    "senate-1-00369": "Klobuchar amendment to strike the delayed SNAP cost-sharing provision",
+}
+
+
 def norm_id(raw):
     m = re.match(r"([A-Z]+\d?)-?(\d{3})$", raw)
     return f"{PREFIX[m.group(1)]}-{m.group(2)}"
@@ -48,6 +56,7 @@ def vote_info(vid, member, V, LIS):
     q = v["question"] or ""
     short = ("final passage" if "Passage" in q else "final passage (Senate version)" if "Concur" in q
              else "vote to start debate (needed 60)" if "Cloture" in q else q.strip())
+    short = VOTE_LABEL.get(vid, short)
     who = member["bioguide"] if member["chamber"] == "House" else LIS.get(member["bioguide"])
     return {"id": vid, "bill": LABEL.get(v["bill"], v.get("bill_label", v["bill"])), "question": short,
             "date": iso_date(v["date"]), "vote": v["positions"].get(who, {}).get("vote", "Not voting"),

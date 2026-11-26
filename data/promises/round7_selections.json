@@ -493,5 +493,27 @@
    "house-2026-280"
   ],
   "note": ""
+ },
+ {
+  "member": "sanders-vt",
+  "cand": 3,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Abortion funding",
+  "votes": [
+   "senate-1-00344"
+  ],
+  "note": ""
+ },
+ {
+  "member": "cantwell-wa",
+  "cand": 0,
+  "cand_dir": "candidates_v3",
+  "kind": "Stated position",
+  "issue": "Medicaid",
+  "votes": [
+   "senate-1-00361"
+  ],
+  "note": ""
  }
 ]

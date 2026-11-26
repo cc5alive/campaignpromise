@@ -74,7 +74,7 @@ s("R5-014", A, "Edit applied: the note labels the source as a 2022 press release
 # Round 6 (Nov 25, 2026): second pass over every archived member with fewer than 3 tested promises
 s(" ".join(f"R6-{i:03d}" for i in range(1, 46)), A, "Vote directly tests the commitment.")
 # Round 7 (Nov 25, 2026): new votes on Ukraine aid, the SAVE Act, veterans and gun background checks, and Medicaid coverage of gender transition for minors
-s(" ".join(f"R7-{i:03d}" for i in range(1, 46) if i not in (7, 45)), A, "Vote directly tests the commitment.")
+s(" ".join(f"R7-{i:03d}" for i in range(1, 48) if i not in (7, 45)), A, "Vote directly tests the commitment.")
 s("R7-007", E, RELATED + " Her support for Ukraine aid is conditioned on it not being tied to offensive military aid; the Ukraine Support Act included military financing, so a kept-or-broken call would rest on a contested reading.")
 s("R7-045", E, RELATED + " The Stop Insider Trading Act was a partial ban (no new stock purchases) bundled with a voter ID requirement, so a vote against it does not clearly break a promise to end congressional stock trading.")
 

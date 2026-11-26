@@ -1485,6 +1485,72 @@
    "status": "draft",
    "drafted_by": "Claude (AI)",
    "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-046",
+   "member": "sanders-vt",
+   "name": "Bernard Sanders",
+   "party": "I",
+   "chamber": "Senate",
+   "state": "VT",
+   "quote": "Guarantee health care through Medicare for All, repeal the Hyde Amendment and fully fund Planned Parenthood, Title X, and other initiatives that protect women’s health, access to contraception, and the availability of a safe and legal abortion.",
+   "kind": "Pledge",
+   "issue": "Abortion funding",
+   "source": {
+    "original": "https://berniesanders.com/issues/",
+    "snapshot": "20241105170538",
+    "wayback": "https://web.archive.org/web/20241105170538/https://berniesanders.com/issues/",
+    "file": "archive/2024/sanders-vt/issues.html",
+    "sha256_html": "59653535c832bdc6c1b7258af8103f7023b9ebdeca100a8ce91b6c8bbd2fcec7"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "senate-1-00344",
+     "bill": "2025 reconciliation bill",
+     "question": "On the Motion (Motion to Waive Section 302(F) of the CBA Re: Murray Amdt. No. 2771)",
+     "date": "2025-06-30",
+     "vote": "Yea",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00344.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-047",
+   "member": "cantwell-wa",
+   "name": "Maria Cantwell",
+   "party": "D",
+   "chamber": "Senate",
+   "state": "WA",
+   "quote": "Working together, we can grow the economy, protect the environment, build clean energy jobs, provide educational opportunities for all people at all stages of life, protect Social Security, Medicare and Medicaid, and ensure that housing, health care, and retirement remain affordable for working families.",
+   "kind": "Stated position",
+   "issue": "Medicaid",
+   "source": {
+    "original": "https://www.cantwell.com/issues/",
+    "snapshot": "20241101182946",
+    "wayback": "https://web.archive.org/web/20241101182946/https://www.cantwell.com/issues/",
+    "file": "archive/2024/cantwell-wa/issues.html",
+    "sha256_html": "5e3cd07b24eb4fd4a5f03a727f8525248c1b51dde1a978a7a5df9dda1372925f"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "senate-1-00361",
+     "bill": "2025 reconciliation bill",
+     "question": "On the Amendment S.Amdt. 2817 to S.Amdt. 2360 to H.R. 1 (No short title on file)",
+     "date": "2025-07-01",
+     "vote": "Yea",
+     "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00361.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
   }
  ],
  "rejected": []
