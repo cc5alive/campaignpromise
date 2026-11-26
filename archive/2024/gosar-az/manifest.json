@@ -1,0 +1,71 @@
+{
+  "name": "Paul A. Gosar",
+  "domains_tried": [
+    "drpaulgosar.com"
+  ],
+  "pages": [
+    {
+      "original": "https://drpaulgosar.com/",
+      "timestamp": "20241105200406",
+      "wayback": "https://web.archive.org/web/20241105200406/https://drpaulgosar.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105200406id_/https://drpaulgosar.com/",
+      "file": "archive/2024/gosar-az/home.html",
+      "text_file": "archive/2024/gosar-az/home.txt",
+      "bytes": 88026,
+      "sha256_html": "bc51ca018d2b3763830b1c1c05d84b080e850f7068937741caf3740b0d53fae0",
+      "sha256_text": "88086c71533b497e3556fd063cc63a52386bf6fbbaabb78c7a15bd7416a15f02"
+    },
+    {
+      "original": "https://drpaulgosar.com/18-gop-members-stand-for-newsmax-in-house-special-order/",
+      "timestamp": "20241105201838",
+      "wayback": "https://web.archive.org/web/20241105201838/https://drpaulgosar.com/18-gop-members-stand-for-newsmax-in-house-special-order/",
+      "wayback_raw": "https://web.archive.org/web/20241105201838id_/https://drpaulgosar.com/18-gop-members-stand-for-newsmax-in-house-special-order/",
+      "file": "archive/2024/gosar-az/18-gop-members-stand-for-newsmax-in-house-special-order.html",
+      "text_file": "archive/2024/gosar-az/18-gop-members-stand-for-newsmax-in-house-special-order.txt",
+      "bytes": 83167,
+      "sha256_html": "47c9d7346aa42412a52f711768341a1d57a2f10e06bd61266a9846809c85302b",
+      "sha256_text": "f42cf0e7c67600a619b3525d812b5f19692d15db60365f511efa4ad4dbee1c8f"
+    },
+    {
+      "original": "https://drpaulgosar.com/gosar-stands-up-for-arizona-mining-industry/",
+      "timestamp": "20241105201935",
+      "wayback": "https://web.archive.org/web/20241105201935/https://drpaulgosar.com/gosar-stands-up-for-arizona-mining-industry/",
+      "wayback_raw": "https://web.archive.org/web/20241105201935id_/https://drpaulgosar.com/gosar-stands-up-for-arizona-mining-industry/",
+      "file": "archive/2024/gosar-az/gosar-stands-up-for-arizona-mining-industry.html",
+      "text_file": "archive/2024/gosar-az/gosar-stands-up-for-arizona-mining-industry.txt",
+      "bytes": 73471,
+      "sha256_html": "ab64a5c68ec60b7909fd907910e26e84edff88c59950146d49e828ba6958fdf5",
+      "sha256_text": "91b36e617cf7cb0cfb1b04eac48f95c635c941660511c8fe2d5c9a01859ced15"
+    },
+    {
+      "original": "https://drpaulgosar.com/issues/",
+      "timestamp": "20241105200515",
+      "wayback": "https://web.archive.org/web/20241105200515/https://drpaulgosar.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105200515id_/https://drpaulgosar.com/issues/",
+      "file": "archive/2024/gosar-az/issues.html",
+      "text_file": "archive/2024/gosar-az/issues.txt",
+      "bytes": 108560,
+      "sha256_html": "57f057df0803adb3591f6c25e86ab4fe77402103950bdf71236f4d92403072d7",
+      "sha256_text": "20b6ce9f508422d55c660b1086e977ce67dbad0c7bb9370e1ffeef8c3a3b6367"
+    },
+    {
+      "original": "https://drpaulgosar.com/about/",
+      "timestamp": "20241105200620",
+      "wayback": "https://web.archive.org/web/20241105200620/https://drpaulgosar.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105200620id_/https://drpaulgosar.com/about/",
+      "file": "archive/2024/gosar-az/about.html",
+      "text_file": "archive/2024/gosar-az/about.txt",
+      "bytes": 75915,
+      "sha256_html": "7793b118bb6be8c77bedbc593c577a16a34c11e642ab6155a661ad2ccd2e49cb",
+      "sha256_text": "bab1783ce739182bf76f5d2c9db82557eb461c1632b40442e9b73c15b0e6734f"
+    }
+  ],
+  "snapshots_found": {
+    "drpaulgosar.com": 39
+  },
+  "generated_utc": "2026-11-26T07:45:20Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
