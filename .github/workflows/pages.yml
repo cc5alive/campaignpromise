@@ -2,7 +2,7 @@ name: Deploy site
 on:
   push:
     branches: [main]
-    paths: ['site/**', '.github/workflows/pages.yml']
+    paths: ['site/**', 'data/**', 'pipeline/build_member_pages.py', '.github/workflows/pages.yml']
   workflow_dispatch:
 permissions:
   contents: read
@@ -22,8 +22,9 @@ jobs:
       - name: Assemble site
         run: |
           mkdir -p _site
-          cp site/index.html site/robots.txt site/sitemap.xml _site/
+          cp site/index.html site/robots.txt _site/
           cp -r site/assets _site/assets
+          python3 pipeline/build_member_pages.py _site
           echo "campaignpromise.org" > _site/CNAME
           touch _site/.nojekyll
       - uses: actions/configure-pages@v5

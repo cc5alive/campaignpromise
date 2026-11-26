@@ -175,6 +175,7 @@ footer{border-top:1px solid var(--rule);color:var(--muted);font-size:12px;paddin
       <a href="#groups" data-page="groups">Donor groups</a>
       <a href="#method" data-page="method">How we know</a>
       <a href="#corrections" data-page="corrections">Corrections</a>
+      <a href="/m/">All members</a>
     </nav>
     <span class="badge">PROTOTYPE · FEC data through __ASOF__</span>
   </div>
@@ -314,6 +315,7 @@ const GROUPS = __GROUPS__;
 const ASOF = "__ASOF__";
 const PROMISES = __PROMISES__;
 const PMETA = __PMETA__;
+const SLUGS = __SLUGS__;
 const STATES = {AL:"Alabama",AK:"Alaska",AS:"American Samoa",AZ:"Arizona",AR:"Arkansas",CA:"California",CO:"Colorado",CT:"Connecticut",DE:"Delaware",DC:"District of Columbia",FL:"Florida",GA:"Georgia",GU:"Guam",HI:"Hawaii",ID:"Idaho",IL:"Illinois",IN:"Indiana",IA:"Iowa",KS:"Kansas",KY:"Kentucky",LA:"Louisiana",ME:"Maine",MD:"Maryland",MA:"Massachusetts",MI:"Michigan",MN:"Minnesota",MS:"Mississippi",MO:"Missouri",MT:"Montana",NE:"Nebraska",NV:"Nevada",NH:"New Hampshire",NJ:"New Jersey",NM:"New Mexico",NY:"New York",NC:"North Carolina",ND:"North Dakota",MP:"Northern Mariana Islands",OH:"Ohio",OK:"Oklahoma",OR:"Oregon",PA:"Pennsylvania",PR:"Puerto Rico",RI:"Rhode Island",SC:"South Carolina",SD:"South Dakota",TN:"Tennessee",TX:"Texas",UT:"Utah",VT:"Vermont",VI:"U.S. Virgin Islands",VA:"Virginia",WA:"Washington",WV:"West Virginia",WI:"Wisconsin",WY:"Wyoming"};
 const PARTY = {D:"Democrat",R:"Republican",I:"Independent"};
 const st = {q:"",chamber:"",party:"",gender:"",state:"",group:"aipac",mode:"contrib",onlyfunded:false,hidedel:true,onlyprom:false,sort:"money",dir:-1,limit:60};
@@ -459,7 +461,7 @@ function openMember(id, push){
   }).join('');
   const dist = r.c==="S" ? "Senator, "+(STATES[r.s]||r.s) : (r.dl?"Delegate, ":"Representative, ")+(STATES[r.s]||r.s)+(r.d? ", District "+r.d : r.d===0?" (at large)":"");
   $("#drawer").innerHTML =
-    '<div class="dhead"><button class="btn close" id="dclose" aria-label="Close">Close</button><span class="pchip p-'+r.p+'">'+PARTY[r.p]+'</span><h2 id="d-name">'+esc(r.n)+'</h2><div class="meta">'+dist+' · in Congress since '+r.fy+' · current term ends '+r.te.slice(0,4)+'</div></div>'+
+    '<div class="dhead"><button class="btn close" id="dclose" aria-label="Close">Close</button><span class="pchip p-'+r.p+'">'+PARTY[r.p]+'</span><h2 id="d-name">'+esc(r.n)+'</h2><div class="meta">'+dist+' · in Congress since '+r.fy+' · current term ends '+r.te.slice(0,4)+(SLUGS[r.id]?' · <a href="/m/'+SLUGS[r.id]+'/">Member page</a>':'')+'</div></div>'+
     '<div class="dbody">'+
       promiseSection(r)+
       '<div><h3>Money from tracked groups, 2025–26 cycle</h3>'+(gks.length? '<table class="mtable"><tbody>'+rowsHtml+'</tbody></table>' : '<p class="zero">No money recorded from the 9 tracked groups.</p>')+

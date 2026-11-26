@@ -83,6 +83,8 @@ def main():
     js = lambda o: json.dumps(o, ensure_ascii=False, separators=(",", ":"))
     html = (tpl.replace("__DATA__", js(json.loads(data))).replace("__GROUPS__", js(json.loads(groups)))
             .replace("__PROMISES__", js(by_member)).replace("__PMETA__", js(meta))
+            .replace("__SLUGS__", (ROOT / "data/site_slugs.json").read_text().replace("\n", "")
+                     if (ROOT / "data/site_slugs.json").exists() else "{}")
             .replace("__ASOF__", m["asof"]).replace("__BUILD__", m["build"]))
     for k, v in meta.items():
         if isinstance(v, (int, str)):
