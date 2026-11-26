@@ -1,0 +1,60 @@
+{
+  "name": "Jerry Moran",
+  "domains_tried": [
+    "moranforkansas.com"
+  ],
+  "pages": [
+    {
+      "original": "https://moranforkansas.com/",
+      "timestamp": "20241105092526",
+      "wayback": "https://web.archive.org/web/20241105092526/https://moranforkansas.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105092526id_/https://moranforkansas.com/",
+      "file": "archive/2024/moran-ks/home.html",
+      "text_file": "archive/2024/moran-ks/home.txt",
+      "bytes": 107128,
+      "sha256_html": "ca3b1b8b6e0d7f5174ac6a66420df7725b82c39ea702f541a31ddce79b7b2a32",
+      "sha256_text": "aed691ce579f6e1761d54d1176310ccac0f9dade82bae8ef991cd8b902e0824e"
+    },
+    {
+      "original": "https://moranforkansas.com/issues/",
+      "timestamp": "20241006154908",
+      "wayback": "https://web.archive.org/web/20241006154908/https://moranforkansas.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241006154908id_/https://moranforkansas.com/issues/",
+      "file": "archive/2024/moran-ks/issues.html",
+      "text_file": "archive/2024/moran-ks/issues.txt",
+      "bytes": 112222,
+      "sha256_html": "d4cb8288bb9adea1003f3c3fc710f3bd549ee1529d8300fcc2c6739955af262b",
+      "sha256_text": "54bf8036ba9664a8755b146d33e1261d4d0132abb849cf52c4d781f4274e41d6"
+    },
+    {
+      "original": "https://moranforkansas.com/poll-issues/",
+      "timestamp": "20240804143324",
+      "wayback": "https://web.archive.org/web/20240804143324/https://moranforkansas.com/poll-issues/",
+      "wayback_raw": "https://web.archive.org/web/20240804143324id_/https://moranforkansas.com/poll-issues/",
+      "file": "archive/2024/moran-ks/poll-issues.html",
+      "text_file": "archive/2024/moran-ks/poll-issues.txt",
+      "bytes": 101183,
+      "sha256_html": "e864ff8313363a9626e9fcf21e699822e933fa84f796433da7c08b0bf61337ad",
+      "sha256_text": "b310f5f1729b18b80dad30eab73bc76d541852086597d6acd16bf67de840f822"
+    },
+    {
+      "original": "https://moranforkansas.com/about/",
+      "timestamp": "20241006153412",
+      "wayback": "https://web.archive.org/web/20241006153412/https://moranforkansas.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241006153412id_/https://moranforkansas.com/about/",
+      "file": "archive/2024/moran-ks/about.html",
+      "text_file": "archive/2024/moran-ks/about.txt",
+      "bytes": 102126,
+      "sha256_html": "87ac5a2c9da1c73e8102e1192388a9e771818f598797a03ed02b8c53dd5682f8",
+      "sha256_text": "30318cb25a3570c7f558e49fcfc140b49f856b60a37999ae8736880492fd5cd2"
+    }
+  ],
+  "snapshots_found": {
+    "moranforkansas.com": 13
+  },
+  "generated_utc": "2026-11-26T08:13:03Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
