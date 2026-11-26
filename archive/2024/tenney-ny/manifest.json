@@ -1,0 +1,38 @@
+{
+  "name": "Claudia Tenney",
+  "domains_tried": [
+    "claudiaforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://claudiaforcongress.com/",
+      "timestamp": "20241105072304",
+      "wayback": "https://web.archive.org/web/20241105072304/https://claudiaforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105072304id_/https://claudiaforcongress.com/",
+      "file": "archive/2024/tenney-ny/home.html",
+      "text_file": "archive/2024/tenney-ny/home.txt",
+      "bytes": 66257,
+      "sha256_html": "411453548ca93f8e7997d9dc0ae806c40de0c085f08ead1c90e7d58c7ebcfa30",
+      "sha256_text": "155a02c3218e524749b15820cdb086efb8b627aefd60cdaf826e6470302bed17"
+    },
+    {
+      "original": "https://claudiaforcongress.com/issues/",
+      "timestamp": "20241105060217",
+      "wayback": "https://web.archive.org/web/20241105060217/https://claudiaforcongress.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105060217id_/https://claudiaforcongress.com/issues/",
+      "file": "archive/2024/tenney-ny/issues.html",
+      "text_file": "archive/2024/tenney-ny/issues.txt",
+      "bytes": 56770,
+      "sha256_html": "007a1d17a4c4b6a8c578d618718027f5ffdb7465be6fa04b763861e02ccda475",
+      "sha256_text": "acdf837e2e17789b7d5b3bfd433a460e79fd8869718eb019268dd5173369a555"
+    }
+  ],
+  "snapshots_found": {
+    "claudiaforcongress.com": 1
+  },
+  "generated_utc": "2026-11-26T08:57:02Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
