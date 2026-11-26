@@ -1,0 +1,50 @@
+{
+ "committees": {
+  "C00458976": {
+   "name": "TERRI SEWELL FOR CONGRESS",
+   "website": "HTTP://WWW.SEWELLFORCONGRESS.COM",
+   "error": null
+  },
+  "C00308742": {
+   "name": "SHERMAN FOR CONGRESS",
+   "website": "HTTP://BRADSHERMAN.COM",
+   "error": null
+  },
+  "C00331397": {
+   "name": "SIMPSON FOR CONGRESS",
+   "website": null,
+   "error": null
+  },
+  "C00412890": {
+   "name": "ADRIAN SMITH FOR CONGRESS",
+   "website": "WWW.JOINADRIAN.COM",
+   "error": null
+  },
+  "C00096412": {
+   "name": "FRIENDS OF CHRIS SMITH",
+   "website": "WWW.SMITH4NJ.COM",
+   "error": null
+  },
+  "C00384057": {
+   "name": "STAND WITH SANCHEZ",
+   "website": "HTTP://WWW.VOTEFORLINDA.COM",
+   "error": null
+  },
+  "C00279851": {
+   "name": "FRIENDS OF BENNIE THOMPSON",
+   "website": "BENNIEGTHOMPSON.COM",
+   "error": null
+  },
+  "C00326363": {
+   "name": "MIKE THOMPSON FOR CONGRESS",
+   "website": "MIKETHOMPSONFORCONGRESS.COM",
+   "error": null
+  },
+  "C00444620": {
+   "name": "FRIENDS OF GLENN THOMPSON",
+   "website": "WWW.GTTHOMPSON.COM",
+   "error": null
+  }
+ },
+ "searches": {}
+}
