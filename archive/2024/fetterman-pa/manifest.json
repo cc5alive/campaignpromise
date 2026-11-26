@@ -1,0 +1,148 @@
+{
+  "name": "John Fetterman",
+  "domains_tried": [
+    "johnfetterman.com"
+  ],
+  "pages": [
+    {
+      "original": "https://johnfetterman.com/",
+      "timestamp": "20241010055025",
+      "wayback": "https://web.archive.org/web/20241010055025/https://johnfetterman.com/",
+      "wayback_raw": "https://web.archive.org/web/20241010055025id_/https://johnfetterman.com/",
+      "file": "archive/2024/fetterman-pa/home.html",
+      "text_file": "archive/2024/fetterman-pa/home.txt",
+      "bytes": 66643,
+      "sha256_html": "b1e9ba0cc0b4fab71c1db796a4e700c3d48450ae09c1fd2bc9aaa1da7b25cfe7",
+      "sha256_text": "4ad17fae8a3e8a96016cd30b9d160f8db88f3106f864121d096f2a95f544d1a3"
+    },
+    {
+      "original": "https://johnfetterman.com/issues/",
+      "timestamp": "20241010033342",
+      "wayback": "https://web.archive.org/web/20241010033342/https://johnfetterman.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241010033342id_/https://johnfetterman.com/issues/",
+      "file": "archive/2024/fetterman-pa/issues.html",
+      "text_file": "archive/2024/fetterman-pa/issues.txt",
+      "bytes": 64286,
+      "sha256_html": "a971de98b3d369a7c5bbb00c5619ff5dc58445ac87b824700655ace47a7eb342",
+      "sha256_text": "3117a0740bac9ca508ba1e0bf042a9edb26d86dccefe58edd48370ec11621495"
+    },
+    {
+      "original": "https://johnfetterman.com/plan/",
+      "timestamp": "20240914150028",
+      "wayback": "https://web.archive.org/web/20240914150028/https://johnfetterman.com/plan/",
+      "wayback_raw": "https://web.archive.org/web/20240914150028id_/https://johnfetterman.com/plan/",
+      "file": "archive/2024/fetterman-pa/plan.html",
+      "text_file": "archive/2024/fetterman-pa/plan.txt",
+      "bytes": 63647,
+      "sha256_html": "07976b7f35c0d36004f764450121ea9d6b3f0ac25abf0783bcc0e554543eda2d",
+      "sha256_text": "68b71b726cb31eb98e77e29a119521d1cfe9b1fecedd8b0e7196b8d6413dfb4c"
+    },
+    {
+      "original": "https://johnfetterman.com/issue/delivering-criminal-justice-reform/",
+      "timestamp": "20240914141945",
+      "wayback": "https://web.archive.org/web/20240914141945/https://johnfetterman.com/issue/delivering-criminal-justice-reform/",
+      "wayback_raw": "https://web.archive.org/web/20240914141945id_/https://johnfetterman.com/issue/delivering-criminal-justice-reform/",
+      "file": "archive/2024/fetterman-pa/issue-delivering-criminal-justice-reform.html",
+      "text_file": "archive/2024/fetterman-pa/issue-delivering-criminal-justice-reform.txt",
+      "bytes": 62902,
+      "sha256_html": "75c047602bc695310e3d46660aedc6378504ba6204947f69869f4122251363e6",
+      "sha256_text": "8eca8f1956bd0734f215769f21e8f77ca9a44e7afd04678778257254508b9c56"
+    },
+    {
+      "original": "https://johnfetterman.com/issue/guaranteeing-health-care/",
+      "timestamp": "20240914141330",
+      "wayback": "https://web.archive.org/web/20240914141330/https://johnfetterman.com/issue/guaranteeing-health-care/",
+      "wayback_raw": "https://web.archive.org/web/20240914141330id_/https://johnfetterman.com/issue/guaranteeing-health-care/",
+      "file": "archive/2024/fetterman-pa/issue-guaranteeing-health-care.html",
+      "text_file": "archive/2024/fetterman-pa/issue-guaranteeing-health-care.txt",
+      "bytes": 63205,
+      "sha256_html": "707013c25639a8faf7bedd1e86041b45066c23ae73bf1562541ecbb2e98bbfc2",
+      "sha256_text": "00e66290d18e49e2a2c88e78605600d16711ed9f8511d144a41253c10865911b"
+    },
+    {
+      "original": "https://johnfetterman.com/issue/investing-in-rural-communities/",
+      "timestamp": "20240914144511",
+      "wayback": "https://web.archive.org/web/20240914144511/https://johnfetterman.com/issue/investing-in-rural-communities/",
+      "wayback_raw": "https://web.archive.org/web/20240914144511id_/https://johnfetterman.com/issue/investing-in-rural-communities/",
+      "file": "archive/2024/fetterman-pa/issue-investing-in-rural-communities.html",
+      "text_file": "archive/2024/fetterman-pa/issue-investing-in-rural-communities.txt",
+      "bytes": 63101,
+      "sha256_html": "f5a3f0f274fb57a884610762bfee1ece4eaabc23d1f7a7e89cf3205941abdbb0",
+      "sha256_text": "bb1d8502d6c0965beddbe0294744e859c367a62fc3cbb7941fad7669c1d3aeb1"
+    },
+    {
+      "original": "https://johnfetterman.com/issue/legalizing-cannabis/",
+      "timestamp": "20240828224840",
+      "wayback": "https://web.archive.org/web/20240828224840/https://johnfetterman.com/issue/legalizing-cannabis/",
+      "wayback_raw": "https://web.archive.org/web/20240828224840id_/https://johnfetterman.com/issue/legalizing-cannabis/",
+      "file": "archive/2024/fetterman-pa/issue-legalizing-cannabis.html",
+      "text_file": "archive/2024/fetterman-pa/issue-legalizing-cannabis.txt",
+      "bytes": 62676,
+      "sha256_html": "e2001cd4aec5b49a61b49e2dcfe28b6501ccfa5e3e0f72339e1169e292ba8a29",
+      "sha256_text": "380b8c2a8fddeab67f7d8990be4afaf74abde69e86294d355be79a3b70d90c8c"
+    },
+    {
+      "original": "https://johnfetterman.com/issue/maintaining-smart-global-leadership/",
+      "timestamp": "20240926103509",
+      "wayback": "https://web.archive.org/web/20240926103509/https://johnfetterman.com/issue/maintaining-smart-global-leadership/",
+      "wayback_raw": "https://web.archive.org/web/20240926103509id_/https://johnfetterman.com/issue/maintaining-smart-global-leadership/",
+      "file": "archive/2024/fetterman-pa/issue-maintaining-smart-global-leadership.html",
+      "text_file": "archive/2024/fetterman-pa/issue-maintaining-smart-global-leadership.txt",
+      "bytes": 62705,
+      "sha256_html": "c638b67faf79d03a27aeff4ae3b4e189cb29abf1aef8662ac336e909af234619",
+      "sha256_text": "5c1a1aa35e0e6cd306d1a5ae219dc1c9c76d72902d05a7c07f462656bf6b33ae"
+    },
+    {
+      "original": "https://johnfetterman.com/issue/preparing-the-next-generation/",
+      "timestamp": "20240914153347",
+      "wayback": "https://web.archive.org/web/20240914153347/https://johnfetterman.com/issue/preparing-the-next-generation/",
+      "wayback_raw": "https://web.archive.org/web/20240914153347id_/https://johnfetterman.com/issue/preparing-the-next-generation/",
+      "file": "archive/2024/fetterman-pa/issue-preparing-the-next-generation.html",
+      "text_file": "archive/2024/fetterman-pa/issue-preparing-the-next-generation.txt",
+      "bytes": 62491,
+      "sha256_html": "300d40a533fc5c8a3e2638b4e61ac5aef23e3bef97ce3bab9dabb1823bb11d4d",
+      "sha256_text": "e9cb3267b1b51a4162aa7513f5c2711a24764d7eb590d19ee23a0b809610e38d"
+    },
+    {
+      "original": "https://johnfetterman.com/issue/promoting-american-energy-building-a-clean-energy-future/",
+      "timestamp": "20240914152517",
+      "wayback": "https://web.archive.org/web/20240914152517/https://johnfetterman.com/issue/promoting-american-energy-building-a-clean-energy-future/",
+      "wayback_raw": "https://web.archive.org/web/20240914152517id_/https://johnfetterman.com/issue/promoting-american-energy-building-a-clean-energy-future/",
+      "file": "archive/2024/fetterman-pa/issue-promoting-american-energy-building-a-clean-energy-future.html",
+      "text_file": "archive/2024/fetterman-pa/issue-promoting-american-energy-building-a-clean-energy-future.txt",
+      "bytes": 64998,
+      "sha256_html": "7e516972d7950b3f3358db21441d36d9d85de4e95323d512bbbbbf91160ab728",
+      "sha256_text": "8e0c948e16499a4632ff2edfa0481c66418842437ca4365107e607dca027dca5"
+    },
+    {
+      "original": "https://johnfetterman.com/issue/protecting-womens-reproductive-freedom/",
+      "timestamp": "20240914150311",
+      "wayback": "https://web.archive.org/web/20240914150311/https://johnfetterman.com/issue/protecting-womens-reproductive-freedom/",
+      "wayback_raw": "https://web.archive.org/web/20240914150311id_/https://johnfetterman.com/issue/protecting-womens-reproductive-freedom/",
+      "file": "archive/2024/fetterman-pa/issue-protecting-womens-reproductive-freedom.html",
+      "text_file": "archive/2024/fetterman-pa/issue-protecting-womens-reproductive-freedom.txt",
+      "bytes": 63454,
+      "sha256_html": "c77a0100d7389c6d6b1766c398c63edefc6d6d7c8f567635710736ca7bc35b27",
+      "sha256_text": "c3a930d3fa654041560863ebc89762108a6512d18be3d7aadf1ce4f1c51c586b"
+    },
+    {
+      "original": "https://johnfetterman.com/issue/respecting-our-seniors/",
+      "timestamp": "20240914142353",
+      "wayback": "https://web.archive.org/web/20240914142353/https://johnfetterman.com/issue/respecting-our-seniors/",
+      "wayback_raw": "https://web.archive.org/web/20240914142353id_/https://johnfetterman.com/issue/respecting-our-seniors/",
+      "file": "archive/2024/fetterman-pa/issue-respecting-our-seniors.html",
+      "text_file": "archive/2024/fetterman-pa/issue-respecting-our-seniors.txt",
+      "bytes": 62147,
+      "sha256_html": "b94a8fd46d43ac4445da1da53dd2178aad6cc04601a4d7902f51139fd7d0480b",
+      "sha256_text": "8ce6c307a800f16eea1b4c11e33b53466ba049142f393413dbbe2b29a474779f"
+    }
+  ],
+  "snapshots_found": {
+    "johnfetterman.com": 25
+  },
+  "generated_utc": "2026-11-26T08:55:02Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
