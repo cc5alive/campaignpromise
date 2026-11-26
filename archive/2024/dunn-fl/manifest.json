@@ -1,0 +1,38 @@
+{
+  "name": "Neal P. Dunn",
+  "domains_tried": [
+    "nealdunn.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.nealdunn.com/",
+      "timestamp": "20241105164351",
+      "wayback": "https://web.archive.org/web/20241105164351/https://www.nealdunn.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105164351id_/https://www.nealdunn.com/",
+      "file": "archive/2024/dunn-fl/home.html",
+      "text_file": "archive/2024/dunn-fl/home.txt",
+      "bytes": 17546,
+      "sha256_html": "ab3e006fcff0bf352a1f70c8bb9d3d5a837212f82d019824d3bf14f1f7f772fc",
+      "sha256_text": "acf421375f78826eba7166c8d76e8169f9d40687c32e8ca5d437a88f84f12d27"
+    },
+    {
+      "original": "https://www.nealdunn.com/issues",
+      "timestamp": "20241105164350",
+      "wayback": "https://web.archive.org/web/20241105164350/https://www.nealdunn.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105164350id_/https://www.nealdunn.com/issues",
+      "file": "archive/2024/dunn-fl/issues.html",
+      "text_file": "archive/2024/dunn-fl/issues.txt",
+      "bytes": 22146,
+      "sha256_html": "47601ef57c4387c0954713ffca4fa5ca51a063940529165ad05115c3c01ca317",
+      "sha256_text": "00a24c4edb064f61262fe6098e5265cac914674d53ab738976a183dc3d012222"
+    }
+  ],
+  "snapshots_found": {
+    "nealdunn.com": 7
+  },
+  "generated_utc": "2026-11-26T07:46:16Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
