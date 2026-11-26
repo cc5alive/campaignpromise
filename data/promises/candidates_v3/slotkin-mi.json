@@ -1,0 +1,26 @@
+{
+ "member": "slotkin-mi",
+ "pages": 3,
+ "candidates": [
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "that are proven to work – including Head Start, the expanded Child Tax Credit and the Child and Dependent Care Tax Credit to support parents and families.",
+   "page": "https://elissaslotkin.org/opportunity-agenda/",
+   "file": "archive/2024/slotkin-mi/opportunity-agenda.html",
+   "snapshot": "20241029014418"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Health care"
+   ],
+   "sentence": "Elissa believes all Americans should have access to healthcare they can afford, regardless of pre-existing conditions.",
+   "page": "https://elissaslotkin.org/priorities/",
+   "file": "archive/2024/slotkin-mi/priorities.html",
+   "snapshot": "20241027183232"
+  }
+ ]
+}

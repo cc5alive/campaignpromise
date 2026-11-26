@@ -1,0 +1,26 @@
+{
+ "member": "valadao-ca",
+ "pages": 4,
+ "candidates": [
+  {
+   "score": 5,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "We owe a great debt of gratitude to those who fight to preserve our freedom.",
+   "page": "https://valadaoforcongress.com/issues/",
+   "file": "archive/2024/valadao-ca/issues.html",
+   "snapshot": "20241105155936"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "An independent, problem solver, he worked with President Obama to bring more water to the Central Valley, made health care more accessible, and stood up to his own party to reform immigration and protect DREAMers.",
+   "page": "https://valadaoforcongress.com/valadao-campaign-releases-first-ad-highlighting-independent-bipartisan-record/",
+   "file": "archive/2024/valadao-ca/valadao-campaign-releases-first-ad-highlighting-independent-bipartisan-record.html",
+   "snapshot": "20241105110303"
+  }
+ ]
+}

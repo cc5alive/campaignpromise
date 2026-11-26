@@ -1,0 +1,67 @@
+{
+ "member": "shreve-in",
+ "pages": 3,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Immigration",
+    "Fentanyl"
+   ],
+   "sentence": "We must complete the border wall, reform our immigration system, end catch-and-release policies, and put an end to the fentanyl trafficking that’s flowing over our southern border.",
+   "page": "https://www.shreveforcongress.com/issues/",
+   "file": "archive/2024/shreve-in/issues.html",
+   "snapshot": "20241105192831"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "I will work to protect the unborn and the health of expectant mothers.",
+   "page": "https://www.shreveforcongress.com/issues/",
+   "file": "archive/2024/shreve-in/issues.html",
+   "snapshot": "20241105192831"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "I will support the 2nd Amendment in Congress and advocate for policies that promote responsible gun ownership.",
+   "page": "https://www.shreveforcongress.com/issues/",
+   "file": "archive/2024/shreve-in/issues.html",
+   "snapshot": "20241105192831"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "We must secure our southern border and fix our country’s broken immigration policies.",
+   "page": "https://www.shreveforcongress.com/issues/",
+   "file": "archive/2024/shreve-in/issues.html",
+   "snapshot": "20241105192831"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "I’ll fight for a balanced budget and reduce reckless giveaway spending that is driving up prices that burden Hoosier families.",
+   "page": "https://www.shreveforcongress.com/issues/",
+   "file": "archive/2024/shreve-in/issues.html",
+   "snapshot": "20241105192831"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "Protect the 2nd Amendment.",
+   "page": "https://www.shreveforcongress.com/issues/",
+   "file": "archive/2024/shreve-in/issues.html",
+   "snapshot": "20241105192831"
+  }
+ ]
+}

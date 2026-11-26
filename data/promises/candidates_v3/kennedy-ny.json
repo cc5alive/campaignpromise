@@ -1,0 +1,67 @@
+{
+ "member": "kennedy-ny",
+ "pages": 2,
+ "candidates": [
+  {
+   "score": 9,
+   "topics": [
+    "Health care",
+    "Social Security & Medicare"
+   ],
+   "sentence": "In Congress, he will fight against rollbacks to the Affordable Care Act, protect and expand Medicare, and work to make prescription drugs more affordable.",
+   "page": "https://kennedyforuscongress.com/issues/",
+   "file": "archive/2024/kennedy-ny/issues.html",
+   "snapshot": "20241105210953"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "As a Congressman, he will fight against a national abortion ban and work to codify Roe v.",
+   "page": "https://kennedyforuscongress.com/issues/",
+   "file": "archive/2024/kennedy-ny/issues.html",
+   "snapshot": "20241105210953"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "He will take that fight to Washington by working to reinstate the federal assault weapons ban and take illegal guns off our streets.",
+   "page": "https://kennedyforuscongress.com/issues/",
+   "file": "archive/2024/kennedy-ny/issues.html",
+   "snapshot": "20241105210953"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Elections"
+   ],
+   "sentence": "Senator Kennedy has worked to expand voting rights and election reforms in the State Senate and will continue to make protecting our democracy a priority in Congress.",
+   "page": "https://kennedyforuscongress.com/issues/",
+   "file": "archive/2024/kennedy-ny/issues.html",
+   "snapshot": "20241105210953"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Ukraine"
+   ],
+   "sentence": "He will also fight to defend democracy and democratic values abroad, including supporting our allies in Ukraine and across the globe.",
+   "page": "https://kennedyforuscongress.com/issues/",
+   "file": "archive/2024/kennedy-ny/issues.html",
+   "snapshot": "20241105210953"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Elections"
+   ],
+   "sentence": "Lewis Voting Rights Advancement Act and fight against extremist attempts to undermine our elections through voter disenfranchisement and misinformation.",
+   "page": "https://kennedyforuscongress.com/issues/",
+   "file": "archive/2024/kennedy-ny/issues.html",
+   "snapshot": "20241105210953"
+  }
+ ]
+}

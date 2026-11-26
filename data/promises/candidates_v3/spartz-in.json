@@ -1,0 +1,36 @@
+{
+ "member": "spartz-in",
+ "pages": 8,
+ "candidates": [
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "We must preserve our 2nd Amendment freedoms against the tyranny of the government, and protect the sanctity of all human life.",
+   "page": "https://www.spartzforcongress.com/issues/",
+   "file": "archive/2024/spartz-in/issues.html",
+   "snapshot": "20241105170108"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "We must cut spending, reform welfare to empower, not suppress low income individuals, and balance the budget.",
+   "page": "https://www.spartzforcongress.com/issues/",
+   "file": "archive/2024/spartz-in/issues.html",
+   "snapshot": "20241105170108"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "She’s fought to repeal needless regulations, reform health care, improve educational outcomes, audit elections, protect the Second Amendment and private property rights, and bring transparency and accountability to the state government.",
+   "page": "https://www.spartzforcongress.com/about/",
+   "file": "archive/2024/spartz-in/about.html",
+   "snapshot": "20241105170140"
+  }
+ ]
+}

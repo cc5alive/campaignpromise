@@ -1,0 +1,26 @@
+{
+ "member": "mace-sc",
+ "pages": 12,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Ukraine"
+   ],
+   "sentence": "– Nancy’s quantum computing bill is being hotlined in the Senate and will be signed into law before the end of the year",
+   "page": "https://nancymace.org/accomplishments/",
+   "file": "archive/2024/mace-sc/accomplishments.html",
+   "snapshot": "20241105060115"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "Nancy Mace: Secure our Border",
+   "page": "https://nancymace.org/",
+   "file": "archive/2024/mace-sc/home.html",
+   "snapshot": "20241105072312"
+  }
+ ]
+}

@@ -1,0 +1,497 @@
+[
+ {
+  "member": "landsman-oh",
+  "cand": 4,
+  "cand_dir": "candidates_v3",
+  "kind": "Stated position",
+  "issue": "Ukraine",
+  "votes": [
+   "house-2026-207"
+  ],
+  "note": ""
+ },
+ {
+  "member": "morrison-mn",
+  "cand": 11,
+  "cand_dir": "candidates_v3",
+  "kind": "Stated position",
+  "issue": "Ukraine",
+  "votes": [
+   "house-2026-207"
+  ],
+  "note": ""
+ },
+ {
+  "member": "mcclaindelaney-md",
+  "cand": 5,
+  "cand_dir": "candidates_v3",
+  "kind": "Stated position",
+  "issue": "Ukraine",
+  "votes": [
+   "house-2026-207"
+  ],
+  "note": ""
+ },
+ {
+  "member": "kennedy-ny",
+  "cand": 4,
+  "cand_dir": "candidates_v3",
+  "kind": "Stated position",
+  "issue": "Ukraine",
+  "votes": [
+   "house-2026-207"
+  ],
+  "note": ""
+ },
+ {
+  "member": "fletcher-tx",
+  "cand": 0,
+  "cand_dir": "candidates_v3",
+  "kind": "Stated position",
+  "issue": "Ukraine",
+  "votes": [
+   "house-2026-207"
+  ],
+  "note": ""
+ },
+ {
+  "member": "craig-mn",
+  "cand": 4,
+  "cand_dir": "candidates_v3",
+  "kind": "Stated position",
+  "issue": "Ukraine",
+  "votes": [
+   "house-2026-207"
+  ],
+  "note": ""
+ },
+ {
+  "member": "omar-mn",
+  "cand": 4,
+  "cand_dir": "candidates_v3",
+  "kind": "Stated position",
+  "issue": "Ukraine",
+  "votes": [
+   "house-2026-207"
+  ],
+  "note": ""
+ },
+ {
+  "member": "hunt-tx",
+  "cand": 10,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Elections",
+  "votes": [
+   "house-2025-102"
+  ],
+  "note": ""
+ },
+ {
+  "member": "kiggans-va",
+  "cand": 1,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Elections",
+  "votes": [
+   "house-2025-102"
+  ],
+  "note": ""
+ },
+ {
+  "member": "subramanyam-va",
+  "cand": 0,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Elections",
+  "votes": [
+   "house-2025-102"
+  ],
+  "note": ""
+ },
+ {
+  "member": "lee-pa",
+  "cand": 6,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Elections",
+  "votes": [
+   "house-2025-102"
+  ],
+  "note": ""
+ },
+ {
+  "member": "brecheen-ok",
+  "cand": 2,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Guns",
+  "votes": [
+   "house-2026-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "burchett-tn",
+  "cand": 6,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Guns",
+  "votes": [
+   "house-2026-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "clyde-ga",
+  "cand": 2,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Guns",
+  "votes": [
+   "house-2026-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "goldman-tx",
+  "cand": 5,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Guns",
+  "votes": [
+   "house-2026-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "hageman-wy",
+  "cand": 5,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Guns",
+  "votes": [
+   "house-2026-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "hamadeh-az",
+  "cand": 4,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Guns",
+  "votes": [
+   "house-2026-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "haridopolos-fl",
+  "cand": 4,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Guns",
+  "votes": [
+   "house-2026-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "hunt-tx",
+  "cand": 6,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Guns",
+  "votes": [
+   "house-2026-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "kiggans-va",
+  "cand": 2,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Guns",
+  "votes": [
+   "house-2026-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "knott-nc",
+  "cand": 1,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Guns",
+  "votes": [
+   "house-2026-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "mcdowell-nc",
+  "cand": 1,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Guns",
+  "votes": [
+   "house-2026-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "nunn-ia",
+  "cand": 2,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Guns",
+  "votes": [
+   "house-2026-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "ogles-tn",
+  "cand": 3,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Guns",
+  "votes": [
+   "house-2026-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "owens-ut",
+  "cand": 3,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Guns",
+  "votes": [
+   "house-2026-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "perry-pa",
+  "cand": 3,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Guns",
+  "votes": [
+   "house-2026-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "shreve-in",
+  "cand": 2,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Guns",
+  "votes": [
+   "house-2026-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "spartz-in",
+  "cand": 0,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Guns",
+  "votes": [
+   "house-2026-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "steil-wi",
+  "cand": 0,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Guns",
+  "votes": [
+   "house-2026-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "biggs-az",
+  "cand": 6,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Guns",
+  "votes": [
+   "house-2026-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "garcia-ca",
+  "cand": 1,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Guns",
+  "votes": [
+   "house-2026-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "gillen-ny",
+  "cand": 5,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Guns",
+  "votes": [
+   "house-2026-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "landsman-oh",
+  "cand": 1,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Guns",
+  "votes": [
+   "house-2026-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "mcbride-de",
+  "cand": 2,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Guns",
+  "votes": [
+   "house-2026-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "min-ca",
+  "cand": 0,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Guns",
+  "votes": [
+   "house-2026-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "moskowitz-fl",
+  "cand": 2,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Guns",
+  "votes": [
+   "house-2026-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "tran-ca",
+  "cand": 3,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Guns",
+  "votes": [
+   "house-2026-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "mcclaindelaney-md",
+  "cand": 11,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Guns",
+  "votes": [
+   "house-2026-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "salinas-or",
+  "cand": 3,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Guns",
+  "votes": [
+   "house-2026-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "smith-wa",
+  "cand": 3,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Guns",
+  "votes": [
+   "house-2026-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "krishnamoorthi-il",
+  "cand": 2,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Guns",
+  "votes": [
+   "house-2026-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "elfreth-md",
+  "cand": 0,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Guns",
+  "votes": [
+   "house-2026-190"
+  ],
+  "note": ""
+ },
+ {
+  "member": "mcclaindelaney-md",
+  "cand": 3,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Gender",
+  "votes": [
+   "house-2025-362"
+  ],
+  "note": ""
+ },
+ {
+  "member": "omar-mn",
+  "cand": 13,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Gender",
+  "votes": [
+   "house-2025-362"
+  ],
+  "note": ""
+ },
+ {
+  "member": "min-ca",
+  "cand": 1,
+  "cand_dir": "candidates_v3",
+  "kind": "Pledge",
+  "issue": "Stock trading",
+  "votes": [
+   "house-2026-280"
+  ],
+  "note": ""
+ }
+]

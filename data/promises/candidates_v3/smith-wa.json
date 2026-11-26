@@ -1,0 +1,66 @@
+{
+ "member": "smith-wa",
+ "pages": 12,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "Criminal justice reform will not only make our justice system more fair and end the cycle over over-incarceration in communities of color, but it would also save taxpayers money.",
+   "page": "https://electadamsmith.com/issues/criminal-justice-reform/",
+   "file": "archive/2024/smith-wa/issues-criminal-justice-reform.html",
+   "snapshot": "20241105000336"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "In Congress, I'll continue to work on behalf of refugee and immigrant communities — from supporting small businesses to providing world-class constituent services.",
+   "page": "https://electadamsmith.com/",
+   "file": "archive/2024/smith-wa/home.html",
+   "snapshot": "20241105001859"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "The United States government must protect its people from gun violence.",
+   "page": "https://electadamsmith.com/issues/gun-violence/",
+   "file": "archive/2024/smith-wa/issues-gun-violence.html",
+   "snapshot": "20241105000402"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "We must enact universal background checks for all firearms and ban assault-style weapons and high-capacity magazines.",
+   "page": "https://electadamsmith.com/issues/gun-violence/",
+   "file": "archive/2024/smith-wa/issues-gun-violence.html",
+   "snapshot": "20241105000402"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "We must ensure that background checks are universal, in that they cover all forms of sales, and are fully completed before selling a weapon to an individual.",
+   "page": "https://electadamsmith.com/issues/gun-violence/",
+   "file": "archive/2024/smith-wa/issues-gun-violence.html",
+   "snapshot": "20241105000402"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "Supports legislation that would ensure a background check has been completed before a weapon is sold",
+   "page": "https://electadamsmith.com/issues/gun-violence/",
+   "file": "archive/2024/smith-wa/issues-gun-violence.html",
+   "snapshot": "20241105000402"
+  }
+ ]
+}

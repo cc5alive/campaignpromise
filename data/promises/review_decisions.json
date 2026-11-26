@@ -1085,6 +1085,186 @@
   "R6-045": {
    "decision": "Approve",
    "reason": "Vote directly tests the commitment."
+  },
+  "R7-001": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-002": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-003": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-004": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-005": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-006": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-007": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken. Her support for Ukraine aid is conditioned on it not being tied to offensive military aid; the Ukraine Support Act included military financing, so a kept-or-broken call would rest on a contested reading."
+  },
+  "R7-008": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-009": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-010": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-011": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-012": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-013": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-014": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-015": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-016": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-017": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-018": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-019": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-020": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-021": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-022": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-023": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-024": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-025": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-026": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-027": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-028": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-029": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-030": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-031": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-032": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-033": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-034": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-035": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-036": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-037": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-038": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-039": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-040": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-041": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-042": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-043": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-044": {
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment."
+  },
+  "R7-045": {
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken. The Stop Insider Trading Act was a partial ban (no new stock purchases) bundled with a voter ID requirement, so a vote against it does not clearly break a promise to end congressional stock trading."
   }
  }
 }

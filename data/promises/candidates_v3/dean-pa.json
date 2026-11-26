@@ -1,0 +1,107 @@
+{
+ "member": "dean-pa",
+ "pages": 12,
+ "candidates": [
+  {
+   "score": 9,
+   "topics": [
+    "Social Security & Medicare",
+    "Taxes"
+   ],
+   "sentence": "She will work to protect and expand Social Security and Medicare and defend against attacks to these programs in the name of more tax cuts for the wealthy.",
+   "page": "https://mad4pa.com/issues/healthcare/",
+   "file": "archive/2024/dean-pa/issues-healthcare.html",
+   "snapshot": "20241103001634"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "The vote to restore abortion rights will be a crucial one.",
+   "page": "https://mad4pa.com/",
+   "file": "archive/2024/dean-pa/home.html",
+   "snapshot": "20241031081757"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "Madeleine has also introduced H.R. 4545, the Private Loan Disability Discharge Act, which would fill a gap in current law by allowing private student loan borrowers who become permanently disabled and will never work again to be relieved of their student loan debt.",
+   "page": "https://mad4pa.com/issues/education/",
+   "file": "archive/2024/dean-pa/issues-education.html",
+   "snapshot": "20241103053809"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "Madeleine will continue to help pass common sense legislation to make sure weapons of war cannot be used to kill innocent people, increase background checks, and repeal federal laws that bar funding for research on gun violence as a public health issue.",
+   "page": "https://mad4pa.com/issues/gun-violence/",
+   "file": "archive/2024/dean-pa/issues-gun-violence.html",
+   "snapshot": "20241103054115"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "She will continue to make sure that those who have dutifully paid into our security net have access to Social Security and Medicare in their retirement.",
+   "page": "https://mad4pa.com/issues/healthcare/",
+   "file": "archive/2024/dean-pa/issues-healthcare.html",
+   "snapshot": "20241103001634"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Fentanyl"
+   ],
+   "sentence": "Madeleine is committed to supporting quality treatment and finding solutions to the opioid epidemic.",
+   "page": "https://mad4pa.com/issues/",
+   "file": "archive/2024/dean-pa/issues.html",
+   "snapshot": "20241031134915"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "Madeleine supports a strong legal immigration system and humane treatment for anyone seeking citizenship",
+   "page": "https://mad4pa.com/issues/",
+   "file": "archive/2024/dean-pa/issues.html",
+   "snapshot": "20241031134915"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "Madeleine supports broadening anti-discrimination laws, expanding and enforcing ADA requirements, and grant and tax programs that support minority, disabled, and veteran owned businesses.",
+   "page": "https://mad4pa.com/issues/empowering-our-diverse-communities/",
+   "file": "archive/2024/dean-pa/issues-empowering-our-diverse-communities.html",
+   "snapshot": "20241103001950"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Elections"
+   ],
+   "sentence": "We must also address issues that disproportionately impact Black and Brown populations, like reforming our criminal justice system, addressing inequities in healthcare, and ensuring that everyone can safely access their right to vote.",
+   "page": "https://mad4pa.com/issues/empowering-our-diverse-communities/",
+   "file": "archive/2024/dean-pa/issues-empowering-our-diverse-communities.html",
+   "snapshot": "20241103001950"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "As a member of the House Judiciary Committee, Madeleine has been on the front lines of the fight to protect our children from gun violence.",
+   "page": "https://mad4pa.com/issues/gun-violence/",
+   "file": "archive/2024/dean-pa/issues-gun-violence.html",
+   "snapshot": "20241103054115"
+  }
+ ]
+}

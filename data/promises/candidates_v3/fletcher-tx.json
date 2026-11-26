@@ -1,0 +1,26 @@
+{
+ "member": "fletcher-tx",
+ "pages": 6,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Ukraine"
+   ],
+   "sentence": "I have and will continue to support sanctions against Russia for its unprovoked, unjustified, and unconscionable war against Ukraine.",
+   "page": "https://www.lizziefletcher.com/national-security-foreign-policy/",
+   "file": "archive/2024/fletcher-tx/national-security-foreign-policy.html",
+   "snapshot": "20241105160238"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Health care"
+   ],
+   "sentence": "As Trump Administration Works To Overturn Affordable Care Act, Congresswoman Lizzie Fletcher Speaks on House Floor To Protect Health Care for Texans",
+   "page": "https://www.lizziefletcher.com/campaigns-try-to-reach-election-day-voters-after-record-early-voting/",
+   "file": "archive/2024/fletcher-tx/campaigns-try-to-reach-election-day-voters-after-record-early-voting.html",
+   "snapshot": "20241105160318"
+  }
+ ]
+}

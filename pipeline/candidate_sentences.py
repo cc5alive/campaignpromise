@@ -23,6 +23,11 @@ TOPICS = {
     "Abortion": r"planned parenthood|abortion|reproductive|\bRoe\b|pro-life|unborn",
     "Crypto": r"crypto|digital asset|stablecoin|bitcoin|blockchain|\bCBDC\b|central bank digital",
     "Food assistance": r"\bSNAP\b|food stamp|food assistance",
+    "Ukraine": r"ukrain|russia|putin",
+    "Elections": r"voter id|photo id|proof of citizenship|non-?citizens? vot|election integrity|secure elections|voting rights|right to vote|voter suppression",
+    "Guns": r"second amendment|2nd amendment|gun rights|right to bear arms|gun safety|gun violence|assault weapon|background check",
+    "Gender": r"transgender|gender[- ]affirming|gender transition|biological (sex|male|female)|sex change|gender ideology",
+    "Stock trading": r"stock trad|trading stock|ban members of congress from|insider trading|own(ing)? stocks?",
 }
 CUE = re.compile(r"\b(i will|will|i'll|committed to|pledge|promise|never|always|fight(s|ing)? (to|for|against)|support(s)?|oppose(s)?|vote (to|for|against)|must|believes?|stand up|protect|end|repeal|secure|cut)\b", re.I)
 PAST_ONLY = re.compile(r"\b(voted|passed|introduced|helped pass|secured|delivered|led the)\b", re.I)

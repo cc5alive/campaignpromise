@@ -3,16 +3,16 @@
  "summary": {
   "reviewer": "Claude Opus 5.5",
   "reviewer_full": "Claude Opus 5.5 (claude-opus-5-5), an AI model made by Anthropic",
-  "total": 269,
-  "approved": 158,
-  "shown_not_scored": 94,
+  "total": 314,
+  "approved": 201,
+  "shown_not_scored": 96,
   "rejected": 17,
-  "tested": 143,
-  "aligned": 137,
+  "tested": 185,
+  "aligned": 179,
   "not_aligned": 5,
   "mixed": 1,
-  "untested": 15,
-  "members_reviewed": 127
+  "untested": 16,
+  "members_reviewed": 132
  },
  "rules": [
   "Approve when the vote directly tests the specific commitment.",
@@ -10402,6 +10402,1489 @@
      "role": "elsewhere",
      "out": "elsewhere",
      "src": "https://clerk.house.gov/evs/2025/roll190.xml"
+    }
+   ]
+  },
+  {
+   "member": "Greg Landsman",
+   "bioguide": "L000601",
+   "party": "D",
+   "chamber": "House",
+   "state": "OH",
+   "id": "R7-001",
+   "issue": "Ukraine",
+   "kind": "Stated position",
+   "quote": "In Congress, Greg will continue to advocate for support for Ukraine to fight back against Putin’s unjust and horrific war, preserve democracy, and avoid a larger-scale war in Eastern Europe.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Ukraine Support Act authorizes more than $1 billion in aid to Ukraine, up to $8 billion in military financing loans, and new sanctions on Russia.",
+   "src": {
+    "orig": "https://www.landsmanforcongress.com/the-issues-1",
+    "wb": "https://web.archive.org/web/20241105125622/https://www.landsmanforcongress.com/the-issues-1",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Ukraine Support Act",
+     "q": "final passage",
+     "date": "2026-06-04",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll207.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Kelly Morrison",
+   "bioguide": "M001234",
+   "party": "D",
+   "chamber": "House",
+   "state": "MN",
+   "id": "R7-002",
+   "issue": "Ukraine",
+   "kind": "Stated position",
+   "quote": "Kelly believes we must support Ukraine in its fight for their democracy and stand up to Russian aggression.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Ukraine Support Act authorizes more than $1 billion in aid to Ukraine, up to $8 billion in military financing loans, and new sanctions on Russia.",
+   "src": {
+    "orig": "https://www.kellyforcongress.org/priorities",
+    "wb": "https://web.archive.org/web/20241105132209/https://www.kellyforcongress.org/priorities",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Ukraine Support Act",
+     "q": "final passage",
+     "date": "2026-06-04",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll207.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "April McClain Delaney",
+   "bioguide": "M001232",
+   "party": "D",
+   "chamber": "House",
+   "state": "MD",
+   "id": "R7-003",
+   "issue": "Ukraine",
+   "kind": "Stated position",
+   "quote": "In Congress, April will support legislation that protects our commitment to our allies in Ukraine and Israel as they defend themselves against tyranny and terrorism, while also providing much-needed humanitarian assistance to civilians affected by conflicts of war.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Ukraine Support Act authorizes more than $1 billion in aid to Ukraine, up to $8 billion in military financing loans, and new sanctions on Russia.",
+   "src": {
+    "orig": "https://www.aprilmcclaindelaneyforcongress.com/on-the-issues/immigration/",
+    "wb": "https://web.archive.org/web/20241105034822/https://www.aprilmcclaindelaneyforcongress.com/on-the-issues/immigration/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Ukraine Support Act",
+     "q": "final passage",
+     "date": "2026-06-04",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll207.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Timothy M. Kennedy",
+   "bioguide": "K000402",
+   "party": "D",
+   "chamber": "House",
+   "state": "NY",
+   "id": "R7-004",
+   "issue": "Ukraine",
+   "kind": "Stated position",
+   "quote": "He will also fight to defend democracy and democratic values abroad, including supporting our allies in Ukraine and across the globe.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Ukraine Support Act authorizes more than $1 billion in aid to Ukraine, up to $8 billion in military financing loans, and new sanctions on Russia.",
+   "src": {
+    "orig": "https://kennedyforuscongress.com/issues/",
+    "wb": "https://web.archive.org/web/20241105210953/https://kennedyforuscongress.com/issues/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Ukraine Support Act",
+     "q": "final passage",
+     "date": "2026-06-04",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll207.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Lizzie Fletcher",
+   "bioguide": "F000468",
+   "party": "D",
+   "chamber": "House",
+   "state": "TX",
+   "id": "R7-005",
+   "issue": "Ukraine",
+   "kind": "Stated position",
+   "quote": "I have and will continue to support sanctions against Russia for its unprovoked, unjustified, and unconscionable war against Ukraine.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Ukraine Support Act authorizes more than $1 billion in aid to Ukraine, up to $8 billion in military financing loans, and new sanctions on Russia.",
+   "src": {
+    "orig": "https://www.lizziefletcher.com/national-security-foreign-policy/",
+    "wb": "https://web.archive.org/web/20241105160238/https://www.lizziefletcher.com/national-security-foreign-policy/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Ukraine Support Act",
+     "q": "final passage",
+     "date": "2026-06-04",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll207.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Angie Craig",
+   "bioguide": "C001119",
+   "party": "D",
+   "chamber": "House",
+   "state": "MN",
+   "id": "R7-006",
+   "issue": "Ukraine",
+   "kind": "Stated position",
+   "quote": "I unequivocally condemned Vladimir Putin’s actions in Ukraine and will continue to support all efforts — economic, humanitarian and military — to stop this unprovoked violence and needless human suffering.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Ukraine Support Act authorizes more than $1 billion in aid to Ukraine, up to $8 billion in military financing loans, and new sanctions on Russia.",
+   "src": {
+    "orig": "https://angiecraig.com/issue/national-security/",
+    "wb": "https://web.archive.org/web/20241105201058/https://angiecraig.com/issue/national-security/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Ukraine Support Act",
+     "q": "final passage",
+     "date": "2026-06-04",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll207.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Ilhan Omar",
+   "bioguide": "O000173",
+   "party": "D",
+   "chamber": "House",
+   "state": "MN",
+   "id": "R7-007",
+   "issue": "Ukraine",
+   "kind": "Stated position",
+   "quote": "I believe in the essential right of Ukraine to defend itself in this war, and in the moral obligation of the United States to support that defense.",
+   "status": "shown, not scored",
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken. Her support for Ukraine aid is conditioned on it not being tied to offensive military aid; the Ukraine Support Act included military financing, so a kept-or-broken call would rest on a contested reading.",
+   "note": "The Ukraine Support Act authorizes more than $1 billion in aid to Ukraine, up to $8 billion in military financing loans, and new sanctions on Russia.",
+   "src": {
+    "orig": "https://ilhanomar.com/my-record/",
+    "wb": "https://web.archive.org/web/20241105072816/https://ilhanomar.com/my-record/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Ukraine Support Act",
+     "q": "final passage",
+     "date": "2026-06-04",
+     "pos": "Nay",
+     "role": "related",
+     "out": "related",
+     "src": "https://clerk.house.gov/evs/2026/roll207.xml"
+    }
+   ]
+  },
+  {
+   "member": "Wesley Hunt",
+   "bioguide": "H001095",
+   "party": "R",
+   "chamber": "House",
+   "state": "TX",
+   "id": "R7-008",
+   "issue": "Elections",
+   "kind": "Pledge",
+   "quote": "I’ll support Voter ID and other measures to make sure all legal registered voters can have faith that their vote is counted.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The SAVE Act requires documentary proof of U.S. citizenship to register to vote in federal elections.",
+   "src": {
+    "orig": "https://wesleyfortexas.com/wesley-on-the-issues/",
+    "wb": "https://web.archive.org/web/20241105145348/https://wesleyfortexas.com/wesley-on-the-issues/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "SAVE Act",
+     "q": "final passage",
+     "date": "2025-04-10",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll102.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Jennifer A. Kiggans",
+   "bioguide": "K000399",
+   "party": "R",
+   "chamber": "House",
+   "state": "VA",
+   "id": "R7-009",
+   "issue": "Elections",
+   "kind": "Pledge",
+   "quote": "Jen will continue to lead the fight for election reforms in Congress by fighting to stop voting irregularities, maintain a photo ID requirement, prevent ballot harvesting, and ensure all state election officials — not just in battleground states — can keep our process secure and transparent.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The SAVE Act requires documentary proof of U.S. citizenship to register to vote in federal elections.",
+   "src": {
+    "orig": "https://jenforcongress.com/issues/",
+    "wb": "https://web.archive.org/web/20241105201933/https://jenforcongress.com/issues/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "SAVE Act",
+     "q": "final passage",
+     "date": "2025-04-10",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll102.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Suhas Subramanyam",
+   "bioguide": "S001230",
+   "party": "D",
+   "chamber": "House",
+   "state": "VA",
+   "id": "R7-010",
+   "issue": "Elections",
+   "kind": "Pledge",
+   "quote": "He will continue to fight against restrictive voter ID laws that are designed to suppress the vote, protect early voting to ensure greater access to the polls, and combat political gerrymandering so that voters choose who represents them, not the other way around.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The SAVE Act requires documentary proof of U.S. citizenship to register to vote in federal elections.",
+   "src": {
+    "orig": "https://www.suhasforvirginia.com/issues",
+    "wb": "https://web.archive.org/web/20241105175442/https://www.suhasforvirginia.com/issues",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "SAVE Act",
+     "q": "final passage",
+     "date": "2025-04-10",
+     "pos": "Nay",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll102.xml",
+     "keep": "Nay"
+    }
+   ]
+  },
+  {
+   "member": "Summer L. Lee",
+   "bioguide": "L000602",
+   "party": "D",
+   "chamber": "House",
+   "state": "PA",
+   "id": "R7-011",
+   "issue": "Elections",
+   "kind": "Pledge",
+   "quote": "It also includes working to end racist voter ID and suppression laws, restoring the full power of the Voting Rights Act, and ending gerrymandering.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The SAVE Act requires documentary proof of U.S. citizenship to register to vote in federal elections.",
+   "src": {
+    "orig": "https://summerforpa.com/issues/",
+    "wb": "https://web.archive.org/web/20241105132031/https://summerforpa.com/issues/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "SAVE Act",
+     "q": "final passage",
+     "date": "2025-04-10",
+     "pos": "Nay",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll102.xml",
+     "keep": "Nay"
+    }
+   ]
+  },
+  {
+   "member": "Josh Brecheen",
+   "bioguide": "B001317",
+   "party": "R",
+   "chamber": "House",
+   "state": "OK",
+   "id": "R7-012",
+   "issue": "Guns",
+   "kind": "Pledge",
+   "quote": "I strongly support our second amendment rights to bear arms.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Veterans 2nd Amendment Protection Act stops the VA from reporting veterans who have a financial fiduciary to the gun background check system (NICS) unless a judge finds them dangerous. Supporters call it due process for veterans; opponents say it weakens background checks.",
+   "src": {
+    "orig": "https://joshbrecheen.com/issues/",
+    "wb": "https://web.archive.org/web/20241105051741/https://joshbrecheen.com/issues/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "q": "final passage",
+     "date": "2026-05-21",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll190.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Tim Burchett",
+   "bioguide": "B001309",
+   "party": "R",
+   "chamber": "House",
+   "state": "TN",
+   "id": "R7-013",
+   "issue": "Guns",
+   "kind": "Pledge",
+   "quote": "As a lifetime NRA member, you can count on Tim to protect our Second Amendment rights.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Veterans 2nd Amendment Protection Act stops the VA from reporting veterans who have a financial fiduciary to the gun background check system (NICS) unless a judge finds them dangerous. Supporters call it due process for veterans; opponents say it weakens background checks.",
+   "src": {
+    "orig": "https://www.burchettforcongress.com/issue/guns/",
+    "wb": "https://web.archive.org/web/20241105094614/https://www.burchettforcongress.com/issue/guns/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "q": "final passage",
+     "date": "2026-05-21",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll190.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Andrew S. Clyde",
+   "bioguide": "C001116",
+   "party": "R",
+   "chamber": "House",
+   "state": "GA",
+   "id": "R7-014",
+   "issue": "Guns",
+   "kind": "Pledge",
+   "quote": "The Second Amendment of our Constitution is the teeth in “We the People”, and it must never be compromised by the government.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Veterans 2nd Amendment Protection Act stops the VA from reporting veterans who have a financial fiduciary to the gun background check system (NICS) unless a judge finds them dangerous. Supporters call it due process for veterans; opponents say it weakens background checks.",
+   "src": {
+    "orig": "https://www.clyde4congress.com/",
+    "wb": "https://web.archive.org/web/20241105152844/https://www.clyde4congress.com/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "q": "final passage",
+     "date": "2026-05-21",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll190.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Craig A. Goldman",
+   "bioguide": "G000601",
+   "party": "R",
+   "chamber": "House",
+   "state": "TX",
+   "id": "R7-015",
+   "issue": "Guns",
+   "kind": "Pledge",
+   "quote": "As a member of Congress, I will continue to fiercely protect your Second Amendment rights and freedoms.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Veterans 2nd Amendment Protection Act stops the VA from reporting veterans who have a financial fiduciary to the gun background check system (NICS) unless a judge finds them dangerous. Supporters call it due process for veterans; opponents say it weakens background checks.",
+   "src": {
+    "orig": "https://www.craiggoldman.org/issues/",
+    "wb": "https://web.archive.org/web/20241105052223/https://www.craiggoldman.org/issues/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "q": "final passage",
+     "date": "2026-05-21",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll190.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Harriet M. Hageman",
+   "bioguide": "H001096",
+   "party": "R",
+   "chamber": "House",
+   "state": "WY",
+   "id": "R7-016",
+   "issue": "Guns",
+   "kind": "Pledge",
+   "quote": "I will always fight to protect our Second Amendment, and will never back down to the tyranny of this Administration or any others who are attempting to infringe upon our Constitutional rights.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Veterans 2nd Amendment Protection Act stops the VA from reporting veterans who have a financial fiduciary to the gun background check system (NICS) unless a judge finds them dangerous. Supporters call it due process for veterans; opponents say it weakens background checks.",
+   "src": {
+    "orig": "https://www.hagemanforwyoming.com/issues",
+    "wb": "https://web.archive.org/web/20241105192306/https://www.hagemanforwyoming.com/issues",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "q": "final passage",
+     "date": "2026-05-21",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll190.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Abraham J. Hamadeh",
+   "bioguide": "H001098",
+   "party": "R",
+   "chamber": "House",
+   "state": "AZ",
+   "id": "R7-017",
+   "issue": "Guns",
+   "kind": "Pledge",
+   "quote": "I will unequivocally support your right to bear arms and protect the Second Amendment.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Veterans 2nd Amendment Protection Act stops the VA from reporting veterans who have a financial fiduciary to the gun background check system (NICS) unless a judge finds them dangerous. Supporters call it due process for veterans; opponents say it weakens background checks.",
+   "src": {
+    "orig": "https://www.abeforaz.com/our-issues",
+    "wb": "https://web.archive.org/web/20241105202611/https://www.abeforaz.com/our-issues",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "q": "final passage",
+     "date": "2026-05-21",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll190.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Mike Haridopolos",
+   "bioguide": "H001099",
+   "party": "R",
+   "chamber": "House",
+   "state": "FL",
+   "id": "R7-018",
+   "issue": "Guns",
+   "kind": "Pledge",
+   "quote": "Mike will protect our right to bear arms in Congress.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Veterans 2nd Amendment Protection Act stops the VA from reporting veterans who have a financial fiduciary to the gun background check system (NICS) unless a judge finds them dangerous. Supporters call it due process for veterans; opponents say it weakens background checks.",
+   "src": {
+    "orig": "https://www.mike4congress.com/issues",
+    "wb": "https://web.archive.org/web/20241105050759/https://www.mike4congress.com/issues",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "q": "final passage",
+     "date": "2026-05-21",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll190.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Wesley Hunt",
+   "bioguide": "H001095",
+   "party": "R",
+   "chamber": "House",
+   "state": "TX",
+   "id": "R7-019",
+   "issue": "Guns",
+   "kind": "Pledge",
+   "quote": "As a strong supporter of the 2nd Amendment and gun owner, I will support our right to defend ourselves and our families.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Veterans 2nd Amendment Protection Act stops the VA from reporting veterans who have a financial fiduciary to the gun background check system (NICS) unless a judge finds them dangerous. Supporters call it due process for veterans; opponents say it weakens background checks.",
+   "src": {
+    "orig": "https://wesleyfortexas.com/wesley-on-the-issues/",
+    "wb": "https://web.archive.org/web/20241105145348/https://wesleyfortexas.com/wesley-on-the-issues/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "q": "final passage",
+     "date": "2026-05-21",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll190.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Jennifer A. Kiggans",
+   "bioguide": "K000399",
+   "party": "R",
+   "chamber": "House",
+   "state": "VA",
+   "id": "R7-020",
+   "issue": "Guns",
+   "kind": "Pledge",
+   "quote": "Jen is a staunch defender of the Second Amendment who never compromises our right to bear arms.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Veterans 2nd Amendment Protection Act stops the VA from reporting veterans who have a financial fiduciary to the gun background check system (NICS) unless a judge finds them dangerous. Supporters call it due process for veterans; opponents say it weakens background checks.",
+   "src": {
+    "orig": "https://jenforcongress.com/issues/",
+    "wb": "https://web.archive.org/web/20241105201933/https://jenforcongress.com/issues/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "q": "final passage",
+     "date": "2026-05-21",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll190.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Brad Knott",
+   "bioguide": "K000405",
+   "party": "R",
+   "chamber": "House",
+   "state": "NC",
+   "id": "R7-021",
+   "issue": "Guns",
+   "kind": "Pledge",
+   "quote": "I will work to protect our right to keep and bear arms, as guaranteed by the Second Amendment.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Veterans 2nd Amendment Protection Act stops the VA from reporting veterans who have a financial fiduciary to the gun background check system (NICS) unless a judge finds them dangerous. Supporters call it due process for veterans; opponents say it weakens background checks.",
+   "src": {
+    "orig": "https://www.bradknottforcongress.com/",
+    "wb": "https://web.archive.org/web/20241105071443/https://www.bradknottforcongress.com/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "q": "final passage",
+     "date": "2026-05-21",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll190.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Addison P. McDowell",
+   "bioguide": "M001240",
+   "party": "R",
+   "chamber": "House",
+   "state": "NC",
+   "id": "R7-022",
+   "issue": "Guns",
+   "kind": "Pledge",
+   "quote": "Addison will fight government overreach that aims to disrupt North Carolinians’ 2nd Amendment rights.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Veterans 2nd Amendment Protection Act stops the VA from reporting veterans who have a financial fiduciary to the gun background check system (NICS) unless a judge finds them dangerous. Supporters call it due process for veterans; opponents say it weakens background checks.",
+   "src": {
+    "orig": "https://www.mcdowellfornc.com/",
+    "wb": "https://web.archive.org/web/20241105153439/https://www.mcdowellfornc.com/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "q": "final passage",
+     "date": "2026-05-21",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll190.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Zachary Nunn",
+   "bioguide": "N000193",
+   "party": "R",
+   "chamber": "House",
+   "state": "IA",
+   "id": "R7-023",
+   "issue": "Guns",
+   "kind": "Pledge",
+   "quote": "Zach put his life on the line to protect our First and Second Amendment Rights – he’s a firm believer in the right to free speech and the right to bear arms.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Veterans 2nd Amendment Protection Act stops the VA from reporting veterans who have a financial fiduciary to the gun background check system (NICS) unless a judge finds them dangerous. Supporters call it due process for veterans; opponents say it weakens background checks.",
+   "src": {
+    "orig": "https://zachnunn.com/issues/",
+    "wb": "https://web.archive.org/web/20241105155958/https://zachnunn.com/issues/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "q": "final passage",
+     "date": "2026-05-21",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll190.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Andrew Ogles",
+   "bioguide": "O000175",
+   "party": "R",
+   "chamber": "House",
+   "state": "TN",
+   "id": "R7-024",
+   "issue": "Guns",
+   "kind": "Pledge",
+   "quote": "The Second Amendment is abundantly clear that “the right of the people to keep and bear Arms, shall not be infringed.” I will fight tirelessly to ensure that your constitutional rights are protected and never infringed upon.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Veterans 2nd Amendment Protection Act stops the VA from reporting veterans who have a financial fiduciary to the gun background check system (NICS) unless a judge finds them dangerous. Supporters call it due process for veterans; opponents say it weakens background checks.",
+   "src": {
+    "orig": "https://andyogles.com/issues/",
+    "wb": "https://web.archive.org/web/20241105054606/https://andyogles.com/issues/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "q": "final passage",
+     "date": "2026-05-21",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll190.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Burgess Owens",
+   "bioguide": "O000086",
+   "party": "R",
+   "chamber": "House",
+   "state": "UT",
+   "id": "R7-025",
+   "issue": "Guns",
+   "kind": "Pledge",
+   "quote": "As your Representative, I have a proven record upholding your second amendment rights, and I promise to defend them as long as I am in Congress.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Veterans 2nd Amendment Protection Act stops the VA from reporting veterans who have a financial fiduciary to the gun background check system (NICS) unless a judge finds them dangerous. Supporters call it due process for veterans; opponents say it weakens background checks.",
+   "src": {
+    "orig": "https://burgess4utah.com/issues/2nd-amendment/",
+    "wb": "https://web.archive.org/web/20241105190119/https://burgess4utah.com/issues/2nd-amendment/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "q": "final passage",
+     "date": "2026-05-21",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll190.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Scott Perry",
+   "bioguide": "P000605",
+   "party": "R",
+   "chamber": "House",
+   "state": "PA",
+   "id": "R7-026",
+   "issue": "Guns",
+   "kind": "Pledge",
+   "quote": "Scott Perry remains a staunch advocate of our Constitution’s Second Amendment, and the rights of all Americans to protect themselves and their families.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Veterans 2nd Amendment Protection Act stops the VA from reporting veterans who have a financial fiduciary to the gun background check system (NICS) unless a judge finds them dangerous. Supporters call it due process for veterans; opponents say it weakens background checks.",
+   "src": {
+    "orig": "https://patriotsforperry.com/",
+    "wb": "https://web.archive.org/web/20241105145627/https://patriotsforperry.com/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "q": "final passage",
+     "date": "2026-05-21",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll190.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Jefferson Shreve",
+   "bioguide": "S001229",
+   "party": "R",
+   "chamber": "House",
+   "state": "IN",
+   "id": "R7-027",
+   "issue": "Guns",
+   "kind": "Pledge",
+   "quote": "I will support the 2nd Amendment in Congress and advocate for policies that promote responsible gun ownership.",
+   "status": "not yet tested",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Veterans 2nd Amendment Protection Act stops the VA from reporting veterans who have a financial fiduciary to the gun background check system (NICS) unless a judge finds them dangerous. Supporters call it due process for veterans; opponents say it weakens background checks.",
+   "src": {
+    "orig": "https://www.shreveforcongress.com/issues/",
+    "wb": "https://web.archive.org/web/20241105192831/https://www.shreveforcongress.com/issues/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "q": "final passage",
+     "date": "2026-05-21",
+     "pos": "Not Voting",
+     "role": "scored",
+     "out": "not counted",
+     "src": "https://clerk.house.gov/evs/2026/roll190.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Victoria Spartz",
+   "bioguide": "S000929",
+   "party": "R",
+   "chamber": "House",
+   "state": "IN",
+   "id": "R7-028",
+   "issue": "Guns",
+   "kind": "Pledge",
+   "quote": "We must preserve our 2nd Amendment freedoms against the tyranny of the government, and protect the sanctity of all human life.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Veterans 2nd Amendment Protection Act stops the VA from reporting veterans who have a financial fiduciary to the gun background check system (NICS) unless a judge finds them dangerous. Supporters call it due process for veterans; opponents say it weakens background checks.",
+   "src": {
+    "orig": "https://www.spartzforcongress.com/issues/",
+    "wb": "https://web.archive.org/web/20241105170108/https://www.spartzforcongress.com/issues/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "q": "final passage",
+     "date": "2026-05-21",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll190.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Bryan Steil",
+   "bioguide": "S001213",
+   "party": "R",
+   "chamber": "House",
+   "state": "WI",
+   "id": "R7-029",
+   "issue": "Guns",
+   "kind": "Pledge",
+   "quote": "I will defend law abiding citizens’ Second Amendment rights.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Veterans 2nd Amendment Protection Act stops the VA from reporting veterans who have a financial fiduciary to the gun background check system (NICS) unless a judge finds them dangerous. Supporters call it due process for veterans; opponents say it weakens background checks.",
+   "src": {
+    "orig": "https://steilforwisconsin.com/issues/",
+    "wb": "https://web.archive.org/web/20241015055957/https://steilforwisconsin.com/issues/",
+    "date": "Oct 15, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "q": "final passage",
+     "date": "2026-05-21",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll190.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Andy Biggs",
+   "bioguide": "B001302",
+   "party": "R",
+   "chamber": "House",
+   "state": "AZ",
+   "id": "R7-030",
+   "issue": "Guns",
+   "kind": "Pledge",
+   "quote": "As a Member of Congress, I took an oath to support and defend the Constitution and the Second Amendment is pretty clear to me.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Veterans 2nd Amendment Protection Act stops the VA from reporting veterans who have a financial fiduciary to the gun background check system (NICS) unless a judge finds them dangerous. Supporters call it due process for veterans; opponents say it weakens background checks.",
+   "src": {
+    "orig": "https://biggsforcongress.com/issues/",
+    "wb": "https://web.archive.org/web/20241105081444/https://biggsforcongress.com/issues/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "q": "final passage",
+     "date": "2026-05-21",
+     "pos": "Yea",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll190.xml",
+     "keep": "Yea"
+    }
+   ]
+  },
+  {
+   "member": "Robert Garcia",
+   "bioguide": "G000598",
+   "party": "D",
+   "chamber": "House",
+   "state": "CA",
+   "id": "R7-031",
+   "issue": "Guns",
+   "kind": "Pledge",
+   "quote": "I will work to implement universal background checks and a ban on AR-15 assault weapons.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Veterans 2nd Amendment Protection Act stops the VA from reporting veterans who have a financial fiduciary to the gun background check system (NICS) unless a judge finds them dangerous. Supporters call it due process for veterans; opponents say it weakens background checks.",
+   "src": {
+    "orig": "https://robertgarcia.com/what-im-fighting-for/",
+    "wb": "https://web.archive.org/web/20241105044727/https://robertgarcia.com/what-im-fighting-for/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "q": "final passage",
+     "date": "2026-05-21",
+     "pos": "Nay",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll190.xml",
+     "keep": "Nay"
+    }
+   ]
+  },
+  {
+   "member": "Laura Gillen",
+   "bioguide": "G000602",
+   "party": "D",
+   "chamber": "House",
+   "state": "NY",
+   "id": "R7-032",
+   "issue": "Guns",
+   "kind": "Pledge",
+   "quote": "I will support universal background checks to ensure guns aren’t in the hands of dangerous individuals and an assault weapons ban to help prevent the next Buffalo or Parkland shooting.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Veterans 2nd Amendment Protection Act stops the VA from reporting veterans who have a financial fiduciary to the gun background check system (NICS) unless a judge finds them dangerous. Supporters call it due process for veterans; opponents say it weakens background checks.",
+   "src": {
+    "orig": "https://lauragillen.com/issues/",
+    "wb": "https://web.archive.org/web/20241105204556/https://lauragillen.com/issues/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "q": "final passage",
+     "date": "2026-05-21",
+     "pos": "Nay",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll190.xml",
+     "keep": "Nay"
+    }
+   ]
+  },
+  {
+   "member": "Greg Landsman",
+   "bioguide": "L000601",
+   "party": "D",
+   "chamber": "House",
+   "state": "OH",
+   "id": "R7-033",
+   "issue": "Guns",
+   "kind": "Pledge",
+   "quote": "In Congress, Greg will fight for universal background checks, red flag laws, age restrictions, and to ban assault weapons.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Veterans 2nd Amendment Protection Act stops the VA from reporting veterans who have a financial fiduciary to the gun background check system (NICS) unless a judge finds them dangerous. Supporters call it due process for veterans; opponents say it weakens background checks.",
+   "src": {
+    "orig": "https://www.landsmanforcongress.com/the-issues-1",
+    "wb": "https://web.archive.org/web/20241105125622/https://www.landsmanforcongress.com/the-issues-1",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "q": "final passage",
+     "date": "2026-05-21",
+     "pos": "Nay",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll190.xml",
+     "keep": "Nay"
+    }
+   ]
+  },
+  {
+   "member": "Sarah McBride",
+   "bioguide": "M001238",
+   "party": "D",
+   "chamber": "House",
+   "state": "DE",
+   "id": "R7-034",
+   "issue": "Guns",
+   "kind": "Pledge",
+   "quote": "When elected to Congress, I will vote to strengthen background checks, ban assault weapons, and institute safeguards to prevent dangerous individuals from getting guns.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Veterans 2nd Amendment Protection Act stops the VA from reporting veterans who have a financial fiduciary to the gun background check system (NICS) unless a judge finds them dangerous. Supporters call it due process for veterans; opponents say it weakens background checks.",
+   "src": {
+    "orig": "https://www.sarahmcbride.com/priorities",
+    "wb": "https://web.archive.org/web/20241105043249/https://www.sarahmcbride.com/priorities",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "q": "final passage",
+     "date": "2026-05-21",
+     "pos": "Nay",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll190.xml",
+     "keep": "Nay"
+    }
+   ]
+  },
+  {
+   "member": "Dave Min",
+   "bioguide": "M001241",
+   "party": "D",
+   "chamber": "House",
+   "state": "CA",
+   "id": "R7-035",
+   "issue": "Guns",
+   "kind": "Pledge",
+   "quote": "In Congress, I will support the renewal of the assault weapons ban, and expanded background checks and red flag laws.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Veterans 2nd Amendment Protection Act stops the VA from reporting veterans who have a financial fiduciary to the gun background check system (NICS) unless a judge finds them dangerous. Supporters call it due process for veterans; opponents say it weakens background checks.",
+   "src": {
+    "orig": "https://davemin.com/issues",
+    "wb": "https://web.archive.org/web/20241105115821/https://davemin.com/issues",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "q": "final passage",
+     "date": "2026-05-21",
+     "pos": "Nay",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll190.xml",
+     "keep": "Nay"
+    }
+   ]
+  },
+  {
+   "member": "Jared Moskowitz",
+   "bioguide": "M001217",
+   "party": "D",
+   "chamber": "House",
+   "state": "FL",
+   "id": "R7-036",
+   "issue": "Guns",
+   "kind": "Pledge",
+   "quote": "Our communities will be safer when we improve background checks, ban assault weapons, and prevent dangerous people from accessing firearms.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Veterans 2nd Amendment Protection Act stops the VA from reporting veterans who have a financial fiduciary to the gun background check system (NICS) unless a judge finds them dangerous. Supporters call it due process for veterans; opponents say it weakens background checks.",
+   "src": {
+    "orig": "https://jaredforflorida.com/",
+    "wb": "https://web.archive.org/web/20241105141533/https://jaredforflorida.com/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "q": "final passage",
+     "date": "2026-05-21",
+     "pos": "Nay",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll190.xml",
+     "keep": "Nay"
+    }
+   ]
+  },
+  {
+   "member": "Derek Tran",
+   "bioguide": "T000491",
+   "party": "D",
+   "chamber": "House",
+   "state": "CA",
+   "id": "R7-037",
+   "issue": "Guns",
+   "kind": "Pledge",
+   "quote": "He will take on the NRA by fighting for common sense gun safety laws like universal background checks and a ban on assault weapons.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Veterans 2nd Amendment Protection Act stops the VA from reporting veterans who have a financial fiduciary to the gun background check system (NICS) unless a judge finds them dangerous. Supporters call it due process for veterans; opponents say it weakens background checks.",
+   "src": {
+    "orig": "https://www.derektranforcongress.com/",
+    "wb": "https://web.archive.org/web/20241105185436/https://www.derektranforcongress.com/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "q": "final passage",
+     "date": "2026-05-21",
+     "pos": "Nay",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll190.xml",
+     "keep": "Nay"
+    }
+   ]
+  },
+  {
+   "member": "April McClain Delaney",
+   "bioguide": "M001232",
+   "party": "D",
+   "chamber": "House",
+   "state": "MD",
+   "id": "R7-038",
+   "issue": "Guns",
+   "kind": "Pledge",
+   "quote": "April supports universal background checks and limitations on assault weapons.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Veterans 2nd Amendment Protection Act stops the VA from reporting veterans who have a financial fiduciary to the gun background check system (NICS) unless a judge finds them dangerous. Supporters call it due process for veterans; opponents say it weakens background checks.",
+   "src": {
+    "orig": "https://www.aprilmcclaindelaneyforcongress.com/on-the-issues/doing-more-to-stop-gun-violence/",
+    "wb": "https://web.archive.org/web/20241105034810/https://www.aprilmcclaindelaneyforcongress.com/on-the-issues/doing-more-to-stop-gun-violence/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "q": "final passage",
+     "date": "2026-05-21",
+     "pos": "Nay",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll190.xml",
+     "keep": "Nay"
+    }
+   ]
+  },
+  {
+   "member": "Andrea Salinas",
+   "bioguide": "S001226",
+   "party": "D",
+   "chamber": "House",
+   "state": "OR",
+   "id": "R7-039",
+   "issue": "Guns",
+   "kind": "Pledge",
+   "quote": "In Congress, she sponsored legislation to regulate assault weapons and will continue to fight to pass commonsense gun legislation such as strengthening background checks and red flag laws, restricting stalkers and domestic abusers from owning weapons, and holding the gun lobby accountable.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Veterans 2nd Amendment Protection Act stops the VA from reporting veterans who have a financial fiduciary to the gun background check system (NICS) unless a judge finds them dangerous. Supporters call it due process for veterans; opponents say it weakens background checks.",
+   "src": {
+    "orig": "https://www.andreasalinasfororegon.com/issues/",
+    "wb": "https://web.archive.org/web/20241105083453/https://www.andreasalinasfororegon.com/issues/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "q": "final passage",
+     "date": "2026-05-21",
+     "pos": "Nay",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll190.xml",
+     "keep": "Nay"
+    }
+   ]
+  },
+  {
+   "member": "Adam Smith",
+   "bioguide": "S000510",
+   "party": "D",
+   "chamber": "House",
+   "state": "WA",
+   "id": "R7-040",
+   "issue": "Guns",
+   "kind": "Pledge",
+   "quote": "We must enact universal background checks for all firearms and ban assault-style weapons and high-capacity magazines.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Veterans 2nd Amendment Protection Act stops the VA from reporting veterans who have a financial fiduciary to the gun background check system (NICS) unless a judge finds them dangerous. Supporters call it due process for veterans; opponents say it weakens background checks.",
+   "src": {
+    "orig": "https://electadamsmith.com/issues/gun-violence/",
+    "wb": "https://web.archive.org/web/20241105000402/https://electadamsmith.com/issues/gun-violence/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "q": "final passage",
+     "date": "2026-05-21",
+     "pos": "Nay",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll190.xml",
+     "keep": "Nay"
+    }
+   ]
+  },
+  {
+   "member": "Raja Krishnamoorthi",
+   "bioguide": "K000391",
+   "party": "D",
+   "chamber": "House",
+   "state": "IL",
+   "id": "R7-041",
+   "issue": "Guns",
+   "kind": "Pledge",
+   "quote": "He supports closing the “gun-show loophole” by extending background checks for gun purchases at gun shows; reinstating the expired federal ban on the sale of assault weapons; and improving the reporting system to help keep guns […]",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Veterans 2nd Amendment Protection Act stops the VA from reporting veterans who have a financial fiduciary to the gun background check system (NICS) unless a judge finds them dangerous. Supporters call it due process for veterans; opponents say it weakens background checks.",
+   "src": {
+    "orig": "https://rajaforcongress.com/issue/",
+    "wb": "https://web.archive.org/web/20241105121617/https://rajaforcongress.com/issue/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "q": "final passage",
+     "date": "2026-05-21",
+     "pos": "Nay",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll190.xml",
+     "keep": "Nay"
+    }
+   ]
+  },
+  {
+   "member": "Sarah Elfreth",
+   "bioguide": "E000301",
+   "party": "D",
+   "chamber": "House",
+   "state": "MD",
+   "id": "R7-042",
+   "issue": "Guns",
+   "kind": "Pledge",
+   "quote": "On Capitol Hill, she will fight to ban assault weapons, expand background checks, and crack down on illegal firearms in our communities.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Veterans 2nd Amendment Protection Act stops the VA from reporting veterans who have a financial fiduciary to the gun background check system (NICS) unless a judge finds them dangerous. Supporters call it due process for veterans; opponents say it weakens background checks.",
+   "src": {
+    "orig": "https://elfrethformaryland.com/issues/",
+    "wb": "https://web.archive.org/web/20241105163939/https://elfrethformaryland.com/issues/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "q": "final passage",
+     "date": "2026-05-21",
+     "pos": "Nay",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2026/roll190.xml",
+     "keep": "Nay"
+    }
+   ]
+  },
+  {
+   "member": "April McClain Delaney",
+   "bioguide": "M001232",
+   "party": "D",
+   "chamber": "House",
+   "state": "MD",
+   "id": "R7-043",
+   "issue": "Gender",
+   "kind": "Pledge",
+   "quote": "April will be an advocate against initiatives to end marriage equality or ban gender-affirming care.",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Do No Harm in Medicaid Act bars Medicaid and CHIP from paying for gender transition procedures for minors.",
+   "src": {
+    "orig": "https://www.aprilmcclaindelaneyforcongress.com/on-the-issues/defending-lgbtqia-rights/",
+    "wb": "https://web.archive.org/web/20241105034823/https://www.aprilmcclaindelaneyforcongress.com/on-the-issues/defending-lgbtqia-rights/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Do No Harm in Medicaid Act",
+     "q": "final passage",
+     "date": "2025-12-18",
+     "pos": "Nay",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll362.xml",
+     "keep": "Nay"
+    }
+   ]
+  },
+  {
+   "member": "Ilhan Omar",
+   "bioguide": "O000173",
+   "party": "D",
+   "chamber": "House",
+   "state": "MN",
+   "id": "R7-044",
+   "issue": "Gender",
+   "kind": "Pledge",
+   "quote": "Protect access to gender-affirming medical care",
+   "status": "aligned",
+   "decision": "Approve",
+   "reason": "Vote directly tests the commitment.",
+   "note": "The Do No Harm in Medicaid Act bars Medicaid and CHIP from paying for gender transition procedures for minors.",
+   "src": {
+    "orig": "https://ilhanomar.com/issue/equality/",
+    "wb": "https://web.archive.org/web/20241105072425/https://ilhanomar.com/issue/equality/",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Do No Harm in Medicaid Act",
+     "q": "final passage",
+     "date": "2025-12-18",
+     "pos": "Nay",
+     "role": "scored",
+     "out": "aligned",
+     "src": "https://clerk.house.gov/evs/2025/roll362.xml",
+     "keep": "Nay"
+    }
+   ]
+  },
+  {
+   "member": "Dave Min",
+   "bioguide": "M001241",
+   "party": "D",
+   "chamber": "House",
+   "state": "CA",
+   "id": "R7-045",
+   "issue": "Stock trading",
+   "kind": "Pledge",
+   "quote": "When I’m elected to Congress, I’ll continue fighting for democracy and what’s right, including supporting legislation to end stock trading by members of Congress and bolstering voting rights.",
+   "status": "shown, not scored",
+   "decision": "Edit",
+   "reason": "Related vote, not scored: show the vote on the member's page with this note, but don't count it as kept or broken. The Stop Insider Trading Act was a partial ban (no new stock purchases) bundled with a voter ID requirement, so a vote against it does not clearly break a promise to end congressional stock trading.",
+   "note": "The Stop Insider Trading Act bars members of Congress, spouses and dependent children from buying individual stocks, and adds a voter ID requirement.",
+   "src": {
+    "orig": "https://davemin.com/issues",
+    "wb": "https://web.archive.org/web/20241105115821/https://davemin.com/issues",
+    "date": "Nov 5, 2024",
+    "via": null
+   },
+   "votes": [
+    {
+     "bill": "Stop Insider Trading Act",
+     "q": "final passage",
+     "date": "2026-07-22",
+     "pos": "Nay",
+     "role": "related",
+     "out": "related",
+     "src": "https://clerk.house.gov/evs/2026/roll280.xml"
     }
    ]
   }

@@ -1,0 +1,47 @@
+{
+ "member": "jr-pa",
+ "pages": 1,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Taxes",
+    "Federal spending"
+   ],
+   "sentence": "We need to stop the reckless spending, get inflation under control, and cut taxes so you can keep more of the money you earn for your family.",
+   "page": "https://robforpa.com/",
+   "file": "archive/2024/jr-pa/home.html",
+   "snapshot": "20241105225656"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "I will always fight to protect Social Security & Medicare for future generations.",
+   "page": "https://robforpa.com/",
+   "file": "archive/2024/jr-pa/home.html",
+   "snapshot": "20241105225656"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Fentanyl"
+   ],
+   "sentence": "I will always stand with law enforcement and ensure they have the resources to combat the fentanyl crisis and keep our community safe.",
+   "page": "https://robforpa.com/",
+   "file": "archive/2024/jr-pa/home.html",
+   "snapshot": "20241105225656"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "We must secure the border, build the wall, and reverse the Biden/Harris failed policies to stop the flow of illegal drugs and criminals into our communities.",
+   "page": "https://robforpa.com/",
+   "file": "archive/2024/jr-pa/home.html",
+   "snapshot": "20241105225656"
+  }
+ ]
+}

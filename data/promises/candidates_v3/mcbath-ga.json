@@ -1,0 +1,26 @@
+{
+ "member": "mcbath-ga",
+ "pages": 4,
+ "candidates": [
+  {
+   "score": 5,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "After losing her son, yet seeing no actions from elected leaders, Lucy decided she would dedicate the rest of her life to fighting for gun safety.",
+   "page": "https://lucyforcongress.com/issues/",
+   "file": "archive/2024/mcbath-ga/issues.html",
+   "snapshot": "20241105100656"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Health care"
+   ],
+   "sentence": "She supports proposals making it easier for more Georgians to get covered and to expand upon the Affordable Care Act (ACA).",
+   "page": "https://lucyforcongress.com/issues/",
+   "file": "archive/2024/mcbath-ga/issues.html",
+   "snapshot": "20241105100656"
+  }
+ ]
+}

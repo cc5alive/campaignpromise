@@ -1,0 +1,88 @@
+{
+ "member": "donalds-fl",
+ "pages": 5,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Immigration",
+    "Taxes"
+   ],
+   "sentence": "He has a proven record of banning sanctuary cities, fighting for taxpayers, and defending our constitutional rights.",
+   "page": "https://www.byrondonalds.com/",
+   "file": "archive/2024/donalds-fl/home.html",
+   "snapshot": "20241104090952"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "With my colleagues in Congress, I will work to bring an end to endless wars that cost taxpayers billions, and the ultimate sacrifice of our men and women in uniform.",
+   "page": "https://www.byrondonalds.com/foreign_policy",
+   "file": "archive/2024/donalds-fl/foreign-policy.html",
+   "snapshot": "20241104075345"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Ukraine"
+   ],
+   "sentence": "In Congress, I will stand strong against China and Russia as they attempt to expand their sphere of influence, and communism, on the world.",
+   "page": "https://www.byrondonalds.com/foreign_policy",
+   "file": "archive/2024/donalds-fl/foreign-policy.html",
+   "snapshot": "20241104075345"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Immigration",
+    "Guns"
+   ],
+   "sentence": "Byron is also a staunch advocate for the Second Amendment, School Choice, Fiscal Sanity, Secure Borders, Law and Order, and a Limited Federal Government.",
+   "page": "https://www.byrondonalds.com/about",
+   "file": "archive/2024/donalds-fl/about.html",
+   "snapshot": "20241104090017"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "As a nation, we must bring an end to endless wars that cost taxpayers millions, and the ultimate sacrifice of our men and women in uniform.",
+   "page": "https://www.byrondonalds.com/federal_policy",
+   "file": "archive/2024/donalds-fl/federal-policy.html",
+   "snapshot": "20241104091337"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "In order to compete with emerging foreign economies, our federal government must create tax policy that allows American companies to compete freely and fairly with their foreign counterparts, while only regulating when absolutely necessary.",
+   "page": "https://www.byrondonalds.com/federal_policy",
+   "file": "archive/2024/donalds-fl/federal-policy.html",
+   "snapshot": "20241104091337"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Ukraine"
+   ],
+   "sentence": "We must continue to stand strong against China and Russia as they attempt to expand their sphere of influence, and communism, on the world.",
+   "page": "https://www.byrondonalds.com/federal_policy",
+   "file": "archive/2024/donalds-fl/federal-policy.html",
+   "snapshot": "20241104091337"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "To maintain our status as the #1 economy in the world, the federal government must create tax policy that allows American companies to compete freely and fairly with their foreign counterparts, while only regulating when absolutely necessary.",
+   "page": "https://www.byrondonalds.com/foreign_policy",
+   "file": "archive/2024/donalds-fl/foreign-policy.html",
+   "snapshot": "20241104075345"
+  }
+ ]
+}

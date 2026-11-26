@@ -1,0 +1,1491 @@
+{
+ "round": "round7",
+ "promises": [
+  {
+   "id": "ROUND7-001",
+   "member": "landsman-oh",
+   "name": "Greg Landsman",
+   "party": "D",
+   "chamber": "House",
+   "state": "OH",
+   "quote": "In Congress, Greg will continue to advocate for support for Ukraine to fight back against Putin’s unjust and horrific war, preserve democracy, and avoid a larger-scale war in Eastern Europe.",
+   "kind": "Stated position",
+   "issue": "Ukraine",
+   "source": {
+    "original": "https://www.landsmanforcongress.com/the-issues-1",
+    "snapshot": "20241105125622",
+    "wayback": "https://web.archive.org/web/20241105125622/https://www.landsmanforcongress.com/the-issues-1",
+    "file": "archive/2024/landsman-oh/the-issues-1.html",
+    "sha256_html": "8b4a640ab11e695cbb0dad01bbe7be1c03ad2a796b8401bc577addf668130b19"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-207",
+     "bill": "Ukraine Support Act",
+     "question": "final passage",
+     "date": "2026-06-04",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2026/roll207.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-002",
+   "member": "morrison-mn",
+   "name": "Kelly Morrison",
+   "party": "D",
+   "chamber": "House",
+   "state": "MN",
+   "quote": "Kelly believes we must support Ukraine in its fight for their democracy and stand up to Russian aggression.",
+   "kind": "Stated position",
+   "issue": "Ukraine",
+   "source": {
+    "original": "https://www.kellyforcongress.org/priorities",
+    "snapshot": "20241105132209",
+    "wayback": "https://web.archive.org/web/20241105132209/https://www.kellyforcongress.org/priorities",
+    "file": "archive/2024/morrison-mn/priorities.html",
+    "sha256_html": "39a651829b0918455c674f05f011fd0314944d4d8bd47ea37ac6730a9a53d977"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-207",
+     "bill": "Ukraine Support Act",
+     "question": "final passage",
+     "date": "2026-06-04",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2026/roll207.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-003",
+   "member": "mcclaindelaney-md",
+   "name": "April McClain Delaney",
+   "party": "D",
+   "chamber": "House",
+   "state": "MD",
+   "quote": "In Congress, April will support legislation that protects our commitment to our allies in Ukraine and Israel as they defend themselves against tyranny and terrorism, while also providing much-needed humanitarian assistance to civilians affected by conflicts of war.",
+   "kind": "Stated position",
+   "issue": "Ukraine",
+   "source": {
+    "original": "https://www.aprilmcclaindelaneyforcongress.com/on-the-issues/immigration/",
+    "snapshot": "20241105034822",
+    "wayback": "https://web.archive.org/web/20241105034822/https://www.aprilmcclaindelaneyforcongress.com/on-the-issues/immigration/",
+    "file": "archive/2024/mcclaindelaney-md/on-the-issues-immigration.html",
+    "sha256_html": "957459a3f0374271a8e2d45e50d3921421aba9e58a842ca46845fdf34f8a7546"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-207",
+     "bill": "Ukraine Support Act",
+     "question": "final passage",
+     "date": "2026-06-04",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2026/roll207.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-004",
+   "member": "kennedy-ny",
+   "name": "Timothy M. Kennedy",
+   "party": "D",
+   "chamber": "House",
+   "state": "NY",
+   "quote": "He will also fight to defend democracy and democratic values abroad, including supporting our allies in Ukraine and across the globe.",
+   "kind": "Stated position",
+   "issue": "Ukraine",
+   "source": {
+    "original": "https://kennedyforuscongress.com/issues/",
+    "snapshot": "20241105210953",
+    "wayback": "https://web.archive.org/web/20241105210953/https://kennedyforuscongress.com/issues/",
+    "file": "archive/2024/kennedy-ny/issues.html",
+    "sha256_html": "8181a9b3df5b147f6788478e74bebcd7878ba804eb45ac6f79d8089df3556884"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-207",
+     "bill": "Ukraine Support Act",
+     "question": "final passage",
+     "date": "2026-06-04",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2026/roll207.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-005",
+   "member": "fletcher-tx",
+   "name": "Lizzie Fletcher",
+   "party": "D",
+   "chamber": "House",
+   "state": "TX",
+   "quote": "I have and will continue to support sanctions against Russia for its unprovoked, unjustified, and unconscionable war against Ukraine.",
+   "kind": "Stated position",
+   "issue": "Ukraine",
+   "source": {
+    "original": "https://www.lizziefletcher.com/national-security-foreign-policy/",
+    "snapshot": "20241105160238",
+    "wayback": "https://web.archive.org/web/20241105160238/https://www.lizziefletcher.com/national-security-foreign-policy/",
+    "file": "archive/2024/fletcher-tx/national-security-foreign-policy.html",
+    "sha256_html": "40f8c81dd5a59098607a270e13c63b46f10816ae1609a3f2602ed884385731a0"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-207",
+     "bill": "Ukraine Support Act",
+     "question": "final passage",
+     "date": "2026-06-04",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2026/roll207.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-006",
+   "member": "craig-mn",
+   "name": "Angie Craig",
+   "party": "D",
+   "chamber": "House",
+   "state": "MN",
+   "quote": "I unequivocally condemned Vladimir Putin’s actions in Ukraine and will continue to support all efforts — economic, humanitarian and military — to stop this unprovoked violence and needless human suffering.",
+   "kind": "Stated position",
+   "issue": "Ukraine",
+   "source": {
+    "original": "https://angiecraig.com/issue/national-security/",
+    "snapshot": "20241105201058",
+    "wayback": "https://web.archive.org/web/20241105201058/https://angiecraig.com/issue/national-security/",
+    "file": "archive/2024/craig-mn/issue-national-security.html",
+    "sha256_html": "58f2411c67c4a6c594070d99688412026e27ed70fa1fc46c763d79c9560f0399"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-207",
+     "bill": "Ukraine Support Act",
+     "question": "final passage",
+     "date": "2026-06-04",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2026/roll207.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-007",
+   "member": "omar-mn",
+   "name": "Ilhan Omar",
+   "party": "D",
+   "chamber": "House",
+   "state": "MN",
+   "quote": "I believe in the essential right of Ukraine to defend itself in this war, and in the moral obligation of the United States to support that defense.",
+   "kind": "Stated position",
+   "issue": "Ukraine",
+   "source": {
+    "original": "https://ilhanomar.com/my-record/",
+    "snapshot": "20241105072816",
+    "wayback": "https://web.archive.org/web/20241105072816/https://ilhanomar.com/my-record/",
+    "file": "archive/2024/omar-mn/my-record.html",
+    "sha256_html": "bdeaa8c698db7019a61f038d8364e1e672d6bd327e69282205ba3b9ecd3667cb"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-207",
+     "bill": "Ukraine Support Act",
+     "question": "final passage",
+     "date": "2026-06-04",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2026/roll207.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-008",
+   "member": "hunt-tx",
+   "name": "Wesley Hunt",
+   "party": "R",
+   "chamber": "House",
+   "state": "TX",
+   "quote": "I’ll support Voter ID and other measures to make sure all legal registered voters can have faith that their vote is counted.",
+   "kind": "Pledge",
+   "issue": "Elections",
+   "source": {
+    "original": "https://wesleyfortexas.com/wesley-on-the-issues/",
+    "snapshot": "20241105145348",
+    "wayback": "https://web.archive.org/web/20241105145348/https://wesleyfortexas.com/wesley-on-the-issues/",
+    "file": "archive/2024/hunt-tx/wesley-on-the-issues.html",
+    "sha256_html": "9d375a63104370d91b6255423f3bea996dfe10d8e62e813a21b9b7eb9f5d6887"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-102",
+     "bill": "SAVE Act (proof of citizenship to register to vote)",
+     "question": "final passage",
+     "date": "2025-04-10",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll102.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-009",
+   "member": "kiggans-va",
+   "name": "Jennifer A. Kiggans",
+   "party": "R",
+   "chamber": "House",
+   "state": "VA",
+   "quote": "Jen will continue to lead the fight for election reforms in Congress by fighting to stop voting irregularities, maintain a photo ID requirement, prevent ballot harvesting, and ensure all state election officials — not just in battleground states — can keep our process secure and transparent.",
+   "kind": "Pledge",
+   "issue": "Elections",
+   "source": {
+    "original": "https://jenforcongress.com/issues/",
+    "snapshot": "20241105201933",
+    "wayback": "https://web.archive.org/web/20241105201933/https://jenforcongress.com/issues/",
+    "file": "archive/2024/kiggans-va/issues.html",
+    "sha256_html": "ad30cfc70a4ad43513063411cad598aee11b9561f01858c8ec50b3104b93c8a3"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-102",
+     "bill": "SAVE Act (proof of citizenship to register to vote)",
+     "question": "final passage",
+     "date": "2025-04-10",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2025/roll102.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-010",
+   "member": "subramanyam-va",
+   "name": "Suhas Subramanyam",
+   "party": "D",
+   "chamber": "House",
+   "state": "VA",
+   "quote": "He will continue to fight against restrictive voter ID laws that are designed to suppress the vote, protect early voting to ensure greater access to the polls, and combat political gerrymandering so that voters choose who represents them, not the other way around.",
+   "kind": "Pledge",
+   "issue": "Elections",
+   "source": {
+    "original": "https://www.suhasforvirginia.com/issues",
+    "snapshot": "20241105175442",
+    "wayback": "https://web.archive.org/web/20241105175442/https://www.suhasforvirginia.com/issues",
+    "file": "archive/2024/subramanyam-va/issues.html",
+    "sha256_html": "ea8407f8072b4517cc5a033fd8969d0f6f3a672cb63d8d5764f6ab4a0fb200b1"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-102",
+     "bill": "SAVE Act (proof of citizenship to register to vote)",
+     "question": "final passage",
+     "date": "2025-04-10",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll102.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-011",
+   "member": "lee-pa",
+   "name": "Summer L. Lee",
+   "party": "D",
+   "chamber": "House",
+   "state": "PA",
+   "quote": "It also includes working to end racist voter ID and suppression laws, restoring the full power of the Voting Rights Act, and ending gerrymandering.",
+   "kind": "Pledge",
+   "issue": "Elections",
+   "source": {
+    "original": "https://summerforpa.com/issues/",
+    "snapshot": "20241105132031",
+    "wayback": "https://web.archive.org/web/20241105132031/https://summerforpa.com/issues/",
+    "file": "archive/2024/lee-pa/issues.html",
+    "sha256_html": "440ec7a82d0183a7c9ef33e7e7ac0141a2111837189f37528c8df1d7f37e32b1"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-102",
+     "bill": "SAVE Act (proof of citizenship to register to vote)",
+     "question": "final passage",
+     "date": "2025-04-10",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll102.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-012",
+   "member": "brecheen-ok",
+   "name": "Josh Brecheen",
+   "party": "R",
+   "chamber": "House",
+   "state": "OK",
+   "quote": "I strongly support our second amendment rights to bear arms.",
+   "kind": "Pledge",
+   "issue": "Guns",
+   "source": {
+    "original": "https://joshbrecheen.com/issues/",
+    "snapshot": "20241105051741",
+    "wayback": "https://web.archive.org/web/20241105051741/https://joshbrecheen.com/issues/",
+    "file": "archive/2024/brecheen-ok/issues.html",
+    "sha256_html": "8649b796f6de22917d681e258710700a3c77bada2a976ec1c27edb5c16554f6c"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-190",
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "question": "final passage",
+     "date": "2026-05-21",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2026/roll190.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-013",
+   "member": "burchett-tn",
+   "name": "Tim Burchett",
+   "party": "R",
+   "chamber": "House",
+   "state": "TN",
+   "quote": "As a lifetime NRA member, you can count on Tim to protect our Second Amendment rights.",
+   "kind": "Pledge",
+   "issue": "Guns",
+   "source": {
+    "original": "https://www.burchettforcongress.com/issue/guns/",
+    "snapshot": "20241105094614",
+    "wayback": "https://web.archive.org/web/20241105094614/https://www.burchettforcongress.com/issue/guns/",
+    "file": "archive/2024/burchett-tn/issue-guns.html",
+    "sha256_html": "bea0b82b43c57a3923aef960cb3e1610225b6bc78f9795c3a695ce6d4cadb73c"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-190",
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "question": "final passage",
+     "date": "2026-05-21",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2026/roll190.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-014",
+   "member": "clyde-ga",
+   "name": "Andrew S. Clyde",
+   "party": "R",
+   "chamber": "House",
+   "state": "GA",
+   "quote": "The Second Amendment of our Constitution is the teeth in “We the People”, and it must never be compromised by the government.",
+   "kind": "Pledge",
+   "issue": "Guns",
+   "source": {
+    "original": "https://www.clyde4congress.com/",
+    "snapshot": "20241105152844",
+    "wayback": "https://web.archive.org/web/20241105152844/https://www.clyde4congress.com/",
+    "file": "archive/2024/clyde-ga/home.html",
+    "sha256_html": "f6674270d0eaec5130d587116e422f5598cf02a18f6dd6d9b50d0347d892e4c1"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-190",
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "question": "final passage",
+     "date": "2026-05-21",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2026/roll190.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-015",
+   "member": "goldman-tx",
+   "name": "Craig A. Goldman",
+   "party": "R",
+   "chamber": "House",
+   "state": "TX",
+   "quote": "As a member of Congress, I will continue to fiercely protect your Second Amendment rights and freedoms.",
+   "kind": "Pledge",
+   "issue": "Guns",
+   "source": {
+    "original": "https://www.craiggoldman.org/issues/",
+    "snapshot": "20241105052223",
+    "wayback": "https://web.archive.org/web/20241105052223/https://www.craiggoldman.org/issues/",
+    "file": "archive/2024/goldman-tx/issues.html",
+    "sha256_html": "bae899ca0705fe5b3e4838bab509701fb675c1f8dea49532ccafacd320f18521"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-190",
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "question": "final passage",
+     "date": "2026-05-21",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2026/roll190.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-016",
+   "member": "hageman-wy",
+   "name": "Harriet M. Hageman",
+   "party": "R",
+   "chamber": "House",
+   "state": "WY",
+   "quote": "I will always fight to protect our Second Amendment, and will never back down to the tyranny of this Administration or any others who are attempting to infringe upon our Constitutional rights.",
+   "kind": "Pledge",
+   "issue": "Guns",
+   "source": {
+    "original": "https://www.hagemanforwyoming.com/issues",
+    "snapshot": "20241105192306",
+    "wayback": "https://web.archive.org/web/20241105192306/https://www.hagemanforwyoming.com/issues",
+    "file": "archive/2024/hageman-wy/issues.html",
+    "sha256_html": "a7139b7f230e7dd147d385190d097bd2762496b2e37a1e62326099c293e80932"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-190",
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "question": "final passage",
+     "date": "2026-05-21",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2026/roll190.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-017",
+   "member": "hamadeh-az",
+   "name": "Abraham J. Hamadeh",
+   "party": "R",
+   "chamber": "House",
+   "state": "AZ",
+   "quote": "I will unequivocally support your right to bear arms and protect the Second Amendment.",
+   "kind": "Pledge",
+   "issue": "Guns",
+   "source": {
+    "original": "https://www.abeforaz.com/our-issues",
+    "snapshot": "20241105202611",
+    "wayback": "https://web.archive.org/web/20241105202611/https://www.abeforaz.com/our-issues",
+    "file": "archive/2024/hamadeh-az/our-issues.html",
+    "sha256_html": "621a9a24ef6e871fa5d79b6aa8c9a9890d5e0302a100df98b8dc3c0c940f9cc2"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-190",
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "question": "final passage",
+     "date": "2026-05-21",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2026/roll190.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-018",
+   "member": "haridopolos-fl",
+   "name": "Mike Haridopolos",
+   "party": "R",
+   "chamber": "House",
+   "state": "FL",
+   "quote": "Mike will protect our right to bear arms in Congress.",
+   "kind": "Pledge",
+   "issue": "Guns",
+   "source": {
+    "original": "https://www.mike4congress.com/issues",
+    "snapshot": "20241105050759",
+    "wayback": "https://web.archive.org/web/20241105050759/https://www.mike4congress.com/issues",
+    "file": "archive/2024/haridopolos-fl/issues.html",
+    "sha256_html": "42604b2c2403e6a41e9b3c7ef8825c26f401971d4cae7ff0e30058365ac735bd"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-190",
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "question": "final passage",
+     "date": "2026-05-21",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2026/roll190.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-019",
+   "member": "hunt-tx",
+   "name": "Wesley Hunt",
+   "party": "R",
+   "chamber": "House",
+   "state": "TX",
+   "quote": "As a strong supporter of the 2nd Amendment and gun owner, I will support our right to defend ourselves and our families.",
+   "kind": "Pledge",
+   "issue": "Guns",
+   "source": {
+    "original": "https://wesleyfortexas.com/wesley-on-the-issues/",
+    "snapshot": "20241105145348",
+    "wayback": "https://web.archive.org/web/20241105145348/https://wesleyfortexas.com/wesley-on-the-issues/",
+    "file": "archive/2024/hunt-tx/wesley-on-the-issues.html",
+    "sha256_html": "9d375a63104370d91b6255423f3bea996dfe10d8e62e813a21b9b7eb9f5d6887"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-190",
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "question": "final passage",
+     "date": "2026-05-21",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2026/roll190.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-020",
+   "member": "kiggans-va",
+   "name": "Jennifer A. Kiggans",
+   "party": "R",
+   "chamber": "House",
+   "state": "VA",
+   "quote": "Jen is a staunch defender of the Second Amendment who never compromises our right to bear arms.",
+   "kind": "Pledge",
+   "issue": "Guns",
+   "source": {
+    "original": "https://jenforcongress.com/issues/",
+    "snapshot": "20241105201933",
+    "wayback": "https://web.archive.org/web/20241105201933/https://jenforcongress.com/issues/",
+    "file": "archive/2024/kiggans-va/issues.html",
+    "sha256_html": "ad30cfc70a4ad43513063411cad598aee11b9561f01858c8ec50b3104b93c8a3"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-190",
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "question": "final passage",
+     "date": "2026-05-21",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2026/roll190.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-021",
+   "member": "knott-nc",
+   "name": "Brad Knott",
+   "party": "R",
+   "chamber": "House",
+   "state": "NC",
+   "quote": "I will work to protect our right to keep and bear arms, as guaranteed by the Second Amendment.",
+   "kind": "Pledge",
+   "issue": "Guns",
+   "source": {
+    "original": "https://www.bradknottforcongress.com/",
+    "snapshot": "20241105071443",
+    "wayback": "https://web.archive.org/web/20241105071443/https://www.bradknottforcongress.com/",
+    "file": "archive/2024/knott-nc/home.html",
+    "sha256_html": "252eb6c2ce5386c831739e2afda2000e066284b317e45e333a74578fd551ed4e"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-190",
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "question": "final passage",
+     "date": "2026-05-21",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2026/roll190.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-022",
+   "member": "mcdowell-nc",
+   "name": "Addison P. McDowell",
+   "party": "R",
+   "chamber": "House",
+   "state": "NC",
+   "quote": "Addison will fight government overreach that aims to disrupt North Carolinians’ 2nd Amendment rights.",
+   "kind": "Pledge",
+   "issue": "Guns",
+   "source": {
+    "original": "https://www.mcdowellfornc.com/",
+    "snapshot": "20241105153439",
+    "wayback": "https://web.archive.org/web/20241105153439/https://www.mcdowellfornc.com/",
+    "file": "archive/2024/mcdowell-nc/home.html",
+    "sha256_html": "2641cba1f62c33246bf3612cc1fdc710d43773f8b41639ec46cbf7f45bdd162e"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-190",
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "question": "final passage",
+     "date": "2026-05-21",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2026/roll190.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-023",
+   "member": "nunn-ia",
+   "name": "Zachary Nunn",
+   "party": "R",
+   "chamber": "House",
+   "state": "IA",
+   "quote": "Zach put his life on the line to protect our First and Second Amendment Rights – he’s a firm believer in the right to free speech and the right to bear arms.",
+   "kind": "Pledge",
+   "issue": "Guns",
+   "source": {
+    "original": "https://zachnunn.com/issues/",
+    "snapshot": "20241105155958",
+    "wayback": "https://web.archive.org/web/20241105155958/https://zachnunn.com/issues/",
+    "file": "archive/2024/nunn-ia/issues.html",
+    "sha256_html": "9b24e25c4b6d9f126453a1286b5c7c66e0af3a8d1702c446278070ae435185ac"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-190",
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "question": "final passage",
+     "date": "2026-05-21",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2026/roll190.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-024",
+   "member": "ogles-tn",
+   "name": "Andrew Ogles",
+   "party": "R",
+   "chamber": "House",
+   "state": "TN",
+   "quote": "The Second Amendment is abundantly clear that “the right of the people to keep and bear Arms, shall not be infringed.” I will fight tirelessly to ensure that your constitutional rights are protected and never infringed upon.",
+   "kind": "Pledge",
+   "issue": "Guns",
+   "source": {
+    "original": "https://andyogles.com/issues/",
+    "snapshot": "20241105054606",
+    "wayback": "https://web.archive.org/web/20241105054606/https://andyogles.com/issues/",
+    "file": "archive/2024/ogles-tn/issues.html",
+    "sha256_html": "237396f75d714dc49a3cd89d3e3fb44c179c76005dc01a02ffe0598bab207d64"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-190",
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "question": "final passage",
+     "date": "2026-05-21",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2026/roll190.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-025",
+   "member": "owens-ut",
+   "name": "Burgess Owens",
+   "party": "R",
+   "chamber": "House",
+   "state": "UT",
+   "quote": "As your Representative, I have a proven record upholding your second amendment rights, and I promise to defend them as long as I am in Congress.",
+   "kind": "Pledge",
+   "issue": "Guns",
+   "source": {
+    "original": "https://burgess4utah.com/issues/2nd-amendment/",
+    "snapshot": "20241105190119",
+    "wayback": "https://web.archive.org/web/20241105190119/https://burgess4utah.com/issues/2nd-amendment/",
+    "file": "archive/2024/owens-ut/issues-2nd-amendment.html",
+    "sha256_html": "0f0ca67bade38a98d7284e1c8a8c1b1734bd50a0b8df1f2797762f7818a79f15"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-190",
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "question": "final passage",
+     "date": "2026-05-21",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2026/roll190.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-026",
+   "member": "perry-pa",
+   "name": "Scott Perry",
+   "party": "R",
+   "chamber": "House",
+   "state": "PA",
+   "quote": "Scott Perry remains a staunch advocate of our Constitution’s Second Amendment, and the rights of all Americans to protect themselves and their families.",
+   "kind": "Pledge",
+   "issue": "Guns",
+   "source": {
+    "original": "https://patriotsforperry.com/",
+    "snapshot": "20241105145627",
+    "wayback": "https://web.archive.org/web/20241105145627/https://patriotsforperry.com/",
+    "file": "archive/2024/perry-pa/home.html",
+    "sha256_html": "d8d1ceea91d48f4c98a6a47a68298507f64c0cfef5b4c1f43d9ba66905c43aeb"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-190",
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "question": "final passage",
+     "date": "2026-05-21",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2026/roll190.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-027",
+   "member": "shreve-in",
+   "name": "Jefferson Shreve",
+   "party": "R",
+   "chamber": "House",
+   "state": "IN",
+   "quote": "I will support the 2nd Amendment in Congress and advocate for policies that promote responsible gun ownership.",
+   "kind": "Pledge",
+   "issue": "Guns",
+   "source": {
+    "original": "https://www.shreveforcongress.com/issues/",
+    "snapshot": "20241105192831",
+    "wayback": "https://web.archive.org/web/20241105192831/https://www.shreveforcongress.com/issues/",
+    "file": "archive/2024/shreve-in/issues.html",
+    "sha256_html": "c2d29444a248296bef5c40be9ab5db0b03e19a3879e810911bcd477fd3d6a2fc"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-190",
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "question": "final passage",
+     "date": "2026-05-21",
+     "vote": "Not Voting",
+     "source": "https://clerk.house.gov/evs/2026/roll190.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-028",
+   "member": "spartz-in",
+   "name": "Victoria Spartz",
+   "party": "R",
+   "chamber": "House",
+   "state": "IN",
+   "quote": "We must preserve our 2nd Amendment freedoms against the tyranny of the government, and protect the sanctity of all human life.",
+   "kind": "Pledge",
+   "issue": "Guns",
+   "source": {
+    "original": "https://www.spartzforcongress.com/issues/",
+    "snapshot": "20241105170108",
+    "wayback": "https://web.archive.org/web/20241105170108/https://www.spartzforcongress.com/issues/",
+    "file": "archive/2024/spartz-in/issues.html",
+    "sha256_html": "70a26064455193167ec3c12223883ff91648359f485ffb5282381af7fe2a3db4"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-190",
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "question": "final passage",
+     "date": "2026-05-21",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2026/roll190.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-029",
+   "member": "steil-wi",
+   "name": "Bryan Steil",
+   "party": "R",
+   "chamber": "House",
+   "state": "WI",
+   "quote": "I will defend law abiding citizens’ Second Amendment rights.",
+   "kind": "Pledge",
+   "issue": "Guns",
+   "source": {
+    "original": "https://steilforwisconsin.com/issues/",
+    "snapshot": "20241015055957",
+    "wayback": "https://web.archive.org/web/20241015055957/https://steilforwisconsin.com/issues/",
+    "file": "archive/2024/steil-wi/issues.html",
+    "sha256_html": "233427bc79c3b291387e71aeeb82e76e5967f68857e51a25d63f2c497a9bf179"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-190",
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "question": "final passage",
+     "date": "2026-05-21",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2026/roll190.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-030",
+   "member": "biggs-az",
+   "name": "Andy Biggs",
+   "party": "R",
+   "chamber": "House",
+   "state": "AZ",
+   "quote": "As a Member of Congress, I took an oath to support and defend the Constitution and the Second Amendment is pretty clear to me.",
+   "kind": "Pledge",
+   "issue": "Guns",
+   "source": {
+    "original": "https://biggsforcongress.com/issues/",
+    "snapshot": "20241105081444",
+    "wayback": "https://web.archive.org/web/20241105081444/https://biggsforcongress.com/issues/",
+    "file": "archive/2024/biggs-az/issues.html",
+    "sha256_html": "b2f8c7c46808127b8d354c028826127640310b9931ff74c866b1a44e3bd03173"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-190",
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "question": "final passage",
+     "date": "2026-05-21",
+     "vote": "Yea",
+     "source": "https://clerk.house.gov/evs/2026/roll190.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-031",
+   "member": "garcia-ca",
+   "name": "Robert Garcia",
+   "party": "D",
+   "chamber": "House",
+   "state": "CA",
+   "quote": "I will work to implement universal background checks and a ban on AR-15 assault weapons.",
+   "kind": "Pledge",
+   "issue": "Guns",
+   "source": {
+    "original": "https://robertgarcia.com/what-im-fighting-for/",
+    "snapshot": "20241105044727",
+    "wayback": "https://web.archive.org/web/20241105044727/https://robertgarcia.com/what-im-fighting-for/",
+    "file": "archive/2024/garcia-ca/what-im-fighting-for.html",
+    "sha256_html": "f45b9ee769e9ceeddbb4c8fe622f8c805205590db6f6b88302e3c85e56ed22e6"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-190",
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "question": "final passage",
+     "date": "2026-05-21",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2026/roll190.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-032",
+   "member": "gillen-ny",
+   "name": "Laura Gillen",
+   "party": "D",
+   "chamber": "House",
+   "state": "NY",
+   "quote": "I will support universal background checks to ensure guns aren’t in the hands of dangerous individuals and an assault weapons ban to help prevent the next Buffalo or Parkland shooting.",
+   "kind": "Pledge",
+   "issue": "Guns",
+   "source": {
+    "original": "https://lauragillen.com/issues/",
+    "snapshot": "20241105204556",
+    "wayback": "https://web.archive.org/web/20241105204556/https://lauragillen.com/issues/",
+    "file": "archive/2024/gillen-ny/issues.html",
+    "sha256_html": "b3b651f45fd54fb6cac202148f0d8d9cb64f437e8ebf89419d467d48ccafc0ca"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-190",
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "question": "final passage",
+     "date": "2026-05-21",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2026/roll190.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-033",
+   "member": "landsman-oh",
+   "name": "Greg Landsman",
+   "party": "D",
+   "chamber": "House",
+   "state": "OH",
+   "quote": "In Congress, Greg will fight for universal background checks, red flag laws, age restrictions, and to ban assault weapons.",
+   "kind": "Pledge",
+   "issue": "Guns",
+   "source": {
+    "original": "https://www.landsmanforcongress.com/the-issues-1",
+    "snapshot": "20241105125622",
+    "wayback": "https://web.archive.org/web/20241105125622/https://www.landsmanforcongress.com/the-issues-1",
+    "file": "archive/2024/landsman-oh/the-issues-1.html",
+    "sha256_html": "8b4a640ab11e695cbb0dad01bbe7be1c03ad2a796b8401bc577addf668130b19"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-190",
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "question": "final passage",
+     "date": "2026-05-21",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2026/roll190.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-034",
+   "member": "mcbride-de",
+   "name": "Sarah McBride",
+   "party": "D",
+   "chamber": "House",
+   "state": "DE",
+   "quote": "When elected to Congress, I will vote to strengthen background checks, ban assault weapons, and institute safeguards to prevent dangerous individuals from getting guns.",
+   "kind": "Pledge",
+   "issue": "Guns",
+   "source": {
+    "original": "https://www.sarahmcbride.com/priorities",
+    "snapshot": "20241105043249",
+    "wayback": "https://web.archive.org/web/20241105043249/https://www.sarahmcbride.com/priorities",
+    "file": "archive/2024/mcbride-de/priorities.html",
+    "sha256_html": "8e6068a95756d37986c6e2d8a432c575e0a72fa1126b9fab8d8f3b0190a81996"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-190",
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "question": "final passage",
+     "date": "2026-05-21",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2026/roll190.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-035",
+   "member": "min-ca",
+   "name": "Dave Min",
+   "party": "D",
+   "chamber": "House",
+   "state": "CA",
+   "quote": "In Congress, I will support the renewal of the assault weapons ban, and expanded background checks and red flag laws.",
+   "kind": "Pledge",
+   "issue": "Guns",
+   "source": {
+    "original": "https://davemin.com/issues",
+    "snapshot": "20241105115821",
+    "wayback": "https://web.archive.org/web/20241105115821/https://davemin.com/issues",
+    "file": "archive/2024/min-ca/issues.html",
+    "sha256_html": "0df3fde5b455edd705b71c3101ee2cb5f3aa22308d6b3a2dc41c715dd36e4683"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-190",
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "question": "final passage",
+     "date": "2026-05-21",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2026/roll190.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-036",
+   "member": "moskowitz-fl",
+   "name": "Jared Moskowitz",
+   "party": "D",
+   "chamber": "House",
+   "state": "FL",
+   "quote": "Our communities will be safer when we improve background checks, ban assault weapons, and prevent dangerous people from accessing firearms.",
+   "kind": "Pledge",
+   "issue": "Guns",
+   "source": {
+    "original": "https://jaredforflorida.com/",
+    "snapshot": "20241105141533",
+    "wayback": "https://web.archive.org/web/20241105141533/https://jaredforflorida.com/",
+    "file": "archive/2024/moskowitz-fl/home.html",
+    "sha256_html": "c9a3b6bb2248c97e04ee239cb498722a215d5497769333383c019134b2a07444"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-190",
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "question": "final passage",
+     "date": "2026-05-21",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2026/roll190.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-037",
+   "member": "tran-ca",
+   "name": "Derek Tran",
+   "party": "D",
+   "chamber": "House",
+   "state": "CA",
+   "quote": "He will take on the NRA by fighting for common sense gun safety laws like universal background checks and a ban on assault weapons.",
+   "kind": "Pledge",
+   "issue": "Guns",
+   "source": {
+    "original": "https://www.derektranforcongress.com/",
+    "snapshot": "20241105185436",
+    "wayback": "https://web.archive.org/web/20241105185436/https://www.derektranforcongress.com/",
+    "file": "archive/2024/tran-ca/home.html",
+    "sha256_html": "1cba97e942d647fb09dc897b87b0f8ba0e585fe2fed25a7fa5e9d46df540a07a"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-190",
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "question": "final passage",
+     "date": "2026-05-21",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2026/roll190.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-038",
+   "member": "mcclaindelaney-md",
+   "name": "April McClain Delaney",
+   "party": "D",
+   "chamber": "House",
+   "state": "MD",
+   "quote": "April supports universal background checks and limitations on assault weapons.",
+   "kind": "Pledge",
+   "issue": "Guns",
+   "source": {
+    "original": "https://www.aprilmcclaindelaneyforcongress.com/on-the-issues/doing-more-to-stop-gun-violence/",
+    "snapshot": "20241105034810",
+    "wayback": "https://web.archive.org/web/20241105034810/https://www.aprilmcclaindelaneyforcongress.com/on-the-issues/doing-more-to-stop-gun-violence/",
+    "file": "archive/2024/mcclaindelaney-md/on-the-issues-doing-more-to-stop-gun-violence.html",
+    "sha256_html": "fa89dbaf20ba68f5a899240864b882e7b87624fd4e4094979d2c649b48b966a9"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-190",
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "question": "final passage",
+     "date": "2026-05-21",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2026/roll190.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-039",
+   "member": "salinas-or",
+   "name": "Andrea Salinas",
+   "party": "D",
+   "chamber": "House",
+   "state": "OR",
+   "quote": "In Congress, she sponsored legislation to regulate assault weapons and will continue to fight to pass commonsense gun legislation such as strengthening background checks and red flag laws, restricting stalkers and domestic abusers from owning weapons, and holding the gun lobby accountable.",
+   "kind": "Pledge",
+   "issue": "Guns",
+   "source": {
+    "original": "https://www.andreasalinasfororegon.com/issues/",
+    "snapshot": "20241105083453",
+    "wayback": "https://web.archive.org/web/20241105083453/https://www.andreasalinasfororegon.com/issues/",
+    "file": "archive/2024/salinas-or/issues.html",
+    "sha256_html": "590977495e3ab4d977f1368effaf642acbfd69c9efa4adc2450a8c7901df6d80"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-190",
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "question": "final passage",
+     "date": "2026-05-21",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2026/roll190.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-040",
+   "member": "smith-wa",
+   "name": "Adam Smith",
+   "party": "D",
+   "chamber": "House",
+   "state": "WA",
+   "quote": "We must enact universal background checks for all firearms and ban assault-style weapons and high-capacity magazines.",
+   "kind": "Pledge",
+   "issue": "Guns",
+   "source": {
+    "original": "https://electadamsmith.com/issues/gun-violence/",
+    "snapshot": "20241105000402",
+    "wayback": "https://web.archive.org/web/20241105000402/https://electadamsmith.com/issues/gun-violence/",
+    "file": "archive/2024/smith-wa/issues-gun-violence.html",
+    "sha256_html": "ed274699e2c5d8c6fe6a7ba097c08472d91f82de2d1c7e4ca7617ff7fc00b1e2"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-190",
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "question": "final passage",
+     "date": "2026-05-21",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2026/roll190.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-041",
+   "member": "krishnamoorthi-il",
+   "name": "Raja Krishnamoorthi",
+   "party": "D",
+   "chamber": "House",
+   "state": "IL",
+   "quote": "He supports closing the “gun-show loophole” by extending background checks for gun purchases at gun shows; reinstating the expired federal ban on the sale of assault weapons; and improving the reporting system to help keep guns […]",
+   "kind": "Pledge",
+   "issue": "Guns",
+   "source": {
+    "original": "https://rajaforcongress.com/issue/",
+    "snapshot": "20241105121617",
+    "wayback": "https://web.archive.org/web/20241105121617/https://rajaforcongress.com/issue/",
+    "file": "archive/2024/krishnamoorthi-il/issue.html",
+    "sha256_html": "df6819c5209ec4b9311738fc67e3c4e9be92ac260d43ba5daa5ee730d2fe87aa"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-190",
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "question": "final passage",
+     "date": "2026-05-21",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2026/roll190.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-042",
+   "member": "elfreth-md",
+   "name": "Sarah Elfreth",
+   "party": "D",
+   "chamber": "House",
+   "state": "MD",
+   "quote": "On Capitol Hill, she will fight to ban assault weapons, expand background checks, and crack down on illegal firearms in our communities.",
+   "kind": "Pledge",
+   "issue": "Guns",
+   "source": {
+    "original": "https://elfrethformaryland.com/issues/",
+    "snapshot": "20241105163939",
+    "wayback": "https://web.archive.org/web/20241105163939/https://elfrethformaryland.com/issues/",
+    "file": "archive/2024/elfreth-md/issues.html",
+    "sha256_html": "5542c7c5c144b6534e9c74e0a5c4c7aaf867e1eefca5fe6280e5bafaa4771ed2"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-190",
+     "bill": "Veterans 2nd Amendment Protection Act",
+     "question": "final passage",
+     "date": "2026-05-21",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2026/roll190.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-043",
+   "member": "mcclaindelaney-md",
+   "name": "April McClain Delaney",
+   "party": "D",
+   "chamber": "House",
+   "state": "MD",
+   "quote": "April will be an advocate against initiatives to end marriage equality or ban gender-affirming care.",
+   "kind": "Pledge",
+   "issue": "Gender",
+   "source": {
+    "original": "https://www.aprilmcclaindelaneyforcongress.com/on-the-issues/defending-lgbtqia-rights/",
+    "snapshot": "20241105034823",
+    "wayback": "https://web.archive.org/web/20241105034823/https://www.aprilmcclaindelaneyforcongress.com/on-the-issues/defending-lgbtqia-rights/",
+    "file": "archive/2024/mcclaindelaney-md/on-the-issues-defending-lgbtqia-rights.html",
+    "sha256_html": "ae8e444d32616b6a8fb4e8d334af96cfb76f2d5e966c383cb69af37735f64623"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-362",
+     "bill": "Do No Harm in Medicaid Act",
+     "question": "final passage",
+     "date": "2025-12-18",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll362.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-044",
+   "member": "omar-mn",
+   "name": "Ilhan Omar",
+   "party": "D",
+   "chamber": "House",
+   "state": "MN",
+   "quote": "Protect access to gender-affirming medical care",
+   "kind": "Pledge",
+   "issue": "Gender",
+   "source": {
+    "original": "https://ilhanomar.com/issue/equality/",
+    "snapshot": "20241105072425",
+    "wayback": "https://web.archive.org/web/20241105072425/https://ilhanomar.com/issue/equality/",
+    "file": "archive/2024/omar-mn/issue-equality.html",
+    "sha256_html": "6c31bde3788958bebe918b6c4120d1728be295c281185da4be84a02f1724bb72"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2025-362",
+     "bill": "Do No Harm in Medicaid Act",
+     "question": "final passage",
+     "date": "2025-12-18",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2025/roll362.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  },
+  {
+   "id": "ROUND7-045",
+   "member": "min-ca",
+   "name": "Dave Min",
+   "party": "D",
+   "chamber": "House",
+   "state": "CA",
+   "quote": "When I’m elected to Congress, I’ll continue fighting for democracy and what’s right, including supporting legislation to end stock trading by members of Congress and bolstering voting rights.",
+   "kind": "Pledge",
+   "issue": "Stock trading",
+   "source": {
+    "original": "https://davemin.com/issues",
+    "snapshot": "20241105115821",
+    "wayback": "https://web.archive.org/web/20241105115821/https://davemin.com/issues",
+    "file": "archive/2024/min-ca/issues.html",
+    "sha256_html": "0df3fde5b455edd705b71c3101ee2cb5f3aa22308d6b3a2dc41c715dd36e4683"
+   },
+   "quote_verified_in_source": true,
+   "votes": [
+    {
+     "id": "house-2026-280",
+     "bill": "Stop Insider Trading Act (partial stock ban plus voter ID)",
+     "question": "final passage",
+     "date": "2026-07-22",
+     "vote": "Nay",
+     "source": "https://clerk.house.gov/evs/2026/roll280.xml"
+    }
+   ],
+   "note": "",
+   "status": "draft",
+   "drafted_by": "Claude (AI)",
+   "reviewed_by": null
+  }
+ ],
+ "rejected": []
+}

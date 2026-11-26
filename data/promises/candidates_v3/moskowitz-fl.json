@@ -1,0 +1,76 @@
+{
+ "member": "moskowitz-fl",
+ "pages": 3,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "In Congress, Jared will fight to expand Medicare and protect Social Security.",
+   "page": "https://jaredforflorida.com/",
+   "file": "archive/2024/moskowitz-fl/home.html",
+   "snapshot": "20241105141533"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Health care"
+   ],
+   "sentence": "He will also work to protect and expand the Affordable Care Act.",
+   "page": "https://jaredforflorida.com/",
+   "file": "archive/2024/moskowitz-fl/home.html",
+   "snapshot": "20241105141533"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "Our communities will be safer when we improve background checks, ban assault weapons, and prevent dangerous people from accessing firearms.",
+   "page": "https://jaredforflorida.com/",
+   "file": "archive/2024/moskowitz-fl/home.html",
+   "snapshot": "20241105141533"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Crypto"
+   ],
+   "sentence": "A more secure and competitive digital marketplace that incorporates cryptocurrencies and blockchain technologies will secure America’s economy for the next generation.",
+   "page": "https://jaredforflorida.com/issues/",
+   "file": "archive/2024/moskowitz-fl/issues.html",
+   "snapshot": "20241105141803"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "In Congress, he has been committed to making sure reproductive rights are protected by the federal government and that we continue the fight for health care equity.",
+   "page": "https://jaredforflorida.com/issues/",
+   "file": "archive/2024/moskowitz-fl/issues.html",
+   "snapshot": "20241105141803"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Social Security & Medicare"
+   ],
+   "sentence": "In Congress, he is fighting to expand Medicare, protect Social Security, and reduce prescription drug costs.",
+   "page": "https://jaredforflorida.com/issues/",
+   "file": "archive/2024/moskowitz-fl/issues.html",
+   "snapshot": "20241105141803"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Health care"
+   ],
+   "sentence": "He is also working to protect and expand the Affordable Care Act, which has extended coverage to millions in our country – including those with preexisting conditions who previously had no access to the care they needed.",
+   "page": "https://jaredforflorida.com/issues/",
+   "file": "archive/2024/moskowitz-fl/issues.html",
+   "snapshot": "20241105141803"
+  }
+ ]
+}

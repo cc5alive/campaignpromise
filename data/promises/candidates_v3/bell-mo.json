@@ -1,0 +1,26 @@
+{
+ "member": "bell-mo",
+ "pages": 3,
+ "candidates": [
+  {
+   "score": 5,
+   "topics": [
+    "Health care"
+   ],
+   "sentence": "Bell is committed to strengthening our economy by focusing on workers and job and skills training, lowering health insurance and prescription drug costs, standing up for seniors, and protecting our planet by fighting climate change.",
+   "page": "https://www.bell4mo.com/",
+   "file": "archive/2024/bell-mo/home.html",
+   "snapshot": "20241105084243"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Health care"
+   ],
+   "sentence": "Join us in the fight to strengthen our economy, lower health insurance and prescription drug prices, stand up for seniors, and protect our planet by fighting climate change.",
+   "page": "https://www.bell4mo.com/",
+   "file": "archive/2024/bell-mo/home.html",
+   "snapshot": "20241105084243"
+  }
+ ]
+}

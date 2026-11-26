@@ -25,6 +25,18 @@ AGAINST = {
     "P-010", "P-012", "R2-026", "R2-031", "R4-033", "R4-049", "R5-006", "R2-001",
     # Round 6: repeal the 2017 tax cuts for the wealthy; protect or expand Medicaid.
     "R6-005", "R6-008", "R6-011", "R6-019", "R6-034", "R6-037", "R6-041",
+    # Round 7: oppose voter ID / proof-of-citizenship laws; expand background checks; protect gender-affirming care.
+    "R7-010", "R7-011", "R7-031", "R7-032", "R7-033", "R7-034", "R7-035", "R7-036", "R7-037", "R7-038",
+    "R7-039", "R7-040", "R7-041", "R7-042", "R7-043", "R7-044",
+}
+
+# Plain-language note shown with any promise scored by these votes.
+VOTE_NOTES = {
+    "house-2025-102": "The SAVE Act requires documentary proof of U.S. citizenship to register to vote in federal elections.",
+    "house-2026-207": "The Ukraine Support Act authorizes more than $1 billion in aid to Ukraine, up to $8 billion in military financing loans, and new sanctions on Russia.",
+    "house-2026-190": "The Veterans 2nd Amendment Protection Act stops the VA from reporting veterans who have a financial fiduciary to the gun background check system (NICS) unless a judge finds them dangerous. Supporters call it due process for veterans; opponents say it weakens background checks.",
+    "house-2025-362": "The Do No Harm in Medicaid Act bars Medicaid and CHIP from paying for gender transition procedures for minors.",
+    "house-2026-280": "The Stop Insider Trading Act bars members of Congress, spouses and dependent children from buying individual stocks, and adds a voter ID requirement.",
 }
 
 NOTES = {

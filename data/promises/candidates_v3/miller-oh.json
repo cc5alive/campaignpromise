@@ -1,0 +1,58 @@
+{
+ "member": "miller-oh",
+ "pages": 3,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Taxes",
+    "Federal spending"
+   ],
+   "sentence": "Max believes our only way out of this mess is to curb spending, lower taxes and get Americans back to work.",
+   "page": "https://www.votemaxmiller.com/accomplishments",
+   "file": "archive/2024/miller-oh/accomplishments.html",
+   "snapshot": "20241105200416"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Immigration",
+    "Fentanyl"
+   ],
+   "sentence": "He proudly fights for the 7th District, is their voice in Congress, and is laser-focused on the issues that are hurting the district the most -- inflation, high gas and grocery prices, fentanyl overdoses caused by an unfettered southern border, supporting law enforcement, and bolstering American energy security.",
+   "page": "https://www.votemaxmiller.com/about",
+   "file": "archive/2024/miller-oh/about.html",
+   "snapshot": "20241105200417"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "He’s steadfast in his push to secure the southern border, expand workforce development opportunities, and empower Ohio and America’s farmers and rural communities.",
+   "page": "https://www.votemaxmiller.com/",
+   "file": "archive/2024/miller-oh/home.html",
+   "snapshot": "20241105200414"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "to take meaningful action to end the crisis at the US-Mexico border such as resuming construction on the border wall, providing for an additional 22,000 Border Patrol agents, and bolstering local law enforcement jurisdiction along the southern border.",
+   "page": "https://www.votemaxmiller.com/accomplishments",
+   "file": "archive/2024/miller-oh/accomplishments.html",
+   "snapshot": "20241105200416"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Federal spending"
+   ],
+   "sentence": "to cut reckless government spending, lift Americans out of poverty, and grow the economy.",
+   "page": "https://www.votemaxmiller.com/accomplishments",
+   "file": "archive/2024/miller-oh/accomplishments.html",
+   "snapshot": "20241105200416"
+  }
+ ]
+}

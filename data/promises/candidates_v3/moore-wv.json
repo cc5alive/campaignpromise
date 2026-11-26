@@ -1,0 +1,46 @@
+{
+ "member": "moore-wv",
+ "pages": 3,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "When I get to Congress I will work with President Trump to finish the border wall and empower law enforcement with the authority necessary to send illegal immigrants back.",
+   "page": "https://www.mooreforwv.com/issues",
+   "file": "archive/2024/moore-wv/issues.html",
+   "snapshot": "20241105062613"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "We must work to end the tragedy of abortion.",
+   "page": "https://www.mooreforwv.com/issues",
+   "file": "archive/2024/moore-wv/issues.html",
+   "snapshot": "20241105062613"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "The Biden administration’s abdication of its responsibility to secure our border is unacceptable.",
+   "page": "https://www.mooreforwv.com/issues",
+   "file": "archive/2024/moore-wv/issues.html",
+   "snapshot": "20241105062613"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Crypto"
+   ],
+   "sentence": "I oppose any central bank digital currency as a violation of fundamental American values.",
+   "page": "https://www.mooreforwv.com/issues",
+   "file": "archive/2024/moore-wv/issues.html",
+   "snapshot": "20241105062613"
+  }
+ ]
+}

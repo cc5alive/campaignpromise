@@ -1,0 +1,77 @@
+{
+ "member": "mcdowell-nc",
+ "pages": 2,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "Addison is running for Congress now to take his fight for working families to Congress and is endorsed by President Donald Trump and US Senator Ted Budd— because they believe he is the candidate who will put up the strongest fight to help them promote the America First Agenda and secure our Southern border.",
+   "page": "https://www.mcdowellfornc.com/",
+   "file": "archive/2024/mcdowell-nc/home.html",
+   "snapshot": "20241105153439"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Guns"
+   ],
+   "sentence": "Addison will fight government overreach that aims to disrupt North Carolinians’ 2nd Amendment rights.",
+   "page": "https://www.mcdowellfornc.com/",
+   "file": "archive/2024/mcdowell-nc/home.html",
+   "snapshot": "20241105153439"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Abortion"
+   ],
+   "sentence": "I will vote 100% pro-life and will champion pro-life causes",
+   "page": "https://www.mcdowellfornc.com/issues",
+   "file": "archive/2024/mcdowell-nc/issues.html",
+   "snapshot": "20241105153511"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Immigration",
+    "Federal spending"
+   ],
+   "sentence": "I don’t trust them to cut spending and secure the border, let alone administer our elections fairly.",
+   "page": "https://www.mcdowellfornc.com/issues",
+   "file": "archive/2024/mcdowell-nc/issues.html",
+   "snapshot": "20241105153511"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "We must secure the Southern Border and stop the flow of illegal drugs",
+   "page": "https://www.mcdowellfornc.com/",
+   "file": "archive/2024/mcdowell-nc/home.html",
+   "snapshot": "20241105153439"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Elections"
+   ],
+   "sentence": "Free, fair, and secure elections are essential to a functioning country.",
+   "page": "https://www.mcdowellfornc.com/issues",
+   "file": "archive/2024/mcdowell-nc/issues.html",
+   "snapshot": "20241105153511"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Crypto"
+   ],
+   "sentence": "Addison believes the United States should be a leader in creating a forward-looking, pro-innovation crypto policy.",
+   "page": "https://www.mcdowellfornc.com/issues",
+   "file": "archive/2024/mcdowell-nc/issues.html",
+   "snapshot": "20241105153511"
+  }
+ ]
+}

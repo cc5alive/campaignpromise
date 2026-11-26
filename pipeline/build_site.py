@@ -54,6 +54,7 @@ def build_promises():
         rec = {"id": p["id"], "issue": p["issue"], "kind": p["kind"], "quote": p["quote"], "status": status,
                "decision": p["decision"], "reason": p["reason"],
                "note": " ".join(x for x in [S.NOTES.get(p["id"], p["note"] if p["decision"] == "Approve" else ""),
+                                 *[S.VOTE_NOTES[v["id"]] for v in p["votes"] if v["id"] in S.VOTE_NOTES],
                                  "Some votes already count toward another of this member's promises; each vote counts once." if elsewhere else ""] if x),
                "src": {"orig": src.get("original"), "wb": src.get("wayback"),
                        "date": wayback_date(src["snapshot"]) if src.get("snapshot") else None,

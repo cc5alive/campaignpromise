@@ -1,0 +1,37 @@
+{
+ "member": "biggs-sc",
+ "pages": 4,
+ "candidates": [
+  {
+   "score": 9,
+   "topics": [
+    "Immigration",
+    "Taxes"
+   ],
+   "sentence": "\"Our fundraising success is a testament to the shared belief that it will take conservative outsiders like me - not career politicians, career bureaucrats or career candidates - to fix the major issues our nation faces including securing the southern border, protecting taxpayer dollars, keeping the promises made to our veterans, and fighting for our conservative values.\"",
+   "page": "https://www.sheribiggs.com/biggsbreaksfundraisingrecord",
+   "file": "archive/2024/biggs-sc/biggsbreaksfundraisingrecord.html",
+   "snapshot": "20241105170250"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "As our next Member of Congress, Sheri will work tirelessly to build the wall, stop the flow of illegal aliens and drugs into our country, and replace “catch-and-release” with “stop-and-deport.”",
+   "page": "https://www.sheribiggs.com/issues",
+   "file": "archive/2024/biggs-sc/issues.html",
+   "snapshot": "20241105170235"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "As our next Congresswoman, Sheri will fight for fiscal responsibility, accountability, and transparency of our hard-earned tax dollars.",
+   "page": "https://www.sheribiggs.com/issues",
+   "file": "archive/2024/biggs-sc/issues.html",
+   "snapshot": "20241105170235"
+  }
+ ]
+}

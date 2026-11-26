@@ -1,0 +1,46 @@
+{
+ "member": "van-orden-wi",
+ "pages": 12,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "Derrick will work tirelessly to stop Democrat tax hikes and make sure more of your hard earned money remains where it should be: in your pocket.",
+   "page": "https://www.vanordenforcongress.com/issues/",
+   "file": "archive/2024/van-orden-wi/issues.html",
+   "snapshot": "20241105075029"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Health care"
+   ],
+   "sentence": "Derrick will work to make sure individuals with preexisting conditions are protected when Obamacare is fully repealed and a new system is implemented allowing for true competition in healthcare, driving costs down.",
+   "page": "https://www.vanordenforcongress.com/issues/",
+   "file": "archive/2024/van-orden-wi/issues.html",
+   "snapshot": "20241105075029"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "Derrick will fight to fix the humanitarian crisis and disaster Joe Biden and Nancy Pelosi have created at the border.",
+   "page": "https://www.vanordenforcongress.com/issues/",
+   "file": "archive/2024/van-orden-wi/issues.html",
+   "snapshot": "20241105075029"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "We must regain control of our borders to keep our nation safe.",
+   "page": "https://www.vanordenforcongress.com/issues/",
+   "file": "archive/2024/van-orden-wi/issues.html",
+   "snapshot": "20241105075029"
+  }
+ ]
+}

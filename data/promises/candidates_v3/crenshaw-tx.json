@@ -1,0 +1,37 @@
+{
+ "member": "crenshaw-tx",
+ "pages": 3,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Immigration",
+    "Fentanyl"
+   ],
+   "sentence": "Dan Crenshaw is leading the effort in Congress to secure our border, reduce illegal immigration, and combat the Mexican drug cartels that are flooding deadly fentanyl into our county and killing Americans.",
+   "page": "https://www.crenshawforcongress.com/issues",
+   "file": "archive/2024/crenshaw-tx/issues.html",
+   "snapshot": "20241105185330"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Medicaid"
+   ],
+   "sentence": "to ensure Medicaid recipients are able to access direct primary care in their respective states, which will help reduce emergency room visits of Medicaid patients and improve their quality of care.",
+   "page": "https://www.crenshawforcongress.com/issues",
+   "file": "archive/2024/crenshaw-tx/issues.html",
+   "snapshot": "20241105185330"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "and give them additional tools and resources to secure our border.",
+   "page": "https://www.crenshawforcongress.com/issues",
+   "file": "archive/2024/crenshaw-tx/issues.html",
+   "snapshot": "20241105185330"
+  }
+ ]
+}

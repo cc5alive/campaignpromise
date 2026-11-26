@@ -1,0 +1,57 @@
+{
+ "member": "bacon-ne",
+ "pages": 5,
+ "candidates": [
+  {
+   "score": 7,
+   "topics": [
+    "Taxes",
+    "Federal spending"
+   ],
+   "sentence": "In Congress, I am working to ease the cost of living, cut taxes, and reduce our national debt.",
+   "page": "https://donjbacon.com/",
+   "file": "archive/2024/bacon-ne/home.html",
+   "snapshot": "20241105160007"
+  },
+  {
+   "score": 7,
+   "topics": [
+    "Taxes"
+   ],
+   "sentence": "Tony Vargas never mentions that he proposed the largest tax increase in NE’s history.",
+   "page": "https://donjbacon.com/",
+   "file": "archive/2024/bacon-ne/home.html",
+   "snapshot": "20241105160007"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "I believe immigration is an essential part of our nation’s history and our economic growth, but it has to be done legally.",
+   "page": "https://donjbacon.com/",
+   "file": "archive/2024/bacon-ne/home.html",
+   "snapshot": "20241105160007"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "In Congress, I am backing legislation to secure the border and reform our broken immigration system.",
+   "page": "https://donjbacon.com/",
+   "file": "archive/2024/bacon-ne/home.html",
+   "snapshot": "20241105160007"
+  },
+  {
+   "score": 5,
+   "topics": [
+    "Immigration"
+   ],
+   "sentence": "HR 2 – the Secure the Border Act of 2023",
+   "page": "https://donjbacon.com/issues/",
+   "file": "archive/2024/bacon-ne/issues.html",
+   "snapshot": "20241105042501"
+  }
+ ]
+}

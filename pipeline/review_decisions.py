@@ -73,10 +73,14 @@ s("R5-001 R5-003 R5-004 R5-005 R5-010 R5-011 R5-012 R5-022 R5-029 R5-030 R5-031 
 s("R5-014", A, "Edit applied: the note labels the source as a 2022 press release that was still on the campaign site in 2024.")
 # Round 6 (Nov 25, 2026): second pass over every archived member with fewer than 3 tested promises
 s(" ".join(f"R6-{i:03d}" for i in range(1, 46)), A, "Vote directly tests the commitment.")
+# Round 7 (Nov 25, 2026): new votes on Ukraine aid, the SAVE Act, veterans and gun background checks, and Medicaid coverage of gender transition for minors
+s(" ".join(f"R7-{i:03d}" for i in range(1, 46) if i not in (7, 45)), A, "Vote directly tests the commitment.")
+s("R7-007", E, RELATED + " Her support for Ukraine aid is conditioned on it not being tied to offensive military aid; the Ukraine Support Act included military financing, so a kept-or-broken call would rest on a contested reading.")
+s("R7-045", E, RELATED + " The Stop Insider Trading Act was a partial ban (no new stock purchases) bundled with a voter ID requirement, so a vote against it does not clearly break a promise to end congressional stock trading.")
 
 def all_ids():
     ids = []
-    for f, pre in (("pilot_round1", "P"), ("round2", "R2"), ("round3", "R3"), ("issues", "NI"), ("round4", "R4"), ("round5", "R5"), ("round6", "R6")):
+    for f, pre in (("pilot_round1", "P"), ("round2", "R2"), ("round3", "R3"), ("issues", "NI"), ("round4", "R4"), ("round5", "R5"), ("round6", "R6"), ("round7", "R7")):
         d = json.loads((ROOT / f"data/promises/{f}_drafts.json").read_text())
         ps = d.get("promises") or d.get("drafts")
         ids += [f"{pre}-{i:03d}" for i in range(1, len(ps) + 1)]
