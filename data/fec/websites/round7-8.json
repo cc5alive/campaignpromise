@@ -1,0 +1,50 @@
+{
+ "committees": {
+  "C00458315": {
+   "name": "MORAN FOR KANSAS",
+   "website": "WWW.MORANFORKANSAS.COM",
+   "error": null
+  },
+  "C00384529": {
+   "name": "LISA MURKOWSKI FOR US SENATE",
+   "website": "WWW.LISAMURKOWSKI.COM",
+   "error": null
+  },
+  "C00257642": {
+   "name": "PEOPLE FOR PATTY MURRAY",
+   "website": "WWW.PATTYMURRAY.COM",
+   "error": null
+  },
+  "C00290825": {
+   "name": "NADLER FOR CONGRESS",
+   "website": "WWW.JERRYNADLER.COM",
+   "error": null
+  },
+  "C00226522": {
+   "name": "RICHARD E NEAL FOR CONGRESS COMMITTEE",
+   "website": "WWW.NEALFORCONGRESS.COM",
+   "error": null
+  },
+  "C00226928": {
+   "name": "PALLONE FOR CONGRESS",
+   "website": "WWW.PALLONEFORNEWJERSEY.COM",
+   "error": null
+  },
+  "C00496075": {
+   "name": "RAND PAUL FOR US SENATE",
+   "website": "WWW.RANDPAUL.COM",
+   "error": null
+  },
+  "C00437889": {
+   "name": "PETERS FOR MICHIGAN",
+   "website": "HTTP://WWW.PETERSFORMICHIGAN.COM",
+   "error": null
+  },
+  "C00433391": {
+   "name": "PINGREE FOR CONGRESS",
+   "website": "HTTP://WWW.CHELLIEPINGREE.COM",
+   "error": null
+  }
+ },
+ "searches": {}
+}
