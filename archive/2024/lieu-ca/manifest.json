@@ -1,0 +1,27 @@
+{
+  "name": "Ted Lieu",
+  "domains_tried": [
+    "tedlieu.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.tedlieu.com/",
+      "timestamp": "20241103022417",
+      "wayback": "https://web.archive.org/web/20241103022417/https://www.tedlieu.com/",
+      "wayback_raw": "https://web.archive.org/web/20241103022417id_/https://www.tedlieu.com/",
+      "file": "archive/2024/lieu-ca/home.html",
+      "text_file": "archive/2024/lieu-ca/home.txt",
+      "bytes": 82763,
+      "sha256_html": "30085a10e3fa320f57f282d0d1fe3c13845fdd9add740a75c46273c3836bf150",
+      "sha256_text": "a3faa2f9b62cdc2d003dd47853cbbe9879d9d0b1b05efa7b20b12fce814db7fa"
+    }
+  ],
+  "snapshots_found": {
+    "tedlieu.com": 1
+  },
+  "generated_utc": "2026-11-26T08:50:19Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
