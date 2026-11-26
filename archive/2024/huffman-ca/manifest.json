@@ -1,0 +1,40 @@
+{
+  "name": "Jared Huffman",
+  "domains_tried": [
+    "huffmanforcongress.com",
+    "jaredhuffman.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.jaredhuffman.com/",
+      "timestamp": "20241105162647",
+      "wayback": "https://web.archive.org/web/20241105162647/https://www.jaredhuffman.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105162647id_/https://www.jaredhuffman.com/",
+      "file": "archive/2024/huffman-ca/home.html",
+      "text_file": "archive/2024/huffman-ca/home.txt",
+      "bytes": 9029,
+      "sha256_html": "d8cedf3560fc42402ae3e57258c69addcbd671d20b8687acc73fcd13bd40d443",
+      "sha256_text": "21085c49ee9504e59ce5b63580b2c0f15891536bdb183f7fc0426c2a72b4feb1"
+    },
+    {
+      "original": "https://www.jaredhuffman.com/about",
+      "timestamp": "20241105162656",
+      "wayback": "https://web.archive.org/web/20241105162656/https://www.jaredhuffman.com/about",
+      "wayback_raw": "https://web.archive.org/web/20241105162656id_/https://www.jaredhuffman.com/about",
+      "file": "archive/2024/huffman-ca/about.html",
+      "text_file": "archive/2024/huffman-ca/about.txt",
+      "bytes": 9608,
+      "sha256_html": "8a774635ed569f7df55de10b0228af08377e3dac9a4e569eb5e139ac6ce7f1b6",
+      "sha256_text": "04d3b0a1b31ec7a04fff48bb50e3896888e72483c9cf5a78dd475b3ed1f718b8"
+    }
+  ],
+  "snapshots_found": {
+    "huffmanforcongress.com": 0,
+    "jaredhuffman.com": 9
+  },
+  "generated_utc": "2026-11-26T09:02:25Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
