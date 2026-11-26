@@ -1,0 +1,38 @@
+{
+  "name": "Richard Blumenthal",
+  "domains_tried": [
+    "richardblumenthal.com"
+  ],
+  "pages": [
+    {
+      "original": "https://richardblumenthal.com/",
+      "timestamp": "20241105000019",
+      "wayback": "https://web.archive.org/web/20241105000019/https://richardblumenthal.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105000019id_/https://richardblumenthal.com/",
+      "file": "archive/2024/blumenthal-ct/home.html",
+      "text_file": "archive/2024/blumenthal-ct/home.txt",
+      "bytes": 194845,
+      "sha256_html": "a4b4107ac4a299f8d512dfa8ed5fca576a3f40416449241c98da0fe939acfd40",
+      "sha256_text": "9bc7876c08fb6b7fddca3c4a129e9c204b4f2170751f98895100c852dfd14908"
+    },
+    {
+      "original": "https://richardblumenthal.com/about/",
+      "timestamp": "20241105011907",
+      "wayback": "https://web.archive.org/web/20241105011907/https://richardblumenthal.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105011907id_/https://richardblumenthal.com/about/",
+      "file": "archive/2024/blumenthal-ct/about.html",
+      "text_file": "archive/2024/blumenthal-ct/about.txt",
+      "bytes": 168370,
+      "sha256_html": "0fdc8e0b4aef5382f4671d9f1245f51899d562df2704cc96aef97d1973f9c58e",
+      "sha256_text": "9168287f3f8ebd5c2046cc6bcccb6ba1fd72c31972a79e5c5c8ca2f67bb23c9d"
+    }
+  ],
+  "snapshots_found": {
+    "richardblumenthal.com": 16
+  },
+  "generated_utc": "2026-11-26T07:24:12Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
