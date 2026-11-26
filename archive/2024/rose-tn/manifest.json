@@ -1,0 +1,148 @@
+{
+  "name": "John W. Rose",
+  "domains_tried": [
+    "johnrose.com"
+  ],
+  "pages": [
+    {
+      "original": "https://johnrose.com/",
+      "timestamp": "20241105132450",
+      "wayback": "https://web.archive.org/web/20241105132450/https://johnrose.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105132450id_/https://johnrose.com/",
+      "file": "archive/2024/rose-tn/home.html",
+      "text_file": "archive/2024/rose-tn/home.txt",
+      "bytes": 74888,
+      "sha256_html": "6eb81aa3d83a70a6efed819c03490e075868604f0de638a62c946673d5377c68",
+      "sha256_text": "48e500d03ea7d99c029116863ef54879d8b69160745177443ea97c4362b80781"
+    },
+    {
+      "original": "https://johnrose.com/issues-survey/",
+      "timestamp": "20241105133257",
+      "wayback": "https://web.archive.org/web/20241105133257/https://johnrose.com/issues-survey/",
+      "wayback_raw": "https://web.archive.org/web/20241105133257id_/https://johnrose.com/issues-survey/",
+      "file": "archive/2024/rose-tn/issues-survey.html",
+      "text_file": "archive/2024/rose-tn/issues-survey.txt",
+      "bytes": 67584,
+      "sha256_html": "dd4fc76d2003dc095d52c5ec8093378487c2095a9992f7ce4c0f931edf566753",
+      "sha256_text": "57313aba92c049c2e1ce0e1a8a02109c5a3a00dcfadb5aec5a94ce34ad412b41"
+    },
+    {
+      "original": "https://johnrose.com/national-police-week-2021/",
+      "timestamp": "20241105133304",
+      "wayback": "https://web.archive.org/web/20241105133304/https://johnrose.com/national-police-week-2021/",
+      "wayback_raw": "https://web.archive.org/web/20241105133304id_/https://johnrose.com/national-police-week-2021/",
+      "file": "archive/2024/rose-tn/national-police-week-2021.html",
+      "text_file": "archive/2024/rose-tn/national-police-week-2021.txt",
+      "bytes": 65478,
+      "sha256_html": "4cf4d52abdaf8cebf4ffc7ac2a56daf92de42d8d55c1b6272430649d2ba14bd7",
+      "sha256_text": "38ee9ec756aadc9558a9571321f34f835a647bd4589a6b558de07860c708a670"
+    },
+    {
+      "original": "https://johnrose.com/stand-for-our-flag/",
+      "timestamp": "20241105133301",
+      "wayback": "https://web.archive.org/web/20241105133301/https://johnrose.com/stand-for-our-flag/",
+      "wayback_raw": "https://web.archive.org/web/20241105133301id_/https://johnrose.com/stand-for-our-flag/",
+      "file": "archive/2024/rose-tn/stand-for-our-flag.html",
+      "text_file": "archive/2024/rose-tn/stand-for-our-flag.txt",
+      "bytes": 64885,
+      "sha256_html": "24616da75d2ee6687f6d89822ba8578d9e503f33ebfc8799f39d104767cc0fae",
+      "sha256_text": "ed4e3eee49421595750804016883c46610895093f0b2868601723a017dedbe13"
+    },
+    {
+      "original": "https://johnrose.com/stand-with-me/",
+      "timestamp": "20241105133256",
+      "wayback": "https://web.archive.org/web/20241105133256/https://johnrose.com/stand-with-me/",
+      "wayback_raw": "https://web.archive.org/web/20241105133256id_/https://johnrose.com/stand-with-me/",
+      "file": "archive/2024/rose-tn/stand-with-me.html",
+      "text_file": "archive/2024/rose-tn/stand-with-me.txt",
+      "bytes": 49828,
+      "sha256_html": "2c0e1e3e96e05b0e15ba23df419bdc0b18ed5548b7ee58c554acd9274f13ea80",
+      "sha256_text": "357d2c233a37ef1b83cc62eba0d80ba564504b68e915e45691e7239bf6c84959"
+    },
+    {
+      "original": "https://johnrose.com/stand-with-pence/",
+      "timestamp": "20241105133516",
+      "wayback": "https://web.archive.org/web/20241105133516/https://johnrose.com/stand-with-pence/",
+      "wayback_raw": "https://web.archive.org/web/20241105133516id_/https://johnrose.com/stand-with-pence/",
+      "file": "archive/2024/rose-tn/stand-with-pence.html",
+      "text_file": "archive/2024/rose-tn/stand-with-pence.txt",
+      "bytes": 56415,
+      "sha256_html": "bc9ded8d7d297999feeef7fa56c67b647db32fd277a9d20ad3a16bbf87e023cb",
+      "sha256_text": "b764055bbfbd5d3194385b96513c82c3b5c7d3962f4bc53d2dc43d01861f942c"
+    },
+    {
+      "original": "https://johnrose.com/stand-with-trump/",
+      "timestamp": "20241105133231",
+      "wayback": "https://web.archive.org/web/20241105133231/https://johnrose.com/stand-with-trump/",
+      "wayback_raw": "https://web.archive.org/web/20241105133231id_/https://johnrose.com/stand-with-trump/",
+      "file": "archive/2024/rose-tn/stand-with-trump.html",
+      "text_file": "archive/2024/rose-tn/stand-with-trump.txt",
+      "bytes": 65766,
+      "sha256_html": "8b89cff8c59c27744063c1d1386a114ad41dd0f6236aac775c25c0a60435d5a1",
+      "sha256_text": "be96d73170aaa2b29cf927aced25d9e943673066fd1ddadd31687065546e4b93"
+    },
+    {
+      "original": "https://johnrose.com/the-issues/",
+      "timestamp": "20241105132606",
+      "wayback": "https://web.archive.org/web/20241105132606/https://johnrose.com/the-issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105132606id_/https://johnrose.com/the-issues/",
+      "file": "archive/2024/rose-tn/the-issues.html",
+      "text_file": "archive/2024/rose-tn/the-issues.txt",
+      "bytes": 64426,
+      "sha256_html": "1aee33cf7262531133f44662a71c0ef63693693e440b23a152560354d4121e81",
+      "sha256_text": "7ccffb33f8dca0904a45397150c71fd9877f43e96391c540511f780fb5d35d21"
+    },
+    {
+      "original": "https://johnrose.com/national-police-week-2021/embed/",
+      "timestamp": "20241102203143",
+      "wayback": "https://web.archive.org/web/20241102203143/https://johnrose.com/national-police-week-2021/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241102203143id_/https://johnrose.com/national-police-week-2021/embed/",
+      "file": "archive/2024/rose-tn/national-police-week-2021-embed.html",
+      "text_file": "archive/2024/rose-tn/national-police-week-2021-embed.txt",
+      "bytes": 25483,
+      "sha256_html": "76c7ada7a9150d61eb1172b488be68d4402f4a09c0c27f2b82b787decb2ed02e",
+      "sha256_text": "dcd6c4c99ae7d878cbcd05541a5389c562a83dc49b6d0f79c81b40e81ec6ff9c"
+    },
+    {
+      "original": "https://johnrose.com/national-police-week-2021/national-police-week-2021-rose/",
+      "timestamp": "20241105133153",
+      "wayback": "https://web.archive.org/web/20241105133153/https://johnrose.com/national-police-week-2021/national-police-week-2021-rose/",
+      "wayback_raw": "https://web.archive.org/web/20241105133153id_/https://johnrose.com/national-police-week-2021/national-police-week-2021-rose/",
+      "file": "archive/2024/rose-tn/national-police-week-2021-national-police-week-2021-rose.html",
+      "text_file": "archive/2024/rose-tn/national-police-week-2021-national-police-week-2021-rose.txt",
+      "bytes": 53346,
+      "sha256_html": "63ad7e131d4c10f23446f233ec50f350417fcf36b78325bfdb702226e5be8602",
+      "sha256_text": "d18aeabb770046951915e1ddda56db99dd1f08ae3bab4435374af0d0804707b0"
+    },
+    {
+      "original": "https://johnrose.com/stand-for-our-flag/flag-petition-fb-ad/",
+      "timestamp": "20241105133020",
+      "wayback": "https://web.archive.org/web/20241105133020/https://johnrose.com/stand-for-our-flag/flag-petition-fb-ad/",
+      "wayback_raw": "https://web.archive.org/web/20241105133020id_/https://johnrose.com/stand-for-our-flag/flag-petition-fb-ad/",
+      "file": "archive/2024/rose-tn/stand-for-our-flag-flag-petition-fb-ad.html",
+      "text_file": "archive/2024/rose-tn/stand-for-our-flag-flag-petition-fb-ad.txt",
+      "bytes": 52842,
+      "sha256_html": "f516020fd6e637a49b22470d22858a8d36ecae06c5f3a70ba94b005e99da93c5",
+      "sha256_text": "4e611e6902fe411a6a16138b441cba7390b2688fef4320b9d3d173517246e10b"
+    },
+    {
+      "original": "https://johnrose.com/stand-for-our-flag/flag-petition-fb-ad-2/",
+      "timestamp": "20241105133205",
+      "wayback": "https://web.archive.org/web/20241105133205/https://johnrose.com/stand-for-our-flag/flag-petition-fb-ad-2/",
+      "wayback_raw": "https://web.archive.org/web/20241105133205id_/https://johnrose.com/stand-for-our-flag/flag-petition-fb-ad-2/",
+      "file": "archive/2024/rose-tn/stand-for-our-flag-flag-petition-fb-ad-2.html",
+      "text_file": "archive/2024/rose-tn/stand-for-our-flag-flag-petition-fb-ad-2.txt",
+      "bytes": 52894,
+      "sha256_html": "052c15020ac832e302fa514fd089fb478e38a362302873d530e526adea12455a",
+      "sha256_text": "4e611e6902fe411a6a16138b441cba7390b2688fef4320b9d3d173517246e10b"
+    }
+  ],
+  "snapshots_found": {
+    "johnrose.com": 148
+  },
+  "generated_utc": "2026-11-26T08:11:23Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
