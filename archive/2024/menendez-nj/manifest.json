@@ -1,0 +1,148 @@
+{
+  "name": "Robert Menendez",
+  "domains_tried": [
+    "robmenendez.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.robmenendez.com/",
+      "timestamp": "20241105120841",
+      "wayback": "https://web.archive.org/web/20241105120841/https://www.robmenendez.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105120841id_/https://www.robmenendez.com/",
+      "file": "archive/2024/menendez-nj/home.html",
+      "text_file": "archive/2024/menendez-nj/home.txt",
+      "bytes": 32281,
+      "sha256_html": "dab6e9abded29ff6cc899ed7bbab691ecbba550559e327d57bbd3dbcfeb87d27",
+      "sha256_text": "ddca709d28b8a148fac4331c4a22ded6a84fa689d6a5122bcbe3f71b1d354b00"
+    },
+    {
+      "original": "https://www.robmenendez.com/priorities/",
+      "timestamp": "20241105120857",
+      "wayback": "https://web.archive.org/web/20241105120857/https://www.robmenendez.com/priorities/",
+      "wayback_raw": "https://web.archive.org/web/20241105120857id_/https://www.robmenendez.com/priorities/",
+      "file": "archive/2024/menendez-nj/priorities.html",
+      "text_file": "archive/2024/menendez-nj/priorities.txt",
+      "bytes": 25073,
+      "sha256_html": "1b86fc285516ed0ace42aa902b7c1e0ecd01d8180620c87d354ed99ac45bfdaa",
+      "sha256_text": "1aa2a8d25ddff4f76e074a83e6e396976148b3e62b407f3481bb8bc02aaddfa9"
+    },
+    {
+      "original": "https://www.robmenendez.com/issues/affordability/",
+      "timestamp": "20241105120901",
+      "wayback": "https://web.archive.org/web/20241105120901/https://www.robmenendez.com/issues/affordability/",
+      "wayback_raw": "https://web.archive.org/web/20241105120901id_/https://www.robmenendez.com/issues/affordability/",
+      "file": "archive/2024/menendez-nj/issues-affordability.html",
+      "text_file": "archive/2024/menendez-nj/issues-affordability.txt",
+      "bytes": 24592,
+      "sha256_html": "86049957424a8da7fcb1c4f961a5e47722a6f3c2bf9435115cd03617a9b0ca69",
+      "sha256_text": "1a325ebffb5931e0fea2d70cf6e1aba03fc84215d28812031e27bad4186b0fc7"
+    },
+    {
+      "original": "https://www.robmenendez.com/issues/childcare/",
+      "timestamp": "20241105120858",
+      "wayback": "https://web.archive.org/web/20241105120858/https://www.robmenendez.com/issues/childcare/",
+      "wayback_raw": "https://web.archive.org/web/20241105120858id_/https://www.robmenendez.com/issues/childcare/",
+      "file": "archive/2024/menendez-nj/issues-childcare.html",
+      "text_file": "archive/2024/menendez-nj/issues-childcare.txt",
+      "bytes": 24796,
+      "sha256_html": "e408a5a0ab1ace16924f794c4421de8cc8622c9a26e819d55d2d40308fe2567c",
+      "sha256_text": "55a388a59a43a6f90ff2f7dfec8dd5a654068dbfad60325a7f0f36601e478fea"
+    },
+    {
+      "original": "https://www.robmenendez.com/issues/climate-change/",
+      "timestamp": "20241105120849",
+      "wayback": "https://web.archive.org/web/20241105120849/https://www.robmenendez.com/issues/climate-change/",
+      "wayback_raw": "https://web.archive.org/web/20241105120849id_/https://www.robmenendez.com/issues/climate-change/",
+      "file": "archive/2024/menendez-nj/issues-climate-change.html",
+      "text_file": "archive/2024/menendez-nj/issues-climate-change.txt",
+      "bytes": 24442,
+      "sha256_html": "122bba06f6cce610858ad7d8a7810462f79c4210856e58af3a3f9c985d17511f",
+      "sha256_text": "f248cff80682e103176fa51417204c32b1469430d01d07271db321f67ab3223d"
+    },
+    {
+      "original": "https://www.robmenendez.com/issues/gun-control/",
+      "timestamp": "20241105120847",
+      "wayback": "https://web.archive.org/web/20241105120847/https://www.robmenendez.com/issues/gun-control/",
+      "wayback_raw": "https://web.archive.org/web/20241105120847id_/https://www.robmenendez.com/issues/gun-control/",
+      "file": "archive/2024/menendez-nj/issues-gun-control.html",
+      "text_file": "archive/2024/menendez-nj/issues-gun-control.txt",
+      "bytes": 24511,
+      "sha256_html": "9409f1d8e7adc1c656a4f81143fbf792b603ed84375d11ad6fbc8e89d037a3fa",
+      "sha256_text": "71c9be24ab7c3b358238c2ea3a167ad5e3d6bd8f3c04a532de5de35e70e59414"
+    },
+    {
+      "original": "https://www.robmenendez.com/issues/healthcare/",
+      "timestamp": "20241105120859",
+      "wayback": "https://web.archive.org/web/20241105120859/https://www.robmenendez.com/issues/healthcare/",
+      "wayback_raw": "https://web.archive.org/web/20241105120859id_/https://www.robmenendez.com/issues/healthcare/",
+      "file": "archive/2024/menendez-nj/issues-healthcare.html",
+      "text_file": "archive/2024/menendez-nj/issues-healthcare.txt",
+      "bytes": 26092,
+      "sha256_html": "371ec33e1ec8c65fb82db34b52dc29d0f21aa12f231314640139fc1de226468a",
+      "sha256_text": "d64ca77fc973eb83a354c632f3594f759a442ab41aab29b999356aea2d0000fd"
+    },
+    {
+      "original": "https://www.robmenendez.com/issues/organized-labor/",
+      "timestamp": "20241105120850",
+      "wayback": "https://web.archive.org/web/20241105120850/https://www.robmenendez.com/issues/organized-labor/",
+      "wayback_raw": "https://web.archive.org/web/20241105120850id_/https://www.robmenendez.com/issues/organized-labor/",
+      "file": "archive/2024/menendez-nj/issues-organized-labor.html",
+      "text_file": "archive/2024/menendez-nj/issues-organized-labor.txt",
+      "bytes": 25054,
+      "sha256_html": "154b8ff14e647c3d57d0c2f01816c5b7842cf3b4daa4f13a3733db127f0f9abb",
+      "sha256_text": "e4e3fe82c093a8bcb852a13458468e75a8a5214d3e40c9ed2c326abdb280fd46"
+    },
+    {
+      "original": "https://www.robmenendez.com/issues/transportation/",
+      "timestamp": "20241105120859",
+      "wayback": "https://web.archive.org/web/20241105120859/https://www.robmenendez.com/issues/transportation/",
+      "wayback_raw": "https://web.archive.org/web/20241105120859id_/https://www.robmenendez.com/issues/transportation/",
+      "file": "archive/2024/menendez-nj/issues-transportation.html",
+      "text_file": "archive/2024/menendez-nj/issues-transportation.txt",
+      "bytes": 25011,
+      "sha256_html": "6ef3432167b6d66bdd81f0f4d51fff5b383b71580f61c3574073d7786c308a27",
+      "sha256_text": "be40ceed5b01988ddef6b0b0aebab2a2b4d4e3f46f8896ab64a5d96e65dfca73"
+    },
+    {
+      "original": "https://www.robmenendez.com/issues/voting-rights/",
+      "timestamp": "20241105120844",
+      "wayback": "https://web.archive.org/web/20241105120844/https://www.robmenendez.com/issues/voting-rights/",
+      "wayback_raw": "https://web.archive.org/web/20241105120844id_/https://www.robmenendez.com/issues/voting-rights/",
+      "file": "archive/2024/menendez-nj/issues-voting-rights.html",
+      "text_file": "archive/2024/menendez-nj/issues-voting-rights.txt",
+      "bytes": 24077,
+      "sha256_html": "7da5160c95f60da6196ff5d1e48ba473a8242c5704daa407ff7c98759f5dfc10",
+      "sha256_text": "9bde769c7f84dbadbc1aa9996be61e631b72264029a5bfaeb11b96ed17ffb64e"
+    },
+    {
+      "original": "https://www.robmenendez.com/2022/05/23/jersey-city-police-officers-benevolent-association-endorses-rob-menendez-for-congress/",
+      "timestamp": "20241105121115",
+      "wayback": "https://web.archive.org/web/20241105121115/https://www.robmenendez.com/2022/05/23/jersey-city-police-officers-benevolent-association-endorses-rob-menendez-for-congress/",
+      "wayback_raw": "https://web.archive.org/web/20241105121115id_/https://www.robmenendez.com/2022/05/23/jersey-city-police-officers-benevolent-association-endorses-rob-menendez-for-congress/",
+      "file": "archive/2024/menendez-nj/2022-05-23-jersey-city-police-officers-benevolent-association-endorses-rob-menendez-for-congress.html",
+      "text_file": "archive/2024/menendez-nj/2022-05-23-jersey-city-police-officers-benevolent-association-endorses-rob-menendez-for-congress.txt",
+      "bytes": 24782,
+      "sha256_html": "21ba7a3fd7e70d5698baac9030805af806a06a757356b3dd975497ee92e72b8a",
+      "sha256_text": "5470d3b3f70202961ac0f9a9a7d4280a9239c6b8baeacf09d8cae7102c840d8b"
+    },
+    {
+      "original": "https://www.robmenendez.com/2022/06/27/rob-menendez-endorsed-by-professional-firefighters-association-of-new-jersey-and-international-association-of-firefighters/",
+      "timestamp": "20241105121120",
+      "wayback": "https://web.archive.org/web/20241105121120/https://www.robmenendez.com/2022/06/27/rob-menendez-endorsed-by-professional-firefighters-association-of-new-jersey-and-international-association-of-firefighters/",
+      "wayback_raw": "https://web.archive.org/web/20241105121120id_/https://www.robmenendez.com/2022/06/27/rob-menendez-endorsed-by-professional-firefighters-association-of-new-jersey-and-international-association-of-firefighters/",
+      "file": "archive/2024/menendez-nj/2022-06-27-rob-menendez-endorsed-by-professional-firefighters-association-of-new-jersey-and-international-association-of-firefighters.html",
+      "text_file": "archive/2024/menendez-nj/2022-06-27-rob-menendez-endorsed-by-professional-firefighters-association-of-new-jersey-and-international-association-of-firefighters.txt",
+      "bytes": 24839,
+      "sha256_html": "447f2989f4c1415c90dadb5d064eb400a8bc7fda2f97701b9da4ca4c9287d870",
+      "sha256_text": "e875d792b4781eb26870cf618ab769bb12387f9696ee0aa50811564efb2c23d2"
+    }
+  ],
+  "snapshots_found": {
+    "robmenendez.com": 116
+  },
+  "generated_utc": "2026-11-26T09:08:55Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
