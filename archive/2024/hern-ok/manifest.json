@@ -1,0 +1,148 @@
+{
+  "name": "Kevin Hern",
+  "domains_tried": [
+    "hernforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://hernforcongress.com/",
+      "timestamp": "20241105122929",
+      "wayback": "https://web.archive.org/web/20241105122929/https://hernforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105122929id_/https://hernforcongress.com/",
+      "file": "archive/2024/hern-ok/home.html",
+      "text_file": "archive/2024/hern-ok/home.txt",
+      "bytes": 78751,
+      "sha256_html": "6f2a27e77f9dcb07fb0f6d9919a66d870f2dacde067e94cbd5cbc25f548222a6",
+      "sha256_text": "92feb518a96df28b96f2716584b3a28c51de045a9675a5159d6cc62ff7ad3052"
+    },
+    {
+      "original": "https://hernforcongress.com/issues/",
+      "timestamp": "20241105123044",
+      "wayback": "https://web.archive.org/web/20241105123044/https://hernforcongress.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105123044id_/https://hernforcongress.com/issues/",
+      "file": "archive/2024/hern-ok/issues.html",
+      "text_file": "archive/2024/hern-ok/issues.txt",
+      "bytes": 49703,
+      "sha256_html": "19d1c854f90638d9db750ac082c94ff2374ee828a1383398c5415c8662c1dd2a",
+      "sha256_text": "a5adbafe91003e0a8ab211cd42a2cb64620fc58d56058f3590e1e6aec5ab9eaf"
+    },
+    {
+      "original": "https://hernforcongress.com/join-my-fight/",
+      "timestamp": "20241105122938",
+      "wayback": "https://web.archive.org/web/20241105122938/https://hernforcongress.com/join-my-fight/",
+      "wayback_raw": "https://web.archive.org/web/20241105122938id_/https://hernforcongress.com/join-my-fight/",
+      "file": "archive/2024/hern-ok/join-my-fight.html",
+      "text_file": "archive/2024/hern-ok/join-my-fight.txt",
+      "bytes": 63974,
+      "sha256_html": "b82d7a1b150dcf5542d79c46f317f2299fc7d1efa2d95b6a6810ac07dd7c880f",
+      "sha256_text": "9c4291e2fa845e23aa9a4d213605e76693309475b6b8c6b1583bc9141116e582"
+    },
+    {
+      "original": "https://hernforcongress.com/thank-you-for-joining-the-fight/",
+      "timestamp": "20241105123043",
+      "wayback": "https://web.archive.org/web/20241105123043/https://hernforcongress.com/thank-you-for-joining-the-fight/",
+      "wayback_raw": "https://web.archive.org/web/20241105123043id_/https://hernforcongress.com/thank-you-for-joining-the-fight/",
+      "file": "archive/2024/hern-ok/thank-you-for-joining-the-fight.html",
+      "text_file": "archive/2024/hern-ok/thank-you-for-joining-the-fight.txt",
+      "bytes": 47164,
+      "sha256_html": "41a27b466974dee4e7c0eb2c1a459b31576868a78ae80444d90786852cd3fd0b",
+      "sha256_text": "b0d7ce61c46f50c215b56c576920cf807cbe1b7daba6abf1b49a3bc9edf1390c"
+    },
+    {
+      "original": "https://hernforcongress.com/issue/economy-and-jobs/",
+      "timestamp": "20241105123059",
+      "wayback": "https://web.archive.org/web/20241105123059/https://hernforcongress.com/issue/economy-and-jobs/",
+      "wayback_raw": "https://web.archive.org/web/20241105123059id_/https://hernforcongress.com/issue/economy-and-jobs/",
+      "file": "archive/2024/hern-ok/issue-economy-and-jobs.html",
+      "text_file": "archive/2024/hern-ok/issue-economy-and-jobs.txt",
+      "bytes": 45365,
+      "sha256_html": "220a4a1a62489cc4db48b2b84dc72fa7cda0aad8f649d4b9cdcd5841f9a9e8ca",
+      "sha256_text": "56c666c1191abc0bf975d5e2471be73e19921727065e19f01cdd61e9e335124b"
+    },
+    {
+      "original": "https://hernforcongress.com/issue/healthcare-reform/",
+      "timestamp": "20241105123059",
+      "wayback": "https://web.archive.org/web/20241105123059/https://hernforcongress.com/issue/healthcare-reform/",
+      "wayback_raw": "https://web.archive.org/web/20241105123059id_/https://hernforcongress.com/issue/healthcare-reform/",
+      "file": "archive/2024/hern-ok/issue-healthcare-reform.html",
+      "text_file": "archive/2024/hern-ok/issue-healthcare-reform.txt",
+      "bytes": 45549,
+      "sha256_html": "ec2c30259a5f042e7cfffaae626fad749e850544b21cf0247d8b9359ad1723b6",
+      "sha256_text": "da4a125d8115acd5e9594523a0fc97005331b1b580b86354d9773ce5b075b02d"
+    },
+    {
+      "original": "https://hernforcongress.com/issue/immigration/",
+      "timestamp": "20241105123100",
+      "wayback": "https://web.archive.org/web/20241105123100/https://hernforcongress.com/issue/immigration/",
+      "wayback_raw": "https://web.archive.org/web/20241105123100id_/https://hernforcongress.com/issue/immigration/",
+      "file": "archive/2024/hern-ok/issue-immigration.html",
+      "text_file": "archive/2024/hern-ok/issue-immigration.txt",
+      "bytes": 45332,
+      "sha256_html": "e38da79e6ccaddc6dff7ea1a97b6d7fb72ffd13018793355bd32305241f8a37f",
+      "sha256_text": "feffc294af74b7ba8951d1f99e5a8909837e67dd2e7c7fd2b43fb68a36940344"
+    },
+    {
+      "original": "https://hernforcongress.com/issue/second-amendment/",
+      "timestamp": "20241105123100",
+      "wayback": "https://web.archive.org/web/20241105123100/https://hernforcongress.com/issue/second-amendment/",
+      "wayback_raw": "https://web.archive.org/web/20241105123100id_/https://hernforcongress.com/issue/second-amendment/",
+      "file": "archive/2024/hern-ok/issue-second-amendment.html",
+      "text_file": "archive/2024/hern-ok/issue-second-amendment.txt",
+      "bytes": 45082,
+      "sha256_html": "02be3b7aa168e9c875c54dbde30c6e04890751fcfdd6ec2c35abc62d91cc4d11",
+      "sha256_text": "b0c621afa860698522c10a74e832a2645b90adac1a2b144bfd34be4af937573a"
+    },
+    {
+      "original": "https://hernforcongress.com/issue/shake-up-washington/",
+      "timestamp": "20241105123059",
+      "wayback": "https://web.archive.org/web/20241105123059/https://hernforcongress.com/issue/shake-up-washington/",
+      "wayback_raw": "https://web.archive.org/web/20241105123059id_/https://hernforcongress.com/issue/shake-up-washington/",
+      "file": "archive/2024/hern-ok/issue-shake-up-washington.html",
+      "text_file": "archive/2024/hern-ok/issue-shake-up-washington.txt",
+      "bytes": 45072,
+      "sha256_html": "4e4ceb42f299052e3a5c00b17935c9a6ecb11dd43435f5831d6a117c3b2de9f8",
+      "sha256_text": "00063f3855d1f6a14515a7ba69a647aed14383e77f1022b92bf0b618e1cf9b92"
+    },
+    {
+      "original": "https://hernforcongress.com/issue/standing-up-for-conservative-values/",
+      "timestamp": "20241105123100",
+      "wayback": "https://web.archive.org/web/20241105123100/https://hernforcongress.com/issue/standing-up-for-conservative-values/",
+      "wayback_raw": "https://web.archive.org/web/20241105123100id_/https://hernforcongress.com/issue/standing-up-for-conservative-values/",
+      "file": "archive/2024/hern-ok/issue-standing-up-for-conservative-values.html",
+      "text_file": "archive/2024/hern-ok/issue-standing-up-for-conservative-values.txt",
+      "bytes": 45455,
+      "sha256_html": "bfdb7b0f11bb9de83c329d5a8e8c0ebb4366bc9886518f1537d0b463443d02c3",
+      "sha256_text": "9e98f78817e5884e64733d71ff40a1c6b6633c6e8f95ac9a47d7af464ec9488f"
+    },
+    {
+      "original": "https://hernforcongress.com/issues/embed/",
+      "timestamp": "20241102144114",
+      "wayback": "https://web.archive.org/web/20241102144114/https://hernforcongress.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241102144114id_/https://hernforcongress.com/issues/embed/",
+      "file": "archive/2024/hern-ok/issues-embed.html",
+      "text_file": "archive/2024/hern-ok/issues-embed.txt",
+      "bytes": 19725,
+      "sha256_html": "e42d2325fdb6213509f1482f5fa1433deee67af70b5faf097453109de886cdbd",
+      "sha256_text": "df8a3c2798a211b7443bfe1e299efeae4e5b8d02673410905f35f8ee8ac030b1"
+    },
+    {
+      "original": "https://hernforcongress.com/join-my-fight/embed/",
+      "timestamp": "20241101073946",
+      "wayback": "https://web.archive.org/web/20241101073946/https://hernforcongress.com/join-my-fight/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241101073946id_/https://hernforcongress.com/join-my-fight/embed/",
+      "file": "archive/2024/hern-ok/join-my-fight-embed.html",
+      "text_file": "archive/2024/hern-ok/join-my-fight-embed.txt",
+      "bytes": 19754,
+      "sha256_html": "d370069b0120009c9de163536f67718a05cac6fa78494e45376d416cfab9b672",
+      "sha256_text": "cfe1b31fe5e869680d148eb0ef60416f885cb47affd50e73836290e11843443e"
+    }
+  ],
+  "snapshots_found": {
+    "hernforcongress.com": 114
+  },
+  "generated_utc": "2026-11-26T08:00:43Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
