@@ -1,0 +1,49 @@
+{
+  "name": "Jake Auchincloss",
+  "domains_tried": [
+    "jakeforma.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.jakeforma.com/",
+      "timestamp": "20241105203523",
+      "wayback": "https://web.archive.org/web/20241105203523/https://www.jakeforma.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105203523id_/https://www.jakeforma.com/",
+      "file": "archive/2024/auchincloss-ma/home.html",
+      "text_file": "archive/2024/auchincloss-ma/home.txt",
+      "bytes": 481514,
+      "sha256_html": "6e85afe537139ea39ce7d5f2c748b531366efdb5e88c54b44de44fb79cf2201c",
+      "sha256_text": "5099d7455c518ffa9ec3921c276f6b333bc9da183bd8fc5ed2744efcf0f29499"
+    },
+    {
+      "original": "https://www.jakeforma.com/issues",
+      "timestamp": "20241105202933",
+      "wayback": "https://web.archive.org/web/20241105202933/https://www.jakeforma.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105202933id_/https://www.jakeforma.com/issues",
+      "file": "archive/2024/auchincloss-ma/issues.html",
+      "text_file": "archive/2024/auchincloss-ma/issues.txt",
+      "bytes": 346482,
+      "sha256_html": "da05469312215efd4d8254481f4fe3740c3a020dd8a5a529944836d9b0e8ab65",
+      "sha256_text": "e0d3cdfc91d29b6faec088780c08f7f8e6caf69044c09fbac9a0b7bd4090859d"
+    },
+    {
+      "original": "https://www.jakeforma.com/about",
+      "timestamp": "20241105202914",
+      "wayback": "https://web.archive.org/web/20241105202914/https://www.jakeforma.com/about",
+      "wayback_raw": "https://web.archive.org/web/20241105202914id_/https://www.jakeforma.com/about",
+      "file": "archive/2024/auchincloss-ma/about.html",
+      "text_file": "archive/2024/auchincloss-ma/about.txt",
+      "bytes": 332607,
+      "sha256_html": "ce4368b9f1715afb16f1da4b383ce708194e89f47f841e365c20c1b1d2f25fc2",
+      "sha256_text": "4942e622b818d26eb2a2e0da3d3639ca0f7fdca85c1e7649f037cf7405c99a57"
+    }
+  ],
+  "snapshots_found": {
+    "jakeforma.com": 8
+  },
+  "generated_utc": "2026-11-26T08:35:56Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
