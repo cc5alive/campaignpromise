@@ -1,0 +1,38 @@
+{
+  "name": "Rudy Yakym III",
+  "domains_tried": [
+    "rudyforindiana.com"
+  ],
+  "pages": [
+    {
+      "original": "https://rudyforindiana.com/",
+      "timestamp": "20241105053535",
+      "wayback": "https://web.archive.org/web/20241105053535/https://rudyforindiana.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105053535id_/https://rudyforindiana.com/",
+      "file": "archive/2024/yakym-in/home.html",
+      "text_file": "archive/2024/yakym-in/home.txt",
+      "bytes": 346201,
+      "sha256_html": "c1c51da0122efbc69d4329b31e722ff75d6ab4529e69ebb5c6c060049850099c",
+      "sha256_text": "a4450e42865baf6d75b63bdb665fe048c9cca76733504c594bc78a1a57cb9617"
+    },
+    {
+      "original": "https://rudyforindiana.com/about/",
+      "timestamp": "20241105053738",
+      "wayback": "https://web.archive.org/web/20241105053738/https://rudyforindiana.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105053738id_/https://rudyforindiana.com/about/",
+      "file": "archive/2024/yakym-in/about.html",
+      "text_file": "archive/2024/yakym-in/about.txt",
+      "bytes": 257629,
+      "sha256_html": "af23db66f9d1cf9829ef074f801762ece836b6791b2deff13014c7ecc872111f",
+      "sha256_text": "de4f879a7d27a2e6d9f2a21c8c40eff7796af8764209b41a4589be03fe3bece5"
+    }
+  ],
+  "snapshots_found": {
+    "rudyforindiana.com": 47
+  },
+  "generated_utc": "2026-11-26T08:52:17Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
