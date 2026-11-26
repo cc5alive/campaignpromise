@@ -1,0 +1,43 @@
+{
+  "name": "John Kennedy",
+  "domains_tried": [
+    "johnkennedy.com"
+  ],
+  "pages": [
+    {
+      "original": "https://johnkennedy.com/",
+      "timestamp": "20241009204830",
+      "wayback": "https://web.archive.org/web/20241009204830/https://johnkennedy.com/",
+      "wayback_raw": "https://web.archive.org/web/20241009204830id_/https://johnkennedy.com/",
+      "file": "archive/2024/kennedy-la/home.html",
+      "text_file": "archive/2024/kennedy-la/home.txt",
+      "bytes": 231330,
+      "sha256_html": "8db97aa676a705eb9950baf18b1a4410c69384c076a5c68562c3905630d88175",
+      "sha256_text": "b52dd8f6e7eb23ff35f292d74385e022f476f96637bb791f22efd84b9a58bf9c"
+    },
+    {
+      "original": "https://johnkennedy.com/issues/",
+      "timestamp": "20241103001415",
+      "error": "no response"
+    },
+    {
+      "original": "https://johnkennedy.com/issues/",
+      "timestamp": "20241103001415",
+      "wayback": "https://web.archive.org/web/20241103001415/https://johnkennedy.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241103001415id_/https://johnkennedy.com/issues/",
+      "file": "archive/2024/kennedy-la/issues.html",
+      "text_file": "archive/2024/kennedy-la/issues.txt",
+      "bytes": 144334,
+      "sha256_html": "7bb117575d2f030e681d402010f94571ae7764a490136a4a4a672f5957485f3e",
+      "sha256_text": "1cd4e06cad825feb926f995ac22ceac5339e2a562c6b9805722176b9ca7a0f51"
+    }
+  ],
+  "snapshots_found": {
+    "johnkennedy.com": 15
+  },
+  "generated_utc": "2026-11-26T07:42:34Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
