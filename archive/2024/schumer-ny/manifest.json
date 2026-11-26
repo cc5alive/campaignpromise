@@ -1,0 +1,115 @@
+{
+  "name": "Charles E. Schumer",
+  "domains_tried": [
+    "chuckschumer.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.chuckschumer.com/",
+      "timestamp": "20241009044154",
+      "wayback": "https://web.archive.org/web/20241009044154/https://www.chuckschumer.com/",
+      "wayback_raw": "https://web.archive.org/web/20241009044154id_/https://www.chuckschumer.com/",
+      "file": "archive/2024/schumer-ny/home.html",
+      "text_file": "archive/2024/schumer-ny/home.txt",
+      "bytes": 222588,
+      "sha256_html": "6dd3b0134169f05286eb84b587d1738bdf9eee65337e01bbe561d4d018f5d4b6",
+      "sha256_text": "ff61bb72008835468e02f411aa2f747cc1e19b59b6074e0bc5c403aba6467271"
+    },
+    {
+      "original": "https://www.chuckschumer.com/issues/",
+      "timestamp": "20241007151218",
+      "wayback": "https://web.archive.org/web/20241007151218/https://www.chuckschumer.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241007151218id_/https://www.chuckschumer.com/issues/",
+      "file": "archive/2024/schumer-ny/issues.html",
+      "text_file": "archive/2024/schumer-ny/issues.txt",
+      "bytes": 163928,
+      "sha256_html": "ae18e60bbb451aec1f314b49fdd4087a8bb5adbf44265497f4e6219408658ae5",
+      "sha256_text": "692cdc3ca558406ef6348b15d107342b71d7ee7673538a58b414b41d08b733ba"
+    },
+    {
+      "original": "https://www.chuckschumer.com/senate-may-work-into-august-to-pass-infrastructure-plan-set-the-stage-for-huge-spending-bill/",
+      "timestamp": "20240915032904",
+      "wayback": "https://web.archive.org/web/20240915032904/https://www.chuckschumer.com/senate-may-work-into-august-to-pass-infrastructure-plan-set-the-stage-for-huge-spending-bill/",
+      "wayback_raw": "https://web.archive.org/web/20240915032904id_/https://www.chuckschumer.com/senate-may-work-into-august-to-pass-infrastructure-plan-set-the-stage-for-huge-spending-bill/",
+      "file": "archive/2024/schumer-ny/senate-may-work-into-august-to-pass-infrastructure-plan-set-the-stage-for-huge-spending-bill.html",
+      "text_file": "archive/2024/schumer-ny/senate-may-work-into-august-to-pass-infrastructure-plan-set-the-stage-for-huge-spending-bill.txt",
+      "bytes": 160354,
+      "sha256_html": "c7cf44bff4ca73da1e7985095ae95fc44b3f81bf95a16f33e355ea215c8e67f1",
+      "sha256_text": "9a01551b18b45d4c390f707ea980aca3648bf150c80a6558adf1c6ffd78c730c"
+    },
+    {
+      "original": "https://www.chuckschumer.com/issues/economy/",
+      "timestamp": "20241007143304",
+      "wayback": "https://web.archive.org/web/20241007143304/https://www.chuckschumer.com/issues/economy/",
+      "wayback_raw": "https://web.archive.org/web/20241007143304id_/https://www.chuckschumer.com/issues/economy/",
+      "file": "archive/2024/schumer-ny/issues-economy.html",
+      "text_file": "archive/2024/schumer-ny/issues-economy.txt",
+      "bytes": 158251,
+      "sha256_html": "b60a5eeab73615e2a1a9e36f71618244773a8ee153b59522c39f0e20e3d18fb0",
+      "sha256_text": "efd2ee1bacee666712631317b96a3364e239bbaa4a7b45bdd6437edd2bc89a67"
+    },
+    {
+      "original": "https://www.chuckschumer.com/issues/gun-violence/",
+      "timestamp": "20240915021226",
+      "wayback": "https://web.archive.org/web/20240915021226/https://www.chuckschumer.com/issues/gun-violence/",
+      "wayback_raw": "https://web.archive.org/web/20240915021226id_/https://www.chuckschumer.com/issues/gun-violence/",
+      "file": "archive/2024/schumer-ny/issues-gun-violence.html",
+      "text_file": "archive/2024/schumer-ny/issues-gun-violence.txt",
+      "bytes": 157192,
+      "sha256_html": "76dbaa7b110d1f2e8013a9c59dc92d78c3025e9578416c38ff2a4ebbd1cc6cb8",
+      "sha256_text": "fa2232019e6bd27b7c09c5a293d860430f1bfbcc515946f36c4b90ec70a74f00"
+    },
+    {
+      "original": "https://www.chuckschumer.com/issues/health-care/",
+      "timestamp": "20240808042157",
+      "wayback": "https://web.archive.org/web/20240808042157/https://www.chuckschumer.com/issues/health-care/",
+      "wayback_raw": "https://web.archive.org/web/20240808042157id_/https://www.chuckschumer.com/issues/health-care/",
+      "file": "archive/2024/schumer-ny/issues-health-care.html",
+      "text_file": "archive/2024/schumer-ny/issues-health-care.txt",
+      "bytes": 152714,
+      "sha256_html": "32c37b257926da30b29268c263fc5265ee47748d89d07c6367aacf2b5eb52ec8",
+      "sha256_text": "ae3d3adacdd9d199c31e539a17acbf04026d71d68fb28e9e7e7d05dbd62c84a9"
+    },
+    {
+      "original": "https://www.chuckschumer.com/issues/immigration/",
+      "timestamp": "20240808032731",
+      "wayback": "https://web.archive.org/web/20240808032731/https://www.chuckschumer.com/issues/immigration/",
+      "wayback_raw": "https://web.archive.org/web/20240808032731id_/https://www.chuckschumer.com/issues/immigration/",
+      "file": "archive/2024/schumer-ny/issues-immigration.html",
+      "text_file": "archive/2024/schumer-ny/issues-immigration.txt",
+      "bytes": 152150,
+      "sha256_html": "7386f8cd5970377135e51c101ac3fd29de8b68aa79b11900e3edbb0b40a57b2e",
+      "sha256_text": "a4a75b206b2e41541ff402953346f6768450ae65b7bc2f05d43b81a82802d1d4"
+    },
+    {
+      "original": "https://www.chuckschumer.com/issues/lgbtq/",
+      "timestamp": "20240808045632",
+      "wayback": "https://web.archive.org/web/20240808045632/https://www.chuckschumer.com/issues/lgbtq/",
+      "wayback_raw": "https://web.archive.org/web/20240808045632id_/https://www.chuckschumer.com/issues/lgbtq/",
+      "file": "archive/2024/schumer-ny/issues-lgbtq.html",
+      "text_file": "archive/2024/schumer-ny/issues-lgbtq.txt",
+      "bytes": 152096,
+      "sha256_html": "812fd0967ee4c67d47df5b68fec6f0f9d70f8ce7c080132842fe7dba8273ddf4",
+      "sha256_text": "e81f7fe3bc690bfb2a2aafbaa9cb9a14dbeca44bb3d3b077fb47bf9ec05ce30c"
+    },
+    {
+      "original": "https://www.chuckschumer.com/issues/women/",
+      "timestamp": "20240915040420",
+      "wayback": "https://web.archive.org/web/20240915040420/https://www.chuckschumer.com/issues/women/",
+      "wayback_raw": "https://web.archive.org/web/20240915040420id_/https://www.chuckschumer.com/issues/women/",
+      "file": "archive/2024/schumer-ny/issues-women.html",
+      "text_file": "archive/2024/schumer-ny/issues-women.txt",
+      "bytes": 156271,
+      "sha256_html": "263c2f0432118574f13ca30aa9d0be24bcc4d4d42cc8020b3ebe9034ff52e1e6",
+      "sha256_text": "3300f3954649321d4505ca2fcc0a5e3546d5f6598e472323a5e478f7ea7d65c5"
+    }
+  ],
+  "snapshots_found": {
+    "chuckschumer.com": 21
+  },
+  "generated_utc": "2026-11-26T08:19:33Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
