@@ -1,0 +1,27 @@
+{
+  "name": "Frederica S. Wilson",
+  "domains_tried": [
+    "fredericawilsonforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "http://www.fredericawilsonforcongress.com/",
+      "timestamp": "20241105044601",
+      "wayback": "https://web.archive.org/web/20241105044601/http://www.fredericawilsonforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105044601id_/http://www.fredericawilsonforcongress.com/",
+      "file": "archive/2024/wilson-fl/home.html",
+      "text_file": "archive/2024/wilson-fl/home.txt",
+      "bytes": 4750,
+      "sha256_html": "6929ececc46b1311b04d564c32df61d4f7f2d28fea59177ae4c265d1ad10afa4",
+      "sha256_text": "eed18430ec129da9e16da430bb8a2d1def70d8d6505c07878f3671dfb3d9d851"
+    }
+  ],
+  "snapshots_found": {
+    "fredericawilsonforcongress.com": 1
+  },
+  "generated_utc": "2026-11-26T08:31:43Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
