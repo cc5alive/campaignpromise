@@ -1,0 +1,50 @@
+{
+ "committees": {
+  "C00314575": {
+   "name": "COLLINS FOR SENATOR",
+   "website": "WWW.SUSANCOLLINS.COM",
+   "error": null
+  },
+  "C00369033": {
+   "name": "TEXANS FOR SENATOR JOHN CORNYN INC.",
+   "website": "WWW.JOHNCORNYN.COM",
+   "error": null
+  },
+  "C00148999": {
+   "name": "FRIENDS OF DICK DURBIN COMMITTEE",
+   "website": "WWW.DICKDURBIN.COM",
+   "error": null
+  },
+  "C00193342": {
+   "name": "MCCONNELL SENATE COMMITTEE",
+   "website": "TEAMMITCH.COM",
+   "error": null
+  },
+  "C00437277": {
+   "name": "JEFF MERKLEY FOR OREGON",
+   "website": "WWW.JEFFMERKLEY.COM",
+   "error": null
+  },
+  "C00238907": {
+   "name": "THE REED COMMITTEE",
+   "website": "HTTPS://JACKREED.COM",
+   "error": null
+  },
+  "C00440362": {
+   "name": "JIM RISCH FOR U.S. SENATE COMMITTEE",
+   "website": "WWW.SENATORRISCH.COM",
+   "error": null
+  },
+  "C00457325": {
+   "name": "SHAHEEN FOR SENATE",
+   "website": "HTTP://WWW.JEANNESHAHEEN.ORG",
+   "error": null
+  },
+  "C00438713": {
+   "name": "FRIENDS OF MARK WARNER",
+   "website": "HTTPS://MARKWARNERVA.COM/",
+   "error": null
+  }
+ },
+ "searches": {}
+}
