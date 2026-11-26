@@ -1,0 +1,27 @@
+{
+  "name": "Susan M. Collins",
+  "domains_tried": [
+    "susancollins.com"
+  ],
+  "pages": [
+    {
+      "original": "https://susancollins.com/",
+      "timestamp": "20241105232546",
+      "wayback": "https://web.archive.org/web/20241105232546/https://susancollins.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105232546id_/https://susancollins.com/",
+      "file": "archive/2024/collins-me/home.html",
+      "text_file": "archive/2024/collins-me/home.txt",
+      "bytes": 56350,
+      "sha256_html": "6c64db3e48333b1fc1f2f43d57f85c6d9fd12a85c1566ac4e896b0e3566a627a",
+      "sha256_text": "6b69f23c796aac78bd019fa74c3d6e8edd734196b705a1335b4465acd51e50a2"
+    }
+  ],
+  "snapshots_found": {
+    "susancollins.com": 1
+  },
+  "generated_utc": "2026-11-26T07:10:56Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
