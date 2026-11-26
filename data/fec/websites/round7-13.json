@@ -1,0 +1,50 @@
+{
+ "committees": {
+  "C00499467": {
+   "name": "TITUS FOR CONGRESS",
+   "website": "HTTP://WWW.DINATITUS.COM",
+   "error": null
+  },
+  "C00499988": {
+   "name": "COTTON FOR SENATE, INC.",
+   "website": "WWW.TOMCOTTON.COM",
+   "error": null
+  },
+  "C00536680": {
+   "name": "HUFFMAN FOR CONGRESS",
+   "website": null,
+   "error": null
+  },
+  "C00461061": {
+   "name": "BERA FOR CONGRESS",
+   "website": "HTTP://WWW.BERAFORCONGRESS.COM/",
+   "error": null
+  },
+  "C00513077": {
+   "name": "JULIA BROWNLEY FOR CONGRESS",
+   "website": "HTTPS://WWW.JULIABROWNLEY.COM/",
+   "error": null
+  },
+  "C00502575": {
+   "name": "DR. RAUL RUIZ FOR CONGRESS",
+   "website": "HTTPS://DRRAULRUIZ.COM/",
+   "error": null
+  },
+  "C00498667": {
+   "name": "MARK TAKANO FOR CONGRESS",
+   "website": "HTTP://WWW.MARKTAKANO.COM",
+   "error": null
+  },
+  "C00497321": {
+   "name": "VARGAS FOR CONGRESS",
+   "website": null,
+   "error": null
+  },
+  "C00503110": {
+   "name": "SCOTT PETERS FOR CONGRESS",
+   "website": "HTTP://WWW.SCOTTPETERS.COM",
+   "error": null
+  }
+ },
+ "searches": {}
+}
