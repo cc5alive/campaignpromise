@@ -1,0 +1,38 @@
+{
+  "name": "Mike Rounds",
+  "domains_tried": [
+    "roundsforsenate.com"
+  ],
+  "pages": [
+    {
+      "original": "https://roundsforsenate.com:443/",
+      "timestamp": "20241105225008",
+      "wayback": "https://web.archive.org/web/20241105225008/https://roundsforsenate.com:443/",
+      "wayback_raw": "https://web.archive.org/web/20241105225008id_/https://roundsforsenate.com:443/",
+      "file": "archive/2024/rounds-sd/home.html",
+      "text_file": "archive/2024/rounds-sd/home.txt",
+      "bytes": 19879,
+      "sha256_html": "0ca1481b83311cd7559898bef549d20955eedefaac1ff89584380031c04e364d",
+      "sha256_text": "2432a0ff78d6a1304053e5f2662006189cee1705d7c289156eb31493df052077"
+    },
+    {
+      "original": "https://roundsforsenate.com/about/on-the-issues/",
+      "timestamp": "20241103100301",
+      "wayback": "https://web.archive.org/web/20241103100301/https://roundsforsenate.com/about/on-the-issues/",
+      "wayback_raw": "https://web.archive.org/web/20241103100301id_/https://roundsforsenate.com/about/on-the-issues/",
+      "file": "archive/2024/rounds-sd/about-on-the-issues.html",
+      "text_file": "archive/2024/rounds-sd/about-on-the-issues.txt",
+      "bytes": 17236,
+      "sha256_html": "a6e06c4326c63c3936c1d68cd138b9b8a3ed6c03f29034e951eb9f69c5df97ab",
+      "sha256_text": "8e8b4357f062f5d5ceaa7053d72345739d52ad4d8a2f410d4b1fdfde8354b0bb"
+    }
+  ],
+  "snapshots_found": {
+    "roundsforsenate.com": 19
+  },
+  "generated_utc": "2026-11-26T07:26:14Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
