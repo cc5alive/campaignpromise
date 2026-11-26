@@ -1,0 +1,49 @@
+{
+  "name": "Mark Kelly",
+  "domains_tried": [
+    "markkelly.com"
+  ],
+  "pages": [
+    {
+      "original": "https://markkelly.com/",
+      "timestamp": "20241031150003",
+      "wayback": "https://web.archive.org/web/20241031150003/https://markkelly.com/",
+      "wayback_raw": "https://web.archive.org/web/20241031150003id_/https://markkelly.com/",
+      "file": "archive/2024/kelly-az/home.html",
+      "text_file": "archive/2024/kelly-az/home.txt",
+      "bytes": 52454,
+      "sha256_html": "8438ecd4bfe26dddea05efeade20b876df6dca0b78e9870346e7141b38f6e165",
+      "sha256_text": "ad0924db0c6b08bb101e28b48216c7d7b343f23242c37c859261bac2e369a5f0"
+    },
+    {
+      "original": "https://markkelly.com/2022/10/06/fact-check-senator-kelly-fights-for-abortion-access/",
+      "timestamp": "20241004075912",
+      "wayback": "https://web.archive.org/web/20241004075912/https://markkelly.com/2022/10/06/fact-check-senator-kelly-fights-for-abortion-access/",
+      "wayback_raw": "https://web.archive.org/web/20241004075912id_/https://markkelly.com/2022/10/06/fact-check-senator-kelly-fights-for-abortion-access/",
+      "file": "archive/2024/kelly-az/2022-10-06-fact-check-senator-kelly-fights-for-abortion-access.html",
+      "text_file": "archive/2024/kelly-az/2022-10-06-fact-check-senator-kelly-fights-for-abortion-access.txt",
+      "bytes": 39756,
+      "sha256_html": "08e0510d4fd6187cafb214715a6eeeb9b4568314e7d6f6be5010ea0c4b54416d",
+      "sha256_text": "653fcb5a3e86ddc4789e986ce35df9546048dbc92d3397b8f55e1ff3d72f5ae6"
+    },
+    {
+      "original": "https://markkelly.com/2022/10/18/fact-check-blake-masters-national-republicans-lie-about-senator-kellys-record-of-keeping-arizonans-safe/",
+      "timestamp": "20240912121852",
+      "wayback": "https://web.archive.org/web/20240912121852/https://markkelly.com/2022/10/18/fact-check-blake-masters-national-republicans-lie-about-senator-kellys-record-of-keeping-arizonans-safe/",
+      "wayback_raw": "https://web.archive.org/web/20240912121852id_/https://markkelly.com/2022/10/18/fact-check-blake-masters-national-republicans-lie-about-senator-kellys-record-of-keeping-arizonans-safe/",
+      "file": "archive/2024/kelly-az/2022-10-18-fact-check-blake-masters-national-republicans-lie-about-senator-kellys-record-of-keeping-arizonans-safe.html",
+      "text_file": "archive/2024/kelly-az/2022-10-18-fact-check-blake-masters-national-republicans-lie-about-senator-kellys-record-of-keeping-arizonans-safe.txt",
+      "bytes": 52967,
+      "sha256_html": "6f8c57bb613a67fda5712d4e9fe0a75b18006c059bf5453d9b4783718de56b26",
+      "sha256_text": "6dd56d5efefc4f83b23bdc933d0e17457e4f4e38fef439ac8518a77a8d64b14a"
+    }
+  ],
+  "snapshots_found": {
+    "markkelly.com": 22
+  },
+  "generated_utc": "2026-11-26T08:16:14Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
