@@ -1,0 +1,115 @@
+{
+  "name": "Jeff Merkley",
+  "domains_tried": [
+    "jeffmerkley.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.jeffmerkley.com/",
+      "timestamp": "20241103171954",
+      "wayback": "https://web.archive.org/web/20241103171954/https://www.jeffmerkley.com/",
+      "wayback_raw": "https://web.archive.org/web/20241103171954id_/https://www.jeffmerkley.com/",
+      "file": "archive/2024/merkley-or/home.html",
+      "text_file": "archive/2024/merkley-or/home.txt",
+      "bytes": 17652,
+      "sha256_html": "1ef795189c913eed23186d22b87176b9039a81a3c6d6190c5f721bb6aba5d9eb",
+      "sha256_text": "a0c00ed25fc1b6fc66fe41eafdd8c6ac74c13250b08d47950ec1cb77ec9f8faa"
+    },
+    {
+      "original": "https://www.jeffmerkley.com/issues/",
+      "timestamp": "20241006151822",
+      "wayback": "https://web.archive.org/web/20241006151822/https://www.jeffmerkley.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241006151822id_/https://www.jeffmerkley.com/issues/",
+      "file": "archive/2024/merkley-or/issues.html",
+      "text_file": "archive/2024/merkley-or/issues.txt",
+      "bytes": 21000,
+      "sha256_html": "7b5258aa6e7e532d92dfc2adec2092b694df478ba08f8fa7a499c8f8edb19d71",
+      "sha256_text": "c65c11518f37037250ddf4ccbbb3af652fd08b01c66b1d53387fe9b4ecef55cb"
+    },
+    {
+      "original": "https://www.jeffmerkley.com/2022/05/21/two-women-fight-back-maga-crowd/",
+      "timestamp": "20240910030231",
+      "wayback": "https://web.archive.org/web/20240910030231/https://www.jeffmerkley.com/2022/05/21/two-women-fight-back-maga-crowd/",
+      "wayback_raw": "https://web.archive.org/web/20240910030231id_/https://www.jeffmerkley.com/2022/05/21/two-women-fight-back-maga-crowd/",
+      "file": "archive/2024/merkley-or/2022-05-21-two-women-fight-back-maga-crowd.html",
+      "text_file": "archive/2024/merkley-or/2022-05-21-two-women-fight-back-maga-crowd.txt",
+      "bytes": 17130,
+      "sha256_html": "6b593470810aa3aed34ef1dd3fe17822e27c664cbb2db1fa755524b864611fa4",
+      "sha256_text": "f1ea7a2e87e48a468764ace55407610c1e22519c576f2abeef408cbb71c31e45"
+    },
+    {
+      "original": "https://www.jeffmerkley.com/2023/09/16/we-have-fight-defend-tammy-baldwin-wisconsin/",
+      "timestamp": "20241009064600",
+      "wayback": "https://web.archive.org/web/20241009064600/https://www.jeffmerkley.com/2023/09/16/we-have-fight-defend-tammy-baldwin-wisconsin/",
+      "wayback_raw": "https://web.archive.org/web/20241009064600id_/https://www.jeffmerkley.com/2023/09/16/we-have-fight-defend-tammy-baldwin-wisconsin/",
+      "file": "archive/2024/merkley-or/2023-09-16-we-have-fight-defend-tammy-baldwin-wisconsin.html",
+      "text_file": "archive/2024/merkley-or/2023-09-16-we-have-fight-defend-tammy-baldwin-wisconsin.txt",
+      "bytes": 17874,
+      "sha256_html": "19f14d7ad0650de712eadb87a972aff270ef842f4a3cbb7071b0696094256fd8",
+      "sha256_text": "94264ffe5c48a663ba24ff204b40abfecb6f0574c7de93b3b38d09787bcdcfea"
+    },
+    {
+      "original": "https://www.jeffmerkley.com/2023/12/16/plan/",
+      "timestamp": "20240910051516",
+      "wayback": "https://web.archive.org/web/20240910051516/https://www.jeffmerkley.com/2023/12/16/plan/",
+      "wayback_raw": "https://web.archive.org/web/20240910051516id_/https://www.jeffmerkley.com/2023/12/16/plan/",
+      "file": "archive/2024/merkley-or/2023-12-16-plan.html",
+      "text_file": "archive/2024/merkley-or/2023-12-16-plan.txt",
+      "bytes": 17024,
+      "sha256_html": "13fd9555056e9d366a5f437cfb820b6d69f8471e87888b3d92cad1a299e8a002",
+      "sha256_text": "f9c9e8f8854401be6dc13e09abca4d7f133e35e5cbfde25b36d5487a7b2c1255"
+    },
+    {
+      "original": "https://www.jeffmerkley.com/2024/05/06/trump-spelled-out-his-terrifying-plans-second-term/",
+      "timestamp": "20240910045137",
+      "wayback": "https://web.archive.org/web/20240910045137/https://www.jeffmerkley.com/2024/05/06/trump-spelled-out-his-terrifying-plans-second-term/",
+      "wayback_raw": "https://web.archive.org/web/20240910045137id_/https://www.jeffmerkley.com/2024/05/06/trump-spelled-out-his-terrifying-plans-second-term/",
+      "file": "archive/2024/merkley-or/2024-05-06-trump-spelled-out-his-terrifying-plans-second-term.html",
+      "text_file": "archive/2024/merkley-or/2024-05-06-trump-spelled-out-his-terrifying-plans-second-term.txt",
+      "bytes": 20080,
+      "sha256_html": "7897ba78e8913b71e1bdd94531887c7532bbceb70b8007f9ef6883f3a45d0883",
+      "sha256_text": "4a399c45196676b4b6aa6ffbb387e24011a38d011414a9bfcca4f4e5fd6c6982"
+    },
+    {
+      "original": "https://www.jeffmerkley.com/2024/05/21/trumps-latest-abortion-position-more-radical-it-so/",
+      "timestamp": "20240910032313",
+      "wayback": "https://web.archive.org/web/20240910032313/https://www.jeffmerkley.com/2024/05/21/trumps-latest-abortion-position-more-radical-it-so/",
+      "wayback_raw": "https://web.archive.org/web/20240910032313id_/https://www.jeffmerkley.com/2024/05/21/trumps-latest-abortion-position-more-radical-it-so/",
+      "file": "archive/2024/merkley-or/2024-05-21-trumps-latest-abortion-position-more-radical-it-so.html",
+      "text_file": "archive/2024/merkley-or/2024-05-21-trumps-latest-abortion-position-more-radical-it-so.txt",
+      "bytes": 18686,
+      "sha256_html": "684ca5f5ee38593bb60e0f9302b3f70efb8c3924a48bc8831553d76f1de580bb",
+      "sha256_text": "92b90d7647bd9663bbffed85ad6f9d95725c7b7537e1db8a5e36fdb0b1676453"
+    },
+    {
+      "original": "https://www.jeffmerkley.com/2024/06/06/senators-should-understand-people-they-represent/",
+      "timestamp": "20240910031501",
+      "wayback": "https://web.archive.org/web/20240910031501/https://www.jeffmerkley.com/2024/06/06/senators-should-understand-people-they-represent/",
+      "wayback_raw": "https://web.archive.org/web/20240910031501id_/https://www.jeffmerkley.com/2024/06/06/senators-should-understand-people-they-represent/",
+      "file": "archive/2024/merkley-or/2024-06-06-senators-should-understand-people-they-represent.html",
+      "text_file": "archive/2024/merkley-or/2024-06-06-senators-should-understand-people-they-represent.txt",
+      "bytes": 18800,
+      "sha256_html": "b0c3f906d6ea9db1ee720f1c48fffd5d2f312ee0fd58f9c909adbbb4b82efce3",
+      "sha256_text": "b5052fd888f37505f198a7e3144fd6eb2fa192928c27ab2c8a884e01e507ff35"
+    },
+    {
+      "original": "https://www.jeffmerkley.com/about/",
+      "timestamp": "20241103213325",
+      "wayback": "https://web.archive.org/web/20241103213325/https://www.jeffmerkley.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241103213325id_/https://www.jeffmerkley.com/about/",
+      "file": "archive/2024/merkley-or/about.html",
+      "text_file": "archive/2024/merkley-or/about.txt",
+      "bytes": 20933,
+      "sha256_html": "65a75745d1917b772c8d4043492d484ec1076bd0543ec8398bc728e318ae3bbf",
+      "sha256_text": "5c3354af9c4c3d8548459ce9ea780a024f83478c7f472c963cb97e9f03f05279"
+    }
+  ],
+  "snapshots_found": {
+    "jeffmerkley.com": 85
+  },
+  "generated_utc": "2026-11-26T07:12:07Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
