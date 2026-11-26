@@ -1,0 +1,38 @@
+{
+  "name": "Mitch McConnell",
+  "domains_tried": [
+    "teammitch.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.teammitch.com/",
+      "timestamp": "20241027200416",
+      "wayback": "https://web.archive.org/web/20241027200416/https://www.teammitch.com/",
+      "wayback_raw": "https://web.archive.org/web/20241027200416id_/https://www.teammitch.com/",
+      "file": "archive/2024/mcconnell-ky/home.html",
+      "text_file": "archive/2024/mcconnell-ky/home.txt",
+      "bytes": 54739,
+      "sha256_html": "2cfaff0400401cd841e386a367613365fb164da1c4df26bf77563e28a7984b8f",
+      "sha256_text": "8dc9a560dd225f46a37a463661869876701fae33f63844b8a5190f71e97812bf"
+    },
+    {
+      "original": "https://www.teammitch.com/mcconnell-pledges-to-be-grim-reaper-for-progressive-policies/",
+      "timestamp": "20240910111852",
+      "wayback": "https://web.archive.org/web/20240910111852/https://www.teammitch.com/mcconnell-pledges-to-be-grim-reaper-for-progressive-policies/",
+      "wayback_raw": "https://web.archive.org/web/20240910111852id_/https://www.teammitch.com/mcconnell-pledges-to-be-grim-reaper-for-progressive-policies/",
+      "file": "archive/2024/mcconnell-ky/mcconnell-pledges-to-be-grim-reaper-for-progressive-policies.html",
+      "text_file": "archive/2024/mcconnell-ky/mcconnell-pledges-to-be-grim-reaper-for-progressive-policies.txt",
+      "bytes": 38136,
+      "sha256_html": "8232b87a777c672b26bee54357629ab6d9bb9e183167cba5b2cdded0883bb094",
+      "sha256_text": "d6ade77813ba9b043007e393df063fe83403b903c69c9d3a6b9d4f39b4704393"
+    }
+  ],
+  "snapshots_found": {
+    "teammitch.com": 15
+  },
+  "generated_utc": "2026-11-26T07:15:18Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
