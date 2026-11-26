@@ -1,0 +1,27 @@
+{
+  "name": "Julia Brownley",
+  "domains_tried": [
+    "juliabrownley.com"
+  ],
+  "pages": [
+    {
+      "original": "https://juliabrownley.com/",
+      "timestamp": "20241105092139",
+      "wayback": "https://web.archive.org/web/20241105092139/https://juliabrownley.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105092139id_/https://juliabrownley.com/",
+      "file": "archive/2024/brownley-ca/home.html",
+      "text_file": "archive/2024/brownley-ca/home.txt",
+      "bytes": 15091,
+      "sha256_html": "94c4687702d9c90a29452cc3788d01eb0bf9a03dbccfc4bc5152d9c91d8c3271",
+      "sha256_text": "2e8d7dcbe5bff8a943780a2bde440a31f2d317c9a54f690c1eb7df2c32f7e1b7"
+    }
+  ],
+  "snapshots_found": {
+    "juliabrownley.com": 2
+  },
+  "generated_utc": "2026-11-26T08:39:00Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
