@@ -1,0 +1,49 @@
+{
+  "name": "Chris Van Hollen",
+  "domains_tried": [
+    "vanhollen.org"
+  ],
+  "pages": [
+    {
+      "original": "https://vanhollen.org/",
+      "timestamp": "20241030071656",
+      "wayback": "https://web.archive.org/web/20241030071656/https://vanhollen.org/",
+      "wayback_raw": "https://web.archive.org/web/20241030071656id_/https://vanhollen.org/",
+      "file": "archive/2024/van-hollen-md/home.html",
+      "text_file": "archive/2024/van-hollen-md/home.txt",
+      "bytes": 38909,
+      "sha256_html": "1881213945f07cda26981a7e13b805b3d4d059cc640c565307174c651af8ad8d",
+      "sha256_text": "b0e2e1e2fb2e54bb7e9e2ff2c6b101b7962fc39a8050117b17f89e36c2aadba3"
+    },
+    {
+      "original": "https://vanhollen.org/issues/",
+      "timestamp": "20241011212033",
+      "wayback": "https://web.archive.org/web/20241011212033/https://vanhollen.org/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241011212033id_/https://vanhollen.org/issues/",
+      "file": "archive/2024/van-hollen-md/issues.html",
+      "text_file": "archive/2024/van-hollen-md/issues.txt",
+      "bytes": 34466,
+      "sha256_html": "8b57f76f03060cf41dc81211884223d3f6c29a30e1608a22aee6f771e12b0403",
+      "sha256_text": "97659eebff4e64beda42e76931820f21ae8554363417c2703928cb709b55a8e6"
+    },
+    {
+      "original": "https://vanhollen.org/about/",
+      "timestamp": "20241011210149",
+      "wayback": "https://web.archive.org/web/20241011210149/https://vanhollen.org/about/",
+      "wayback_raw": "https://web.archive.org/web/20241011210149id_/https://vanhollen.org/about/",
+      "file": "archive/2024/van-hollen-md/about.html",
+      "text_file": "archive/2024/van-hollen-md/about.txt",
+      "bytes": 27188,
+      "sha256_html": "66350e28a702acf124bea3946cc947f27f7031c3aa99555f5df86e9ef56eadc8",
+      "sha256_text": "0c5f058601baeb8e5b3833928adb258b7f7d5456e041b57d809688499c815d79"
+    }
+  ],
+  "snapshots_found": {
+    "vanhollen.org": 1
+  },
+  "generated_utc": "2026-11-26T08:34:46Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
