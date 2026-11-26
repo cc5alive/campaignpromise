@@ -1,0 +1,148 @@
+{
+  "name": "Pat Fallon",
+  "domains_tried": [
+    "fallonforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.fallonforcongress.com/",
+      "timestamp": "20241105042332",
+      "wayback": "https://web.archive.org/web/20241105042332/https://www.fallonforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105042332id_/https://www.fallonforcongress.com/",
+      "file": "archive/2024/fallon-tx/home.html",
+      "text_file": "archive/2024/fallon-tx/home.txt",
+      "bytes": 57229,
+      "sha256_html": "25e1543a7ddc42945072132215d8e35bf17372dd9f38bca024df8e5e14c1a642",
+      "sha256_text": "370d21f04e10109e2c5e5ea623d47d0d42a4b2dadb5e8bc8861d61200c1ba43a"
+    },
+    {
+      "original": "https://www.fallonforcongress.com/division/",
+      "timestamp": "20241105042317",
+      "wayback": "https://web.archive.org/web/20241105042317/https://www.fallonforcongress.com/division/",
+      "wayback_raw": "https://web.archive.org/web/20241105042317id_/https://www.fallonforcongress.com/division/",
+      "file": "archive/2024/fallon-tx/division.html",
+      "text_file": "archive/2024/fallon-tx/division.txt",
+      "bytes": 26035,
+      "sha256_html": "c7323c4f6b7046fa983467033292ccdfba7262447dd2b9a1a91f30adfc659ef9",
+      "sha256_text": "6c168c850d08b0aaae0ac1574c976bdbf0b732cdc9a1d079c6b4499e9d088103"
+    },
+    {
+      "original": "https://www.fallonforcongress.com/fighter/",
+      "timestamp": "20241105042330",
+      "wayback": "https://web.archive.org/web/20241105042330/https://www.fallonforcongress.com/fighter/",
+      "wayback_raw": "https://web.archive.org/web/20241105042330id_/https://www.fallonforcongress.com/fighter/",
+      "file": "archive/2024/fallon-tx/fighter.html",
+      "text_file": "archive/2024/fallon-tx/fighter.txt",
+      "bytes": 26036,
+      "sha256_html": "84d8ff801217591ef6dba90fb2d81bc39337355107f8a64a82ccc604639cc72e",
+      "sha256_text": "5dd206f465030c4e90f3436183eedba9d7af8164a1af848bd0efb5b1e437196d"
+    },
+    {
+      "original": "https://www.fallonforcongress.com/issues/",
+      "timestamp": "20241105042121",
+      "wayback": "https://web.archive.org/web/20241105042121/https://www.fallonforcongress.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105042121id_/https://www.fallonforcongress.com/issues/",
+      "file": "archive/2024/fallon-tx/issues.html",
+      "text_file": "archive/2024/fallon-tx/issues.txt",
+      "bytes": 31041,
+      "sha256_html": "9fac6f07ec374d1721d40942495409311c4dcc5afe0502dc0863fb34ce400299",
+      "sha256_text": "220e1d7c56b1cd1c24a5c21e5311b8e054b91d3d5359ec473793e68888d246d3"
+    },
+    {
+      "original": "https://www.fallonforcongress.com/record/",
+      "timestamp": "20241105042327",
+      "wayback": "https://web.archive.org/web/20241105042327/https://www.fallonforcongress.com/record/",
+      "wayback_raw": "https://web.archive.org/web/20241105042327id_/https://www.fallonforcongress.com/record/",
+      "file": "archive/2024/fallon-tx/record.html",
+      "text_file": "archive/2024/fallon-tx/record.txt",
+      "bytes": 26061,
+      "sha256_html": "ebabdab6cf840ab805cf43611514b069d1c8192d0aa3692a51c0a91d7e9cfd8c",
+      "sha256_text": "124a76e57adc7b02078b5b6d31080fc92cb5e04d4ddb747b334ab3b3d7bd6d44"
+    },
+    {
+      "original": "https://www.fallonforcongress.com/issues/2nd-amendment/",
+      "timestamp": "20241105042122",
+      "wayback": "https://web.archive.org/web/20241105042122/https://www.fallonforcongress.com/issues/2nd-amendment/",
+      "wayback_raw": "https://web.archive.org/web/20241105042122id_/https://www.fallonforcongress.com/issues/2nd-amendment/",
+      "file": "archive/2024/fallon-tx/issues-2nd-amendment.html",
+      "text_file": "archive/2024/fallon-tx/issues-2nd-amendment.txt",
+      "bytes": 26209,
+      "sha256_html": "e172af785157027ffee39710a77b7f1d75ba8bbb59f0b34fbd8a0ae764875a05",
+      "sha256_text": "d799e432a539ec0347f24b6068d54d63cd1dd95d6f4dee9ebd4e99e50a43588f"
+    },
+    {
+      "original": "https://www.fallonforcongress.com/issues/afghanistan-debacle/",
+      "timestamp": "20241105042110",
+      "wayback": "https://web.archive.org/web/20241105042110/https://www.fallonforcongress.com/issues/afghanistan-debacle/",
+      "wayback_raw": "https://web.archive.org/web/20241105042110id_/https://www.fallonforcongress.com/issues/afghanistan-debacle/",
+      "file": "archive/2024/fallon-tx/issues-afghanistan-debacle.html",
+      "text_file": "archive/2024/fallon-tx/issues-afghanistan-debacle.txt",
+      "bytes": 26203,
+      "sha256_html": "47641af9b72cde04f518c21617fe93d6d5e7a170b55ccf0ae116444bb95b10c1",
+      "sha256_text": "6b6965169d1e192f284e45ef58e076225a700282d41640ff3ed4a5e4f86d74ff"
+    },
+    {
+      "original": "https://www.fallonforcongress.com/issues/bidens-covid-hypocrisy/",
+      "timestamp": "20241105042118",
+      "wayback": "https://web.archive.org/web/20241105042118/https://www.fallonforcongress.com/issues/bidens-covid-hypocrisy/",
+      "wayback_raw": "https://web.archive.org/web/20241105042118id_/https://www.fallonforcongress.com/issues/bidens-covid-hypocrisy/",
+      "file": "archive/2024/fallon-tx/issues-bidens-covid-hypocrisy.html",
+      "text_file": "archive/2024/fallon-tx/issues-bidens-covid-hypocrisy.txt",
+      "bytes": 26176,
+      "sha256_html": "e55c8595eb8de87b5a4f49a7524167c15ce41a65429648c911fb395485b6ca7b",
+      "sha256_text": "2fe64714a6eee0ce6efa8e406d3b0ef5bdec7e10d8a296c73efc32e87601cb5e"
+    },
+    {
+      "original": "https://www.fallonforcongress.com/issues/border-catastrophe/",
+      "timestamp": "20241105042115",
+      "wayback": "https://web.archive.org/web/20241105042115/https://www.fallonforcongress.com/issues/border-catastrophe/",
+      "wayback_raw": "https://web.archive.org/web/20241105042115id_/https://www.fallonforcongress.com/issues/border-catastrophe/",
+      "file": "archive/2024/fallon-tx/issues-border-catastrophe.html",
+      "text_file": "archive/2024/fallon-tx/issues-border-catastrophe.txt",
+      "bytes": 26136,
+      "sha256_html": "caf7c85884e252b762ffb59fed38aeb56f38b6dd50dcfc30c47f48a6696d21d4",
+      "sha256_text": "ebe060055948527342a3bd8f99541e37e320dad66602ccb528af4eab5fa07fc5"
+    },
+    {
+      "original": "https://www.fallonforcongress.com/issues/build-back-better/",
+      "timestamp": "20241105042117",
+      "wayback": "https://web.archive.org/web/20241105042117/https://www.fallonforcongress.com/issues/build-back-better/",
+      "wayback_raw": "https://web.archive.org/web/20241105042117id_/https://www.fallonforcongress.com/issues/build-back-better/",
+      "file": "archive/2024/fallon-tx/issues-build-back-better.html",
+      "text_file": "archive/2024/fallon-tx/issues-build-back-better.txt",
+      "bytes": 26133,
+      "sha256_html": "e1caa9d987b6f9523ccb4fc30a923e4acf50077ab7eaa6b38c23fed851448779",
+      "sha256_text": "35a30513940b0f546d6566dca3e2647de8283cf99d95b185762ef77500b941f2"
+    },
+    {
+      "original": "https://www.fallonforcongress.com/issues/covid-science/",
+      "timestamp": "20241105042158",
+      "wayback": "https://web.archive.org/web/20241105042158/https://www.fallonforcongress.com/issues/covid-science/",
+      "wayback_raw": "https://web.archive.org/web/20241105042158id_/https://www.fallonforcongress.com/issues/covid-science/",
+      "file": "archive/2024/fallon-tx/issues-covid-science.html",
+      "text_file": "archive/2024/fallon-tx/issues-covid-science.txt",
+      "bytes": 26177,
+      "sha256_html": "c722090db069f911dfd96466be996794ce5044313539429ea400bafc214a3c5f",
+      "sha256_text": "2f0c7adfc87faae87e8a449f7e3d0729d7bb2aa798a26ef50421773378521730"
+    },
+    {
+      "original": "https://www.fallonforcongress.com/issues/crt-communist-race-theory/",
+      "timestamp": "20241105042208",
+      "wayback": "https://web.archive.org/web/20241105042208/https://www.fallonforcongress.com/issues/crt-communist-race-theory/",
+      "wayback_raw": "https://web.archive.org/web/20241105042208id_/https://www.fallonforcongress.com/issues/crt-communist-race-theory/",
+      "file": "archive/2024/fallon-tx/issues-crt-communist-race-theory.html",
+      "text_file": "archive/2024/fallon-tx/issues-crt-communist-race-theory.txt",
+      "bytes": 26189,
+      "sha256_html": "14625e3f237d16d414ccf2b8a6f625a135c0cb9591728c12d895d0be8a742dcc",
+      "sha256_text": "1496ce8005c9db2f0288313751a0a1e3cb51adf8d55203ebfcd4b1eee2f3ccee"
+    }
+  ],
+  "snapshots_found": {
+    "fallonforcongress.com": 101
+  },
+  "generated_utc": "2026-11-26T08:42:12Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
