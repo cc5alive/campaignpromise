@@ -1,0 +1,49 @@
+{
+  "name": "Peter Welch",
+  "domains_tried": [
+    "welchforvermont.com"
+  ],
+  "pages": [
+    {
+      "original": "https://welchforvermont.com/",
+      "timestamp": "20241103140414",
+      "wayback": "https://web.archive.org/web/20241103140414/https://welchforvermont.com/",
+      "wayback_raw": "https://web.archive.org/web/20241103140414id_/https://welchforvermont.com/",
+      "file": "archive/2024/welch-vt/home.html",
+      "text_file": "archive/2024/welch-vt/home.txt",
+      "bytes": 160992,
+      "sha256_html": "b88bb5e3ca2bef79b32e3dea4143bbfdc881896ee6ff41ce34c27c92a5f35bfe",
+      "sha256_text": "1f28372c656a1136e1235d331909a72ea5a819d9fe79de35fde68637a3da549c"
+    },
+    {
+      "original": "https://welchforvermont.com/issues/",
+      "timestamp": "20241103115540",
+      "wayback": "https://web.archive.org/web/20241103115540/https://welchforvermont.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241103115540id_/https://welchforvermont.com/issues/",
+      "file": "archive/2024/welch-vt/issues.html",
+      "text_file": "archive/2024/welch-vt/issues.txt",
+      "bytes": 119241,
+      "sha256_html": "89a414e3a56a3ef131c1ff09ec6066f4f0f0da8040fa2f7704fc6aa276c27dff",
+      "sha256_text": "c57366e2934b7ca32a6bff0010acfd10fe07d94df0e56dbd454247bd759c9430"
+    },
+    {
+      "original": "https://welchforvermont.com/issues/reproductive-rights/",
+      "timestamp": "20241103134257",
+      "wayback": "https://web.archive.org/web/20241103134257/https://welchforvermont.com/issues/reproductive-rights/",
+      "wayback_raw": "https://web.archive.org/web/20241103134257id_/https://welchforvermont.com/issues/reproductive-rights/",
+      "file": "archive/2024/welch-vt/issues-reproductive-rights.html",
+      "text_file": "archive/2024/welch-vt/issues-reproductive-rights.txt",
+      "bytes": 77459,
+      "sha256_html": "174bb24c29ac45baecc7f2d6491486e7b4c718d76a5c8e7dbd60ab69f1ce8fdf",
+      "sha256_text": "7da8a1bd214b8f2d3a25c31a8a7f61877e4019028ba6b1b4a056010b9c556882"
+    }
+  ],
+  "snapshots_found": {
+    "welchforvermont.com": 14
+  },
+  "generated_utc": "2026-11-26T08:30:15Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
