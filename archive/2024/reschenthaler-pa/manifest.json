@@ -1,0 +1,38 @@
+{
+  "name": "Guy Reschenthaler",
+  "domains_tried": [
+    "guyforpa.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.guyforpa.com/",
+      "timestamp": "20241105083541",
+      "wayback": "https://web.archive.org/web/20241105083541/https://www.guyforpa.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105083541id_/https://www.guyforpa.com/",
+      "file": "archive/2024/reschenthaler-pa/home.html",
+      "text_file": "archive/2024/reschenthaler-pa/home.txt",
+      "bytes": 42636,
+      "sha256_html": "6d5c30819255f2eb8d524a1cf7d9708a3bfe2570c9fb2dd682abba184303b172",
+      "sha256_text": "28897aa5a87e2fa82c450184bc44c916be9490141b7462aab7f364c999047a30"
+    },
+    {
+      "original": "https://www.guyforpa.com/issues/",
+      "timestamp": "20241105083450",
+      "wayback": "https://web.archive.org/web/20241105083450/https://www.guyforpa.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105083450id_/https://www.guyforpa.com/issues/",
+      "file": "archive/2024/reschenthaler-pa/issues.html",
+      "text_file": "archive/2024/reschenthaler-pa/issues.txt",
+      "bytes": 28444,
+      "sha256_html": "ecda37411b285c01767a67cf418d655b2eec16caf4a5d7682d9c7e85fc8f6e2e",
+      "sha256_text": "aec55a6c7b821373ce23c07a374c80291ba5d2ac22011d77111320e0df0ca64a"
+    }
+  ],
+  "snapshots_found": {
+    "guyforpa.com": 13
+  },
+  "generated_utc": "2026-11-26T08:09:41Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
