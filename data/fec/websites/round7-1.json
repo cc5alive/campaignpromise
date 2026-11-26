@@ -1,0 +1,50 @@
+{
+ "committees": {
+  "C00475392": {
+   "name": "CHRIS COONS FOR DELAWARE",
+   "website": "HTTPS://WWW.CHRISCOONS.COM",
+   "error": null
+  },
+  "C00313247": {
+   "name": "ROBERT ADERHOLT FOR CONGRESS",
+   "website": "WWW.ADERHOLTFORCONGRESS.ORG",
+   "error": null
+  },
+  "C00458398": {
+   "name": "BENNET FOR COLORADO",
+   "website": "HTTPS://MICHAELBENNET.COM/",
+   "error": null
+  },
+  "C00408534": {
+   "name": "BILIRAKIS FOR CONGRESS",
+   "website": "WWW.BILIRAKISFORCONGRESS.COM",
+   "error": null
+  },
+  "C00266940": {
+   "name": "SANFORD BISHOP FOR CONGRESS",
+   "website": "SANFORDBISHOP.COM",
+   "error": null
+  },
+  "C00492991": {
+   "name": "BLUMENTHAL FOR CONNECTICUT",
+   "website": "HTTPS://RICHARDBLUMENTHAL.COM/",
+   "error": null
+  },
+  "C00476317": {
+   "name": "BOOZMAN FOR ARKANSAS",
+   "website": "WWW.BOOZMANFORARKANSAS.COM",
+   "error": null
+  },
+  "C00412759": {
+   "name": "VERN BUCHANAN FOR CONGRESS",
+   "website": "WWW.VERNBUCHANAN.COM",
+   "error": null
+  },
+  "C00257337": {
+   "name": "KEN CALVERT FOR CONGRESS COMMITTEE",
+   "website": "WWW.CALVERTFORCONGRESS.COM",
+   "error": null
+  }
+ },
+ "searches": {}
+}
