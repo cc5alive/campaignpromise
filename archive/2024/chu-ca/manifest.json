@@ -1,0 +1,28 @@
+{
+  "name": "Judy Chu",
+  "domains_tried": [
+    "judychu.net",
+    "judychu.com"
+  ],
+  "pages": [
+    {
+      "original": "https://judychu.net/",
+      "timestamp": "20241015214531",
+      "wayback": "https://web.archive.org/web/20241015214531/https://judychu.net/",
+      "wayback_raw": "https://web.archive.org/web/20241015214531id_/https://judychu.net/",
+      "file": "archive/2024/chu-ca/home.html",
+      "text_file": "archive/2024/chu-ca/home.txt",
+      "bytes": 1038,
+      "sha256_html": "e2721bb4d50596a6c43e18101ccce5e18e659a1b4b5f918cb32129f9dd57c98f",
+      "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "snapshots_found": {
+    "judychu.net": 1085
+  },
+  "generated_utc": "2026-11-26T08:58:13Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
