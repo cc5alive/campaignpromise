@@ -1,0 +1,148 @@
+{
+  "name": "Scott DesJarlais",
+  "domains_tried": [
+    "scottdesjarlais.com"
+  ],
+  "pages": [
+    {
+      "original": "https://scottdesjarlais.com/",
+      "timestamp": "20241105092859",
+      "wayback": "https://web.archive.org/web/20241105092859/https://scottdesjarlais.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105092859id_/https://scottdesjarlais.com/",
+      "file": "archive/2024/desjarlais-tn/home.html",
+      "text_file": "archive/2024/desjarlais-tn/home.txt",
+      "bytes": 106497,
+      "sha256_html": "bb6dc53bd57102df560b6a320560686f7bbc21dd88b8edb25548a30f39268561",
+      "sha256_text": "7b79e6eb73462ce6b953b77a7b4bc2c4523e3a06bddc3f144b74cd122ad68016"
+    },
+    {
+      "original": "https://scottdesjarlais.com/issues/",
+      "timestamp": "20241105092631",
+      "wayback": "https://web.archive.org/web/20241105092631/https://scottdesjarlais.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105092631id_/https://scottdesjarlais.com/issues/",
+      "file": "archive/2024/desjarlais-tn/issues.html",
+      "text_file": "archive/2024/desjarlais-tn/issues.txt",
+      "bytes": 72809,
+      "sha256_html": "0b284942d58adb396064a8b7650dc4e4f1b001eb098d345fb4240bfc0c78271e",
+      "sha256_text": "cd3718d27a33ff2a201941f8b7e168b677bcc1c85897ed5a95bb715320f1c2be"
+    },
+    {
+      "original": "https://scottdesjarlais.com/issues/desjarlias-agriculture/",
+      "timestamp": "20241102113939",
+      "wayback": "https://web.archive.org/web/20241102113939/https://scottdesjarlais.com/issues/desjarlias-agriculture/",
+      "wayback_raw": "https://web.archive.org/web/20241102113939id_/https://scottdesjarlais.com/issues/desjarlias-agriculture/",
+      "file": "archive/2024/desjarlais-tn/issues-desjarlias-agriculture.html",
+      "text_file": "archive/2024/desjarlais-tn/issues-desjarlias-agriculture.txt",
+      "bytes": 50633,
+      "sha256_html": "f1c093be358ce1eb78ddeaa13086aeac627be586f0dd0e515e5a0949ce33c66e",
+      "sha256_text": "e5553a66ba0f2c0e7689318f6dabef091369ebac5d009783a7f0236df6d194f7"
+    },
+    {
+      "original": "https://scottdesjarlais.com/issues/desjarlias-budget_spending/",
+      "timestamp": "20241102114156",
+      "wayback": "https://web.archive.org/web/20241102114156/https://scottdesjarlais.com/issues/desjarlias-budget_spending/",
+      "wayback_raw": "https://web.archive.org/web/20241102114156id_/https://scottdesjarlais.com/issues/desjarlias-budget_spending/",
+      "file": "archive/2024/desjarlais-tn/issues-desjarlias-budget-spending.html",
+      "text_file": "archive/2024/desjarlais-tn/issues-desjarlias-budget-spending.txt",
+      "bytes": 50673,
+      "sha256_html": "c200259cda12092f4e99af8614dda7fdae32fac28e7687243402bcd154d30d59",
+      "sha256_text": "c7c82768658281f923d89bf31dccdd314699140e0b5174b9d6db8dfa5d78735f"
+    },
+    {
+      "original": "https://scottdesjarlais.com/issues/desjarlias-energy/",
+      "timestamp": "20241102113850",
+      "wayback": "https://web.archive.org/web/20241102113850/https://scottdesjarlais.com/issues/desjarlias-energy/",
+      "wayback_raw": "https://web.archive.org/web/20241102113850id_/https://scottdesjarlais.com/issues/desjarlias-energy/",
+      "file": "archive/2024/desjarlais-tn/issues-desjarlias-energy.html",
+      "text_file": "archive/2024/desjarlais-tn/issues-desjarlias-energy.txt",
+      "bytes": 50583,
+      "sha256_html": "546a2d08493a354ddbb88483a716bb1382af0629b195b5e96a0d3aca64c60b31",
+      "sha256_text": "fd085d79d31ebebd9e399d777bf4e7ff175377c697705239b72ce4e6ae3d30fe"
+    },
+    {
+      "original": "https://scottdesjarlais.com/issues/desjarlias-healthcare/",
+      "timestamp": "20241102114113",
+      "wayback": "https://web.archive.org/web/20241102114113/https://scottdesjarlais.com/issues/desjarlias-healthcare/",
+      "wayback_raw": "https://web.archive.org/web/20241102114113id_/https://scottdesjarlais.com/issues/desjarlias-healthcare/",
+      "file": "archive/2024/desjarlais-tn/issues-desjarlias-healthcare.html",
+      "text_file": "archive/2024/desjarlais-tn/issues-desjarlias-healthcare.txt",
+      "bytes": 50623,
+      "sha256_html": "7288a9ef7914575c368ac1f4625fa89e205b2ed86bb0268951e1c185e7cf6f3b",
+      "sha256_text": "12765fe73a1ff95e9b32de4b249c335042f0aae414b5e3c4bb7c51edff4b92cb"
+    },
+    {
+      "original": "https://scottdesjarlais.com/issues/desjarlias-immigration_bordersecurity/",
+      "timestamp": "20241102114018",
+      "wayback": "https://web.archive.org/web/20241102114018/https://scottdesjarlais.com/issues/desjarlias-immigration_bordersecurity/",
+      "wayback_raw": "https://web.archive.org/web/20241102114018id_/https://scottdesjarlais.com/issues/desjarlias-immigration_bordersecurity/",
+      "file": "archive/2024/desjarlais-tn/issues-desjarlias-immigration-bordersecurity.html",
+      "text_file": "archive/2024/desjarlais-tn/issues-desjarlias-immigration-bordersecurity.txt",
+      "bytes": 50783,
+      "sha256_html": "9428887e55722d8734edf4374322d0449631cea0b7b3331e15cc3316e32c741b",
+      "sha256_text": "05c5cef9ec31f224177f23ba0300c169aa8a1ad3271b4058675ed77ce584cd83"
+    },
+    {
+      "original": "https://scottdesjarlais.com/issues/desjarlias-jobs_economy/",
+      "timestamp": "20241102113805",
+      "wayback": "https://web.archive.org/web/20241102113805/https://scottdesjarlais.com/issues/desjarlias-jobs_economy/",
+      "wayback_raw": "https://web.archive.org/web/20241102113805id_/https://scottdesjarlais.com/issues/desjarlias-jobs_economy/",
+      "file": "archive/2024/desjarlais-tn/issues-desjarlias-jobs-economy.html",
+      "text_file": "archive/2024/desjarlais-tn/issues-desjarlias-jobs-economy.txt",
+      "bytes": 50643,
+      "sha256_html": "aed104f96a6f4e7edf0cab7b5269db2661b8085dd3e5a64c00592cdcf5f2db3b",
+      "sha256_text": "4de226c17f8fc644b6396d8cb271cc3a240146b13f6c19271635b6ede535c60b"
+    },
+    {
+      "original": "https://scottdesjarlais.com/issues/desjarlias-national_security/",
+      "timestamp": "20241102113722",
+      "wayback": "https://web.archive.org/web/20241102113722/https://scottdesjarlais.com/issues/desjarlias-national_security/",
+      "wayback_raw": "https://web.archive.org/web/20241102113722id_/https://scottdesjarlais.com/issues/desjarlias-national_security/",
+      "file": "archive/2024/desjarlais-tn/issues-desjarlias-national-security.html",
+      "text_file": "archive/2024/desjarlais-tn/issues-desjarlias-national-security.txt",
+      "bytes": 50693,
+      "sha256_html": "88e127dec27a71b08cdaae92b493a6d06ecd561a7a0e08817b308c869d68ca82",
+      "sha256_text": "abdb956bd490cdab2971709c7d9309f944658765335549561de8ff9e8fad8618"
+    },
+    {
+      "original": "https://scottdesjarlais.com/issues/desjarlias-social_security_medicare/",
+      "timestamp": "20241102113609",
+      "wayback": "https://web.archive.org/web/20241102113609/https://scottdesjarlais.com/issues/desjarlias-social_security_medicare/",
+      "wayback_raw": "https://web.archive.org/web/20241102113609id_/https://scottdesjarlais.com/issues/desjarlias-social_security_medicare/",
+      "file": "archive/2024/desjarlais-tn/issues-desjarlias-social-security-medicare.html",
+      "text_file": "archive/2024/desjarlais-tn/issues-desjarlias-social-security-medicare.txt",
+      "bytes": 50763,
+      "sha256_html": "00a7564c8f1589265117cf2e2a1afc50ca22a21dd25d3b064b6e897aeb994364",
+      "sha256_text": "36b44881e5defdbd5021f1d199fa592d2f0f3d71f8f29833f0d21937a3ffc344"
+    },
+    {
+      "original": "https://scottdesjarlais.com/issues/desjarlias-taxes_regulations/",
+      "timestamp": "20241102113437",
+      "wayback": "https://web.archive.org/web/20241102113437/https://scottdesjarlais.com/issues/desjarlias-taxes_regulations/",
+      "wayback_raw": "https://web.archive.org/web/20241102113437id_/https://scottdesjarlais.com/issues/desjarlias-taxes_regulations/",
+      "file": "archive/2024/desjarlais-tn/issues-desjarlias-taxes-regulations.html",
+      "text_file": "archive/2024/desjarlais-tn/issues-desjarlias-taxes-regulations.txt",
+      "bytes": 50693,
+      "sha256_html": "1a72941ccc9c09e47c140aee69cbc93dfd78ddbd98cb7bef0ccda3507765db03",
+      "sha256_text": "c8e32f5d1279d4acf0c1b1f6476b66d7838c471906b9d3b0cef269fd2c1fbe67"
+    },
+    {
+      "original": "https://scottdesjarlais.com/issues/desjarlias-veterans/",
+      "timestamp": "20241102113334",
+      "wayback": "https://web.archive.org/web/20241102113334/https://scottdesjarlais.com/issues/desjarlias-veterans/",
+      "wayback_raw": "https://web.archive.org/web/20241102113334id_/https://scottdesjarlais.com/issues/desjarlias-veterans/",
+      "file": "archive/2024/desjarlais-tn/issues-desjarlias-veterans.html",
+      "text_file": "archive/2024/desjarlais-tn/issues-desjarlias-veterans.txt",
+      "bytes": 50603,
+      "sha256_html": "d9af0611a1e0903ee6e272c14a493eb2d5040fd157ad8c14db3a615517e1af66",
+      "sha256_text": "602c9048f6d246877f74367bf96948d4bd5dd157c1bd10adc8305b8926a0005e"
+    }
+  ],
+  "snapshots_found": {
+    "scottdesjarlais.com": 100
+  },
+  "generated_utc": "2026-11-26T07:39:01Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
