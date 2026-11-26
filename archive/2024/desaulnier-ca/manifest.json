@@ -1,0 +1,71 @@
+{
+  "name": "Mark DeSaulnier",
+  "domains_tried": [
+    "desaulnierforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://desaulnierforcongress.com/",
+      "timestamp": "20241105043424",
+      "wayback": "https://web.archive.org/web/20241105043424/https://desaulnierforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105043424id_/https://desaulnierforcongress.com/",
+      "file": "archive/2024/desaulnier-ca/home.html",
+      "text_file": "archive/2024/desaulnier-ca/home.txt",
+      "bytes": 133298,
+      "sha256_html": "97222aa477ea96d46cf03b46c9daac2f17fbef589606da1d656bef5efc1e1f48",
+      "sha256_text": "fa296b2135704bb9610dc142765c6bf50f5d653dc58b7c6f7181c6768f2cf4d8"
+    },
+    {
+      "original": "https://desaulnierforcongress.com/issues/",
+      "timestamp": "20241105043712",
+      "wayback": "https://web.archive.org/web/20241105043712/https://desaulnierforcongress.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105043712id_/https://desaulnierforcongress.com/issues/",
+      "file": "archive/2024/desaulnier-ca/issues.html",
+      "text_file": "archive/2024/desaulnier-ca/issues.txt",
+      "bytes": 95919,
+      "sha256_html": "1535ce24f098e24b7b146221ccc0af7e8ed1b33f07c75f7e3b9ce55e169352a7",
+      "sha256_text": "4ca24c9db890bba3773a4b085c0be4e17355dde1c96d666abb077d6f8182c218"
+    },
+    {
+      "original": "https://desaulnierforcongress.com/richmond-standard-rep-desaulnier-history-will-not-forgive-trump/",
+      "timestamp": "20241105044949",
+      "wayback": "https://web.archive.org/web/20241105044949/https://desaulnierforcongress.com/richmond-standard-rep-desaulnier-history-will-not-forgive-trump/",
+      "wayback_raw": "https://web.archive.org/web/20241105044949id_/https://desaulnierforcongress.com/richmond-standard-rep-desaulnier-history-will-not-forgive-trump/",
+      "file": "archive/2024/desaulnier-ca/richmond-standard-rep-desaulnier-history-will-not-forgive-trump.html",
+      "text_file": "archive/2024/desaulnier-ca/richmond-standard-rep-desaulnier-history-will-not-forgive-trump.txt",
+      "bytes": 87294,
+      "sha256_html": "e28588b049c5c72349df0395a5fa789ee18bd6ea90b3f31632af5c68a3e92d7d",
+      "sha256_text": "cec475848eae7e2a9b05fc3ff875c5253a1af78d4bf27b366052ac8d5f46e06f"
+    },
+    {
+      "original": "https://desaulnierforcongress.com/issues/embed/",
+      "timestamp": "20241031233817",
+      "wayback": "https://web.archive.org/web/20241031233817/https://desaulnierforcongress.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241031233817id_/https://desaulnierforcongress.com/issues/embed/",
+      "file": "archive/2024/desaulnier-ca/issues-embed.html",
+      "text_file": "archive/2024/desaulnier-ca/issues-embed.txt",
+      "bytes": 95909,
+      "sha256_html": "8ff0f509f73a18f120ef5643bfd7ae1990d6a0c8a9334b22f0eafa604560f0d9",
+      "sha256_text": "4ca24c9db890bba3773a4b085c0be4e17355dde1c96d666abb077d6f8182c218"
+    },
+    {
+      "original": "https://desaulnierforcongress.com/richmond-standard-rep-desaulnier-history-will-not-forgive-trump/embed/",
+      "timestamp": "20241104205142",
+      "wayback": "https://web.archive.org/web/20241104205142/https://desaulnierforcongress.com/richmond-standard-rep-desaulnier-history-will-not-forgive-trump/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241104205142id_/https://desaulnierforcongress.com/richmond-standard-rep-desaulnier-history-will-not-forgive-trump/embed/",
+      "file": "archive/2024/desaulnier-ca/richmond-standard-rep-desaulnier-history-will-not-forgive-trump-embed.html",
+      "text_file": "archive/2024/desaulnier-ca/richmond-standard-rep-desaulnier-history-will-not-forgive-trump-embed.txt",
+      "bytes": 23093,
+      "sha256_html": "99cf84129d42bb8bba6a628e5a4afe6e944f8df469153d69fa72422f134b632e",
+      "sha256_text": "eb2fc8e9cea0673c196f651a190f7ca7e94e9e48e4d79ef40a015c25bf451645"
+    }
+  ],
+  "snapshots_found": {
+    "desaulnierforcongress.com": 173
+  },
+  "generated_utc": "2026-11-26T08:49:24Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
