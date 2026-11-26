@@ -1,0 +1,38 @@
+{
+  "name": "Cynthia M. Lummis",
+  "domains_tried": [
+    "lummisforwyoming.com"
+  ],
+  "pages": [
+    {
+      "original": "https://lummisforwyoming.com/",
+      "timestamp": "20241015192511",
+      "wayback": "https://web.archive.org/web/20241015192511/https://lummisforwyoming.com/",
+      "wayback_raw": "https://web.archive.org/web/20241015192511id_/https://lummisforwyoming.com/",
+      "file": "archive/2024/lummis-wy/home.html",
+      "text_file": "archive/2024/lummis-wy/home.txt",
+      "bytes": 70293,
+      "sha256_html": "3a53f137e49daaa6f17c84e649a9d330a084754605566cf5a44574d4ee5ea8ce",
+      "sha256_text": "4231b0a0b73b55721509b61f9354e5b47789d329419b5451b8be82102381e1cc"
+    },
+    {
+      "original": "https://lummisforwyoming.com/immigration-social-security-early-priorities-in-lummis-senate-campaign/",
+      "timestamp": "20240916221054",
+      "wayback": "https://web.archive.org/web/20240916221054/https://lummisforwyoming.com/immigration-social-security-early-priorities-in-lummis-senate-campaign/",
+      "wayback_raw": "https://web.archive.org/web/20240916221054id_/https://lummisforwyoming.com/immigration-social-security-early-priorities-in-lummis-senate-campaign/",
+      "file": "archive/2024/lummis-wy/immigration-social-security-early-priorities-in-lummis-senate-campaign.html",
+      "text_file": "archive/2024/lummis-wy/immigration-social-security-early-priorities-in-lummis-senate-campaign.txt",
+      "bytes": 34910,
+      "sha256_html": "68ca20640a8afb1be7042f5552425aacc3edd68b7e2ba142091ecf2a301ce747",
+      "sha256_text": "f31d5692b35c4a4dfc0cdac6c8d7e2dbe099934a767acae3ecd2af5b0b871490"
+    }
+  ],
+  "snapshots_found": {
+    "lummisforwyoming.com": 28
+  },
+  "generated_utc": "2026-11-26T08:16:46Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
