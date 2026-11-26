@@ -1,0 +1,71 @@
+{
+  "name": "Julia Letlow",
+  "domains_tried": [
+    "julialetlow.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.julialetlow.com/",
+      "timestamp": "20241105074558",
+      "wayback": "https://web.archive.org/web/20241105074558/https://www.julialetlow.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105074558id_/https://www.julialetlow.com/",
+      "file": "archive/2024/letlow-la/home.html",
+      "text_file": "archive/2024/letlow-la/home.txt",
+      "bytes": 628371,
+      "sha256_html": "ce6a0c4ed4d138aafcf7a41b905b6c2e1376f623001a3365ddce175fa0473a39",
+      "sha256_text": "089da7bcefedb38de2aa5bb3efc0394699447be9fb5c64516a7635881f5fb821"
+    },
+    {
+      "original": "https://www.julialetlow.com/standforlife",
+      "timestamp": "20241105075321",
+      "wayback": "https://web.archive.org/web/20241105075321/https://www.julialetlow.com/standforlife",
+      "wayback_raw": "https://web.archive.org/web/20241105075321id_/https://www.julialetlow.com/standforlife",
+      "file": "archive/2024/letlow-la/standforlife.html",
+      "text_file": "archive/2024/letlow-la/standforlife.txt",
+      "bytes": 596411,
+      "sha256_html": "65b1f0491c51e70cebfd7b392c209e1d2b1fdc6680191e9b39bda8e07236a2fe",
+      "sha256_text": "3f0a8888e967103ea0fd169968b8439d20b74c9c3b80f21a4c843a0eeccfe70d"
+    },
+    {
+      "original": "https://www.julialetlow.com/standforourvalues",
+      "timestamp": "20241105075318",
+      "wayback": "https://web.archive.org/web/20241105075318/https://www.julialetlow.com/standforourvalues",
+      "wayback_raw": "https://web.archive.org/web/20241105075318id_/https://www.julialetlow.com/standforourvalues",
+      "file": "archive/2024/letlow-la/standforourvalues.html",
+      "text_file": "archive/2024/letlow-la/standforourvalues.txt",
+      "bytes": 592145,
+      "sha256_html": "de6744108f24ccea7bb45c84d34f07a63b79938f17a5de2f58ec57541d09d25c",
+      "sha256_text": "54c2382d6664052756b086b6628ec4854af2f9635e15874723c6a3c598fc7c92"
+    },
+    {
+      "original": "https://www.julialetlow.com/theissues",
+      "timestamp": "20241105074649",
+      "wayback": "https://web.archive.org/web/20241105074649/https://www.julialetlow.com/theissues",
+      "wayback_raw": "https://web.archive.org/web/20241105074649id_/https://www.julialetlow.com/theissues",
+      "file": "archive/2024/letlow-la/theissues.html",
+      "text_file": "archive/2024/letlow-la/theissues.txt",
+      "bytes": 598672,
+      "sha256_html": "2872706112d899e0d5523d5a8b08b3331febf64457e1346b5ad9e8c28d047056",
+      "sha256_text": "82bf98133e2a747ebcdbd0a9a2aecf097301d8387da057bc01c83d7303a2f3e9"
+    },
+    {
+      "original": "https://www.julialetlow.com/post/%22https://siteassets.parastorage.com/pages/pages/standforourvalues",
+      "timestamp": "20240906103651",
+      "wayback": "https://web.archive.org/web/20240906103651/https://www.julialetlow.com/post/%22https://siteassets.parastorage.com/pages/pages/standforourvalues",
+      "wayback_raw": "https://web.archive.org/web/20240906103651id_/https://www.julialetlow.com/post/%22https://siteassets.parastorage.com/pages/pages/standforourvalues",
+      "file": "archive/2024/letlow-la/post-22https-siteassets-parastorage-com-pages-pages-standforourvalues.html",
+      "text_file": "archive/2024/letlow-la/post-22https-siteassets-parastorage-com-pages-pages-standforourvalues.txt",
+      "bytes": 337008,
+      "sha256_html": "a15afb3bf41a45115c8e445fc26b79458e351b5461a931c4b42c8c1a0fa18ffe",
+      "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "snapshots_found": {
+    "julialetlow.com": 484
+  },
+  "generated_utc": "2026-11-26T08:48:17Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
