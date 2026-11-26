@@ -1,0 +1,27 @@
+{
+  "name": "Dina Titus",
+  "domains_tried": [
+    "dinatitus.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.dinatitus.com/",
+      "timestamp": "20241105060958",
+      "wayback": "https://web.archive.org/web/20241105060958/https://www.dinatitus.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105060958id_/https://www.dinatitus.com/",
+      "file": "archive/2024/titus-nv/home.html",
+      "text_file": "archive/2024/titus-nv/home.txt",
+      "bytes": 750310,
+      "sha256_html": "c4c569eaa0b0f9fa80570eb34ec01a098eeb218e55dc0fb737fcc0792d533a2f",
+      "sha256_text": "5589c0eaf0e64cc43e8dd8ac457d0193ca9df92c986d0051f76bbe2612a164f3"
+    }
+  ],
+  "snapshots_found": {
+    "dinatitus.com": 187
+  },
+  "generated_utc": "2026-11-26T08:39:01Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
