@@ -1,0 +1,38 @@
+{
+  "name": "Mike Thompson",
+  "domains_tried": [
+    "mikethompsonforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.mikethompsonforcongress.com/",
+      "timestamp": "20241105092358",
+      "wayback": "https://web.archive.org/web/20241105092358/https://www.mikethompsonforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105092358id_/https://www.mikethompsonforcongress.com/",
+      "file": "archive/2024/thompson-ca/home.html",
+      "text_file": "archive/2024/thompson-ca/home.txt",
+      "bytes": 21701,
+      "sha256_html": "10867cdf0eb2ee9ff6a9cbded155e850dd863161dd852ff2e4ed8c3350ce9dd7",
+      "sha256_text": "f3b1f19acb754d77cefd5905e05c7bea4d1dc60ed7e53b15c3bafe3869d4bec1"
+    },
+    {
+      "original": "https://www.mikethompsonforcongress.com/issues",
+      "timestamp": "20241105092400",
+      "wayback": "https://web.archive.org/web/20241105092400/https://www.mikethompsonforcongress.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105092400id_/https://www.mikethompsonforcongress.com/issues",
+      "file": "archive/2024/thompson-ca/issues.html",
+      "text_file": "archive/2024/thompson-ca/issues.txt",
+      "bytes": 23393,
+      "sha256_html": "cc4359a7228d84296984a2f70645e01526f16e23501b1789d083fd65a522a070",
+      "sha256_text": "bfb99819a69fb1a3f9ff69db892421834a013b39d9f145bba41148b0f8b3cb11"
+    }
+  ],
+  "snapshots_found": {
+    "mikethompsonforcongress.com": 1
+  },
+  "generated_utc": "2026-11-26T08:38:07Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
