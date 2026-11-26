@@ -15,7 +15,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: archive-round
+  group: archive-round-${{ github.event.inputs.members_file }}
   cancel-in-progress: false
 
 jobs:
@@ -38,7 +38,7 @@ jobs:
     timeout-minutes: 45
     strategy:
       fail-fast: false
-      max-parallel: 6
+      max-parallel: 4
       matrix:
         member: ${{ fromJson(needs.plan.outputs.keys) }}
     env:
