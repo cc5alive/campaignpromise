@@ -1,0 +1,27 @@
+{
+  "name": "Nicholas A. Langworthy",
+  "domains_tried": [
+    "nicklangworthy.com"
+  ],
+  "pages": [
+    {
+      "original": "https://nicklangworthy.com/",
+      "timestamp": "20241105061348",
+      "wayback": "https://web.archive.org/web/20241105061348/https://nicklangworthy.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105061348id_/https://nicklangworthy.com/",
+      "file": "archive/2024/langworthy-ny/home.html",
+      "text_file": "archive/2024/langworthy-ny/home.txt",
+      "bytes": 384663,
+      "sha256_html": "cb8b656cc288faf5bf852913afc17d37f3652cd39384fb097f01b30e26f3f5fd",
+      "sha256_text": "4179227c50373780c539c21f06c86aa09aced48c7c6045022bde762edc05e733"
+    }
+  ],
+  "snapshots_found": {
+    "nicklangworthy.com": 4
+  },
+  "generated_utc": "2026-11-26T09:10:38Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
