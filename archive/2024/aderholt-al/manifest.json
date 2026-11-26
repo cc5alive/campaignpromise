@@ -1,0 +1,38 @@
+{
+  "name": "Robert B. Aderholt",
+  "domains_tried": [
+    "aderholtforcongress.org"
+  ],
+  "pages": [
+    {
+      "original": "https://aderholtforcongress.org/",
+      "timestamp": "20241105171307",
+      "wayback": "https://web.archive.org/web/20241105171307/https://aderholtforcongress.org/",
+      "wayback_raw": "https://web.archive.org/web/20241105171307id_/https://aderholtforcongress.org/",
+      "file": "archive/2024/aderholt-al/home.html",
+      "text_file": "archive/2024/aderholt-al/home.txt",
+      "bytes": 144317,
+      "sha256_html": "0a5888ff7a1dc6c29545fb0b24252442365dc4b0227850843c59e23b1b0077de",
+      "sha256_text": "a96969f345b9226ee9c72a01060ff4703ac34649fd486b60c36b79f5d4d65aa9"
+    },
+    {
+      "original": "https://aderholtforcongress.org/issues",
+      "timestamp": "20241105171318",
+      "wayback": "https://web.archive.org/web/20241105171318/https://aderholtforcongress.org/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105171318id_/https://aderholtforcongress.org/issues",
+      "file": "archive/2024/aderholt-al/issues.html",
+      "text_file": "archive/2024/aderholt-al/issues.txt",
+      "bytes": 134063,
+      "sha256_html": "d2abe8ed0dc36ae2c2d079b0f02ba60074a53b9e9981951c379d76262adde040",
+      "sha256_text": "5b590b15a74aa180b77b8cc6561908075683696dced3632619919d3f00798dc4"
+    }
+  ],
+  "snapshots_found": {
+    "aderholtforcongress.org": 6
+  },
+  "generated_utc": "2026-11-26T07:17:46Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
