@@ -1,0 +1,137 @@
+{
+  "name": "Salud O. Carbajal",
+  "domains_tried": [
+    "saludcarbajal.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.saludcarbajal.com/",
+      "timestamp": "20241105053031",
+      "wayback": "https://web.archive.org/web/20241105053031/https://www.saludcarbajal.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105053031id_/https://www.saludcarbajal.com/",
+      "file": "archive/2024/carbajal-ca/home.html",
+      "text_file": "archive/2024/carbajal-ca/home.txt",
+      "bytes": 33091,
+      "sha256_html": "cae2938c449aef55cef3ca2ac811be959dbbd0b7e91a46002ad2645436dc5541",
+      "sha256_text": "09a3769cb2e41b88870baa44b0a5813e2884a51bcac1e2c1d9461bb59c5e4ca3"
+    },
+    {
+      "original": "https://www.saludcarbajal.com/issues/",
+      "timestamp": "20241105053326",
+      "wayback": "https://web.archive.org/web/20241105053326/https://www.saludcarbajal.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105053326id_/https://www.saludcarbajal.com/issues/",
+      "file": "archive/2024/carbajal-ca/issues.html",
+      "text_file": "archive/2024/carbajal-ca/issues.txt",
+      "bytes": 24978,
+      "sha256_html": "4820de0475ad7e7ddb4935202f0cd2069395b2e34646aba214425894bd7d49a5",
+      "sha256_text": "2a3087a8d81fdf3ab7d7dbff9fe24f7dd33d9e0bfa1f5fbe8a48437b1f9e73bd"
+    },
+    {
+      "original": "https://www.saludcarbajal.com/issues/caring-for-our-veterans",
+      "timestamp": "20241105053116",
+      "wayback": "https://web.archive.org/web/20241105053116/https://www.saludcarbajal.com/issues/caring-for-our-veterans",
+      "wayback_raw": "https://web.archive.org/web/20241105053116id_/https://www.saludcarbajal.com/issues/caring-for-our-veterans",
+      "file": "archive/2024/carbajal-ca/issues-caring-for-our-veterans.html",
+      "text_file": "archive/2024/carbajal-ca/issues-caring-for-our-veterans.txt",
+      "bytes": 24658,
+      "sha256_html": "f19f74db02ae82ac0d2f8f4d1d71158e54f7f2cf6917ce8d61f36d73a8aed389",
+      "sha256_text": "753bb99784a10a999094de69738834e345d4b66a88b57704992324a15ded1493"
+    },
+    {
+      "original": "https://www.saludcarbajal.com/issues/creating-good-paying-jobs",
+      "timestamp": "20241105053116",
+      "wayback": "https://web.archive.org/web/20241105053116/https://www.saludcarbajal.com/issues/creating-good-paying-jobs",
+      "wayback_raw": "https://web.archive.org/web/20241105053116id_/https://www.saludcarbajal.com/issues/creating-good-paying-jobs",
+      "file": "archive/2024/carbajal-ca/issues-creating-good-paying-jobs.html",
+      "text_file": "archive/2024/carbajal-ca/issues-creating-good-paying-jobs.txt",
+      "bytes": 25116,
+      "sha256_html": "08e2fa337609f8980aafd610aa3036b32e341801852fc133a365cb5803d04f09",
+      "sha256_text": "e3eb45ea1a918d5443c53d5d90a6c75dd4349229a34a7422cd146299133cc2e3"
+    },
+    {
+      "original": "https://www.saludcarbajal.com/issues/fighting-for-the-middle-class",
+      "timestamp": "20241105053115",
+      "wayback": "https://web.archive.org/web/20241105053115/https://www.saludcarbajal.com/issues/fighting-for-the-middle-class",
+      "wayback_raw": "https://web.archive.org/web/20241105053115id_/https://www.saludcarbajal.com/issues/fighting-for-the-middle-class",
+      "file": "archive/2024/carbajal-ca/issues-fighting-for-the-middle-class.html",
+      "text_file": "archive/2024/carbajal-ca/issues-fighting-for-the-middle-class.txt",
+      "bytes": 25315,
+      "sha256_html": "4e7fef3adfb1a93b5d6f377d898cdb068fbcc7661565ca115f1efeaf4edf74bb",
+      "sha256_text": "8d96240b02c97c143d7c9d124456f87a60ceb62b6a5322cd4d73c7a13afeb9e3"
+    },
+    {
+      "original": "https://www.saludcarbajal.com/issues/helping-our-students-achieve-a-higher-education",
+      "timestamp": "20241105053116",
+      "wayback": "https://web.archive.org/web/20241105053116/https://www.saludcarbajal.com/issues/helping-our-students-achieve-a-higher-education",
+      "wayback_raw": "https://web.archive.org/web/20241105053116id_/https://www.saludcarbajal.com/issues/helping-our-students-achieve-a-higher-education",
+      "file": "archive/2024/carbajal-ca/issues-helping-our-students-achieve-a-higher-education.html",
+      "text_file": "archive/2024/carbajal-ca/issues-helping-our-students-achieve-a-higher-education.txt",
+      "bytes": 24652,
+      "sha256_html": "1c2fe24d4b163af1c130d046ce20185f7376309ec3e780330a8ae0486a639d2d",
+      "sha256_text": "543fa1387559c36d355b7a7e1f06116ad1a25eee0bd9e2b1dc712ab3d674f5ff"
+    },
+    {
+      "original": "https://www.saludcarbajal.com/issues/making-health-care-more-affordable",
+      "timestamp": "20241105053115",
+      "wayback": "https://web.archive.org/web/20241105053115/https://www.saludcarbajal.com/issues/making-health-care-more-affordable",
+      "wayback_raw": "https://web.archive.org/web/20241105053115id_/https://www.saludcarbajal.com/issues/making-health-care-more-affordable",
+      "file": "archive/2024/carbajal-ca/issues-making-health-care-more-affordable.html",
+      "text_file": "archive/2024/carbajal-ca/issues-making-health-care-more-affordable.txt",
+      "bytes": 24592,
+      "sha256_html": "b131d1c4da9c5deb11b3ded894564100a65f128011021ccaae5e7ba0e6ea8c79",
+      "sha256_text": "bc585c3679e7077aeb7e32f2ec0d3f73ed18792c418427d3b04e85fd0ffac2bf"
+    },
+    {
+      "original": "https://www.saludcarbajal.com/issues/preserving-our-natural-environment",
+      "timestamp": "20241105053117",
+      "wayback": "https://web.archive.org/web/20241105053117/https://www.saludcarbajal.com/issues/preserving-our-natural-environment",
+      "wayback_raw": "https://web.archive.org/web/20241105053117id_/https://www.saludcarbajal.com/issues/preserving-our-natural-environment",
+      "file": "archive/2024/carbajal-ca/issues-preserving-our-natural-environment.html",
+      "text_file": "archive/2024/carbajal-ca/issues-preserving-our-natural-environment.txt",
+      "bytes": 24982,
+      "sha256_html": "9fee46565afcc84bd6bc5d2211b92f73d339a15ebd49d5b0e5593ccbb04bd483",
+      "sha256_text": "23748171a590f1e8831ac8322884943db5a08371d7a89fac3809ec3701703c1f"
+    },
+    {
+      "original": "https://www.saludcarbajal.com/issues/pushing-for-sensible-gun-laws",
+      "timestamp": "20241105053117",
+      "wayback": "https://web.archive.org/web/20241105053117/https://www.saludcarbajal.com/issues/pushing-for-sensible-gun-laws",
+      "wayback_raw": "https://web.archive.org/web/20241105053117id_/https://www.saludcarbajal.com/issues/pushing-for-sensible-gun-laws",
+      "file": "archive/2024/carbajal-ca/issues-pushing-for-sensible-gun-laws.html",
+      "text_file": "archive/2024/carbajal-ca/issues-pushing-for-sensible-gun-laws.txt",
+      "bytes": 24435,
+      "sha256_html": "60462e8af7007877807e58ea9be01d75050b7ed68a9d37cc0833c70ead9a6f9d",
+      "sha256_text": "94329cb66a41c4b552cc196229eeddceb68fd78783f7f78daefafbd52b94519f"
+    },
+    {
+      "original": "https://www.saludcarbajal.com/issues/reproductive-justice",
+      "timestamp": "20241105053115",
+      "wayback": "https://web.archive.org/web/20241105053115/https://www.saludcarbajal.com/issues/reproductive-justice",
+      "wayback_raw": "https://web.archive.org/web/20241105053115id_/https://www.saludcarbajal.com/issues/reproductive-justice",
+      "file": "archive/2024/carbajal-ca/issues-reproductive-justice.html",
+      "text_file": "archive/2024/carbajal-ca/issues-reproductive-justice.txt",
+      "bytes": 24970,
+      "sha256_html": "a1a0fb2bc0f318cde55235ebd922d41e726e684cdd698af20e35530dce9d3340",
+      "sha256_text": "5d534c7625e487ca818c67a826ff95c88e70e7fbd51f231d9ea8c2552a32c955"
+    },
+    {
+      "original": "https://www.saludcarbajal.com/issues/strengthening-security-in-retirement",
+      "timestamp": "20241105053115",
+      "wayback": "https://web.archive.org/web/20241105053115/https://www.saludcarbajal.com/issues/strengthening-security-in-retirement",
+      "wayback_raw": "https://web.archive.org/web/20241105053115id_/https://www.saludcarbajal.com/issues/strengthening-security-in-retirement",
+      "file": "archive/2024/carbajal-ca/issues-strengthening-security-in-retirement.html",
+      "text_file": "archive/2024/carbajal-ca/issues-strengthening-security-in-retirement.txt",
+      "bytes": 24181,
+      "sha256_html": "0382583d67abb9cf8800ad498337eaab6e7aadade288a637e22943bff9c9fb56",
+      "sha256_text": "e9a00aedfde48f2301a0ba07e2bb3144d595ffb0315ae5dbfac308b5a6be9ea4"
+    }
+  ],
+  "snapshots_found": {
+    "saludcarbajal.com": 19
+  },
+  "generated_utc": "2026-11-26T07:49:41Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
