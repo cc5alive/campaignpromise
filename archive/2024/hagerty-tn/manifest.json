@@ -1,0 +1,60 @@
+{
+  "name": "Bill Hagerty",
+  "domains_tried": [
+    "teamhagerty.com"
+  ],
+  "pages": [
+    {
+      "original": "https://teamhagerty.com/",
+      "timestamp": "20241102064138",
+      "wayback": "https://web.archive.org/web/20241102064138/https://teamhagerty.com/",
+      "wayback_raw": "https://web.archive.org/web/20241102064138id_/https://teamhagerty.com/",
+      "file": "archive/2024/hagerty-tn/home.html",
+      "text_file": "archive/2024/hagerty-tn/home.txt",
+      "bytes": 54338,
+      "sha256_html": "1fc4bf860c7e310d049afa4425616c4f3aa028df1cb5cdfac5d7a434e3a85ad4",
+      "sha256_text": "2bae19a693db861297b7ff795b131ce2c99519e6d6cbced1dae79e056fda33ab"
+    },
+    {
+      "original": "https://teamhagerty.com/bill-hagerty-continues-to-stand-with-our-law-enforcement-officials/",
+      "timestamp": "20240808135954",
+      "wayback": "https://web.archive.org/web/20240808135954/https://teamhagerty.com/bill-hagerty-continues-to-stand-with-our-law-enforcement-officials/",
+      "wayback_raw": "https://web.archive.org/web/20240808135954id_/https://teamhagerty.com/bill-hagerty-continues-to-stand-with-our-law-enforcement-officials/",
+      "file": "archive/2024/hagerty-tn/bill-hagerty-continues-to-stand-with-our-law-enforcement-officials.html",
+      "text_file": "archive/2024/hagerty-tn/bill-hagerty-continues-to-stand-with-our-law-enforcement-officials.txt",
+      "bytes": 47474,
+      "sha256_html": "df1152bf75514095c3518cc0d9f53595dbac3060447ec236292e9cb78493a532",
+      "sha256_text": "dc344eb0ebc44125a760a0ef7d5f30dc01b311bc9e98dad798393b8363b92d99"
+    },
+    {
+      "original": "https://teamhagerty.com/the-issues/",
+      "timestamp": "20240919141031",
+      "wayback": "https://web.archive.org/web/20240919141031/https://teamhagerty.com/the-issues/",
+      "wayback_raw": "https://web.archive.org/web/20240919141031id_/https://teamhagerty.com/the-issues/",
+      "file": "archive/2024/hagerty-tn/the-issues.html",
+      "text_file": "archive/2024/hagerty-tn/the-issues.txt",
+      "bytes": 75416,
+      "sha256_html": "7a4d831a63f92bdca4df711442f3d2cee0437c156b1c75743781393353418a08",
+      "sha256_text": "8dfb1cf1c9d67fa5baa131ad9a348185caccee32b9e4aec0efc8aadecab43d22"
+    },
+    {
+      "original": "https://teamhagerty.com/issues/protecting-our-national-security/",
+      "timestamp": "20241014172856",
+      "wayback": "https://web.archive.org/web/20241014172856/https://teamhagerty.com/issues/protecting-our-national-security/",
+      "wayback_raw": "https://web.archive.org/web/20241014172856id_/https://teamhagerty.com/issues/protecting-our-national-security/",
+      "file": "archive/2024/hagerty-tn/issues-protecting-our-national-security.html",
+      "text_file": "archive/2024/hagerty-tn/issues-protecting-our-national-security.txt",
+      "bytes": 45096,
+      "sha256_html": "f2eeb0779ae93c03efd7356da728eea9f1d3d019c5927094a2daf550da1ee1d8",
+      "sha256_text": "38ee3439876c67f92b1783596711a31b6742ee94aa2d2e0e9f4e73f8e0589344"
+    }
+  ],
+  "snapshots_found": {
+    "teamhagerty.com": 13
+  },
+  "generated_utc": "2026-11-26T08:19:53Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
