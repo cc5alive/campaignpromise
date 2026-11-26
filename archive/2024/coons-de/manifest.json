@@ -1,0 +1,115 @@
+{
+  "name": "Christopher A. Coons",
+  "domains_tried": [
+    "chriscoons.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.chriscoons.com/",
+      "timestamp": "20241026015215",
+      "wayback": "https://web.archive.org/web/20241026015215/https://www.chriscoons.com/",
+      "wayback_raw": "https://web.archive.org/web/20241026015215id_/https://www.chriscoons.com/",
+      "file": "archive/2024/coons-de/home.html",
+      "text_file": "archive/2024/coons-de/home.txt",
+      "bytes": 32355,
+      "sha256_html": "cefd030c0a86d91e4416c43031ea15d174ce8fef03a311fcadaa4dbe71441a85",
+      "sha256_text": "cc6edf7efa01f8db5df4e12fd97ef4298c8e9ff3e196b6e3e9adca8139e3d202"
+    },
+    {
+      "original": "https://www.chriscoons.com/issue/civil-rights/",
+      "timestamp": "20240914023257",
+      "wayback": "https://web.archive.org/web/20240914023257/https://www.chriscoons.com/issue/civil-rights/",
+      "wayback_raw": "https://web.archive.org/web/20240914023257id_/https://www.chriscoons.com/issue/civil-rights/",
+      "file": "archive/2024/coons-de/issue-civil-rights.html",
+      "text_file": "archive/2024/coons-de/issue-civil-rights.txt",
+      "bytes": 31147,
+      "sha256_html": "45c59ac2f36dfe63d356060e5754276ee668394a65e42e176e54f609d910a325",
+      "sha256_text": "a804640a23b2f26361c9ce6c6d81fb5b96a44fd2b507795be87db13a848eb53f"
+    },
+    {
+      "original": "https://chriscoons.com/issue/climate-crisis/",
+      "timestamp": "20240919035011",
+      "wayback": "https://web.archive.org/web/20240919035011/https://chriscoons.com/issue/climate-crisis/",
+      "wayback_raw": "https://web.archive.org/web/20240919035011id_/https://chriscoons.com/issue/climate-crisis/",
+      "file": "archive/2024/coons-de/issue-climate-crisis.html",
+      "text_file": "archive/2024/coons-de/issue-climate-crisis.txt",
+      "bytes": 30032,
+      "sha256_html": "68540bc60a503f7c840792a42b6614785065842ef575363f46f1644c44ba24b9",
+      "sha256_text": "a6da906556fb7276c3aecc24b397d67156a784c221f4c79b56f3795284e312c5"
+    },
+    {
+      "original": "https://chriscoons.com/issue/criminal-justice-reform/",
+      "timestamp": "20240919052903",
+      "wayback": "https://web.archive.org/web/20240919052903/https://chriscoons.com/issue/criminal-justice-reform/",
+      "wayback_raw": "https://web.archive.org/web/20240919052903id_/https://chriscoons.com/issue/criminal-justice-reform/",
+      "file": "archive/2024/coons-de/issue-criminal-justice-reform.html",
+      "text_file": "archive/2024/coons-de/issue-criminal-justice-reform.txt",
+      "bytes": 29884,
+      "sha256_html": "6d7c561923c71dd2fe510b067eeb207b8e5ac9404257ca688916dd5cedc7bf14",
+      "sha256_text": "f9ea34f6c55eb323348dc9c62286b3b1d01130167c6d2d0cd757eab18998327c"
+    },
+    {
+      "original": "https://chriscoons.com/issue/gun-violence/",
+      "timestamp": "20240919053716",
+      "wayback": "https://web.archive.org/web/20240919053716/https://chriscoons.com/issue/gun-violence/",
+      "wayback_raw": "https://web.archive.org/web/20240919053716id_/https://chriscoons.com/issue/gun-violence/",
+      "file": "archive/2024/coons-de/issue-gun-violence.html",
+      "text_file": "archive/2024/coons-de/issue-gun-violence.txt",
+      "bytes": 29904,
+      "sha256_html": "389f3d8d9ba0e160b1af25a1ed0a359acb7081be882b3dadc4d44bee48b0795d",
+      "sha256_text": "8f47cee7abe146d4e2279d940d2aedb928ce090ef1b22f9f4e76e1044017d6e6"
+    },
+    {
+      "original": "https://chriscoons.com/issue/health-care/",
+      "timestamp": "20241008182803",
+      "wayback": "https://web.archive.org/web/20241008182803/https://chriscoons.com/issue/health-care/",
+      "wayback_raw": "https://web.archive.org/web/20241008182803id_/https://chriscoons.com/issue/health-care/",
+      "file": "archive/2024/coons-de/issue-health-care.html",
+      "text_file": "archive/2024/coons-de/issue-health-care.txt",
+      "bytes": 31051,
+      "sha256_html": "1e1e163b686290cd9bb719b44d1b7edfd764712d13c768d6e44d6208d4b082ca",
+      "sha256_text": "243e02e1a41123717a2f9ae94d43de9cfc26ad8dcb36ad78f58716cbc65b9fe9"
+    },
+    {
+      "original": "https://chriscoons.com/issue/immigration/",
+      "timestamp": "20240810075058",
+      "wayback": "https://web.archive.org/web/20240810075058/https://chriscoons.com/issue/immigration/",
+      "wayback_raw": "https://web.archive.org/web/20240810075058id_/https://chriscoons.com/issue/immigration/",
+      "file": "archive/2024/coons-de/issue-immigration.html",
+      "text_file": "archive/2024/coons-de/issue-immigration.txt",
+      "bytes": 29927,
+      "sha256_html": "ee97c4bc18c76c86fd227d0439deedf79489ea7c75a191ca8319367b79a12b6c",
+      "sha256_text": "8f42cd9f5c3b6b0d198b21a769327d00e90e874d1eddac389a3d706c12389c96"
+    },
+    {
+      "original": "https://www.chriscoons.com/issue/jobs-and-the-economy/",
+      "timestamp": "20240914023301",
+      "wayback": "https://web.archive.org/web/20240914023301/https://www.chriscoons.com/issue/jobs-and-the-economy/",
+      "wayback_raw": "https://web.archive.org/web/20240914023301id_/https://www.chriscoons.com/issue/jobs-and-the-economy/",
+      "file": "archive/2024/coons-de/issue-jobs-and-the-economy.html",
+      "text_file": "archive/2024/coons-de/issue-jobs-and-the-economy.txt",
+      "bytes": 30732,
+      "sha256_html": "5ed4204ed3fb36bab0d35bf7d68d786a885b66a6164b217c058fb10daea0449d",
+      "sha256_text": "dee93360a009d73e15c9e98435e6bafa79e4d5e3cf962da6d2f9335672ca4ef7"
+    },
+    {
+      "original": "https://chriscoons.com/issue/womens-rights/",
+      "timestamp": "20240919054124",
+      "wayback": "https://web.archive.org/web/20240919054124/https://chriscoons.com/issue/womens-rights/",
+      "wayback_raw": "https://web.archive.org/web/20240919054124id_/https://chriscoons.com/issue/womens-rights/",
+      "file": "archive/2024/coons-de/issue-womens-rights.html",
+      "text_file": "archive/2024/coons-de/issue-womens-rights.txt",
+      "bytes": 30020,
+      "sha256_html": "2fc1791678b72ae6647399b9c6fe743d5ee927fa32976baec9ed2b0f97efd22f",
+      "sha256_text": "d4cf113429abaf77788774d7e1b3ddd01e96b183e2f37ef67e7c51fbe4bc80bb"
+    }
+  ],
+  "snapshots_found": {
+    "chriscoons.com": 12
+  },
+  "generated_utc": "2026-11-26T07:17:19Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
