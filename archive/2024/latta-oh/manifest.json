@@ -1,0 +1,38 @@
+{
+  "name": "Robert E. Latta",
+  "domains_tried": [
+    "lattaforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.lattaforcongress.com/",
+      "timestamp": "20241105093129",
+      "wayback": "https://web.archive.org/web/20241105093129/https://www.lattaforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105093129id_/https://www.lattaforcongress.com/",
+      "file": "archive/2024/latta-oh/home.html",
+      "text_file": "archive/2024/latta-oh/home.txt",
+      "bytes": 19608,
+      "sha256_html": "1179fc402126f68848922b73ecd8d2083ca065d83926ed6db82c4536c2ad6eba",
+      "sha256_text": "ac67b7bb767d8a32dea51319c0dcff7d1083cd25870b31b59265f61e41c7e77e"
+    },
+    {
+      "original": "https://www.lattaforcongress.com/about",
+      "timestamp": "20241105044922",
+      "wayback": "https://web.archive.org/web/20241105044922/https://www.lattaforcongress.com/about",
+      "wayback_raw": "https://web.archive.org/web/20241105044922id_/https://www.lattaforcongress.com/about",
+      "file": "archive/2024/latta-oh/about.html",
+      "text_file": "archive/2024/latta-oh/about.txt",
+      "bytes": 7674,
+      "sha256_html": "e263dadb434445f264cf37297348739249481c366f597e4bb3234e6ade68de1e",
+      "sha256_text": "6f3db656f4abc9d09385bd8ac9e8498d98148dd9486f3aa9c11e44a7265a25b4"
+    }
+  ],
+  "snapshots_found": {
+    "lattaforcongress.com": 9
+  },
+  "generated_utc": "2026-11-26T08:00:00Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
