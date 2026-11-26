@@ -1,0 +1,126 @@
+{
+  "name": "Mike Ezell",
+  "domains_tried": [
+    "mikeezell.ms"
+  ],
+  "pages": [
+    {
+      "original": "https://www.mikeezell.ms/",
+      "timestamp": "20241105132353",
+      "wayback": "https://web.archive.org/web/20241105132353/https://www.mikeezell.ms/",
+      "wayback_raw": "https://web.archive.org/web/20241105132353id_/https://www.mikeezell.ms/",
+      "file": "archive/2024/ezell-ms/home.html",
+      "text_file": "archive/2024/ezell-ms/home.txt",
+      "bytes": 218734,
+      "sha256_html": "455aa0daf628be9e2c62f63ae6eb649f41356d864c2bf310d7a3bbeea9bb5f5f",
+      "sha256_text": "d761b645f5d4ac958763ef7e18f9dad9bc3847185307c9f295f9fc372771ee2f"
+    },
+    {
+      "original": "https://www.mikeezell.ms/issues",
+      "timestamp": "20241105133845",
+      "wayback": "https://web.archive.org/web/20241105133845/https://www.mikeezell.ms/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105133845id_/https://www.mikeezell.ms/issues",
+      "file": "archive/2024/ezell-ms/issues.html",
+      "text_file": "archive/2024/ezell-ms/issues.txt",
+      "bytes": 87739,
+      "sha256_html": "5d9b562c2ed745b88120b853f3111ed4cb6c9b9d76ca7604e2ba6d7d0d3d4e07",
+      "sha256_text": "7ef95d80348d3ddded28f33fe18cd361e9465890de8829034fde483a5d9d0a4a"
+    },
+    {
+      "original": "https://www.mikeezell.ms/the-palazzo-hypocrisy-continues-palazzos-rhetoric-vs-record-on-proxy-voting",
+      "timestamp": "20241105132411",
+      "wayback": "https://web.archive.org/web/20241105132411/https://www.mikeezell.ms/the-palazzo-hypocrisy-continues-palazzos-rhetoric-vs-record-on-proxy-voting",
+      "wayback_raw": "https://web.archive.org/web/20241105132411id_/https://www.mikeezell.ms/the-palazzo-hypocrisy-continues-palazzos-rhetoric-vs-record-on-proxy-voting",
+      "file": "archive/2024/ezell-ms/the-palazzo-hypocrisy-continues-palazzos-rhetoric-vs-record-on-proxy-voting.html",
+      "text_file": "archive/2024/ezell-ms/the-palazzo-hypocrisy-continues-palazzos-rhetoric-vs-record-on-proxy-voting.txt",
+      "bytes": 88302,
+      "sha256_html": "f46a5f1ab40a066190a81ad80f74d7991751c3daaee2dce485747fc2ee59949e",
+      "sha256_text": "f24f877a7f61f9733d358dba3861e4a8c14017dde1a200ce7e4a4af39c7efeb1"
+    },
+    {
+      "original": "https://www.mikeezell.ms/the-palazzo-record",
+      "timestamp": "20241105132407",
+      "wayback": "https://web.archive.org/web/20241105132407/https://www.mikeezell.ms/the-palazzo-record",
+      "wayback_raw": "https://web.archive.org/web/20241105132407id_/https://www.mikeezell.ms/the-palazzo-record",
+      "file": "archive/2024/ezell-ms/the-palazzo-record.html",
+      "text_file": "archive/2024/ezell-ms/the-palazzo-record.txt",
+      "bytes": 95483,
+      "sha256_html": "a8500e3321252808dded4cbac073303f7d6d3c8122e0a4e0c9013477cbc81983",
+      "sha256_text": "4c75e43e3226b23d6d848fd8de53ee3530617225f976dd15ace55995e55fea28"
+    },
+    {
+      "original": "https://www.mikeezell.ms/issues/defend-american-values",
+      "timestamp": "20241105132357",
+      "wayback": "https://web.archive.org/web/20241105132357/https://www.mikeezell.ms/issues/defend-american-values",
+      "wayback_raw": "https://web.archive.org/web/20241105132357id_/https://www.mikeezell.ms/issues/defend-american-values",
+      "file": "archive/2024/ezell-ms/issues-defend-american-values.html",
+      "text_file": "archive/2024/ezell-ms/issues-defend-american-values.txt",
+      "bytes": 182107,
+      "sha256_html": "dd15564bb60a37c0909fbe00264b0c573b12c43c4827f745ed3ca989efb26d9e",
+      "sha256_text": "07d09f55f72e0d69f86f26a1533b427657b463073695fc115281d9a63081e277"
+    },
+    {
+      "original": "https://www.mikeezell.ms/issues/protect-our-unborn-children",
+      "timestamp": "20241105132353",
+      "wayback": "https://web.archive.org/web/20241105132353/https://www.mikeezell.ms/issues/protect-our-unborn-children",
+      "wayback_raw": "https://web.archive.org/web/20241105132353id_/https://www.mikeezell.ms/issues/protect-our-unborn-children",
+      "file": "archive/2024/ezell-ms/issues-protect-our-unborn-children.html",
+      "text_file": "archive/2024/ezell-ms/issues-protect-our-unborn-children.txt",
+      "bytes": 167077,
+      "sha256_html": "03db27a7d6f28528f6f306fa65bb2fa17ce42425be3ff455ecf4670423d1a397",
+      "sha256_text": "5302d023834ceaf12bb9252e4edfb79c95f8c7a86283578cbf282c1597ef1adf"
+    },
+    {
+      "original": "https://www.mikeezell.ms/issues/put-america-mississippi-first",
+      "timestamp": "20241105132358",
+      "wayback": "https://web.archive.org/web/20241105132358/https://www.mikeezell.ms/issues/put-america-mississippi-first",
+      "wayback_raw": "https://web.archive.org/web/20241105132358id_/https://www.mikeezell.ms/issues/put-america-mississippi-first",
+      "file": "archive/2024/ezell-ms/issues-put-america-mississippi-first.html",
+      "text_file": "archive/2024/ezell-ms/issues-put-america-mississippi-first.txt",
+      "bytes": 185935,
+      "sha256_html": "df4ed8f3c156cb670df8d56db5073ddcb4223aff7f18bda11cc6a40d619c5701",
+      "sha256_text": "e622e117f8d5cb33143b4fc4598c3013e4ec084628a68e2643367337b2f66f07"
+    },
+    {
+      "original": "https://www.mikeezell.ms/issues/Stand-Up-for-Our-Military-Veterans",
+      "timestamp": "20241105132359",
+      "wayback": "https://web.archive.org/web/20241105132359/https://www.mikeezell.ms/issues/Stand-Up-for-Our-Military-Veterans",
+      "wayback_raw": "https://web.archive.org/web/20241105132359id_/https://www.mikeezell.ms/issues/Stand-Up-for-Our-Military-Veterans",
+      "file": "archive/2024/ezell-ms/issues-stand-up-for-our-military-veterans.html",
+      "text_file": "archive/2024/ezell-ms/issues-stand-up-for-our-military-veterans.txt",
+      "bytes": 182767,
+      "sha256_html": "57a160de4ebf14d4c91f008cff92138221b37c1cb91dbbf365507a6764838e33",
+      "sha256_text": "904a2552c97135f219a309229583a18e59bb5518cb67f7e3bb73912b7f5a61a4"
+    },
+    {
+      "original": "https://www.mikeezell.ms/issues/support-our-law-enforcement",
+      "timestamp": "20241105132345",
+      "wayback": "https://web.archive.org/web/20241105132345/https://www.mikeezell.ms/issues/support-our-law-enforcement",
+      "wayback_raw": "https://web.archive.org/web/20241105132345id_/https://www.mikeezell.ms/issues/support-our-law-enforcement",
+      "file": "archive/2024/ezell-ms/issues-support-our-law-enforcement.html",
+      "text_file": "archive/2024/ezell-ms/issues-support-our-law-enforcement.txt",
+      "bytes": 178825,
+      "sha256_html": "beddb26965dc7b92903a7246f3ea08dbe4b4f3c99f72290f6f9ca2d985efb149",
+      "sha256_text": "bfcbd9190d2ecc12f846356d62aa429fd17d6a7740140b2a2a6037a84be711ed"
+    },
+    {
+      "original": "https://www.mikeezell.ms/about",
+      "timestamp": "20241105132359",
+      "wayback": "https://web.archive.org/web/20241105132359/https://www.mikeezell.ms/about",
+      "wayback_raw": "https://web.archive.org/web/20241105132359id_/https://www.mikeezell.ms/about",
+      "file": "archive/2024/ezell-ms/about.html",
+      "text_file": "archive/2024/ezell-ms/about.txt",
+      "bytes": 210269,
+      "sha256_html": "eab8f038baa491c5a6ed317a776d3bc4995dcab6b93466036c11284275d960a3",
+      "sha256_text": "611b07aa93c69db30d924841f8fc702a7a137215f880204274f8de9d634bca2f"
+    }
+  ],
+  "snapshots_found": {
+    "mikeezell.ms": 58
+  },
+  "generated_utc": "2026-11-26T09:06:50Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
