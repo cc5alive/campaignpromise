@@ -1,0 +1,104 @@
+{
+  "name": "J. French Hill",
+  "domains_tried": [
+    "electfrench.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.electfrench.com/",
+      "timestamp": "20241105122357",
+      "wayback": "https://web.archive.org/web/20241105122357/https://www.electfrench.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105122357id_/https://www.electfrench.com/",
+      "file": "archive/2024/hill-ar/home.html",
+      "text_file": "archive/2024/hill-ar/home.txt",
+      "bytes": 72379,
+      "sha256_html": "b3bb087fede1f5aca6f8d3a42f386e12249bf21d78d5d0dd1af6708204b5d6c8",
+      "sha256_text": "71f8612d694492e66c5d4de288ae3726d2b07a60b7caace1da5725aaf36f1308"
+    },
+    {
+      "original": "https://www.electfrench.com/issues/",
+      "timestamp": "20241105122528",
+      "wayback": "https://web.archive.org/web/20241105122528/https://www.electfrench.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105122528id_/https://www.electfrench.com/issues/",
+      "file": "archive/2024/hill-ar/issues.html",
+      "text_file": "archive/2024/hill-ar/issues.txt",
+      "bytes": 80810,
+      "sha256_html": "a5e0e86bac81ab7bf808725a328408980b7f5764820d9604221fa5ba8ae7f1b5",
+      "sha256_text": "bb81a5d474f20150b6524ae6cac30fccf03dfc717d3d507b6efdc9a8a594367f"
+    },
+    {
+      "original": "https://www.electfrench.com/issues/embed/",
+      "timestamp": "20241101024432",
+      "wayback": "https://web.archive.org/web/20241101024432/https://www.electfrench.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241101024432id_/https://www.electfrench.com/issues/embed/",
+      "file": "archive/2024/hill-ar/issues-embed.html",
+      "text_file": "archive/2024/hill-ar/issues-embed.txt",
+      "bytes": 20649,
+      "sha256_html": "a6f3069f941c2b2d7ea7e640d0b42674397ddf5b5fa4ca04cac0bcb2c4009cda",
+      "sha256_text": "a9037838b40700a431a06db0b4cb77f6b57e928ed934f87b9ba7395490d14679"
+    },
+    {
+      "original": "https://www.electfrench.com/uncategorized/hill-drops-new-ad-targeting-tuckers-refusal-to-take-a-stand/",
+      "timestamp": "20241105122730",
+      "wayback": "https://web.archive.org/web/20241105122730/https://www.electfrench.com/uncategorized/hill-drops-new-ad-targeting-tuckers-refusal-to-take-a-stand/",
+      "wayback_raw": "https://web.archive.org/web/20241105122730id_/https://www.electfrench.com/uncategorized/hill-drops-new-ad-targeting-tuckers-refusal-to-take-a-stand/",
+      "file": "archive/2024/hill-ar/uncategorized-hill-drops-new-ad-targeting-tuckers-refusal-to-take-a-stand.html",
+      "text_file": "archive/2024/hill-ar/uncategorized-hill-drops-new-ad-targeting-tuckers-refusal-to-take-a-stand.txt",
+      "bytes": 49321,
+      "sha256_html": "4039250fe9b24019e8deae568d13db93d0e1afce65bab81bd15a5439d13dc6cd",
+      "sha256_text": "5001b912fcc0ea303c20adedc0123dcd58adbea0baf0fabc982365f76782cc0b"
+    },
+    {
+      "original": "https://www.electfrench.com/uncategorized/setting-the-record-straight-on-joyce-elliotts-dishonest-attacks/",
+      "timestamp": "20241105122733",
+      "wayback": "https://web.archive.org/web/20241105122733/https://www.electfrench.com/uncategorized/setting-the-record-straight-on-joyce-elliotts-dishonest-attacks/",
+      "wayback_raw": "https://web.archive.org/web/20241105122733id_/https://www.electfrench.com/uncategorized/setting-the-record-straight-on-joyce-elliotts-dishonest-attacks/",
+      "file": "archive/2024/hill-ar/uncategorized-setting-the-record-straight-on-joyce-elliotts-dishonest-attacks.html",
+      "text_file": "archive/2024/hill-ar/uncategorized-setting-the-record-straight-on-joyce-elliotts-dishonest-attacks.txt",
+      "bytes": 52426,
+      "sha256_html": "f4c2cb5101b73ecbb0fd107aba61d8b99f8428ab36e2af23118acd58b9d56390",
+      "sha256_text": "99c6fa82ffebfd9cceddce84ce07bc045f661a24efed5bb91c89e34e64ac8ae7"
+    },
+    {
+      "original": "https://www.electfrench.com/uncategorized/hill-drops-new-ad-targeting-tuckers-refusal-to-take-a-stand/embed/",
+      "timestamp": "20241101114903",
+      "wayback": "https://web.archive.org/web/20241101114903/https://www.electfrench.com/uncategorized/hill-drops-new-ad-targeting-tuckers-refusal-to-take-a-stand/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241101114903id_/https://www.electfrench.com/uncategorized/hill-drops-new-ad-targeting-tuckers-refusal-to-take-a-stand/embed/",
+      "file": "archive/2024/hill-ar/uncategorized-hill-drops-new-ad-targeting-tuckers-refusal-to-take-a-stand-embed.html",
+      "text_file": "archive/2024/hill-ar/uncategorized-hill-drops-new-ad-targeting-tuckers-refusal-to-take-a-stand-embed.txt",
+      "bytes": 21680,
+      "sha256_html": "97b4dafda055d9f55509c87362d08f986d0c20123e6ae555ef8fb91498cf860c",
+      "sha256_text": "fd42d8d796bf2f2ca70e1207f9ea3480c0f13cf720e36c4a0bba3244a1606c0c"
+    },
+    {
+      "original": "https://www.electfrench.com/uncategorized/setting-the-record-straight-on-joyce-elliotts-dishonest-attacks/embed/",
+      "timestamp": "20241101114843",
+      "wayback": "https://web.archive.org/web/20241101114843/https://www.electfrench.com/uncategorized/setting-the-record-straight-on-joyce-elliotts-dishonest-attacks/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241101114843id_/https://www.electfrench.com/uncategorized/setting-the-record-straight-on-joyce-elliotts-dishonest-attacks/embed/",
+      "file": "archive/2024/hill-ar/uncategorized-setting-the-record-straight-on-joyce-elliotts-dishonest-attacks-embed.html",
+      "text_file": "archive/2024/hill-ar/uncategorized-setting-the-record-straight-on-joyce-elliotts-dishonest-attacks-embed.txt",
+      "bytes": 21709,
+      "sha256_html": "a0b2b1d4cfce00e9d67ed99e6f1d84e4864cb1c3ff25f47fcd76fe36932983d8",
+      "sha256_text": "09939f74ce7856ceafe91958f14c0610b1c09d05a546dc2e4191b6a9d0c538f6"
+    },
+    {
+      "original": "https://www.electfrench.com/about/",
+      "timestamp": "20241105122423",
+      "wayback": "https://web.archive.org/web/20241105122423/https://www.electfrench.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105122423id_/https://www.electfrench.com/about/",
+      "file": "archive/2024/hill-ar/about.html",
+      "text_file": "archive/2024/hill-ar/about.txt",
+      "bytes": 54582,
+      "sha256_html": "215d0d15e8fd2db3febeac77c7a9ba2f2820e1d98c11f8a23f9b1ea3f42e8b76",
+      "sha256_text": "d6f03009cc289d2b0f34781bd87d4ff9362b11db1611dbf1488ca6b46316b5bd"
+    }
+  ],
+  "snapshots_found": {
+    "electfrench.com": 36
+  },
+  "generated_utc": "2026-11-26T08:48:31Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
