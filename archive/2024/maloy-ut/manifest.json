@@ -1,0 +1,38 @@
+{
+  "name": "Celeste Maloy",
+  "domains_tried": [
+    "celesteforutah.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.celesteforutah.com/",
+      "timestamp": "20241105192335",
+      "wayback": "https://web.archive.org/web/20241105192335/https://www.celesteforutah.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105192335id_/https://www.celesteforutah.com/",
+      "file": "archive/2024/maloy-ut/home.html",
+      "text_file": "archive/2024/maloy-ut/home.txt",
+      "bytes": 153498,
+      "sha256_html": "f7929b3e3a05d9c9696a2564f499b34bd6c538be73657cf5800dd00ed96a8be1",
+      "sha256_text": "04ad9287bd6ec4fa6cd37b0bf9547a4599550dd136bcdd26d12c7c63b65cf683"
+    },
+    {
+      "original": "https://www.celesteforutah.com/issues",
+      "timestamp": "20241105192344",
+      "wayback": "https://web.archive.org/web/20241105192344/https://www.celesteforutah.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105192344id_/https://www.celesteforutah.com/issues",
+      "file": "archive/2024/maloy-ut/issues.html",
+      "text_file": "archive/2024/maloy-ut/issues.txt",
+      "bytes": 122834,
+      "sha256_html": "137d55b734a2c969a1460afd2d09e0499f6291a79ba8fe889533f1be95767cbb",
+      "sha256_text": "4a787bd946913fbcf61c72b30d306af3f40e08884309fa5395e082b01c1f76bb"
+    }
+  ],
+  "snapshots_found": {
+    "celesteforutah.com": 12
+  },
+  "generated_utc": "2026-11-26T09:14:52Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
