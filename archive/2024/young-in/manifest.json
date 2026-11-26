@@ -1,0 +1,148 @@
+{
+  "name": "Todd Young",
+  "domains_tried": [
+    "toddyoung.org"
+  ],
+  "pages": [
+    {
+      "original": "https://toddyoung.org/",
+      "timestamp": "20241105090105",
+      "wayback": "https://web.archive.org/web/20241105090105/https://toddyoung.org/",
+      "wayback_raw": "https://web.archive.org/web/20241105090105id_/https://toddyoung.org/",
+      "file": "archive/2024/young-in/home.html",
+      "text_file": "archive/2024/young-in/home.txt",
+      "bytes": 58380,
+      "sha256_html": "419db3daf256c6cd880fb12e1a38f579e46e7b83cee23a816ef55f12951bfbe6",
+      "sha256_text": "d91866a034ae1628ded1dd82bbf8e06d47adbe0704458220812f3372107c7edc"
+    },
+    {
+      "original": "https://toddyoung.org/accomplishments/",
+      "timestamp": "20241104042400",
+      "wayback": "https://web.archive.org/web/20241104042400/https://toddyoung.org/accomplishments/",
+      "wayback_raw": "https://web.archive.org/web/20241104042400id_/https://toddyoung.org/accomplishments/",
+      "file": "archive/2024/young-in/accomplishments.html",
+      "text_file": "archive/2024/young-in/accomplishments.txt",
+      "bytes": 47804,
+      "sha256_html": "81aa8fe116acea453465326ebf40c2621fb17fa894212fe47ca873fcf56061dc",
+      "sha256_text": "fae16805a5459c3b382371fdef3050440193b4566a6d4b958cc56a205ef63b1f"
+    },
+    {
+      "original": "https://toddyoung.org/gop-priorities-survey/",
+      "timestamp": "20240917192721",
+      "wayback": "https://web.archive.org/web/20240917192721/https://toddyoung.org/gop-priorities-survey/",
+      "wayback_raw": "https://web.archive.org/web/20240917192721id_/https://toddyoung.org/gop-priorities-survey/",
+      "file": "archive/2024/young-in/gop-priorities-survey.html",
+      "text_file": "archive/2024/young-in/gop-priorities-survey.txt",
+      "bytes": 57450,
+      "sha256_html": "d5840599fd5e4ad801f251c830faf92606cb4f56be7d17c73ddc580ba19058ac",
+      "sha256_text": "afa2e6d1fbf04577f86c9be78ac31e99ec4ccb8b3fdb7b59b3d53a8aff169797"
+    },
+    {
+      "original": "https://toddyoung.org/indiana-state-police-alliance-endorses-todd-young/",
+      "timestamp": "20240917193712",
+      "wayback": "https://web.archive.org/web/20240917193712/https://toddyoung.org/indiana-state-police-alliance-endorses-todd-young/",
+      "wayback_raw": "https://web.archive.org/web/20240917193712id_/https://toddyoung.org/indiana-state-police-alliance-endorses-todd-young/",
+      "file": "archive/2024/young-in/indiana-state-police-alliance-endorses-todd-young.html",
+      "text_file": "archive/2024/young-in/indiana-state-police-alliance-endorses-todd-young.txt",
+      "bytes": 54168,
+      "sha256_html": "63f1e48689ca09242c1af46072fdde8fdf70889cc6c50087a14aee0ba1cd71e5",
+      "sha256_text": "9f1bbcdc726548106f1a7c9cba256c0adc9f6b3526e4142c1e0e974fbb29f04c"
+    },
+    {
+      "original": "https://toddyoung.org/issues/",
+      "timestamp": "20240917192928",
+      "wayback": "https://web.archive.org/web/20240917192928/https://toddyoung.org/issues/",
+      "wayback_raw": "https://web.archive.org/web/20240917192928id_/https://toddyoung.org/issues/",
+      "file": "archive/2024/young-in/issues.html",
+      "text_file": "archive/2024/young-in/issues.txt",
+      "bytes": 47367,
+      "sha256_html": "41ca7f8385ab1e6082f7de07c3edf642809a06789cc9e02b549a0169fbef19d0",
+      "sha256_text": "abf21bcd309465fa52c84446d248fbaa46050e784f0856f60f292fd7f515d2d8"
+    },
+    {
+      "original": "https://toddyoung.org/petition-stand-with-border-patrol/",
+      "timestamp": "20240803191828",
+      "wayback": "https://web.archive.org/web/20240803191828/https://toddyoung.org/petition-stand-with-border-patrol/",
+      "wayback_raw": "https://web.archive.org/web/20240803191828id_/https://toddyoung.org/petition-stand-with-border-patrol/",
+      "file": "archive/2024/young-in/petition-stand-with-border-patrol.html",
+      "text_file": "archive/2024/young-in/petition-stand-with-border-patrol.txt",
+      "bytes": 55056,
+      "sha256_html": "630bba85316b465b1e0d29981a0e97619d07b1daaa6a30d75bd9420c21d00fce",
+      "sha256_text": "212712975a97009655cbe92af053de464e5462671046a2b18560c71fae601af5"
+    },
+    {
+      "original": "https://toddyoung.org/stand-with-israel/",
+      "timestamp": "20241006160041",
+      "wayback": "https://web.archive.org/web/20241006160041/https://toddyoung.org/stand-with-israel/",
+      "wayback_raw": "https://web.archive.org/web/20241006160041id_/https://toddyoung.org/stand-with-israel/",
+      "file": "archive/2024/young-in/stand-with-israel.html",
+      "text_file": "archive/2024/young-in/stand-with-israel.txt",
+      "bytes": 54034,
+      "sha256_html": "8575ab2a0052f4a3aab2618376043ad214cd2708cafb00bf65a73ba38bb5f748",
+      "sha256_text": "19d4b1e61b77d598ac87074b00c37770458c89708bcd220ae97699da07ee4cb7"
+    },
+    {
+      "original": "https://toddyoung.org/stand-with-kavanaugh/",
+      "timestamp": "20240917193830",
+      "wayback": "https://web.archive.org/web/20240917193830/https://toddyoung.org/stand-with-kavanaugh/",
+      "wayback_raw": "https://web.archive.org/web/20240917193830id_/https://toddyoung.org/stand-with-kavanaugh/",
+      "file": "archive/2024/young-in/stand-with-kavanaugh.html",
+      "text_file": "archive/2024/young-in/stand-with-kavanaugh.txt",
+      "bytes": 54222,
+      "sha256_html": "ccf5e5692642ec4b49bb83fe4070d4f1534afc9b345a2411b020be968082fc5b",
+      "sha256_text": "2a9f214e98e8f1a07a3840ec0db2308e07f94b261902de376d7a73702e66ab18"
+    },
+    {
+      "original": "https://toddyoung.org/the-hoosier-horn-bidens-cbp-nominee-refused-to-call-border-crisis-real-todd-leads-the-fight-against-biden-spending-bill/",
+      "timestamp": "20241104043432",
+      "wayback": "https://web.archive.org/web/20241104043432/https://toddyoung.org/the-hoosier-horn-bidens-cbp-nominee-refused-to-call-border-crisis-real-todd-leads-the-fight-against-biden-spending-bill/",
+      "wayback_raw": "https://web.archive.org/web/20241104043432id_/https://toddyoung.org/the-hoosier-horn-bidens-cbp-nominee-refused-to-call-border-crisis-real-todd-leads-the-fight-against-biden-spending-bill/",
+      "file": "archive/2024/young-in/the-hoosier-horn-bidens-cbp-nominee-refused-to-call-border-crisis-real-todd-leads-the-fight-against-biden-spending-bill.html",
+      "text_file": "archive/2024/young-in/the-hoosier-horn-bidens-cbp-nominee-refused-to-call-border-crisis-real-todd-leads-the-fight-against-biden-spending-bill.txt",
+      "bytes": 65217,
+      "sha256_html": "a124c23090eb6a858ec8cf9e47b44a66f39056cda43a23036179f14d857430a6",
+      "sha256_text": "1e08cf8011acd3810845ea0d30d8f649954b53feed64abd5c35c9dafe6d07597"
+    },
+    {
+      "original": "https://toddyoung.org/the-hoosier-horn-fighting-bidens-plan-to-pay-illegal-immigrants-450k-todd-is-committed-to-protecting-the-unborn/",
+      "timestamp": "20240917193517",
+      "wayback": "https://web.archive.org/web/20240917193517/https://toddyoung.org/the-hoosier-horn-fighting-bidens-plan-to-pay-illegal-immigrants-450k-todd-is-committed-to-protecting-the-unborn/",
+      "wayback_raw": "https://web.archive.org/web/20240917193517id_/https://toddyoung.org/the-hoosier-horn-fighting-bidens-plan-to-pay-illegal-immigrants-450k-todd-is-committed-to-protecting-the-unborn/",
+      "file": "archive/2024/young-in/the-hoosier-horn-fighting-bidens-plan-to-pay-illegal-immigrants-450k-todd-is-committed-to-protecting-the-unborn.html",
+      "text_file": "archive/2024/young-in/the-hoosier-horn-fighting-bidens-plan-to-pay-illegal-immigrants-450k-todd-is-committed-to-protecting-the-unborn.txt",
+      "bytes": 69640,
+      "sha256_html": "a732e5bde932ab137ca4ff11414fc8102028e8028b0d07c7fd99310188703294",
+      "sha256_text": "eaa646df27be3c470e296d662e6619d5d99fb7e7c6dd6112ab3cb5347cb14a65"
+    },
+    {
+      "original": "https://toddyoung.org/the-hoosier-horn-our-record-shattering-fundraising-watch-todd-call-out-bidens-failed-border-agenda/",
+      "timestamp": "20240917194304",
+      "wayback": "https://web.archive.org/web/20240917194304/https://toddyoung.org/the-hoosier-horn-our-record-shattering-fundraising-watch-todd-call-out-bidens-failed-border-agenda/",
+      "wayback_raw": "https://web.archive.org/web/20240917194304id_/https://toddyoung.org/the-hoosier-horn-our-record-shattering-fundraising-watch-todd-call-out-bidens-failed-border-agenda/",
+      "file": "archive/2024/young-in/the-hoosier-horn-our-record-shattering-fundraising-watch-todd-call-out-bidens-failed-border-agenda.html",
+      "text_file": "archive/2024/young-in/the-hoosier-horn-our-record-shattering-fundraising-watch-todd-call-out-bidens-failed-border-agenda.txt",
+      "bytes": 60053,
+      "sha256_html": "b488e50a9d0522b6f78fd796ac6b8deb6b73bc71f5353f9800792dbe5777096f",
+      "sha256_text": "660b840dd2adfe985b47e701f928bde7b038c2336c64a107418755e2ab339a80"
+    },
+    {
+      "original": "https://toddyoung.org/the-hoosier-horn-the-effects-of-bidens-agenda-americans-face-7-year-high-gas-prices-illegal-immigration-hits-20-year-high/",
+      "timestamp": "20241006153029",
+      "wayback": "https://web.archive.org/web/20241006153029/https://toddyoung.org/the-hoosier-horn-the-effects-of-bidens-agenda-americans-face-7-year-high-gas-prices-illegal-immigration-hits-20-year-high/",
+      "wayback_raw": "https://web.archive.org/web/20241006153029id_/https://toddyoung.org/the-hoosier-horn-the-effects-of-bidens-agenda-americans-face-7-year-high-gas-prices-illegal-immigration-hits-20-year-high/",
+      "file": "archive/2024/young-in/the-hoosier-horn-the-effects-of-bidens-agenda-americans-face-7-year-high-gas-prices-illegal-immigration-hits-20-year-high.html",
+      "text_file": "archive/2024/young-in/the-hoosier-horn-the-effects-of-bidens-agenda-americans-face-7-year-high-gas-prices-illegal-immigration-hits-20-year-high.txt",
+      "bytes": 59490,
+      "sha256_html": "472c25a945350ef266e1d6c388aa69ce13abf576fad4e5f2715d2e10d968b241",
+      "sha256_text": "4930027da5f0af91dffd6711dc4f240bee940791acd1deaf9aa6274f5cc6eb65"
+    }
+  ],
+  "snapshots_found": {
+    "toddyoung.org": 161
+  },
+  "generated_utc": "2026-11-26T08:34:27Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
