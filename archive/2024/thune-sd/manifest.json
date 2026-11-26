@@ -1,0 +1,38 @@
+{
+  "name": "John Thune",
+  "domains_tried": [
+    "johnthune.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.johnthune.com/",
+      "timestamp": "20241105104916",
+      "wayback": "https://web.archive.org/web/20241105104916/https://www.johnthune.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105104916id_/https://www.johnthune.com/",
+      "file": "archive/2024/thune-sd/home.html",
+      "text_file": "archive/2024/thune-sd/home.txt",
+      "bytes": 18147,
+      "sha256_html": "82201f6f7e8c4f222b14eac7b087c15198710f5d1ff45c244f6add6dd2e3f154",
+      "sha256_text": "5f37636a115c37e899497242c01ccf4113c2d9092fa43e4e9bf5574f42ead299"
+    },
+    {
+      "original": "https://www.johnthune.com/issues_survey",
+      "timestamp": "20240911223522",
+      "wayback": "https://web.archive.org/web/20240911223522/https://www.johnthune.com/issues_survey",
+      "wayback_raw": "https://web.archive.org/web/20240911223522id_/https://www.johnthune.com/issues_survey",
+      "file": "archive/2024/thune-sd/issues-survey.html",
+      "text_file": "archive/2024/thune-sd/issues-survey.txt",
+      "bytes": 21030,
+      "sha256_html": "f3e3a7294db0d6275c062643b263a225af4fdc0e5ec284bcfd52fe4dc6d986bc",
+      "sha256_text": "63fea8850924c3182fc52a174e47ab1aff75ac9ec883b138e0755d3a6130c7a5"
+    }
+  ],
+  "snapshots_found": {
+    "johnthune.com": 37
+  },
+  "generated_utc": "2026-11-26T08:25:20Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
