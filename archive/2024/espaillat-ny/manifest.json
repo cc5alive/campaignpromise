@@ -1,0 +1,27 @@
+{
+  "name": "Adriano Espaillat",
+  "domains_tried": [
+    "adrianoespaillat.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.adrianoespaillat.com/",
+      "timestamp": "20241105212538",
+      "wayback": "https://web.archive.org/web/20241105212538/https://www.adrianoespaillat.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105212538id_/https://www.adrianoespaillat.com/",
+      "file": "archive/2024/espaillat-ny/home.html",
+      "text_file": "archive/2024/espaillat-ny/home.txt",
+      "bytes": 134858,
+      "sha256_html": "8b97b97d12e06b05a92adcaaf43c5fa712557d71b2a8325e08322ad1029f2dfa",
+      "sha256_text": "309c2c965866a0383a5215134873b38b3fd4cdba92e5dd26fa2fcda9a58a4fdf"
+    }
+  ],
+  "snapshots_found": {
+    "adrianoespaillat.com": 20
+  },
+  "generated_utc": "2026-11-26T07:54:38Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
