@@ -1,0 +1,27 @@
+{
+  "name": "Joni Ernst",
+  "domains_tried": [
+    "joniernst.com"
+  ],
+  "pages": [
+    {
+      "original": "https://joniernst.com/",
+      "timestamp": "20241105203253",
+      "wayback": "https://web.archive.org/web/20241105203253/https://joniernst.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105203253id_/https://joniernst.com/",
+      "file": "archive/2024/ernst-ia/home.html",
+      "text_file": "archive/2024/ernst-ia/home.txt",
+      "bytes": 45972,
+      "sha256_html": "cc06a955e0f842e485be38333298a537c6cfb24502b87e791dcf951054a5f30d",
+      "sha256_text": "17c8ec81dc30cf573f6a163619587ffcd4a48dc64664deb64106a364059c6277"
+    }
+  ],
+  "snapshots_found": {
+    "joniernst.com": 8
+  },
+  "generated_utc": "2026-11-26T08:59:58Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
