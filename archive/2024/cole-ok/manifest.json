@@ -1,0 +1,148 @@
+{
+  "name": "Tom Cole",
+  "domains_tried": [
+    "tomcoleforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://tomcoleforcongress.com/",
+      "timestamp": "20241105111138",
+      "wayback": "https://web.archive.org/web/20241105111138/https://tomcoleforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105111138id_/https://tomcoleforcongress.com/",
+      "file": "archive/2024/cole-ok/home.html",
+      "text_file": "archive/2024/cole-ok/home.txt",
+      "bytes": 94072,
+      "sha256_html": "351d49123ba5d30e8a9234c195410982cb1889a39068126b2cd9c55b1fca3b4c",
+      "sha256_text": "1a32bba15eccf0e67d256af29b77c2388aa0053bf44090803d41f156e8ba5781"
+    },
+    {
+      "original": "https://tomcoleforcongress.com/issues/",
+      "timestamp": "20241105090415",
+      "wayback": "https://web.archive.org/web/20241105090415/https://tomcoleforcongress.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105090415id_/https://tomcoleforcongress.com/issues/",
+      "file": "archive/2024/cole-ok/issues.html",
+      "text_file": "archive/2024/cole-ok/issues.txt",
+      "bytes": 75170,
+      "sha256_html": "f9be300a5878b70931176053a83f5f09f1ddda0dd5730538516b61fc61c736f4",
+      "sha256_text": "6aca2dbc445eb3c582afa9186af01d5dfa8b34b8f609f159a7e3ec243e4a2a91"
+    },
+    {
+      "original": "https://tomcoleforcongress.com/on-the-issues/",
+      "timestamp": "20241105090919",
+      "wayback": "https://web.archive.org/web/20241105090919/https://tomcoleforcongress.com/on-the-issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105090919id_/https://tomcoleforcongress.com/on-the-issues/",
+      "file": "archive/2024/cole-ok/on-the-issues.html",
+      "text_file": "archive/2024/cole-ok/on-the-issues.txt",
+      "bytes": 100130,
+      "sha256_html": "c550cc1296e2df484159d3a39476ff96fe31f36e1831469098a95f5e92cda471",
+      "sha256_text": "7c9bc1b552a49968264b133cfc76ebb86e9a34db0f351207db5b7e27bb0ed2b0"
+    },
+    {
+      "original": "https://tomcoleforcongress.com/issues/debt-and-spending/",
+      "timestamp": "20241105090523",
+      "wayback": "https://web.archive.org/web/20241105090523/https://tomcoleforcongress.com/issues/debt-and-spending/",
+      "wayback_raw": "https://web.archive.org/web/20241105090523id_/https://tomcoleforcongress.com/issues/debt-and-spending/",
+      "file": "archive/2024/cole-ok/issues-debt-and-spending.html",
+      "text_file": "archive/2024/cole-ok/issues-debt-and-spending.txt",
+      "bytes": 69812,
+      "sha256_html": "0151daca9b12a730a9647cced4dc42d3c85e8005e07e6c5b44b562ca1e1df8f1",
+      "sha256_text": "8bd1e472d4a2aa0b94c78fa8386d012eaecb5e47043cec98e4af3b9ca3a1a7ad"
+    },
+    {
+      "original": "https://tomcoleforcongress.com/issues/energyindependence/",
+      "timestamp": "20241105090527",
+      "wayback": "https://web.archive.org/web/20241105090527/https://tomcoleforcongress.com/issues/energyindependence/",
+      "wayback_raw": "https://web.archive.org/web/20241105090527id_/https://tomcoleforcongress.com/issues/energyindependence/",
+      "file": "archive/2024/cole-ok/issues-energyindependence.html",
+      "text_file": "archive/2024/cole-ok/issues-energyindependence.txt",
+      "bytes": 69530,
+      "sha256_html": "14a1141aeec9f9880962a59025c0396b6464bbe29fe19849cd92bf4bffd8c834",
+      "sha256_text": "a128a29926ae5f9a9866cb22aa73d2803f9050430b75fd369ea52a9d01f0ec60"
+    },
+    {
+      "original": "https://tomcoleforcongress.com/issues/growing-the-economy/",
+      "timestamp": "20241105090459",
+      "wayback": "https://web.archive.org/web/20241105090459/https://tomcoleforcongress.com/issues/growing-the-economy/",
+      "wayback_raw": "https://web.archive.org/web/20241105090459id_/https://tomcoleforcongress.com/issues/growing-the-economy/",
+      "file": "archive/2024/cole-ok/issues-growing-the-economy.html",
+      "text_file": "archive/2024/cole-ok/issues-growing-the-economy.txt",
+      "bytes": 69613,
+      "sha256_html": "815c2f3d202e8a853a830852b6ce5b3f8599ba350fb6fe9ffc0c12506180a2a3",
+      "sha256_text": "a6b65cbdd184544a2b14beef069f090621f7427fb8639f29f2dc79f7492d18b7"
+    },
+    {
+      "original": "https://tomcoleforcongress.com/issues/national-security/",
+      "timestamp": "20241105090742",
+      "wayback": "https://web.archive.org/web/20241105090742/https://tomcoleforcongress.com/issues/national-security/",
+      "wayback_raw": "https://web.archive.org/web/20241105090742id_/https://tomcoleforcongress.com/issues/national-security/",
+      "file": "archive/2024/cole-ok/issues-national-security.html",
+      "text_file": "archive/2024/cole-ok/issues-national-security.txt",
+      "bytes": 69833,
+      "sha256_html": "daa0ae6ffd42ff74c27e5ebf20892c5b3c87b96bd81b4d797e5fceb94f57c8e6",
+      "sha256_text": "e21f2fb8a9d49e0097da1a8b7828baf92d0534d8eddb6790f0757269e29df324"
+    },
+    {
+      "original": "https://tomcoleforcongress.com/issues/preserving-our-second-amendment/",
+      "timestamp": "20241105090743",
+      "wayback": "https://web.archive.org/web/20241105090743/https://tomcoleforcongress.com/issues/preserving-our-second-amendment/",
+      "wayback_raw": "https://web.archive.org/web/20241105090743id_/https://tomcoleforcongress.com/issues/preserving-our-second-amendment/",
+      "file": "archive/2024/cole-ok/issues-preserving-our-second-amendment.html",
+      "text_file": "archive/2024/cole-ok/issues-preserving-our-second-amendment.txt",
+      "bytes": 69261,
+      "sha256_html": "bcf9de721c15f6b26d655477817116ec20463067cc20f3c9bc225aebc29f8c08",
+      "sha256_text": "4d9756c827bf99e5d90726c8a7ed1f9c6cf5b8b2a877fea0062aa442d400beeb"
+    },
+    {
+      "original": "https://tomcoleforcongress.com/issues/protecting-our-military-installations/",
+      "timestamp": "20241105090610",
+      "wayback": "https://web.archive.org/web/20241105090610/https://tomcoleforcongress.com/issues/protecting-our-military-installations/",
+      "wayback_raw": "https://web.archive.org/web/20241105090610id_/https://tomcoleforcongress.com/issues/protecting-our-military-installations/",
+      "file": "archive/2024/cole-ok/issues-protecting-our-military-installations.html",
+      "text_file": "archive/2024/cole-ok/issues-protecting-our-military-installations.txt",
+      "bytes": 69723,
+      "sha256_html": "1c9f3a4942c7bfeca352a06774faa05f141b68b11a62e2197e768b37d395f6d2",
+      "sha256_text": "682a901ff2eeaaf0c83e1adb0a90c199100709ad46c94cb3934f622c4c0625bb"
+    },
+    {
+      "original": "https://tomcoleforcongress.com/issues/protecting-the-unborn/",
+      "timestamp": "20241105090522",
+      "wayback": "https://web.archive.org/web/20241105090522/https://tomcoleforcongress.com/issues/protecting-the-unborn/",
+      "wayback_raw": "https://web.archive.org/web/20241105090522id_/https://tomcoleforcongress.com/issues/protecting-the-unborn/",
+      "file": "archive/2024/cole-ok/issues-protecting-the-unborn.html",
+      "text_file": "archive/2024/cole-ok/issues-protecting-the-unborn.txt",
+      "bytes": 70136,
+      "sha256_html": "1c530dad5b3d4a393eb777f97683c8011dd406ee99c4a23932f3fc4e3c7999a3",
+      "sha256_text": "a6e52a86201d6f8783ab9ab7324d82e1642e60e482833231d25edc472ad70939"
+    },
+    {
+      "original": "https://tomcoleforcongress.com/issues/securingourborder/",
+      "timestamp": "20241105090533",
+      "wayback": "https://web.archive.org/web/20241105090533/https://tomcoleforcongress.com/issues/securingourborder/",
+      "wayback_raw": "https://web.archive.org/web/20241105090533id_/https://tomcoleforcongress.com/issues/securingourborder/",
+      "file": "archive/2024/cole-ok/issues-securingourborder.html",
+      "text_file": "archive/2024/cole-ok/issues-securingourborder.txt",
+      "bytes": 69670,
+      "sha256_html": "511a062dbb181ad512daf9b08b8edcc3c9c02f751bf3c1c29f15c40e822ca0bc",
+      "sha256_text": "740562ab05de4eb6c969d85afb5e39e2d65770b9fe26045334016032a953df8c"
+    },
+    {
+      "original": "https://tomcoleforcongress.com/issues/taxes/",
+      "timestamp": "20241105090529",
+      "wayback": "https://web.archive.org/web/20241105090529/https://tomcoleforcongress.com/issues/taxes/",
+      "wayback_raw": "https://web.archive.org/web/20241105090529id_/https://tomcoleforcongress.com/issues/taxes/",
+      "file": "archive/2024/cole-ok/issues-taxes.html",
+      "text_file": "archive/2024/cole-ok/issues-taxes.txt",
+      "bytes": 69775,
+      "sha256_html": "4aab77abf400576102bc6483764cec40887d7afa1f8b1dde1d5eaf10bff80e29",
+      "sha256_text": "e21f2fb8a9d49e0097da1a8b7828baf92d0534d8eddb6790f0757269e29df324"
+    }
+  ],
+  "snapshots_found": {
+    "tomcoleforcongress.com": 92
+  },
+  "generated_utc": "2026-11-26T07:38:03Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
