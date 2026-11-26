@@ -1,0 +1,60 @@
+{
+  "name": "Clay Higgins",
+  "domains_tried": [
+    "captainhiggins.com"
+  ],
+  "pages": [
+    {
+      "original": "https://captainhiggins.com/",
+      "timestamp": "20241105215653",
+      "wayback": "https://web.archive.org/web/20241105215653/https://captainhiggins.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105215653id_/https://captainhiggins.com/",
+      "file": "archive/2024/higgins-la/home.html",
+      "text_file": "archive/2024/higgins-la/home.txt",
+      "bytes": 88832,
+      "sha256_html": "000f73c543648dca9c987000f06b508b6349b06c466daa900df07addfa32f1ac",
+      "sha256_text": "79389804577f78d006f90d028825d43c75261fe2d6f499704e3f81de944ea336"
+    },
+    {
+      "original": "https://captainhiggins.com/issues/",
+      "timestamp": "20241105134113",
+      "wayback": "https://web.archive.org/web/20241105134113/https://captainhiggins.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105134113id_/https://captainhiggins.com/issues/",
+      "file": "archive/2024/higgins-la/issues.html",
+      "text_file": "archive/2024/higgins-la/issues.txt",
+      "bytes": 92988,
+      "sha256_html": "773d124981d7e9f18a6501e6a76e1918ab2d3aaebeafd51d48c42d56915867a8",
+      "sha256_text": "a9e841b584d27a4c413f9916d3f8ba08636678838dc5b62c7186ec9dc63d6626"
+    },
+    {
+      "original": "https://captainhiggins.com/stand-with-trump/",
+      "timestamp": "20241105134131",
+      "wayback": "https://web.archive.org/web/20241105134131/https://captainhiggins.com/stand-with-trump/",
+      "wayback_raw": "https://web.archive.org/web/20241105134131id_/https://captainhiggins.com/stand-with-trump/",
+      "file": "archive/2024/higgins-la/stand-with-trump.html",
+      "text_file": "archive/2024/higgins-la/stand-with-trump.txt",
+      "bytes": 96362,
+      "sha256_html": "f93549cb1d1837bcde25a9453f53915bfeed1162d227c966e6de3b918dde505e",
+      "sha256_text": "0b2d371d119104cd7f87bee45c86b55955ec82071b7ff779bc32b32fded251f5"
+    },
+    {
+      "original": "https://captainhiggins.com/about/",
+      "timestamp": "20241105133936",
+      "wayback": "https://web.archive.org/web/20241105133936/https://captainhiggins.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105133936id_/https://captainhiggins.com/about/",
+      "file": "archive/2024/higgins-la/about.html",
+      "text_file": "archive/2024/higgins-la/about.txt",
+      "bytes": 76950,
+      "sha256_html": "95984aab2e80686006d918296a5e917a61c702ba3bcdb10cc4bdcfaa34ea4023",
+      "sha256_text": "0e4bfe63bb3c71e6142b622d6b8b2af46a6b0f076b28aeee644dba020902d78c"
+    }
+  ],
+  "snapshots_found": {
+    "captainhiggins.com": 34
+  },
+  "generated_utc": "2026-11-26T07:52:49Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
