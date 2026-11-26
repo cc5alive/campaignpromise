@@ -1,0 +1,27 @@
+{
+  "name": "Randy Fine",
+  "domains_tried": [
+    "voterandyfine.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.voterandyfine.com/",
+      "timestamp": "20241019041045",
+      "wayback": "https://web.archive.org/web/20241019041045/https://www.voterandyfine.com/",
+      "wayback_raw": "https://web.archive.org/web/20241019041045id_/https://www.voterandyfine.com/",
+      "file": "archive/2024/fine-fl/home.html",
+      "text_file": "archive/2024/fine-fl/home.txt",
+      "bytes": 56200,
+      "sha256_html": "95752201127fbc3d0fd487c227042e31ce925297a2a5840fa07f75bb6ed7e3aa",
+      "sha256_text": "d3e38623b416f8cc2e8d438cd17568d3a44e9d7795e83db84f647acd4b3b8b7f"
+    }
+  ],
+  "snapshots_found": {
+    "voterandyfine.com": 3
+  },
+  "generated_utc": "2026-11-26T09:20:50Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
