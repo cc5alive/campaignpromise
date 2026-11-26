@@ -1,0 +1,49 @@
+{
+  "name": "Russell Fry",
+  "domains_tried": [
+    "russellfrysc.com"
+  ],
+  "pages": [
+    {
+      "original": "https://russellfrysc.com/",
+      "timestamp": "20241105052135",
+      "wayback": "https://web.archive.org/web/20241105052135/https://russellfrysc.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105052135id_/https://russellfrysc.com/",
+      "file": "archive/2024/fry-sc/home.html",
+      "text_file": "archive/2024/fry-sc/home.txt",
+      "bytes": 62435,
+      "sha256_html": "cf71dfb13ee6798d0ef6da7af2d8a1f6bb82d47ed3a22400f721b5ac94734324",
+      "sha256_text": "4709bda382e5f7dc2ca8403847ccfea60a2be381767d4215dc1f18f59a57e9fa"
+    },
+    {
+      "original": "https://russellfrysc.com/issues/",
+      "timestamp": "20241105052128",
+      "wayback": "https://web.archive.org/web/20241105052128/https://russellfrysc.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105052128id_/https://russellfrysc.com/issues/",
+      "file": "archive/2024/fry-sc/issues.html",
+      "text_file": "archive/2024/fry-sc/issues.txt",
+      "bytes": 45549,
+      "sha256_html": "80c3d300ecd3e0318442e13dd82d8930952aec2ea6ed6eea0185ab97844699c7",
+      "sha256_text": "e4832834c603bfaa50bab52a747f730a3753cf6c7178bc1ac19da0d709550bae"
+    },
+    {
+      "original": "https://russellfrysc.com/about/",
+      "timestamp": "20241105052136",
+      "wayback": "https://web.archive.org/web/20241105052136/https://russellfrysc.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105052136id_/https://russellfrysc.com/about/",
+      "file": "archive/2024/fry-sc/about.html",
+      "text_file": "archive/2024/fry-sc/about.txt",
+      "bytes": 35127,
+      "sha256_html": "bca31ba6dbdeb4e0e1de38c7b72accac506f95e17abff854cb51fc7858ea0c64",
+      "sha256_text": "1337e7de3208735783be4846f0b074678ad5519098e5fd13bdc7c28a41ca59f5"
+    }
+  ],
+  "snapshots_found": {
+    "russellfrysc.com": 8
+  },
+  "generated_utc": "2026-11-26T09:10:53Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
