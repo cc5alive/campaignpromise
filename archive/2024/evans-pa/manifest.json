@@ -1,0 +1,148 @@
+{
+  "name": "Dwight Evans",
+  "domains_tried": [
+    "dwightevans.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.dwightevans.com/",
+      "timestamp": "20241105092841",
+      "wayback": "https://web.archive.org/web/20241105092841/https://www.dwightevans.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105092841id_/https://www.dwightevans.com/",
+      "file": "archive/2024/evans-pa/home.html",
+      "text_file": "archive/2024/evans-pa/home.txt",
+      "bytes": 36590,
+      "sha256_html": "ef7637727eb43756ddf1e7b6ab7c5b167820a9fbc437fef2f998a8e0cfd54784",
+      "sha256_text": "84c2c1afc13afc29b62bb1d6d5d6adda404955e424b72b80dc8e29ef7227b528"
+    },
+    {
+      "original": "https://www.dwightevans.com/issues/",
+      "timestamp": "20241105093009",
+      "wayback": "https://web.archive.org/web/20241105093009/https://www.dwightevans.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105093009id_/https://www.dwightevans.com/issues/",
+      "file": "archive/2024/evans-pa/issues.html",
+      "text_file": "archive/2024/evans-pa/issues.txt",
+      "bytes": 33303,
+      "sha256_html": "b803ba501d119c2b20bb11fde5dc64a1e945cad419e414e3e034d8ec9fa9a4a0",
+      "sha256_text": "70d7ce01019ac24ebc81554d0f281bb1cd0efcfadfbb26e10d273c8f0ad6be2a"
+    },
+    {
+      "original": "https://www.dwightevans.com/issues/affordable-housing/",
+      "timestamp": "20241105092953",
+      "wayback": "https://web.archive.org/web/20241105092953/https://www.dwightevans.com/issues/affordable-housing/",
+      "wayback_raw": "https://web.archive.org/web/20241105092953id_/https://www.dwightevans.com/issues/affordable-housing/",
+      "file": "archive/2024/evans-pa/issues-affordable-housing.html",
+      "text_file": "archive/2024/evans-pa/issues-affordable-housing.txt",
+      "bytes": 33352,
+      "sha256_html": "d5672fcf4edcee68843449b4b38ede2cee9ba242d28644adc6b4ad3b3acb78cf",
+      "sha256_text": "ded5a3f71192f955d815740cbc2b0178b7378a99b2dee1154fcc4bc84018f8fb"
+    },
+    {
+      "original": "https://www.dwightevans.com/issues/cityscape-street-infrastructure/",
+      "timestamp": "20241105092948",
+      "wayback": "https://web.archive.org/web/20241105092948/https://www.dwightevans.com/issues/cityscape-street-infrastructure/",
+      "wayback_raw": "https://web.archive.org/web/20241105092948id_/https://www.dwightevans.com/issues/cityscape-street-infrastructure/",
+      "file": "archive/2024/evans-pa/issues-cityscape-street-infrastructure.html",
+      "text_file": "archive/2024/evans-pa/issues-cityscape-street-infrastructure.txt",
+      "bytes": 31112,
+      "sha256_html": "c9683430c468291e43660f1564f0c45e6ae782afb114978ee93c048fc040024c",
+      "sha256_text": "40d1e0ce3cdafa55c70499a9ad5b9e2bd641614a53f8b36f4ed5ebe915c99681"
+    },
+    {
+      "original": "https://www.dwightevans.com/issues/creating-good-jobs/",
+      "timestamp": "20241105092911",
+      "wayback": "https://web.archive.org/web/20241105092911/https://www.dwightevans.com/issues/creating-good-jobs/",
+      "wayback_raw": "https://web.archive.org/web/20241105092911id_/https://www.dwightevans.com/issues/creating-good-jobs/",
+      "file": "archive/2024/evans-pa/issues-creating-good-jobs.html",
+      "text_file": "archive/2024/evans-pa/issues-creating-good-jobs.txt",
+      "bytes": 37763,
+      "sha256_html": "5cd9ef856a2d8b0e71280aeda0e16bbd93f5d795782c692066a5f357ed00b30b",
+      "sha256_text": "b949caceba5b06c75eb4b741dc0c93083e954c466e86f3fefd166dd943765cf2"
+    },
+    {
+      "original": "https://www.dwightevans.com/issues/embed/",
+      "timestamp": "20241101022407",
+      "wayback": "https://web.archive.org/web/20241101022407/https://www.dwightevans.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241101022407id_/https://www.dwightevans.com/issues/embed/",
+      "file": "archive/2024/evans-pa/issues-embed.html",
+      "text_file": "archive/2024/evans-pa/issues-embed.txt",
+      "bytes": 18869,
+      "sha256_html": "0dd7cf5ad9096a40ee37dbf0554d11135a302708e6481470a5b267c2b28ec81f",
+      "sha256_text": "6c53c95423911ee4ac3738ba660aaecdb5117a19bed84e58801ddb70547dd7f8"
+    },
+    {
+      "original": "https://www.dwightevans.com/issues/ensuring-access-to-finance/",
+      "timestamp": "20241105092915",
+      "wayback": "https://web.archive.org/web/20241105092915/https://www.dwightevans.com/issues/ensuring-access-to-finance/",
+      "wayback_raw": "https://web.archive.org/web/20241105092915id_/https://www.dwightevans.com/issues/ensuring-access-to-finance/",
+      "file": "archive/2024/evans-pa/issues-ensuring-access-to-finance.html",
+      "text_file": "archive/2024/evans-pa/issues-ensuring-access-to-finance.txt",
+      "bytes": 34068,
+      "sha256_html": "0f742e19f6cd149d614b9cccdd11df7501de572e1bdeb2be355d5a7fe1101414",
+      "sha256_text": "c07a571bc4798dcceb11ee052bd781e79a9cf2e7334f37e96b7ec8e5a1dd55d2"
+    },
+    {
+      "original": "https://www.dwightevans.com/issues/fighting-for-strong-schools/",
+      "timestamp": "20241105092859",
+      "wayback": "https://web.archive.org/web/20241105092859/https://www.dwightevans.com/issues/fighting-for-strong-schools/",
+      "wayback_raw": "https://web.archive.org/web/20241105092859id_/https://www.dwightevans.com/issues/fighting-for-strong-schools/",
+      "file": "archive/2024/evans-pa/issues-fighting-for-strong-schools.html",
+      "text_file": "archive/2024/evans-pa/issues-fighting-for-strong-schools.txt",
+      "bytes": 34197,
+      "sha256_html": "7023664c9eef93d8b5f2d9f46caf79f5184a5d549976086abb3f345529c710b2",
+      "sha256_text": "8eaa09c161d7e0957cdd943c20f76873eb09db3a92e9538cfb2c7953a252eca1"
+    },
+    {
+      "original": "https://www.dwightevans.com/issues/fresh-food/",
+      "timestamp": "20241105093000",
+      "wayback": "https://web.archive.org/web/20241105093000/https://www.dwightevans.com/issues/fresh-food/",
+      "wayback_raw": "https://web.archive.org/web/20241105093000id_/https://www.dwightevans.com/issues/fresh-food/",
+      "file": "archive/2024/evans-pa/issues-fresh-food.html",
+      "text_file": "archive/2024/evans-pa/issues-fresh-food.txt",
+      "bytes": 30394,
+      "sha256_html": "7d34db3b35845dcb6282ef8940412db5110981a9ca6ed85a7a74cb2119c00656",
+      "sha256_text": "178f70e7a52f58eb0dfa6b0984ce02662eb12e9280b3b7fb78c14012d237f91b"
+    },
+    {
+      "original": "https://www.dwightevans.com/issues/keeping-communities-safe/",
+      "timestamp": "20241105092912",
+      "wayback": "https://web.archive.org/web/20241105092912/https://www.dwightevans.com/issues/keeping-communities-safe/",
+      "wayback_raw": "https://web.archive.org/web/20241105092912id_/https://www.dwightevans.com/issues/keeping-communities-safe/",
+      "file": "archive/2024/evans-pa/issues-keeping-communities-safe.html",
+      "text_file": "archive/2024/evans-pa/issues-keeping-communities-safe.txt",
+      "bytes": 34177,
+      "sha256_html": "dfab28ea0c5f5bd30490ff0704b08a398ef25f197fc0d8f506d810a110cad4be",
+      "sha256_text": "0d39a54c866b445207bc957be7cdd28bf7648cc598cbbd7dd0e6798331c9d829"
+    },
+    {
+      "original": "https://www.dwightevans.com/issues/promoting-green-space-and-clean-environments/",
+      "timestamp": "20241105092901",
+      "wayback": "https://web.archive.org/web/20241105092901/https://www.dwightevans.com/issues/promoting-green-space-and-clean-environments/",
+      "wayback_raw": "https://web.archive.org/web/20241105092901id_/https://www.dwightevans.com/issues/promoting-green-space-and-clean-environments/",
+      "file": "archive/2024/evans-pa/issues-promoting-green-space-and-clean-environments.html",
+      "text_file": "archive/2024/evans-pa/issues-promoting-green-space-and-clean-environments.txt",
+      "bytes": 31477,
+      "sha256_html": "c2208b593cc3a87b2fd40f9506167ed958aa8ebc01eebbf699c5f00f61aab6da",
+      "sha256_text": "307645b50cd4a22b7ee4249552fb905502a1f59c735a69b0000964f7566f2ad0"
+    },
+    {
+      "original": "https://www.dwightevans.com/issues/affordable-housing/embed/",
+      "timestamp": "20241101022440",
+      "wayback": "https://web.archive.org/web/20241101022440/https://www.dwightevans.com/issues/affordable-housing/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241101022440id_/https://www.dwightevans.com/issues/affordable-housing/embed/",
+      "file": "archive/2024/evans-pa/issues-affordable-housing-embed.html",
+      "text_file": "archive/2024/evans-pa/issues-affordable-housing-embed.txt",
+      "bytes": 18923,
+      "sha256_html": "4f17786b37079f976d2b000b6ea51aa5f41443a9f4c4c45094696bbbb937bed3",
+      "sha256_text": "86802f648a15f63847956bbbb9ecf9709f0d847497f5410772a55956e29a586b"
+    }
+  ],
+  "snapshots_found": {
+    "dwightevans.com": 649
+  },
+  "generated_utc": "2026-11-26T07:38:14Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
