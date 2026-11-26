@@ -1,0 +1,60 @@
+{
+  "name": "Gus M. Bilirakis",
+  "domains_tried": [
+    "bilirakisforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://bilirakisforcongress.com/",
+      "timestamp": "20241105155130",
+      "wayback": "https://web.archive.org/web/20241105155130/https://bilirakisforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105155130id_/https://bilirakisforcongress.com/",
+      "file": "archive/2024/bilirakis-fl/home.html",
+      "text_file": "archive/2024/bilirakis-fl/home.txt",
+      "bytes": 134028,
+      "sha256_html": "398ea92fb636972bce4bf53eec9949f16cb9fea084f4110c93cfe0fd090388c1",
+      "sha256_text": "ce64544bc3381d4d97f5a8bf5f47f3fe16269795e338eac7cb66d079212df90e"
+    },
+    {
+      "original": "https://bilirakisforcongress.com/guss-conservative-record/",
+      "timestamp": "20241105155251",
+      "wayback": "https://web.archive.org/web/20241105155251/https://bilirakisforcongress.com/guss-conservative-record/",
+      "wayback_raw": "https://web.archive.org/web/20241105155251id_/https://bilirakisforcongress.com/guss-conservative-record/",
+      "file": "archive/2024/bilirakis-fl/guss-conservative-record.html",
+      "text_file": "archive/2024/bilirakis-fl/guss-conservative-record.txt",
+      "bytes": 66842,
+      "sha256_html": "7671d13da035c8575e002f5588891b3719fcd55c53aa79cf199738c524332c07",
+      "sha256_text": "51d4fca40d419eeff86f8ad0279ffc738c51f4507b3cfde7fbef61a165271a2e"
+    },
+    {
+      "original": "https://bilirakisforcongress.com/guss-conservative-record/embed/",
+      "timestamp": "20241101004900",
+      "wayback": "https://web.archive.org/web/20241101004900/https://bilirakisforcongress.com/guss-conservative-record/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241101004900id_/https://bilirakisforcongress.com/guss-conservative-record/embed/",
+      "file": "archive/2024/bilirakis-fl/guss-conservative-record-embed.html",
+      "text_file": "archive/2024/bilirakis-fl/guss-conservative-record-embed.txt",
+      "bytes": 66833,
+      "sha256_html": "c745b714fe7aad386dfcc4de1a933d000ee8c27a790a54ff2f45bd596da50b31",
+      "sha256_text": "51d4fca40d419eeff86f8ad0279ffc738c51f4507b3cfde7fbef61a165271a2e"
+    },
+    {
+      "original": "https://bilirakisforcongress.com/guss-conservative-record/gus-bilirakis-2022-8/",
+      "timestamp": "20241102150834",
+      "wayback": "https://web.archive.org/web/20241102150834/https://bilirakisforcongress.com/guss-conservative-record/gus-bilirakis-2022-8/",
+      "wayback_raw": "https://web.archive.org/web/20241102150834id_/https://bilirakisforcongress.com/guss-conservative-record/gus-bilirakis-2022-8/",
+      "file": "archive/2024/bilirakis-fl/guss-conservative-record-gus-bilirakis-2022-8.html",
+      "text_file": "archive/2024/bilirakis-fl/guss-conservative-record-gus-bilirakis-2022-8.txt",
+      "bytes": 52940,
+      "sha256_html": "6784e3132f16034718d488fc3f283a476f538e3067f8556e0156230e7bd0f2fa",
+      "sha256_text": "1643617a58e7c933798f50bd313b153420ef1f8e13ecdeee86267cb4d7fcc2bb"
+    }
+  ],
+  "snapshots_found": {
+    "bilirakisforcongress.com": 78
+  },
+  "generated_utc": "2026-11-26T07:19:44Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
