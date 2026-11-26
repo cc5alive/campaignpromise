@@ -1,0 +1,50 @@
+{
+ "committees": {
+  "C00457556": {
+   "name": "QUIGLEY FOR CONGRESS",
+   "website": "HTTP://WWW.QUIGLEYFORCONGRESS.COM",
+   "error": null
+  },
+  "C00116632": {
+   "name": "HAL ROGERS FOR CONGRESS",
+   "website": "WWW.CONGRESSMANHALROGERS.COM",
+   "error": null
+  },
+  "C00367862": {
+   "name": "MIKE ROGERS FOR CONGRESS",
+   "website": "WWW.MIKEROGERSFORCONGRESS.COM",
+   "error": null
+  },
+  "C00327023": {
+   "name": "SCHAKOWSKY FOR CONGRESS",
+   "website": "WWW.JANSCHAKOWSKY.ORG",
+   "error": null
+  },
+  "C00346312": {
+   "name": "FRIENDS OF SCHUMER",
+   "website": "HTTP://WWW.CHUCKSCHUMER.COM",
+   "error": null
+  },
+  "C00540617": {
+   "name": "FRIENDS OF DAVID SCHWEIKERT",
+   "website": "HTTP://WWW.DAVIDSCHWEIKERT.COM",
+   "error": null
+  },
+  "C00482737": {
+   "name": "AUSTIN SCOTT FOR CONGRESS INC",
+   "website": "HTTP://WWW.SCOTTFORGA.COM",
+   "error": null
+  },
+  "C00256925": {
+   "name": "SCOTT FOR CONGRESS",
+   "website": "WWW.BOBBYSCOTTFORCONGRESS.COM",
+   "error": null
+  },
+  "C00540302": {
+   "name": "TIM SCOTT FOR AMERICA",
+   "website": "WWW.VOTETIMSCOTT.COM",
+   "error": null
+  }
+ },
+ "searches": {}
+}
