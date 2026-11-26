@@ -1,0 +1,50 @@
+{
+ "committees": {
+  "C00588772": {
+   "name": "MAGGIE FOR NH",
+   "website": "HTTPS://MAGGIEHASSAN.COM",
+   "error": null
+  },
+  "C00575548": {
+   "name": "CATHERINE CORTEZ MASTO FOR SENATE",
+   "website": "WWW.CATHERINECORTEZMASTO.COM",
+   "error": null
+  },
+  "C00495952": {
+   "name": "SCHNEIDER FOR CONGRESS",
+   "website": "HTTP://WWW.SCHNEIDERFORCONGRESS.COM",
+   "error": null
+  },
+  "C00592154": {
+   "name": "JIMMY PANETTA FOR CONGRESS",
+   "website": "JIMMYPANETTAFORCONGRESS.COM",
+   "error": null
+  },
+  "C00576041": {
+   "name": "SALUD CARBAJAL FOR CONGRESS",
+   "website": "WWW.SALUDCARBAJAL.COM",
+   "error": null
+  },
+  "C00577353": {
+   "name": "BARRAGAN FOR CONGRESS",
+   "website": null,
+   "error": null
+  },
+  "C00578302": {
+   "name": "LOU CORREA FOR CONGRESS",
+   "website": "WWW.LOUCORREA.COM",
+   "error": null
+  },
+  "C00582304": {
+   "name": "FRIENDS OF NEAL DUNN",
+   "website": "NEALDUNN.COM",
+   "error": null
+  },
+  "C00615294": {
+   "name": "CITIZENS FOR JOHN RUTHERFORD",
+   "website": "HTTPS://VOTEJOHNRUTHERFORD.COM",
+   "error": null
+  }
+ },
+ "searches": {}
+}
