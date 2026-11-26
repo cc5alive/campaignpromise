@@ -1,0 +1,148 @@
+{
+  "name": "John Garamendi",
+  "domains_tried": [
+    "garamendi.org"
+  ],
+  "pages": [
+    {
+      "original": "https://www.garamendi.org/",
+      "timestamp": "20241105194804",
+      "wayback": "https://web.archive.org/web/20241105194804/https://www.garamendi.org/",
+      "wayback_raw": "https://web.archive.org/web/20241105194804id_/https://www.garamendi.org/",
+      "file": "archive/2024/garamendi-ca/home.html",
+      "text_file": "archive/2024/garamendi-ca/home.txt",
+      "bytes": 23853,
+      "sha256_html": "4ce4fe9b9f61250fc03aa524bee6977e749baa398bb5ea041edf0a0efc21d3a8",
+      "sha256_text": "ffa4695baefcd10ecd237cacfdec822565eb5aa2deb7ee335dbd235e171ecfa4"
+    },
+    {
+      "original": "https://www.garamendi.org/issues",
+      "timestamp": "20241105194756",
+      "wayback": "https://web.archive.org/web/20241105194756/https://www.garamendi.org/issues",
+      "wayback_raw": "https://web.archive.org/web/20241105194756id_/https://www.garamendi.org/issues",
+      "file": "archive/2024/garamendi-ca/issues.html",
+      "text_file": "archive/2024/garamendi-ca/issues.txt",
+      "bytes": 55517,
+      "sha256_html": "0d66fddb040a5e7bf58ccc4f93fd0e25ed0ee65422b204bffa0d169168e28333",
+      "sha256_text": "55a696bd82b59f6aa11c174d63a9889ade76ac3c9297ea79ebaec7f84510c43f"
+    },
+    {
+      "original": "https://www.garamendi.org/news/congressman-garamendi-addresses-veterans-north-bay-stand-down-speech-highlights-importance",
+      "timestamp": "20241105195204",
+      "wayback": "https://web.archive.org/web/20241105195204/https://www.garamendi.org/news/congressman-garamendi-addresses-veterans-north-bay-stand-down-speech-highlights-importance",
+      "wayback_raw": "https://web.archive.org/web/20241105195204id_/https://www.garamendi.org/news/congressman-garamendi-addresses-veterans-north-bay-stand-down-speech-highlights-importance",
+      "file": "archive/2024/garamendi-ca/news-congressman-garamendi-addresses-veterans-north-bay-stand-down-speech-highlights-importance.html",
+      "text_file": "archive/2024/garamendi-ca/news-congressman-garamendi-addresses-veterans-north-bay-stand-down-speech-highlights-importance.txt",
+      "bytes": 17868,
+      "sha256_html": "48cb4cc7ecf371d98084a2691d9c50d0d3362eddd0f21d18fa68438ebf3a022c",
+      "sha256_text": "921c7b278b87cb08c3e3fbd692663958015798173614e9d92b2ab972b5c713a7"
+    },
+    {
+      "original": "https://www.garamendi.org/news/congressman-garamendi-leads-letter-opposing-delay-oil-rail-safety-standards",
+      "timestamp": "20241105195208",
+      "wayback": "https://web.archive.org/web/20241105195208/https://www.garamendi.org/news/congressman-garamendi-leads-letter-opposing-delay-oil-rail-safety-standards",
+      "wayback_raw": "https://web.archive.org/web/20241105195208id_/https://www.garamendi.org/news/congressman-garamendi-leads-letter-opposing-delay-oil-rail-safety-standards",
+      "file": "archive/2024/garamendi-ca/news-congressman-garamendi-leads-letter-opposing-delay-oil-rail-safety-standards.html",
+      "text_file": "archive/2024/garamendi-ca/news-congressman-garamendi-leads-letter-opposing-delay-oil-rail-safety-standards.txt",
+      "bytes": 21961,
+      "sha256_html": "daf5ff9b2567071c539c572823d0de0c9751b55e7134ce22e1da155a40841b83",
+      "sha256_text": "1224292d416c28fa7a39bfb5d1a02f52d63150f27a0e17b630abcc8bf6b10885"
+    },
+    {
+      "original": "https://www.garamendi.org/news/congressman-garamendi-responds-governor-browns-revised-bdcp-water-policy",
+      "timestamp": "20241105195205",
+      "wayback": "https://web.archive.org/web/20241105195205/https://www.garamendi.org/news/congressman-garamendi-responds-governor-browns-revised-bdcp-water-policy",
+      "wayback_raw": "https://web.archive.org/web/20241105195205id_/https://www.garamendi.org/news/congressman-garamendi-responds-governor-browns-revised-bdcp-water-policy",
+      "file": "archive/2024/garamendi-ca/news-congressman-garamendi-responds-governor-browns-revised-bdcp-water-policy.html",
+      "text_file": "archive/2024/garamendi-ca/news-congressman-garamendi-responds-governor-browns-revised-bdcp-water-policy.txt",
+      "bytes": 17113,
+      "sha256_html": "dfb9d40ee126b7df280566fc5dc881be9fd97dffab6a9841b28a313e64501341",
+      "sha256_text": "f030243535eed4ebeedb9e93a22a29fb67bed618077c0d38959c3292c33f87cd"
+    },
+    {
+      "original": "https://www.garamendi.org/news/congressman-garamendi-urges-state-water-resources-control-board-reject-policies-designed",
+      "timestamp": "20241105195210",
+      "wayback": "https://web.archive.org/web/20241105195210/https://www.garamendi.org/news/congressman-garamendi-urges-state-water-resources-control-board-reject-policies-designed",
+      "wayback_raw": "https://web.archive.org/web/20241105195210id_/https://www.garamendi.org/news/congressman-garamendi-urges-state-water-resources-control-board-reject-policies-designed",
+      "file": "archive/2024/garamendi-ca/news-congressman-garamendi-urges-state-water-resources-control-board-reject-policies-designed.html",
+      "text_file": "archive/2024/garamendi-ca/news-congressman-garamendi-urges-state-water-resources-control-board-reject-policies-designed.txt",
+      "bytes": 24009,
+      "sha256_html": "8b42b5322e55c0b759737ad3a8840622700ba79b1c217031b31667f795e3f085",
+      "sha256_text": "db096918797609ffe57701705ded9db4abe8bc8d28e2a4ee5216f116e0e27df0"
+    },
+    {
+      "original": "https://www.garamendi.org/news/congressman-john-garamendis-statement-trump-administrations-plan-open-coasts-offshore-oil-and",
+      "timestamp": "20241105195145",
+      "wayback": "https://web.archive.org/web/20241105195145/https://www.garamendi.org/news/congressman-john-garamendis-statement-trump-administrations-plan-open-coasts-offshore-oil-and",
+      "wayback_raw": "https://web.archive.org/web/20241105195145id_/https://www.garamendi.org/news/congressman-john-garamendis-statement-trump-administrations-plan-open-coasts-offshore-oil-and",
+      "file": "archive/2024/garamendi-ca/news-congressman-john-garamendis-statement-trump-administrations-plan-open-coasts-offshore-oil-and.html",
+      "text_file": "archive/2024/garamendi-ca/news-congressman-john-garamendis-statement-trump-administrations-plan-open-coasts-offshore-oil-and.txt",
+      "bytes": 17397,
+      "sha256_html": "da57a3664c660cf43893b7b44330fd054535b74f4d1b596b049deb6116ec6a5d",
+      "sha256_text": "310c1370e573f1e3c8efa3cf46188bad1caf7360cf9596545608d33a10e462b8"
+    },
+    {
+      "original": "https://www.garamendi.org/news/garamendi-applauds-governor-newsoms-inclusion-sites-reservoir-project-water-plan",
+      "timestamp": "20241105195109",
+      "wayback": "https://web.archive.org/web/20241105195109/https://www.garamendi.org/news/garamendi-applauds-governor-newsoms-inclusion-sites-reservoir-project-water-plan",
+      "wayback_raw": "https://web.archive.org/web/20241105195109id_/https://www.garamendi.org/news/garamendi-applauds-governor-newsoms-inclusion-sites-reservoir-project-water-plan",
+      "file": "archive/2024/garamendi-ca/news-garamendi-applauds-governor-newsoms-inclusion-sites-reservoir-project-water-plan.html",
+      "text_file": "archive/2024/garamendi-ca/news-garamendi-applauds-governor-newsoms-inclusion-sites-reservoir-project-water-plan.txt",
+      "bytes": 15985,
+      "sha256_html": "616159a02bcbd1b1f61b1eb3530cbb90c7f235e11bad9293e8065fd6acffd10f",
+      "sha256_text": "0b2fb43ec289e778105a4bbfb86a6c465e1c7f77b612e5d47456fcb1fad2632e"
+    },
+    {
+      "original": "https://www.garamendi.org/news/garamendi-introduces-military-support-fighting-wildfires-act",
+      "timestamp": "20241105195103",
+      "wayback": "https://web.archive.org/web/20241105195103/https://www.garamendi.org/news/garamendi-introduces-military-support-fighting-wildfires-act",
+      "wayback_raw": "https://web.archive.org/web/20241105195103id_/https://www.garamendi.org/news/garamendi-introduces-military-support-fighting-wildfires-act",
+      "file": "archive/2024/garamendi-ca/news-garamendi-introduces-military-support-fighting-wildfires-act.html",
+      "text_file": "archive/2024/garamendi-ca/news-garamendi-introduces-military-support-fighting-wildfires-act.txt",
+      "bytes": 24482,
+      "sha256_html": "ad01c6e488662cfb56067f6922ae4ae24fe8565fa6941897518d06133978915c",
+      "sha256_text": "c594e3b128bcd9973b853f3dc4185e33180d8de0d71665602f54167a5f05c4f3"
+    },
+    {
+      "original": "https://www.garamendi.org/news/garamendi-issues-statement-after-winning-re-election-californias-3rd-congressional-district",
+      "timestamp": "20241105195101",
+      "wayback": "https://web.archive.org/web/20241105195101/https://www.garamendi.org/news/garamendi-issues-statement-after-winning-re-election-californias-3rd-congressional-district",
+      "wayback_raw": "https://web.archive.org/web/20241105195101id_/https://www.garamendi.org/news/garamendi-issues-statement-after-winning-re-election-californias-3rd-congressional-district",
+      "file": "archive/2024/garamendi-ca/news-garamendi-issues-statement-after-winning-re-election-californias-3rd-congressional-district.html",
+      "text_file": "archive/2024/garamendi-ca/news-garamendi-issues-statement-after-winning-re-election-californias-3rd-congressional-district.txt",
+      "bytes": 18712,
+      "sha256_html": "18e1317680e2c4511e5e072f4af9a3dec63f5b5877f553f9d4ed5e5f09432d51",
+      "sha256_text": "2a5ca608d0ba47e4aea6dc318907b2b92cd2e8c3707bb904e3bb72268890e934"
+    },
+    {
+      "original": "https://www.garamendi.org/news/garamendi-outlines-major-accomplishments-116th-congress",
+      "timestamp": "20241105195105",
+      "wayback": "https://web.archive.org/web/20241105195105/https://www.garamendi.org/news/garamendi-outlines-major-accomplishments-116th-congress",
+      "wayback_raw": "https://web.archive.org/web/20241105195105id_/https://www.garamendi.org/news/garamendi-outlines-major-accomplishments-116th-congress",
+      "file": "archive/2024/garamendi-ca/news-garamendi-outlines-major-accomplishments-116th-congress.html",
+      "text_file": "archive/2024/garamendi-ca/news-garamendi-outlines-major-accomplishments-116th-congress.txt",
+      "bytes": 47254,
+      "sha256_html": "e60805ad2b70ec0885371334fb5863fb5a0f65f90c41ca42af910856546796d3",
+      "sha256_text": "feb712029c0d9aa051518d80a3bfeba82a960143c2803b673223417e8e80fd4d"
+    },
+    {
+      "original": "https://www.garamendi.org/news/meeting-firefighter-union",
+      "timestamp": "20241105195004",
+      "wayback": "https://web.archive.org/web/20241105195004/https://www.garamendi.org/news/meeting-firefighter-union",
+      "wayback_raw": "https://web.archive.org/web/20241105195004id_/https://www.garamendi.org/news/meeting-firefighter-union",
+      "file": "archive/2024/garamendi-ca/news-meeting-firefighter-union.html",
+      "text_file": "archive/2024/garamendi-ca/news-meeting-firefighter-union.txt",
+      "bytes": 14821,
+      "sha256_html": "b644368026652b422ca84906ddd1f2147167628d66dd8593bae5e18f34f9ec72",
+      "sha256_text": "8ac685a37ffea1c495a0e1d0c9108bd3858bdd3218a75aa07ad60e6d6792fef7"
+    }
+  ],
+  "snapshots_found": {
+    "garamendi.org": 147
+  },
+  "generated_utc": "2026-11-26T07:47:17Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
