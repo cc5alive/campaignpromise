@@ -1,0 +1,38 @@
+{
+  "name": "James E. Risch",
+  "domains_tried": [
+    "senatorrisch.com"
+  ],
+  "pages": [
+    {
+      "original": "https://senatorrisch.com/",
+      "timestamp": "20241007010119",
+      "wayback": "https://web.archive.org/web/20241007010119/https://senatorrisch.com/",
+      "wayback_raw": "https://web.archive.org/web/20241007010119id_/https://senatorrisch.com/",
+      "file": "archive/2024/risch-id/home.html",
+      "text_file": "archive/2024/risch-id/home.txt",
+      "bytes": 72919,
+      "sha256_html": "85a9053acac2fa53e34c280fae3ce3aebe5217d856a16239a8e99aed3dd0938b",
+      "sha256_text": "dea6d15e494ef04271b7acb927aca64249dc5bb5c9290b67e12cb74aadfae49b"
+    },
+    {
+      "original": "https://senatorrisch.com/issues/",
+      "timestamp": "20241007025123",
+      "wayback": "https://web.archive.org/web/20241007025123/https://senatorrisch.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241007025123id_/https://senatorrisch.com/issues/",
+      "file": "archive/2024/risch-id/issues.html",
+      "text_file": "archive/2024/risch-id/issues.txt",
+      "bytes": 53362,
+      "sha256_html": "e81dd9205ba4adf70a70dbdeb8b341bffeeeb950bf60a048b58634825b26d220",
+      "sha256_text": "ef56a8e867c7cbcbaf1235ec4bdaf5e8d7a0597a719875dd482945f552650083"
+    }
+  ],
+  "snapshots_found": {
+    "senatorrisch.com": 7
+  },
+  "generated_utc": "2026-11-26T07:12:44Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
