@@ -1,0 +1,27 @@
+{
+  "name": "Randy K. Weber, Sr.",
+  "domains_tried": [
+    "randyweber.org"
+  ],
+  "pages": [
+    {
+      "original": "https://www.randyweber.org/",
+      "timestamp": "20241105113947",
+      "wayback": "https://web.archive.org/web/20241105113947/https://www.randyweber.org/",
+      "wayback_raw": "https://web.archive.org/web/20241105113947id_/https://www.randyweber.org/",
+      "file": "archive/2024/weber-tx/home.html",
+      "text_file": "archive/2024/weber-tx/home.txt",
+      "bytes": 130758,
+      "sha256_html": "55d00548df5704c5acff6783cce4d8c7fd5281c809c75110667bc067769eb87d",
+      "sha256_text": "d77b36c9743fba7ec6b9e22e1c055dce92f42732814d67f31dbdbd1853ba7575"
+    }
+  ],
+  "snapshots_found": {
+    "randyweber.org": 23
+  },
+  "generated_utc": "2026-11-26T08:44:21Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
