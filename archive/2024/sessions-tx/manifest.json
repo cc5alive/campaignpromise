@@ -1,0 +1,148 @@
+{
+  "name": "Pete Sessions",
+  "domains_tried": [
+    "petesessions.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.petesessions.com/",
+      "timestamp": "20241105160831",
+      "wayback": "https://web.archive.org/web/20241105160831/https://www.petesessions.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105160831id_/https://www.petesessions.com/",
+      "file": "archive/2024/sessions-tx/home.html",
+      "text_file": "archive/2024/sessions-tx/home.txt",
+      "bytes": 50557,
+      "sha256_html": "453047518484cf4c1870b6d498659c7ade6b399ff955bb996fda44dd6e6f7fbb",
+      "sha256_text": "7510487ca55dba50c5223a4fdf0a20186bbf694886d667ccaa188c9940e3a34b"
+    },
+    {
+      "original": "https://www.petesessions.com/issues/",
+      "timestamp": "20241105105527",
+      "wayback": "https://web.archive.org/web/20241105105527/https://www.petesessions.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105105527id_/https://www.petesessions.com/issues/",
+      "file": "archive/2024/sessions-tx/issues.html",
+      "text_file": "archive/2024/sessions-tx/issues.txt",
+      "bytes": 30760,
+      "sha256_html": "27716b6cafdad49b1778150d6ce4cc284565f50690355caa6d4024c7b042fc6f",
+      "sha256_text": "bb81b83e12106f5e5702bb691b5895abbdc1586e5fab9c547e1c51531ad08acd"
+    },
+    {
+      "original": "https://www.petesessions.com/police-pledge/",
+      "timestamp": "20241101060134",
+      "wayback": "https://web.archive.org/web/20241101060134/https://www.petesessions.com/police-pledge/",
+      "wayback_raw": "https://web.archive.org/web/20241101060134id_/https://www.petesessions.com/police-pledge/",
+      "file": "archive/2024/sessions-tx/police-pledge.html",
+      "text_file": "archive/2024/sessions-tx/police-pledge.txt",
+      "bytes": 24183,
+      "sha256_html": "bc83fa8362839519cc886f84be03df77555a2f4927fbd940b54877c79cfd6750",
+      "sha256_text": "40b7138f1b7fe8fb35d49e244ca259efc5371488db875d4b1d77d813605489ff"
+    },
+    {
+      "original": "https://www.petesessions.com/positiveplatform/",
+      "timestamp": "20241105105708",
+      "wayback": "https://web.archive.org/web/20241105105708/https://www.petesessions.com/positiveplatform/",
+      "wayback_raw": "https://web.archive.org/web/20241105105708id_/https://www.petesessions.com/positiveplatform/",
+      "file": "archive/2024/sessions-tx/positiveplatform.html",
+      "text_file": "archive/2024/sessions-tx/positiveplatform.txt",
+      "bytes": 28033,
+      "sha256_html": "ddd8200cd62348a1e82615ca9e82a3d6fa187fb94f72676b3f8e7f861417051a",
+      "sha256_text": "ec1990bd047faee1dfe0252ce139ee5c96dde9e826bfd6fcebd38b6185583671"
+    },
+    {
+      "original": "https://www.petesessions.com/issues/embed/",
+      "timestamp": "20241031223029",
+      "wayback": "https://web.archive.org/web/20241031223029/https://www.petesessions.com/issues/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241031223029id_/https://www.petesessions.com/issues/embed/",
+      "file": "archive/2024/sessions-tx/issues-embed.html",
+      "text_file": "archive/2024/sessions-tx/issues-embed.txt",
+      "bytes": 20410,
+      "sha256_html": "073c4d877df429ee80d243f6cfecb9d3b3f281179e24b6371f71595df2e839a8",
+      "sha256_text": "b2a5daa688a375caab3661262d7278f2a5f1929b2982849c8cd5dc3004759c53"
+    },
+    {
+      "original": "https://www.petesessions.com/police-pledge/embed/",
+      "timestamp": "20241101161619",
+      "wayback": "https://web.archive.org/web/20241101161619/https://www.petesessions.com/police-pledge/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241101161619id_/https://www.petesessions.com/police-pledge/embed/",
+      "file": "archive/2024/sessions-tx/police-pledge-embed.html",
+      "text_file": "archive/2024/sessions-tx/police-pledge-embed.txt",
+      "bytes": 20829,
+      "sha256_html": "7e61c99094d05e784f4aac0088facd3c36bd25fef7090b8327eb536ae5565d05",
+      "sha256_text": "5d06dd18eb3cbb4705f99e464ca94dbf41a858fa9e9513520f15a07b971cfe55"
+    },
+    {
+      "original": "https://www.petesessions.com/positiveplatform/dollar/",
+      "timestamp": "20241105105707",
+      "wayback": "https://web.archive.org/web/20241105105707/https://www.petesessions.com/positiveplatform/dollar/",
+      "wayback_raw": "https://web.archive.org/web/20241105105707id_/https://www.petesessions.com/positiveplatform/dollar/",
+      "file": "archive/2024/sessions-tx/positiveplatform-dollar.html",
+      "text_file": "archive/2024/sessions-tx/positiveplatform-dollar.txt",
+      "bytes": 24796,
+      "sha256_html": "fb04890784b09eb83c55b2d6a8ced2bcad270595b9e76c6fbd9acb76271c29bd",
+      "sha256_text": "7b2d2a3b7d51bd882b2b1db6ac45d9b5ccaa257e43614ae1908d84b2a06ddd84"
+    },
+    {
+      "original": "https://www.petesessions.com/positiveplatform/economic/",
+      "timestamp": "20241105105718",
+      "wayback": "https://web.archive.org/web/20241105105718/https://www.petesessions.com/positiveplatform/economic/",
+      "wayback_raw": "https://web.archive.org/web/20241105105718id_/https://www.petesessions.com/positiveplatform/economic/",
+      "file": "archive/2024/sessions-tx/positiveplatform-economic.html",
+      "text_file": "archive/2024/sessions-tx/positiveplatform-economic.txt",
+      "bytes": 25059,
+      "sha256_html": "38f9157b44501ef0804f835ed6603cf627f9479061671a48c99ead6c89a0d338",
+      "sha256_text": "03d6addb5166c652b4bc5dca76a25612fcb721719a5e95f7558b754e6ece7a6f"
+    },
+    {
+      "original": "https://www.petesessions.com/positiveplatform/embed/",
+      "timestamp": "20241101161501",
+      "wayback": "https://web.archive.org/web/20241101161501/https://www.petesessions.com/positiveplatform/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241101161501id_/https://www.petesessions.com/positiveplatform/embed/",
+      "file": "archive/2024/sessions-tx/positiveplatform-embed.html",
+      "text_file": "archive/2024/sessions-tx/positiveplatform-embed.txt",
+      "bytes": 20700,
+      "sha256_html": "7b0ae7d91dcd5fe8bd93f323d142b896f913d4c5a7508de8ec714c1d5c67d609",
+      "sha256_text": "dfdf2c1829040d5509bb8bdeaad0b30e2aae0c6ad6ab8e02b09ac93e3c3a6579"
+    },
+    {
+      "original": "https://www.petesessions.com/positiveplatform/dollar/embed/",
+      "timestamp": "20241101161457",
+      "wayback": "https://web.archive.org/web/20241101161457/https://www.petesessions.com/positiveplatform/dollar/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241101161457id_/https://www.petesessions.com/positiveplatform/dollar/embed/",
+      "file": "archive/2024/sessions-tx/positiveplatform-dollar-embed.html",
+      "text_file": "archive/2024/sessions-tx/positiveplatform-dollar-embed.txt",
+      "bytes": 20692,
+      "sha256_html": "5ac3e656fa27559b830b6bcbf6c72941a7ef913fa3771106acefa19dc4819e4c",
+      "sha256_text": "110ed92880966fd68b62a7b134a1d5ccd57bb098d4de571d576eeeb678e7a77a"
+    },
+    {
+      "original": "https://www.petesessions.com/positiveplatform/dollar/more/",
+      "timestamp": "20241105105715",
+      "wayback": "https://web.archive.org/web/20241105105715/https://www.petesessions.com/positiveplatform/dollar/more/",
+      "wayback_raw": "https://web.archive.org/web/20241105105715id_/https://www.petesessions.com/positiveplatform/dollar/more/",
+      "file": "archive/2024/sessions-tx/positiveplatform-dollar-more.html",
+      "text_file": "archive/2024/sessions-tx/positiveplatform-dollar-more.txt",
+      "bytes": 30116,
+      "sha256_html": "13871cb8b5bf55d5079475332f98a999413e6fbcca43db2ed96f29bc303a629e",
+      "sha256_text": "675e8e67086a8789f850e01488c2451e44950f6609f4e72c243a1785ce7821f3"
+    },
+    {
+      "original": "https://www.petesessions.com/positiveplatform/economic/embed/",
+      "timestamp": "20241101161453",
+      "wayback": "https://web.archive.org/web/20241101161453/https://www.petesessions.com/positiveplatform/economic/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241101161453id_/https://www.petesessions.com/positiveplatform/economic/embed/",
+      "file": "archive/2024/sessions-tx/positiveplatform-economic-embed.html",
+      "text_file": "archive/2024/sessions-tx/positiveplatform-economic-embed.txt",
+      "bytes": 21093,
+      "sha256_html": "9a70bf638f97b531da6ba1ebfb225473589fb311f2ecbdf3dc89eba0e52a95ac",
+      "sha256_text": "f6939b6777bea34d6863880939dbf6c57ee550b74ce2d375b9e4b1fa7d8613e9"
+    }
+  ],
+  "snapshots_found": {
+    "petesessions.com": 122
+  },
+  "generated_utc": "2026-11-26T08:26:49Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
