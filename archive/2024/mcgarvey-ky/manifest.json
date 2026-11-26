@@ -1,0 +1,148 @@
+{
+  "name": "Morgan McGarvey",
+  "domains_tried": [
+    "morganmcgarvey.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.morganmcgarvey.com/",
+      "timestamp": "20241105054918",
+      "wayback": "https://web.archive.org/web/20241105054918/https://www.morganmcgarvey.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105054918id_/https://www.morganmcgarvey.com/",
+      "file": "archive/2024/mcgarvey-ky/home.html",
+      "text_file": "archive/2024/mcgarvey-ky/home.txt",
+      "bytes": 25218,
+      "sha256_html": "68b6692d4608b3697a36745b34b95aef54671662009762e4e7ceb5bde99a3d14",
+      "sha256_text": "b6bc65bf1bdcd9551a750b1fc5527006335c725bdf078cba0131e0911c14ac61"
+    },
+    {
+      "original": "https://www.morganmcgarvey.com/on-the-issues",
+      "timestamp": "20241105054920",
+      "wayback": "https://web.archive.org/web/20241105054920/https://www.morganmcgarvey.com/on-the-issues",
+      "wayback_raw": "https://web.archive.org/web/20241105054920id_/https://www.morganmcgarvey.com/on-the-issues",
+      "file": "archive/2024/mcgarvey-ky/on-the-issues.html",
+      "text_file": "archive/2024/mcgarvey-ky/on-the-issues.txt",
+      "bytes": 26253,
+      "sha256_html": "e1130ba9f74cdaa05c05f1ceec517472ae7af56765ddfabc3b5ca3c5fdcbdd7b",
+      "sha256_text": "b4a4bdad5804b4981d621acd04642fb193160dffe43a1512a46148b0ea665082"
+    },
+    {
+      "original": "https://www.morganmcgarvey.com/issues/climate-change",
+      "timestamp": "20241105054922",
+      "wayback": "https://web.archive.org/web/20241105054922/https://www.morganmcgarvey.com/issues/climate-change",
+      "wayback_raw": "https://web.archive.org/web/20241105054922id_/https://www.morganmcgarvey.com/issues/climate-change",
+      "file": "archive/2024/mcgarvey-ky/issues-climate-change.html",
+      "text_file": "archive/2024/mcgarvey-ky/issues-climate-change.txt",
+      "bytes": 15901,
+      "sha256_html": "a50963fca84f38fe70adc011f19018dd977c6ba5d1bc8fda1bf2a97386f180ed",
+      "sha256_text": "cae539d89cb8940a39c539439f248de8151fda6bcfa849d633efe33099ce3500"
+    },
+    {
+      "original": "https://www.morganmcgarvey.com/issues/economy",
+      "timestamp": "20241105054933",
+      "wayback": "https://web.archive.org/web/20241105054933/https://www.morganmcgarvey.com/issues/economy",
+      "wayback_raw": "https://web.archive.org/web/20241105054933id_/https://www.morganmcgarvey.com/issues/economy",
+      "file": "archive/2024/mcgarvey-ky/issues-economy.html",
+      "text_file": "archive/2024/mcgarvey-ky/issues-economy.txt",
+      "bytes": 16402,
+      "sha256_html": "76b0d6677d5f43a5c11fc6592d29485e19c787de5ab830b9cbb72dae3d3a414f",
+      "sha256_text": "71efb3b4dbb7ce6e529893c8cb83218f1b7131dc33a065b08d691e090d54e30f"
+    },
+    {
+      "original": "https://www.morganmcgarvey.com/issues/education",
+      "timestamp": "20241105054920",
+      "wayback": "https://web.archive.org/web/20241105054920/https://www.morganmcgarvey.com/issues/education",
+      "wayback_raw": "https://web.archive.org/web/20241105054920id_/https://www.morganmcgarvey.com/issues/education",
+      "file": "archive/2024/mcgarvey-ky/issues-education.html",
+      "text_file": "archive/2024/mcgarvey-ky/issues-education.txt",
+      "bytes": 16019,
+      "sha256_html": "35f57358d18c8502d2368a18369bcb7788b3236b7c3ae7cc0cea5df2aebd90c4",
+      "sha256_text": "18906ec4d86253300f15aeddfa449849c075975cc6cd37cb391d890a5cf6c00d"
+    },
+    {
+      "original": "https://www.morganmcgarvey.com/issues/health-care",
+      "timestamp": "20241105054927",
+      "wayback": "https://web.archive.org/web/20241105054927/https://www.morganmcgarvey.com/issues/health-care",
+      "wayback_raw": "https://web.archive.org/web/20241105054927id_/https://www.morganmcgarvey.com/issues/health-care",
+      "file": "archive/2024/mcgarvey-ky/issues-health-care.html",
+      "text_file": "archive/2024/mcgarvey-ky/issues-health-care.txt",
+      "bytes": 15948,
+      "sha256_html": "ecaefbe9ffc8a469eb0e8808c98b784b3ba0039879d1ce58fba2b3ba435621d3",
+      "sha256_text": "56b42e1d33bca810c2e08540b3b9eff28fdd10ca842a8c732c3e79eb56d88a64"
+    },
+    {
+      "original": "https://www.morganmcgarvey.com/issues/immigration",
+      "timestamp": "20241105054932",
+      "wayback": "https://web.archive.org/web/20241105054932/https://www.morganmcgarvey.com/issues/immigration",
+      "wayback_raw": "https://web.archive.org/web/20241105054932id_/https://www.morganmcgarvey.com/issues/immigration",
+      "file": "archive/2024/mcgarvey-ky/issues-immigration.html",
+      "text_file": "archive/2024/mcgarvey-ky/issues-immigration.txt",
+      "bytes": 15521,
+      "sha256_html": "920b40745fcbb4155c6314754936ffe219fe48e57192c239ee0d5523df2eaa4a",
+      "sha256_text": "5123c55231da02471a0a5b30ed2dd903d286c1dacd8141e56bb0cbfb113a79dc"
+    },
+    {
+      "original": "https://www.morganmcgarvey.com/issues/labor",
+      "timestamp": "20241105054932",
+      "wayback": "https://web.archive.org/web/20241105054932/https://www.morganmcgarvey.com/issues/labor",
+      "wayback_raw": "https://web.archive.org/web/20241105054932id_/https://www.morganmcgarvey.com/issues/labor",
+      "file": "archive/2024/mcgarvey-ky/issues-labor.html",
+      "text_file": "archive/2024/mcgarvey-ky/issues-labor.txt",
+      "bytes": 16377,
+      "sha256_html": "5a9be395b9d9959e6573ee3173729e45047f2dcd2ce97fdea525d176a047fa15",
+      "sha256_text": "59d1b03f53b633047068a5d2affb72d116c7b7004bfc2ad96f5d4bb58827bc23"
+    },
+    {
+      "original": "https://www.morganmcgarvey.com/issues/legalize-marijuana",
+      "timestamp": "20241105054933",
+      "wayback": "https://web.archive.org/web/20241105054933/https://www.morganmcgarvey.com/issues/legalize-marijuana",
+      "wayback_raw": "https://web.archive.org/web/20241105054933id_/https://www.morganmcgarvey.com/issues/legalize-marijuana",
+      "file": "archive/2024/mcgarvey-ky/issues-legalize-marijuana.html",
+      "text_file": "archive/2024/mcgarvey-ky/issues-legalize-marijuana.txt",
+      "bytes": 15448,
+      "sha256_html": "6ad67b295d4ae998c3fd1d6c57516dd109edc372e047149f6e1a77651724e92f",
+      "sha256_text": "91d949b0d4033ef7a8d1fa6e3bf5a96b5e2f3ea231dced80812d06bfec4c7ec7"
+    },
+    {
+      "original": "https://www.morganmcgarvey.com/issues/lgbtq",
+      "timestamp": "20241105054932",
+      "wayback": "https://web.archive.org/web/20241105054932/https://www.morganmcgarvey.com/issues/lgbtq",
+      "wayback_raw": "https://web.archive.org/web/20241105054932id_/https://www.morganmcgarvey.com/issues/lgbtq",
+      "file": "archive/2024/mcgarvey-ky/issues-lgbtq.html",
+      "text_file": "archive/2024/mcgarvey-ky/issues-lgbtq.txt",
+      "bytes": 15450,
+      "sha256_html": "d889c4a487ed1c465ad8c2799e7bdcae488c8b52397dbe1621b6d9f4565f0f1b",
+      "sha256_text": "cdc16149476f90ba3bbc308c4d67ccf656c5948f91ab33c2b17cf7aed598b8b1"
+    },
+    {
+      "original": "https://www.morganmcgarvey.com/issues/pandemic-preparedness",
+      "timestamp": "20241105054932",
+      "wayback": "https://web.archive.org/web/20241105054932/https://www.morganmcgarvey.com/issues/pandemic-preparedness",
+      "wayback_raw": "https://web.archive.org/web/20241105054932id_/https://www.morganmcgarvey.com/issues/pandemic-preparedness",
+      "file": "archive/2024/mcgarvey-ky/issues-pandemic-preparedness.html",
+      "text_file": "archive/2024/mcgarvey-ky/issues-pandemic-preparedness.txt",
+      "bytes": 17286,
+      "sha256_html": "50ec6c934dcc08ce2e150e14ca6a2a68861450091327ed755345615d966820aa",
+      "sha256_text": "a94d6e21dc0b1bfbf05185855f8663d6642c7e1efa6db7af88563d6e60657cf6"
+    },
+    {
+      "original": "https://www.morganmcgarvey.com/issues/racial-justice",
+      "timestamp": "20241105054932",
+      "wayback": "https://web.archive.org/web/20241105054932/https://www.morganmcgarvey.com/issues/racial-justice",
+      "wayback_raw": "https://web.archive.org/web/20241105054932id_/https://www.morganmcgarvey.com/issues/racial-justice",
+      "file": "archive/2024/mcgarvey-ky/issues-racial-justice.html",
+      "text_file": "archive/2024/mcgarvey-ky/issues-racial-justice.txt",
+      "bytes": 16052,
+      "sha256_html": "b31754a9853b68560bdadecd5060d005ed0a06c24278ba0ed02e0700a5aa2ade",
+      "sha256_text": "52957009be5e7e3beaa24c6a06648f4ffa8c71cab50729e46777c6d07964f00b"
+    }
+  ],
+  "snapshots_found": {
+    "morganmcgarvey.com": 18
+  },
+  "generated_utc": "2026-11-26T09:09:37Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
