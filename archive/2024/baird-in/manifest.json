@@ -1,0 +1,49 @@
+{
+  "name": "James R. Baird",
+  "domains_tried": [
+    "electjimbaird.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.electjimbaird.com/",
+      "timestamp": "20241105153501",
+      "wayback": "https://web.archive.org/web/20241105153501/https://www.electjimbaird.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105153501id_/https://www.electjimbaird.com/",
+      "file": "archive/2024/baird-in/home.html",
+      "text_file": "archive/2024/baird-in/home.txt",
+      "bytes": 99637,
+      "sha256_html": "8db00ccd18c9d0f8275f717d9203e653eb1b046a074d02bdca101adf14ef0f80",
+      "sha256_text": "9cd833a2c5f45e5f6e8414cd00551ec7d520eca8b5c1c10a9a9d66ae0347da5b"
+    },
+    {
+      "original": "https://www.electjimbaird.com/2024/04/18/while-i-know-there-are-numerous-events-this-week-i-must-prioritize-my-duty-to-represent-the-people-of-the-4th-district-here-in-dc/",
+      "timestamp": "20241105075934",
+      "wayback": "https://web.archive.org/web/20241105075934/https://www.electjimbaird.com/2024/04/18/while-i-know-there-are-numerous-events-this-week-i-must-prioritize-my-duty-to-represent-the-people-of-the-4th-district-here-in-dc/",
+      "wayback_raw": "https://web.archive.org/web/20241105075934id_/https://www.electjimbaird.com/2024/04/18/while-i-know-there-are-numerous-events-this-week-i-must-prioritize-my-duty-to-represent-the-people-of-the-4th-district-here-in-dc/",
+      "file": "archive/2024/baird-in/2024-04-18-while-i-know-there-are-numerous-events-this-week-i-must-prioritize-my-duty-to-represent-the-people-of-the-4th-district-here-in-dc.html",
+      "text_file": "archive/2024/baird-in/2024-04-18-while-i-know-there-are-numerous-events-this-week-i-must-prioritize-my-duty-to-represent-the-people-of-the-4th-district-here-in-dc.txt",
+      "bytes": 79582,
+      "sha256_html": "8ce1c2ea5437efef0c1bb3ba0374d88bf6e2c8a93372537736d1d0e81effc361",
+      "sha256_text": "5739e1732b391c259a3dd50ad6b72d6857ec6253d22ce3c00960dbe958a70b91"
+    },
+    {
+      "original": "https://www.electjimbaird.com/2024/04/18/while-i-know-there-are-numerous-events-this-week-i-must-prioritize-my-duty-to-represent-the-people-of-the-4th-district-here-in-dc/embed/",
+      "timestamp": "20241102091522",
+      "wayback": "https://web.archive.org/web/20241102091522/https://www.electjimbaird.com/2024/04/18/while-i-know-there-are-numerous-events-this-week-i-must-prioritize-my-duty-to-represent-the-people-of-the-4th-district-here-in-dc/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241102091522id_/https://www.electjimbaird.com/2024/04/18/while-i-know-there-are-numerous-events-this-week-i-must-prioritize-my-duty-to-represent-the-people-of-the-4th-district-here-in-dc/embed/",
+      "file": "archive/2024/baird-in/2024-04-18-while-i-know-there-are-numerous-events-this-week-i-must-prioritize-my-duty-to-represent-the-people-of-the-4th-district-here-in-dc-embed.html",
+      "text_file": "archive/2024/baird-in/2024-04-18-while-i-know-there-are-numerous-events-this-week-i-must-prioritize-my-duty-to-represent-the-people-of-the-4th-district-here-in-dc-embed.txt",
+      "bytes": 22363,
+      "sha256_html": "caada0edc0f78d49ca286dc309b137798e601449af4d0a20f763592897cd53f0",
+      "sha256_text": "63c1ec775e6ad70f2b41c1b8510dc63bcaa6736b4d73b145413583172c1367d3"
+    }
+  ],
+  "snapshots_found": {
+    "electjimbaird.com": 130
+  },
+  "generated_utc": "2026-11-26T08:06:57Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
