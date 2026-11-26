@@ -1,0 +1,38 @@
+{
+  "name": "Mark Takano",
+  "domains_tried": [
+    "marktakano.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.marktakano.com/",
+      "timestamp": "20241105062109",
+      "wayback": "https://web.archive.org/web/20241105062109/https://www.marktakano.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105062109id_/https://www.marktakano.com/",
+      "file": "archive/2024/takano-ca/home.html",
+      "text_file": "archive/2024/takano-ca/home.txt",
+      "bytes": 180648,
+      "sha256_html": "c3a52156d13a7d81ce867c06079cff70934dedf7f272742f16958b82c29644fe",
+      "sha256_text": "0d6849a882e40cb99a9feb14e11500615f3e8d72f6e79ccb9a401aec5d2f201d"
+    },
+    {
+      "original": "https://www.marktakano.com/about",
+      "timestamp": "20241105062110",
+      "wayback": "https://web.archive.org/web/20241105062110/https://www.marktakano.com/about",
+      "wayback_raw": "https://web.archive.org/web/20241105062110id_/https://www.marktakano.com/about",
+      "file": "archive/2024/takano-ca/about.html",
+      "text_file": "archive/2024/takano-ca/about.txt",
+      "bytes": 120714,
+      "sha256_html": "d17657f96adaedf43a3eadfd7f194a61ebc3f19a1b4a04e7b02f23db42bf7efc",
+      "sha256_text": "4e699ac969d355e79dfaf8300276bcfdd5b015702e0a691661a58405d6bdcd74"
+    }
+  ],
+  "snapshots_found": {
+    "marktakano.com": 4
+  },
+  "generated_utc": "2026-11-26T08:40:32Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
