@@ -1,0 +1,82 @@
+{
+  "name": "Mark E. Amodei",
+  "domains_tried": [
+    "amodeifornevada.com"
+  ],
+  "pages": [
+    {
+      "original": "https://amodeifornevada.com/",
+      "timestamp": "20241105123116",
+      "wayback": "https://web.archive.org/web/20241105123116/https://amodeifornevada.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105123116id_/https://amodeifornevada.com/",
+      "file": "archive/2024/amodei-nv/home.html",
+      "text_file": "archive/2024/amodei-nv/home.txt",
+      "bytes": 98124,
+      "sha256_html": "c40521d5acdac6bc3e2710c0d8081b92930b117ad0da5b12b6fb3788178f055e",
+      "sha256_text": "429561c93c0bbb62d59cab381680bd9f2f1465710539b85ce8e7666189270448"
+    },
+    {
+      "original": "https://amodeifornevada.com/record-congressional-incumbent-mark-amodei-elections-abortion-immigration-government-spending/",
+      "timestamp": "20241105123519",
+      "wayback": "https://web.archive.org/web/20241105123519/https://amodeifornevada.com/record-congressional-incumbent-mark-amodei-elections-abortion-immigration-government-spending/",
+      "wayback_raw": "https://web.archive.org/web/20241105123519id_/https://amodeifornevada.com/record-congressional-incumbent-mark-amodei-elections-abortion-immigration-government-spending/",
+      "file": "archive/2024/amodei-nv/record-congressional-incumbent-mark-amodei-elections-abortion-immigration-government-spending.html",
+      "text_file": "archive/2024/amodei-nv/record-congressional-incumbent-mark-amodei-elections-abortion-immigration-government-spending.txt",
+      "bytes": 73378,
+      "sha256_html": "06e437bdd1157ce5bb61ed7ffbfefea315a98b411008d598d3dfb9736a4e9262",
+      "sha256_text": "f49bd3bb5e7055992f6a81c48702be5800d96577a072ddda36d26ab10e760ebb"
+    },
+    {
+      "original": "https://amodeifornevada.com/record-congressional-incumbent-mark-amodei-elections-abortion-immigration-government-spending/embed/",
+      "timestamp": "20241104233931",
+      "wayback": "https://web.archive.org/web/20241104233931/https://amodeifornevada.com/record-congressional-incumbent-mark-amodei-elections-abortion-immigration-government-spending/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241104233931id_/https://amodeifornevada.com/record-congressional-incumbent-mark-amodei-elections-abortion-immigration-government-spending/embed/",
+      "file": "archive/2024/amodei-nv/record-congressional-incumbent-mark-amodei-elections-abortion-immigration-government-spending-embed.html",
+      "text_file": "archive/2024/amodei-nv/record-congressional-incumbent-mark-amodei-elections-abortion-immigration-government-spending-embed.txt",
+      "bytes": 21670,
+      "sha256_html": "bc40e5fb42c505f58dcf5a0d4f9c43c488a0dc14ebdb362917f08025a26435ff",
+      "sha256_text": "8aa4a96559e35a40afeb92c0fde227da9efe25262dff224efed710598ce6fc3d"
+    },
+    {
+      "original": "https://amodeifornevada.com/wp-content/plugins/formidable/classes/models/FrmEntryValues.php",
+      "timestamp": "20241105124827",
+      "wayback": "https://web.archive.org/web/20241105124827/https://amodeifornevada.com/wp-content/plugins/formidable/classes/models/FrmEntryValues.php",
+      "wayback_raw": "https://web.archive.org/web/20241105124827id_/https://amodeifornevada.com/wp-content/plugins/formidable/classes/models/FrmEntryValues.php",
+      "file": "archive/2024/amodei-nv/wp-content-plugins-formidable-classes-models-frmentryvalues-php.html",
+      "text_file": "archive/2024/amodei-nv/wp-content-plugins-formidable-classes-models-frmentryvalues-php.txt",
+      "bytes": 47,
+      "sha256_html": "36f6b4b70220f06327063b5225251eb92b41233484b1f2fb22ded7c59b1b74e7",
+      "sha256_text": "36f6b4b70220f06327063b5225251eb92b41233484b1f2fb22ded7c59b1b74e7"
+    },
+    {
+      "original": "https://amodeifornevada.com/wp-content/plugins/formidable/classes/models/FrmFieldValueSelector.php",
+      "timestamp": "20241105124816",
+      "wayback": "https://web.archive.org/web/20241105124816/https://amodeifornevada.com/wp-content/plugins/formidable/classes/models/FrmFieldValueSelector.php",
+      "wayback_raw": "https://web.archive.org/web/20241105124816id_/https://amodeifornevada.com/wp-content/plugins/formidable/classes/models/FrmFieldValueSelector.php",
+      "file": "archive/2024/amodei-nv/wp-content-plugins-formidable-classes-models-frmfieldvalueselector-php.html",
+      "text_file": "archive/2024/amodei-nv/wp-content-plugins-formidable-classes-models-frmfieldvalueselector-php.txt",
+      "bytes": 47,
+      "sha256_html": "36f6b4b70220f06327063b5225251eb92b41233484b1f2fb22ded7c59b1b74e7",
+      "sha256_text": "36f6b4b70220f06327063b5225251eb92b41233484b1f2fb22ded7c59b1b74e7"
+    },
+    {
+      "original": "https://amodeifornevada.com/wp-content/plugins/formidable/classes/views/frm-fields/back-end/smart-values.php",
+      "timestamp": "20241105131727",
+      "wayback": "https://web.archive.org/web/20241105131727/https://amodeifornevada.com/wp-content/plugins/formidable/classes/views/frm-fields/back-end/smart-values.php",
+      "wayback_raw": "https://web.archive.org/web/20241105131727id_/https://amodeifornevada.com/wp-content/plugins/formidable/classes/views/frm-fields/back-end/smart-values.php",
+      "file": "archive/2024/amodei-nv/wp-content-plugins-formidable-classes-views-frm-fields-back-end-smart-values-php.html",
+      "text_file": "archive/2024/amodei-nv/wp-content-plugins-formidable-classes-views-frm-fields-back-end-smart-values-php.txt",
+      "bytes": 47,
+      "sha256_html": "36f6b4b70220f06327063b5225251eb92b41233484b1f2fb22ded7c59b1b74e7",
+      "sha256_text": "36f6b4b70220f06327063b5225251eb92b41233484b1f2fb22ded7c59b1b74e7"
+    }
+  ],
+  "snapshots_found": {
+    "amodeifornevada.com": 498
+  },
+  "generated_utc": "2026-11-26T08:35:58Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
