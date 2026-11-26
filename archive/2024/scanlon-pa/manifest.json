@@ -1,0 +1,38 @@
+{
+  "name": "Mary Gay Scanlon",
+  "domains_tried": [
+    "scanlonforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.scanlonforcongress.com/",
+      "timestamp": "20241105091715",
+      "wayback": "https://web.archive.org/web/20241105091715/https://www.scanlonforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105091715id_/https://www.scanlonforcongress.com/",
+      "file": "archive/2024/scanlon-pa/home.html",
+      "text_file": "archive/2024/scanlon-pa/home.txt",
+      "bytes": 476728,
+      "sha256_html": "83b8dc1761f6a83be158d7de822c033bb8c2662cdc630ba603c7b546c3509573",
+      "sha256_text": "705489115750464942b2b825241575c1f72405eaefd2a418eff5145590baf695"
+    },
+    {
+      "original": "https://www.scanlonforcongress.com/about",
+      "timestamp": "20241105091732",
+      "wayback": "https://web.archive.org/web/20241105091732/https://www.scanlonforcongress.com/about",
+      "wayback_raw": "https://web.archive.org/web/20241105091732id_/https://www.scanlonforcongress.com/about",
+      "file": "archive/2024/scanlon-pa/about.html",
+      "text_file": "archive/2024/scanlon-pa/about.txt",
+      "bytes": 462703,
+      "sha256_html": "a77b783a8b4ff3d53ec1c3dca9d157328405f5b33296005be7c5b2f90ffad373",
+      "sha256_text": "62ec4ffabd99a04bda8dd48e6c33fe5355ab36d169295dd57a1776a6ca7eec10"
+    }
+  ],
+  "snapshots_found": {
+    "scanlonforcongress.com": 8
+  },
+  "generated_utc": "2026-11-26T08:07:10Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
