@@ -1,0 +1,38 @@
+{
+  "name": "Mike Rogers",
+  "domains_tried": [
+    "mikerogersforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.mikerogersforcongress.com/",
+      "timestamp": "20241105085523",
+      "wayback": "https://web.archive.org/web/20241105085523/https://www.mikerogersforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105085523id_/https://www.mikerogersforcongress.com/",
+      "file": "archive/2024/rogers-al/home.html",
+      "text_file": "archive/2024/rogers-al/home.txt",
+      "bytes": 18003,
+      "sha256_html": "0c824b53cff19858d1bcb5cf8357ec6eae17c9606951def4cd03ddf436ec2950",
+      "sha256_text": "60415b4137d993622789429c1904c58c5d2c5da1e6ef4aecd2837ac2082dc710"
+    },
+    {
+      "original": "https://www.mikerogersforcongress.com/about/",
+      "timestamp": "20241105035352",
+      "wayback": "https://web.archive.org/web/20241105035352/https://www.mikerogersforcongress.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105035352id_/https://www.mikerogersforcongress.com/about/",
+      "file": "archive/2024/rogers-al/about.html",
+      "text_file": "archive/2024/rogers-al/about.txt",
+      "bytes": 15195,
+      "sha256_html": "52b0d56e7bedfeb91b0e7c083f94058870196ee94a1a4acb235b2a141571c22e",
+      "sha256_text": "36cab773635d52bc62031e960a09bfed5647771e6fabce821ccbdd102dfc8b03"
+    }
+  ],
+  "snapshots_found": {
+    "mikerogersforcongress.com": 33
+  },
+  "generated_utc": "2026-11-26T08:17:21Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
