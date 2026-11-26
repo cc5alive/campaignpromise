@@ -1,0 +1,38 @@
+{
+  "name": "Nikema Williams",
+  "domains_tried": [
+    "nikemaforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.nikemaforcongress.com/",
+      "timestamp": "20241105110814",
+      "wayback": "https://web.archive.org/web/20241105110814/https://www.nikemaforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105110814id_/https://www.nikemaforcongress.com/",
+      "file": "archive/2024/williams-ga/home.html",
+      "text_file": "archive/2024/williams-ga/home.txt",
+      "bytes": 134256,
+      "sha256_html": "df66b8988f17af707b734822b6d9cce13dcd0ec2730da0a362de46d36b5aba4c",
+      "sha256_text": "221ddfa634c0fab6933d06d1f6747893830cd9374372b6c03cee353e55b3eb6e"
+    },
+    {
+      "original": "https://www.nikemaforcongress.com/issues-new",
+      "timestamp": "20241105110824",
+      "wayback": "https://web.archive.org/web/20241105110824/https://www.nikemaforcongress.com/issues-new",
+      "wayback_raw": "https://web.archive.org/web/20241105110824id_/https://www.nikemaforcongress.com/issues-new",
+      "file": "archive/2024/williams-ga/issues-new.html",
+      "text_file": "archive/2024/williams-ga/issues-new.txt",
+      "bytes": 124535,
+      "sha256_html": "0c7fd903fba0c337af0cbe15c6fda3121f48fcb758bf7abdec97ece39770d4b1",
+      "sha256_text": "a6854278da208d7d02ae31326176f84f7891955a2db310179a48d235811a11b9"
+    }
+  ],
+  "snapshots_found": {
+    "nikemaforcongress.com": 8
+  },
+  "generated_utc": "2026-11-26T08:27:05Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
