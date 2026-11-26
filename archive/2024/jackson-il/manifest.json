@@ -1,0 +1,61 @@
+{
+  "name": "Jonathan L. Jackson",
+  "domains_tried": [
+    "jonathanjacksonforcongress.com",
+    "jonathanjackson.com"
+  ],
+  "pages": [
+    {
+      "original": "https://jonathanjacksonforcongress.com/",
+      "timestamp": "20241031202404",
+      "wayback": "https://web.archive.org/web/20241031202404/https://jonathanjacksonforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241031202404id_/https://jonathanjacksonforcongress.com/",
+      "file": "archive/2024/jackson-il/home.html",
+      "text_file": "archive/2024/jackson-il/home.txt",
+      "bytes": 114,
+      "sha256_html": "6dc9c7fc93bb488bb0520a6c780a8d3c0fb5486a4711aca49b4c53fac7393023",
+      "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "original": "https://jonathanjacksonforcongress.com/issues/",
+      "timestamp": "20240919143227",
+      "wayback": "https://web.archive.org/web/20240919143227/https://jonathanjacksonforcongress.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20240919143227id_/https://jonathanjacksonforcongress.com/issues/",
+      "file": "archive/2024/jackson-il/issues.html",
+      "text_file": "archive/2024/jackson-il/issues.txt",
+      "bytes": 114,
+      "sha256_html": "6dc9c7fc93bb488bb0520a6c780a8d3c0fb5486a4711aca49b4c53fac7393023",
+      "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "original": "https://jonathanjacksonforcongress.com/issues/with-regulatory-clarity-digital-asset-markets-offer-great-business-opportunities-for-communities-of-color/",
+      "timestamp": "20241012092656",
+      "wayback": "https://web.archive.org/web/20241012092656/https://jonathanjacksonforcongress.com/issues/with-regulatory-clarity-digital-asset-markets-offer-great-business-opportunities-for-communities-of-color/",
+      "wayback_raw": "https://web.archive.org/web/20241012092656id_/https://jonathanjacksonforcongress.com/issues/with-regulatory-clarity-digital-asset-markets-offer-great-business-opportunities-for-communities-of-color/",
+      "file": "archive/2024/jackson-il/issues-with-regulatory-clarity-digital-asset-markets-offer-great-business-opportunities-for-communities-of-color.html",
+      "text_file": "archive/2024/jackson-il/issues-with-regulatory-clarity-digital-asset-markets-offer-great-business-opportunities-for-communities-of-color.txt",
+      "bytes": 114,
+      "sha256_html": "6dc9c7fc93bb488bb0520a6c780a8d3c0fb5486a4711aca49b4c53fac7393023",
+      "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "original": "https://jonathanjacksonforcongress.com/issues/women-equal-pay/",
+      "timestamp": "20241012100615",
+      "wayback": "https://web.archive.org/web/20241012100615/https://jonathanjacksonforcongress.com/issues/women-equal-pay/",
+      "wayback_raw": "https://web.archive.org/web/20241012100615id_/https://jonathanjacksonforcongress.com/issues/women-equal-pay/",
+      "file": "archive/2024/jackson-il/issues-women-equal-pay.html",
+      "text_file": "archive/2024/jackson-il/issues-women-equal-pay.txt",
+      "bytes": 114,
+      "sha256_html": "6dc9c7fc93bb488bb0520a6c780a8d3c0fb5486a4711aca49b4c53fac7393023",
+      "sha256_text": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "snapshots_found": {
+    "jonathanjacksonforcongress.com": 6
+  },
+  "generated_utc": "2026-11-26T09:06:36Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
