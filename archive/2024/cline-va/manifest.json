@@ -1,0 +1,148 @@
+{
+  "name": "Ben Cline",
+  "domains_tried": [
+    "bencline.com"
+  ],
+  "pages": [
+    {
+      "original": "https://bencline.com/",
+      "timestamp": "20241105092749",
+      "wayback": "https://web.archive.org/web/20241105092749/https://bencline.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105092749id_/https://bencline.com/",
+      "file": "archive/2024/cline-va/home.html",
+      "text_file": "archive/2024/cline-va/home.txt",
+      "bytes": 239338,
+      "sha256_html": "ef6f117a4a3fdb1051872267e8ff4bbd964eb20f18460a13084cbcf2eb7a9090",
+      "sha256_text": "ef1ee24ba14388d12f6b5a34c227f7da34f40f50473d9fc2e608771dac5aee55"
+    },
+    {
+      "original": "https://bencline.com/issues/",
+      "timestamp": "20241105103923",
+      "wayback": "https://web.archive.org/web/20241105103923/https://bencline.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105103923id_/https://bencline.com/issues/",
+      "file": "archive/2024/cline-va/issues.html",
+      "text_file": "archive/2024/cline-va/issues.txt",
+      "bytes": 213964,
+      "sha256_html": "20d3396551348daee4f10879968bf5e237d25cf73a4bf21400ec2cc489a5ac4e",
+      "sha256_text": "43dbec879d76a8e7602817a3dfb5b2f8a25b7fa52077876f04f281e735a2503a"
+    },
+    {
+      "original": "https://bencline.com/issues/bolster-rural-america/",
+      "timestamp": "20241105093123",
+      "wayback": "https://web.archive.org/web/20241105093123/https://bencline.com/issues/bolster-rural-america/",
+      "wayback_raw": "https://web.archive.org/web/20241105093123id_/https://bencline.com/issues/bolster-rural-america/",
+      "file": "archive/2024/cline-va/issues-bolster-rural-america.html",
+      "text_file": "archive/2024/cline-va/issues-bolster-rural-america.txt",
+      "bytes": 155082,
+      "sha256_html": "022247307bf2ab0956c0cca527fcce1f0f853b30a9093e161a465d75161f4307",
+      "sha256_text": "0b9ab7e1b524172cd1085ddb987eca5bd6d4b280364ee6f03c34cb4e4de84375"
+    },
+    {
+      "original": "https://bencline.com/issues/defend-the-rule-of-law/",
+      "timestamp": "20241105093118",
+      "wayback": "https://web.archive.org/web/20241105093118/https://bencline.com/issues/defend-the-rule-of-law/",
+      "wayback_raw": "https://web.archive.org/web/20241105093118id_/https://bencline.com/issues/defend-the-rule-of-law/",
+      "file": "archive/2024/cline-va/issues-defend-the-rule-of-law.html",
+      "text_file": "archive/2024/cline-va/issues-defend-the-rule-of-law.txt",
+      "bytes": 154601,
+      "sha256_html": "09fe40e8e3abe00c8f01f77c652229d3ba4d8c0f1ad39979928c7148f979b23c",
+      "sha256_text": "6c8e44004dc299e82e073c7e3790bbd3d85f393bac7750284939018079bdcbb7"
+    },
+    {
+      "original": "https://bencline.com/issues/educating-our-children/",
+      "timestamp": "20241105093121",
+      "wayback": "https://web.archive.org/web/20241105093121/https://bencline.com/issues/educating-our-children/",
+      "wayback_raw": "https://web.archive.org/web/20241105093121id_/https://bencline.com/issues/educating-our-children/",
+      "file": "archive/2024/cline-va/issues-educating-our-children.html",
+      "text_file": "archive/2024/cline-va/issues-educating-our-children.txt",
+      "bytes": 154405,
+      "sha256_html": "8c94739d103c482db90ec45a20a3735a4b8e56ccaab91ade65c0019cb37d3c30",
+      "sha256_text": "efcd5cea34025da5c0823c0c694d7e193d2e12d921a5cb42a52f8da8b79d680d"
+    },
+    {
+      "original": "https://bencline.com/issues/hold-government-accountable/",
+      "timestamp": "20241105093124",
+      "wayback": "https://web.archive.org/web/20241105093124/https://bencline.com/issues/hold-government-accountable/",
+      "wayback_raw": "https://web.archive.org/web/20241105093124id_/https://bencline.com/issues/hold-government-accountable/",
+      "file": "archive/2024/cline-va/issues-hold-government-accountable.html",
+      "text_file": "archive/2024/cline-va/issues-hold-government-accountable.txt",
+      "bytes": 154621,
+      "sha256_html": "c3bce84b164d8d49b84b68cf3d3a806d6bd87b00e744ffdbe9d9db1624887ef2",
+      "sha256_text": "271f59d7211b17b91f46778bfac56dda7a467bfe4c3376c488e7fd903c837971"
+    },
+    {
+      "original": "https://bencline.com/issues/keep-america-safe/",
+      "timestamp": "20241105093128",
+      "wayback": "https://web.archive.org/web/20241105093128/https://bencline.com/issues/keep-america-safe/",
+      "wayback_raw": "https://web.archive.org/web/20241105093128id_/https://bencline.com/issues/keep-america-safe/",
+      "file": "archive/2024/cline-va/issues-keep-america-safe.html",
+      "text_file": "archive/2024/cline-va/issues-keep-america-safe.txt",
+      "bytes": 154575,
+      "sha256_html": "e678a2cc39f4c456a6e018184d32ad4c5560a56ef764bd074e76e32a949a9c3f",
+      "sha256_text": "706dea4f0ce40a971f6ba48bedec94f27c31cb14f68ebb2b219c8ba0d3193aa2"
+    },
+    {
+      "original": "https://bencline.com/issues/protecting-the-unborn/",
+      "timestamp": "20241105093130",
+      "wayback": "https://web.archive.org/web/20241105093130/https://bencline.com/issues/protecting-the-unborn/",
+      "wayback_raw": "https://web.archive.org/web/20241105093130id_/https://bencline.com/issues/protecting-the-unborn/",
+      "file": "archive/2024/cline-va/issues-protecting-the-unborn.html",
+      "text_file": "archive/2024/cline-va/issues-protecting-the-unborn.txt",
+      "bytes": 154407,
+      "sha256_html": "76741802c1d52179ec9f2f811969ceba711fe343a508c5725e8e3935bce08c8b",
+      "sha256_text": "d30a6948ac3ef2c8f2500fed21aff881218337cbd19bc0a4884001e5dddd1266"
+    },
+    {
+      "original": "https://bencline.com/issues/stop-the-waste/",
+      "timestamp": "20241105093127",
+      "wayback": "https://web.archive.org/web/20241105093127/https://bencline.com/issues/stop-the-waste/",
+      "wayback_raw": "https://web.archive.org/web/20241105093127id_/https://bencline.com/issues/stop-the-waste/",
+      "file": "archive/2024/cline-va/issues-stop-the-waste.html",
+      "text_file": "archive/2024/cline-va/issues-stop-the-waste.txt",
+      "bytes": 153694,
+      "sha256_html": "3f4fef686376f29c4743c6caf9ee0a51c3b4f707608fda914851ec710d11b946",
+      "sha256_text": "9682f9a6dbd230418ff6a48077ff5d3abe50152a94e7b4fec395cb53b46d4617"
+    },
+    {
+      "original": "https://bencline.com/issues/support-the-2nd-amendment/",
+      "timestamp": "20241105093119",
+      "wayback": "https://web.archive.org/web/20241105093119/https://bencline.com/issues/support-the-2nd-amendment/",
+      "wayback_raw": "https://web.archive.org/web/20241105093119id_/https://bencline.com/issues/support-the-2nd-amendment/",
+      "file": "archive/2024/cline-va/issues-support-the-2nd-amendment.html",
+      "text_file": "archive/2024/cline-va/issues-support-the-2nd-amendment.txt",
+      "bytes": 154401,
+      "sha256_html": "78ae56c6ab87a7471423c660a08c5ef5b0bda4b38be105d4063a43894e31962d",
+      "sha256_text": "d471c9a99a98c385148b938d963a2b9bb96cd961209df7819f8092f36a540fcb"
+    },
+    {
+      "original": "https://bencline.com/issues/upholding-election-integrity/",
+      "timestamp": "20241105093126",
+      "wayback": "https://web.archive.org/web/20241105093126/https://bencline.com/issues/upholding-election-integrity/",
+      "wayback_raw": "https://web.archive.org/web/20241105093126id_/https://bencline.com/issues/upholding-election-integrity/",
+      "file": "archive/2024/cline-va/issues-upholding-election-integrity.html",
+      "text_file": "archive/2024/cline-va/issues-upholding-election-integrity.txt",
+      "bytes": 154812,
+      "sha256_html": "b4044e725467be138f313e1818d7ae51c39940df400934551609ccf0409bca7f",
+      "sha256_text": "8b55ac40859b2cbb89bf5e3316a09e5c8955bcb36b14b2ff1081f35bd882cfdd"
+    },
+    {
+      "original": "https://bencline.com/issues/bolster-rural-america/embed/",
+      "timestamp": "20241001183457",
+      "wayback": "https://web.archive.org/web/20241001183457/https://bencline.com/issues/bolster-rural-america/embed/",
+      "wayback_raw": "https://web.archive.org/web/20241001183457id_/https://bencline.com/issues/bolster-rural-america/embed/",
+      "file": "archive/2024/cline-va/issues-bolster-rural-america-embed.html",
+      "text_file": "archive/2024/cline-va/issues-bolster-rural-america-embed.txt",
+      "bytes": 21102,
+      "sha256_html": "d9b015eaba987adf9abb4dd9f149ad2088c0c26c7b5f701bccf444658a6a0839",
+      "sha256_text": "c692ccfdaa6534ac0d1c6455934b9712e33c33a8cb7922a69f207f0bafff8f82"
+    }
+  ],
+  "snapshots_found": {
+    "bencline.com": 48
+  },
+  "generated_utc": "2026-11-26T08:14:13Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
