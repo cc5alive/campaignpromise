@@ -1,0 +1,27 @@
+{
+  "name": "Mike Lee",
+  "domains_tried": [
+    "leeforsenate.com"
+  ],
+  "pages": [
+    {
+      "original": "https://leeforsenate.com/",
+      "timestamp": "20241105105010",
+      "wayback": "https://web.archive.org/web/20241105105010/https://leeforsenate.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105105010id_/https://leeforsenate.com/",
+      "file": "archive/2024/lee-ut/home.html",
+      "text_file": "archive/2024/lee-ut/home.txt",
+      "bytes": 116767,
+      "sha256_html": "f1299973db768674eb3e2d93d67f4c08ee018ce700106961ff71a7eef653ef90",
+      "sha256_text": "4c7aff2063671b0a263aee24276ea2b538e0d96944ec2c8d386b4ef8e9c6cb3d"
+    }
+  ],
+  "snapshots_found": {
+    "leeforsenate.com": 1
+  },
+  "generated_utc": "2026-11-26T08:00:25Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
