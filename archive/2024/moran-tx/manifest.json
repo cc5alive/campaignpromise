@@ -1,0 +1,27 @@
+{
+  "name": "Nathaniel Moran",
+  "domains_tried": [
+    "nathanielmoran.com"
+  ],
+  "pages": [
+    {
+      "original": "https://nathanielmoran.com/",
+      "timestamp": "20241105081802",
+      "wayback": "https://web.archive.org/web/20241105081802/https://nathanielmoran.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105081802id_/https://nathanielmoran.com/",
+      "file": "archive/2024/moran-tx/home.html",
+      "text_file": "archive/2024/moran-tx/home.txt",
+      "bytes": 298572,
+      "sha256_html": "386b55558285e9dfc7476152265ea94b83d0a22dd1ac2c7f41c504ba03c291a1",
+      "sha256_text": "c2e85ba91d76d8e4f2a9b219f47c63ae5aaf8f07acd87067f3ecdb4dd13b77af"
+    }
+  ],
+  "snapshots_found": {
+    "nathanielmoran.com": 1218
+  },
+  "generated_utc": "2026-11-26T09:12:06Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
