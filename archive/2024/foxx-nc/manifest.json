@@ -1,0 +1,38 @@
+{
+  "name": "Virginia Foxx",
+  "domains_tried": [
+    "virginiafoxx.com"
+  ],
+  "pages": [
+    {
+      "original": "https://virginiafoxx.com/",
+      "timestamp": "20241105125718",
+      "wayback": "https://web.archive.org/web/20241105125718/https://virginiafoxx.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105125718id_/https://virginiafoxx.com/",
+      "file": "archive/2024/foxx-nc/home.html",
+      "text_file": "archive/2024/foxx-nc/home.txt",
+      "bytes": 52000,
+      "sha256_html": "8661f4881653d10ac77c21018b377f5c0f7bc8cd93fdebf6a3a1b44b3d7751dd",
+      "sha256_text": "5d51923e206dd46a9f1fd3764815e2a8ff2b7066253a4d8db06c1f04321f91e2"
+    },
+    {
+      "original": "https://virginiafoxx.com/issues/",
+      "timestamp": "20241105125742",
+      "wayback": "https://web.archive.org/web/20241105125742/https://virginiafoxx.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105125742id_/https://virginiafoxx.com/issues/",
+      "file": "archive/2024/foxx-nc/issues.html",
+      "text_file": "archive/2024/foxx-nc/issues.txt",
+      "bytes": 47169,
+      "sha256_html": "3c97d9e7e0dbdf6d20ed293859efe3e99e7393f64ccca8f337667dcfa058ca88",
+      "sha256_text": "edf6dab1a984cea120eadb6ccb75ef853700385c145ac271e813a0b8c6169c30"
+    }
+  ],
+  "snapshots_found": {
+    "virginiafoxx.com": 1
+  },
+  "generated_utc": "2026-11-26T07:49:29Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
