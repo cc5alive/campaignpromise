@@ -1,0 +1,50 @@
+{
+ "committees": {
+  "C00720011": {
+   "name": "SCOTT FITZGERALD FOR CONGRESS",
+   "website": "WWW.SCOTTFITZGERALDFORCONGRESS.COM",
+   "error": null
+  },
+  "C00765164": {
+   "name": "ALEX PADILLA FOR SENATE",
+   "website": "WWW.ALEX-PADILLA.COM/",
+   "error": null
+  },
+  "C00718866": {
+   "name": "JON OSSOFF FOR SENATE",
+   "website": "HTTPS://ELECTJON.COM/",
+   "error": null
+  },
+  "C00736876": {
+   "name": "WARNOCK FOR GEORGIA",
+   "website": "WARNOCKFORGEORGIA.COM",
+   "error": null
+  },
+  "C00632828": {
+   "name": "CLAUDIA TENNEY FOR CONGRESS",
+   "website": "WWW.CLAUDIAFORCONGRESS.COM",
+   "error": null
+  },
+  "C00766428": {
+   "name": "JULIA LETLOW FOR CONGRESS",
+   "website": "WWW.JULIALETLOW.COM",
+   "error": null
+  },
+  "C00763649": {
+   "name": "TROY CARTER FOR CONGRESS",
+   "website": "HTTPS://TROYCARTER4CONGRESS.COM/",
+   "error": null
+  },
+  "C00765099": {
+   "name": "MELANIE FOR NEW MEXICO",
+   "website": "MELANIEFORNM.COM",
+   "error": null
+  },
+  "C00770438": {
+   "name": "JAKE ELLZEY FOR CONGRESS",
+   "website": "ELLZEYFORTEXAS.COM",
+   "error": null
+  }
+ },
+ "searches": {}
+}
