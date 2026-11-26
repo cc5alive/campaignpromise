@@ -1,0 +1,27 @@
+{
+  "name": "Dusty Johnson",
+  "domains_tried": [
+    "dustyjohnson.com"
+  ],
+  "pages": [
+    {
+      "original": "https://dustyjohnson.com/",
+      "timestamp": "20241105120905",
+      "wayback": "https://web.archive.org/web/20241105120905/https://dustyjohnson.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105120905id_/https://dustyjohnson.com/",
+      "file": "archive/2024/johnson-sd/home.html",
+      "text_file": "archive/2024/johnson-sd/home.txt",
+      "bytes": 87604,
+      "sha256_html": "d9bba02e74a70f502550e919173b6873773612d0cda7046a3b7e4e66b8df25eb",
+      "sha256_text": "cc8393580918ccd1c6665e2b6ad2c63f2a8685fdd332298fdfddce852367b50d"
+    }
+  ],
+  "snapshots_found": {
+    "dustyjohnson.com": 40
+  },
+  "generated_utc": "2026-11-26T08:11:07Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
