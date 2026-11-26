@@ -1,0 +1,148 @@
+{
+  "name": "Ami Bera",
+  "domains_tried": [
+    "beraforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://beraforcongress.com/",
+      "timestamp": "20241105120945",
+      "wayback": "https://web.archive.org/web/20241105120945/https://beraforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105120945id_/https://beraforcongress.com/",
+      "file": "archive/2024/bera-ca/home.html",
+      "text_file": "archive/2024/bera-ca/home.txt",
+      "bytes": 71080,
+      "sha256_html": "41a4a833b9e8c4d713269622ebdc2d121bf7cc32dfdb149f82b0b101abd4fa18",
+      "sha256_text": "bdb7dd45f7ff37d8895d6ecdecc7617be366ab608c8b512208dc101645fec596"
+    },
+    {
+      "original": "https://beraforcongress.com/amis-priorities-survey/",
+      "timestamp": "20241105121213",
+      "wayback": "https://web.archive.org/web/20241105121213/https://beraforcongress.com/amis-priorities-survey/",
+      "wayback_raw": "https://web.archive.org/web/20241105121213id_/https://beraforcongress.com/amis-priorities-survey/",
+      "file": "archive/2024/bera-ca/amis-priorities-survey.html",
+      "text_file": "archive/2024/bera-ca/amis-priorities-survey.txt",
+      "bytes": 44110,
+      "sha256_html": "c9ba5c0fcb84f97e156646a916d67b4d00eb0abc7cbee703622ab00562e5c632",
+      "sha256_text": "fa311307d1a3da3d75fab913d15008c0237f3944bf6028b9f64666b9c812db12"
+    },
+    {
+      "original": "https://beraforcongress.com/issues/",
+      "timestamp": "20241105121010",
+      "wayback": "https://web.archive.org/web/20241105121010/https://beraforcongress.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105121010id_/https://beraforcongress.com/issues/",
+      "file": "archive/2024/bera-ca/issues.html",
+      "text_file": "archive/2024/bera-ca/issues.txt",
+      "bytes": 52043,
+      "sha256_html": "ca64ca763e1654d342e4dab71f9d5fabc53d6d5c0801aececc22ffccb94369eb",
+      "sha256_text": "751b9fa15543d11c34f0baff1d88897450120aed670dd50c6b2a58734a9e058f"
+    },
+    {
+      "original": "https://beraforcongress.com/no-to-the-republican-agenda/",
+      "timestamp": "20241105121212",
+      "wayback": "https://web.archive.org/web/20241105121212/https://beraforcongress.com/no-to-the-republican-agenda/",
+      "wayback_raw": "https://web.archive.org/web/20241105121212id_/https://beraforcongress.com/no-to-the-republican-agenda/",
+      "file": "archive/2024/bera-ca/no-to-the-republican-agenda.html",
+      "text_file": "archive/2024/bera-ca/no-to-the-republican-agenda.txt",
+      "bytes": 44668,
+      "sha256_html": "93f2d52c3803e6687488394df10ee87eb120e12b5bc1e1d7b6b8882e3a8ee7a2",
+      "sha256_text": "9091ff83e0632e00e364baaf2d9ca855ae4d39fb48149ce996b5994021e2f285"
+    },
+    {
+      "original": "https://beraforcongress.com/priorities-survey/",
+      "timestamp": "20241105121204",
+      "wayback": "https://web.archive.org/web/20241105121204/https://beraforcongress.com/priorities-survey/",
+      "wayback_raw": "https://web.archive.org/web/20241105121204id_/https://beraforcongress.com/priorities-survey/",
+      "file": "archive/2024/bera-ca/priorities-survey.html",
+      "text_file": "archive/2024/bera-ca/priorities-survey.txt",
+      "bytes": 44226,
+      "sha256_html": "e41313fb64a0ff90d52cdcaca1923c3f706991e9dd39b81319d4819f83b99b1f",
+      "sha256_text": "5615ed8664945ddbde0340bbacb6541ba8e53d1cd8678708ee4de9272ab1e0ce"
+    },
+    {
+      "original": "https://beraforcongress.com/priorities-survey-2/",
+      "timestamp": "20241105121201",
+      "wayback": "https://web.archive.org/web/20241105121201/https://beraforcongress.com/priorities-survey-2/",
+      "wayback_raw": "https://web.archive.org/web/20241105121201id_/https://beraforcongress.com/priorities-survey-2/",
+      "file": "archive/2024/bera-ca/priorities-survey-2.html",
+      "text_file": "archive/2024/bera-ca/priorities-survey-2.txt",
+      "bytes": 44253,
+      "sha256_html": "b7d264e51c4e1734390c69f2f899247bfa620ada45eefab4d4a3996df19af7f1",
+      "sha256_text": "0b10255fb95d4e0602e9f407e7039baa9b8acb41204916ec1eb7f127f72e56e2"
+    },
+    {
+      "original": "https://beraforcongress.com/shareyouragenda/",
+      "timestamp": "20241105121158",
+      "wayback": "https://web.archive.org/web/20241105121158/https://beraforcongress.com/shareyouragenda/",
+      "wayback_raw": "https://web.archive.org/web/20241105121158id_/https://beraforcongress.com/shareyouragenda/",
+      "file": "archive/2024/bera-ca/shareyouragenda.html",
+      "text_file": "archive/2024/bera-ca/shareyouragenda.txt",
+      "bytes": 44139,
+      "sha256_html": "a7a5248b0be762609238e1b83cbbf1eb811050d28e7e08589148923c286a14d2",
+      "sha256_text": "546e8ec0a63c4a8a030b23f7e2981cb608f75cc9d77822969502b6229c889936"
+    },
+    {
+      "original": "https://beraforcongress.com/standforsocialsecurity/",
+      "timestamp": "20241105121213",
+      "wayback": "https://web.archive.org/web/20241105121213/https://beraforcongress.com/standforsocialsecurity/",
+      "wayback_raw": "https://web.archive.org/web/20241105121213id_/https://beraforcongress.com/standforsocialsecurity/",
+      "file": "archive/2024/bera-ca/standforsocialsecurity.html",
+      "text_file": "archive/2024/bera-ca/standforsocialsecurity.txt",
+      "bytes": 44598,
+      "sha256_html": "882260bd1c51a09d6a7b6eeda1cfa514c0b06a5dbab8e6638c67ec00763430fc",
+      "sha256_text": "bb46b520281a0140434050b940b0f6d6fe091c73e13fbf9e1f6ebfca41b0db63"
+    },
+    {
+      "original": "https://beraforcongress.com/issues/energy-and-the-environment/",
+      "timestamp": "20241105120946",
+      "wayback": "https://web.archive.org/web/20241105120946/https://beraforcongress.com/issues/energy-and-the-environment/",
+      "wayback_raw": "https://web.archive.org/web/20241105120946id_/https://beraforcongress.com/issues/energy-and-the-environment/",
+      "file": "archive/2024/bera-ca/issues-energy-and-the-environment.html",
+      "text_file": "archive/2024/bera-ca/issues-energy-and-the-environment.txt",
+      "bytes": 53493,
+      "sha256_html": "0d66dac94045ce02cbdbedddb60dbf06e6700ade8430ce6e1269ae88abcfa009",
+      "sha256_text": "825bf5894955ec2329326f24c29b4a4ad5896a75f7cb1d4fa747cf9270464186"
+    },
+    {
+      "original": "https://beraforcongress.com/issues/healthcare/",
+      "timestamp": "20241105121011",
+      "wayback": "https://web.archive.org/web/20241105121011/https://beraforcongress.com/issues/healthcare/",
+      "wayback_raw": "https://web.archive.org/web/20241105121011id_/https://beraforcongress.com/issues/healthcare/",
+      "file": "archive/2024/bera-ca/issues-healthcare.html",
+      "text_file": "archive/2024/bera-ca/issues-healthcare.txt",
+      "bytes": 53196,
+      "sha256_html": "74fde14779252943c208d4723e4617269697cdf94e5064bfe3fbd54f5ddda182",
+      "sha256_text": "4a1590a9f9ce9172a5d033baef64d9231d9e1cd0868d421be48050a6b28f0ef2"
+    },
+    {
+      "original": "https://beraforcongress.com/issues/jobs-and-the-economy/",
+      "timestamp": "20241105121002",
+      "wayback": "https://web.archive.org/web/20241105121002/https://beraforcongress.com/issues/jobs-and-the-economy/",
+      "wayback_raw": "https://web.archive.org/web/20241105121002id_/https://beraforcongress.com/issues/jobs-and-the-economy/",
+      "file": "archive/2024/bera-ca/issues-jobs-and-the-economy.html",
+      "text_file": "archive/2024/bera-ca/issues-jobs-and-the-economy.txt",
+      "bytes": 55746,
+      "sha256_html": "3f4f80bc15f8305966a6176e47a3273f68226d5ab343bbf2fbe68b91cb5dafef",
+      "sha256_text": "37d36b73d51de0067290ae71d3d467f2adb5bce195a6e418120c49d097378b9e"
+    },
+    {
+      "original": "https://beraforcongress.com/issues/medicare-and-social-security/",
+      "timestamp": "20241105121008",
+      "wayback": "https://web.archive.org/web/20241105121008/https://beraforcongress.com/issues/medicare-and-social-security/",
+      "wayback_raw": "https://web.archive.org/web/20241105121008id_/https://beraforcongress.com/issues/medicare-and-social-security/",
+      "file": "archive/2024/bera-ca/issues-medicare-and-social-security.html",
+      "text_file": "archive/2024/bera-ca/issues-medicare-and-social-security.txt",
+      "bytes": 49857,
+      "sha256_html": "9284aaaf80e8702583163a349d1f9f3d20b73ee8924089f5b1bbf37dc74ca35c",
+      "sha256_text": "615f230d14cd6a5078360e246b5fef9691f369bac87ae2b40cc76cf867b5bbf2"
+    }
+  ],
+  "snapshots_found": {
+    "beraforcongress.com": 161
+  },
+  "generated_utc": "2026-11-26T08:42:43Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
