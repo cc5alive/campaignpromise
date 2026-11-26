@@ -1,0 +1,148 @@
+{
+  "name": "Raphael G. Warnock",
+  "domains_tried": [
+    "warnockforgeorgia.com"
+  ],
+  "pages": [
+    {
+      "original": "https://warnockforgeorgia.com/",
+      "timestamp": "20241019080258",
+      "wayback": "https://web.archive.org/web/20241019080258/https://warnockforgeorgia.com/",
+      "wayback_raw": "https://web.archive.org/web/20241019080258id_/https://warnockforgeorgia.com/",
+      "file": "archive/2024/warnock-ga/home.html",
+      "text_file": "archive/2024/warnock-ga/home.txt",
+      "bytes": 250858,
+      "sha256_html": "cc05e1313bc1abf43c974201c429ae36c58e808e90c78f764a55cc2fe4499333",
+      "sha256_text": "8bc146ce55474c0d3abc4df6be35b7216a42db3417f83e603c50ab9c9695af4a"
+    },
+    {
+      "original": "https://warnockforgeorgia.com/icymi-ajc-warnock-plans-impossible-to-miss-georgia-runoff-ad-blitz/",
+      "timestamp": "20240812043603",
+      "wayback": "https://web.archive.org/web/20240812043603/https://warnockforgeorgia.com/icymi-ajc-warnock-plans-impossible-to-miss-georgia-runoff-ad-blitz/",
+      "wayback_raw": "https://web.archive.org/web/20240812043603id_/https://warnockforgeorgia.com/icymi-ajc-warnock-plans-impossible-to-miss-georgia-runoff-ad-blitz/",
+      "file": "archive/2024/warnock-ga/icymi-ajc-warnock-plans-impossible-to-miss-georgia-runoff-ad-blitz.html",
+      "text_file": "archive/2024/warnock-ga/icymi-ajc-warnock-plans-impossible-to-miss-georgia-runoff-ad-blitz.txt",
+      "bytes": 162656,
+      "sha256_html": "56c76dd2381f644cd95814d590affe0881eb2105a5f4fe60e0145a578f6d6167",
+      "sha256_text": "392926b0d55f400ed4f0ff7ed3ef4ca988394e0a2a48e06ee66f26e8c131a1ec"
+    },
+    {
+      "original": "https://warnockforgeorgia.com/issues/",
+      "timestamp": "20240917114835",
+      "wayback": "https://web.archive.org/web/20240917114835/https://warnockforgeorgia.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20240917114835id_/https://warnockforgeorgia.com/issues/",
+      "file": "archive/2024/warnock-ga/issues.html",
+      "text_file": "archive/2024/warnock-ga/issues.txt",
+      "bytes": 183818,
+      "sha256_html": "7c59257f0216ab685f14efcb392d52432ef5d30cc94e33e46912eeb14dce596a",
+      "sha256_text": "09a1e03af64811c03c04d0ff4b6efb6b1cbce383291a9d29f0e06099e1412e08"
+    },
+    {
+      "original": "https://warnockforgeorgia.com/issues/agriculture/",
+      "timestamp": "20240824033409",
+      "wayback": "https://web.archive.org/web/20240824033409/https://warnockforgeorgia.com/issues/agriculture/",
+      "wayback_raw": "https://web.archive.org/web/20240824033409id_/https://warnockforgeorgia.com/issues/agriculture/",
+      "file": "archive/2024/warnock-ga/issues-agriculture.html",
+      "text_file": "archive/2024/warnock-ga/issues-agriculture.txt",
+      "bytes": 162990,
+      "sha256_html": "4fb6e275e53346e2b1202fcda2bb09f0d79e42f7177937a5fe60048aabce0a87",
+      "sha256_text": "c2630992c4a859aa42d8e410b1833e6b8e07573c16d169a0e55b082e56540df4"
+    },
+    {
+      "original": "https://warnockforgeorgia.com/issues/climate/",
+      "timestamp": "20241006065105",
+      "wayback": "https://web.archive.org/web/20241006065105/https://warnockforgeorgia.com/issues/climate/",
+      "wayback_raw": "https://web.archive.org/web/20241006065105id_/https://warnockforgeorgia.com/issues/climate/",
+      "file": "archive/2024/warnock-ga/issues-climate.html",
+      "text_file": "archive/2024/warnock-ga/issues-climate.txt",
+      "bytes": 162143,
+      "sha256_html": "2d0a45823a8db375d4c5ebe82da884728fec05ab713f2c59e1af109e45927e03",
+      "sha256_text": "198d0cd4e9706a6201ce97814b2ddbe132cd4afa739ea864586ed93ed43aa821"
+    },
+    {
+      "original": "https://warnockforgeorgia.com/issues/criminal-justice-reform/",
+      "timestamp": "20240923225921",
+      "wayback": "https://web.archive.org/web/20240923225921/https://warnockforgeorgia.com/issues/criminal-justice-reform/",
+      "wayback_raw": "https://web.archive.org/web/20240923225921id_/https://warnockforgeorgia.com/issues/criminal-justice-reform/",
+      "file": "archive/2024/warnock-ga/issues-criminal-justice-reform.html",
+      "text_file": "archive/2024/warnock-ga/issues-criminal-justice-reform.txt",
+      "bytes": 162723,
+      "sha256_html": "4bec464d5023eb51c719dda89f8afbb1e1e4d9d7fe44e1ddd7c133e399e15ea1",
+      "sha256_text": "af5a85d7b82dbb352756ad5728184c8659dff79a8b972b2f4ede44346d8e0353"
+    },
+    {
+      "original": "https://warnockforgeorgia.com/issues/cutting-cost/",
+      "timestamp": "20241006071204",
+      "wayback": "https://web.archive.org/web/20241006071204/https://warnockforgeorgia.com/issues/cutting-cost/",
+      "wayback_raw": "https://web.archive.org/web/20241006071204id_/https://warnockforgeorgia.com/issues/cutting-cost/",
+      "file": "archive/2024/warnock-ga/issues-cutting-cost.html",
+      "text_file": "archive/2024/warnock-ga/issues-cutting-cost.txt",
+      "bytes": 163339,
+      "sha256_html": "465e7d9e8e032d1eed3a2cc581907d6b7963db9ece24efd4973d81818cd3f223",
+      "sha256_text": "6a08dd4931dd2e834d3e7956b667e5fe7ba7004ef2f9d31bc41e8b3d4c7a2cde"
+    },
+    {
+      "original": "https://warnockforgeorgia.com/issues/education/",
+      "timestamp": "20240913224453",
+      "wayback": "https://web.archive.org/web/20240913224453/https://warnockforgeorgia.com/issues/education/",
+      "wayback_raw": "https://web.archive.org/web/20240913224453id_/https://warnockforgeorgia.com/issues/education/",
+      "file": "archive/2024/warnock-ga/issues-education.html",
+      "text_file": "archive/2024/warnock-ga/issues-education.txt",
+      "bytes": 164214,
+      "sha256_html": "002acd7baf1dfb80c071357272c69033d48aadaa3111b7b8fa54d0e64de6d3d2",
+      "sha256_text": "f31ef673f3ab8a299f8718bee5203ffea05c3f53b901fe8b77e43d9dbfe405c9"
+    },
+    {
+      "original": "https://warnockforgeorgia.com/issues/healthcare/",
+      "timestamp": "20241006075304",
+      "wayback": "https://web.archive.org/web/20241006075304/https://warnockforgeorgia.com/issues/healthcare/",
+      "wayback_raw": "https://web.archive.org/web/20241006075304id_/https://warnockforgeorgia.com/issues/healthcare/",
+      "file": "archive/2024/warnock-ga/issues-healthcare.html",
+      "text_file": "archive/2024/warnock-ga/issues-healthcare.txt",
+      "bytes": 164097,
+      "sha256_html": "61a55e32cbeb16f7820ca09be97410446cb9ee139e81c979983c6c9fc80ec01b",
+      "sha256_text": "2ebff99246fd2a2ed6598a0d74d1c72f6dc42c355c82f41511442d27d0da2843"
+    },
+    {
+      "original": "https://warnockforgeorgia.com/issues/immigration/",
+      "timestamp": "20240923225922",
+      "wayback": "https://web.archive.org/web/20240923225922/https://warnockforgeorgia.com/issues/immigration/",
+      "wayback_raw": "https://web.archive.org/web/20240923225922id_/https://warnockforgeorgia.com/issues/immigration/",
+      "file": "archive/2024/warnock-ga/issues-immigration.html",
+      "text_file": "archive/2024/warnock-ga/issues-immigration.txt",
+      "bytes": 161403,
+      "sha256_html": "fc4922467c5a7ec8fbd8ec0edc0c1696cb438b8eb4524782d250f863b4a348cb",
+      "sha256_text": "e9753a150d61e647cbd815be4281056b39154830c0e8a73345b2f5cf00fcf8d6"
+    },
+    {
+      "original": "https://warnockforgeorgia.com/issues/infrastructure/",
+      "timestamp": "20241006072627",
+      "wayback": "https://web.archive.org/web/20241006072627/https://warnockforgeorgia.com/issues/infrastructure/",
+      "wayback_raw": "https://web.archive.org/web/20241006072627id_/https://warnockforgeorgia.com/issues/infrastructure/",
+      "file": "archive/2024/warnock-ga/issues-infrastructure.html",
+      "text_file": "archive/2024/warnock-ga/issues-infrastructure.txt",
+      "bytes": 162143,
+      "sha256_html": "c560ddddc0681fc243201edb44086eb07a5cc6bcf9d1c9ac9d24e9624b79b490",
+      "sha256_text": "1d52abf95677211dc0ff9b5d7f2fbb2f8916a470cde8e1b76f206cff0e811347"
+    },
+    {
+      "original": "https://warnockforgeorgia.com/issues/jobs/",
+      "timestamp": "20240917095647",
+      "wayback": "https://web.archive.org/web/20240917095647/https://warnockforgeorgia.com/issues/jobs/",
+      "wayback_raw": "https://web.archive.org/web/20240917095647id_/https://warnockforgeorgia.com/issues/jobs/",
+      "file": "archive/2024/warnock-ga/issues-jobs.html",
+      "text_file": "archive/2024/warnock-ga/issues-jobs.txt",
+      "bytes": 163996,
+      "sha256_html": "a64d6a99caacc92fc3e31aa11539a6c80f00bc55420bb60f453f91388fb91e0d",
+      "sha256_text": "0dc0ffc8beb4a42ac6283f4cbc8b5179791ed7fb19bc91d3e6d8fa39b569423b"
+    }
+  ],
+  "snapshots_found": {
+    "warnockforgeorgia.com": 48
+  },
+  "generated_utc": "2026-11-26T08:47:24Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
