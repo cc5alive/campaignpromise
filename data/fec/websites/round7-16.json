@@ -1,0 +1,50 @@
+{
+ "committees": {
+  "C00551275": {
+   "name": "FRENCH HILL FOR ARKANSAS",
+   "website": "WWW.ELECTFRENCH.COM",
+   "error": null
+  },
+  "C00548180": {
+   "name": "WESTERMAN FOR CONGRESS",
+   "website": "HTTPS://WWW.BRUCEWESTERMAN.COM",
+   "error": null
+  },
+  "C00554709": {
+   "name": "MARK DESAULNIER FOR CONGRESS",
+   "website": "HTTP://DESAULNIERFORCONGRESS.COM",
+   "error": null
+  },
+  "C00556506": {
+   "name": "TED LIEU FOR CONGRESS",
+   "website": "TEDLIEU.COM",
+   "error": null
+  },
+  "C00557652": {
+   "name": "NORMA TORRES FOR CONGRESS",
+   "website": "NORMATORRES.COM",
+   "error": null
+  },
+  "C00543967": {
+   "name": "BUDDY CARTER FOR SENATE",
+   "website": "BUDDYCARTERFORCONGRESS.COM",
+   "error": null
+  },
+  "C00543892": {
+   "name": "LOUDERMILK FOR CONGRESS",
+   "website": "WWW.LOUDERMILKFORCONGRESS.COM",
+   "error": null
+  },
+  "C00504019": {
+   "name": "RICK W. ALLEN FOR CONGRESS",
+   "website": "WWW.RICKWALLENFORCONGRESS.COM",
+   "error": null
+  },
+  "C00546499": {
+   "name": "MIKE BOST FOR CONGRESS COMMITTEE",
+   "website": "HTTP://BOSTFORCONGRESS.COM",
+   "error": null
+  }
+ },
+ "searches": {}
+}
