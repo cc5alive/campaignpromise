@@ -1,0 +1,49 @@
+{
+  "name": "Brian J. Mast",
+  "domains_tried": [
+    "mastforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://mastforcongress.com/",
+      "timestamp": "20241105101405",
+      "wayback": "https://web.archive.org/web/20241105101405/https://mastforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105101405id_/https://mastforcongress.com/",
+      "file": "archive/2024/mast-fl/home.html",
+      "text_file": "archive/2024/mast-fl/home.txt",
+      "bytes": 84222,
+      "sha256_html": "3266696f0888f9acf03b6e6f4a0dfd66249472d6f896458bd54c3f2540c10666",
+      "sha256_text": "8c60cd001cefce2ad1dc816a22223699ee1324952dd1c3463188e497bfb11787"
+    },
+    {
+      "original": "https://mastforcongress.com/issues/",
+      "timestamp": "20241105102935",
+      "wayback": "https://web.archive.org/web/20241105102935/https://mastforcongress.com/issues/",
+      "wayback_raw": "https://web.archive.org/web/20241105102935id_/https://mastforcongress.com/issues/",
+      "file": "archive/2024/mast-fl/issues.html",
+      "text_file": "archive/2024/mast-fl/issues.txt",
+      "bytes": 71544,
+      "sha256_html": "320730b4abcf9d0aa9da15d8de4f8a7b525f9d33f84bde99995999a06ea73ffc",
+      "sha256_text": "dd2f4c3cb668f1806e713a09603c4559b9194403092e401d5f507d348b892812"
+    },
+    {
+      "original": "https://mastforcongress.com/about/",
+      "timestamp": "20241105102910",
+      "wayback": "https://web.archive.org/web/20241105102910/https://mastforcongress.com/about/",
+      "wayback_raw": "https://web.archive.org/web/20241105102910id_/https://mastforcongress.com/about/",
+      "file": "archive/2024/mast-fl/about.html",
+      "text_file": "archive/2024/mast-fl/about.txt",
+      "bytes": 75754,
+      "sha256_html": "499b6cdac157050d31ef5b702958222c7ccc44b73febcf4e745e51fcfb3c2b4f",
+      "sha256_text": "7f7e961ebf7e7295b292d39d2251909fd41d053752ceda01f84ab3efa17e0714"
+    }
+  ],
+  "snapshots_found": {
+    "mastforcongress.com": 1
+  },
+  "generated_utc": "2026-11-26T08:00:01Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
