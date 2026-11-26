@@ -1,0 +1,148 @@
+{
+  "name": "Tim Walberg",
+  "domains_tried": [
+    "walbergforcongress.com"
+  ],
+  "pages": [
+    {
+      "original": "https://www.walbergforcongress.com/",
+      "timestamp": "20241105000754",
+      "wayback": "https://web.archive.org/web/20241105000754/https://www.walbergforcongress.com/",
+      "wayback_raw": "https://web.archive.org/web/20241105000754id_/https://www.walbergforcongress.com/",
+      "file": "archive/2024/walberg-mi/home.html",
+      "text_file": "archive/2024/walberg-mi/home.txt",
+      "bytes": 30505,
+      "sha256_html": "6827638a0cf72a3d1952c95aca162bf1d0e357ec5f7906e7f16e7a8d1c3261d0",
+      "sha256_text": "8464de5fb924d87e8d7c23e012884f2c3d697912e9b7420643a47433f4fbaaab"
+    },
+    {
+      "original": "https://www.walbergforcongress.com/issues",
+      "timestamp": "20241031180816",
+      "wayback": "https://web.archive.org/web/20241031180816/https://www.walbergforcongress.com/issues",
+      "wayback_raw": "https://web.archive.org/web/20241031180816id_/https://www.walbergforcongress.com/issues",
+      "file": "archive/2024/walberg-mi/issues.html",
+      "text_file": "archive/2024/walberg-mi/issues.txt",
+      "bytes": 32898,
+      "sha256_html": "a2e67adc3289e261cdbe342388303b6d154201bd6e2399ec928b4c59980a765e",
+      "sha256_text": "88683f8efc95aaaae1f3f7a922f27597392b00f1f15b5b655cd37f4aeecba95d"
+    },
+    {
+      "original": "https://www.walbergforcongress.com/issues/affordable-and-quality-health-care",
+      "timestamp": "20241104233646",
+      "wayback": "https://web.archive.org/web/20241104233646/https://www.walbergforcongress.com/issues/affordable-and-quality-health-care",
+      "wayback_raw": "https://web.archive.org/web/20241104233646id_/https://www.walbergforcongress.com/issues/affordable-and-quality-health-care",
+      "file": "archive/2024/walberg-mi/issues-affordable-and-quality-health-care.html",
+      "text_file": "archive/2024/walberg-mi/issues-affordable-and-quality-health-care.txt",
+      "bytes": 33880,
+      "sha256_html": "7a8a534d2302ab0e7dc155bd7ae4f49227cdcd79d5c94ef041ff1e12661bc948",
+      "sha256_text": "1055ab39321335d5a0ed60e676be19a7b6a86e40cf7fb10409be1d0b6c7d57b4"
+    },
+    {
+      "original": "https://www.walbergforcongress.com/issues/building-healthy-economy",
+      "timestamp": "20241105000018",
+      "wayback": "https://web.archive.org/web/20241105000018/https://www.walbergforcongress.com/issues/building-healthy-economy",
+      "wayback_raw": "https://web.archive.org/web/20241105000018id_/https://www.walbergforcongress.com/issues/building-healthy-economy",
+      "file": "archive/2024/walberg-mi/issues-building-healthy-economy.html",
+      "text_file": "archive/2024/walberg-mi/issues-building-healthy-economy.txt",
+      "bytes": 36406,
+      "sha256_html": "8aaf54fb106ce88f8330bee37934d609c6a2c08cdf5f664a86c8be3449a1890c",
+      "sha256_text": "6f5f4d97a9e123023420e266d3f974468c4981fa2acea5194de15c86c8addd70"
+    },
+    {
+      "original": "https://www.walbergforcongress.com/issues/defending-our-values",
+      "timestamp": "20241105002509",
+      "wayback": "https://web.archive.org/web/20241105002509/https://www.walbergforcongress.com/issues/defending-our-values",
+      "wayback_raw": "https://web.archive.org/web/20241105002509id_/https://www.walbergforcongress.com/issues/defending-our-values",
+      "file": "archive/2024/walberg-mi/issues-defending-our-values.html",
+      "text_file": "archive/2024/walberg-mi/issues-defending-our-values.txt",
+      "bytes": 30962,
+      "sha256_html": "a41c8fc63a977c7bd2772cff23d38c66afc58d9774cb09ff14655096c6efa703",
+      "sha256_text": "b048561cee78e1a914aa60a29e260ee6ddee0b19fa89527bd41953758845caad"
+    },
+    {
+      "original": "https://www.walbergforcongress.com/issues/fiscal-responsibility",
+      "timestamp": "20241105002353",
+      "wayback": "https://web.archive.org/web/20241105002353/https://www.walbergforcongress.com/issues/fiscal-responsibility",
+      "wayback_raw": "https://web.archive.org/web/20241105002353id_/https://www.walbergforcongress.com/issues/fiscal-responsibility",
+      "file": "archive/2024/walberg-mi/issues-fiscal-responsibility.html",
+      "text_file": "archive/2024/walberg-mi/issues-fiscal-responsibility.txt",
+      "bytes": 31027,
+      "sha256_html": "f12af3f83235e6a7eaf3211493e9cbaad0d6e5f0e60439c722551602684a1757",
+      "sha256_text": "1613bb933bfeeaa225b8442712344eb177b16a0f17ed09c08ef9490d9a2d9a37"
+    },
+    {
+      "original": "https://www.walbergforcongress.com/issues/fixing-biden-crises",
+      "timestamp": "20241031182031",
+      "wayback": "https://web.archive.org/web/20241031182031/https://www.walbergforcongress.com/issues/fixing-biden-crises",
+      "wayback_raw": "https://web.archive.org/web/20241031182031id_/https://www.walbergforcongress.com/issues/fixing-biden-crises",
+      "file": "archive/2024/walberg-mi/issues-fixing-biden-crises.html",
+      "text_file": "archive/2024/walberg-mi/issues-fixing-biden-crises.txt",
+      "bytes": 31774,
+      "sha256_html": "435041e5f8e341a5a412da85fec6c7b7b81f85f84eeb41795e579a28c8e99e87",
+      "sha256_text": "96079ac048757b9e6d69cfcd6e0d1da6a7dc9559b8d73a166ab786c59b29e3db"
+    },
+    {
+      "original": "https://www.walbergforcongress.com/issues/gtm.start",
+      "timestamp": "20241031181419",
+      "wayback": "https://web.archive.org/web/20241031181419/https://www.walbergforcongress.com/issues/gtm.start",
+      "wayback_raw": "https://web.archive.org/web/20241031181419id_/https://www.walbergforcongress.com/issues/gtm.start",
+      "file": "archive/2024/walberg-mi/issues-gtm-start.html",
+      "text_file": "archive/2024/walberg-mi/issues-gtm-start.txt",
+      "bytes": 32935,
+      "sha256_html": "b5dae114f8e6f58399b63dd4ce77632fc118a33fab4e72cd75bb02098be0211a",
+      "sha256_text": "88683f8efc95aaaae1f3f7a922f27597392b00f1f15b5b655cd37f4aeecba95d"
+    },
+    {
+      "original": "https://www.walbergforcongress.com/issues/protecting-our-national-security",
+      "timestamp": "20241104230844",
+      "wayback": "https://web.archive.org/web/20241104230844/https://www.walbergforcongress.com/issues/protecting-our-national-security",
+      "wayback_raw": "https://web.archive.org/web/20241104230844id_/https://www.walbergforcongress.com/issues/protecting-our-national-security",
+      "file": "archive/2024/walberg-mi/issues-protecting-our-national-security.html",
+      "text_file": "archive/2024/walberg-mi/issues-protecting-our-national-security.txt",
+      "bytes": 31526,
+      "sha256_html": "39f239327c5fa1ce070adb10f8d6565539cfe2bfa614de438ddb1563c3ba6ece",
+      "sha256_text": "1cce3865ea04d8cbe6226ae48d14c2755b86b39aca8f0e469c117a5155580dae"
+    },
+    {
+      "original": "https://www.walbergforcongress.com/news/bill-would-prioritize-medal-honor-recipients-va-healthcare",
+      "timestamp": "20241101122819",
+      "wayback": "https://web.archive.org/web/20241101122819/https://www.walbergforcongress.com/news/bill-would-prioritize-medal-honor-recipients-va-healthcare",
+      "wayback_raw": "https://web.archive.org/web/20241101122819id_/https://www.walbergforcongress.com/news/bill-would-prioritize-medal-honor-recipients-va-healthcare",
+      "file": "archive/2024/walberg-mi/news-bill-would-prioritize-medal-honor-recipients-va-healthcare.html",
+      "text_file": "archive/2024/walberg-mi/news-bill-would-prioritize-medal-honor-recipients-va-healthcare.txt",
+      "bytes": 33908,
+      "sha256_html": "15594b6bb9d2fe2fa36daec078c7e191aea9a27edc3220b8ea11f4daf46420e8",
+      "sha256_text": "2d69105a5a7c68e998594c1c0056dc6590e4795a730b336d9f07bd299359ec24"
+    },
+    {
+      "original": "https://www.walbergforcongress.com/news/rep-walberg-newsmax-violence-wont-force-me-background-pro-life-issues",
+      "timestamp": "20241101050218",
+      "wayback": "https://web.archive.org/web/20241101050218/https://www.walbergforcongress.com/news/rep-walberg-newsmax-violence-wont-force-me-background-pro-life-issues",
+      "wayback_raw": "https://web.archive.org/web/20241101050218id_/https://www.walbergforcongress.com/news/rep-walberg-newsmax-violence-wont-force-me-background-pro-life-issues",
+      "file": "archive/2024/walberg-mi/news-rep-walberg-newsmax-violence-wont-force-me-background-pro-life-issues.html",
+      "text_file": "archive/2024/walberg-mi/news-rep-walberg-newsmax-violence-wont-force-me-background-pro-life-issues.txt",
+      "bytes": 39244,
+      "sha256_html": "3c3463383905736f47520ba6eb2327a3c0ebdbb06c65c7a25f8b1582b8134c33",
+      "sha256_text": "65e022338a6f9fc76b91ffe48f66b2aebde5420d9d748eba0e44b99144a6d753"
+    },
+    {
+      "original": "https://www.walbergforcongress.com/news/republicans-have-plan-create-jobs",
+      "timestamp": "20241101142130",
+      "wayback": "https://web.archive.org/web/20241101142130/https://www.walbergforcongress.com/news/republicans-have-plan-create-jobs",
+      "wayback_raw": "https://web.archive.org/web/20241101142130id_/https://www.walbergforcongress.com/news/republicans-have-plan-create-jobs",
+      "file": "archive/2024/walberg-mi/news-republicans-have-plan-create-jobs.html",
+      "text_file": "archive/2024/walberg-mi/news-republicans-have-plan-create-jobs.txt",
+      "bytes": 35518,
+      "sha256_html": "e056821f123d2b22aee095e1d9d92ab60f2a13b0c3295d4e315b53ee76f79ea1",
+      "sha256_text": "ea4cc3281963adf11881045991af55eb061de98fcb1a10bbe39ff351123e8e5f"
+    }
+  ],
+  "snapshots_found": {
+    "walbergforcongress.com": 148
+  },
+  "generated_utc": "2026-11-26T08:28:05Z",
+  "window": {
+    "from": "20240801",
+    "to": "20241105"
+  }
+}
